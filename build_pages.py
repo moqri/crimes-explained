@@ -16,11 +16,18 @@ index = open(os.path.join(HERE, "index.html"), encoding="utf-8").read()
 MA = "--jur" in sys.argv and sys.argv[sys.argv.index("--jur") + 1] == "ma"
 
 # Massachusetts list page: index.html with its own header, about text and footer (the regions marked <!-- jur:… -->).
+# The header names the chapters included so far, e.g. "Chapters 265 (Crimes Against the Person) and 266 (Crimes Against Property)".
+ma_chapters = {}
+if MA:
+    for c in json.load(open(os.path.join(HERE, "ma", "crimes.json"), encoding="utf-8"))["crimes"]:
+        ma_chapters.setdefault(c["chapter"], c["chapterTitle"])
+chap_link = lambda n, t: f'<a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter{n}" target="_blank" rel="noopener" title="Chapter {n}: official text on malegislature.gov">{"Chapter" if len(ma_chapters) == 1 else ""} {n} ({t})</a>'.replace("> ", ">")
+chap_list = (lambda xs: xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1])([chap_link(n, t) for n, t in ma_chapters.items()]) if ma_chapters else ""
 MA_REGIONS = {
     "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a></nav>',
-    "lede": '<p class="lede">Every crime in <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">Chapter 265 (Crimes Against the Person)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
+    "lede": f'<p class="lede">Every crime in {"" if len(ma_chapters) == 1 else "chapters "}{chap_list} of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
     "about": """
-          <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> This is a first chapter; more chapters of the criminal code will follow.</p>
+          <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
           <ul>
       <li><b>Select any section</b> to open its own page with the official text beside a breakdown of each crime in it: the act, who can commit it when the law limits that, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences. Breakdowns use only the text of that section.</li>
       <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span> or purpose required (such as <i>wilfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and <span class="pen">penalties</span> in red.</li>
@@ -31,7 +38,7 @@ MA_REGIONS = {
         """,
     "footer": """
     <p>Section headings and statutory text are the official text of the Massachusetts General Laws from the <a id="srclink" href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener">Massachusetts Legislature</a>, current as of the download date shown under About. Summaries, crime types, maximum-penalty labels, crime breakdowns, and highlighting were prepared with AI assistance from that text and may contain errors, so rely on the official text.</p>
-    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, sentencing administration). Many Massachusetts crimes are defined outside chapter 265, for example in chapters 266 (property), 90 (motor vehicles), and 94C (drugs).</p>
+    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, sentencing administration). Many Massachusetts crimes are defined in chapters not yet included, for example chapters 268 (crimes against public justice), 269 (public peace and weapons), 272 (public order), 90 (motor vehicles), and 94C (drugs).</p>
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   """,
 }

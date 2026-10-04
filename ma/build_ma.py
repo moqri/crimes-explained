@@ -67,7 +67,7 @@ def paragraphs(text, code, on_date, notes):
     return paras
 
 def title_case(s):
-    small = {"and", "of", "in", "or", "the", "to", "for", "on", "a", "an", "by", "with", "against"}
+    small = {"and", "of", "in", "or", "the", "to", "for", "on", "a", "an", "by", "with"}
     return " ".join(w.capitalize() if i == 0 or w.lower() not in small else w.lower() for i, w in enumerate(s.lower().split()))
 
 out, fetched = [], set()
@@ -88,9 +88,11 @@ for path in sorted(glob.glob(os.path.join(HERE, "raw", "*.json")), key=lambda p:
             "url": f"{SITE}/Part{part}/Title{title}/Chapter{chap}/Section{slug}" if title else f"{SITE}/Chapter{chap}/Section{slug}",
         })
 
-if "--batches" in sys.argv:
+if "--batches" in sys.argv:                 # sections not yet in plain.json, in batches for review
     d = sys.argv[sys.argv.index("--batches") + 1]
     os.makedirs(d, exist_ok=True)
+    reviewed = json.load(open(os.path.join(HERE, "plain.json"))) if os.path.exists(os.path.join(HERE, "plain.json")) else {}
+    out = [c for c in out if c["section"] not in reviewed]
     for k in range(0, len(out), 30):
         batch = [{"section": c["section"], "cite": c["cite"], "title": c["title"], "text": [{"i": p["i"], "t": p["t"]} for p in c["text"]]} for c in out[k:k + 30]]
         json.dump(batch, open(os.path.join(d, f"in_{k // 30 + 1:02d}.json"), "w"), ensure_ascii=False, indent=1)
@@ -111,9 +113,9 @@ for c in out:
     tidy_acts(c)
 print(f"{unmatched} act phrases not found; {removed} borrowed breakdown items removed; {filled} act highlights added from breakdowns")
 missing = [c["section"] for c in out if c["section"] not in plain]
-if missing: print(len(missing), "sections not reviewed yet:", missing[:10])
+if missing: print(len(missing), "sections not reviewed yet (left out until they are in plain.json):", missing[:10])
 dropped = [c["section"] for c in out if c.get("isOffense") is False]
-out = [c for c in out if c.get("isOffense") is not False]
+out = [c for c in out if c["section"] in plain and c.get("isOffense") is not False]
 print(len(dropped), "sections excluded as not defining a crime")
 
 json.dump({"jurisdiction": "ma", "frequency": None,

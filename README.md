@@ -71,6 +71,10 @@ python3 build_pages.py --jur ma     # write ma/index.html and ma/<chapter>/*.htm
 
 New chapters need `ma/plain.json` and `ma/elements.json` entries; `python3 ma/build_ma.py --batches DIR` writes the parsed sections in batches for review. Massachusetts has no source like the Sentencing Commission's datafile, so its list has no "Most common first" sort.
 
+## Review tools
+
+`review/federal/` and `review/ma/` hold the instructions, validators, and (federal) merge script used to produce `elements.json`, `plain.json`, and their Massachusetts counterparts with review agents. `review/ma/266/` holds the chapter 266 batches reviewed so far. See `HANDOFF.md` for the current state and next steps.
+
 ## Source and limits
 
 - Text: United States Code, 2024 edition, current through January 6, 2025, from [GovInfo](https://www.govinfo.gov/app/collection/uscode). Two sections (§1992 and §2258A) were changed by Pub. L. 119–60 (December 18, 2025); the site flags both.

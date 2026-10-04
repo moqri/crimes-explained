@@ -1,0 +1,1452 @@
+{
+ "266/71A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly using the name of a benevolent, humane, fraternal, charitable or labor organization, or a deceptive imitation of it, is punishable by up to 1 year of imprisonment, a $200 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "assume, adopt or use the name of a benevolent, humane, fraternal, charitable or labor organization"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 1 year of imprisonment or a fine of up to $200, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "The superior court has jurisdiction in equity to enjoin any violation"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Assumes, adopts or uses the name of a benevolent, humane, fraternal, charitable or labor organization, whether incorporated or unincorporated, or a name so nearly resembling it as to be a colorable imitation or calculated to deceive persons not members",
+     "ways": [
+      "assume",
+      "adopt",
+      "use"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/72": {
+  "review": {
+   "isOffense": true,
+   "plain": "Fraudulently using, without authority, the name of a fraternity or similar organization in publications, soliciting members under it, or offering its degrees or work is punishable by up to 1 year of imprisonment, a $500 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "fraudulently uses or aids in any way in the use of the name, title or common designation of any fraternity, association, society, order, organization or union",
+    "fraudulently publishes, sells, circulates or distributes any written or printed letter, notice, matter or device, in any way soliciting members",
+    "fraudulently offers to sell, confer, communicate or give information where, of whom or by what means any degree or work"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Fraudulently"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 1 year of imprisonment or a fine of up to $500, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Uses or aids in any way in the use of the name, title or common designation of any fraternity, association, society, order, organization or union which has a governing body and priority in such use in the commonwealth, or any name so nearly resembling it as to be calculated or likely to deceive, in a newspaper or other publication or in any written or printed letter, notice, matter or device",
+     "ways": [
+      "uses",
+      "aids in the use"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority of the grand or supreme governing lodge, council, union or other governing body"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Publishes, sells, circulates or distributes any written or printed letter, notice, matter or device soliciting members of such fraternity or organization, or of any alleged or pretended one, using any such name, title, designation, or near resemblance",
+     "ways": [
+      "publishes",
+      "sells",
+      "circulates",
+      "distributes"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without such authority"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Offers to sell, confer, communicate or give information where, of whom or by what means any degree or work of such fraternity or organization, or of any alleged or pretended one using any such name or near resemblance, can or may be obtained, conferred or communicated",
+     "ways": [
+      "offers to sell",
+      "confer",
+      "communicate",
+      "give information"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without such authority"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/73": {
+  "review": {
+   "isOffense": true,
+   "plain": "Obtaining goods by falsely pretending to carry on a business in the ordinary course of trade, with intent to defraud, is punishable by up to 5 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "obtains from any person goods or chattels"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains from any person goods or chattels by a false pretence of carrying on business and dealing in the ordinary course of trade",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/74": {
+  "review": {
+   "isOffense": true,
+   "plain": "A corporate officer, agent, clerk or servant who wilfully uses the corporation's credit for personal benefit without authority, or fraudulently lends, appropriates or converts its money or property, faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "uses the name of such corporation, or his own name as such officer, agent, clerk or servant, to obtain money upon the credit of such corporation for his own use or benefit",
+    "fraudulently lends, invests or appropriates the money or disposes of the property of such corporation, or fraudulently converts it"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An officer, agent, clerk or servant of a corporation organized or doing business in the commonwealth",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Uses the name of such corporation, or his own name as such officer, agent, clerk or servant, to obtain money upon the credit of such corporation for his own use or benefit",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without authority from such corporation"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Lends, invests or appropriates the money or disposes of the property of such corporation, or converts it",
+     "ways": [
+      "lends",
+      "invests",
+      "appropriates",
+      "disposes of",
+      "converts"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    }
+   ]
+  }
+ },
+ "266/75": {
+  "review": {
+   "isOffense": true,
+   "plain": "Fraudulently obtaining property by a game, sleight of hand, pretended fortune telling, or a trick with cards or other implements is punished the same as larceny of property of like value.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "fraudulently obtains from another person property of any description"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Fraudulently"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Punished as in the case of larceny of property of like value",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains from another person property of any description by a game, device, sleight of hand, pretended fortune telling or by any trick or other means by the use of cards or other implements or instruments",
+     "ways": [
+      "game",
+      "device",
+      "sleight of hand",
+      "pretended fortune telling",
+      "trick or other means using cards or other implements or instruments"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/75A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Operating a vending machine, turnstile, coin telephone or similar coin receptacle with a slug or unauthorized trick, or taking goods or service from one without paying, is punishable by up to 30 days in a house of correction and a $100 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 0.08,
+   "acts": [
+    "operates or causes to be operated, or attempts to operate or to cause to be operated, any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle",
+    "takes, obtains or receives from or in connection with any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"person\": includes any municipal corporation or political subdivision of the commonwealth"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 30 days in the house of correction, or both",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Operates or causes to be operated any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle designed to receive lawful coin or tokens, by means of a slug or any false, counterfeited, mutilated or sweated coin or token or by any means, method, trick or device not lawfully authorized by the owner, lessee or licensee",
+     "ways": [
+      "operates",
+      "causes to be operated"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Takes, obtains or receives from or in connection with any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle any goods, wares, merchandise, transportation, gas, electric current, article of value, or the use or enjoyment of any transportation, telephone or telegraph facilities or service, or of any musical instrument, phonograph or other property",
+     "ways": [
+      "takes",
+      "obtains",
+      "receives"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without depositing in and surrendering to the machine or receptacle lawful coin or tokens to the amount or value required by the owner, lessee or licensee"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/75B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Making, advertising, selling or giving away slugs or devices meant to cheat coin-operated machines, turnstiles or coin telephones is punishable by up to 1 year in a house of correction, a $500 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "manufactures for sale, advertises for sale, sells, offers for sale, or gives away any slug, device or substance whatsoever"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"person\": includes any municipal corporation or political subdivision of the commonwealth"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500, or up to 1 year in the house of correction, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures for sale, advertises for sale, sells, offers for sale, or gives away any slug, device or substance designed or calculated to be placed or deposited in any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle designed to receive lawful coin or tokens",
+     "ways": [
+      "manufactures for sale",
+      "advertises for sale",
+      "sells",
+      "offers for sale",
+      "gives away"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that such slug, device or substance shall be used to cheat or defraud the person entitled to the contents of any such machine or receptacle"
+     ]
+    }
+   ]
+  }
+ },
+ "266/75C": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling a gift certificate that expires in less than 7 years, or refusing to redeem a sold gift certificate before its expiration date, is punishable by a fine of up to $300.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "sells or offers to sell a gift certificate",
+    "refuses to redeem the certificate before it has reached the expiration date"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"gift certificate\": as defined in section 1 of chapter 255D"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $300",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or offers to sell a gift certificate which imposes a time limit of less than 7 years within which it may be redeemed",
+     "ways": [
+      "sells",
+      "offers to sell"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply when the purchaser of the gift certificate is not obligated to pay for it until the time of use"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Refuses to redeem the certificate before it has reached the expiration date",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person has sold the gift certificate"
+     ],
+     "exceptions": [
+      "This section does not apply when the purchaser of the gift certificate is not obligated to pay for it until the time of use"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/75D": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling a gift certificate that carries dormancy, administrative, service or other fees reducing its redeemable value is punishable by a fine of up to $300 per violation.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "sells or offers to sell a gift certificate"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"gift certificate\": as defined in section 1 of chapter 255D"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $300 per violation",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or offers to sell a gift certificate which imposes dormancy fees, latency fees, administrative fees, periodic fees, service fees or other fees that have the effect of reducing the total value amount for which the holder may redeem it",
+     "ways": [
+      "sells",
+      "offers to sell"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/75E": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling a gift certificate with fees or charges without printing notice of those fees on the certificate or its packaging is punishable by a fine of up to $300 per violation.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "sells or offers to sell a gift certificate",
+    "Failure to print such notice"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"gift certificate\": as defined in section 1 of chapter 255D"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $300 per violation",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or offers to sell a gift certificate which imposes any fees or charges, including purchase, activation, renewal or cancellation fees, and fails to print notice of such fees, in writing, on the gift certificate, on its packaging, or on both",
+     "ways": [
+      "sells",
+      "offers to sell"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/75F": {
+  "review": {
+   "isOffense": true,
+   "plain": "Deducting a gratuity from a gift certificate when redeeming it, without the holder's consent, is punishable by a fine of up to $300 per violation.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "redeems a gift certificate, as defined in section 1 of chapter 255D and deducts a gratuity therefrom"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"gift certificate\": as defined in section 1 of chapter 255D"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $300 per violation",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Redeems a gift certificate and deducts a gratuity therefrom",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the holder of the gift certificate"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/76": {
+  "review": {
+   "isOffense": true,
+   "plain": "Committing any gross fraud or cheat at common law is punishable by up to 10 years in state prison, up to 2 years in jail, or a fine of up to $400.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "is convicted of any gross fraud or cheat at common law"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2 years in jail or a fine of up to $400",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits any gross fraud or cheat at common law",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/77": {
+  "review": {
+   "isOffense": true,
+   "plain": "Making or selling articles marked \"sterling\" or \"coin\" silver that do not contain the required proportion of pure silver is punishable by a fine of up to $100.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "makes or sells, or offers to sell or dispose of, or has in his possession with intent so to do, any article of merchandise marked, stamped or branded"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes or sells, or offers to sell or dispose of, or has in his possession with intent so to do, any article of merchandise marked, stamped or branded with the words \"sterling\", \"sterling silver\", \"coin\" or \"coin silver\", or packed in any box, package, cover or wrapper with any engraving, label, stamp, imprint, mark or trade mark indicating that the article is silver, sterling silver, solid silver, coin or coin silver",
+     "ways": [
+      "makes",
+      "sells",
+      "offers to sell or dispose of",
+      "has in possession with intent to do so"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless 925/1000 of the metal of an article marked \"sterling\" or \"sterling silver\" is pure silver",
+      "Unless 900/1000 of the metal of an article marked \"coin\" or \"coin silver\" is pure silver"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/78": {
+  "review": {
+   "isOffense": true,
+   "plain": "Making or selling gold articles marked as finer than they are by more than one carat, or gold-filled or plated articles overstating their gold content by more than one percent, is punishable by a fine of up to $500.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "makes or sells, or offers for sale or disposes of, or has in his possession with intent so to do, any article constructed in whole or in part of gold or alloy of gold"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"word or mark\": held to apply to the whole article, all the gold, alloys, solder and base metals being assayed as one piece, unless it plainly indicates that it applies to the plating, surface or other particular part of the article"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes or sells, or offers for sale or disposes of, or has in his possession with intent so to do, any article constructed in whole or in part of gold or alloy of gold, or of any metal resembling gold, marked on it, a tag or label, or its package, cover or wrapper with any word or mark indicating that the gold is of a greater degree or carat of fineness than its actual quality",
+     "ways": [
+      "makes",
+      "sells",
+      "offers for sale",
+      "disposes of",
+      "has in possession with intent to do so"
+     ],
+     "tags": [],
+     "conditions": [
+      "The marking overstates the fineness by more than one carat"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Makes or sells, or offers for sale or disposes of, or has in his possession with intent so to do, any so-called gold filled, rolled gold plated or electro gold plated article marked on it, a tag or label, or its package, cover or wrapper with any word or mark indicating that the gold is of a greater percentage of weight of the article than the actual percentage",
+     "ways": [
+      "makes",
+      "sells",
+      "offers for sale",
+      "disposes of",
+      "has in possession with intent to do so"
+     ],
+     "tags": [],
+     "conditions": [
+      "The marking overstates the percentage of gold by more than one per cent"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/79": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling, exchanging, or offering manufactured imitation furs while representing them as genuine fur of certain animals is punishable by a fine of $200 to $500.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "sells or exchanges, or has in his custody or possession with intent so to do, or exposes for sale or exchange, any manufactured imitations of furs of fur-bearing animals"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $200 nor more than $500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or exchanges, or has in his custody or possession with intent so to do, or exposes for sale or exchange, any manufactured imitations of furs of fur-bearing animals, representing the same to be the genuine fur of certain animals, himself, by his agent or servant, or as the agent or servant of another",
+     "ways": [
+      "sells",
+      "exchanges",
+      "has in custody or possession with intent to do so",
+      "exposes for sale or exchange"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/80": {
+  "review": {
+   "isOffense": true,
+   "plain": "Conveying land known to be encumbered without telling the buyer about the encumbrance before payment is punishable by up to 1 year of imprisonment or a $1,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "conveys land"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowing that an encumbrance exists thereon"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 1 year of imprisonment or a fine of up to $1,000",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Conveys land without informing the grantee, before the consideration is paid, of the existence and nature of the encumbrance, so far as he has knowledge thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/81": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling and conveying one's land, knowing it is attached on mesne process, without notifying the grantee and with intent to defraud, is punishable by up to 3 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 3,
+   "acts": [
+    "sells and conveys it without giving notice of the attachment to the grantee"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowing that his land is attached on mesne process"
+    ],
+    "intent": [
+     "With intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 3 years in state prison or up to 1 year in jail",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells and conveys his land without giving notice of the attachment to the grantee",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/82": {
+  "review": {
+   "isOffense": true,
+   "plain": "Removing or concealing mortgaged personal property to put it beyond the mortgagee's control, or using rented, leased or mortgaged property to sell liquor illegally, is punishable by up to 1 year of imprisonment or a $1,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "removes or conceals or aids or abets in removing or concealing the same",
+    "assents to such removal or concealment",
+    "use rented, leased or mortgaged personal property as a container or implement of sale of intoxicating liquor contrary to law"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes or conceals or aids or abets in removing or concealing personal property which is subject to a mortgage",
+     "ways": [
+      "removes",
+      "conceals",
+      "aids or abets in removing or concealing"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "With a fraudulent intent to place the property beyond the control of the mortgagee"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Assents to such removal or concealment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A mortgagor of such property"
+    },
+    {
+     "where": "",
+     "act": "Uses rented, leased or mortgaged personal property as a container or implement of sale of intoxicating liquor contrary to law",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": null
+    }
+   ]
+  }
+ },
+ "266/83": {
+  "review": {
+   "isOffense": true,
+   "plain": "A mortgagor who sells personal property without the mortgagee's written consent and without telling the buyer it is mortgaged faces up to 1 year of imprisonment or a $100 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "sells or conveys the same or any part thereof without the written consent of the mortgagee"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A mortgagor of personal property",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 1 year of imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or conveys the mortgaged personal property or any part thereof",
+     "ways": [
+      "sells",
+      "conveys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the written consent of the mortgagee",
+      "Without informing the vendee or grantee that the property is mortgaged"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/84": {
+  "review": {
+   "isOffense": true,
+   "plain": "A hirer or lessee who sells personal property without the owner's written consent and without telling the buyer it is hired or leased faces up to 1 year of imprisonment or a $100 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "sells or conveys the same or any part thereof without the written consent of the owner or lessor"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A hirer or lessee of personal property",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 1 year of imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or conveys the hired or leased personal property or any part thereof",
+     "ways": [
+      "sells",
+      "conveys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the written consent of the owner or lessor",
+      "Without informing the vendee or grantee that the property is hired or leased"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/85": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling, pledging or otherwise disposing of collateral security before the debt is due, without the depositor's authority, is punishable by up to 2 years in jail or a $500 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 2,
+   "acts": [
+    "sells, pledges, lends or in any way disposes of the same before such debt becomes due and payable"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person holding collateral security deposited with him for the payment of a debt which may be due to him",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 2 years in jail",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells, pledges, lends or in any way disposes of the collateral security before the debt becomes due and payable",
+     "ways": [
+      "sells",
+      "pledges",
+      "lends",
+      "disposes of"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the authority of the depositor"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/86": {
+  "review": {
+   "isOffense": true,
+   "plain": "Buying, receiving or helping conceal personal property known to be hired, leased or held as collateral, with intent to defraud, is punishable by up to 1 year of imprisonment or a $100 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "buys, receives or aids in concealing personal property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowing it to be hired or leased or held as collateral security"
+    ],
+    "intent": [
+     "With intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 1 year of imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Buys, receives or aids in concealing personal property",
+     "ways": [
+      "buys",
+      "receives",
+      "aids in concealing"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/87": {
+  "review": {
+   "isOffense": true,
+   "plain": "A person renting or leasing personal property who conceals it, fails to return it within 10 days after the lease ends, or sells it without consent commits larceny of leased property, punishable by up to 1 year and restitution.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "conceals or aids or abets the concealment of such property or any part thereof",
+    "fails or refuses to return such property to the owner within ten days after expiration of the lease or rental agreement",
+    "sells, conveys or pledges such property or any part thereof without the written consent of the owner"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person leasing or renting personal property",
+    "intent": [
+     "With the intent to place such property beyond the control of the owner"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must be ordered to make restitution to the owner for any financial loss, in addition to any other punishment"
+    ],
+    "terms": [
+     "\"intent to place such property beyond the control of the owner\": prima facie shown when the person, in obtaining the property, presents identification or information that is materially false, fictitious, misleading or not current as to name, address, place of employment or other material matter, or fails to return the property within ten days after proper notice to return it",
+     "\"proper notice\": actual notice or a written demand sent by certified or registered mail to the person at the address given at the time of making the lease or rental agreement"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Conceals or aids or abets the concealment of such property or any part thereof",
+     "ways": [
+      "conceals",
+      "aids or abets the concealment"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "The defendant was unaware the property belonged to another",
+      "The defendant had a right to acquire or dispose of the property as he did"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Fails or refuses to return such property to the owner within ten days after expiration of the lease or rental agreement",
+     "ways": [
+      "fails",
+      "refuses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "The defendant was unaware the property belonged to another",
+      "The defendant had a right to acquire or dispose of the property as he did"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Sells, conveys or pledges such property or any part thereof without the written consent of the owner",
+     "ways": [
+      "sells",
+      "conveys",
+      "pledges"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "The defendant was unaware the property belonged to another",
+      "The defendant had a right to acquire or dispose of the property as he did"
+     ]
+    }
+   ]
+  }
+ },
+ "266/87A": {
+  "review": {
+   "isOffense": false,
+   "plain": "Requires owners or lessees of stolen leased or rented motor vehicles to report the loss to police, and requires police to list and disseminate the information as for other stolen vehicles."
+  }
+ },
+ "266/88": {
+  "review": {
+   "isOffense": true,
+   "plain": "A consignee or factor who, in bad faith and with intent to defraud the owner, pledges or converts consigned merchandise, instruments or their proceeds faces a $5,000 fine and up to 5 years of imprisonment.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "deposits or pledges, as security for money borrowed by him, a negotiable instrument received by him, merchandise consigned or intrusted to him, or a bill of lading, certificate or order for the delivery of merchandise",
+    "disposes of or applies such property or evidence of property to his own use",
+    "disposes of or applies to his own use money which has been raised or a negotiable instrument which has been acquired by the sale or other disposition of such property or evidence of property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A consignee or factor",
+    "intent": [
+     "In violation of good faith and with intent to defraud the owners thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000 and up to 5 years of imprisonment",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Deposits or pledges, as security for money borrowed by him, a negotiable instrument received by him, merchandise consigned or intrusted to him, or a bill of lading, certificate or order for the delivery of merchandise",
+     "ways": [
+      "deposits",
+      "pledges"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Disposes of or applies such property or evidence of property to his own use",
+     "ways": [
+      "disposes of",
+      "applies to his own use"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Disposes of or applies to his own use money raised or a negotiable instrument acquired by the sale or other disposition of such property or evidence of property",
+     "ways": [
+      "disposes of",
+      "applies to his own use"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/89": {
+  "review": {
+   "isOffense": true,
+   "plain": "Falsely claiming in writing to hold a degree or to have been an officer or teacher of a school, or conferring degrees without authority, is punishable by up to 1 year and a $1,000 fine; misusing \"university\" or \"college\" brings a $1,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "knowingly and falsely pretends to have been an officer or teacher, or to be a graduate or to hold any degree",
+    "offers or confers degrees as a school, college or as a private individual",
+    "using the designation of “university” or “college”"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Pretends, in a book, pamphlet, circular, advertisement or advertising sign, or by a pretended written certificate or diploma, or otherwise in writing, to have been an officer or teacher, or to be a graduate or to hold any degree, of a college or other educational institution authorized to confer degrees, or of a public school of this commonwealth",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly and falsely"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Offers or confers degrees as a school, college or as a private individual, alone or associated with others",
+     "ways": [
+      "offers",
+      "confers"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without having lawful authority to confer degrees"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Uses the designation of \"university\" or \"college\"",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Does not apply to any educational institution whose name on July 9, 1919, included the word \"university\" or \"college\""
+     ],
+     "defenses": [],
+     "who": "Any individual, school, association, corporation or institution of learning not having lawful authority to confer degrees",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of $1,000",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/90": {
+  "review": {
+   "isOffense": true,
+   "plain": "Falsely and fraudulently claiming in writing the endorsement or approval of a college, university or professional school to promote a person, services or goods is punishable by up to 1 year, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "makes any false and fraudulent statement or assertion of endorsement, authority, approval or sanction of an incorporated college, university or professional school"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, in a book, pamphlet, circular, advertisement or advertising sign, or otherwise in writing, any false and fraudulent statement or assertion of endorsement, authority, approval or sanction of an incorporated college, university or professional school, or of its officers or instructors, as a commendation or advertisement of a person or his services, or of goods, wares, commodities, processes or treatment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/91": {
+  "review": {
+   "isOffense": true,
+   "plain": "Publishing an advertisement to sell goods, securities or services that contains a statement the advertiser knew, or could reasonably have found, was untrue, deceptive or misleading is punishable by a fine of $1,000 to $2,000.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "makes, publishes, disseminates, circulates or places before the public, or causes, directly or indirectly, to be made, published, disseminated, circulated or placed before the public within the commonwealth"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $1,000 nor more than $2,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "May be enjoined by a petition in equity brought by the attorney general or any aggrieved party"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, publishes, disseminates, circulates or places before the public, or causes to be made, published, disseminated, circulated or placed before the public within the commonwealth, in any way, an advertisement regarding merchandise, securities, service or anything offered to the public, which contains any assertion, representation or statement of fact which is untrue, deceptive or misleading",
+     "ways": [
+      "makes",
+      "publishes",
+      "disseminates",
+      "circulates",
+      "places before the public",
+      "causes to be made, published, disseminated, circulated or placed before the public"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Does not apply to any owner, publisher, printer, agent or employee of a newspaper or other publication, periodical or circular, or to any agent of the advertiser who in good faith and without knowledge of the falsity or deceptive character publishes, causes to be published, or participates in the publication of the advertisement"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to sell or in any way dispose of merchandise, securities, service, or anything offered to the public, or with intent to increase the consumption of or demand for it, or to induce the public to enter into any obligation relating thereto, or to acquire title or an interest therein"
+     ],
+     "knowledge": [
+      "Which such person knew, or might on reasonable investigation have ascertained to be untrue, deceptive or misleading"
+     ]
+    }
+   ]
+  }
+ },
+ "266/91A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Advertising merchandise or services as part of a scheme not to sell them as advertised or at the stated price (bait advertising) is punishable by a fine of $500 to $1,000 or up to 1 year.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "offers for sale merchandise, commodities or service by making, publishing, disseminating, circulating or placing before the public within the commonwealth"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "As part of a plan or scheme with the intent not to sell said merchandise, commodities or service so advertised at the price stated therein, or with intent not to sell said merchandise, commodities or service so advertised"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $500 nor more than $1,000 or up to 1 year of imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Offers for sale merchandise, commodities or service by making, publishing, disseminating, circulating or placing before the public within the commonwealth, in any way, an advertisement describing the merchandise, commodities or service",
+     "ways": [
+      "making",
+      "publishing",
+      "disseminating",
+      "circulating",
+      "placing before the public"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/91B": {
+  "review": {
+   "isOffense": false,
+   "plain": "Allows the attorney general or any aggrieved party to seek an injunction in superior court against advertising merchandise or services with intent not to sell them as advertised or at the stated price."
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "266/147": {
+  "review": {"isOffense": true,
+   "plain": "Willfully making, using, advertising, selling, or possessing to sell goods or services bearing a counterfeit trademark is a crime; penalties rise with quantity, value and repeat offenses, up to 10 years in state prison plus fines.",
+   "category": "Fraud & Money", "maxYears": 10,
+   "acts": ["manufactures, uses, displays, advertises, distributes, offers for sale, sells or possesses with intent to sell or distribute any item or services bearing or identified by a counterfeit mark"]},
+  "elements": {
+   "shared": {"who": null,
+    "terms": [
+     "\"Counterfeit mark\": any unauthorized reproduction or copy of intellectual property, or intellectual property affixed to any item knowingly sold, offered for sale, manufactured or distributed, or identifying services offered or rendered, without the authority of the owner of the intellectual property",
+     "\"Intellectual property\": any trademark, service mark, trade name, label, term, device, design or word that is (1) adopted or used by a person to identify such person's goods or services, and (2) registered, filed or recorded under the laws of the commonwealth or of any other state, or registered in the principal register of the United States Patent and Trademark Office",
+     "\"Retail value\": the counterfeiter's regular selling price for the item or service bearing or identified by the counterfeit mark; for components of a finished product, the counterfeiter's regular selling price of the finished product",
+     "Quantity or retail value includes the aggregate quantity or retail value of all items or services under every counterfeit mark the defendant manufactures, uses, displays, advertises, distributes, offers for sale, sells or possesses",
+     "A person having possession, custody or control of more than 25 items bearing a counterfeit mark is presumed to possess them with the intent to sell or distribute",
+     "Any state or federal certificate of registration of any intellectual property is prima facie evidence of the facts stated therein"]},
+   "crimes": [
+    {"where": "(b)", "act": "Manufactures, uses, displays, advertises, distributes, offers for sale, sells or possesses with intent to sell or distribute any item or services bearing or identified by a counterfeit mark",
+     "ways": ["manufactures", "uses", "displays", "advertises", "distributes", "offers for sale", "sells", "possesses with intent to sell or distribute"],
+     "tags": [], "intent": ["Willfully"], "conditions": [], "exceptions": [], "defenses": [],
+     "penalties": [
+      {"if": "", "penalty": "Up to 2½ years in a jail or house of correction (100 or fewer items, or total retail value of $1,000 or less, and a first offense)", "min": null, "max": 2.5, "flags": []},
+      {"if": "the violation involves more than 100 but fewer than 1,000 items, or total retail value is more than $1,000 but less than $10,000, or it is a second offense", "penalty": "Up to 5 years in the state prison", "min": null, "max": 5, "flags": []},
+      {"if": "the violation involves 1,000 or more items, or total retail value is $10,000 or more, or involves the manufacture or production of items bearing counterfeit marks, or of items that pose a threat to the public health or safety, or it is a third or subsequent offense", "penalty": "Up to 10 years in the state prison", "min": null, "max": 10, "flags": []}],
+     "consequences": [
+      "In addition, a fine of up to three times the retail value of the items or services, unless extenuating circumstances are shown by the defendant",
+      "In addition, a fine equal to 75 per cent of the retail value of the items or services when the items involved pose a threat to public health or safety",
+      "Items bearing a counterfeit mark and personal property used in connection with the violation shall be seized; seized personal property shall be forfeited",
+      "Seized counterfeit items shall be released to the intellectual property owner on request for destruction or disposition; otherwise destroyed unless the owner consents to another disposition"]}]}},
+ "266/148": {
+  "review": {"isOffense": true,
+   "plain": "Licensed scrap and junk dealers must check ID and ownership papers, keep records, pay by company check, and buy only from owners or businesses when acquiring catalytic converters; violations bring civil fines and possible license loss.",
+   "category": "Property Crimes", "maxYears": 0,
+   "acts": ["not purchase, accept or acquire a catalytic converter from another person or entity unless the seller or offeror presents proof of identification in addition to a bill of sale or other legal document demonstrating ownership of the catalytic converter", "preserve photocopies or digital images of the documentation", "keep records of all catalytic converter transactions", "make available to the local chief of police or the chief's designee any records created pursuant to this subsection upon request by the chief or the chief's designee", "shall use a company check as a method of payment for transactions:", "shall not enter into a transaction to purchase or receive a catalytic converter from any person who is not a commercial enterprise or owner of the vehicle from which the catalytic converter was removed"]},
+  "elements": {
+   "shared": {"who": "A person or entity licensed under sections 54, 54A, 56 or 58 of chapter 140 or section 1 of chapter 140B",
+    "penalties": [
+     {"if": "", "penalty": "Civil fine of $100 for each catalytic converter sold in violation, and $300 for the first offense", "min": null, "max": 0, "flags": ["civil"]},
+     {"if": "second offense", "penalty": "Civil fine of $100 for each catalytic converter sold in violation, and $550", "min": null, "max": 0, "flags": ["civil"]},
+     {"if": "each subsequent violation", "penalty": "Civil fine of $100 for each catalytic converter sold in violation, and $700", "min": null, "max": 0, "flags": ["civil"]}],
+    "consequences": ["The municipal licensing board may suspend or revoke the licensee's license for any violations", "If a licensee keeps its license for 36 consecutive months without a violation, any new violation is treated as a first offense", "Enforced by the police department where the licensee is located"],
+    "terms": ["\"Catalytic converter\": an exhaust-system component of an automobile containing a catalyst that causes conversion of harmful gases including carbon monoxide and uncombusted hydrocarbons into mostly harmless products including water and carbon dioxide"],
+    "exceptions": ["Subsection (b) does not apply to licensees' acquisitions or purchases of whole motor vehicles"]},
+   "crimes": [
+    {"where": "(b)(1)", "act": "Purchases, accepts or acquires a catalytic converter from another person or entity without the seller or offeror presenting proof of identification and a bill of sale or other legal document demonstrating ownership, or fails to preserve photocopies or digital images of the documentation",
+     "ways": ["purchase", "accept", "acquire"], "tags": [], "conditions": [], "exceptions": ["Does not apply to acquisitions or purchases of whole motor vehicles"], "defenses": []},
+    {"where": "(b)(1)", "act": "Fails to keep records of all catalytic converter transactions, or to make them available to the local chief of police or the chief's designee upon request",
+     "ways": [], "tags": [], "conditions": ["Records must include the date; seller's name, address, telephone number and signature; photo identification copy; license plate of the transporting vehicle; description and photograph of the converter; ownership documents; and price paid and total amount", "Records must be maintained for 3 years from the date of the transaction"], "exceptions": ["Does not apply to acquisitions or purchases of whole motor vehicles"], "defenses": []},
+    {"where": "(b)(3)", "act": "Fails to use a company check as a method of payment for catalytic converter transactions",
+     "ways": [], "tags": [], "conditions": ["The transaction exceeds $250 per customer per day or includes not less than 3 catalytic converters"], "exceptions": ["Does not apply to acquisitions or purchases of whole motor vehicles"], "defenses": []},
+    {"where": "(b)(5)", "act": "Enters into a transaction to purchase or receive a catalytic converter from any person who is not a commercial enterprise or owner of the vehicle from which the catalytic converter was removed",
+     "ways": ["purchase", "receive"], "tags": [], "conditions": [], "exceptions": ["Does not apply to acquisitions or purchases of whole motor vehicles"], "defenses": []}]}}
+}
