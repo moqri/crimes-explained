@@ -254,7 +254,7 @@
   <header>
     <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a></nav><!-- /jur:nav -->
     <h1>Massachusetts Crime Code</h1>
-    <!-- jur:lede --><p class="lede">Every crime in chapters <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">265 (Crimes Against the Person)</a> and <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266" target="_blank" rel="noopener" title="Chapter 266: official text on malegislature.gov">266 (Crimes Against Property)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
+    <!-- jur:lede --><p class="lede">Every crime in chapters <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">265 (Crimes Against the Person)</a>, <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266" target="_blank" rel="noopener" title="Chapter 266: official text on malegislature.gov">266 (Crimes Against Property)</a> and <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268" target="_blank" rel="noopener" title="Chapter 268: official text on malegislature.gov">268 (Crimes Against Public Justice)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
       <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
       <details class="about">
@@ -599,7 +599,7 @@
   }
   // Massachusetts: a section of the General Laws, on this site when we have it, else on malegislature.gov.
   // Sections the statute text cites that no longer exist (the Legislature's API has no such section).
-  const MA_DEAD = new Set(['147/50', '272/50']);
+  const MA_DEAD = new Set(['147/50', '272/50', '123A/4', '123A/5', '123A/6', '191/14']);
   function maLink(chap, sec, raw) {
     const slug = sec.replace('½', '1~2').replace('¾', '3~4');
     if (MA_DEAD.has(`${chap}/${slug}`)) return raw;

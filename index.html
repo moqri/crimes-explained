@@ -601,7 +601,7 @@
   }
   // Massachusetts: a section of the General Laws, on this site when we have it, else on malegislature.gov.
   // Sections the statute text cites that no longer exist (the Legislature's API has no such section).
-  const MA_DEAD = new Set(['147/50', '272/50']);
+  const MA_DEAD = new Set(['147/50', '272/50', '123A/4', '123A/5', '123A/6', '191/14']);
   function maLink(chap, sec, raw) {
     const slug = sec.replace('½', '1~2').replace('¾', '3~4');
     if (MA_DEAD.has(`${chap}/${slug}`)) return raw;

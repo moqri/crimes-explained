@@ -1,0 +1,1272 @@
+{
+ "268/23": {
+  "review": {
+   "isOffense": true,
+   "plain": "An officer who wilfully and corruptly refuses or delays to execute process to apprehend or confine a person, so that the person escapes, faces a fine up to $500 or up to one year in prison.",
+   "category": "Courts & Justice",
+   "maxYears": 1,
+   "acts": [
+    "refuses to execute a lawful process directed to him and requiring him to apprehend or confine a person convicted of or charged with crime",
+    "omits or delays to execute such process"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An officer authorized to serve process",
+    "intent": [
+     "Wilfully and corruptly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or imprisonment for up to 1 year",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Refuses to execute a lawful process directed to him and requiring him to apprehend or confine a person convicted of or charged with crime",
+     "ways": [
+      "refuses to execute",
+      "omits to execute",
+      "delays to execute"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person escapes as a result"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/24": {
+  "review": {
+   "isOffense": true,
+   "plain": "Refusing or neglecting to help a sheriff, constable, police officer or watchman who requires it in a criminal case or to keep the peace is punishable by a fine up to $50 or up to one month in prison.",
+   "category": "Courts & Justice",
+   "maxYears": 0.083,
+   "acts": [
+    "neglects or refuses to assist him in the execution of his office in a criminal case, in the preservation of the peace or in the apprehension or securing of a person for a breach of the peace, or in a case of escape or rescue of persons arrested upon civil process"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50 or imprisonment for up to 1 month",
+      "min": null,
+      "max": 0.083,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Neglects or refuses to assist him in the execution of his office in a criminal case, in the preservation of the peace or in the apprehension or securing of a person for a breach of the peace, or in a case of escape or rescue of persons arrested upon civil process",
+     "ways": [
+      "neglects",
+      "refuses"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person is required in the name of the commonwealth by a sheriff, deputy sheriff, constable, police officer or watchman"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Refusing or neglecting to obey a justice of the peace who requires you to apprehend an offender is punished as set in the preceding section; ignorance of the justice's office is no excuse.",
+   "category": "Courts & Justice",
+   "maxYears": null,
+   "acts": [
+    "refuses or neglects to obey such justice"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Refuses or neglects to obey such justice",
+     "ways": [
+      "refuses",
+      "neglects"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person is required by a justice of the peace, upon view of a breach of the peace or of any other offence proper for his cognizance, to apprehend the offender"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "No person to whom such justice is known or declares himself to be a justice of the peace shall plead any excuse on pretence of ignorance of his office"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Set in the preceding section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/26": {
+  "review": {
+   "isOffense": true,
+   "plain": "Giving, selling or delivering alcoholic beverages to a prisoner, or possessing them at a prison to deliver to a prisoner, is punishable by a fine up to $50 or up to two months in prison.",
+   "category": "Courts & Justice",
+   "maxYears": 0.167,
+   "acts": [
+    "gives, sells or delivers alcoholic beverages, as defined in section one of chapter one hundred and thirty-eight, to a person confined in any correctional institution or other place of confinement, or to a person in the custody of a sheriff, constable, police officer, superintendent of a correctional institution, or other superintendent or keeper of a place of confinement",
+    "has in his possession, within the precincts of any prison or other place of confinement, any such beverages"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "exceptions": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50 or imprisonment for up to 2 months",
+      "min": null,
+      "max": 0.167,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Gives, sells or delivers alcoholic beverages to a person confined in any correctional institution or other place of confinement, or to a person in the custody of a sheriff, constable, police officer, superintendent of a correctional institution, or other superintendent or keeper of a place of confinement",
+     "ways": [
+      "gives",
+      "sells",
+      "delivers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Under the direction of the physician appointed to attend such prisoner"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Has in his possession, within the precincts of any prison or other place of confinement, any such beverages",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Under the direction of the physician appointed to attend such prisoner"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to convey or deliver them to any person confined therein"
+     ]
+    }
+   ]
+  }
+ },
+ "268/27": {
+  "review": {
+   "isOffense": true,
+   "plain": "Giving, selling or delivering alcoholic beverages to a patient or inmate of a public institution, or possessing them there to consume or pass on, is punishable by a fine up to $50 or up to two months in prison.",
+   "category": "Courts & Justice",
+   "maxYears": 0.167,
+   "acts": [
+    "gives, sells or delivers any alcoholic beverages, as defined in section one of chapter one hundred and thirty-eight, to any patient or inmate of any public institution, or to any patient or inmate under the control of any such institution",
+    "has in his possession within the precincts of any such institution any such beverages"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50 or imprisonment for up to 2 months",
+      "min": null,
+      "max": 0.167,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Gives, sells or delivers any alcoholic beverages to any patient or inmate of any public institution, or to any patient or inmate under the control of any such institution",
+     "ways": [
+      "gives",
+      "sells",
+      "delivers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Under the direction of a physician authorized so to do"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Has in his possession within the precincts of any such institution any such beverages",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Under direction as aforesaid"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to consume the same or to convey, give, sell or deliver the same to any patient or inmate thereof"
+     ]
+    }
+   ]
+  }
+ },
+ "268/28": {
+  "review": {
+   "isOffense": true,
+   "plain": "Giving or delivering any drug or article to a prisoner, or possessing one at a prison to give to a prisoner, without permission is punishable by up to 5 years in state prison.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "gives or delivers to a prisoner in any correctional institution, or in any jail or house of correction, any drug or article whatever",
+    "has in his possession within the precincts of any prison herein named"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "exceptions": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, up to 2 years in a jail or house of correction, or a fine of up to $1,000",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Gives or delivers to a prisoner in any correctional institution, or in any jail or house of correction, any drug or article whatever",
+     "ways": [
+      "gives",
+      "delivers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "With the permission of the superintendent or keeper"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Has in his possession within the precincts of any prison herein named",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "With the permission of the superintendent or keeper"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to give or deliver to any prisoner any such drug or article"
+     ]
+    }
+   ]
+  }
+ },
+ "268/29": {
+  "review": {
+   "isOffense": true,
+   "plain": "A sheriff, jailer or correctional officer who gives or permits alcohol to a prisoner, or keeps prisoners of different sexes or classes together, forfeits $25 or $50 and is removed from office on a second conviction.",
+   "category": "Courts & Justice",
+   "maxYears": 0,
+   "acts": [
+    "gives, sells or delivers or knowingly permits to be given, sold or delivered to a prisoner in his custody any alcoholic beverages",
+    "willingly or negligently suffers such prisoner to have or drink any alcoholic beverages",
+    "places or keeps together prisoners in his custody of different sexes or classes"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A sheriff, jailer, superintendent of a house of correction or officer of a correctional institution",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Forfeit $25",
+      "min": null,
+      "max": 0,
+      "flags": []
+     },
+     {
+      "if": "the offence is committed after a first conviction",
+      "penalty": "Forfeit $50",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Upon a second conviction, removal from office and ineligibility to hold the office of sheriff, deputy sheriff, jailer, superintendent or keeper of any correctional institution for five years thereafter"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Gives, sells or delivers or knowingly permits to be given, sold or delivered to a prisoner in his custody any alcoholic beverages or cider",
+     "ways": [
+      "gives",
+      "sells",
+      "delivers",
+      "knowingly permits to be given, sold or delivered"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The physician of the penal institution certifies in writing that the health of the prisoner requires the same"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly (as to permitting)"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Willingly or negligently suffers such prisoner to have or drink any alcoholic beverages",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The physician certifies that the health of the prisoner requires such liquor, in which case the prisoner is allowed the quantity prescribed and no more"
+     ],
+     "defenses": [],
+     "mentalState": [
+      "Willingly or negligently"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Places or keeps together prisoners in his custody of different sexes or classes",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Contrary to the section of chapter one hundred and twenty-seven named in this section"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/30": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully disturbing a correctional institution or jail, or trying to attract the attention of or communicating with an inmate without permission, is punishable by a fine up to $50 or up to three months in prison.",
+   "category": "Courts & Justice",
+   "maxYears": 0.25,
+   "acts": [
+    "wilfully disturbs any correctional institution of the commonwealth",
+    "seeks to attract the attention of, or without the permission of the officer in charge has communication with, an inmate thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50 or imprisonment for up to 3 months",
+      "min": null,
+      "max": 0.25,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Disturbs any correctional institution of the commonwealth, the Lyman school, industrial school for boys, industrial school for girls, or a jail or house of correction",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Seeks to attract the attention of, or without the permission of the officer in charge has communication with, an inmate thereof",
+     "ways": [
+      "seeks to attract the attention of an inmate",
+      "has communication with an inmate without the permission of the officer in charge"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/31": {
+  "review": {
+   "isOffense": true,
+   "plain": "Delivering or hiding articles for inmates, or taking articles from inmates, against institution rules is punishable by up to 3 years in state prison; an inmate bringing in drugs or weapons from furlough gets an added 7 to 10 years.",
+   "category": "Courts & Justice",
+   "maxYears": 10,
+   "acts": [
+    "delivers or procures to be delivered, or has in his possession with intent to deliver, to an inmate confined in any penal institution",
+    "deposits or conceals in or about the institution, or the dependencies thereof, or upon any land appurtenant thereto, or in any boat or vehicle going into the premises belonging to the institution, any article",
+    "receives from an inmate any article",
+    "brings or attempts to bring into said institution an illegal drug, gun, knife or other similar weapon"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Delivers or procures to be delivered, or has in his possession with intent to deliver, to an inmate confined in any penal institution",
+     "ways": [
+      "delivers",
+      "procures to be delivered",
+      "has in his possession with intent to deliver"
+     ],
+     "tags": [],
+     "conditions": [
+      "Contrary to the rules and regulations of the institution"
+     ],
+     "exceptions": [
+      "With the knowledge and permission of the commissioner of correction or of the superintendent, keeper, sheriff or other officer in charge"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500, imprisonment in the state prison for up to 3 years, or in jail for up to 2½ years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Deposits or conceals in or about the institution, or the dependencies thereof, or upon any land appurtenant thereto, or in any boat or vehicle going into the premises belonging to the institution, any article",
+     "ways": [
+      "deposits",
+      "conceals"
+     ],
+     "tags": [],
+     "conditions": [
+      "Contrary to the rules and regulations of the institution"
+     ],
+     "exceptions": [
+      "With the knowledge and permission of the commissioner of correction or of the superintendent, keeper, sheriff or other officer in charge"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent that an inmate shall obtain or receive it"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500, imprisonment in the state prison for up to 3 years, or in jail for up to 2½ years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Receives from an inmate any article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Contrary to the rules and regulations of the institution"
+     ],
+     "exceptions": [
+      "With the knowledge and permission of the commissioner of correction or of the superintendent, keeper, sheriff or other officer in charge"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to convey it out of the institution"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500, imprisonment in the state prison for up to 3 years, or in jail for up to 2½ years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Brings or attempts to bring into said institution an illegal drug, gun, knife or other similar weapon",
+     "ways": [
+      "brings",
+      "attempts to bring"
+     ],
+     "tags": [],
+     "conditions": [
+      "The inmate is returning from a furlough or a work program"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An inmate of a correctional institution",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An additional sentence of not less than 7 nor more than 10 years in state prison",
+       "min": 7,
+       "max": 10,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/32": {
+  "review": {
+   "isOffense": true,
+   "plain": "Opening, tampering with or damaging a police or fire signal box, or a highway emergency call box, is punishable by up to 2 years in prison for police and fire boxes, or a fine for call boxes.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "opens a signal box connected with a police signal system",
+    "interferes in any way with such box by breaking, cutting, injuring or defacing the same",
+    "opens, tampers or meddles with such box, or with any part or parts thereof, or with the police signal wires, or with anything connected therewith",
+    "tampers or meddles with a signal box connected with a fire signal system or with any part or thing connected therewith",
+    "opens a motorist highway emergency aid call box on any state highway connected with a highway emergency signal system",
+    "opens, tampers or meddles with such box, or with any part or parts thereof, or with anything connected therewith",
+    "tampers or meddles with a motorist highway emergency aid call box or with any part or thing connected therewith"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Opens a signal box connected with a police signal system",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "For the purpose of giving, or causing to be given, a false alarm"
+     ],
+     "consequences": [
+      "Subject to immediate arrest"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $500 nor more than $1,000, imprisonment for up to 2 years, or both",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Interferes in any way with such box by breaking, cutting, injuring or defacing the same",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The box is connected with a police signal system"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "Subject to immediate arrest"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $500 nor more than $1,000, imprisonment for up to 2 years, or both",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Opens, tampers or meddles with such box, or with any part or parts thereof, or with the police signal wires, or with anything connected therewith",
+     "ways": [
+      "opens",
+      "tampers",
+      "meddles"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority",
+      "The box is connected with a police signal system"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "Subject to immediate arrest"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $500 nor more than $1,000, imprisonment for up to 2 years, or both",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Tampers or meddles with a signal box connected with a fire signal system or with any part or thing connected therewith",
+     "ways": [
+      "tampers",
+      "meddles"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Wantonly and without cause"
+     ],
+     "intent": [
+      "With such purpose"
+     ],
+     "consequences": [
+      "Subject to immediate arrest"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $500 nor more than $1,000, imprisonment for up to 2 years, or both",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Opens a motorist highway emergency aid call box on any state highway connected with a highway emergency signal system",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "For the purpose of giving or causing to be given a false call for aid"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $100 nor more than $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Interferes in any way with such box by breaking, cutting, injuring or defacing the same",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The box is a motorist highway emergency aid call box"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $100 nor more than $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Opens, tampers or meddles with such box, or with any part or parts thereof, or with anything connected therewith",
+     "ways": [
+      "opens",
+      "tampers",
+      "meddles"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority",
+      "The box is a motorist highway emergency aid call box"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $100 nor more than $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Tampers or meddles with a motorist highway emergency aid call box or with any part or thing connected therewith",
+     "ways": [
+      "tampers",
+      "meddles"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Wantonly and without cause"
+     ],
+     "intent": [
+      "With such purpose"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $100 nor more than $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/32A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully obstructing, interfering with or hindering a fire fighter or fire fighting force in the lawful performance of duty is punishable by up to 5 years in state prison.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "obstructs, interferes with or hinders a fire fighter in the lawful performance of his duty",
+    "obstructs, interferes with or hinders a fire fighting force in the lawful performance of its duty"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Willfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $100 nor more than $1,000, or imprisonment in a jail or house of correction for not less than 30 days nor more than 2½ years, or imprisonment in the state prison for up to 5 years, or both such fine and imprisonment in a jail or house of correction",
+      "min": 0.08,
+      "max": 5,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obstructs, interferes with or hinders a fire fighter or a fire fighting force in the lawful performance of his or its duty",
+     "ways": [
+      "obstructs",
+      "interferes with",
+      "hinders"
+     ],
+     "tags": [],
+     "conditions": [
+      "The fire fighter or fire fighting force is in the lawful performance of duty"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/32B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly preventing or trying to prevent a police officer from making an arrest by force, threats, or other means creating a substantial risk of bodily injury is punishable by up to 2½ years in a house of correction.",
+   "category": "Courts & Justice",
+   "maxYears": 2.5,
+   "acts": [
+    "prevents or attempts to prevent a police officer, acting under color of his official authority, from effecting an arrest of the actor or another",
+    "using or threatening to use physical force or violence against the police officer or another",
+    "using any other means which creates a substantial risk of causing bodily injury to such police officer or another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Knowingly"
+    ],
+    "terms": [
+     "\"Police officer\": a police officer in uniform or, if out of uniform, one who has identified himself by exhibiting his credentials as such police officer while attempting such arrest",
+     "\"Under color of official authority\": when, in the regular course of assigned duties, he is called upon to make, and does make, a judgment in good faith based upon surrounding facts and circumstances that an arrest should be made by him"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a jail or house of correction for up to 2½ years, a fine of up to $500, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Prevents or attempts to prevent a police officer, acting under color of his official authority, from effecting an arrest of the actor or another, by using or threatening to use physical force or violence against the police officer or another",
+     "ways": [
+      "prevents",
+      "attempts to prevent"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "Not a defense that the police officer was attempting to make an unlawful arrest, if he was acting under color of his official authority and was not resorting to unreasonable or excessive force giving rise to the right of self-defense"
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Prevents or attempts to prevent a police officer, acting under color of his official authority, from effecting an arrest of the actor or another, by using any other means which creates a substantial risk of causing bodily injury to such police officer or another",
+     "ways": [
+      "prevents",
+      "attempts to prevent"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "Not a defense that the police officer was attempting to make an unlawful arrest, if he was acting under color of his official authority and was not resorting to unreasonable or excessive force giving rise to the right of self-defense"
+     ]
+    }
+   ]
+  }
+ },
+ "268/33": {
+  "review": {
+   "isOffense": true,
+   "plain": "Falsely pretending to be a justice of the peace, notary, sheriff, police officer or other listed official or federal officer, and acting as one or demanding aid, is punishable by a fine up to $1,000 or up to 2½ years in prison.",
+   "category": "Government & Corruption",
+   "maxYears": 2.5,
+   "acts": [
+    "falsely assumes or pretends to be a justice of the peace, notary public, sheriff, deputy sheriff, medical examiner, associate medical examiner, constable, police officer, probation officer, or examiner, investigator or other officer appointed by the registrar of motor vehicles, or inspector, investigator or examiner of the department of public utilities or the department of telecommunications and cable, or investigator or other officer of the alcoholic beverages control commission, or investigator or other official of the bureau of special investigations, or examiner, investigator or other officer of the department of revenue or an officer or employee acting under the authority of the United States or any department, agency or officer thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or imprisonment for up to 2½ years",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Falsely assumes or pretends to be a justice of the peace, notary public, sheriff, deputy sheriff, medical examiner, associate medical examiner, constable, police officer, probation officer, or examiner, investigator or other officer appointed by the registrar of motor vehicles, or inspector, investigator or examiner of the department of public utilities or the department of telecommunications and cable, or investigator or other officer of the alcoholic beverages control commission, or investigator or other official of the bureau of special investigations, or examiner, investigator or other officer of the department of revenue or an officer or employee acting under the authority of the United States or any department, agency or officer thereof",
+     "ways": [
+      "falsely assumes",
+      "falsely pretends"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person acts as such or requires a person to aid or assist him in a matter pertaining to the duty of such officer"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/33A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Conducting a lead paint inspection without a license, or falsely holding yourself out as a licensed inspector, is punishable by a fine up to $5,000, up to one year in jail, or both.",
+   "category": "Government & Corruption",
+   "maxYears": 1,
+   "acts": [
+    "engages in or conducts a lead paint inspection without being licensed to do so",
+    "holds himself out to the public as a licensed lead paint inspector and is not so licensed"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000, imprisonment in jail for up to 1 year, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Engages in or conducts a lead paint inspection without being licensed to do so",
+     "ways": [
+      "engages in",
+      "conducts"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Holds himself out to the public as a licensed lead paint inspector and is not so licensed",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/34": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wearing a disguise with intent to obstruct the law or to intimidate or hinder an officer or person in lawful duties or rights is punishable by a fine up to $500 or up to one year in prison.",
+   "category": "Courts & Justice",
+   "maxYears": 1,
+   "acts": [
+    "disguises himself"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or imprisonment for up to 1 year",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Disguises himself",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "It does not matter whether such intent is effected or not"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to obstruct the due execution of the law, or to intimidate, hinder or interrupt an officer or other person in the lawful performance of his duty, or in the exercise of his rights under the constitution or laws of the commonwealth"
+     ],
+     "consequences": [
+      "If imprisoned, may also be bound to good behavior for one year after the expiration of the imprisonment"
+     ]
+    }
+   ]
+  }
+ },
+ "268/34A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly and willfully giving a false name or other identifying information to a law enforcement officer after an arrest is punishable by a fine up to $1,000 or up to one year in a house of correction.",
+   "category": "Courts & Justice",
+   "maxYears": 1,
+   "acts": [
+    "furnishes a false name, Social Security number, date of birth, home address, mailing address or phone number, or other information as may be requested for the purposes of establishing the person's identity, to a law enforcement officer or law enforcement official following an arrest"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000, imprisonment in a house of correction for up to 1 year, or both",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "consecutive"
+      ]
+     }
+    ],
+    "consequences": [
+     "The sentence runs from and after any sentence imposed as a result of the underlying offense",
+     "The court may order that restitution be paid to persons whose identity has been assumed and who have suffered monetary losses as a result of a violation"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Furnishes a false name, Social Security number, date of birth, home address, mailing address or phone number, or other information as may be requested for the purposes of establishing the person's identity, to a law enforcement officer or law enforcement official following an arrest",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully"
+     ]
+    }
+   ]
+  }
+ },
+ "268/35": {
+  "review": {
+   "isOffense": true,
+   "plain": "Without authority, using a town seal to make something look official, or making or possessing a badge like a town officer's with intent to assume an official character, is punishable by a fine up to $50.",
+   "category": "Government & Corruption",
+   "maxYears": 0,
+   "acts": [
+    "prints, stamps, engraves or affixes, or causes to be printed, stamped, engraved or affixed to any paper or other article a representation of the seal of a town in the commonwealth",
+    "casts, stamps, engraves, makes or has in his possession a badge or thing in the likeness of an official badge of a police officer, member of a fire department, or other officer appointed by a town in the commonwealth, or by any department of such town"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Prints, stamps, engraves or affixes, or causes to be printed, stamped, engraved or affixed to any paper or other article a representation of the seal of a town in the commonwealth",
+     "ways": [
+      "prints",
+      "stamps",
+      "engraves",
+      "affixes",
+      "causes to be printed, stamped, engraved or affixed"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without being duly authorized thereto"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to give to such paper or article an official character which it does not possess"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Casts, stamps, engraves, makes or has in his possession a badge or thing in the likeness of an official badge of a police officer, member of a fire department, or other officer appointed by a town in the commonwealth, or by any department of such town",
+     "ways": [
+      "casts",
+      "stamps",
+      "engraves",
+      "makes",
+      "has in his possession"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without being duly authorized thereto"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to assume an official character which he does not possess"
+     ]
+    }
+   ]
+  }
+ },
+ "268/36": {
+  "review": {
+   "isOffense": true,
+   "plain": "Taking money or a reward under an agreement to conceal a felony or not prosecute or give evidence is punishable by up to 5 years in state prison if the felony carries death or life, otherwise up to 2 years in jail.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "takes money, or a gratuity or reward, or an engagement therefor, upon an agreement or understanding, express or implied, to compound or conceal such felony, or not to prosecute therefor, or not to give evidence thereof"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes money, or a gratuity or reward, or an engagement therefor, upon an agreement or understanding, express or implied, to compound or conceal such felony, or not to prosecute therefor, or not to give evidence thereof",
+     "ways": [
+      "takes money",
+      "takes a gratuity",
+      "takes a reward",
+      "takes an engagement therefor"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Having knowledge of the commission of a felony"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for up to 5 years or in jail for up to 1 year",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "such crime is punishable in any other manner",
+       "penalty": "A fine of up to $500 or imprisonment in jail for up to 2 years",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/39": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly making a false written statement under penalty of perjury to police or the registry alleging a motor vehicle theft is punishable by up to 2 years, or 1 to 5 years for a repeat offense.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "makes a false written statement on a form bearing notice that false statements made therein are punishable under the penalty of perjury, to a police officer, police department or the registry of motor vehicles alleging the theft or conversion of a motor vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment for not less than 5 months nor more than 2 years, a fine of not less than $250 and not more than $2,500, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     },
+     {
+      "if": "the person is found guilty for a second or subsequent offense",
+      "penalty": "Imprisonment for not less than 1 nor more than 5 years, a fine of not less than $500 and not more than $5,000, or both; the sentence shall not be reduced to less than one year",
+      "min": 1,
+      "max": 5,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "For a second or subsequent offense, not eligible for probation, parole, furlough or work release, except a temporary release granted by the commissioner of correction to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institutions",
+     "A prosecution under this section shall neither be continued without a finding nor placed on file"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes a false written statement on a form bearing notice that false statements made therein are punishable under the penalty of perjury, to a police officer, police department or the registry of motor vehicles alleging the theft or conversion of a motor vehicle",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/40": {
+  "review": {
+   "isOffense": true,
+   "plain": "A person who knows another is a victim of rape, murder, manslaughter or armed robbery and is at the scene must report it to law enforcement when safe, or face a fine of $500 to $2,500.",
+   "category": "Courts & Justice",
+   "maxYears": 0,
+   "acts": [
+    "report said crime to an appropriate law enforcement official as soon as reasonably practicable"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $500 nor more than $2,500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fails to report said crime to an appropriate law enforcement official as soon as reasonably practicable",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is at the scene of said crime"
+     ],
+     "exceptions": [
+      "The person cannot report without danger or peril to himself or others"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that another person is a victim of aggravated rape, rape, murder, manslaughter or armed robbery"
+     ]
+    }
+   ]
+  }
+ }
+}

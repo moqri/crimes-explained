@@ -1,0 +1,1325 @@
+{
+ "268/1": {
+  "review": {
+   "isOffense": true,
+   "plain": "Lying under oath in a court proceeding or where an oath is required is perjury, punishable by up to 20 years in state prison, or life or any term of years if committed at a capital trial.",
+   "category": "Courts & Justice",
+   "maxYears": 999,
+   "acts": [
+    "swears or affirms falsely in a matter material to the issue or point in question",
+    "swears or affirms falsely in a matter relative to which such oath or affirmation is required"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "For perjury on the trial of an indictment for a capital crime: life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the perjury is in any other case",
+      "penalty": "Up to 20 years in state prison, or a fine of up to $1,000, or up to 2½ years in jail, or both such fine and imprisonment in jail",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ],
+    "defenses": [
+     "The defendant, at the time he made each declaration, believed each such declaration to be true or its falsity was the result of a good faith mistake or error (to an indictment or complaint alleging 2 or more inconsistent declarations)"
+    ],
+    "exceptions": [
+     "An admission that a declaration is false, made in the same continuous court or grand jury proceeding, bars prosecution if, when made, the declaration has not substantially affected the proceeding or it has not become manifest that the falsity has been or will be exposed"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Swears or affirms falsely in a matter material to the issue or point in question",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is lawfully required to depose the truth in a judicial proceeding or in a proceeding in a course of justice"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Swears or affirms falsely in a matter relative to which such oath or affirmation is required",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is required by law to take an oath or affirmation"
+     ]
+    }
+   ]
+  }
+ },
+ "268/1A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Signing a written statement that carries a declaration it is made under the penalties of perjury, when it is wilfully false in a material matter, is perjury and carries perjury's penalties.",
+   "category": "Courts & Justice",
+   "maxYears": null,
+   "acts": [
+    "signs and issues such a written statement containing or verified by such a written declaration"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Signs and issues a written statement containing or verified by a written declaration that it is made under the penalties of perjury",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The statement is wilfully false in a material matter"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of perjury and subject to the penalties of perjury; not set in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/2": {
+  "review": {
+   "isOffense": true,
+   "plain": "Procuring another person to commit perjury (subornation of perjury) is punished the same as perjury.",
+   "category": "Courts & Justice",
+   "maxYears": null,
+   "acts": [
+    "procuring another person to commit perjury"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Procures another person to commit perjury",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punished as for perjury; not set in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/3": {
+  "review": {
+   "isOffense": true,
+   "plain": "Attempting to incite or procure another person to commit perjury is punishable by up to 5 years in state prison or up to 1 year in jail, even if no perjury is committed.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "attempts to incite or procure another person to commit perjury"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Attempts to incite or procure another person to commit perjury",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "It does not matter that no perjury is committed"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison or up to 1 year in jail",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/4": {
+  "review": {
+   "isOffense": false,
+   "plain": "Lets a court of record commit a witness or require a recognizance when testimony creates a reasonable presumption of perjury, bind over witnesses to the superior court, and notify the district attorney."
+  }
+ },
+ "268/5": {
+  "review": {
+   "isOffense": false,
+   "plain": "Lets a court detain papers, books or documents produced in a proceeding where perjury is presumed, for as long as needed for the perjury prosecution."
+  }
+ },
+ "268/6": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully making false reports to, or testifying falsely before, certain state departments, or falsely entering company books reported to them, is punishable by up to 1 year in prison and a $1,000 fine.",
+   "category": "Government & Corruption",
+   "maxYears": 1,
+   "acts": [
+    "make false report",
+    "testify or affirm falsely to any material fact in any matter wherein an oath or affirmation is required or authorized",
+    "make any false entry or memorandum upon any book, report, paper or statement of any company making report to any of the said departments or board or said commissioner",
+    "aids or abets another in any violation of this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000, or up to 1 year of imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "exceptions": [
+     "Does not apply as provided in sections forty-eight and forty-nine of chapter one hundred and fifty-five"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes false report to the department of public utilities, the department of telecommunications and cable, the department of highways, the department of banking and insurance, the department of environmental protection, the board of registration of waste cleanup professionals, or the commissioner of revenue",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Testifies or affirms falsely to any material fact in any matter wherein an oath or affirmation is required or authorized, before any such department, board or commissioner",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Makes any false entry or memorandum upon any book, report, paper or statement of any company making report to any of the said departments or board or said commissioner",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to deceive the department or board or commissioner, or any agent appointed to examine the affairs of any such company, or to deceive the stockholders or any officer of any such company, or to injure or defraud any such company"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Aids or abets another in any violation of this section",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "defenses": [],
+     "intent": [
+      "With like intent"
+     ]
+    }
+   ]
+  }
+ },
+ "268/6A": {
+  "review": {
+   "isOffense": true,
+   "plain": "A public officer or employee who files or publishes a written report or statement known to be materially false in the course of official duties faces up to 1 year in prison and a $1,000 fine.",
+   "category": "Government & Corruption",
+   "maxYears": 1,
+   "acts": [
+    "executes, files or publishes any false written report, minutes or statement"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000, or up to 1 year of imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Executes, files or publishes any false written report, minutes or statement in the course of his official duties",
+     "ways": [
+      "executes",
+      "files",
+      "publishes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the same to be false in a material matter"
+     ],
+     "who": "An officer or employee of the commonwealth or of any political subdivision thereof or of any authority created by the general court"
+    }
+   ]
+  }
+ },
+ "268/6B": {
+  "review": {
+   "isOffense": true,
+   "plain": "A process server who willfully falsifies that service, or a particular kind of service, was made on a writ or other process returned to court faces up to 1 year in prison or a $500 fine.",
+   "category": "Courts & Justice",
+   "maxYears": 1,
+   "acts": [
+    "returns to the court a writ or other official instrument of process on which he has willfully falsified either the fact that service has been made, or the fact that a particular kind of service has been made"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Returns to the court a writ or other official instrument of process on which he has falsified either the fact that service has been made, or the fact that a particular kind of service has been made",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A process server",
+     "intent": [
+      "Willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500 or up to 1 year of imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/8B": {
+  "review": {
+   "isOffense": true,
+   "plain": "An appointing authority who compels or induces, by threats or coercion, a person on a civil service eligible list to refuse an appointment or promotion faces a fine and up to 2 months in jail.",
+   "category": "Government & Corruption",
+   "maxYears": 0.17,
+   "acts": [
+    "compels, or induces by the use of threats or other form of coercion, any person on an eligible list, as defined in chapter thirty-one, to refuse an appointment or promotion"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Compels, or induces by the use of threats or other form of coercion, any person on an eligible list to refuse an appointment or promotion by such authority or officer to any position in the classified civil service",
+     "ways": [
+      "compels",
+      "induces by the use of threats or other form of coercion"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An appointing authority or appointing officer, as defined in chapter thirty-one, acting by himself or by some other person on his behalf",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $50 nor more than $200, or up to 2 months in a jail or house of correction, or both",
+       "min": null,
+       "max": 0.17,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/9A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling tickets to, or soliciting or accepting contributions for, a testimonial dinner for a law enforcement, regulatory or investigatory official (other than an elected one) is punishable by a fine of up to $500.",
+   "category": "Government & Corruption",
+   "maxYears": 0,
+   "acts": [
+    "sell, offer for sale, or accept payment for, tickets or admissions to, nor solicit or accept contributions for, a testimonial dinner or function"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells, offers for sale, or accepts payment for, tickets or admissions to, or solicits or accepts contributions for, a testimonial dinner or function, or any affair having a purpose similar to that of a testimonial dinner or function",
+     "ways": [
+      "sell",
+      "offer for sale",
+      "accept payment for",
+      "solicit contributions for",
+      "accept contributions for"
+     ],
+     "tags": [],
+     "conditions": [
+      "It is for a person, other than a person holding elective public office, whose office or employment is in any law enforcement, regulatory or investigatory body or agency of the commonwealth or any political subdivision thereof"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/13": {
+  "review": {
+   "isOffense": true,
+   "plain": "Corrupting or trying to corrupt a master, auditor, juror, arbitrator, umpire or referee with a gift or promise to influence a decision is punishable by up to 5 years in state prison.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "corrupts or attempts to corrupt a master in chancery, master, auditor, juror, arbitrator, umpire or referee by giving, offering or promising any gift or gratuity whatever"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Corrupts or attempts to corrupt a master in chancery, master, auditor, juror, arbitrator, umpire or referee by giving, offering or promising any gift or gratuity whatever",
+     "ways": [
+      "giving",
+      "offering",
+      "promising"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to influence his opinion or decision, relative to a cause or matter pending in a court, or before an inquest, or for the decision of which he has been chosen or appointed"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison, or a fine of up to $1,000 and up to 1 year in jail",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/13A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Picketing or parading near a court, or near a building or residence of a judge, juror, witness or court officer, to interfere with justice or influence them is punishable by up to 1 year and a $5,000 fine.",
+   "category": "Courts & Justice",
+   "maxYears": 1,
+   "acts": [
+    "pickets or parades in or near a building housing a court of the commonwealth, or in or near a building or residence occupied or used by such judge, juror, witness, or court officer"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Pickets or parades in or near a building housing a court of the commonwealth, or in or near a building or residence occupied or used by such judge, juror, witness, or court officer",
+     "ways": [
+      "pickets",
+      "parades"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent of interfering with, obstructing, or impeding the administration of justice, or with the intent of influencing any judge, juror, witness, or court officer, in the discharge of his duty"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $5,000, or up to 1 year of imprisonment, or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/13B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully threatening, bribing, misleading, intimidating or harassing a witness, juror, or other person tied to a criminal case, to interfere with or retaliate over a proceeding, carries up to 10 years, or 20 in life-offense cases.",
+   "category": "Courts & Justice",
+   "maxYears": 20,
+   "acts": [
+    "threatens, attempts or causes physical, emotional or economic injury or property damage to",
+    "conveys a gift, offer or promise of anything of value to",
+    "misleads, intimidates or harasses another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Willfully, either directly or indirectly"
+    ],
+    "mentalState": [
+     "With the intent to or with reckless disregard for the fact that it may impede, obstruct, delay, prevent or otherwise interfere with a criminal investigation at any stage, a grand jury proceeding, a dangerousness hearing, a motion hearing, a trial or other criminal proceeding of any type, a parole hearing, parole violation proceeding or probation violation proceeding, an administrative hearing or a probate or family court proceeding, juvenile proceeding, housing proceeding, land proceeding, clerk's hearing, court-ordered mediation or any other civil proceeding of any type; or punish, harm or otherwise retaliate against any such person for such person or such person's family member's participation in any of the proceedings described in this section"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or up to 2½ years in the house of correction, or a fine of not less than $1,000 or more than $5,000, or both such fine and imprisonment",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the proceeding is the investigation or prosecution of a crime punishable by life imprisonment or the parole of a person convicted of such a crime",
+      "penalty": "Up to 20 years in state prison, or up to 2½ years in the house of correction, or a fine of up to $10,000, or both such fine and imprisonment",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Investigator\": an individual or group of individuals lawfully authorized by a department or agency of the federal government or any political subdivision thereof or a department or agency of the commonwealth or any political subdivision thereof to conduct or engage in an investigation of, prosecution for, or defense of a violation of the laws of the United States or of the commonwealth in the course of such individual's or group's official duties",
+     "\"Harass\": to engage in an act directed at a specific person or group of persons that seriously alarms or annoys such person or group of persons and would cause a reasonable person or group of persons to suffer substantial emotional distress including, but not limited to, an act conducted by mail or by use of a telephonic or telecommunication device or electronic communication device"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)(i)",
+     "act": "Threatens, attempts or causes physical, emotional or economic injury or property damage to another person",
+     "ways": [
+      "threatens",
+      "attempts",
+      "causes"
+     ],
+     "tags": [],
+     "conditions": [
+      "The other person is a: witness or potential witness; person who is or was aware of information, records, documents or objects that relate to a violation of a criminal law or a violation of conditions of probation, parole, bail or other court order; judge, juror, grand juror, attorney, victim witness advocate, police officer, correction officer, federal agent, investigator, clerk, court officer, court reporter, court interpreter, probation officer or parole officer; person who is or was attending or who had made known an intention to attend a proceeding described in this section; or family member of such a person"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(ii)",
+     "act": "Conveys a gift, offer or promise of anything of value to another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The other person is a: witness or potential witness; person who is or was aware of information, records, documents or objects that relate to a violation of a criminal law or a violation of conditions of probation, parole, bail or other court order; judge, juror, grand juror, attorney, victim witness advocate, police officer, correction officer, federal agent, investigator, clerk, court officer, court reporter, court interpreter, probation officer or parole officer; person who is or was attending or who had made known an intention to attend a proceeding described in this section; or family member of such a person"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(iii)",
+     "act": "Misleads, intimidates or harasses another person",
+     "ways": [
+      "misleads",
+      "intimidates",
+      "harasses"
+     ],
+     "tags": [],
+     "conditions": [
+      "The other person is a: witness or potential witness; person who is or was aware of information, records, documents or objects that relate to a violation of a criminal law or a violation of conditions of probation, parole, bail or other court order; judge, juror, grand juror, attorney, victim witness advocate, police officer, correction officer, federal agent, investigator, clerk, court officer, court reporter, court interpreter, probation officer or parole officer; person who is or was attending or who had made known an intention to attend a proceeding described in this section; or family member of such a person"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/13C": {
+  "review": {
+   "isOffense": true,
+   "plain": "Causing or actively taking part in the willful disruption of a court's proceedings may be punished by a fine of up to $1,000, up to 1 year in jail or house of correction, or both.",
+   "category": "Courts & Justice",
+   "maxYears": 1,
+   "acts": [
+    "causes or actively participates in the willful disruption of proceedings of any court of the commonwealth"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes or actively participates in the willful disruption of proceedings of any court of the commonwealth",
+     "ways": [
+      "causes",
+      "actively participates in"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "May be punished by a fine of up to $1,000, or up to 1 year in a jail or house of correction, or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/13D": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly distributing grand jury testimony transcripts or descriptions to interfere with a criminal proceeding or witness is punishable by up to 5 years in state prison or a $5,000 fine.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "distributes or possesses with intent to distribute any transcript of grand jury testimony or any substantially verbatim description of grand jury testimony"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Distributes or possesses with intent to distribute any transcript of grand jury testimony or any substantially verbatim description of grand jury testimony",
+     "ways": [
+      "distributes",
+      "possesses with intent to distribute"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Nothing in this subsection abridges any right protected by the First Amendment to the United States Constitution",
+      "A person performing an official function in relation to the grand jury may disclose a grand jury transcript or description pursuant to Massachusetts Rules of Procedure or Federal Rule of Criminal Procedure 6",
+      "An attorney representing a defendant may provide the transcript or description to his client or an investigator or attorney employed by or appointed to represent his client, unless it would violate a protective order"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With the intent to impede, obstruct, delay or otherwise interfere with any criminal proceeding, or the participation of any victim, witness or juror in any stage of a trial, grand jury, or other criminal proceeding, or the continued participation of any person furnishing information to a criminal proceeding, or the continued participation of any person furnishing information to a criminal investigator relating to a violation of any criminal statue"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years in a house of correction or up to 5 years in state prison, or a fine of up to $5,000, or both",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/13E": {
+  "review": {
+   "isOffense": true,
+   "plain": "Altering, destroying, mutilating or concealing a record or object to impair its use in an official proceeding is punishable by up to 5 years, or up to 10 years if the proceeding involves a criminal statute violation.",
+   "category": "Courts & Justice",
+   "maxYears": 10,
+   "acts": [
+    "alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Official proceeding\": a proceeding before a court or grand jury, or a proceeding before a state agency or commission, which proceeding is authorized by law and relates to an alleged violation of a criminal statute or the laws and regulations enforced by the state ethics commission, the state secretary, the office of the inspector general, or the office of campaign and political finance, or an alleged violation for which the attorney general may issue a civil investigative demand"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)",
+     "act": "Alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so",
+     "ways": [
+      "alters",
+      "destroys",
+      "mutilates",
+      "conceals"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "The record, document, or other object need not be admissible in evidence or free of a claim of privilege"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to impair the record, document or object's integrity or availability for use in an official proceeding, whether or not the proceeding is pending at that time"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $10,000, or up to 5 years in state prison, or up to 2½ years in a jail or house of correction, or both",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the official proceeding involves a violation of a criminal statute",
+       "penalty": "A fine of up to $25,000, or up to 10 years in state prison, or up to 2½ years in a jail or house of correction, or both",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/14": {
+  "review": {
+   "isOffense": true,
+   "plain": "A juror, arbitrator, umpire, referee, master or auditor who corruptly takes anything to give a verdict or receives a gift from a party faces up to 5 years in state prison.",
+   "category": "Courts & Justice",
+   "maxYears": 5,
+   "acts": [
+    "takes anything to give his verdict, award or report",
+    "receives any gift or gratuity from a party to a suit, cause or proceeding"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person summoned as a juror, or chosen or appointed as an arbitrator, umpire or referee, or a master in chancery, master or auditor",
+    "intent": [
+     "Corruptly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $1,000 and up to 1 year in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes anything to give his verdict, award or report",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Receives any gift or gratuity from a party to a suit, cause or proceeding for the trial or decision of which such juror has been summoned, or for the hearing or determination of which such master in chancery, master, auditor, arbitrator, umpire or referee has been chosen or appointed",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/14A": {
+  "review": {
+   "isOffense": false,
+   "plain": "Forbids discharging or depriving a person of employment because of grand or traverse jury service; an employer who does so is in contempt of court."
+  }
+ },
+ "268/14B": {
+  "review": {
+   "isOffense": true,
+   "plain": "An employer who fires or penalizes, or threatens to, an employee for missing work to be a witness or victim at a criminal action faces up to 1 month in prison or a $200 fine.",
+   "category": "Courts & Justice",
+   "maxYears": 0.08,
+   "acts": [
+    "subject an employee to discharge or penalty or the threat of discharge or penalty on account of the absence of such employee from employment by reason of his attendance as a witness at a criminal action"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Subjects an employee to discharge or penalty or the threat of discharge or penalty on account of the absence of such employee from employment by reason of his attendance as a witness at a criminal action",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An employer",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $200, or up to 1 month of imprisonment, or both",
+       "min": null,
+       "max": 0.08,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Conveying escape tools into a jail or prison, helping a prisoner escape, or rescuing a prisoner is punishable by up to 10 years in state prison, depending on the prisoner's status.",
+   "category": "Courts & Justice",
+   "maxYears": 10,
+   "acts": [
+    "conveys into a correctional institution of the commonwealth or into a jail, house of correction, house of reformation or like place of confinement, a disguise, instrument, tool, weapon or other thing which is adapted or useful to aid a prisoner in making his escape",
+    "aids or assists such prisoner in endeavoring to escape therefrom",
+    "forcibly or fraudulently rescues or attempts to rescue a prisoner held in custody upon a conviction or charge of crime"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "If the person whose escape or rescue was effected or intended is a convict under sentence to the state prison or is charged with a felony: a fine of up to $500 or up to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person is a convict under sentence to any other of said institutions",
+      "penalty": "Up to 7 years in state prison",
+      "min": null,
+      "max": 7,
+      "flags": []
+     },
+     {
+      "if": "the person is charged with a misdemeanor",
+      "penalty": "A fine of up to $500 or up to 2 years in jail",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Conveys into a correctional institution of the commonwealth or into a jail, house of correction, house of reformation or like place of confinement, a disguise, instrument, tool, weapon or other thing which is adapted or useful to aid a prisoner in making his escape",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to aid the escape of a prisoner"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Aids or assists such prisoner in endeavoring to escape therefrom, by any means",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "It does not matter whether the escape is effected or attempted or not"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Forcibly or fraudulently rescues or attempts to rescue a prisoner held in custody upon a conviction or charge of crime",
+     "ways": [
+      "forcibly rescues",
+      "fraudulently rescues"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/15A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Escaping from a city or town jail after being lawfully placed in custody is punishable by up to 2½ years in jail or house of correction, a $500 fine, or both.",
+   "category": "Courts & Justice",
+   "maxYears": 2.5,
+   "acts": [
+    "escapes from any such jail"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Escapes from any such jail",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person was lawfully placed in custody in a jail of a city or town"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years in a jail or house of correction, or a fine of up to $500, or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/16": {
+  "review": {
+   "isOffense": true,
+   "plain": "A prisoner who escapes or tries to escape, defeats electronic monitoring, or fails to return from temporary release faces up to 10 years in state prison.",
+   "category": "Courts & Justice",
+   "maxYears": 10,
+   "acts": [
+    "escapes or attempts to escape from any such institution or from land appurtenant thereto, or from any courthouse or from land appurtenant thereto or from the custody of any officer thereof while being conveyed to or from said institution, center or branch",
+    "disables or attempts to disable or defeat electronic monitoring of the prisoner",
+    "fails to return from any temporary release from said institution under the provisions of section ninety A of chapter one hundred and twenty-seven",
+    "fails to return from any temporary release from said institution, center or branch"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A prisoner of any penal institution including a prisoner who is held in custody for a court appearance or a person committed under the provisions of section five or six of chapter one hundred and twenty-three A to a treatment center or branch thereof, or a prisoner committed to any jail or correctional institution under a lawful order of a court",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "The person may be pursued and recaptured"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Escapes or attempts to escape from any such institution or from land appurtenant thereto, or from any courthouse or from land appurtenant thereto or from the custody of any officer thereof while being conveyed to or from said institution, center or branch",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Disables or attempts to disable or defeat electronic monitoring of the prisoner",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Fails to return from any temporary release from said institution under the provisions of section ninety A of chapter one hundred and twenty-seven, or from any temporary release from said institution, center or branch",
+     "ways": [
+      "fails to return"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/17": {
+  "review": {
+   "isOffense": true,
+   "plain": "Aiding a prisoner to escape or attempt to escape from an officer or person with lawful custody is punishable by up to 2 years in prison or a $500 fine.",
+   "category": "Courts & Justice",
+   "maxYears": 2,
+   "acts": [
+    "aids or assists a prisoner in escaping or attempting to escape from an officer or person who has the lawful custody of such prisoner"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Aids or assists a prisoner in escaping or attempting to escape from an officer or person who has the lawful custody of such prisoner",
+     "ways": [
+      "aids",
+      "assists"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500 or up to 2 years of imprisonment",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/18": {
+  "review": {
+   "isOffense": true,
+   "plain": "A jailer or officer who voluntarily lets a prisoner in custody escape suffers the same punishment the prisoner was sentenced to or would face for the charged crime.",
+   "category": "Courts & Justice",
+   "maxYears": null,
+   "acts": [
+    "suffers a prisoner in his custody upon conviction or upon a charge of crime to escape"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Suffers a prisoner in his custody upon conviction or upon a charge of crime to escape",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in the following section"
+     ],
+     "defenses": [],
+     "who": "A jailer or officer",
+     "intent": [
+      "Voluntarily"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "The punishment and penalties to which the prisoner whom he suffered to escape was sentenced or would be liable to suffer upon conviction of the crime wherewith he stood charged",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/19": {
+  "review": {
+   "isOffense": true,
+   "plain": "A penal institution employee who voluntarily lets a convict escape, or consents to the escape, faces up to 20 years in state prison.",
+   "category": "Courts & Justice",
+   "maxYears": 20,
+   "acts": [
+    "suffers a convict confined therein to escape, or in any way consents to such escape"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Suffers a convict confined therein to escape, or in any way consents to such escape",
+     "ways": [
+      "suffers a convict to escape",
+      "consents to such escape"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer or other person employed in any penal institution",
+     "intent": [
+      "Voluntarily"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 20 years in state prison",
+       "min": null,
+       "max": 20,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/20": {
+  "review": {
+   "isOffense": true,
+   "plain": "A jailer or officer who negligently lets a prisoner escape, or wilfully refuses to receive a lawfully committed prisoner, faces up to 2 years in prison or a $500 fine.",
+   "category": "Courts & Justice",
+   "maxYears": 2,
+   "acts": [
+    "suffers a prisoner in his custody upon conviction or upon a charge of crime to escape",
+    "refuses to receive into his custody a prisoner lawfully directed to be committed thereto upon conviction, upon a charge of crime, or upon a lawful process"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A jailer or officer",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 2 years of imprisonment",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Suffers a prisoner in his custody upon conviction or upon a charge of crime to escape",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Through negligence"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Refuses to receive into his custody a prisoner lawfully directed to be committed thereto upon conviction, upon a charge of crime, or upon a lawful process",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "268/21": {
+  "review": {
+   "isOffense": true,
+   "plain": "A state prison employee who lets a convict be at large, or be visited or comforted contrary to prison regulations, faces a fine of up to $500.",
+   "category": "Courts & Justice",
+   "maxYears": 0,
+   "acts": [
+    "suffers a convict under sentence of solitary imprisonment to be at large or out of the cell assigned to him",
+    "suffers any convict confined in the prison to be at large out of the prison",
+    "to be visited, conversed with or in any way relieved or comforted"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An officer or person employed in the state prison",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Suffers a convict under sentence of solitary imprisonment to be at large or out of the cell assigned to him",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Suffers any convict confined in the prison to be at large out of the prison",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Suffers any convict confined in the prison to be visited, conversed with or in any way relieved or comforted",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "It is contrary to the regulations of the prison"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "268/21A": {
+  "review": {
+   "isOffense": true,
+   "plain": "A correctional officer or contractor who has sexual relations with an inmate faces up to 5 years in state prison or a $10,000 fine, and the inmate is deemed unable to consent.",
+   "category": "Sex Crimes & Exploitation",
+   "maxYears": 5,
+   "acts": [
+    "engages in sexual relations with an inmate confined therein, within or outside of such institution, or an inmate who is otherwise under the direct custodial supervision and control of such officer or other person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An officer or other person who is employed by or contracts with any penal or correctional institution in the commonwealth",
+    "consequences": [
+     "In a prosecution under this section, an inmate is deemed incapable of consent to sexual relations with such person"
+    ],
+    "terms": [
+     "\"Sexual relations\": includes intentional, inappropriate contact of a sexual nature, including, but not limited to, conduct prohibited by other sections named in this section"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Engages in sexual relations with an inmate confined therein, within or outside of such institution, or an inmate who is otherwise under the direct custodial supervision and control of such officer or other person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "It is in the course of such employment or contract or as a result thereof"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in a state prison, or a fine of $10,000, or both",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "268/22": {
+  "review": {
+   "isOffense": true,
+   "plain": "An officer who wilfully delays serving an arrest warrant or search warrant faces a fine of up to $50.",
+   "category": "Courts & Justice",
+   "maxYears": 0,
+   "acts": [
+    "delays service of a warrant of arrest or a search warrant committed to him for service"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Delays service of a warrant of arrest or a search warrant committed to him for service",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer",
+     "intent": [
+      "Wilfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $50",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
