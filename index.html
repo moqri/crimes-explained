@@ -141,18 +141,38 @@
     .off-q ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 2px; max-width: 64ch; }
     .off-q li { padding: 0; border: 0; }
     .off-q ul.tiers { gap: 4px; }
-    .offenses .shared { margin: 2px 0 8px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px dashed var(--border); }
+    .off-els { margin: 4px 0 0 .35em; padding-left: 14px; border-left: 2px solid var(--border); }
+    .off-els + .off-els { margin-top: 0; }
+    .off-q .flag.tag:first-child { margin-left: 0; }
+    .offenses .shared { margin: 10px 0 2px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px dashed var(--border); }
     .offenses .shared-k { font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
     .flag { display: inline-block; margin-left: 6px; padding: 1px 7px; border-radius: 99px; font-size: 11.5px; line-height: 1.5; vertical-align: 1px;
       color: var(--muted); border: 1px solid var(--border); font-style: normal; }
+    .chip.freq { color: var(--text); }
+    .chip.freq.none { color: var(--muted); }
     .flag.tag { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
     .tier-src { color: var(--muted); font-size: .92em; }
-    @media (max-width: 560px) { .off-q { grid-template-columns: 1fr; } }
+    @media (max-width: 560px) { .off-q { grid-template-columns: 1fr; } .off-q ul { padding-left: .9em; } }
     .official h3 { color: var(--muted); display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
     .legend { font-size: 12px; text-transform: none; letter-spacing: 0; font-weight: 400; display: inline-flex; gap: 12px; flex-wrap: wrap; align-items: center; }
     .stat { font-family: Georgia, "Times New Roman", serif; font-size: 16.5px; line-height: 1.75; max-width: 72ch; }
     .stat p { min-width: 0; margin: 0; padding: 6px 0 6px 12px; border-left: 2px solid var(--border); }
     .stat p + p { margin-top: 2px; }
+    /* section pages: text and crimes side by side on wide screens */
+    main.page { max-width: 1320px; }
+    @media (min-width: 1100px) {
+      .page .split { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); gap: 32px; align-items: start; }
+      .page .split-crimes { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; overscroll-behavior: contain; }
+      .page .split-crimes .offenses { margin-top: 0; }
+      .page .split-crimes .off-q { grid-template-columns: 1fr; gap: 0; }
+      .page .split-crimes .off-k { padding-top: 0; }
+      .page .split-crimes .off-q ul { padding-left: .9em; }
+    }
+    @media (max-width: 1099px) { main.page { max-width: 900px; } }
+    .stat p[data-path] .lbl { cursor: pointer; }
+    .stat p.hl { background: var(--accent-soft); border-left-color: var(--accent); border-radius: 0 6px 6px 0; }
+    .offenses li[data-where] { cursor: pointer; border-radius: 8px; }
+    .offenses li.hl { background: var(--accent-soft); box-shadow: 0 0 0 6px var(--accent-soft); }
     .subsec + .subsec { margin-top: 18px; padding-top: 18px; border-top: 1px solid color-mix(in srgb, var(--text) 22%, transparent); }
     .stat p[data-i="0"] { border-left-color: var(--accent); }
     .stat p[data-i="1"] { border-left-color: color-mix(in srgb, var(--accent) 55%, var(--border)); }
@@ -243,6 +263,7 @@
       <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
       <li>References to other laws are <a class="xref" href="#">links</a>. Links to sections on this page jump there; others open the official text on GovInfo.</li>
       <li>The colored bar on each card shows the <b>maximum</b> prison time. Most people convicted receive less. Actual sentences depend on the facts and the federal sentencing guidelines.</li>
+      <li><b>How common:</b> the number of people sentenced in federal court in a fiscal year (October to September) with at least one conviction under the section, from the U.S. Sentencing Commission's <a href="https://www.ussc.gov/research/datafiles/commission-datafiles" target="_blank" rel="noopener">individual datafile</a>. A person convicted under several sections counts once for each. It covers federal prosecutions only, not how often the conduct happens, and sections often cited together (such as §&nbsp;922 with §&nbsp;924, or §&nbsp;2) rank high because they are charged alongside other crimes.</li>
       <li>A <b>felony</b> is a crime punishable by more than one year in prison; a <b>misdemeanor</b> is one year or less.</li>
     </ul>
         </div>
@@ -253,11 +274,11 @@
   <div class="controls">
     <input class="search" id="q" type="search" placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”" aria-label="Search">
     <select id="category" aria-label="Filter by type of crime"><option value="">All types</option></select>
-    <select id="severity" aria-label="Filter by maximum penalty"><option value="">Any penalty</option></select>
     <select id="chapter" aria-label="Filter by chapter"><option value="">All chapters</option></select>
+    <select id="severity" aria-label="Filter by maximum penalty"><option value="">Any penalty</option></select>
     <select id="sort" aria-label="Sort">
       <option value="code">Sort: Code order</option>
-      <option value="severe">Sort: Most severe first</option>
+      <option value="common">Sort: Most common first</option>
       <option value="az">Sort: A–Z</option>
     </select>
   </div>
@@ -409,7 +430,7 @@
   const ACT_CODIFIED = /^\s+of\s+the\s+[^();]{3,120}?\s*\((\d+)\s+U\.S\.C\.\s+(\d+[a-zA-Z]*(?:[–-]\d+[a-zA-Z]*)?)/;
   const OTHER_LAW_AFTER = /^(?:\s*\[\d+\])?(?:\s*\((?:[^()]|\([^()]*\)){0,150}\))?(?:(?:\s*,\s*(?:(?:and|or)\s+)?|\s+(?:and|or)\s+)(?:sections?\s+)?\d+[A-Za-z]*(?:[–-][A-Za-z0-9]+)?(?:\([A-Za-z0-9]+\))*(?:\s*\[\d+\])?(?:\s*\((?:[^()]|\([^()]*\)){0,150}\))?)*\s+of\s+(?!this\s+title)(?:title\s+(\d+)\b)?/;
   // Part I sections come from the data; Parts II–V start at § 3001 and stop at § 6005.
-  let PART1 = new Set(), STAT = {}, ACT_SECTIONS = {};
+  let PART1 = new Set(), STAT = {}, ACT_SECTIONS = {}, FREQ = null;
   const isTitle18 = sec => PART1.has(sec) || (parseInt(sec) >= 3001 && parseInt(sec) <= 6005);
   // Citations in the statute text that GovInfo has no page for (renumbered sections, typos flagged by footnotes in the law).
   const DEAD = new Set(['14/83', '14/81', '14/491', '46/151', '18/2232a', '18/230']);
@@ -561,6 +582,7 @@
   fetch('crimes.json').then(r => r.json()).then(data => {
     $('edition').textContent = `Source: ${data.edition}.`;
     PART1 = new Set(data.partISections);
+    FREQ = data.frequency;
     const nCrimes = data.crimes.reduce((n, c) => n + (c.elements?.crimes?.length || 0), 0);
     if (nCrimes) $('crimecount').textContent = `: ${nCrimes.toLocaleString()} crimes in ${data.crimes.length.toLocaleString()} sections`;
     STAT = data.statLinks || {};
@@ -618,7 +640,17 @@
       if (!groups.length || startsTop) groups.push([]);
       groups[groups.length - 1].push(p);
     }
-    return groups.map(g => `<div class="subsec">${g.map(p => `<p data-i="${p.i}" style="margin-left:${p.i * 1.25}em">${para(p)}</p>`).join('')}</div>`).join('');
+    const path = [];   // label at each depth, e.g. ["(b)", "(2)", "(A)"]
+    const pathOf = p => {
+      const m = p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
+      if (!m) return '';                                   // unlabeled closing line: belongs to the enclosing level
+      path.length = p.i; path[p.i] = m[1];
+      return path.join('');
+    };
+    return groups.map(g => `<div class="subsec">${g.map(p => {
+      const pth = pathOf(p);
+      return `<p data-i="${p.i}"${pth ? ` data-path="${esc(pth)}"` : ''} style="margin-left:${p.i * 1.25}em">${para(p)}</p>`;
+    }).join('')}</div>`).join('');
   }
 
   // Crime breakdown ("elements"): shared fields once per section, then each crime with only what differs.
@@ -644,10 +676,13 @@
     }).join('');
   }
   function crimeHead(o) {
-    const tags = (o.tags || []).map(t => `<span class="flag tag">+ ${esc(t)}</span>`).join('');
     const ways = o.ways?.length > 1 ? `<div class="off-q"><span class="off-k">Ways to commit</span><ul><li>${o.ways.map(esc).join(' · ')}</li></ul></div>` : '';
-    return `<p class="off-act">${o.where ? `<span class="lbl">${esc(o.where)}</span> ` : ''}<span class="act">${linkify(o.act)}</span>${tags}</p>${ways}`;
+    return `<p class="off-act">${o.where ? `<span class="lbl">${esc(o.where)}</span> ` : ''}<span class="act">${linkify(o.act)}</span></p>${els(ways)}`;
   }
+  // Attempt / conspiracy go last, after the crime's other elements.
+  const tagsRow = o => o.tags?.length ? `<div class="off-q"><span class="off-k">Also covers</span><ul><li>${o.tags.map(t => `<span class="flag tag">+ ${esc(t)}</span>`).join('')}</li></ul></div>` : '';
+  const els = rows => rows ? `<div class="off-els">${rows}</div>` : '';   // a crime's elements, indented under its act
+  const whereAttr = o => { const m = (o.where || '').replace(/\s+/g, '').match(/^(?:\([A-Za-z0-9]+\))+/); return m ? ` data-where="${esc(m[0])}"` : ''; };
   function elementsHTML(c) {
     const el = c.elements;
     if (!el?.crimes?.length) return '';
@@ -655,12 +690,12 @@
     if (n === 1) {   // one crime: show everything together
       const o = { ...shared };
       for (const [k, v] of Object.entries(el.crimes[0])) if (v !== undefined && v !== null && !(Array.isArray(v) && !v.length)) o[k] = v;
-      return `<div class="offenses"><h3>The crime in this section</h3><ol><li>${crimeHead(el.crimes[0])}${rowsHTML(o)}</li></ol></div>`;
+      return `<div class="offenses"><h3>1 crime in this section</h3><ol><li${whereAttr(el.crimes[0])}>${crimeHead(el.crimes[0])}${els(rowsHTML(o) + tagsRow(el.crimes[0]))}</li></ol></div>`;
     }
     const sharedRows = rowsHTML(shared, new Set(['conditions', 'exceptions', 'defenses']));
     return `<div class="offenses"><h3>${n} crimes in this section</h3>
-      ${sharedRows ? `<div class="shared"><div class="shared-k">Applies to all ${n} crimes below</div>${sharedRows}</div>` : ''}
-      <ol>${el.crimes.map(o => `<li>${crimeHead(o)}${rowsHTML(o)}</li>`).join('')}</ol></div>`;
+      <ol>${el.crimes.map(o => `<li${whereAttr(o)}>${crimeHead(o)}${els(rowsHTML(o) + tagsRow(o))}</li>`).join('')}</ol>
+      ${sharedRows ? `<div class="shared"><div class="shared-k">Applies to all ${n} crimes above</div>${sharedRows}</div>` : ''}</div>`;
   }
 
   // Card bodies (enriched official text + plain summary) are built on first open: ~800 sections is too much to render up front.
@@ -673,13 +708,15 @@
                 <a href="https://www.govinfo.gov/link/plaw/${cn}/public/${num}?link-type=html" target="_blank" rel="noopener">Amending law ↗</a> ·
                 <a href="https://www.law.cornell.edu/uscode/text/18/${esc(c.section)}" target="_blank" rel="noopener">Current text on Cornell LII ↗</a></div>`;
             }).join('')}
+            <div class="split">
             <div class="official">
               <h3>Official text <span class="legend"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span></h3>
               <div class="stat">${statGroups(c.text)}</div>
               ${c.source ? `<p class="src"><b>History:</b> ${enrich(c.source)}</p>` : ''}
               ${c.footnotes.map(f => `<p class="fn">${enrich(f)}</p>`).join('')}
             </div>
-            ${elementsHTML(c)}
+            ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(elementsHTML(c))}
+            </div>
             <div class="actions">
               <button type="button" data-copy="${esc(c.section)}">Copy link</button>
               <a href="${c.url}" target="_blank" rel="noopener">Official page on GovInfo ↗</a>
@@ -709,7 +746,7 @@
       (!sevSel.value || c.tier.id === sevSel.value) &&
       (!t || c.title.toLowerCase().includes(t) || c.section.toLowerCase() === secTerm || c.plainBody.includes(t) ||
         (fulltext.checked && c.body.includes(t))));
-    if (sortSel.value === 'severe') rows.sort((a, b) => (b.maxYears ?? -1) - (a.maxYears ?? -1) || a.n - b.n);
+    if (sortSel.value === 'common') rows.sort((a, b) => (b.sentenced || 0) - (a.sentenced || 0) || a.n - b.n);
     if (sortSel.value === 'az') rows.sort((a, b) => a.title.localeCompare(b.title));
     return rows;
   }
@@ -718,6 +755,7 @@
     return `<span class="chip sev"${c.maxPlus ? ' title="Some forms of this crime are punished under other sections and may carry more."' : ''}>${esc(sevText(c))}</span>
       ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
       ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
+      ${FREQ ? `<span class="chip freq${c.sentenced ? '' : ' none'}" title="People sentenced in federal court in fiscal year ${FREQ.fiscalYear} with at least one conviction under this section (U.S. Sentencing Commission). Federal cases only.">${c.sentenced ? `${c.sentenced.toLocaleString()} sentenced` : 'None sentenced'} (FY${FREQ.fiscalYear})</span>` : ''}
       ${chapterLink(c.chapter, `Ch. ${esc(c.chapter)} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
   }
 

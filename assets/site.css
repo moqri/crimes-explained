@@ -134,18 +134,38 @@
     .off-q ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 2px; max-width: 64ch; }
     .off-q li { padding: 0; border: 0; }
     .off-q ul.tiers { gap: 4px; }
-    .offenses .shared { margin: 2px 0 8px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px dashed var(--border); }
+    .off-els { margin: 4px 0 0 .35em; padding-left: 14px; border-left: 2px solid var(--border); }
+    .off-els + .off-els { margin-top: 0; }
+    .off-q .flag.tag:first-child { margin-left: 0; }
+    .offenses .shared { margin: 10px 0 2px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px dashed var(--border); }
     .offenses .shared-k { font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
     .flag { display: inline-block; margin-left: 6px; padding: 1px 7px; border-radius: 99px; font-size: 11.5px; line-height: 1.5; vertical-align: 1px;
       color: var(--muted); border: 1px solid var(--border); font-style: normal; }
+    .chip.freq { color: var(--text); }
+    .chip.freq.none { color: var(--muted); }
     .flag.tag { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
     .tier-src { color: var(--muted); font-size: .92em; }
-    @media (max-width: 560px) { .off-q { grid-template-columns: 1fr; } }
+    @media (max-width: 560px) { .off-q { grid-template-columns: 1fr; } .off-q ul { padding-left: .9em; } }
     .official h3 { color: var(--muted); display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
     .legend { font-size: 12px; text-transform: none; letter-spacing: 0; font-weight: 400; display: inline-flex; gap: 12px; flex-wrap: wrap; align-items: center; }
     .stat { font-family: Georgia, "Times New Roman", serif; font-size: 16.5px; line-height: 1.75; max-width: 72ch; }
     .stat p { min-width: 0; margin: 0; padding: 6px 0 6px 12px; border-left: 2px solid var(--border); }
     .stat p + p { margin-top: 2px; }
+    /* section pages: text and crimes side by side on wide screens */
+    main.page { max-width: 1320px; }
+    @media (min-width: 1100px) {
+      .page .split { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); gap: 32px; align-items: start; }
+      .page .split-crimes { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; overscroll-behavior: contain; }
+      .page .split-crimes .offenses { margin-top: 0; }
+      .page .split-crimes .off-q { grid-template-columns: 1fr; gap: 0; }
+      .page .split-crimes .off-k { padding-top: 0; }
+      .page .split-crimes .off-q ul { padding-left: .9em; }
+    }
+    @media (max-width: 1099px) { main.page { max-width: 900px; } }
+    .stat p[data-path] .lbl { cursor: pointer; }
+    .stat p.hl { background: var(--accent-soft); border-left-color: var(--accent); border-radius: 0 6px 6px 0; }
+    .offenses li[data-where] { cursor: pointer; border-radius: 8px; }
+    .offenses li.hl { background: var(--accent-soft); box-shadow: 0 0 0 6px var(--accent-soft); }
     .subsec + .subsec { margin-top: 18px; padding-top: 18px; border-top: 1px solid color-mix(in srgb, var(--text) 22%, transparent); }
     .stat p[data-i="0"] { border-left-color: var(--accent); }
     .stat p[data-i="1"] { border-left-color: color-mix(in srgb, var(--accent) 55%, var(--border)); }

@@ -96,6 +96,106 @@ def without_words(text, start, end):
 
 NEW_PROVISION = re.compile(r"(?<=[.)\]])\s+(?=(?:There is jurisdiction|For (?:the )?purposes of (?:this|such|subsection|section|paragraph)|As used in this|In this (?:section|subsection|paragraph|chapter)|This (?:section|subsection) (?:does not|shall not|shall apply|applies)|Nothing in this)\b)")
 
+def para_paths(text):
+    path, out = [], []
+    for p in text:
+        m = LEAD_CHAIN.match(p["t"])
+        if m:
+            del path[p["i"]:]
+            path += [""] * (p["i"] - len(path))
+            path.append(m.group(0))
+            out.append("".join(path))
+        else:
+            out.append(None)
+    return out
+
+def stem(w):
+    w = w.lower()
+    for suf in ("ies", "es", "s", "ed", "ing"):
+        if w.endswith(suf) and len(w) - len(suf) >= 3: return w[: -len(suf)]
+    return w
+
+def fill_act_gaps(c):
+    added, paths = 0, para_paths(c["text"])
+    for cr in c["elements"]["crimes"]:
+        m = re.match(r"^(?:\([A-Za-z0-9]+\))+", (cr.get("where") or "").replace(" ", ""))
+        if not m: continue
+        w = m.group(0)
+        cand = [i for i, pp in enumerate(paths) if pp and (pp.startswith(w) or w.startswith(pp))]
+        if not cand or any(c["text"][i].get("a") for i in cand): continue
+        # unlabeled closing lines after the subsection ("…to ship or transport in interstate commerce…") belong to it too
+        top = cand[-1]
+        while top + 1 < len(paths) and paths[top + 1] is None: top += 1; cand.append(top)
+        all_words = re.findall(r"[A-Za-z]+", cr["act"])[:5]
+        if not all_words: continue
+        order = sorted(cand, key=lambda i: (not (paths[i] or "").startswith(w), i))   # the crime's own paragraph first
+        hit = None
+        for k in range(len(all_words), 0, -1):          # 5 leading words, then fewer; one word only if unique
+            rx = re.compile(r"(?i)\b" + r"\W+".join(re.escape(stem(x)) + r"\w*" for x in all_words[:k]) + r"\b")
+            for i in order:
+                found = list(rx.finditer(c["text"][i]["t"]))
+                if found and (k > 1 or len(found) == 1): hit = (i, found[0]); break
+            if hit: break
+        if hit:
+            i, mm = hit
+            t = c["text"][i]["t"]
+            end = mm.end()
+            stop = re.search(r"[,;(—]", t[end:])
+            end = min(len(t), end + (stop.start() if stop else len(t) - end), mm.start() + 240)
+            while end > mm.start() and t[end - 1] in " ,;": end -= 1
+            c["text"][i].setdefault("a", []).append([mm.start(), end]); added += 1
+    return added
+
+CITES_OTHER = re.compile(r"§\s*(\d+[A-Za-z]*(?:-\d+)?)")
+OWN_ONLY = ["federalBasis", "knowledge", "mentalState", "intent", "consequences", "terms", "conditions", "exceptions", "defenses"]
+
+def own_text_only(sec, el):
+    """A section's crime list uses only that section's own text. Items the breakdown borrowed from another section
+    (e.g. §922's "Willfully (§924(a)(1)(D))") are dropped, and penalty tiers copied from another section collapse
+    into one pointer to it ("Set in §924(a)(2)"). Returns how many items and tiers were removed."""
+    other = lambda v: any(m.upper() != sec.upper() for m in CITES_OTHER.findall(v))
+    removed = 0
+    for b in [el["shared"]] + el["crimes"]:
+        for k in OWN_ONLY:
+            if b.get(k):
+                keep = [v for v in b[k] if not other(v)]
+                removed += len(b[k]) - len(keep); b[k] = keep
+        tiers = b.get("penalties") or []
+        borrowed = [t for t in tiers if t.get("source") and other(t["source"])]
+        if borrowed:
+            srcs = list(dict.fromkeys(t["source"] for t in borrowed))
+            own = [t for t in tiers if t not in borrowed]
+            where = re.sub(r"§\s*", "section ", re.sub(r"§§\s*", "sections ", "; ".join(srcs)))
+            b["penalties"] = own + [{"if": "", "penalty": "Set in " + where, "min": None, "max": None, "flags": []}]
+            removed += len(borrowed)
+    return removed
+
+PURPOSE_BEFORE_TO = re.compile(r"(?i)\b(?:intent|intending|order|purpose|design|view|attempts?|attempting|conspires?|conspiring|endeavors?)\s+to\s+$")
+
+def tidy_acts(c):
+    """Every act highlight: start at a preceding infinitive "to" (unless it is "intent to", "in order to", …),
+    end without trailing punctuation, and drop highlights that are only punctuation; then merge overlaps."""
+    changed = 0
+    for p in c["text"]:
+        if "a" not in p: continue
+        t, out = p["t"], []
+        for s, e in p["a"]:
+            s0, e0 = s, e
+            while s < e and t[s] in " ,;.:—": s += 1
+            while e > s and t[e - 1] in " ,;.:—": e -= 1
+            before = t[max(0, s - 40):s]
+            if re.search(r"(?i)\bto\s+$", before) and not PURPOSE_BEFORE_TO.search(before):
+                s = s - len(re.search(r"(?i)to\s+$", before).group(0))
+            if e - s < 2 or not re.search(r"[A-Za-z]", t[s:e]): changed += 1; continue
+            changed += (s, e) != (s0, e0)
+            out.append([s, e])
+        merged = []
+        for s, e in sorted(out):
+            if merged and s <= merged[-1][1] + 1: merged[-1][1] = max(merged[-1][1], e)
+            else: merged.append([s, e])
+        p["a"] = merged
+    return changed
+
 def clean(s):
     s = re.sub(r"<!--.*?-->", "", s, flags=re.S)
     s = re.sub(r"<sup>\s*<a[^>]*>(.*?)</a>\s*</sup>", r"[\1]", s, flags=re.S)
@@ -187,6 +287,22 @@ if os.path.exists(plain_path):
         elements = json.load(open(elements_path, encoding="utf-8"))
         for c in out:
             if c["section"] in elements: c["elements"] = elements[c["section"]]
+        print(sum(own_text_only(c["section"], c["elements"]) for c in out if c.get("elements")),
+              "breakdown items or penalty tiers taken from other sections removed")
+    freq_path = os.path.join(here, "frequency.json")  # how often each section is used: people sentenced (USSC)
+    if os.path.exists(freq_path):
+        freq = json.load(open(freq_path))
+        by_upper = {k.upper(): v for k, v in freq["counts"].items()}
+        for c in out: c["sentenced"] = by_upper.get(c["section"].upper(), 0)
+    # Fill act highlights the phrase pass missed (e.g. §922(a)(3) "to transport into or receive"), using each crime's
+    # act from the breakdown: match its first words by stem in that crime's subsection (or its lead-in) and highlight
+    # to the end of the clause.
+    filled = 0
+    for c in out:
+        if c.get("elements"): filled += fill_act_gaps(c)
+    print(filled, "act highlights added from the crime breakdowns")
+    fixed = sum(tidy_acts(c) for c in out)
+    print(fixed, "act highlights tidied (leading \"to\", trailing punctuation)")
     dropped = [c["section"] for c in out if c.get("isOffense") is False]
     out = [c for c in out if c.get("isOffense") is not False]
     print(len(dropped), "sections excluded as not defining a crime")
@@ -213,7 +329,8 @@ for c in out:
         for m in ACT_CITE.finditer(p["t"]):
             act_sections.setdefault(f"{re.sub(r'\s+', ' ', m.group(2)).strip().lower()}|{m.group(1)}", [m.group(3), m.group(4)])
 
-json.dump({"partISections": part1, "statLinks": stat_links, "actSections": act_sections, "edition": "United States Code, 2024 Edition (current through Jan. 6, 2025)", "source": SRC, "crimes": out},
+freq_meta = {k: v for k, v in json.load(open(os.path.join(here, "frequency.json"))).items() if k != "counts"} if os.path.exists(os.path.join(here, "frequency.json")) else None
+json.dump({"frequency": freq_meta, "partISections": part1, "statLinks": stat_links, "actSections": act_sections, "edition": "United States Code, 2024 Edition (current through Jan. 6, 2025)", "source": SRC, "crimes": out},
           open(os.path.join(here, "crimes.json"), "w"), ensure_ascii=False, indent=1)
 print(len(out), "sections;", out[0]["section"], "→", out[-1]["section"])
 print("warnings:", warn)

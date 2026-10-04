@@ -35,7 +35,8 @@ python3 -m http.server 8000
 | `crimes.json` | Built data: official text of each section plus summaries, highlights, and link targets |
 | `build_data.py` | Downloads Title 18, Part I from GovInfo and builds `crimes.json` |
 | `plain.json` | Plain-English summaries, key points, penalties, crime types, and prohibited-act phrases for each section |
-| `elements.json` | Each section's crimes broken into elements: act, ways to commit, attempt/conspiracy tags, who, federal basis, knowledge, mental state, intent, conditions, exceptions, defenses, penalty tiers (with mandatory-minimum, consecutive, and no-probation flags), other consequences, and key terms |
+| `elements.json` | Each section's crimes broken into elements: act, ways to commit, attempt/conspiracy tags, who, federal basis, knowledge, mental state, intent, conditions, exceptions, defenses, penalty tiers (with mandatory-minimum, consecutive, and no-probation flags), other consequences, and key terms. The build shows only each section's own text: items citing another section are dropped, and penalties set elsewhere become a link such as "Set in section 924(a)(2)" |
+| `ussc_frequency.py` / `frequency.json` | How common each section is: people sentenced in federal court with at least one conviction under it, from the U.S. Sentencing Commission's individual datafile (FY2025: 66,662 people). Re-run with a newer fiscal year to update. |
 | `later_amendments.json` | Changes made by laws enacted after the GovInfo edition used here |
 | `resolve_stat_links.py` | Finds the best GovInfo target for each Statutes at Large citation; writes `stat_links.json` and `plaw_pages.json` |
 | `summary-fixes.json` | Log of corrections made when the summaries were checked against the law |
@@ -43,6 +44,7 @@ python3 -m http.server 8000
 To rebuild after the source changes:
 
 ```sh
+python3 ussc_frequency.py 2025 # how often each section is used (U.S. Sentencing Commission)
 python3 build_data.py          # fetch the law text and merge in plain.json
 python3 resolve_stat_links.py  # refresh Statutes at Large link targets
 python3 build_data.py          # rebuild with the new link targets
