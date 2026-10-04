@@ -2,7 +2,7 @@
 
 Notes for picking this project up in a new Claude Code session or account. Read this first, then `README.md` (files and build commands).
 
-- **Live site:** https://moqri.github.io/crimes-explained/ (Federal) and https://moqri.github.io/crimes-explained/ma/ (MA)
+- **Live site:** https://crimes.wiki/ (Federal) and https://crimes.wiki/ma/ (MA)
 - **Repo:** https://github.com/moqri/crimes-explained (public, GitHub Pages from `main`, root folder)
 - **Local copy:** `/Users/mahdimoqri/ai/usc18` (the parent folder `/Users/mahdimoqri/ai` is otherwise empty)
 - **State as of 2026-10-04:** everything is committed and pushed. Nothing is running except possibly a local server.
