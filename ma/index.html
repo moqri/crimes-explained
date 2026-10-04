@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Massachusetts Crime Code</title>
+  <title>Crimes Explained: MA</title>
   <style>
     :root {
       --bg: #f6f5f1; --surface: #ffffff; --surface-2: #faf9f6; --text: #1d1c1a; --muted: #67645c;
@@ -252,8 +252,8 @@
 <body>
 <main>
   <header>
-    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a></nav><!-- /jur:nav -->
-    <h1>Massachusetts Crime Code</h1>
+    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">MA</a></nav><!-- /jur:nav -->
+    <h1>Crimes Explained: MA</h1>
     <!-- jur:lede --><p class="lede">Every crime in chapters <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">265 (Crimes Against the Person)</a>, <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266" target="_blank" rel="noopener" title="Chapter 266: official text on malegislature.gov">266 (Crimes Against Property)</a> and <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268" target="_blank" rel="noopener" title="Chapter 268: official text on malegislature.gov">268 (Crimes Against Public Justice)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
       <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
@@ -603,13 +603,13 @@
   function maLink(chap, sec, raw) {
     const slug = sec.replace('½', '1~2').replace('¾', '3~4');
     if (MA_DEAD.has(`${chap}/${slug}`)) return raw;
-    if (bySection.has(`${chap}/${slug}`)) return `<a class="xref" href="../${chap}/${slug}.html" title="G.L. c. ${chap}, § ${sec} on ${MA ? 'Massachusetts' : 'US'} Crime Code">${raw}</a>`;
+    if (bySection.has(`${chap}/${slug}`)) return `<a class="xref" href="../${chap}/${slug}.html" title="G.L. c. ${chap}, § ${sec} on Crimes Explained">${raw}</a>`;
     return `<a class="xref ext" href="https://malegislature.gov/Laws/GeneralLaws/Chapter${chap}/Section${slug}" target="_blank" rel="noopener" title="G.L. c. ${chap}, § ${sec} on malegislature.gov">${raw}</a>`;
   }
   function xref(title, sec, raw) {
     if (/^\d+[–-]\d+$/.test(sec)) sec = sec.split(/[–-]/)[0];  // a range like 1311–1314 links to its first section
     if (DEAD.has(`${title}/${sec}`)) return raw;
-    if (title === '18' && !MA && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on ${MA ? 'Massachusetts' : 'US'} Crime Code">${raw}</a>`;
+    if (title === '18' && !MA && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on Crimes Explained">${raw}</a>`;
     return `<a class="xref ext" href="${usc(title, sec)}" target="_blank" rel="noopener" title="${title} U.S.C. § ${sec} on GovInfo">${raw}</a>`;
   }
   // Style the leading "(a) Heading.—" of a statute paragraph.
@@ -798,6 +798,7 @@
             </div>
             ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(elementsHTML(c))}
             </div>
+            ${c.plain ? `<div class="plain"><h3>Simplified explanation</h3><p>${esc(c.plain)}</p></div>` : ''}
             <div class="actions">
               <button type="button" data-copy="${esc(c.section)}">Copy link</button>
               <a href="${c.url}" target="_blank" rel="noopener">Official page on ${MA ? 'malegislature.gov' : 'GovInfo'} ↗</a>

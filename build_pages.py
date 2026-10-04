@@ -8,9 +8,9 @@ headless Chrome; write the pages, plus sitemap.xml and robots.txt (covering both
 import glob, html, json, os, re, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BASE_URL = "https://moqri.github.io/crime-code/"   # used for canonical links and the sitemap
+BASE_URL = "https://moqri.github.io/us-crimes-explained/"   # used for canonical links and the sitemap
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-SERVER = "http://localhost:8000/usc18/"                         # a local server must be serving this folder
+SERVER = "http://localhost:8000/"                         # a local server must be serving this folder
 
 index = open(os.path.join(HERE, "index.html"), encoding="utf-8").read()
 MA = "--jur" in sys.argv and sys.argv[sys.argv.index("--jur") + 1] == "ma"
@@ -24,7 +24,7 @@ if MA:
 chap_link = lambda n, t: f'<a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter{n}" target="_blank" rel="noopener" title="Chapter {n}: official text on malegislature.gov">{"Chapter" if len(ma_chapters) == 1 else ""} {n} ({t})</a>'.replace("> ", ">")
 chap_list = (lambda xs: xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1])([chap_link(n, t) for n, t in ma_chapters.items()]) if ma_chapters else ""
 MA_REGIONS = {
-    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a></nav>',
+    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">MA</a></nav>',
     "lede": f'<p class="lede">Every crime in {"" if len(ma_chapters) == 1 else "chapters "}{chap_list} of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
     "about": """
           <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
@@ -43,7 +43,7 @@ MA_REGIONS = {
   """,
 }
 if MA:
-    page_src = index.replace('<html lang="en">', '<html lang="en" data-jur="ma">', 1).replace("<title>US Crime Code</title>", "<title>Massachusetts Crime Code</title>", 1).replace("<h1>US Crime Code</h1>", "<h1>Massachusetts Crime Code</h1>", 1)
+    page_src = index.replace('<html lang="en">', '<html lang="en" data-jur="ma">', 1).replace("<title>Crimes Explained: Federal</title>", "<title>Crimes Explained: MA</title>", 1).replace("<h1>Crimes Explained: Federal</h1>", "<h1>Crimes Explained: MA</h1>", 1)
     page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"', 1)
     for name, body in MA_REGIONS.items():
         page_src, n = re.subn(rf"<!-- jur:{name} -->.*?<!-- /jur:{name} -->", lambda m: f"<!-- jur:{name} -->{body}<!-- /jur:{name} -->", page_src, flags=re.S)
@@ -149,8 +149,8 @@ def page(i, p):
     law = "M.G.L. " + p["label"] if MA else f'18 U.S.C. § {p["section"]}'
     desc = p["plain"] or f'{law}, {p["title"]}: official text, color-coded, with each crime broken into its elements.'
     desc = (desc[:157] + "…") if len(desc) > 160 else desc
-    title = f'{law}: {p["title"]} · {"Massachusetts" if MA else "US"} Crime Code'
-    back = "Massachusetts Crime Code, all" if MA else "US Crime Code, all"
+    title = f'{law}: {p["title"]} · Crimes Explained'
+    back = "Crimes Explained: MA, all" if MA else "Crimes Explained: Federal, all"
     source = (f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
               if MA else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
     return f"""<!doctype html>
