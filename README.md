@@ -22,7 +22,7 @@ Citations link to the official sources on GovInfo (U.S. Government Publishing Of
 The list page loads `crimes.json`, so serve the folder rather than opening the file directly:
 
 ```sh
-python3 -m http.server 8000
+python3 serve.py
 # then open http://localhost:8000/
 ```
 

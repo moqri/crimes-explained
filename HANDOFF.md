@@ -21,7 +21,7 @@ Notes for picking this project up in a new Claude Code session or account. Read 
 The page builder renders with headless Chrome against a local server, so start one first, **from inside `usc18`**:
 
 ```sh
-cd /Users/mahdimoqri/ai/usc18 && python3 -m http.server 8000     # serves http://localhost:8000/
+cd /Users/mahdimoqri/ai/usc18 && python3 serve.py     # serves http://localhost:8000/
 ```
 
 Federal: `python3 build_data.py` then `python3 build_pages.py`.
