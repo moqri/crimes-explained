@@ -1,0 +1,1586 @@
+{
+ "266/49": {
+  "review": {
+   "isOffense": true,
+   "plain": "Making, mending or possessing tools designed for breaking into buildings or safes, or a master key for motor vehicles, with intent to use them for crime is punishable by up to 10 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "makes or mends, or begins to make or mend",
+    "has in his possession, an engine, machine, tool or implement adapted and designed for cutting through, forcing or breaking open a building, room, vault, safe or other depository",
+    "has in his possession a master key designed to fit more than one motor vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes or mends, or begins to make or mend, or has in his possession, an engine, machine, tool or implement adapted and designed for cutting through, forcing or breaking open a building, room, vault, safe or other depository",
+     "ways": [
+      "makes or mends",
+      "begins to make or mend",
+      "has in possession"
+     ],
+     "tags": [],
+     "conditions": [
+      "The item is an engine, machine, tool or implement adapted and designed for cutting through, forcing or breaking open a building, room, vault, safe or other depository"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the same to be adapted and designed for the purpose aforesaid"
+     ],
+     "intent": [
+      "In order to steal therefrom money or other property, or to commit any other crime",
+      "With intent to use or employ or allow the same to be used or employed for such purpose"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Has in his possession a master key designed to fit more than one motor vehicle",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to use or employ the same to steal a motor vehicle or other property therefrom"
+     ],
+     "knowledge": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "266/50": {
+  "review": {
+   "isOffense": true,
+   "plain": "A person employed in the commonwealth's treasury who commits a fraud or embezzlement there faces a fine of up to $2,000 or state prison for life or any term of years.",
+   "category": "Fraud & Money",
+   "maxYears": 999,
+   "acts": [
+    "commits a fraud or embezzlement therein"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $2,000 or state prison for life or for any term of years",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a fraud or embezzlement therein",
+     "ways": [
+      "fraud",
+      "embezzlement"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person employed in the treasury of the commonwealth"
+    }
+   ]
+  }
+ },
+ "266/51": {
+  "review": {
+   "isOffense": true,
+   "plain": "A county, city or town officer who embezzles or fraudulently converts local government property faces up to 10 years in state prison.",
+   "category": "Government & Corruption",
+   "maxYears": 10,
+   "acts": [
+    "embezzles or fraudulently converts",
+    "fraudulently takes or secretes with intent so to do, effects or property which belong to or are in possession of said county, city or town"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2 years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Embezzles or fraudulently converts, or fraudulently takes or secretes, effects or property which belong to or are in possession of said county, city or town",
+     "ways": [
+      "embezzles",
+      "fraudulently converts",
+      "fraudulently takes or secretes with intent so to do"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A county, city or town officer",
+     "intent": [
+      "Fraudulently",
+      "With intent so to do (when taking or secreting)"
+     ]
+    }
+   ]
+  }
+ },
+ "266/52": {
+  "review": {
+   "isOffense": true,
+   "plain": "A bank officer, director, trustee, agent or employee who fraudulently converts or takes and secretes bank or depositor money or securities is guilty of larceny from the bank, with up to 15 years in state prison; aiders also face this.",
+   "category": "Fraud & Money",
+   "maxYears": 15,
+   "acts": [
+    "fraudulently converts, or fraudulently takes and secretes with intent so to do, any bullion, money, note, bill or other security for money which belongs to and is in possession of such bank, or which belongs to any person and is deposited therein",
+    "knowingly aids, counsels or procures such larceny to be committed"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison, or a fine of up to $2,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fraudulently converts, or fraudulently takes and secretes, any bullion, money, note, bill or other security for money which belongs to and is in possession of such bank, or which belongs to any person and is deposited therein",
+     "ways": [
+      "fraudulently converts",
+      "fraudulently takes and secretes with intent so to do"
+     ],
+     "tags": [],
+     "conditions": [
+      "Applies whether or not intrusted with the custody thereof"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer, director, trustee, agent or employee of a bank",
+     "intent": [
+      "Fraudulently",
+      "With intent so to do (when taking and secreting)"
+     ],
+     "terms": [
+      "\"Bank\": as defined in section one of chapter 167"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Aids, counsels or procures such larceny to be committed",
+     "ways": [
+      "aids",
+      "counsels",
+      "procures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "who": "Any person"
+    }
+   ]
+  }
+ },
+ "266/53": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets evidence rules for prosecutions of bank and other embezzlement: a fraudulent taking through agreement with a bank officer counts as taking by the officer, items need not be identified, and acts within six months of the indictment date may be shown."
+  }
+ },
+ "266/53A": {
+  "review": {
+   "isOffense": true,
+   "plain": "A bank officer or employee who wilfully misapplies bank property, issues unauthorized instruments, makes bad loans, or falsifies records, or anyone who aids or abets, faces up to 10 years in state prison and a $10,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "wilfully misapplies otherwise than as described in section fifty-two or fifty-three, any of the moneys, funds, credits or other property of such bank",
+    "executes or issues a certificate of deposit, order or bill of exchange, or makes an acceptance, purporting to be executed, issued or made by such bank",
+    "assigns any note, bond, draft, bill of exchange, mortgage, judgment, decree or other property of such bank",
+    "loans the funds or credit of such bank to any individual, corporation, joint stock company, trust, association or partnership",
+    "knowingly receives or accepts for such bank any fictitious, valueless, inadequate or irresponsible obligation directly or as security or endorsement",
+    "certifies any check drawn upon such bank",
+    "resorts to any fictitious or colorable loan, transfer or device to avoid any provision of law relating to such bank",
+    "knowingly makes or causes to be made any false entry in any book, report or statement of such bank",
+    "knowingly aids or abets any violation of this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Bank\": as defined in section one of chapter 167"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $10,000, or up to 10 years in state prison, or up to 2½ years in a jail or house of correction, or both a fine and imprisonment",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Misapplies, otherwise than as described in other sections of this chapter, any of the moneys, funds, credits or other property of such bank",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Executes or issues a certificate of deposit, order or bill of exchange, or makes an acceptance, purporting to be executed, issued or made by such bank",
+     "ways": [
+      "executes or issues a certificate of deposit, order or bill of exchange",
+      "makes an acceptance"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority from the directors or trustees of such bank"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Assigns any note, bond, draft, bill of exchange, mortgage, judgment, decree or other property of such bank",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without such authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Loans the funds or credit of such bank to any individual, corporation, joint stock company, trust, association or partnership",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Such loan is adequately secured or is necessary for the protection of existing loans"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "The assets of the borrower are known to be less than all the liabilities of the borrower other than debts subordinated to such loan"
+     ],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Receives or accepts for such bank any fictitious, valueless, inadequate or irresponsible obligation directly or as security or endorsement",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The consideration or security is otherwise sufficient",
+      "It is necessary to prevent loss upon a debt previously contracted in good faith"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Certifies any check drawn upon such bank",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The drawer does not then have on deposit with the bank and entered to his credit on its books not less than the amount of money specified in the check"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Resorts to any fictitious or colorable loan, transfer or device to avoid any provision of law relating to such bank",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Makes or causes to be made any false entry in any book, report or statement of such bank",
+     "ways": [
+      "makes",
+      "causes to be made"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "who": "An officer, director, trustee, agent or employee of a bank"
+    },
+    {
+     "where": "",
+     "act": "Aids or abets any violation of this section",
+     "ways": [
+      "aids",
+      "abets"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "who": "Any person"
+    }
+   ]
+  }
+ },
+ "266/54": {
+  "review": {
+   "isOffense": true,
+   "plain": "A bank officer or employee who receives or permits a deposit knowing the bank is insolvent faces up to 2½ years in prison or a fine of up to $5,000, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 2.5,
+   "acts": [
+    "receives or permits the receipt of any deposit"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Receives or permits the receipt of any deposit",
+     "ways": [
+      "receives",
+      "permits the receipt of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer or employee of a bank",
+     "knowledge": [
+      "Knowing that such bank is insolvent"
+     ],
+     "terms": [
+      "\"Bank\": as defined in section one of chapter 167"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years of imprisonment or a fine of up to $5,000, or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/55": {
+  "review": {
+   "isOffense": true,
+   "plain": "A bank liquidating agent, commissioner's employee, or court-appointed receiver who embezzles or misapplies property in their possession is guilty of larceny and faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "embezzles or fraudulently converts, or fraudulently takes and secretes with intent so to do, or wilfully misapplies, moneys, funds, credits or other property in his possession by virtue of his appointment or employment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2 years in a jail or house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Embezzles or fraudulently converts, or fraudulently takes and secretes, or misapplies, moneys, funds, credits or other property in his possession by virtue of his appointment or employment",
+     "ways": [
+      "embezzles",
+      "fraudulently converts",
+      "fraudulently takes and secretes with intent so to do",
+      "wilfully misapplies"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An agent appointed by the commissioner of banks to liquidate a bank, a person employed by said commissioner, or a receiver or other officer appointed by a court of record",
+     "intent": [
+      "Fraudulently (converting, taking and secreting)",
+      "With intent so to do (when taking and secreting)",
+      "Wilfully (misapplying)"
+     ],
+     "terms": [
+      "\"Bank\": as defined in section one of chapter 167"
+     ]
+    }
+   ]
+  }
+ },
+ "266/56": {
+  "review": {
+   "isOffense": true,
+   "plain": "A broker or corporate broker-officer who embezzles or fraudulently converts money, stock or security entrusted with written investment directions faces up to 5 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "embezzles or fraudulently converts such money, stock or security, or any part thereof, or the proceeds or any part of the proceeds thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or up to 2½ years in jail, or a fine of up to $500",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Embezzles or fraudulently converts such money, stock or security, or any part thereof, or the proceeds or any part of the proceeds thereof",
+     "ways": [
+      "embezzles",
+      "fraudulently converts"
+     ],
+     "tags": [],
+     "conditions": [
+      "Intrusted, solely or jointly, with money, stock or security for the payment of money, with a direction in writing to invest, dispose of, apply, pay or deliver it",
+      "Acts in violation of good faith and contrary to the terms of such direction"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A broker, or officer, manager or agent of a corporation doing the business of brokers"
+    }
+   ]
+  }
+ },
+ "266/57": {
+  "review": {
+   "isOffense": true,
+   "plain": "A trustee, guardian, conservator, executor or administrator who embezzles or fraudulently converts property held for another or for a public or charitable purpose faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "embezzles or fraudulently converts or appropriates money, goods or property held or possessed by him for the use or benefit, either wholly or partially, of some other person or for a public or charitable purpose",
+    "otherwise fraudulently disposes of or destroys such property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $2,000 and up to 2 years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Embezzles or fraudulently converts or appropriates money, goods or property held or possessed by him for the use or benefit, either wholly or partially, of some other person or for a public or charitable purpose, to or for his own use or benefit or to or for the use or benefit of any other person or for any other purpose",
+     "ways": [
+      "embezzles",
+      "fraudulently converts",
+      "appropriates"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A trustee under an express trust created by a deed, will or other instrument in writing, or a guardian, conservator, executor or administrator, or any person upon or to whom such a trust has devolved or come"
+    },
+    {
+     "where": "",
+     "act": "Otherwise fraudulently disposes of or destroys such property",
+     "ways": [
+      "fraudulently disposes of",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A trustee under an express trust created by a deed, will or other instrument in writing, or a guardian, conservator, executor or administrator, or any person upon or to whom such a trust has devolved or come"
+    }
+   ]
+  }
+ },
+ "266/58": {
+  "review": {
+   "isOffense": true,
+   "plain": "An officer, agent, clerk or servant of a voluntary association who embezzles or fraudulently converts its property is guilty of larceny.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "embezzles or fraudulently converts, or fraudulently takes or secretes with intent so to do, effects or property which belong to such association or society, or which have come to his possession or are under his care by virtue of his office or employment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Embezzles or fraudulently converts, or fraudulently takes or secretes, effects or property which belong to such association or society, or which have come to his possession or are under his care by virtue of his office or employment",
+     "ways": [
+      "embezzles",
+      "fraudulently converts",
+      "fraudulently takes or secretes with intent so to do"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer, agent, clerk or servant of a voluntary association or society",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of larceny; penalty not set in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/59": {
+  "review": {
+   "isOffense": true,
+   "plain": "Embezzling or fraudulently converting property of the volunteer militia, a veterans post or another voluntary association is simple larceny, even if the person is a member.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "embezzles or fraudulently converts, or secretes with intent to embezzle or fraudulently convert, money, goods or property or any part thereof which has been delivered to him"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Embezzles or fraudulently converts, or secretes, money, goods or property or any part thereof which has been delivered to him, which may be the subject of larceny and which belong to any organization of the volunteer militia, post of the Grand Army of the Republic, or other voluntary association",
+     "ways": [
+      "embezzles",
+      "fraudulently converts",
+      "secretes with intent to embezzle or fraudulently convert"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property may be the subject of larceny",
+      "The property belongs to an organization of the volunteer militia, post of the Grand Army of the Republic, or other voluntary association"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to embezzle or fraudulently convert (when secreting)"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of simple larceny; penalty not set in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Applies although he is a member of the organization or association and entitled to an interest in its property"
+     ]
+    }
+   ]
+  }
+ },
+ "266/60": {
+  "review": {
+   "isOffense": true,
+   "plain": "Buying, receiving or helping conceal stolen or embezzled property, or taking police-represented stolen property, is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "buys, receives or aids in the concealment of stolen or embezzled property",
+    "buys, receives or aids in the concealment of property",
+    "obtains or exerts control over property in the custody of any law enforcement agency, or any individual acting on behalf of a law enforcement agency"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "A law enforcement officer may arrest any person without warrant that the officer has probable cause to believe has committed an offense under this section and the value of the property stolen exceeds $250"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction or a fine of up to $3,000, if the value of the property does not exceed $1,200 and it is a first offense",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     },
+     {
+      "if": "The value of the property does not exceed $1,200 and it is a second or subsequent offense",
+      "penalty": "Up to 2½ years in the house of correction, or up to 5 years in state prison, or a fine of up to $5,000, or both a fine and imprisonment",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "The value of the property exceeds $1,200",
+      "penalty": "Up to 2½ years in the house of correction, or up to 5 years in state prison, or a fine of up to $5,000, or both a fine and imprisonment",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Buys, receives or aids in the concealment of stolen or embezzled property",
+     "ways": [
+      "buys",
+      "receives",
+      "aids in the concealment of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing it to have been stolen or embezzled"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Buys, receives or aids in the concealment of property",
+     "ways": [
+      "buys",
+      "receives",
+      "aids in the concealment of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud"
+     ],
+     "knowledge": [
+      "Knowing it to have been obtained from a person by false pretense of carrying on a business in the ordinary course of trade"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Obtains or exerts control over property in the custody of any law enforcement agency, or any individual acting on behalf of a law enforcement agency",
+     "ways": [
+      "obtains",
+      "exerts control over"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property is explicitly represented to such person by a law enforcement officer or any individual acting on behalf of a law enforcement agency as being stolen"
+     ],
+     "exceptions": [
+      "It shall not be a defense that the property was obtained by means other than through the commission of a theft offense if the property was explicitly represented to the accused as having been obtained through the commission of a theft offense"
+     ],
+     "defenses": [],
+     "intent": [
+      "Intends to deprive its rightful owner permanently of the use and enjoyment of said property"
+     ]
+    }
+   ]
+  }
+ },
+ "266/60A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Buying, receiving, concealing, selling or pledging a trade secret known to be stolen, unlawfully converted or taken is punishable by up to 5 years in prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "buys, receives, conceals, stores, barters, sells or disposes of any trade secret, or pledges or accepts as security for a loan any trade secret"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years of imprisonment, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Buys, receives, conceals, stores, barters, sells or disposes of any trade secret, or pledges or accepts as security for a loan any trade secret, regardless of value",
+     "ways": [
+      "buys",
+      "receives",
+      "conceals",
+      "stores",
+      "barters",
+      "sells",
+      "disposes of",
+      "pledges as security for a loan",
+      "accepts as security for a loan"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the same to have been stolen, unlawfully converted, or taken"
+     ],
+     "terms": [
+      "\"Trade secret\": same meaning as is set forth in another section of this chapter"
+     ]
+    }
+   ]
+  }
+ },
+ "266/60B": {
+  "review": {
+   "isOffense": false,
+   "plain": "Lets crimes under this chapter committed in different counties or court districts be charged and prosecuted in any court having jurisdiction of at least one of them, if they could otherwise be joined for trial."
+  }
+ },
+ "266/61": {
+  "review": {
+   "isOffense": false,
+   "plain": "Provides that a person on a first conviction for receiving stolen property who shows the theft was simple larceny and makes full restitution cannot be imprisoned in state prison."
+  }
+ },
+ "266/62": {
+  "review": {
+   "isOffense": true,
+   "plain": "Anyone convicted of receiving stolen property after a prior like conviction, or of three or more such acts at one sitting, is a common receiver of stolen goods, with up to 10 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "buying, receiving or aiding in the concealment of stolen or embezzled property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "Adjudged a common receiver of stolen or embezzled goods"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Is convicted of buying, receiving or aiding in the concealment of stolen or embezzled property, having been before convicted of the like offence",
+     "ways": [
+      "buying",
+      "receiving",
+      "aiding in the concealment of"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person was before convicted of the like offence"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing it to have been stolen or embezzled"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Is convicted at the same sitting of the court of three or more distinct acts of buying, receiving or aiding in the concealment of money, goods or property stolen or embezzled",
+     "ways": [
+      "buying",
+      "receiving",
+      "aiding in the concealment of"
+     ],
+     "tags": [],
+     "conditions": [
+      "Convicted at the same sitting of the court of three or more distinct acts"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/63": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and mischievously taking or using someone's boat, non-motor vehicle or draught animal without consent is punishable by up to 6 months in prison or a $300 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "takes or uses a boat or vehicle, other than a motor vehicle",
+    "takes, drives, rides or uses any draught animal which is the property of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $300 or imprisonment for up to 6 months",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes or uses a boat or vehicle, other than a motor vehicle, or takes, drives, rides or uses any draught animal which is the property of another, without the consent of the owner or other person who has the legal custody, care or control thereof",
+     "ways": [
+      "takes",
+      "uses",
+      "drives",
+      "rides"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section shall not apply to the property of another taken with intent to steal it, or under a claim of right, or with the presumed consent of the owner or other person who has the legal control, care or custody thereof"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully",
+      "Mischievously",
+      "Without right"
+     ]
+    }
+   ]
+  }
+ },
+ "266/64": {
+  "review": {
+   "isOffense": true,
+   "plain": "Hiring a horse, carriage or vehicle and, with intent to cheat, lying about the distance or refusing to pay the lawful fare is punishable by up to 2 months in prison, a $20 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.17,
+   "acts": [
+    "hires a horse, carriage or other vehicle",
+    "makes to the owner or his agent, after the use of a horse, carriage or other vehicle, a false statement of the distance which he has actually traveled with such horse, carriage or other vehicle",
+    "refuses to pay for the use of a horse, carriage or other vehicle the lawful fare established therefor by any town"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $20 or imprisonment for up to 2 months, or both",
+      "min": null,
+      "max": 0.17,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Hires a horse, carriage or other vehicle and makes to the owner or his agent at the time of such hiring a false statement of the distance which he proposes to travel",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cheat or defraud the owner"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Makes to the owner or his agent, after the use of a horse, carriage or other vehicle, a false statement of the distance which he has actually traveled",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cheat or defraud the owner"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Refuses to pay for the use of a horse, carriage or other vehicle the lawful fare established therefor by any town",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cheat or defraud the owner"
+     ]
+    }
+   ]
+  }
+ },
+ "266/65": {
+  "review": {
+   "isOffense": true,
+   "plain": "A corporate officer, agent, clerk, servant or other person who issues or signs stock or securities beyond the authorized amount, or disposes of such stock to defraud, faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "issues or signs with intent to issue a certificate of stock in a corporation",
+    "issues, signs or endorses with intent to issue, a bond, note, bill or other obligation or security in the name of such corporation, beyond the amount authorized by law or limited by the legal votes of such corporation or its proper officers",
+    "negotiates, transfers or disposes of such certificate with intent to defraud"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 1 year in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues or signs a certificate of stock in a corporation, or issues, signs or endorses a bond, note, bill or other obligation or security in the name of such corporation, beyond the amount authorized by law or limited by the legal votes of such corporation or its proper officers",
+     "ways": [
+      "issues",
+      "signs",
+      "endorses"
+     ],
+     "tags": [],
+     "conditions": [
+      "Beyond the amount authorized by law or limited by the legal votes of such corporation or its proper officers"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to issue"
+     ],
+     "who": "An officer, agent, clerk or servant of a corporation, or any other person"
+    },
+    {
+     "where": "",
+     "act": "Negotiates, transfers or disposes of such certificate",
+     "ways": [
+      "negotiates",
+      "transfers",
+      "disposes of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud"
+     ],
+     "who": "An officer, agent, clerk or servant of a corporation, or any other person"
+    }
+   ]
+  }
+ },
+ "266/66": {
+  "review": {
+   "isOffense": true,
+   "plain": "A corporate officer, agent, clerk, servant or other person who fraudulently issues, transfers or signs a stock certificate for someone not entitled to it faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "fraudulently issues or transfers a certificate of the stock of a corporation to a person who is not entitled thereto",
+    "fraudulently signs such certificate, in blank or otherwise"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An officer, agent, clerk or servant of a corporation, or any other person",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 1 year in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fraudulently issues or transfers a certificate of the stock of a corporation to a person who is not entitled thereto",
+     "ways": [
+      "issues",
+      "transfers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Fraudulently signs such certificate, in blank or otherwise",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently",
+      "With the intent that it shall be so issued or transferred by himself or any other person"
+     ]
+    }
+   ]
+  }
+ },
+ "266/67": {
+  "review": {
+   "isOffense": true,
+   "plain": "Making a false entry or omitting a true entry in business books, or omitting stock records, with intent to defraud is punishable by up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "makes a false entry or omits to make a true entry in any book of such person, firm or corporation",
+    "omits to make a true record or entry thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 1 year in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes a false entry or omits to make a true entry in any book of such person, firm or corporation",
+     "ways": [
+      "makes a false entry",
+      "omits to make a true entry"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An officer of a corporation or an agent, clerk or servant of a person, firm or corporation",
+     "intent": [
+      "With intent to defraud"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Omits to make a true record or entry of the transfer of stock, or of the issuing or cancelling of certificates thereof, or of the amount of stock issued by a corporation, in any book thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person whose duty it is to make a record or entry of the transfer of stock, or of the issuing or cancelling of certificates thereof, or of the amount of stock issued by a corporation",
+     "intent": [
+      "With intent to defraud"
+     ]
+    }
+   ]
+  }
+ },
+ "266/67A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Intentionally making false statements, concealing facts, or submitting false or misleading materials in procurement for a government body is punishable by up to 5 years in state prison and a $10,000 fine.",
+   "category": "Government & Corruption",
+   "maxYears": 5,
+   "acts": [
+    "makes a material statement that is false;",
+    "omits or conceals a material fact in a written statement;",
+    "submits or invites reliance on a material writing or recording that is false, forged, altered, or otherwise lacking in authenticity;",
+    "submits or invites reliance on a sample, specimen, map, photograph, boundary-mark, or other object that is misleading in a material respect; or",
+    "uses any trick, scheme, or device that is misleading in a material respect;"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Intentionally"
+    ],
+    "terms": [
+     "\"Procurement of supplies, services or construction\": as defined in section one of chapter 12A"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $10,000, or up to 5 years in state prison, or up to 2½ years in the house of correction, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(1)",
+     "act": "Makes a material statement that is false",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The matter relates to procurement of supplies, services or construction within the jurisdiction of any department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(2)",
+     "act": "Omits or conceals a material fact in a written statement",
+     "ways": [
+      "omits",
+      "conceals"
+     ],
+     "tags": [],
+     "conditions": [
+      "The matter relates to procurement of supplies, services or construction within the jurisdiction of any department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(3)",
+     "act": "Submits or invites reliance on a material writing or recording that is false, forged, altered, or otherwise lacking in authenticity",
+     "ways": [
+      "submits",
+      "invites reliance on"
+     ],
+     "tags": [],
+     "conditions": [
+      "The matter relates to procurement of supplies, services or construction within the jurisdiction of any department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(4)",
+     "act": "Submits or invites reliance on a sample, specimen, map, photograph, boundary-mark, or other object that is misleading in a material respect",
+     "ways": [
+      "submits",
+      "invites reliance on"
+     ],
+     "tags": [],
+     "conditions": [
+      "The matter relates to procurement of supplies, services or construction within the jurisdiction of any department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(5)",
+     "act": "Uses any trick, scheme, or device that is misleading in a material respect",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The matter relates to procurement of supplies, services or construction within the jurisdiction of any department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/67B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Making or presenting a claim against the state or a local government body knowing it is false, fictitious or fraudulent is punishable by up to 5 years in state prison and a $10,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "makes or presents to any employee, department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof, any claim upon or against any department, agency, or public instrumentality of the commonwealth, or any political subdivision thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $10,000, or up to 5 years in state prison, or up to 2½ years in the house of correction, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes or presents to any employee, department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof, any claim upon or against any department, agency, or public instrumentality of the commonwealth, or any political subdivision thereof",
+     "ways": [
+      "makes",
+      "presents"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing such claim to be false, fictitious, or fraudulent"
+     ]
+    }
+   ]
+  }
+ },
+ "266/67C": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly and wilfully making a false entry or omitting a true entry in certain capital-facility construction project records is punishable by up to 5 years in state prison and a $5,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "makes, or knowingly and wilfully causes to be made, a false entry or omission of a true entry in any books, record or account"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000, or up to 5 years in state prison, or up to 2 years in the house of correction, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, or causes to be made, a false entry or omission of a true entry in any books, record or account subject to the provisions of section thirty-nine R of chapter thirty",
+     "ways": [
+      "makes",
+      "causes to be made"
+     ],
+     "tags": [],
+     "conditions": [
+      "Directly or indirectly",
+      "The books, record or account are subject to the provisions of section 39R of chapter 30"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "266/68": {
+  "review": {
+   "isOffense": false,
+   "plain": "Makes the books of a person, firm or corporation, to which the defendant had access or a right of access, admissible in evidence at trial for crimes under the three preceding sections."
+  }
+ },
+ "266/69": {
+  "review": {
+   "isOffense": true,
+   "plain": "A non-member who wilfully wears or uses a registered society, association or labor union insignia to pose as a member faces up to one month in prison, a $20 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.08,
+   "acts": [
+    "wears or uses the insignia, ribbon, badge, rosette, button or emblem thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $20 or imprisonment for up to 1 month, or both",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Wears or uses the insignia, ribbon, badge, rosette, button or emblem of a society, association or labor union",
+     "ways": [
+      "wears",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [
+      "The insignia, ribbon, badge, rosette, button or emblem has been registered in the office of the state secretary"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person who is not a member of the society, association or labor union",
+     "intent": [
+      "Wilfully",
+      "For the purpose of representing that he is a member thereof"
+     ]
+    }
+   ]
+  }
+ },
+ "266/69A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly and fraudulently displaying or using a labor organization's seal, trademark or insignia is punishable by a fine of up to $1,000.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "displays or otherwise uses, in any manner whatsoever, the seal, trademark or insignia of any labor organization"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Displays or otherwise uses, in any manner whatsoever, the seal, trademark or insignia of any labor organization",
+     "ways": [
+      "displays",
+      "otherwise uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "Fraudulently"
+     ],
+     "terms": [
+      "\"Labor organization\": as defined by subsection (5) of section 2 of chapter 150A"
+     ]
+    }
+   ]
+  }
+ },
+ "266/70": {
+  "review": {
+   "isOffense": true,
+   "plain": "A non-member without authority who wilfully wears or uses a listed veterans organization's insignia, or displays it on property to falsely claim occupancy, faces up to one month in prison, a $20 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.08,
+   "acts": [
+    "wears or uses the insignia, distinctive ribbons or membership rosette or button thereof",
+    "displays on his property or permits to be displayed thereon any such insignia, distinctive ribbon, membership rosette or button, or any sign or statement"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who is not a member and is without authority of a veterans organization listed in the section",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $20 or imprisonment for up to 1 month, or both",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Wears or uses the insignia, distinctive ribbons or membership rosette or button of a listed veterans organization",
+     "ways": [
+      "wears",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully",
+      "For the purpose of representing that he is a member thereof"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Displays on his property or permits to be displayed thereon any such insignia, distinctive ribbon, membership rosette or button, or any sign or statement",
+     "ways": [
+      "displays",
+      "permits to be displayed"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "For the purpose of falsely representing that such property is occupied by or is the quarters of any such veterans' organization"
+     ]
+    }
+   ]
+  }
+ },
+ "266/71": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully getting a signature, money or property by false pretences for a pretended degree or membership in a fraternal organization is punishable by up to 1 year in prison or a $500 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "obtains the signature of any person to any written application",
+    "obtains any money or property for any alleged or pretended degree, or for any alleged or pretended membership"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 1 year of imprisonment or a fine of up to $500, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains the signature of any person to any written application, or obtains any money or property for any alleged or pretended degree, or for any alleged or pretended membership in any fraternity, association, society, order, organization or union having a grand or supreme governing lodge, council, union or other governing body in the commonwealth, or in any subordinate lodge or body thereof",
+     "ways": [
+      "obtains the signature of any person to any written application",
+      "obtains any money or property for any alleged or pretended degree",
+      "obtains any money or property for any alleged or pretended membership"
+     ],
+     "tags": [],
+     "conditions": [
+      "By color or aid of any false token or writing, or other false pretence or false statement, verbal or written, or without authority of the governing body"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    }
+   ]
+  }
+ }
+}

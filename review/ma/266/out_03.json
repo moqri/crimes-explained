@@ -1,0 +1,1749 @@
+{
+ "266/111B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly presenting a false or fraudulent claim or proof of loss to a motor vehicle, theft or comprehensive insurer, with intent to defraud, is punishable by up to 5 years in state prison plus restitution.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "knowingly presents to it, or aids or abets in or procures the presentation to it of, any notice, statement, or proof of loss"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Presents to an insurer, or aids or abets in or procures the presentation to it of, any notice, statement, or proof of loss, in connection with or in support of any application for or claim under any motor vehicle, theft or comprehensive insurance policy",
+     "ways": [
+      "presents",
+      "aids or abets in the presentation of",
+      "procures the presentation of"
+     ],
+     "tags": [],
+     "conditions": [
+      "The notice, statement or proof of loss contains a false or fraudulent statement or representation of a fact or thing material to the application or claim",
+      "It is presented whether or not it is under oath or is required or authorized by law or the terms of the policy"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison, or 6 months to 2½ years in a house of correction, or a fine of $1,000 to $10,000, or both a fine and imprisonment",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing that the notice, statement or proof of loss contains a false or fraudulent statement or representation of a material fact or thing"
+     ],
+     "intent": [
+      "With intent to injure, defraud or deceive the insurer",
+      "Knowingly"
+     ],
+     "consequences": [
+      "After conviction, the court conducts an evidentiary hearing on the damages or financial loss",
+      "Restitution to the insurer for financial loss must be ordered, in addition to any other punishment and not in lieu of incarceration or fine; not ordered to an aggrieved party without that party's consent",
+      "Court considers the defendant's present and future ability to pay when setting a fine; whenever possible the fine equals twice the damages or financial loss",
+      "A licensed motor vehicle damage appraiser or registered motor vehicle repair shop who violates this section by fraudulently inflating an appraisal or repair charges also faces revocation of the license or registration for up to two years",
+      "Default on restitution without good faith effort leads to contempt; with good faith effort the court may modify but not completely remit payment"
+     ]
+    }
+   ]
+  }
+ },
+ "266/111C": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly acting as a runner, or using, hiring or directing one, to defraud an insured or insurance carrier is punishable by up to 5 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "acts as a runner or uses, solicits, directs, hires or employs another to act as a runner"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "(b)",
+     "act": "Acts as a runner or uses, solicits, directs, hires or employs another to act as a runner",
+     "ways": [
+      "acts as a runner",
+      "uses another to act as a runner",
+      "solicits another to act as a runner",
+      "directs another to act as a runner",
+      "hires another to act as a runner",
+      "employs another to act as a runner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "\"Runner\" does not include a person who procures or attempts to procure clients, patients or customers for a provider through public media or a person who refers clients, patients or customers to a provider as otherwise authorized by law"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison, or 6 months to 2½ years in a jail or house of correction, or a fine of $1,000 to $4,000",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Knowingly",
+      "For the purpose of defrauding an insured or an insurance carrier"
+     ],
+     "terms": [
+      "\"Provider\": an attorney, a health care professional licensed pursuant to chapter 112, an owner or operator of a health care practice or facility, any person who creates the impression that he or his practice or facility can provide legal or health care services, or any person employed or acting on behalf of any of them",
+      "\"Public media\": telephone directories, professional directories, newspapers and other periodicals, radio and television, billboards and mailed or electronically transmitted written communications that do not involve in-person contact with a specific prospective client, patient or customer",
+      "\"Runner\": a person who, for a pecuniary benefit, procures or attempts to procure a client, patient or customer at the direction of, request of, or in cooperation with a provider whose purpose is to seek to fraudulently obtain benefits under a contract of insurance or fraudulently assert a claim against an insured or an insurance carrier for providing services to the client, patient or customer"
+     ]
+    }
+   ]
+  }
+ },
+ "266/112": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously killing, maiming or disfiguring another person's animal, or poisoning it, is punishable by up to 7 years in state prison, and up to 10 years for a repeat offense.",
+   "category": "Animals & Wildlife",
+   "maxYears": 10,
+   "acts": [
+    "kills, maims or disfigures any horse, cattle or other animal of another person",
+    "administers or exposes poison with intent that it shall be taken or swallowed by any such animal"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Kills, maims or disfigures any horse, cattle or other animal of another person",
+     "ways": [
+      "kills",
+      "maims",
+      "disfigures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully and maliciously"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 7 years in state prison, or up to 2 1/2 years in the house of correction, or a fine of up to $5,000, or both fine and imprisonment",
+       "min": null,
+       "max": 7,
+       "flags": []
+      },
+      {
+       "if": "it is a second or subsequent offense",
+       "penalty": "Up to 10 years in state prison, or a fine of up to $10,000, or both",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Administers or exposes poison with intent that it shall be taken or swallowed by any such animal",
+     "ways": [
+      "administers poison",
+      "exposes poison"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully and maliciously",
+      "With intent that the poison be taken or swallowed by any such animal"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 7 years in state prison, or up to 2 1/2 years in the house of correction, or a fine of up to $5,000, or both fine and imprisonment",
+       "min": null,
+       "max": 7,
+       "flags": []
+      },
+      {
+       "if": "it is a second or subsequent offense",
+       "penalty": "Up to 10 years in state prison, or a fine of up to $10,000, or both",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/113": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully cutting, taking or destroying timber, plants, stone, soil or similar things on another's land without the owner's license is punishable by up to six months in jail or a $500 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "wilfully cuts down or destroys timber or wood standing or growing on the land of another",
+    "carries away any kind of timber or wood cut down or lying on such land",
+    "digs up or carries away stone, ore, gravel, clay, sand, turf or mould from such land",
+    "cuts down or carries away sedge, grass, hay or any kind of corn, standing, growing or being on such land",
+    "roots, nuts, berries, grapes or fruit of any kind or any plant there being",
+    "cuts or takes therefrom any ferns, flowers or shrubs",
+    "carries away from a wharf or landing place any goods in which he has no interest or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to six months imprisonment or a fine of up to five hundred dollars",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "the offence is committed on Sunday, or in disguise, or secretly in the night time",
+      "penalty": "Imprisonment of not less than five days and a fine of not less than five dollars (within the penalty above)",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Cuts down or destroys timber or wood standing or growing on the land of another",
+     "ways": [
+      "cuts down",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Carries away any kind of timber or wood cut down or lying on such land",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Digs up or carries away stone, ore, gravel, clay, sand, turf or mould from such land",
+     "ways": [
+      "digs up",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Digs up or carries away roots, nuts, berries, grapes or fruit of any kind or any plant there being",
+     "ways": [
+      "digs up",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Cuts down or carries away sedge, grass, hay or any kind of corn, standing, growing or being on such land",
+     "ways": [
+      "cuts down",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Cuts or takes ferns, flowers or shrubs from such land",
+     "ways": [
+      "cuts",
+      "takes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Carries away from a wharf or landing place any goods in which he has no interest or property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person has no interest or property in the goods"
+     ],
+     "exceptions": [
+      "The owner gave license"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "266/114": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously (or wantonly) breaking glass in another's building, damaging fences or gates, or severing produce from another's land is punishable by up to six months or a $500 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "breaks glass in a building which is not his own",
+    "breaks down, injures, mars or defaces a fence belonging to or enclosing land which is not his own",
+    "throws down or opens a gate, bars or fence, and leaves the same down or open",
+    "severs from the freehold of another any produce thereof or anything attached thereto"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to six months imprisonment or a fine of up to five hundred dollars",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks glass in a building which is not his own",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully and maliciously or wantonly"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Breaks down, injures, mars or defaces a fence belonging to or enclosing land which is not his own",
+     "ways": [
+      "breaks down",
+      "injures",
+      "mars",
+      "defaces"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully and maliciously"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Throws down or opens a gate, bars or fence, and leaves the same down or open",
+     "ways": [
+      "throws down",
+      "opens"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully and maliciously"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Severs from the freehold of another any produce thereof or anything attached thereto",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Maliciously and injuriously"
+     ]
+    }
+   ]
+  }
+ },
+ "266/115": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously entering an orchard, nursery, garden or cranberry meadow and taking or destroying plants or fruit without consent is punishable by up to six months or a $500 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "enters an orchard, nursery, garden or cranberry meadow, and takes away, mutilates or destroys a tree, shrub or vine, or steals, takes and carries away any fruit or flower"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters an orchard, nursery, garden or cranberry meadow, and takes away, mutilates or destroys a tree, shrub or vine, or steals, takes and carries away any fruit or flower",
+     "ways": [
+      "takes away a tree, shrub or vine",
+      "mutilates a tree, shrub or vine",
+      "destroys a tree, shrub or vine",
+      "steals, takes and carries away any fruit or flower"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to five hundred dollars or imprisonment for up to six months",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Wilfully and maliciously"
+     ]
+    }
+   ]
+  }
+ },
+ "266/116A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Pulling up, digging up or injuring wild azalea, wild orchid or cardinal flower plants in public places or on another's land without written authority, or buying or selling them, is punishable by a fine of up to $5.",
+   "category": "Animals & Wildlife",
+   "maxYears": 0,
+   "acts": [
+    "pull up or dig up the plant of a wild azalea, wild orchid or cardinal flower (lobelia cardinalis), or any part thereof",
+    "injure any such plant or any part thereof",
+    "buy or sell, or offer or expose for sale, any such flower, or the whole or any part of the plant thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to five dollars",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Pulls up or digs up the plant of a wild azalea, wild orchid or cardinal flower (lobelia cardinalis), or any part thereof, or injures any such plant or any part thereof",
+     "ways": [
+      "pulls up",
+      "digs up",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [
+      "Within the limits of any state highway or any other public way or place, or upon the land of another person without written authority from him"
+     ],
+     "exceptions": [
+      "Injury reasonably necessary in procuring the flower from the plant"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Buys or sells, or offers or exposes for sale, any such flower, or the whole or any part of the plant thereof",
+     "ways": [
+      "buys",
+      "sells",
+      "offers for sale",
+      "exposes for sale"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing, or having reasonable cause to believe, that in procuring such flower or plant the foregoing provisions have been violated"
+     ]
+    }
+   ]
+  }
+ },
+ "266/117": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and intentionally entering another's orchard, garden or improved land without right, intending to cut, take or destroy plants or produce, is punishable by up to six months or a $500 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "enters upon the orchard, garden or other improved land of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to six months imprisonment or a fine of up to five hundred dollars",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "the offence is committed on Sunday, or in disguise, or secretly in the night time",
+      "penalty": "Imprisonment of not less than five days and a fine of not less than five dollars (within the penalty above)",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters upon the orchard, garden or other improved land of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without right"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully and intentionally",
+      "With intent to cut, take, carry away, destroy or injure the trees, grain, grass, hay, fruit or vegetables there growing or being"
+     ]
+    }
+   ]
+  }
+ },
+ "266/118": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully letting sheep, goats, cattle, horses, swine or fowl in your charge stay on or cross another's improved land after written or posted notice is punishable by a fine of up to $10.",
+   "category": "Animals & Wildlife",
+   "maxYears": 0,
+   "acts": [
+    "suffers or permits them to enter or remain on or pass over any orchard, garden, mowing land or other improved or enclosed land of another"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Suffers or permits sheep, goats, cattle, horses, swine or fowl to enter or remain on or pass over any orchard, garden, mowing land or other improved or enclosed land of another",
+     "ways": [
+      "suffers",
+      "permits"
+     ],
+     "tags": [],
+     "conditions": [
+      "After being forbidden so to do in writing or by notice posted thereon by the owner or occupant, or by the authorized agent of such owner or occupant"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to ten dollars",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "who": "A person having the charge or custody of sheep, goats, cattle, horses, swine or fowl",
+     "intent": [
+      "Wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "266/119": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly bringing a regulated pest into the commonwealth, moving it between towns, or evading a quarantine regulation is punishable by a fine of up to $200, up to two months in jail, or both.",
+   "category": "Animals & Wildlife",
+   "maxYears": 0.1667,
+   "acts": [
+    "brings into the commonwealth, or transports from one town to another therein, any pest referred to in section eleven or twenty-five of chapter one hundred and thirty-two, or the eggs, nests, larvae or pupae thereof",
+    "evades the requirements of a quarantine regulation duly established under any provision of said chapter one hundred and thirty-two"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $200, or imprisonment for up to two months, or both",
+      "min": null,
+      "max": 0.1667,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Brings into the commonwealth, or transports from one town to another therein, any pest referred to in section eleven or twenty-five of chapter one hundred and thirty-two, or the eggs, nests, larvae or pupae thereof",
+     "ways": [
+      "brings into the commonwealth",
+      "transports from one town to another"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "When engaged in research work for the commonwealth or for the United States department of agriculture, and for the purpose of suppressing such pests"
+     ],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Evades the requirements of a quarantine regulation duly established under any provision of said chapter one hundred and thirty-two",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "266/120": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering or remaining on another's building or land, or in a school bus, after being forbidden, or violating a related court order, is punishable by a fine of up to $100 or up to 30 days in jail.",
+   "category": "Property Crimes",
+   "maxYears": 0.0822,
+   "acts": [
+    "enters or remains in or upon the dwelling house, buildings, boats or improved or enclosed land, wharf, or pier of another",
+    "enters or remains in a school bus, as defined in section 1 of chapter 90"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters or remains in or upon the dwelling house, buildings, boats or improved or enclosed land, wharf, or pier of another, or enters or remains in a school bus",
+     "ways": [
+      "enters",
+      "remains"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without right",
+      "After having been forbidden so to do by the person who has lawful control of the premises, whether directly or by notice posted thereon, or in violation of a court order pursuant to section thirty-four B of chapter two hundred and eight or section three or four of chapter two hundred and nine A"
+     ],
+     "exceptions": [
+      "This section does not apply to tenants or occupants of residential premises who, having rightfully entered at the commencement of the tenancy or occupancy, remain after the tenancy or occupancy has been or is alleged to have been terminated"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to one hundred dollars or imprisonment for up to thirty days or both",
+       "min": null,
+       "max": 0.0822,
+       "flags": []
+      }
+     ],
+     "intent": [],
+     "terms": [
+      "Proof that a court has given notice of such a court order to the alleged offender is prima facie evidence that the notice requirement has been met"
+     ],
+     "consequences": [
+      "A person found committing the trespass may be arrested by a sheriff, deputy sheriff, constable or police officer and kept in custody not more than twenty-four hours, Sunday excepted, until a complaint can be made"
+     ]
+    }
+   ]
+  }
+ },
+ "266/120A": {
+  "review": {
+   "isOffense": false,
+   "plain": "Provides that, in a prosecution for trespass by parking a motor vehicle on a private way or enclosed land, proof that the defendant was the registered owner is prima facie evidence the defendant parked it."
+  }
+ },
+ "266/120B": {
+  "review": {
+   "isOffense": false,
+   "plain": "Provides that an abutting landowner who enters adjoining land to maintain or repair a building is not guilty of trespass or civilly liable if notice, bond and other conditions are met."
+  }
+ },
+ "266/120C": {
+  "review": {
+   "isOffense": false,
+   "plain": "Provides that a registered land surveyor entering adjoining lands after reasonable notice to make surveys for a private person is not trespassing, but remains liable for damage caused."
+  }
+ },
+ "266/120D": {
+  "review": {
+   "isOffense": true,
+   "plain": "Removing a vehicle from a private way or property without notifying police or the owner's consent, or purporting to authorize such removal without complying, is punishable by a fine of up to $100.",
+   "category": "Transportation & Aviation",
+   "maxYears": 0,
+   "acts": [
+    "removes a vehicle from a private way or from improved or enclosed property as aforesaid",
+    "purports to authorize the removal of a vehicle from a way or property as aforesaid without having fully complied with the provision of this section"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "(first paragraph)",
+     "act": "Removes a motor vehicle which is parked or standing on a private way or upon improved or enclosed property without notifying the chief of police or his designee, or the police commissioner or his designee, or without obtaining the consent of the owner",
+     "ways": [
+      "removes a vehicle without notifying the police",
+      "removes a vehicle without the owner's consent"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicle is removed from a private way or from improved or enclosed property"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to one hundred dollars",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "In addition to any other penalty of law",
+      "The employer of the person, if any, is also punished by a fine of up to one hundred dollars",
+      "The registered owner of an illegally parked vehicle is liable for removal and storage charges, subject to the limits in this section, if the vehicle was removed after compliance with this section",
+      "A vehicle removed or held without full compliance must be released to its owner without charges for removal or storage"
+     ]
+    },
+    {
+     "where": "(second paragraph)",
+     "act": "Purports to authorize the removal of a vehicle from a way or property as aforesaid without having fully complied with the provision of this section",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to one hundred dollars",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/120E": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly obstructing entry to or departure from a medical facility, or entering or remaining so as to impede services, after notice is punishable by up to six months in jail, and up to 2½ years for repeat violations.",
+   "category": "Courts & Justice",
+   "maxYears": 2.5,
+   "acts": [
+    "knowingly obstructs entry to or departure from any medical facility",
+    "enters or remains in any medical facility so as to impede the provision of medical services"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "terms": [
+     "\"Medical facility\": any medical office, medical clinic, medical laboratory, or hospital",
+     "\"Notice\": (i) receipt of or awareness of the contents of a court order prohibiting blocking of a medical facility; (ii) oral request by an authorized representative of a medical facility, or law enforcement official to refrain from obstructing access to a medical facility; or (iii) written posted notice outside the entrance to a medical facility to refrain from obstructing access to a medical facility"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "First offense: A fine of up to one thousand dollars or up to six months in jail or a house of correction or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "each subsequent violation",
+      "penalty": "A fine of $500 to $5,000 or up to two and one-half years in jail or a house of correction or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "These penalties are in addition to any penalties imposed for violation of a court order",
+     "The person may be arrested by a sheriff, deputy sheriff, constable, or police officer",
+     "The medical facility may bring a civil action for injunctive and other equitable relief, including compensatory and exemplary damages, costs and reasonable attorney's fees"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obstructs entry to or departure from any medical facility",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "After notice to refrain from such obstruction or interference"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "Peaceful picketing which does not obstruct entry or departure is not interfered with by this section"
+     ],
+     "intent": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Enters or remains in any medical facility so as to impede the provision of medical services",
+     "ways": [
+      "enters",
+      "remains"
+     ],
+     "tags": [],
+     "conditions": [
+      "After notice to refrain from such obstruction or interference"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "Peaceful picketing which does not obstruct entry or departure is not interfered with by this section"
+     ],
+     "intent": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "266/120E1~2": {
+  "review": {
+   "isOffense": true,
+   "plain": "Defying a police withdrawal order at a reproductive health care facility, or injuring, intimidating, impeding or interfering with people or vehicles there, is punishable by fines or jail, up to 5 years in state prison for some repeat offenses.",
+   "category": "Civil Rights",
+   "maxYears": 5,
+   "acts": [
+    "fails to comply with a withdrawal order pursuant to subsection (b)",
+    "intentionally injures or intimidates or attempts to injure or intimidate a person who attempts to access or depart from a reproductive health care facility",
+    "impedes a person's access to or departure from a reproductive health care facility",
+    "impedes or attempts to impede a person or a vehicle attempting to access or depart from a reproductive health care facility",
+    "interferes with the operation of a vehicle that attempts to enter, exit or park at a reproductive health care facility"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "terms": [
+     "\"Driveway\": an entry from a public street to a public or private parking area used by a reproductive health care facility",
+     "\"Entrance\": a door to a reproductive health care facility that directly abuts the public sidewalk; if the door does not directly abut the public sidewalk, the point at which the public sidewalk intersects with a pathway leading to the door",
+     "\"Impede\": to obstruct, block, detain or render passage impossible, unsafe or unreasonably difficult",
+     "\"Reproductive health care facility\": a place, other than within or upon the grounds of a hospital, where abortions are offered or performed including, but not limited to, the building, grounds and driveway of the facility and a parking lot in which the facility has an ownership or leasehold interest"
+    ],
+    "consequences": [
+     "A person who fails to comply with a withdrawal order or violates subsection (c), (d), (e), (f) or (g) may be arrested without a warrant by a law enforcement official",
+     "An aggrieved person or entity or the attorney general may bring a civil action for injunctive relief, compensatory and punitive damages, costs, attorneys' fees and expert witness fees; the attorney general may also seek civil penalties",
+     "A violation of an injunction entered in such an action is a criminal offense under section 11J of chapter 12"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(c)",
+     "act": "Fails to comply with a withdrawal order pursuant to subsection (b)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "A law enforcement official issued a written withdrawal order to the person under subsection (b)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "First offense: A fine of up to $500 or up to 3 months in a jail or house of correction or both",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      },
+      {
+       "if": "each subsequent offense",
+       "penalty": "A fine of $500 to $5,000 or up to 2½ years in a jail or house of correction or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Injures or intimidates or attempts to injure or intimidate a person who attempts to access or depart from a reproductive health care facility, by force, physical act or threat of force",
+     "ways": [
+      "injures",
+      "intimidates",
+      "attempts to injure",
+      "attempts to intimidate"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "First offense: A fine of up to $2,000 or up to 1 year in a jail or house of correction or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "each subsequent offense",
+       "penalty": "A fine of $10,000 to $50,000, or up to 2½ years in a jail or house of correction or up to 5 years in a state prison, or both a fine and imprisonment",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Intentionally"
+     ],
+     "terms": [
+      "\"Intimidate\": to place a person in reasonable apprehension of bodily harm to that person or another"
+     ]
+    },
+    {
+     "where": "(e)",
+     "act": "Impedes a person's access to or departure from a reproductive health care facility",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "First offense: A fine of up to $1,000 or up to 6 months in a jail or house of correction or both",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "each subsequent offense",
+       "penalty": "A fine of $5,000 to $25,000, or up to 2½ years in a jail or house of correction or up to 5 years in the state prison, or both a fine and imprisonment",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to interfere with that person's ability to provide, support the provision of or obtain services at the reproductive health care facility"
+     ]
+    },
+    {
+     "where": "(f)",
+     "act": "Impedes or attempts to impede a person or a vehicle attempting to access or depart from a reproductive health care facility",
+     "ways": [
+      "impedes",
+      "attempts to impede"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "First offense: A fine of up to $500 or up to 3 months in a jail or house of correction or both",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      },
+      {
+       "if": "each subsequent offense",
+       "penalty": "A fine of $1,000 to $5,000 or up to 2½ years in a jail or house of correction or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "(g)",
+     "act": "Interferes with the operation of a vehicle that attempts to enter, exit or park at a reproductive health care facility",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "First offense: A fine of up to $500 or up to 3 months in a jail or house of correction or both",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      },
+      {
+       "if": "each subsequent offense",
+       "penalty": "A fine of $1,000 to $5,000 or up to 2½ years in a jail or house of correction or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ],
+     "mentalState": [
+      "Recklessly"
+     ]
+    }
+   ]
+  }
+ },
+ "266/120F": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly accessing a computer system without authorization, or staying in after learning access is unauthorized, is punishable by up to 30 days in a house of correction or a fine of up to $1,000.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": 0.0822,
+   "acts": [
+    "accesses a computer system by any means",
+    "fails to terminate such access"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Accesses a computer system by any means, or after gaining access to a computer system by any means fails to terminate such access",
+     "ways": [
+      "accesses a computer system",
+      "fails to terminate access after gaining it"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authorization",
+      "For failure to terminate, the person knows that the access is not authorized"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to thirty days in the house of correction, or a fine of up to $1,000, or both",
+       "min": null,
+       "max": 0.0822,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Knowingly"
+     ],
+     "terms": [
+      "The requirement of a password or other authentication to gain access constitutes notice that access is limited to authorized users"
+     ]
+    }
+   ]
+  }
+ },
+ "266/121": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering another's land without right with firearms intending to fire them, and staying after being asked to leave, is punishable by a fine of up to $200, up to two months in jail, or both.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 0.1667,
+   "acts": [
+    "enters upon the land of another with firearms"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters upon the land of another with firearms and, having been requested by the owner or occupant of such land or by his agent to leave such land, remains thereon",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without right",
+      "Having been requested by the owner or occupant or his agent to leave, the person remains"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to two hundred dollars or imprisonment for up to two months, or both",
+       "min": null,
+       "max": 0.1667,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With intent to fire or discharge the firearms thereon"
+     ]
+    }
+   ]
+  }
+ },
+ "266/121A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering another's private land without right with a motor-powered vehicle, machine or device is punishable by a fine of up to $500.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "enters upon the private land of another, whether or not such land be posted against trespass"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters upon the private land of another and in so entering makes use of or has in his immediate possession or control any vehicle, machine, or device which includes an internal combustion engine or other source of mechanical power",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without right",
+      "Whether or not the land is posted against trespass"
+     ],
+     "exceptions": [
+      "Entry at the junction of a public way with a paved private roadway, unless the roadway is distinguished from the public way by a sign, gatepost, or the display of a street number or the name of the occupant, or by the improvement of adjacent land, the type of construction of the roadway, or other distinguishing feature, or unless the entry has been forbidden by the person having lawful control",
+      "Operation of power boats on waterways not otherwise restricted"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/122": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully tearing down, removing or defacing a posted no-trespassing notice is punishable by a fine of up to $25.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "tears down, removes or defaces any notice posted on land, or other property described in section one hundred and twenty, by the owner, lessee or custodian thereof, warning persons not to trespass thereon"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Tears down, removes or defaces any notice posted on land, or other property described in section one hundred and twenty, by the owner, lessee or custodian thereof, warning persons not to trespass thereon",
+     "ways": [
+      "tears down",
+      "removes",
+      "defaces"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to twenty-five dollars",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "266/123": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully trespassing on state land or on listed public institution grounds, or staying after notice to leave, is punishable by a fine of up to $50 or up to three months in jail.",
+   "category": "Property Crimes",
+   "maxYears": 0.25,
+   "acts": [
+    "trespasses upon land or premises belonging to the commonwealth",
+    "remains thereon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to fifty dollars or imprisonment for up to three months",
+      "min": null,
+      "max": 0.25,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Trespasses upon land or premises belonging to the commonwealth, or to any authority established by the general court for purposes incidental to higher education, appurtenant to a public institution of higher education, any correctional institution of the commonwealth, Tewksbury hospital, a state-operated veterans' home, any public institution for the care of mentally ill and developmentally disabled persons, any Massachusetts training school or state charitable institution, or upon land or premises belonging to any county and appurtenant to a jail, house of correction or courthouse",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Remains on said land after notice from an officer of any of said institutions to leave",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Notice to leave was given by an officer of one of the institutions"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/123A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully trespassing on public water sources or supply facilities after being forbidden is fined $250 to $1,000; doing so intending to pollute carries up to 5 years in state prison, and up to 10 years for repeats.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "trespasses upon any public source of water or public water supply facilities or land",
+    "commits any offense described in subsection (a)"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "consequences": [
+     "A law enforcement officer may arrest without a warrant any person the officer has probable cause to believe has violated this section"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Trespasses upon any public source of water or public water supply facilities or land",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "After having been forbidden to do so by a person who has lawful control of the water, facilities or land, or an agent of such a person, whether directly or by notice posted on such water supply facility or land"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of $250 to $1,000",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Willfully"
+     ],
+     "consequences": [
+      "Restitution for costs of water quality analysis and subsequent investigation may be ordered by a court after a hearing"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits any offense described in subsection (a)",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of $1,000 to $5,000, or up to 2 years in the house of correction or up to 5 years in state prison, or both a fine and imprisonment",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "second or subsequent violation",
+       "penalty": "A fine of $1,000 to $10,000, or 5 to 10 years in state prison, or both a fine and imprisonment",
+       "min": 5,
+       "max": 10,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ],
+     "intent": [
+      "With the intent to corrupt, pollute or defile such public source of water"
+     ],
+     "consequences": [
+      "Restitution for costs of water quality analysis and subsequent investigation may be ordered by a court after a hearing"
+     ]
+    }
+   ]
+  }
+ },
+ "266/124": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously (or wantonly and without cause) tearing down or defacing a lawfully posted town meeting warrant, juror list or notice is punishable by a fine of up to $10.",
+   "category": "Courts & Justice",
+   "maxYears": 0,
+   "acts": [
+    "tears down, removes or defaces a warrant for a town meeting, list of jurors or other notice or paper which has been posted in compliance with law"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Tears down, removes or defaces a warrant for a town meeting, list of jurors or other notice or paper which has been posted in compliance with law",
+     "ways": [
+      "tears down",
+      "removes",
+      "defaces"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to ten dollars",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Wilfully and maliciously, or wantonly and without cause"
+     ]
+    }
+   ]
+  }
+ },
+ "266/125": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously removing, destroying or mutilating a posted show bill or advertisement for a licensed exhibition before it takes place is punishable by a fine of up to $10.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "removes, destroys or mutilates a show bill, placard, program or other advertisement posted upon a wall, fence, billboard or structure not lawfully under his control"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, destroys or mutilates a show bill, placard, program or other advertisement posted upon a wall, fence, billboard or structure not lawfully under his control",
+     "ways": [
+      "removes",
+      "destroys",
+      "mutilates"
+     ],
+     "tags": [],
+     "conditions": [
+      "The advertisement is for an exhibition, show or amusement licensed under section one hundred and eighty-one of chapter one hundred and forty",
+      "The exhibition, show or amusement has not yet taken place"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to ten dollars",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Wilfully and maliciously"
+     ]
+    }
+   ]
+  }
+ },
+ "266/126": {
+  "review": {
+   "isOffense": true,
+   "plain": "Painting or affixing unauthorized words, ads or notices on public or another's property without written consent is punishable by a fine of $10 to $100, plus forfeiture of removal costs.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "paints, or puts upon, or in any manner affixes to, any fence, structure, pole, rock or other object which is public property or the property of another"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Paints, or puts upon, or in any manner affixes to, any fence, structure, pole, rock or other object which is public property or the property of another, any words, device, trade mark, advertisement or notice which is not required by law to be posted thereon",
+     "ways": [
+      "paints",
+      "puts upon",
+      "affixes"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without first obtaining the written consent of the municipal or public officer in charge thereof or the owner or tenant of the property",
+      "The words, device, trade mark, advertisement or notice is not required by law to be posted"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of $10 to $100, plus forfeiture of the cost of removal",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Punished upon complaint of the municipal or public officer, or of the owner or tenant",
+      "Forfeits to the public or private owner or the tenant the cost of removing or obliterating the defacement, recovered in an action of tort",
+      "Any such item placed within the limits of a highway in violation is a public nuisance and may be removed or obliterated and abated by any person"
+     ]
+    }
+   ]
+  }
+ },
+ "266/126A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Intentionally, willfully and maliciously (or wantonly) defacing or destroying another's property is punishable by up to 3 years in state prison or 2 years in a house of correction, a fine, and paying for cleanup.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "acts": [
+    "paints, marks, scratches, etches or otherwise marks, injures, mars, defaces or destroys the real or personal property of another"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Paints, marks, scratches, etches or otherwise marks, injures, mars, defaces or destroys the real or personal property of another",
+     "ways": [
+      "paints",
+      "marks",
+      "scratches",
+      "etches",
+      "injures",
+      "mars",
+      "defaces",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 3 years in a state prison, or up to 2 years in a house of correction, or a fine of up to $1,500 or up to three times the value of the property, whichever is greater, or both imprisonment and fine",
+       "min": null,
+       "max": 3,
+       "flags": []
+      },
+      {
+       "if": "the property is a war or veterans' memorial, monument or gravestone",
+       "penalty": "The fine is doubled and not less than 500 hours of court-approved community service is ordered",
+       "min": null,
+       "max": null,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ],
+     "intent": [
+      "Intentionally, willfully and maliciously or wantonly"
+     ],
+     "terms": [],
+     "consequences": [
+      "Must pay for the removal or obliteration of the painting, marking, scratching or etching, or remove or obliterate it",
+      "Court conducts an evidentiary hearing after conviction on the value of the property or the cost of removal when a fine is based on value or removal cost is assessed",
+      "If the property is a war or veterans' memorial, monument or gravestone, the fine is doubled and the person must perform not less than 500 hours of court-approved community service",
+      "A police officer may arrest without a warrant with probable cause"
+     ]
+    }
+   ]
+  }
+ },
+ "266/126B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Tagging by spraying paint or placing a sticker on property, alone or with a group, with intent to deface or damage it, is punishable by up to 2 years in a house of correction, a fine, and cleanup costs.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "sprays or applies paint or places a sticker upon a building, wall, fence, sign, tablet, gravestone, monument or other object or thing on a public way or adjoined to it, or in public view, or on private property"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sprays or applies paint or places a sticker upon a building, wall, fence, sign, tablet, gravestone, monument or other object or thing on a public way or adjoined to it, or in public view, or on private property",
+     "ways": [
+      "sprays paint",
+      "applies paint",
+      "places a sticker"
+     ],
+     "tags": [],
+     "conditions": [
+      "Done either as an individual or in a group, joining together with said group"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2 years in a house of correction, or a fine of not less than $1,500 or up to three times the value of the damage, whichever is greater, or both fine and imprisonment",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to deface, mar, damage, mark or destroy such property"
+     ],
+     "consequences": [
+      "Must pay for the removal or obliteration of the tagging, or obliterate it",
+      "Court conducts an evidentiary hearing after conviction on the value of the property or the cost of removal",
+      "A police officer may arrest without a warrant with probable cause"
+     ]
+    }
+   ]
+  }
+ },
+ "266/127": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully and maliciously destroying or injuring another's personal property, dwelling or building in a way not described elsewhere in this chapter is punishable by up to 10 years in state prison; wanton damage by up to 2½ years.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "destroys or injures the personal property, dwelling house or building of another in any manner or by any means not particularly described or mentioned in this chapter"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "",
+     "act": "Destroys or injures the personal property, dwelling house or building of another in any manner or by any means not particularly described or mentioned in this chapter",
+     "ways": [
+      "destroys",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "If willful and malicious: up to 10 years in state prison, or a fine of $3,000 or 3 times the value of the damage, whichever is greater, and imprisonment in jail for up to 2½ years",
+       "min": null,
+       "max": 10,
+       "flags": []
+      },
+      {
+       "if": "the destruction or injury is wanton",
+       "penalty": "A fine of $1,000 or 3 times the value of the damage, whichever is greater, or imprisonment for up to 2½ years",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      },
+      {
+       "if": "the value of the damage is not alleged to exceed $1,200",
+       "penalty": "A fine of 3 times the value of the damage or imprisonment for up to 2½ years",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ],
+     "terms": [
+      "\"Personal property\": also includes electronically processed or stored data, either tangible or intangible, and data while in transit"
+     ],
+     "consequences": [
+      "Where a fine is levied based on value of damage, the court conducts an evidentiary hearing after conviction to ascertain the value of the damage"
+     ],
+     "intent": [
+      "Willfully and maliciously (or wantonly, for the lower penalty)"
+     ]
+    }
+   ]
+  }
+ },
+ "266/127A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully (or wantonly) destroying or defacing a church, burial place, school or community center, or threatening to destroy a place of worship, is punishable by up to 5 years in state prison for damage over $5,000.",
+   "category": "Civil Rights",
+   "maxYears": 5,
+   "acts": [
+    "destroys, defaces, mars, or injures a church, synagogue or other building, structure or place used for the purpose of burial or memorializing the dead",
+    "threatens to burn, deface, mar, injure, or in any way destroy a church, synagogue or other building, structure, or place of worship"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "(first paragraph)",
+     "act": "Destroys, defaces, mars, or injures a church, synagogue or other building, structure or place used for the purpose of burial or memorializing the dead, or a school, educational facility or community center or the grounds adjacent to and owned or leased by any of the foregoing or any personal property contained in any of the foregoing",
+     "ways": [
+      "destroys",
+      "defaces",
+      "mars",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $2,000 or up to three times the value of the property, whichever is greater, or imprisonment in a house of correction for up to two and one-half years, or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      },
+      {
+       "if": "the damage to or loss of the property exceeds $5,000",
+       "penalty": "A fine of up to three times the value of the property or imprisonment in a state prison for up to five years, or both",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Willfully, intentionally and without right, or wantonly and without cause"
+     ]
+    },
+    {
+     "where": "(second paragraph)",
+     "act": "Threatens to burn, deface, mar, injure, or in any way destroy a church, synagogue or other building, structure, or place of worship",
+     "ways": [
+      "burn",
+      "deface",
+      "mar",
+      "injure",
+      "destroy"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $1,500, or imprisonment in a jail or house of correction for up to one year, or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

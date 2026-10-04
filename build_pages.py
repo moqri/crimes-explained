@@ -8,7 +8,7 @@ headless Chrome; write the pages, plus sitemap.xml and robots.txt (covering both
 import glob, html, json, os, re, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BASE_URL = "https://moqri.github.io/federal-crimes-explained/"   # used for canonical links and the sitemap
+BASE_URL = "https://moqri.github.io/crime-code/"   # used for canonical links and the sitemap
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 SERVER = "http://localhost:8000/usc18/"                         # a local server must be serving this folder
 
@@ -43,7 +43,7 @@ MA_REGIONS = {
   """,
 }
 if MA:
-    page_src = index.replace('<html lang="en">', '<html lang="en" data-jur="ma">', 1).replace("<title>Crime Code</title>", "<title>Crime Code: Massachusetts</title>", 1)
+    page_src = index.replace('<html lang="en">', '<html lang="en" data-jur="ma">', 1).replace("<title>US Crime Code</title>", "<title>Massachusetts Crime Code</title>", 1).replace("<h1>US Crime Code</h1>", "<h1>Massachusetts Crime Code</h1>", 1)
     page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"', 1)
     for name, body in MA_REGIONS.items():
         page_src, n = re.subn(rf"<!-- jur:{name} -->.*?<!-- /jur:{name} -->", lambda m: f"<!-- jur:{name} -->{body}<!-- /jur:{name} -->", page_src, flags=re.S)
@@ -149,8 +149,8 @@ def page(i, p):
     law = "M.G.L. " + p["label"] if MA else f'18 U.S.C. § {p["section"]}'
     desc = p["plain"] or f'{law}, {p["title"]}: official text, color-coded, with each crime broken into its elements.'
     desc = (desc[:157] + "…") if len(desc) > 160 else desc
-    title = f'{law}: {p["title"]} · Crime Code'
-    back = "Crime Code: Massachusetts, all" if MA else "Crime Code: all"
+    title = f'{law}: {p["title"]} · {"Massachusetts" if MA else "US"} Crime Code'
+    back = "Massachusetts Crime Code, all" if MA else "US Crime Code, all"
     source = (f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
               if MA else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
     return f"""<!doctype html>

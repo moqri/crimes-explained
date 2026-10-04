@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Crime Code: Massachusetts</title>
+  <title>Massachusetts Crime Code</title>
   <style>
     :root {
       --bg: #f6f5f1; --surface: #ffffff; --surface-2: #faf9f6; --text: #1d1c1a; --muted: #67645c;
@@ -253,14 +253,14 @@
 <main>
   <header>
     <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a></nav><!-- /jur:nav -->
-    <h1>Crime Code</h1>
-    <!-- jur:lede --><p class="lede">Every crime in <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">Chapter 265 (Crimes Against the Person)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
+    <h1>Massachusetts Crime Code</h1>
+    <!-- jur:lede --><p class="lede">Every crime in chapters <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">265 (Crimes Against the Person)</a> and <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266" target="_blank" rel="noopener" title="Chapter 266: official text on malegislature.gov">266 (Crimes Against Property)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
       <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
       <details class="about">
         <summary>About this site</summary>
         <div class="about-body"><!-- jur:about -->
-          <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> This is a first chapter; more chapters of the criminal code will follow.</p>
+          <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
           <ul>
       <li><b>Select any section</b> to open its own page with the official text beside a breakdown of each crime in it: the act, who can commit it when the law limits that, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences. Breakdowns use only the text of that section.</li>
       <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span> or purpose required (such as <i>wilfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and <span class="pen">penalties</span> in red.</li>
@@ -304,7 +304,7 @@
 
   <footer><!-- jur:footer -->
     <p>Section headings and statutory text are the official text of the Massachusetts General Laws from the <a id="srclink" href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener">Massachusetts Legislature</a>, current as of the download date shown under About. Summaries, crime types, maximum-penalty labels, crime breakdowns, and highlighting were prepared with AI assistance from that text and may contain errors, so rely on the official text.</p>
-    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, sentencing administration). Many Massachusetts crimes are defined outside chapter 265, for example in chapters 266 (property), 90 (motor vehicles), and 94C (drugs).</p>
+    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, sentencing administration). Many Massachusetts crimes are defined in chapters not yet included, for example chapters 268 (crimes against public justice), 269 (public peace and weapons), 272 (public order), 90 (motor vehicles), and 94C (drugs).</p>
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   <!-- /jur:footer --></footer>
 </main>
@@ -603,13 +603,13 @@
   function maLink(chap, sec, raw) {
     const slug = sec.replace('½', '1~2').replace('¾', '3~4');
     if (MA_DEAD.has(`${chap}/${slug}`)) return raw;
-    if (bySection.has(`${chap}/${slug}`)) return `<a class="xref" href="../${chap}/${slug}.html" title="G.L. c. ${chap}, § ${sec} on Crime Code">${raw}</a>`;
+    if (bySection.has(`${chap}/${slug}`)) return `<a class="xref" href="../${chap}/${slug}.html" title="G.L. c. ${chap}, § ${sec} on ${MA ? 'Massachusetts' : 'US'} Crime Code">${raw}</a>`;
     return `<a class="xref ext" href="https://malegislature.gov/Laws/GeneralLaws/Chapter${chap}/Section${slug}" target="_blank" rel="noopener" title="G.L. c. ${chap}, § ${sec} on malegislature.gov">${raw}</a>`;
   }
   function xref(title, sec, raw) {
     if (/^\d+[–-]\d+$/.test(sec)) sec = sec.split(/[–-]/)[0];  // a range like 1311–1314 links to its first section
     if (DEAD.has(`${title}/${sec}`)) return raw;
-    if (title === '18' && !MA && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on Crime Code">${raw}</a>`;
+    if (title === '18' && !MA && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on ${MA ? 'Massachusetts' : 'US'} Crime Code">${raw}</a>`;
     return `<a class="xref ext" href="${usc(title, sec)}" target="_blank" rel="noopener" title="${title} U.S.C. § ${sec} on GovInfo">${raw}</a>`;
   }
   // Style the leading "(a) Heading.—" of a statute paragraph.

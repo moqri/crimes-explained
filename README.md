@@ -1,4 +1,4 @@
-# Crime Code
+# US Crime Code and Massachusetts Crime Code
 
 Every crime in Title 18 of the United States Code (Part I, "Crimes"): 710 sections in their official text, annotated. Each section is color-coded to show the prohibited act, knowledge, intent, and penalty, and every citation links to its official source.
 

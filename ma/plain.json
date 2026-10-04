@@ -1978,5 +1978,861 @@
   "acts": [
    "deposits solid waste in a commercial disposal container of another"
   ]
+ },
+ "266/28": {
+  "isOffense": true,
+  "plain": "Stealing, maliciously damaging, receiving or concealing a stolen motor vehicle or trailer is punishable by up to 15 years in state prison; concealing a vehicle thief carries up to 10 years.",
+  "category": "Property Crimes",
+  "maxYears": 15,
+  "acts": [
+   "steals a motor vehicle or trailer",
+   "maliciously damages a motor vehicle or trailer",
+   "buys, receives, possesses, conceals, or obtains control of a motor vehicle or trailer",
+   "takes a motor vehicle without the authority of the owner and steals from it any of its parts or accessories",
+   "conceals any motor vehicle or trailer thief"
+  ]
+ },
+ "266/29": {
+  "isOffense": false,
+  "plain": "Requires the owner to report a stolen vehicle, sets police notice duties when it is recovered, and requires restitution to the insurer after a conviction under the motor vehicle theft section."
+ },
+ "266/29B": {
+  "isOffense": false,
+  "plain": "Requires the owner of record of a burned motor vehicle to submit a signed statement to the fire department."
+ },
+ "266/30": {
+  "isOffense": true,
+  "plain": "Larceny is stealing, or obtaining by false pretense or converting, another's property; it carries up to 5 years in state prison over $1,200 or for a firearm, and up to 10 years if the victim is 60 or older or disabled.",
+  "category": "Property Crimes",
+  "maxYears": 10,
+  "acts": [
+   "steals",
+   "obtains by a false pretence",
+   "secretes",
+   "takes, carries away, conceals or copies",
+   "obtains by a false pretense"
+  ]
+ },
+ "266/30A": {
+  "isOffense": true,
+  "plain": "Shoplifting is intentionally taking, concealing or altering the price of store merchandise to deprive the merchant; under $250 it is a fine at first, and $250 or more carries up to 2½ years in the house of correction.",
+  "category": "Property Crimes",
+  "maxYears": 2.5,
+  "acts": [
+   "takes possession of, carries away, transfers or causes to be carried away or transferred",
+   "conceals upon his person or otherwise",
+   "alters, transfers or removes any label, price tag or marking indicia of value",
+   "transfers any merchandise displayed, held, stored or offered for sale by any store or other retail mercantile establishment from the container",
+   "records a value for the merchandise which is less than the actual retail value",
+   "removes a shopping cart from the premises of a store or other retail mercantile establishment"
+  ]
+ },
+ "266/30B": {
+  "isOffense": true,
+  "plain": "Making, selling, possessing or using theft-detection shielding devices, or deactivators and removers, or deactivating or removing a theft detection device with intent to steal, carries up to 5 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 5,
+  "acts": [
+   "manufactures, sells, offers for sale or distributes a laminated or coated bag or other device intended to shield merchandise from detection by an electronic or magnetic theft detector",
+   "possesses a laminated or coated bag or device intended to shield merchandise from detection by an electronic or magnetic theft detector",
+   "possesses any tool or device designed or adapted to either:",
+   "manufacturers, sells, offers for sale or distributes a tool or device designed or adapted to allow the deactivation of a theft detection device or to allow the removal of a theft detection device from merchandise",
+   "deactivates or removes a theft detection device from merchandise prior to purchase, in a retail establishment"
+  ]
+ },
+ "266/30C": {
+  "isOffense": true,
+  "plain": "Possessing, using, making or counterfeiting retail receipts, price tickets or UPC labels to cheat a retailer is punishable by up to 5 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "possesses, uses, utters, transfers, makes, alters, counterfeits or reproduces a retail sales or return receipt, price ticket or universal product code label"
+  ]
+ },
+ "266/30D": {
+  "isOffense": true,
+  "plain": "Organized retail crime, theft of over $2,500 in retail goods with 2 or more others to resell, carries up to 10 years; over $10,000, up to 15 years; leading such an enterprise, up to 20 years.",
+  "category": "Property Crimes",
+  "maxYears": 20,
+  "acts": [
+   "steals, embezzles or obtains by fraud, false pretense or other illegal means retail merchandise valued at more than $2,500",
+   "steals, embezzles or obtains by fraud, false pretense or other illegal means retail merchandise valued at more than $10,000",
+   "conspires with others as an organizer, supervisor, financier or manager, to commit an organized retail crime or an aggravated organized retail crime"
+  ]
+ },
+ "266/31": {
+  "isOffense": true,
+  "plain": "Obtaining a person's signature on a written instrument by false pretense and with intent to defraud is punishable by up to 10 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "obtains the signature of a person to a written instrument"
+  ]
+ },
+ "266/32": {
+  "isOffense": true,
+  "plain": "A ship captain who embezzles or fraudulently converts money, goods or property belonging to the crew, owners or suppliers of the vessel is guilty of larceny.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "embezzles or fraudulently converts or appropriates money, goods or property, held or possessed by or delivered to him"
+  ],
+  "maxPlus": true
+ },
+ "266/33": {
+  "isOffense": true,
+  "plain": "Obtaining a note, release, extension of time, or contract change by false pretense, or bank credit by a false written financial statement, with intent to defraud, is larceny.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "obtains by a false pretence the making, acceptance or endorsement of a bill of exchange or promissory note, the release or substitution of collateral or other security, an extension of time for the payment of an obligation, or the release or alteration of the obligation of a written contract",
+   "obtains for himself or for any other person credit from any bank or trust company"
+  ],
+  "maxPlus": true
+ },
+ "266/33A": {
+  "isOffense": true,
+  "plain": "Fraudulently obtaining, attempting to obtain, or helping another obtain a commercial computer service is punishable by up to 2½ years in a house of correction.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 2.5,
+  "acts": [
+   "obtains, or attempts to obtain, or aids or abets another in obtaining, any commercial computer service by false representation, false statement, unauthorized charging to the account of another, by installing or tampering with any facilities or equipment or by any other means"
+  ]
+ },
+ "266/34": {
+  "isOffense": true,
+  "plain": "Inducing another by false pretense and with intent to defraud to part with property, or with benefits described in the contract and computer-service fraud provisions, is larceny.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "induces another to part with property of any kind or with any of the benefits described in sections 33 and 33A"
+  ],
+  "maxPlus": true
+ },
+ "266/35": {
+  "isOffense": false,
+  "plain": "Says the general larceny, signature and inducement sections do not apply to a purchase by false pretense about means to pay when payment is not due at delivery, unless the pretense is in a signed writing."
+ },
+ "266/35A": {
+  "isOffense": true,
+  "plain": "Making or using false material statements in the mortgage lending process, or receiving proceeds of such fraud, carries up to 5 years in state prison; a pattern across 3 or more properties carries up to 15 years.",
+  "category": "Fraud & Money",
+  "maxYears": 15,
+  "acts": [
+   "makes or causes to be made any material statement that is false or any statement that contains a material omission",
+   "uses, or facilitates the use of, any material statement that is false or any statement that contains a material omission",
+   "receives any proceeds or any other funds in connection with a residential mortgage closing",
+   "files or causes to be filed with a registrar of deeds any document that contains a material statement that is false or a material omission",
+   "engages in a pattern of residential mortgage fraud"
+  ]
+ },
+ "266/37": {
+  "isOffense": true,
+  "plain": "Making or passing a check with intent to defraud, knowing there are insufficient funds, is attempted larceny, and larceny if money, property or services are obtained.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "makes, draws, utters or delivers any check, draft or order for the payment of money upon any bank or other depositary"
+  ],
+  "maxPlus": true
+ },
+ "266/37A": {
+  "isOffense": false,
+  "plain": "Defines terms such as credit card, cardholder, issuer, receives and falsely makes for the credit card misuse sections."
+ },
+ "266/37B": {
+  "isOffense": true,
+  "plain": "Misusing a credit card with intent to defraud, such as stealing, selling, forging a signature or using one for up to $1,200, is punishable by up to 1 year in jail or a $2,500 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "makes or causes to be made, either directly or indirectly, any false statement as to a material fact in writing",
+   "takes a credit card from the person, possession, custody or control of another without the cardholder's consent by any conduct which would constitute larceny",
+   "receives the credit card",
+   "receives a credit card that he knows to have been lost, mislaid, or delivered under a mistake as to the identity or address of the cardholder",
+   "sells a credit card, or buys a credit card from a person other than the issuer or his authorized agent",
+   "signs a credit card",
+   "uses, for the purpose of obtaining money, goods, services or anything else of value, a credit card obtained or retained in violation of clauses (b) to (e), inclusive, or a credit card which he knows is forged, expired or revoked",
+   "obtains money, goods, services or anything else of value by representing without the consent of the cardholder that he is said cardholder or by representing that he is the holder of a card and such card has not in fact been issued",
+   "furnishes money, goods, services or anything else of value upon presentation of a credit card which he knows was obtained or retained in violation of clauses (b) to (e), inclusive, or a credit card which he knows is forged, expired or revoked",
+   "fails to furnish money, goods, services or anything else of value which he represents in writing to the issuer that he has furnished",
+   "receives money, goods, services or anything else of value obtained in violation of clauses (f) to (i), inclusive",
+   "makes a false statement in reporting a credit card to be lost or stolen"
+  ]
+ },
+ "266/37C": {
+  "isOffense": true,
+  "plain": "Fraudulent credit card use over $1,200, false making or embossing of cards, and possessing incomplete cards or card-making equipment is punishable by up to 5 years in state prison or a $10,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "obtains control over a credit card as security for debt",
+   "receives a credit card which he knows was taken or retained under circumstances which constitute credit card theft",
+   "falsely makes or falsely embosses a purported credit card or utters such a credit card",
+   "obtains money, goods, services or anything else of value by use of a credit card obtained or retained in violation of clauses (b) to (e), inclusive, of section thirty-seven B, or by use of a credit card which he knows is forged, expired or revoked",
+   "obtains money, goods or services or anything else of value by representing without the consent of the cardholder that he is said cardholder or by representing that he is the holder of a card and such card has not in fact been issued",
+   "furnish money, goods, services or anything else of value upon presentation of a credit card which he knows was obtained in violation of subsections (b) to (e), inclusive, of section thirty-seven B, or a credit card which he knows is forged, expired or revoked",
+   "fails to furnish money, goods or services or anything else of value which he represents in writing to the issuer that he has furnished",
+   "receives money, goods, services or anything else of value obtained in violation of subsections (f) or (g) of section thirty-seven B",
+   "possesses one or more incomplete credit cards",
+   "machinery, plates or any other contrivance designed to reproduce instruments purporting to be the credit cards of an issuer who has not consented to the preparation of such credit cards"
+  ]
+ },
+ "266/37D": {
+  "isOffense": true,
+  "plain": "Publishing utility credit card numbers or coding systems, or methods to fraudulently avoid telecommunication payments, is punishable by up to 12 months in jail or a $2,000 fine.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 1,
+  "acts": [
+   "publishes or causes to be published the number or code of an existing, canceled, revoked, expired, or nonexistent credit card issued by a public utility company"
+  ]
+ },
+ "266/37E": {
+  "isOffense": true,
+  "plain": "Identity fraud, posing as another and using their personal identifying information, or obtaining or possessing tools to get it, is punishable by up to 2½ years in a house of correction or a $5,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 2.5,
+  "acts": [
+   "poses as another person without the express authorization of that person and uses such person's personal identifying information to obtain or to attempt to obtain money, credit, goods, services, anything of value, any identification card or other evidence of such person's identity, or to harass another",
+   "obtains personal identifying information about another person without the express authorization of such person",
+   "possesses a tool, instrument or other article adapted, designed or commonly used for accessing a person's financial services account number or code"
+  ]
+ },
+ "266/38": {
+  "isOffense": true,
+  "plain": "A carrier who embezzles or fraudulently converts collect-on-delivery money contrary to the consignor's instructions is guilty of larceny, as is a member, officer or employee of a carrier who so disposes of it.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "embezzles or fraudulently converts to his own use",
+   "disposes of such money in whole or in part or any substitute therefor for his own use or for the use of said co-partnership or corporation"
+  ],
+  "maxPlus": true
+ },
+ "266/38A": {
+  "isOffense": true,
+  "plain": "Using the proceeds of a mortgage-secured construction loan for anything other than paying labor and materials before they are paid in full is punishable by up to 1 year in jail or a $500 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "applies the proceeds of such loan, or any part thereof, to any use other than payment for labor and/or materials as aforesaid"
+  ]
+ },
+ "266/39": {
+  "isOffense": true,
+  "plain": "Stealing, or fraudulently destroying, mutilating or concealing a will or other testamentary instrument is punishable by up to 5 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 5,
+  "acts": [
+   "steals",
+   "destroys, mutilates or conceals a will, codicil or other testamentary instrument"
+  ]
+ },
+ "266/40": {
+  "isOffense": true,
+  "plain": "A person convicted of larceny a further time after a prior larceny conviction, or of three larcenies at one court sitting, is a common and notorious thief, punishable by up to 20 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 20,
+  "acts": [
+   "afterward commits a larceny or is accessory thereto before the fact",
+   "is convicted at the same sitting of the court, as principal or accessory before the fact, of three distinct larcenies"
+  ]
+ },
+ "266/41": {
+  "isOffense": true,
+  "plain": "A second conviction for stealing a bicycle worth over $10 is punishable by up to 5 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 5,
+  "acts": [
+   "is convicted of a second offence of the larceny of a bicycle"
+  ]
+ },
+ "266/42": {
+  "isOffense": true,
+  "plain": "Larceny of paper or plates designed for bank bills, with intent to injure or defraud by passing them as true, is punishable by life or any term of years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 999,
+  "acts": [
+   "commits larceny of a printed piece of paper or blank designed for issue by any incorporated bank or banking company in the United States as a bank bill, certificate or promissory note"
+  ]
+ },
+ "266/43": {
+  "isOffense": true,
+  "plain": "A printer or custodian who keeps bank-bill paper or blanks without the corporation's consent, intending to pass them as true, is punishable by life or any term of years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 999,
+  "acts": [
+   "retains it in his possession without the knowledge and consent of the corporation for which it was printed"
+  ]
+ },
+ "266/47": {
+  "isOffense": true,
+  "plain": "Wrongfully removing the collar from a licensed, collared dog is punishable by up to 6 months in prison or a $100 fine.",
+  "category": "Animals & Wildlife",
+  "maxYears": 0.5,
+  "acts": [
+   "wrongfully removes the collar from a dog which is licensed and collared as provided in chapter one hundred and forty"
+  ]
+ },
+ "266/48": {
+  "isOffense": false,
+  "plain": "Requires an officer who arrests a person for robbery or larceny to secure the allegedly stolen property, and says it is restored to the owner after conviction."
+ },
+ "266/49": {
+  "isOffense": true,
+  "plain": "Making, mending or possessing tools designed for breaking into buildings or safes, or a master key for motor vehicles, with intent to use them for crime is punishable by up to 10 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 10,
+  "acts": [
+   "makes or mends, or begins to make or mend",
+   "has in his possession, an engine, machine, tool or implement adapted and designed for cutting through, forcing or breaking open a building, room, vault, safe or other depository",
+   "has in his possession a master key designed to fit more than one motor vehicle"
+  ]
+ },
+ "266/50": {
+  "isOffense": true,
+  "plain": "A person employed in the commonwealth's treasury who commits a fraud or embezzlement there faces a fine of up to $2,000 or state prison for life or any term of years.",
+  "category": "Fraud & Money",
+  "maxYears": 999,
+  "acts": [
+   "commits a fraud or embezzlement therein"
+  ]
+ },
+ "266/51": {
+  "isOffense": true,
+  "plain": "A county, city or town officer who embezzles or fraudulently converts local government property faces up to 10 years in state prison.",
+  "category": "Government & Corruption",
+  "maxYears": 10,
+  "acts": [
+   "embezzles or fraudulently converts",
+   "fraudulently takes or secretes with intent so to do, effects or property which belong to or are in possession of said county, city or town"
+  ]
+ },
+ "266/52": {
+  "isOffense": true,
+  "plain": "A bank officer, director, trustee, agent or employee who fraudulently converts or takes and secretes bank or depositor money or securities is guilty of larceny from the bank, with up to 15 years in state prison; aiders also face this.",
+  "category": "Fraud & Money",
+  "maxYears": 15,
+  "acts": [
+   "fraudulently converts, or fraudulently takes and secretes with intent so to do, any bullion, money, note, bill or other security for money which belongs to and is in possession of such bank, or which belongs to any person and is deposited therein",
+   "knowingly aids, counsels or procures such larceny to be committed"
+  ]
+ },
+ "266/53": {
+  "isOffense": false,
+  "plain": "Sets evidence rules for prosecutions of bank and other embezzlement: a fraudulent taking through agreement with a bank officer counts as taking by the officer, items need not be identified, and acts within six months of the indictment date may be shown."
+ },
+ "266/53A": {
+  "isOffense": true,
+  "plain": "A bank officer or employee who wilfully misapplies bank property, issues unauthorized instruments, makes bad loans, or falsifies records, or anyone who aids or abets, faces up to 10 years in state prison and a $10,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "wilfully misapplies otherwise than as described in section fifty-two or fifty-three, any of the moneys, funds, credits or other property of such bank",
+   "executes or issues a certificate of deposit, order or bill of exchange, or makes an acceptance, purporting to be executed, issued or made by such bank",
+   "assigns any note, bond, draft, bill of exchange, mortgage, judgment, decree or other property of such bank",
+   "loans the funds or credit of such bank to any individual, corporation, joint stock company, trust, association or partnership",
+   "knowingly receives or accepts for such bank any fictitious, valueless, inadequate or irresponsible obligation directly or as security or endorsement",
+   "certifies any check drawn upon such bank",
+   "resorts to any fictitious or colorable loan, transfer or device to avoid any provision of law relating to such bank",
+   "knowingly makes or causes to be made any false entry in any book, report or statement of such bank",
+   "knowingly aids or abets any violation of this section"
+  ]
+ },
+ "266/54": {
+  "isOffense": true,
+  "plain": "A bank officer or employee who receives or permits a deposit knowing the bank is insolvent faces up to 2½ years in prison or a fine of up to $5,000, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 2.5,
+  "acts": [
+   "receives or permits the receipt of any deposit"
+  ]
+ },
+ "266/55": {
+  "isOffense": true,
+  "plain": "A bank liquidating agent, commissioner's employee, or court-appointed receiver who embezzles or misapplies property in their possession is guilty of larceny and faces up to 10 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "embezzles or fraudulently converts, or fraudulently takes and secretes with intent so to do, or wilfully misapplies, moneys, funds, credits or other property in his possession by virtue of his appointment or employment"
+  ]
+ },
+ "266/56": {
+  "isOffense": true,
+  "plain": "A broker or corporate broker-officer who embezzles or fraudulently converts money, stock or security entrusted with written investment directions faces up to 5 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "embezzles or fraudulently converts such money, stock or security, or any part thereof, or the proceeds or any part of the proceeds thereof"
+  ]
+ },
+ "266/57": {
+  "isOffense": true,
+  "plain": "A trustee, guardian, conservator, executor or administrator who embezzles or fraudulently converts property held for another or for a public or charitable purpose faces up to 10 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "embezzles or fraudulently converts or appropriates money, goods or property held or possessed by him for the use or benefit, either wholly or partially, of some other person or for a public or charitable purpose",
+   "otherwise fraudulently disposes of or destroys such property"
+  ]
+ },
+ "266/58": {
+  "isOffense": true,
+  "plain": "An officer, agent, clerk or servant of a voluntary association who embezzles or fraudulently converts its property is guilty of larceny.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "embezzles or fraudulently converts, or fraudulently takes or secretes with intent so to do, effects or property which belong to such association or society, or which have come to his possession or are under his care by virtue of his office or employment"
+  ]
+ },
+ "266/59": {
+  "isOffense": true,
+  "plain": "Embezzling or fraudulently converting property of the volunteer militia, a veterans post or another voluntary association is simple larceny, even if the person is a member.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "embezzles or fraudulently converts, or secretes with intent to embezzle or fraudulently convert, money, goods or property or any part thereof which has been delivered to him"
+  ]
+ },
+ "266/60": {
+  "isOffense": true,
+  "plain": "Buying, receiving or helping conceal stolen or embezzled property, or taking police-represented stolen property, is punishable by up to 5 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 5,
+  "acts": [
+   "buys, receives or aids in the concealment of stolen or embezzled property",
+   "buys, receives or aids in the concealment of property",
+   "obtains or exerts control over property in the custody of any law enforcement agency, or any individual acting on behalf of a law enforcement agency"
+  ]
+ },
+ "266/60A": {
+  "isOffense": true,
+  "plain": "Buying, receiving, concealing, selling or pledging a trade secret known to be stolen, unlawfully converted or taken is punishable by up to 5 years in prison.",
+  "category": "Property Crimes",
+  "maxYears": 5,
+  "acts": [
+   "buys, receives, conceals, stores, barters, sells or disposes of any trade secret, or pledges or accepts as security for a loan any trade secret"
+  ]
+ },
+ "266/60B": {
+  "isOffense": false,
+  "plain": "Lets crimes under this chapter committed in different counties or court districts be charged and prosecuted in any court having jurisdiction of at least one of them, if they could otherwise be joined for trial."
+ },
+ "266/61": {
+  "isOffense": false,
+  "plain": "Provides that a person on a first conviction for receiving stolen property who shows the theft was simple larceny and makes full restitution cannot be imprisoned in state prison."
+ },
+ "266/62": {
+  "isOffense": true,
+  "plain": "Anyone convicted of receiving stolen property after a prior like conviction, or of three or more such acts at one sitting, is a common receiver of stolen goods, with up to 10 years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 10,
+  "acts": [
+   "buying, receiving or aiding in the concealment of stolen or embezzled property"
+  ]
+ },
+ "266/63": {
+  "isOffense": true,
+  "plain": "Wilfully and mischievously taking or using someone's boat, non-motor vehicle or draught animal without consent is punishable by up to 6 months in prison or a $300 fine.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "takes or uses a boat or vehicle, other than a motor vehicle",
+   "takes, drives, rides or uses any draught animal which is the property of another"
+  ]
+ },
+ "266/64": {
+  "isOffense": true,
+  "plain": "Hiring a horse, carriage or vehicle and, with intent to cheat, lying about the distance or refusing to pay the lawful fare is punishable by up to 2 months in prison, a $20 fine, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.17,
+  "acts": [
+   "hires a horse, carriage or other vehicle",
+   "makes to the owner or his agent, after the use of a horse, carriage or other vehicle, a false statement of the distance which he has actually traveled with such horse, carriage or other vehicle",
+   "refuses to pay for the use of a horse, carriage or other vehicle the lawful fare established therefor by any town"
+  ]
+ },
+ "266/65": {
+  "isOffense": true,
+  "plain": "A corporate officer, agent, clerk, servant or other person who issues or signs stock or securities beyond the authorized amount, or disposes of such stock to defraud, faces up to 10 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "issues or signs with intent to issue a certificate of stock in a corporation",
+   "issues, signs or endorses with intent to issue, a bond, note, bill or other obligation or security in the name of such corporation, beyond the amount authorized by law or limited by the legal votes of such corporation or its proper officers",
+   "negotiates, transfers or disposes of such certificate with intent to defraud"
+  ]
+ },
+ "266/66": {
+  "isOffense": true,
+  "plain": "A corporate officer, agent, clerk, servant or other person who fraudulently issues, transfers or signs a stock certificate for someone not entitled to it faces up to 10 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "fraudulently issues or transfers a certificate of the stock of a corporation to a person who is not entitled thereto",
+   "fraudulently signs such certificate, in blank or otherwise"
+  ]
+ },
+ "266/67": {
+  "isOffense": true,
+  "plain": "Making a false entry or omitting a true entry in business books, or omitting stock records, with intent to defraud is punishable by up to 10 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 10,
+  "acts": [
+   "makes a false entry or omits to make a true entry in any book of such person, firm or corporation",
+   "omits to make a true record or entry thereof"
+  ]
+ },
+ "266/67A": {
+  "isOffense": true,
+  "plain": "Intentionally making false statements, concealing facts, or submitting false or misleading materials in procurement for a government body is punishable by up to 5 years in state prison and a $10,000 fine.",
+  "category": "Government & Corruption",
+  "maxYears": 5,
+  "acts": [
+   "makes a material statement that is false;",
+   "omits or conceals a material fact in a written statement;",
+   "submits or invites reliance on a material writing or recording that is false, forged, altered, or otherwise lacking in authenticity;",
+   "submits or invites reliance on a sample, specimen, map, photograph, boundary-mark, or other object that is misleading in a material respect; or",
+   "uses any trick, scheme, or device that is misleading in a material respect;"
+  ]
+ },
+ "266/67B": {
+  "isOffense": true,
+  "plain": "Making or presenting a claim against the state or a local government body knowing it is false, fictitious or fraudulent is punishable by up to 5 years in state prison and a $10,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "makes or presents to any employee, department, agency or public instrumentality of the commonwealth, or of any political subdivision thereof, any claim upon or against any department, agency, or public instrumentality of the commonwealth, or any political subdivision thereof"
+  ]
+ },
+ "266/67C": {
+  "isOffense": true,
+  "plain": "Knowingly and wilfully making a false entry or omitting a true entry in certain capital-facility construction project records is punishable by up to 5 years in state prison and a $5,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "makes, or knowingly and wilfully causes to be made, a false entry or omission of a true entry in any books, record or account"
+  ]
+ },
+ "266/68": {
+  "isOffense": false,
+  "plain": "Makes the books of a person, firm or corporation, to which the defendant had access or a right of access, admissible in evidence at trial for crimes under the three preceding sections."
+ },
+ "266/69": {
+  "isOffense": true,
+  "plain": "A non-member who wilfully wears or uses a registered society, association or labor union insignia to pose as a member faces up to one month in prison, a $20 fine, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.08,
+  "acts": [
+   "wears or uses the insignia, ribbon, badge, rosette, button or emblem thereof"
+  ]
+ },
+ "266/69A": {
+  "isOffense": true,
+  "plain": "Knowingly and fraudulently displaying or using a labor organization's seal, trademark or insignia is punishable by a fine of up to $1,000.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "acts": [
+   "displays or otherwise uses, in any manner whatsoever, the seal, trademark or insignia of any labor organization"
+  ]
+ },
+ "266/70": {
+  "isOffense": true,
+  "plain": "A non-member without authority who wilfully wears or uses a listed veterans organization's insignia, or displays it on property to falsely claim occupancy, faces up to one month in prison, a $20 fine, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.08,
+  "acts": [
+   "wears or uses the insignia, distinctive ribbons or membership rosette or button thereof",
+   "displays on his property or permits to be displayed thereon any such insignia, distinctive ribbon, membership rosette or button, or any sign or statement"
+  ]
+ },
+ "266/71": {
+  "isOffense": true,
+  "plain": "Wilfully getting a signature, money or property by false pretences for a pretended degree or membership in a fraternal organization is punishable by up to 1 year in prison or a $500 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "obtains the signature of any person to any written application",
+   "obtains any money or property for any alleged or pretended degree, or for any alleged or pretended membership"
+  ]
+ },
+ "266/111B": {
+  "isOffense": true,
+  "plain": "Knowingly presenting a false or fraudulent claim or proof of loss to a motor vehicle, theft or comprehensive insurer, with intent to defraud, is punishable by up to 5 years in state prison plus restitution.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "knowingly presents to it, or aids or abets in or procures the presentation to it of, any notice, statement, or proof of loss"
+  ]
+ },
+ "266/111C": {
+  "isOffense": true,
+  "plain": "Knowingly acting as a runner, or using, hiring or directing one, to defraud an insured or insurance carrier is punishable by up to 5 years in state prison.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "acts": [
+   "acts as a runner or uses, solicits, directs, hires or employs another to act as a runner"
+  ]
+ },
+ "266/112": {
+  "isOffense": true,
+  "plain": "Wilfully and maliciously killing, maiming or disfiguring another person's animal, or poisoning it, is punishable by up to 7 years in state prison, and up to 10 years for a repeat offense.",
+  "category": "Animals & Wildlife",
+  "maxYears": 10,
+  "acts": [
+   "kills, maims or disfigures any horse, cattle or other animal of another person",
+   "administers or exposes poison with intent that it shall be taken or swallowed by any such animal"
+  ]
+ },
+ "266/113": {
+  "isOffense": true,
+  "plain": "Wilfully cutting, taking or destroying timber, plants, stone, soil or similar things on another's land without the owner's license is punishable by up to six months in jail or a $500 fine.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "wilfully cuts down or destroys timber or wood standing or growing on the land of another",
+   "carries away any kind of timber or wood cut down or lying on such land",
+   "digs up or carries away stone, ore, gravel, clay, sand, turf or mould from such land",
+   "cuts down or carries away sedge, grass, hay or any kind of corn, standing, growing or being on such land",
+   "roots, nuts, berries, grapes or fruit of any kind or any plant there being",
+   "cuts or takes therefrom any ferns, flowers or shrubs",
+   "carries away from a wharf or landing place any goods in which he has no interest or property"
+  ]
+ },
+ "266/114": {
+  "isOffense": true,
+  "plain": "Wilfully and maliciously (or wantonly) breaking glass in another's building, damaging fences or gates, or severing produce from another's land is punishable by up to six months or a $500 fine.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "breaks glass in a building which is not his own",
+   "breaks down, injures, mars or defaces a fence belonging to or enclosing land which is not his own",
+   "throws down or opens a gate, bars or fence, and leaves the same down or open",
+   "severs from the freehold of another any produce thereof or anything attached thereto"
+  ]
+ },
+ "266/115": {
+  "isOffense": true,
+  "plain": "Wilfully and maliciously entering an orchard, nursery, garden or cranberry meadow and taking or destroying plants or fruit without consent is punishable by up to six months or a $500 fine.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "enters an orchard, nursery, garden or cranberry meadow, and takes away, mutilates or destroys a tree, shrub or vine, or steals, takes and carries away any fruit or flower"
+  ]
+ },
+ "266/116A": {
+  "isOffense": true,
+  "plain": "Pulling up, digging up or injuring wild azalea, wild orchid or cardinal flower plants in public places or on another's land without written authority, or buying or selling them, is punishable by a fine of up to $5.",
+  "category": "Animals & Wildlife",
+  "maxYears": 0,
+  "acts": [
+   "pull up or dig up the plant of a wild azalea, wild orchid or cardinal flower (lobelia cardinalis), or any part thereof",
+   "injure any such plant or any part thereof",
+   "buy or sell, or offer or expose for sale, any such flower, or the whole or any part of the plant thereof"
+  ]
+ },
+ "266/117": {
+  "isOffense": true,
+  "plain": "Wilfully and intentionally entering another's orchard, garden or improved land without right, intending to cut, take or destroy plants or produce, is punishable by up to six months or a $500 fine.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "enters upon the orchard, garden or other improved land of another"
+  ]
+ },
+ "266/118": {
+  "isOffense": true,
+  "plain": "Wilfully letting sheep, goats, cattle, horses, swine or fowl in your charge stay on or cross another's improved land after written or posted notice is punishable by a fine of up to $10.",
+  "category": "Animals & Wildlife",
+  "maxYears": 0,
+  "acts": [
+   "suffers or permits them to enter or remain on or pass over any orchard, garden, mowing land or other improved or enclosed land of another"
+  ]
+ },
+ "266/119": {
+  "isOffense": true,
+  "plain": "Knowingly bringing a regulated pest into the commonwealth, moving it between towns, or evading a quarantine regulation is punishable by a fine of up to $200, up to two months in jail, or both.",
+  "category": "Animals & Wildlife",
+  "maxYears": 0.1667,
+  "acts": [
+   "brings into the commonwealth, or transports from one town to another therein, any pest referred to in section eleven or twenty-five of chapter one hundred and thirty-two, or the eggs, nests, larvae or pupae thereof",
+   "evades the requirements of a quarantine regulation duly established under any provision of said chapter one hundred and thirty-two"
+  ]
+ },
+ "266/120": {
+  "isOffense": true,
+  "plain": "Entering or remaining on another's building or land, or in a school bus, after being forbidden, or violating a related court order, is punishable by a fine of up to $100 or up to 30 days in jail.",
+  "category": "Property Crimes",
+  "maxYears": 0.0822,
+  "acts": [
+   "enters or remains in or upon the dwelling house, buildings, boats or improved or enclosed land, wharf, or pier of another",
+   "enters or remains in a school bus, as defined in section 1 of chapter 90"
+  ]
+ },
+ "266/120A": {
+  "isOffense": false,
+  "plain": "Provides that, in a prosecution for trespass by parking a motor vehicle on a private way or enclosed land, proof that the defendant was the registered owner is prima facie evidence the defendant parked it."
+ },
+ "266/120B": {
+  "isOffense": false,
+  "plain": "Provides that an abutting landowner who enters adjoining land to maintain or repair a building is not guilty of trespass or civilly liable if notice, bond and other conditions are met."
+ },
+ "266/120C": {
+  "isOffense": false,
+  "plain": "Provides that a registered land surveyor entering adjoining lands after reasonable notice to make surveys for a private person is not trespassing, but remains liable for damage caused."
+ },
+ "266/120D": {
+  "isOffense": true,
+  "plain": "Removing a vehicle from a private way or property without notifying police or the owner's consent, or purporting to authorize such removal without complying, is punishable by a fine of up to $100.",
+  "category": "Transportation & Aviation",
+  "maxYears": 0,
+  "acts": [
+   "removes a vehicle from a private way or from improved or enclosed property as aforesaid",
+   "purports to authorize the removal of a vehicle from a way or property as aforesaid without having fully complied with the provision of this section"
+  ]
+ },
+ "266/120E": {
+  "isOffense": true,
+  "plain": "Knowingly obstructing entry to or departure from a medical facility, or entering or remaining so as to impede services, after notice is punishable by up to six months in jail, and up to 2½ years for repeat violations.",
+  "category": "Courts & Justice",
+  "maxYears": 2.5,
+  "acts": [
+   "knowingly obstructs entry to or departure from any medical facility",
+   "enters or remains in any medical facility so as to impede the provision of medical services"
+  ]
+ },
+ "266/120E1~2": {
+  "isOffense": true,
+  "plain": "Defying a police withdrawal order at a reproductive health care facility, or injuring, intimidating, impeding or interfering with people or vehicles there, is punishable by fines or jail, up to 5 years in state prison for some repeat offenses.",
+  "category": "Civil Rights",
+  "maxYears": 5,
+  "acts": [
+   "fails to comply with a withdrawal order pursuant to subsection (b)",
+   "intentionally injures or intimidates or attempts to injure or intimidate a person who attempts to access or depart from a reproductive health care facility",
+   "impedes a person's access to or departure from a reproductive health care facility",
+   "impedes or attempts to impede a person or a vehicle attempting to access or depart from a reproductive health care facility",
+   "interferes with the operation of a vehicle that attempts to enter, exit or park at a reproductive health care facility"
+  ]
+ },
+ "266/120F": {
+  "isOffense": true,
+  "plain": "Knowingly accessing a computer system without authorization, or staying in after learning access is unauthorized, is punishable by up to 30 days in a house of correction or a fine of up to $1,000.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 0.0822,
+  "acts": [
+   "accesses a computer system by any means",
+   "fails to terminate such access"
+  ]
+ },
+ "266/121": {
+  "isOffense": true,
+  "plain": "Entering another's land without right with firearms intending to fire them, and staying after being asked to leave, is punishable by a fine of up to $200, up to two months in jail, or both.",
+  "category": "Weapons & Terrorism",
+  "maxYears": 0.1667,
+  "acts": [
+   "enters upon the land of another with firearms"
+  ]
+ },
+ "266/121A": {
+  "isOffense": true,
+  "plain": "Entering another's private land without right with a motor-powered vehicle, machine or device is punishable by a fine of up to $500.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "acts": [
+   "enters upon the private land of another, whether or not such land be posted against trespass"
+  ]
+ },
+ "266/122": {
+  "isOffense": true,
+  "plain": "Wilfully tearing down, removing or defacing a posted no-trespassing notice is punishable by a fine of up to $25.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "acts": [
+   "tears down, removes or defaces any notice posted on land, or other property described in section one hundred and twenty, by the owner, lessee or custodian thereof, warning persons not to trespass thereon"
+  ]
+ },
+ "266/123": {
+  "isOffense": true,
+  "plain": "Willfully trespassing on state land or on listed public institution grounds, or staying after notice to leave, is punishable by a fine of up to $50 or up to three months in jail.",
+  "category": "Property Crimes",
+  "maxYears": 0.25,
+  "acts": [
+   "trespasses upon land or premises belonging to the commonwealth",
+   "remains thereon"
+  ]
+ },
+ "266/123A": {
+  "isOffense": true,
+  "plain": "Willfully trespassing on public water sources or supply facilities after being forbidden is fined $250 to $1,000; doing so intending to pollute carries up to 5 years in state prison, and up to 10 years for repeats.",
+  "category": "Property Crimes",
+  "maxYears": 10,
+  "acts": [
+   "trespasses upon any public source of water or public water supply facilities or land",
+   "commits any offense described in subsection (a)"
+  ]
+ },
+ "266/124": {
+  "isOffense": true,
+  "plain": "Wilfully and maliciously (or wantonly and without cause) tearing down or defacing a lawfully posted town meeting warrant, juror list or notice is punishable by a fine of up to $10.",
+  "category": "Courts & Justice",
+  "maxYears": 0,
+  "acts": [
+   "tears down, removes or defaces a warrant for a town meeting, list of jurors or other notice or paper which has been posted in compliance with law"
+  ]
+ },
+ "266/125": {
+  "isOffense": true,
+  "plain": "Wilfully and maliciously removing, destroying or mutilating a posted show bill or advertisement for a licensed exhibition before it takes place is punishable by a fine of up to $10.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "acts": [
+   "removes, destroys or mutilates a show bill, placard, program or other advertisement posted upon a wall, fence, billboard or structure not lawfully under his control"
+  ]
+ },
+ "266/126": {
+  "isOffense": true,
+  "plain": "Painting or affixing unauthorized words, ads or notices on public or another's property without written consent is punishable by a fine of $10 to $100, plus forfeiture of removal costs.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "acts": [
+   "paints, or puts upon, or in any manner affixes to, any fence, structure, pole, rock or other object which is public property or the property of another"
+  ]
+ },
+ "266/126A": {
+  "isOffense": true,
+  "plain": "Intentionally, willfully and maliciously (or wantonly) defacing or destroying another's property is punishable by up to 3 years in state prison or 2 years in a house of correction, a fine, and paying for cleanup.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "acts": [
+   "paints, marks, scratches, etches or otherwise marks, injures, mars, defaces or destroys the real or personal property of another"
+  ]
+ },
+ "266/126B": {
+  "isOffense": true,
+  "plain": "Tagging by spraying paint or placing a sticker on property, alone or with a group, with intent to deface or damage it, is punishable by up to 2 years in a house of correction, a fine, and cleanup costs.",
+  "category": "Property Crimes",
+  "maxYears": 2,
+  "acts": [
+   "sprays or applies paint or places a sticker upon a building, wall, fence, sign, tablet, gravestone, monument or other object or thing on a public way or adjoined to it, or in public view, or on private property"
+  ]
+ },
+ "266/127": {
+  "isOffense": true,
+  "plain": "Willfully and maliciously destroying or injuring another's personal property, dwelling or building in a way not described elsewhere in this chapter is punishable by up to 10 years in state prison; wanton damage by up to 2½ years.",
+  "category": "Property Crimes",
+  "maxYears": 10,
+  "acts": [
+   "destroys or injures the personal property, dwelling house or building of another in any manner or by any means not particularly described or mentioned in this chapter"
+  ]
+ },
+ "266/127A": {
+  "isOffense": true,
+  "plain": "Willfully (or wantonly) destroying or defacing a church, burial place, school or community center, or threatening to destroy a place of worship, is punishable by up to 5 years in state prison for damage over $5,000.",
+  "category": "Civil Rights",
+  "maxYears": 5,
+  "acts": [
+   "destroys, defaces, mars, or injures a church, synagogue or other building, structure or place used for the purpose of burial or memorializing the dead",
+   "threatens to burn, deface, mar, injure, or in any way destroy a church, synagogue or other building, structure, or place of worship"
+  ]
  }
 }

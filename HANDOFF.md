@@ -2,8 +2,8 @@
 
 Notes for picking this project up in a new Claude Code session or account. Read this first, then `README.md` (files and build commands).
 
-- **Live site:** https://moqri.github.io/federal-crimes-explained/ (federal) and https://moqri.github.io/federal-crimes-explained/ma/ (Massachusetts)
-- **Repo:** https://github.com/moqri/federal-crimes-explained (public, GitHub Pages from `main`, root folder)
+- **Live site:** https://moqri.github.io/crime-code/ (federal) and https://moqri.github.io/crime-code/ma/ (Massachusetts)
+- **Repo:** https://github.com/moqri/crime-code (public, GitHub Pages from `main`, root folder)
 - **Local copy:** `/Users/mahdimoqri/ai/usc18` (the parent folder `/Users/mahdimoqri/ai` holds an unrelated hello-world `index.html` from the very start)
 - **State as of 2026-10-04:** everything below is committed and pushed. Nothing is running (no local server, no agents).
 
