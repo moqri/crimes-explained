@@ -32,13 +32,14 @@ Key design: **`index.html` is the single source** of styles and rendering code f
 ## In progress: Massachusetts chapter 266 (Crimes Against Property)
 
 - `ma/raw/266.json` is downloaded (222 sections, 212 in force).
-- **32 sections are reviewed** and saved in `review/ma/266/`: `out_04.json` (266/71A … 266/91B) and `out_08.json` (266/147, 266/148). Both pass the validator.
-- **180 sections still need review.** They were in batches whose agents were stopped to save usage.
-- `ma/build_ma.py` leaves out any section not yet in `ma/plain.json`, so chapter 266 does not appear on the site until it is reviewed. Rebuilding now is safe.
+- **122 of 212 sections are reviewed** and already merged into `ma/plain.json` and `ma/elements.json` (outputs saved in `review/ma/266/`: `out_04`, `out_08`, `out_b1`, `out_b4`, `out_b6`). 266/148 is excluded as not a crime.
+- **90 sections still need review.** Run `python3 ma/build_ma.py --batches <dir>`: it writes only the unreviewed ones (about 3 batches of 30).
+- `ma/crimes.json` and the pages have **not** been rebuilt since, so the live site still shows only chapter 265. `ma/build_ma.py` leaves unreviewed sections out, so rebuilding at any point is safe.
+- Agents were stopped twice to save the user's usage limit; launch a few at a time and ask before launching many.
 
 To finish it:
 
-1. Merge the saved results into `ma/plain.json` and `ma/elements.json` (each output maps `section → {"review": {...}, "elements": {...}}`; `review` goes to plain.json, `elements` to elements.json). **Change 266/148 to `"isOffense": false`** and drop its elements: it only has civil fines and license sanctions, so it is not a crime.
+1. Merge new outputs with `python3 ma/merge_review.py review/ma/266/out_*.json` (it already forces 266/148 to not-a-crime).
 2. `python3 ma/build_ma.py --batches <dir>` writes the remaining unreviewed sections in batches of 30.
 3. Run one review agent per batch with `review/ma/INSTRUCTIONS.md`; each validates with `python3 review/ma/validate.py <in> <out>` until it prints OK.
 4. Merge, `python3 ma/build_ma.py`, `python3 build_pages.py --jur ma`, then check links (every `xref` link on `ma/*/*.html`: internal targets exist, external return 200) and skim a few pages.

@@ -4816,5 +4816,4750 @@
     ]
    }
   ]
+ },
+ "266/71A": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 1 year of imprisonment or a fine of up to $200, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "The superior court has jurisdiction in equity to enjoin any violation"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assumes, adopts or uses the name of a benevolent, humane, fraternal, charitable or labor organization, whether incorporated or unincorporated, or a name so nearly resembling it as to be a colorable imitation or calculated to deceive persons not members",
+    "ways": [
+     "assume",
+     "adopt",
+     "use"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/72": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Fraudulently"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 1 year of imprisonment or a fine of up to $500, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses or aids in any way in the use of the name, title or common designation of any fraternity, association, society, order, organization or union which has a governing body and priority in such use in the commonwealth, or any name so nearly resembling it as to be calculated or likely to deceive, in a newspaper or other publication or in any written or printed letter, notice, matter or device",
+    "ways": [
+     "uses",
+     "aids in the use"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without authority of the grand or supreme governing lodge, council, union or other governing body"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Publishes, sells, circulates or distributes any written or printed letter, notice, matter or device soliciting members of such fraternity or organization, or of any alleged or pretended one, using any such name, title, designation, or near resemblance",
+    "ways": [
+     "publishes",
+     "sells",
+     "circulates",
+     "distributes"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without such authority"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Offers to sell, confer, communicate or give information where, of whom or by what means any degree or work of such fraternity or organization, or of any alleged or pretended one using any such name or near resemblance, can or may be obtained, conferred or communicated",
+    "ways": [
+     "offers to sell",
+     "confer",
+     "communicate",
+     "give information"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without such authority"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/73": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to defraud"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Obtains from any person goods or chattels by a false pretence of carrying on business and dealing in the ordinary course of trade",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/74": {
+  "shared": {
+   "who": "An officer, agent, clerk or servant of a corporation organized or doing business in the commonwealth",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses the name of such corporation, or his own name as such officer, agent, clerk or servant, to obtain money upon the credit of such corporation for his own use or benefit",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without authority from such corporation"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Wilfully"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Lends, invests or appropriates the money or disposes of the property of such corporation, or converts it",
+    "ways": [
+     "lends",
+     "invests",
+     "appropriates",
+     "disposes of",
+     "converts"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Fraudulently"
+    ]
+   }
+  ]
+ },
+ "266/75": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Fraudulently"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Punished as in the case of larceny of property of like value",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Obtains from another person property of any description by a game, device, sleight of hand, pretended fortune telling or by any trick or other means by the use of cards or other implements or instruments",
+    "ways": [
+     "game",
+     "device",
+     "sleight of hand",
+     "pretended fortune telling",
+     "trick or other means using cards or other implements or instruments"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/75A": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"person\": includes any municipal corporation or political subdivision of the commonwealth"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100 or up to 30 days in the house of correction, or both",
+     "min": null,
+     "max": 0.08,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Operates or causes to be operated any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle designed to receive lawful coin or tokens, by means of a slug or any false, counterfeited, mutilated or sweated coin or token or by any means, method, trick or device not lawfully authorized by the owner, lessee or licensee",
+    "ways": [
+     "operates",
+     "causes to be operated"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Takes, obtains or receives from or in connection with any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle any goods, wares, merchandise, transportation, gas, electric current, article of value, or the use or enjoyment of any transportation, telephone or telegraph facilities or service, or of any musical instrument, phonograph or other property",
+    "ways": [
+     "takes",
+     "obtains",
+     "receives"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without depositing in and surrendering to the machine or receptacle lawful coin or tokens to the amount or value required by the owner, lessee or licensee"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/75B": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"person\": includes any municipal corporation or political subdivision of the commonwealth"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500, or up to 1 year in the house of correction, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Manufactures for sale, advertises for sale, sells, offers for sale, or gives away any slug, device or substance designed or calculated to be placed or deposited in any automatic vending machine, slot machine, turnstile, coin-box telephone or other receptacle designed to receive lawful coin or tokens",
+    "ways": [
+     "manufactures for sale",
+     "advertises for sale",
+     "sells",
+     "offers for sale",
+     "gives away"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent that such slug, device or substance shall be used to cheat or defraud the person entitled to the contents of any such machine or receptacle"
+    ]
+   }
+  ]
+ },
+ "266/75C": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"gift certificate\": as defined in section 1 of chapter 255D"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $300",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or offers to sell a gift certificate which imposes a time limit of less than 7 years within which it may be redeemed",
+    "ways": [
+     "sells",
+     "offers to sell"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "This section does not apply when the purchaser of the gift certificate is not obligated to pay for it until the time of use"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Refuses to redeem the certificate before it has reached the expiration date",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person has sold the gift certificate"
+    ],
+    "exceptions": [
+     "This section does not apply when the purchaser of the gift certificate is not obligated to pay for it until the time of use"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/75D": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"gift certificate\": as defined in section 1 of chapter 255D"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $300 per violation",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or offers to sell a gift certificate which imposes dormancy fees, latency fees, administrative fees, periodic fees, service fees or other fees that have the effect of reducing the total value amount for which the holder may redeem it",
+    "ways": [
+     "sells",
+     "offers to sell"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/75E": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"gift certificate\": as defined in section 1 of chapter 255D"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $300 per violation",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or offers to sell a gift certificate which imposes any fees or charges, including purchase, activation, renewal or cancellation fees, and fails to print notice of such fees, in writing, on the gift certificate, on its packaging, or on both",
+    "ways": [
+     "sells",
+     "offers to sell"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/75F": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"gift certificate\": as defined in section 1 of chapter 255D"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $300 per violation",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Redeems a gift certificate and deducts a gratuity therefrom",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the holder of the gift certificate"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/76": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison or up to 2 years in jail or a fine of up to $400",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits any gross fraud or cheat at common law",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/77": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes or sells, or offers to sell or dispose of, or has in his possession with intent so to do, any article of merchandise marked, stamped or branded with the words \"sterling\", \"sterling silver\", \"coin\" or \"coin silver\", or packed in any box, package, cover or wrapper with any engraving, label, stamp, imprint, mark or trade mark indicating that the article is silver, sterling silver, solid silver, coin or coin silver",
+    "ways": [
+     "makes",
+     "sells",
+     "offers to sell or dispose of",
+     "has in possession with intent to do so"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Unless 925/1000 of the metal of an article marked \"sterling\" or \"sterling silver\" is pure silver",
+     "Unless 900/1000 of the metal of an article marked \"coin\" or \"coin silver\" is pure silver"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/78": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"word or mark\": held to apply to the whole article, all the gold, alloys, solder and base metals being assayed as one piece, unless it plainly indicates that it applies to the plating, surface or other particular part of the article"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes or sells, or offers for sale or disposes of, or has in his possession with intent so to do, any article constructed in whole or in part of gold or alloy of gold, or of any metal resembling gold, marked on it, a tag or label, or its package, cover or wrapper with any word or mark indicating that the gold is of a greater degree or carat of fineness than its actual quality",
+    "ways": [
+     "makes",
+     "sells",
+     "offers for sale",
+     "disposes of",
+     "has in possession with intent to do so"
+    ],
+    "tags": [],
+    "conditions": [
+     "The marking overstates the fineness by more than one carat"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Makes or sells, or offers for sale or disposes of, or has in his possession with intent so to do, any so-called gold filled, rolled gold plated or electro gold plated article marked on it, a tag or label, or its package, cover or wrapper with any word or mark indicating that the gold is of a greater percentage of weight of the article than the actual percentage",
+    "ways": [
+     "makes",
+     "sells",
+     "offers for sale",
+     "disposes of",
+     "has in possession with intent to do so"
+    ],
+    "tags": [],
+    "conditions": [
+     "The marking overstates the percentage of gold by more than one per cent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/79": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $200 nor more than $500",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or exchanges, or has in his custody or possession with intent so to do, or exposes for sale or exchange, any manufactured imitations of furs of fur-bearing animals, representing the same to be the genuine fur of certain animals, himself, by his agent or servant, or as the agent or servant of another",
+    "ways": [
+     "sells",
+     "exchanges",
+     "has in custody or possession with intent to do so",
+     "exposes for sale or exchange"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/80": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowing that an encumbrance exists thereon"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 1 year of imprisonment or a fine of up to $1,000",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Conveys land without informing the grantee, before the consideration is paid, of the existence and nature of the encumbrance, so far as he has knowledge thereof",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/81": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowing that his land is attached on mesne process"
+   ],
+   "intent": [
+    "With intent to defraud"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 3 years in state prison or up to 1 year in jail",
+     "min": null,
+     "max": 3,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells and conveys his land without giving notice of the attachment to the grantee",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/82": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Removes or conceals or aids or abets in removing or concealing personal property which is subject to a mortgage",
+    "ways": [
+     "removes",
+     "conceals",
+     "aids or abets in removing or concealing"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": null,
+    "intent": [
+     "With a fraudulent intent to place the property beyond the control of the mortgagee"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Assents to such removal or concealment",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A mortgagor of such property"
+   },
+   {
+    "where": "",
+    "act": "Uses rented, leased or mortgaged personal property as a container or implement of sale of intoxicating liquor contrary to law",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": null
+   }
+  ]
+ },
+ "266/83": {
+  "shared": {
+   "who": "A mortgagor of personal property",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100 or up to 1 year of imprisonment",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or conveys the mortgaged personal property or any part thereof",
+    "ways": [
+     "sells",
+     "conveys"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the written consent of the mortgagee",
+     "Without informing the vendee or grantee that the property is mortgaged"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/84": {
+  "shared": {
+   "who": "A hirer or lessee of personal property",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100 or up to 1 year of imprisonment",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or conveys the hired or leased personal property or any part thereof",
+    "ways": [
+     "sells",
+     "conveys"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the written consent of the owner or lessor",
+     "Without informing the vendee or grantee that the property is hired or leased"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/85": {
+  "shared": {
+   "who": "A person holding collateral security deposited with him for the payment of a debt which may be due to him",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500 or up to 2 years in jail",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells, pledges, lends or in any way disposes of the collateral security before the debt becomes due and payable",
+    "ways": [
+     "sells",
+     "pledges",
+     "lends",
+     "disposes of"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the authority of the depositor"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/86": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowing it to be hired or leased or held as collateral security"
+   ],
+   "intent": [
+    "With intent to defraud"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100 or up to 1 year of imprisonment",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Buys, receives or aids in concealing personal property",
+    "ways": [
+     "buys",
+     "receives",
+     "aids in concealing"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/87": {
+  "shared": {
+   "who": "A person leasing or renting personal property",
+   "intent": [
+    "With the intent to place such property beyond the control of the owner"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must be ordered to make restitution to the owner for any financial loss, in addition to any other punishment"
+   ],
+   "terms": [
+    "\"intent to place such property beyond the control of the owner\": prima facie shown when the person, in obtaining the property, presents identification or information that is materially false, fictitious, misleading or not current as to name, address, place of employment or other material matter, or fails to return the property within ten days after proper notice to return it",
+    "\"proper notice\": actual notice or a written demand sent by certified or registered mail to the person at the address given at the time of making the lease or rental agreement"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Conceals or aids or abets the concealment of such property or any part thereof",
+    "ways": [
+     "conceals",
+     "aids or abets the concealment"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "The defendant was unaware the property belonged to another",
+     "The defendant had a right to acquire or dispose of the property as he did"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Fails or refuses to return such property to the owner within ten days after expiration of the lease or rental agreement",
+    "ways": [
+     "fails",
+     "refuses"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "The defendant was unaware the property belonged to another",
+     "The defendant had a right to acquire or dispose of the property as he did"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Sells, conveys or pledges such property or any part thereof without the written consent of the owner",
+    "ways": [
+     "sells",
+     "conveys",
+     "pledges"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "The defendant was unaware the property belonged to another",
+     "The defendant had a right to acquire or dispose of the property as he did"
+    ]
+   }
+  ]
+ },
+ "266/88": {
+  "shared": {
+   "who": "A consignee or factor",
+   "intent": [
+    "In violation of good faith and with intent to defraud the owners thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $5,000 and up to 5 years of imprisonment",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Deposits or pledges, as security for money borrowed by him, a negotiable instrument received by him, merchandise consigned or intrusted to him, or a bill of lading, certificate or order for the delivery of merchandise",
+    "ways": [
+     "deposits",
+     "pledges"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Disposes of or applies such property or evidence of property to his own use",
+    "ways": [
+     "disposes of",
+     "applies to his own use"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Disposes of or applies to his own use money raised or a negotiable instrument acquired by the sale or other disposition of such property or evidence of property",
+    "ways": [
+     "disposes of",
+     "applies to his own use"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/89": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Pretends, in a book, pamphlet, circular, advertisement or advertising sign, or by a pretended written certificate or diploma, or otherwise in writing, to have been an officer or teacher, or to be a graduate or to hold any degree, of a college or other educational institution authorized to confer degrees, or of a public school of this commonwealth",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly and falsely"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Offers or confers degrees as a school, college or as a private individual, alone or associated with others",
+    "ways": [
+     "offers",
+     "confers"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without having lawful authority to confer degrees"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Uses the designation of \"university\" or \"college\"",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Does not apply to any educational institution whose name on July 9, 1919, included the word \"university\" or \"college\""
+    ],
+    "defenses": [],
+    "who": "Any individual, school, association, corporation or institution of learning not having lawful authority to confer degrees",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of $1,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "266/90": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 1 year of imprisonment, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes, in a book, pamphlet, circular, advertisement or advertising sign, or otherwise in writing, any false and fraudulent statement or assertion of endorsement, authority, approval or sanction of an incorporated college, university or professional school, or of its officers or instructors, as a commendation or advertisement of a person or his services, or of goods, wares, commodities, processes or treatment",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/91": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $1,000 nor more than $2,000",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "May be enjoined by a petition in equity brought by the attorney general or any aggrieved party"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes, publishes, disseminates, circulates or places before the public, or causes to be made, published, disseminated, circulated or placed before the public within the commonwealth, in any way, an advertisement regarding merchandise, securities, service or anything offered to the public, which contains any assertion, representation or statement of fact which is untrue, deceptive or misleading",
+    "ways": [
+     "makes",
+     "publishes",
+     "disseminates",
+     "circulates",
+     "places before the public",
+     "causes to be made, published, disseminated, circulated or placed before the public"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Does not apply to any owner, publisher, printer, agent or employee of a newspaper or other publication, periodical or circular, or to any agent of the advertiser who in good faith and without knowledge of the falsity or deceptive character publishes, causes to be published, or participates in the publication of the advertisement"
+    ],
+    "defenses": [],
+    "intent": [
+     "With intent to sell or in any way dispose of merchandise, securities, service, or anything offered to the public, or with intent to increase the consumption of or demand for it, or to induce the public to enter into any obligation relating thereto, or to acquire title or an interest therein"
+    ],
+    "knowledge": [
+     "Which such person knew, or might on reasonable investigation have ascertained to be untrue, deceptive or misleading"
+    ]
+   }
+  ]
+ },
+ "266/91A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "As part of a plan or scheme with the intent not to sell said merchandise, commodities or service so advertised at the price stated therein, or with intent not to sell said merchandise, commodities or service so advertised"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $500 nor more than $1,000 or up to 1 year of imprisonment",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Offers for sale merchandise, commodities or service by making, publishing, disseminating, circulating or placing before the public within the commonwealth, in any way, an advertisement describing the merchandise, commodities or service",
+    "ways": [
+     "making",
+     "publishing",
+     "disseminating",
+     "circulating",
+     "placing before the public"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/147": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Counterfeit mark\": any unauthorized reproduction or copy of intellectual property, or intellectual property affixed to any item knowingly sold, offered for sale, manufactured or distributed, or identifying services offered or rendered, without the authority of the owner of the intellectual property",
+    "\"Intellectual property\": any trademark, service mark, trade name, label, term, device, design or word that is (1) adopted or used by a person to identify such person's goods or services, and (2) registered, filed or recorded under the laws of the commonwealth or of any other state, or registered in the principal register of the United States Patent and Trademark Office",
+    "\"Retail value\": the counterfeiter's regular selling price for the item or service bearing or identified by the counterfeit mark; for components of a finished product, the counterfeiter's regular selling price of the finished product",
+    "Quantity or retail value includes the aggregate quantity or retail value of all items or services under every counterfeit mark the defendant manufactures, uses, displays, advertises, distributes, offers for sale, sells or possesses",
+    "A person having possession, custody or control of more than 25 items bearing a counterfeit mark is presumed to possess them with the intent to sell or distribute",
+    "Any state or federal certificate of registration of any intellectual property is prima facie evidence of the facts stated therein"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Manufactures, uses, displays, advertises, distributes, offers for sale, sells or possesses with intent to sell or distribute any item or services bearing or identified by a counterfeit mark",
+    "ways": [
+     "manufactures",
+     "uses",
+     "displays",
+     "advertises",
+     "distributes",
+     "offers for sale",
+     "sells",
+     "possesses with intent to sell or distribute"
+    ],
+    "tags": [],
+    "intent": [
+     "Willfully"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a jail or house of correction (100 or fewer items, or total retail value of $1,000 or less, and a first offense)",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     },
+     {
+      "if": "the violation involves more than 100 but fewer than 1,000 items, or total retail value is more than $1,000 but less than $10,000, or it is a second offense",
+      "penalty": "Up to 5 years in the state prison",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the violation involves 1,000 or more items, or total retail value is $10,000 or more, or involves the manufacture or production of items bearing counterfeit marks, or of items that pose a threat to the public health or safety, or it is a third or subsequent offense",
+      "penalty": "Up to 10 years in the state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "In addition, a fine of up to three times the retail value of the items or services, unless extenuating circumstances are shown by the defendant",
+     "In addition, a fine equal to 75 per cent of the retail value of the items or services when the items involved pose a threat to public health or safety",
+     "Items bearing a counterfeit mark and personal property used in connection with the violation shall be seized; seized personal property shall be forfeited",
+     "Seized counterfeit items shall be released to the intellectual property owner on request for destruction or disposition; otherwise destroyed unless the owner consents to another disposition"
+    ]
+   }
+  ]
+ },
+ "266/1": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "terms": [
+    "\"Dwelling house\": all buildings used as dwellings such as apartment houses, tenement houses, hotels, boarding houses, dormitories, hospitals, institutions, sanatoria, or other buildings where persons are domiciled"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 20 years in state prison, or up to 2½ years in a jail or house of correction, or a fine of up to $10,000, or both such fine and imprisonment",
+     "min": null,
+     "max": 20,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sets fire to, burns, or causes to be burned, or aids, counsels or procures the burning of, a dwelling house, or a building adjoining or adjacent to a dwelling house, or a building by the burning whereof a dwelling house is burned",
+    "ways": [
+     "sets fire to",
+     "burns",
+     "causes to be burned",
+     "aids, counsels or procures the burning of"
+    ],
+    "tags": [],
+    "conditions": [
+     "Applies whether the dwelling house or other building is the property of himself or another",
+     "Applies whether the same is occupied or unoccupied"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/2": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison or up to 2½ years in a jail or house of correction",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sets fire to, burns, or causes to be burned, or aids, counsels or procures the burning of, a meeting house, church, court house, town house, college, academy, jail or other building erected for public use, or a banking house, warehouse, store, manufactory, mill, barn, stable, shop, outhouse or other building, or an office building, lumber yard, ship, vessel, street car or railway car, or a bridge, lock, dam, flume, tank, or any building or structure or contents thereof",
+    "ways": [
+     "sets fire to",
+     "burns",
+     "causes to be burned",
+     "aids, counsels or procures the burning of"
+    ],
+    "tags": [],
+    "conditions": [
+     "The building or structure is not included or described in the preceding section",
+     "Applies whether the same is the property of himself or of another",
+     "Applies whether occupied, unoccupied or vacant"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/5": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "terms": [
+    "\"Motor vehicle\": as defined in section one of chapter ninety"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 3 years in state prison, or a fine of up to $500 and up to 1 year in a jail or house of correction",
+     "min": null,
+     "max": 3,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sets fire to, or burns or otherwise destroys or injures by burning, or causes to be burned or otherwise so destroyed or injured, or aids, counsels or procures the burning of, a pile or parcel of wood, boards, timber or other lumber, any fence, bars or gate, a stack of grain, hay or other vegetable product, any vegetable product severed from the soil and not stacked, any standing tree, grain, grass or other standing product of the soil, or the soil itself, or any personal property of another exceeding a value of twenty-five dollars, or any boat, motor vehicle or other conveyance",
+    "ways": [
+     "sets fire to",
+     "burns",
+     "otherwise destroys or injures by burning",
+     "causes to be burned or otherwise so destroyed or injured",
+     "aids, counsels or procures the burning of"
+    ],
+    "tags": [],
+    "conditions": [
+     "Personal property must be of another and exceed a value of twenty-five dollars",
+     "A boat, motor vehicle or other conveyance may be of himself or another"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/5A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "terms": [
+    "\"Attempt to burn\": the placing or distributing of any flammable, explosive or combustible material or substance or any device in or against any building, structure or property mentioned in the foregoing sections in an arrangement or preparation with intent eventually to wilfully and maliciously set fire to or burn it, or to procure the setting fire to or burning of the same"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison, or up to 2½ years in a jail or house of correction, or a fine of up to $1,000",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Attempts to set fire to, or attempts to burn, or aids, counsels or assists in such an attempt to set fire to or burn, any of the buildings, structures or property mentioned in the foregoing sections, or commits any act preliminary thereto or in furtherance thereof",
+    "ways": [
+     "attempts to set fire to",
+     "attempts to burn",
+     "aids, counsels or assists in such an attempt",
+     "commits any act preliminary thereto or in furtherance thereof"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "The target is a building, structure or property mentioned in the foregoing sections"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/7": {
+  "shared": {
+   "who": null,
+   "mentalState": [
+    "Wantonly or recklessly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 2 years of imprisonment",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "By setting fire to any material, or by increasing a fire already set, causes injury to, or the destruction of, any growing or standing wood of another",
+    "ways": [
+     "setting fire to any material",
+     "increasing a fire already set"
+    ],
+    "tags": [],
+    "conditions": [
+     "Injury to or destruction of growing or standing wood of another results"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/8": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 2 years of imprisonment",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "The town where the fire occurred may recover in an action of tort, brought within two years after the cause of action accrues, the expense of extinguishing the fire"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sets or increases a fire upon land of another whereby the property of another is injured",
+    "ways": [
+     "sets",
+     "increases"
+    ],
+    "tags": [],
+    "conditions": [
+     "The property of another is injured"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person not being a tenant of the land"
+   },
+   {
+    "where": "",
+    "act": "Suffers any fire upon his own land to extend beyond the limits thereof whereby the woods or property of another are injured",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The woods or property of another are injured"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": null,
+    "mentalState": [
+     "Negligently or wilfully"
+    ]
+   }
+  ]
+ },
+ "266/9": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100 or up to 1 month in jail, or both",
+     "min": null,
+     "max": 0.08,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Liable for all damages caused thereby",
+    "The fine is equally divided between the complainant and the town"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sets a fire on land which is not owned or controlled by him and before leaving the same neglects to entirely extinguish such fire",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The fire is in a town which accepts this section or has accepted corresponding provisions of earlier laws"
+    ],
+    "exceptions": [
+     "This section shall not apply to cities"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Sets a fire on land which is not owned or controlled by him whereby property is endangered or injured",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The fire is in a town which accepts this section or has accepted corresponding provisions of earlier laws",
+     "Property is endangered or injured"
+    ],
+    "exceptions": [
+     "This section shall not apply to cities"
+    ],
+    "defenses": [],
+    "mentalState": [
+     "Wilfully or negligently"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Suffers a fire upon his own land to escape beyond the limits thereof to the injury of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The fire is in a town which accepts this section or has accepted corresponding provisions of earlier laws",
+     "Another is injured"
+    ],
+    "exceptions": [
+     "This section shall not apply to cities"
+    ],
+    "defenses": [],
+    "mentalState": [
+     "Wilfully or negligently"
+    ]
+   }
+  ]
+ },
+ "266/10": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully",
+    "With intent to defraud or injure the insurer"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison or up to 2½ years in a jail or house of correction",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sets fire to, or attempts to set fire to, or causes to be burned, or aids, counsels or procures the burning of, a building, or any goods, wares, merchandise or other chattels, belonging to himself or another",
+    "ways": [
+     "sets fire to",
+     "attempts to set fire to",
+     "causes to be burned",
+     "aids, counsels or procures the burning of"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "The property is at the time insured against loss or damage by fire"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/11": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500 or up to 2 years of imprisonment",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Cuts or removes a bell rope or a wire or conduit connected with a fire alarm signal system or injures or disables any fire alarm signal box or any part of such system in the vicinity of such building or property",
+    "ways": [
+     "cuts or removes a bell rope, wire or conduit",
+     "injures or disables any fire alarm signal box or part of the system"
+    ],
+    "tags": [],
+    "conditions": [
+     "Within twenty-four hours prior to the burning of a building or other property"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Cuts, injures or destroys an engine, hose or other fire apparatus in said vicinity",
+    "ways": [
+     "cuts",
+     "injures",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [
+     "Within twenty-four hours prior to the burning of a building or other property"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/12": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 7 years in state prison, or up to 2½ years in jail, or a fine of up to $1,000",
+     "min": null,
+     "max": 7,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Cuts or removes a bell rope or a wire or conduit connected with a fire alarm signal system or injures or disables any fire alarm signal box or any part of such system in the vicinity of such building or property, or otherwise prevents an alarm being given",
+    "ways": [
+     "cuts or removes a bell rope, wire or conduit",
+     "injures or disables any fire alarm signal box or part of the system",
+     "otherwise prevents an alarm being given"
+    ],
+    "tags": [],
+    "conditions": [
+     "During the burning of a building or other property"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Cuts, injures or destroys an engine, hose or other fire apparatus, in said vicinity, or otherwise prevents or obstructs the extinction of a fire",
+    "ways": [
+     "cuts, injures or destroys fire apparatus",
+     "otherwise prevents or obstructs the extinction of a fire"
+    ],
+    "tags": [],
+    "conditions": [
+     "During the burning of a building or other property"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/13": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wantonly or maliciously"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500 or up to 2 years of imprisonment",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Ordered to recognize with sufficient surety or sureties for good behavior during such term as the court shall order"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Injures a fire engine or other fire apparatus",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/13A": {
+  "shared": {
+   "who": "The manager of a hotel or family hotel, or such other person as may be in charge of the premises in the absence of the manager",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 2½ years in a jail or house of correction or a fine of up to $1,000",
+     "min": null,
+     "max": 2.5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Fails to notify the fire department as soon as he becomes aware that there is a fire therein",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "There is a fire in the hotel",
+     "He is aware of the fire"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Fails to sound the alarm system required by the state building code",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The fire, or heat, smoke or gas therefrom, threatens to spread to rooms occupied by guests"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/14": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a felony"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks and enters a dwelling house in the night time, or, after having entered, breaks such dwelling house in the night time",
+    "ways": [
+     "breaks and enters",
+     "after having entered, breaks"
+    ],
+    "tags": [],
+    "conditions": [
+     "Any person is then lawfully therein",
+     "The offender is armed with a dangerous weapon at the time of the breaking or entry, or so arms himself in the house, or makes an actual assault on a person lawfully therein"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of not less than 10 years in state prison",
+      "min": 10,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the person, after being convicted of any offence mentioned in this section, commits the like offence or any other of the offences therein mentioned",
+      "penalty": "No suspension of sentence or probation",
+      "min": 10,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no probation"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits any offense described in this section while armed with a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The offender is armed with a firearm"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Firearm\": as defined in section 121 of chapter 140"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison, but not less than 15 years",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the person commits a subsequent such offense",
+      "penalty": "Life or any term of years in state prison, but not less than 20 years; sentence shall not be suspended, nor shall he be placed on probation",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no probation"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "266/15": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With the intent mentioned in the preceding section"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 20 years in state prison",
+     "min": null,
+     "max": 20,
+     "flags": []
+    },
+    {
+     "if": "the person has been previously convicted of any crime named in this or the preceding section",
+     "penalty": "Not less than 5 years and up to 20 years in state prison",
+     "min": 5,
+     "max": 20,
+     "flags": [
+      "mandatory minimum"
+     ]
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks and enters a dwelling house in the night time, or, having entered, breaks such dwelling house in the night time",
+    "ways": [
+     "breaks and enters",
+     "having entered, breaks"
+    ],
+    "tags": [],
+    "conditions": [
+     "The offender is not armed, nor arming himself in the house, with a dangerous weapon",
+     "The offender does not make an assault upon a person lawfully therein"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/16": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 20 years in state prison or up to 2½ years in a jail or house of correction",
+     "min": null,
+     "max": 20,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks and enters a building, ship, vessel or vehicle in the night time",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the night time"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to commit a felony"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Attempts to or does break, burn, blow up or otherwise injure or destroy a safe, vault or other depository of money, bonds or other valuables in any building, vehicle or place",
+    "ways": [
+     "break",
+     "burn",
+     "blow up",
+     "otherwise injure or destroy"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "Applies whether he succeeds or fails in the perpetration of the larceny or felony"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to commit a larceny or felony"
+    ]
+   }
+  ]
+ },
+ "266/16A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a misdemeanor"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $200 or up to 6 months of imprisonment, or both",
+     "min": null,
+     "max": 0.5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks and enters a building, ship, vessel or vehicle in the nighttime or daytime",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/17": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a felony"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "In the night time, enters without breaking, or breaks and enters in the day time, a building, ship, vessel, or vehicle",
+    "ways": [
+     "enters without breaking in the night time",
+     "breaks and enters in the day time"
+    ],
+    "tags": [],
+    "conditions": [
+     "The owner or any other person lawfully therein is put in fear"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits any offense described in this section while armed with a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The owner or any other person lawfully therein is put in fear",
+     "The offender is armed with a firearm"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Firearm\": as defined in section 121 of chapter 140"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 7 years in state prison, or not less than 2 years nor more than 2½ years in the house of correction",
+      "min": 2,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "266/18": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a felony"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "In the night time, enters a dwelling house without breaking, or breaks and enters in the day time a building, ship or motor vehicle or vessel",
+    "ways": [
+     "enters a dwelling house without breaking in the night time",
+     "breaks and enters in the day time"
+    ],
+    "tags": [],
+    "conditions": [
+     "No person lawfully therein is put in fear"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits any offense described in this section while armed with a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The offender is armed with a firearm"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Firearm\": as defined in section 121 of chapter 140"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 7 years in state prison, or not less than 2 years nor more than 2½ years in the house of correction",
+      "min": 2,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "266/18A": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison, or a fine of up to $5,000 and up to 2 years in a house of correction, or both such fine and imprisonment",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Enters a dwelling house by false pretenses, without breaking",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "No person lawfully therein is put in fear"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent to commit a felony"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Enters a dwelling house by false pretenses, without breaking and, after having entered, commits a larceny",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "No person lawfully therein is put in fear"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Larceny\": as defined by section 30 of chapter 266"
+    ]
+   }
+  ]
+ },
+ "266/19": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a felony"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison, or a fine of up to $500 and up to 2 years in the house of correction",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks and enters, or enters in the night time without breaking, a railroad car",
+    "ways": [
+     "breaks and enters",
+     "enters in the night time without breaking"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/20": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500, or up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Steals in a building, ship, vessel or railroad car",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/20A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a felony"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison, or a fine of up to $500 and up to 2 years in the house of correction",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks and enters, or enters without breaking, a truck, tractor/trailer unit, trailer, semi-trailer or freight container",
+    "ways": [
+     "breaks and enters",
+     "enters without breaking"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/20B": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500, or up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Steals in a truck, tractor/trailer unit, trailer, semi-trailer or freight container",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/21": {
+  "shared": {
+   "who": "A person who has been convicted, either as principal or accessory, of burglary or robbery, or of any of the crimes described in sections seventeen to twenty, inclusive, of chapter two hundred and sixty-five, or of breaking and entering or of entering a building with intent to commit robbery or larceny",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison or up to 2 years in jail or house of correction",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Has in his possession or control money, goods, bonds or bank notes, or any paper of value, or any property of another, obtained or taken by means of such crime, and refuses or fails to deliver it to the lawful owner upon request",
+    "ways": [
+     "refuses",
+     "fails"
+    ],
+    "tags": [],
+    "conditions": [
+     "The property was obtained or taken by means of such crime",
+     "The lawful owner requested delivery",
+     "The person has power to deliver the same"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/22": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit larceny"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 3 years in state prison, or a fine of up to $500 and up to 2 years in the house of correction",
+     "min": null,
+     "max": 3,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "May be detained or kept in custody in a convenient place by the owner of the poultry, or by his agent or employee, for not more than twenty-four hours, Sunday excepted, until a complaint can be made and he be taken upon a warrant"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks or enters, or enters in the night without breaking, any building or enclosure wherein is kept or confined any kind of live poultry",
+    "ways": [
+     "breaks",
+     "enters",
+     "enters in the night without breaking"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/23": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Guilty of larceny; the penalty is not set in this section",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Steals, conveys away or conceals any furniture, goods, chattels, merchandise or effects of persons whose houses or buildings are on fire or are endangered thereby, and does not, within two days thereafter, restore the same or give notice of his possession",
+    "ways": [
+     "steals",
+     "conveys away",
+     "conceals"
+    ],
+    "tags": [],
+    "conditions": [
+     "The owner's house or building is on fire or endangered thereby",
+     "Within two days he does not restore the property or give notice of his possession to the owner, if known, or, if unknown, to the mayor or one of the aldermen, selectmen or firewards of the place"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/24": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Steals in a building which is on fire, or steals property which has been removed in consequence of an alarm caused by fire",
+    "ways": [
+     "steals in a building on fire",
+     "steals property removed in consequence of a fire alarm"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/25": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits larceny by stealing from the person of a person sixty-five years or older",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is sixty-five years or older"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Not less than 2 years of imprisonment; not reduced, and no probation, parole, furlough, work release or good-conduct deduction, until one year has been served",
+      "min": 2,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "On a second or subsequent offense, the commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+     "The provisions of section eighty-seven of chapter two hundred and seventy-six relating to probation shall not apply to any person seventeen years of age or over charged with a violation of this subsection"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits larceny by stealing from the person of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "266/27": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100 or up to 6 months of imprisonment, or both",
+     "min": null,
+     "max": 0.5,
+     "flags": []
+    },
+    {
+     "if": "the person has a prior conviction for this crime",
+     "penalty": "A fine of $100 or imprisonment for 6 months, or both",
+     "min": null,
+     "max": 0.5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Steals any tool belonging to any contractor, builder or mechanic from any building during the course of its construction, completion, alteration or repair",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/27A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to defraud the insurer"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or not less than 1 year nor more than 2½ years in jail or house of correction, and a fine of not less than $500 nor more than $5,000",
+     "min": null,
+     "max": 5,
+     "flags": []
+    },
+    {
+     "if": "the person has a prior conviction for this crime",
+     "penalty": "Sentence shall not be reduced to less than one year, nor suspended or reduced until one year has been served; not eligible for probation, parole, furlough or work release",
+     "min": 1,
+     "max": 5,
+     "flags": [
+      "mandatory minimum",
+      "no parole",
+      "no probation"
+     ]
+    }
+   ],
+   "consequences": [
+    "Ordered to make restitution to the insurer for any financial loss sustained, after an evidentiary hearing on damages, in addition to incarceration or fine; restitution shall not be ordered to a party aggrieved without that party's consent",
+    "Whenever possible, the fine shall equal twice the amount of damages or financial loss suffered",
+    "A defendant who defaults on restitution shall be held in contempt unless he made a good faith effort to pay",
+    "A prosecution shall not be placed on file, or continued without a finding",
+    "On a second or subsequent offense, the commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Removes or conceals a motor vehicle or trailer belonging to himself or another, or aids or abets in such removal or concealment",
+    "ways": [
+     "removes",
+     "conceals",
+     "aids or abets in such removal or concealment"
+    ],
+    "tags": [],
+    "conditions": [
+     "The vehicle or trailer is at the time insured against theft"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/92": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully",
+    "With intent to defraud"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $5,000 or imprisonment for up to 10 years, or both",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes or publishes, or causes or permits to be made or published, any book, prospectus, notice, report, statement, exhibit, advertisement or other publication of or concerning the affairs, financial condition, property or assets of any corporation, joint stock association, partnership or individual",
+    "ways": [
+     "makes",
+     "publishes",
+     "causes to be made or published",
+     "permits to be made or published"
+    ],
+    "tags": [],
+    "conditions": [
+     "The publication contains a statement which is false or wilfully exaggerated",
+     "The statement has a tendency to give a less or greater apparent value to the shares, bonds, property or assets than they really possess"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/92A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $10 nor more than $500",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells a motor vehicle without indicating such fact in writing on the bill of sale",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The fact is not indicated in writing on the bill of sale"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": null,
+    "knowledge": [
+     "Knowing that its engine or electrical parts have been submerged in water, or knowing that it has been used as a police car, a taxicab, a rental vehicle by a motor vehicle rental agency, or a leased vehicle which has been leased to any corporation, individual or entity, other than a motor vehicle rental company"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Sells any such police car to an ultimate user for other than police purposes without first having obliterated all evidence of distinctive police insignias or markings thereon, and painting the exterior of every marked state police vehicle one solid color",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person other than the commonwealth or any political subdivision thereof"
+   }
+  ]
+ },
+ "266/93": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Imprisonment for up to 2 years or a fine of up to $500, or both",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Obtains from any club, association, society or company for improving the breed of cattle, horses, sheep, swine or other domestic animals, the registration, or a certificate thereof, of any animal in the herd register or any other register of such club, association, society or company, or a transfer of such registration",
+    "ways": [
+     "registration",
+     "certificate of registration",
+     "transfer of registration"
+    ],
+    "tags": [],
+    "conditions": [
+     "Obtained by a false pretence"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Makes, exhibits or gives a false pedigree in writing of any animal",
+    "ways": [
+     "makes",
+     "exhibits",
+     "gives"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly"
+    ]
+   }
+  ]
+ },
+ "266/94": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Imprisonment for up to 6 months or a fine of up to $200",
+     "min": null,
+     "max": 0.5,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must make restitution, in addition to any imprisonment or fine"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks down, injures, removes or destroys a monument erected for the purpose of designating the boundaries of a town or of a tract or lot of land, or a tree which has been marked for that purpose",
+    "ways": [
+     "breaks down",
+     "injures",
+     "removes",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Breaks down, injures, removes or destroys a milestone, mileboard or guideboard erected upon a public way or railroad",
+    "ways": [
+     "breaks down",
+     "injures",
+     "removes",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Defaces or alters the inscription on any such stone or board",
+    "ways": [
+     "defaces",
+     "alters"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Mars or defaces a building or signboard",
+    "ways": [
+     "mars",
+     "defaces"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Extinguishes a light or breaks, destroys or removes a lamp, lamp post, railing or post erected on a bridge, sidewalk, public way, court or passage",
+    "ways": [
+     "extinguishes a light",
+     "breaks",
+     "destroys",
+     "removes"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Defaces or otherwise injures, removes, interferes with or destroys any traffic regulating sign, light, signal, marking or device lawfully erected or placed under public authority on any public way",
+    "ways": [
+     "defaces",
+     "injures",
+     "removes",
+     "interferes with",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/95": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully or maliciously"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or imprisonment for up to 2 years",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must reimburse the commonwealth for the total amount of damage incurred, in addition to any fine"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Removes, displaces, destroys, defaces, mars or injures any monument, tablet or other device erected to mark an historic place or to commemorate an historic event",
+    "ways": [
+     "removes",
+     "displaces",
+     "destroys",
+     "defaces",
+     "mars",
+     "injures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/96": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $100 nor more than $1,000 or imprisonment for up to 2 years",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must reimburse the commonwealth for the total amount of damages incurred, in addition to any fine"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Defaces, mars or injures the walls, wainscoting or any other part of any building belonging to the commonwealth, or the appurtenances thereof, by cutting, writing or otherwise",
+    "ways": [
+     "defaces",
+     "mars",
+     "injures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/97": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Imprisonment for up to 2 years or a fine of not less than $100 nor more than $1,000",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must reimburse the county for the total amount of damage incurred, in addition to any fine"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Mars or injures the walls, wainscoting or any other part of a court house, jail or house of correction, or of any other building or room used for county business, or the appurtenances thereof, by cutting, writing or otherwise",
+    "ways": [
+     "mars",
+     "injures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/98": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "mentalState": [
+    "Or wantonly and without cause"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000, or imprisonment for up to 2 years, or both",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Destroys, defaces, mars or injures a schoolhouse, church or other building erected or used for purposes of education or religious instruction, or for the general diffusion of knowledge, or an outbuilding, fence, well or appurtenance of such building, or furniture, apparatus or other property belonging thereto or connected therewith",
+    "ways": [
+     "destroys",
+     "defaces",
+     "mars",
+     "injures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/98A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "mentalState": [
+    "Or wantonly and without cause"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Destroys, defaces, mars or injures any playground apparatus or equipment located in a public park or playground",
+    "ways": [
+     "destroys",
+     "defaces",
+     "mars",
+     "injures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/99A": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Conceals on his person or among his belongings any library materials or property and removes said library materials or property",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Willfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in jail for up to 1 year or a fine of not less than $100 nor more than $1,000, or both, and an order to pay the replacement value of the library materials or property, including all reasonable processing costs",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "the value of the property stolen exceeds $250",
+      "penalty": "Imprisonment in the state prison for up to 5 years, or a fine of not less than $1,000 nor more than $25,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Fails to return library materials or property within thirty days from the date of notice that it is overdue",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person neglected to return it within the time required by the library's by-laws, rules or regulations",
+     "The person received notice from the librarian or other proper custodian that it is overdue"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person who has properly charged out library materials or property",
+    "intent": [
+     "Willfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $100 nor more than $500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must pay the replacement value of the library materials or property, including all reasonable processing costs",
+     "Each piece of library property is a separate offense"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Gives a false identification or fictitious name, address or place of employment, or borrows or attempts to borrow any library material or property by the use of a library card issued to another without the other's consent, a library card that is revoked, canceled or expired, or a library card that is falsely made, counterfeit or materially altered",
+    "ways": [
+     "giving a false identification or fictitious name, address or place of employment",
+     "using a library card issued to another without consent",
+     "using a revoked, canceled or expired library card",
+     "using a falsely made, counterfeit or materially altered library card"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent to deceive (for giving false identification)"
+    ],
+    "knowledge": [
+     "Knowing that the card is revoked, canceled or expired, or knowing that it is falsely made, counterfeit or materially altered"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $100 nor more than $1,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Alters or destroys library ownership records, electronic or catalog records retained apart from or applied directly to the library materials or property",
+    "ways": [
+     "alteration",
+     "destruction"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Willful"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for up to 5 years or a fine of not less than $1,000 nor more than $25,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must pay the replacement value of the library materials or property, including all reasonable processing costs"
+    ]
+   }
+  ]
+ },
+ "266/100": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Willfully, maliciously or wantonly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Imprisonment in a house of correction for up to 2 years or a fine of not less than $100 nor more than $1,000, or both",
+     "min": null,
+     "max": 2,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must make restitution in full replacement value of the library materials or property",
+    "A law enforcement officer may arrest without warrant on probable cause"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Writes upon, injures, defaces, tears, cuts, mutilates or destroys any library material or property",
+    "ways": [
+     "writes upon",
+     "injures",
+     "defaces",
+     "tears",
+     "cuts",
+     "mutilates",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/102": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(i)",
+    "act": "Has in his possession or under his control any substance, material, article, explosive or ingredient which, alone or in combination, could be used to make a destructive or incendiary device or substance",
+    "ways": [
+     "possession",
+     "control"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority",
+     "Need not possess or control every substance, material, article, explosive or ingredient required to make a complete and functional device, substance or weapon (not a defense)"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intends to make a destructive or incendiary device or substance"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction, or not less than 5 nor more than 10 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(a)(ii)",
+    "act": "Has in his possession or under his control any substance, material, article, explosive or ingredient which, alone or in combination, could be used to make a chemical, biological or nuclear weapon",
+    "ways": [
+     "possession",
+     "control"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority",
+     "Need not possess or control every substance, material, article, explosive or ingredient required to make a complete and functional device, substance or weapon (not a defense)"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intends to make a chemical, biological or nuclear weapon"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction, or not less than 5 nor more than 10 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Has in his possession or uses or places, or causes another to knowingly or unknowingly possess, use or place, any hoax explosive, hoax destructive or incendiary device or substance or any hoax chemical, biological or nuclear weapon",
+    "ways": [
+     "possesses",
+     "uses",
+     "places",
+     "causes another to possess, use or place"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent that the hoax explosive, device, substance or weapon be used to cause anxiety, unrest, fear or personal discomfort to any person or group of persons"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction or up to 5 years in state prison or a fine of up to $10,000, or both fine and imprisonment",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Has in his possession or under his control any explosive or any destructive or incendiary device or substance",
+    "ways": [
+     "possession",
+     "control"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction, or not less than 10 nor more than 20 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "266/102A": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 2½ years in the house of correction, or not less than 10 nor more than 25 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+     "min": null,
+     "max": 25,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Secretes, throws, launches or otherwise places an explosive or a destructive or incendiary device or substance",
+    "ways": [
+     "secretes",
+     "throws",
+     "launches",
+     "places"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent to cause fear, panic or apprehension in any person; or to ignite, explode or discharge such explosive or device or substance; or to release or discharge any chemical, biological or nuclear weapon"
+    ]
+   }
+  ]
+ },
+ "266/102B": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Willfully"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Not less than 15 nor more than 25 years in state prison or a fine of $50,000, or both",
+     "min": null,
+     "max": 25,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Discharges, ignites or explodes any destructive or incendiary device or substance",
+    "ways": [
+     "discharges",
+     "ignites",
+     "explodes"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/102C": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With the intent to cause death, bodily injury or property damage"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 2½ years in the house of correction or up to 25 years in state prison or a fine of up to $50,000, or both fine and imprisonment",
+     "min": null,
+     "max": 25,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Develops, produces, stockpiles, acquires, transports, possesses, controls, places, secretes or uses any biological, chemical or nuclear weapon or delivery system",
+    "ways": [
+     "develops",
+     "produces",
+     "stockpiles",
+     "acquires",
+     "transports",
+     "possesses",
+     "controls",
+     "places",
+     "secretes",
+     "uses"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/103": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right",
+    "With intent unlawfully to injure, deface or defile such dwelling house, office, shop, building or vessel, or any property therein"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison or up to 2½ years in jail or a fine of up to $300",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Throws into, against or upon a dwelling house, office, shop or other building, or vessel, or puts or places therein or thereon oil of vitriol, coal tar or other noxious or filthy substance",
+    "ways": [
+     "throws",
+     "puts",
+     "places"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/104": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Imprisonment for up to 2 months or a fine of up to $50",
+     "min": null,
+     "max": 0.17,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Destroys, injures, defaces or mars a dwelling house or other building, whether upon the inside or outside",
+    "ways": [
+     "destroys",
+     "injures",
+     "defaces",
+     "mars"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/104A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $50 nor more than $200",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Destroys, injures or removes a goal post on a football field",
+    "ways": [
+     "destroys",
+     "injures",
+     "removes"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/104B": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Enters any premises in which animals are being housed or used in research by a research institution and, without authority, injures, damages, commits any trespass upon, removes or carries away any data, equipment, facility or property or injures, damages, removes, carries away, interferes with or releases any animal",
+    "ways": [
+     "injures",
+     "damages",
+     "commits trespass upon",
+     "removes",
+     "carries away",
+     "interferes with",
+     "releases"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Malicious and wilful"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $25,000 and up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Enters any premises in which animals are being housed or used in research by a research institution and, without authority, injures, damages, commits any trespass upon, removes or carries away any data, equipment, facility or property or injures, damages, removes, carries away, interferes with or releases any animal",
+    "ways": [
+     "injures",
+     "damages",
+     "commits trespass upon",
+     "removes",
+     "carries away",
+     "interferes with",
+     "releases"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Wilful but not malicious"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $10,000 and up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "266/105": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $10",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Natural resource officers and deputy natural resource officers may arrest without a warrant any person found violating this section"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Pulls down or removes any portion of a stone wall or fence which is erected or maintained for the purpose of enclosing land",
+    "ways": [
+     "pulls down",
+     "removes"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/106": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right or license"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $100",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Cuts, injures, mars or otherwise damages or destroys ice upon waters from which ice is or may be taken as an article of merchandise",
+    "ways": [
+     "cuts",
+     "injures",
+     "mars",
+     "damages",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [
+     "The taking of the ice is hindered or its value diminished for that purpose"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/107": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks down, injures, removes or destroys a public bridge, or a lock, culvert or embankment of a canal",
+    "ways": [
+     "breaks down",
+     "injures",
+     "removes",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Makes an aperture or breach in such embankment",
+    "ways": [
+     "aperture",
+     "breach"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Wilfully, intentionally and without right",
+     "With intent to destroy or injure the same"
+    ]
+   }
+  ]
+ },
+ "266/108": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to injure or defraud an owner thereof, or of any property laden on board the same, or an insurer of such ship, vessel or property, or of any part thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison or up to 2½ years in a jail",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Must make restitution to the insurer or owner for any financial loss sustained, in addition to incarceration or fine, unless the court finds the defendant indigent or that restitution would cause substantial financial hardship and makes specific written findings",
+    "The court holds an evidentiary hearing to set the amount and method of restitution and may later grant remission or modify payment",
+    "A defendant who defaults on restitution may be held in contempt unless he made a good faith effort to pay"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Casts away, burns, sinks or otherwise destroys a ship or vessel",
+    "ways": [
+     "casts away",
+     "burns",
+     "sinks",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/109": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent that it shall be wilfully cast away, burnt, sunk or otherwise destroyed",
+    "With intent to injure or defraud an owner or insurer of such ship or vessel, or of any property laden on board the same"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 20 years in state prison, or a fine of up to $5,000 and up to 2½ years in jail",
+     "min": null,
+     "max": 20,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Lades, equips or fits out, or assists in lading, equipping or fitting out, a ship or vessel",
+    "ways": [
+     "lades",
+     "equips",
+     "fits out",
+     "assists in lading, equipping or fitting out"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/110": {
+  "shared": {
+   "who": "An owner of a ship or vessel, or of property laden or pretended to be laden on board it, or any other person concerned in the lading or fitting out of a ship or vessel",
+   "intent": [
+    "With intent to injure or defraud an insurer of such ship, vessel or property or of any part thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison, or a fine of up to $5,000 and up to 2 years in jail",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes out or exhibits, or causes to be made out or exhibited, a false or fraudulent invoice, bill of lading, bill or parcels or other false estimates of any goods or property laden or pretended to be laden on board such ship or vessel",
+    "ways": [
+     "makes out",
+     "exhibits",
+     "causes to be made out",
+     "causes to be exhibited"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/111": {
+  "shared": {
+   "intent": [
+    "With intent to injure, deceive or defraud an insurer of such ship or vessel, or of any goods or property laden on board the same"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison, or a fine of up to $5,000 and up to 2 years in jail",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes or causes to be made or swears to a false affidavit or protest",
+    "ways": [
+     "makes",
+     "causes to be made",
+     "swears to"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A master, officer or mariner of a ship or vessel"
+   },
+   {
+    "where": "",
+    "act": "Procures such false affidavit or protest to be made, or exhibits the same",
+    "ways": [
+     "procures",
+     "exhibits"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "An owner of or other person concerned in such ship or vessel, or the owner of or person concerned in the goods or property laden on board"
+   }
+  ]
+ },
+ "266/111A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to injure, defraud or deceive such company"
+   ],
+   "knowledge": [
+    "Knowing that the document contains any false or fraudulent statement or representation of any fact or thing material to such claim"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or not less than 6 months nor more than 2½ years in jail, or a fine of not less than $500 nor more than $10,000, or both such fine and imprisonment in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"company\": as defined in section one of chapter one hundred and seventy-five"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Presents to an insurance company, or aids or abets in or procures the presentation to it of, any notice, statement, proof of loss, bill of lading, bill of parcels, invoice, schedule, account or other written document, in connection with or in support of any claim under any policy of insurance",
+    "ways": [
+     "presents",
+     "aids or abets in the presentation",
+     "procures the presentation"
+    ],
+    "tags": [],
+    "conditions": [
+     "Whether or not the document is under oath or is required or authorized by law or by the terms of the policy"
+    ],
+    "exceptions": [
+     "Except as provided in section one hundred and ten or one hundred and eleven"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Makes, prepares or subscribes, or aids or abets in or procures the making, preparation or subscription of, any notice, statement, proof of loss, bill of lading, bill of parcels, invoice, schedule, account or other written document intended to be presented to such company in connection with or in support of any claim under such policy",
+    "ways": [
+     "makes",
+     "prepares",
+     "subscribes",
+     "aids or abets",
+     "procures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Except as provided in section one hundred and ten or one hundred and eleven"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/128": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $10",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Effaces, alters or covers over, or procures to be effaced, altered or covered over, the name, initial or device of any dealer in milk, marked or stamped upon a milk can",
+    "ways": [
+     "effaces",
+     "alters",
+     "covers over",
+     "procures to be effaced, altered or covered over"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the owner"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly and wilfully"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Detains or uses in his business any such can having the name, initial or device of any dealer in milk so marked or stamped thereon",
+    "ways": [
+     "detains",
+     "uses in his business"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the owner"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to defraud"
+    ]
+   }
+  ]
+ },
+ "266/129": {
+  "shared": {
+   "who": "An inmate of a correctional institution of the commonwealth",
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 3 years in state prison",
+     "min": null,
+     "max": 3,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Destroys or injures the property of the commonwealth at such correctional institution, or the property of any person who furnishes materials for the employment of the prisoners",
+    "ways": [
+     "destroys",
+     "injures"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/130": {
+  "shared": {
+   "who": "A prisoner at a jail or house of correction",
+   "intent": [
+    "Wilfully and maliciously"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Imprisonment for not less than 6 months nor more than 2½ years",
+     "min": 0.5,
+     "max": 2.5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Injures or destroys any public property or any materials furnished for the employment of prisoners in such jail or house of correction",
+    "ways": [
+     "injures",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/132": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 1 month imprisonment or a fine of up to $20",
+     "min": null,
+     "max": 0.08,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "Liable for the actual damages to the owner or occupant of such beds"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Kills pigeons upon, or frightens them from, beds which have been made for the purpose of taking them in nets, by any method, within one hundred rods of the same",
+    "ways": [
+     "kills",
+     "frightens"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "On land lawfully occupied by himself"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/133": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $200 or up to 6 months imprisonment",
+     "min": null,
+     "max": 0.5,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "One half of any fine paid goes to the person who gives information upon which a conviction is obtained"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Unlawfully enters a house, boat house or hut which is the property of the Humane Society of the Commonwealth of Massachusetts and injures, removes or carries away any property belonging to said society",
+    "ways": [
+     "injures",
+     "removes",
+     "carries away"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "The penalties do not apply to persons for whose use said boats, houses and other property are intended and kept"
+    ],
+    "defenses": [],
+    "intent": [
+     "Wilfully"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Injures or unlawfully uses or commits any trespass upon the property of said society which is intended or kept for the purpose of saving or preserving human life",
+    "ways": [
+     "injures",
+     "unlawfully uses",
+     "commits any trespass upon"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "The penalties do not apply to persons for whose use said boats, houses and other property are intended and kept"
+    ],
+    "defenses": [],
+    "intent": [
+     "Wilfully"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits any trespass upon such house, hut or boat house",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "The penalties do not apply to persons for whose use said boats, houses and other property are intended and kept"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/135": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "One third of all fines goes to the complainant and two-thirds to the commonwealth"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Moors or in any manner makes fast a vessel, scow, boat or raft to a buoy, beacon or floating guide placed by the government of the United States in the navigable waters of the commonwealth",
+    "ways": [
+     "moors",
+     "makes fast"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Destroys, injures or removes any such beacon or guide",
+    "ways": [
+     "destroys",
+     "injures",
+     "removes"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Wilfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 3 months imprisonment",
+      "min": null,
+      "max": 0.25,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "266/137": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 6 months imprisonment",
+     "min": null,
+     "max": 0.5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "By erecting or maintaining a dam, either within or without the commonwealth, causes the water of a river or stream so to be raised as to flow upon or injure a mill lawfully existing in the commonwealth and belonging to a citizen thereof",
+    "ways": [
+     "erecting a dam",
+     "maintaining a dam"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without right as against the owner of such mill"
+    ],
+    "exceptions": [
+     "Cases in which the courts of the commonwealth have jurisdiction to abate a dam so raised or maintained"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/138": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Breaks down, injures, removes or destroys a dam, reservoir, canal or trench, or a gate, flume, flashboards or other appurtenances thereof, or a wheel, or mill gear, or machinery of a water mill or steam mill",
+    "ways": [
+     "breaks down",
+     "injures",
+     "removes",
+     "destroys"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Draws off the water contained in a mill pond, reservoir, canal or trench, or obstructs such water from flowing out of the same",
+    "ways": [
+     "draws off the water",
+     "obstructs such water from flowing out"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without color of right"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Wilfully or wantonly"
+    ]
+   }
+  ]
+ },
+ "266/138A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Wilfully, intentionally and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Damages or renders unusable machinery or equipment used in the transmission of water for agricultural purposes",
+    "ways": [
+     "damages",
+     "renders unusable"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/139": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Identifying number or numbers\": the manufacturer's number or numbers identifying the motor vehicle, trailer or motor vehicle part as required to be contained in an application for registration by section two of chapter ninety, including the identifying number or numbers as restored or substituted under authority of section thirty-two A of said chapter ninety or similar law of another state"
+   ],
+   "consequences": [
+    "The court reports a conviction or delinquency adjudication to the registrar of motor vehicles, who shall revoke immediately the license or right to operate motor vehicles; an appeal does not stay the revocation",
+    "No new license or reinstatement until 60 days after revocation for a first offense, or 1 year after revocation for any subsequent conviction or adjudication, unless the prosecution is finally terminated in the person's favor"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Removes, defaces, alters, changes, destroys, obliterates or mutilates or causes to be removed or destroyed or in any way defaced, altered, changed, obliterated or mutilated, the identifying number or numbers of a motor vehicle or trailer",
+    "ways": [
+     "removes",
+     "defaces",
+     "alters",
+     "changes",
+     "destroys",
+     "obliterates",
+     "mutilates",
+     "causes to be removed, destroyed, defaced, altered, changed, obliterated or mutilated"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 3 years in state prison, or both",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Sells, transfers, distributes, dispenses or otherwise disposes of any motor vehicle or trailer or motor vehicle part",
+    "ways": [
+     "sells",
+     "transfers",
+     "distributes",
+     "dispenses",
+     "otherwise disposes of"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [
+     "Unless authorized by law to do so"
+    ],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to believe that the identifying number or numbers to said motor vehicle, trailer, or vehicle part have been so removed, defaced, altered, changed, destroyed, obliterated, or mutilated"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 3 years in state prison, or both",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Buys, receives, possesses, or obtains control of a motor vehicle, trailer, or motor vehicle part",
+    "ways": [
+     "buys",
+     "receives",
+     "possesses",
+     "obtains control of"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Unless authorized by law to do so"
+    ],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to believe that an identifying number to said vehicle, trailer, or vehicle part has been removed, obliterated, tampered with, or altered"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 2 years in a house of correction, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Takes and carries away the registration plate that is attached to the vehicle of another or is assigned by the registry of motor vehicles to another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $500 nor more than $1,000 or up to 2½ years in the house of correction, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "266/139A": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500 or up to 1 year in a jail or house of correction, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Removes, defaces, alters, changes, destroys, obliterates or mutilates or causes to be removed or destroyed or in any way defaced, altered, changed, obliterated or mutilated, the identifying number or numbers of any machine or any electrical or mechanical device",
+    "ways": [
+     "removes",
+     "defaces",
+     "alters",
+     "changes",
+     "destroys",
+     "obliterates",
+     "mutilates",
+     "causes to be removed, destroyed, defaced, altered, changed, obliterated or mutilated"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent thereby to conceal its identity, to defraud the manufacturer, seller, or purchaser, to hinder competition in the areas of sales and servicing, or to prevent the detection of a crime"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Sells or otherwise disposes of a machine or an electrical or a mechanical device",
+    "ways": [
+     "sells",
+     "otherwise disposes of"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to believe that the identifying number or numbers of the same have been so removed, defaced, altered, changed, destroyed, obliterated or mutilated"
+    ]
+   }
+  ]
+ },
+ "266/140": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowing, or having reasonable cause to believe, that said key will be used for an illegal purpose"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500 or up to 1 year imprisonment, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Sells or offers to sell or solicits offers to purchase a master key designed to fit more than one motor vehicle",
+    "ways": [
+     "sells",
+     "offers to sell",
+     "solicits offers to purchase"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/141A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With the intent to misrepresent to a prospective or eventual purchaser the number of miles traveled by a motor vehicle"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $500 nor more than $1,000, or not less than 30 days nor more than 2 years in a jail or house of correction, or both",
+     "min": 0.08,
+     "max": 2,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Turns back or readjusts the speedometer or odometer of a motor vehicle",
+    "ways": [
+     "turns back",
+     "readjusts"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/142": {
+  "shared": {
+   "who": "A person in the business of purchasing copper line wire or scrap copper wire",
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $50",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Fails to enter in a book kept for that purpose a description of the same, the quantity purchased, the purchase price and a name and address of the seller",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Fails to keep said book at all times open to the inspection of the chief of police of a city or town or any other officer having similar duties or any officer authorized by either of them, or a state police officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/142A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $1,000 or up to 1 year imprisonment, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Fails to enter in a book kept for that purpose a description of the item, quantity purchased, the purchase price and the name and address of the seller",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The purchase price of such item is at least $50"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person in the business of purchasing gold, silver or platinum"
+   },
+   {
+    "where": "",
+    "act": "Fails to keep said book at all times open to the inspection of the chief of police of a city or town or of any other officer having similar duties or any officer authorized by either of them, or a state police officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person in the business of purchasing gold, silver or platinum"
+   },
+   {
+    "where": "",
+    "act": "Fails to show to the buyer prior to said sale identification which includes a photograph of said seller",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person who sells gold, silver or platinum"
+   }
+  ]
+ },
+ "266/143A": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Set in section 143E of chapter 266",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Directly or indirectly by any means, transfers or causes to be transferred any sound recorded on a phonograph record, disc, wire, tape, film, videocassette or other article on which such sound is recorded",
+    "ways": [
+     "transfers",
+     "causes to be transferred"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the owner"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to sell, rent or transport, or cause to be sold, rented or transported, or to use or cause to be used for profit through public performance such article on which such sound is so transferred"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Sells any such article",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "With the knowledge that the sound thereon has been so transferred without the consent of the owner"
+    ]
+   }
+  ]
+ },
+ "266/143B": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "For commercial advantage or private financial gain"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Set in section 143E of chapter 266",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Records or causes to be recorded a live performance",
+    "ways": [
+     "records",
+     "causes to be recorded"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "With knowledge that such recording is without the consent of the owner"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Advertises, sells, rents, transports or causes to be advertised, sold, rented or transported, or possesses for any of such purposes, a recording of a live performance",
+    "ways": [
+     "advertises",
+     "sells",
+     "rents",
+     "transports",
+     "causes to be advertised, sold, rented or transported",
+     "possesses for any of such purposes"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "With the knowledge that the live performance was recorded without the consent of the owner"
+    ]
+   }
+  ]
+ },
+ "266/143C": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowingly"
+   ],
+   "intent": [
+    "For commercial advantage or private financial gain"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Set in section 143E of chapter 266",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Manufactures, rents, sells, transports, or causes to be manufactured, rented, sold or transported, or possesses for purposes of sale, rental or transport, any recorded device the outside packaging of which does not clearly and conspicuously bear the true name and address of the transferor of the sounds or images contained thereon",
+    "ways": [
+     "manufactures",
+     "rents",
+     "sells",
+     "transports",
+     "causes to be manufactured, rented, sold or transported",
+     "possesses for purposes of sale, rental or transport"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/143E": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 1 year in the house of correction or a fine of up to $25,000, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    },
+    {
+     "if": "the offense involves less than 1,000 but not less than 100 unlawful sound recordings or less than 65 but not less than 7 unlawful audio visual recordings",
+     "penalty": "Up to 2 years in the house of correction or a fine of up to $100,000, or both",
+     "min": null,
+     "max": 2,
+     "flags": []
+    },
+    {
+     "if": "the offense involves not less than 1,000 unlawful sound recordings or not less than 65 unlawful audio visual recordings",
+     "penalty": "Up to 5 years in state prison or a fine of up to $250,000, or both",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Violates any provision of section 143A to section 143C, inclusive",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/143F": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With the intent to unlawfully record the motion picture"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 2 years in the house of correction or a fine of up to $100,000, or both",
+     "min": null,
+     "max": 2,
+     "flags": []
+    },
+    {
+     "if": "a second or subsequent conviction",
+     "penalty": "Up to 5 years in state prison or a fine of up to $250,000, or both",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Operates an audiovisual recording function",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In a motion picture theater while a motion picture is being exhibited",
+     "Without the consent of the owner or lessee of the motion picture theater"
+    ],
+    "exceptions": [
+     "Local, state or federal law enforcement officers employing an audiovisual recording function during the lawful exercise of law enforcement duties"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "266/144": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $10 and not more than $100",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Carries away or converts to his own use a plastic or wire milk case or a plastic or wire container for milk products which has been indelibly stamped with the name of a milk dealer or association of milk dealers",
+    "ways": [
+     "carries away",
+     "converts to his own use"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without permission of the owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/145": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Intentionally",
+    "With the intention of permanently depriving said commonwealth or said political subdivision of its use"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of up to $500",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Conceals upon his person or otherwise any record of the commonwealth or a political subdivision thereof",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The record is a record of the commonwealth or a political subdivision thereof, as defined in section three of chapter sixty-six"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "266/146": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Willfully and without right"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine of not less than $100 nor more than $1,000",
+     "min": null,
+     "max": 0,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"Solid waste\": garbage, refuse, trash, rubbish, sludge, residue or by-products of processing or treatment of discarded material, and any other solid, semi-solid or liquid discarded material resulting from domestic, commercial, mining, industrial, agricultural, municipal, or other sources or activities, but not solid or dissolved material in domestic sewage"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Deposits solid waste in a commercial disposal container of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the owner or other person who has legal custody, care or control thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
  }
 }

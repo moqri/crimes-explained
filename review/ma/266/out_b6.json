@@ -1,0 +1,1330 @@
+{
+ "266/127B": {
+  "review": {
+   "isOffense": false,
+   "plain": "Gives anyone injured or whose property is damaged by violations of section 127A or section 39 of chapter 265 a civil action for injunctive relief, damages and attorney fees, and makes parents liable for judgments against their minor children."
+  }
+ },
+ "266/128": {
+  "review": {
+   "isOffense": true,
+   "plain": "Defacing a milk dealer's name or mark on a milk can without the owner's consent, or using such a can in business with intent to defraud, is punishable by a fine of up to $10.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "effaces, alters or covers over, or procures to be effaced, altered or covered over, the name, initial or device of any dealer in milk, marked or stamped upon a milk can",
+    "detains or uses in his business any such can having the name, initial or device of any dealer in milk so marked or stamped thereon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $10",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Effaces, alters or covers over, or procures to be effaced, altered or covered over, the name, initial or device of any dealer in milk, marked or stamped upon a milk can",
+     "ways": [
+      "effaces",
+      "alters",
+      "covers over",
+      "procures to be effaced, altered or covered over"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Detains or uses in his business any such can having the name, initial or device of any dealer in milk so marked or stamped thereon",
+     "ways": [
+      "detains",
+      "uses in his business"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud"
+     ]
+    }
+   ]
+  }
+ },
+ "266/129": {
+  "review": {
+   "isOffense": true,
+   "plain": "An inmate of a state correctional institution who wilfully and maliciously destroys or injures property of the commonwealth there, or of anyone furnishing materials for prisoners' work, may get up to 3 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "acts": [
+    "destroys or injures the property of the commonwealth at such correctional institution, or the property of any person who furnishes materials for the employment of the prisoners"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An inmate of a correctional institution of the commonwealth",
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 3 years in state prison",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Destroys or injures the property of the commonwealth at such correctional institution, or the property of any person who furnishes materials for the employment of the prisoners",
+     "ways": [
+      "destroys",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/130": {
+  "review": {
+   "isOffense": true,
+   "plain": "A prisoner at a jail or house of correction who wilfully and maliciously injures or destroys public property or materials furnished for prisoners' work may be imprisoned for 6 months to 2½ years.",
+   "category": "Property Crimes",
+   "maxYears": 2.5,
+   "acts": [
+    "injures or destroys any public property or any materials furnished for the employment of prisoners in such jail or house of correction"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A prisoner at a jail or house of correction",
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment for not less than 6 months nor more than 2½ years",
+      "min": 0.5,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Injures or destroys any public property or any materials furnished for the employment of prisoners in such jail or house of correction",
+     "ways": [
+      "injures",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/131": {
+  "review": {
+   "isOffense": false,
+   "plain": "Allows a person caught wilfully injuring a fruit or forest tree or committing malicious mischief on Sunday to be arrested without a warrant and held until a complaint is made, but not beyond the following day."
+  }
+ },
+ "266/132": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully killing pigeons on, or frightening them from, beds made for netting them, within 100 rods, except on one's own land, is punishable by up to 1 month in prison or a $20 fine, plus damages.",
+   "category": "Animals & Wildlife",
+   "maxYears": 0.08,
+   "acts": [
+    "kills pigeons upon, or frightens them from, beds which have been made for the purpose of taking them in nets, by any method, within one hundred rods of the same"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 1 month imprisonment or a fine of up to $20",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Liable for the actual damages to the owner or occupant of such beds"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Kills pigeons upon, or frightens them from, beds which have been made for the purpose of taking them in nets, by any method, within one hundred rods of the same",
+     "ways": [
+      "kills",
+      "frightens"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "On land lawfully occupied by himself"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/133": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unlawfully entering a Humane Society house, boat house or hut and damaging or taking property, or damaging or trespassing on its life-saving property, is punishable by up to 6 months in prison or a $200 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "unlawfully enters a house, boat house or hut which is the property of the Humane Society of the Commonwealth of Massachusetts and wilfully injures, removes or carries away any property belonging to said society",
+    "injures or unlawfully uses or commits any trespass upon the property of said society which is intended or kept for the purpose of saving or preserving human life",
+    "commits any trespass upon such house, hut or boat house"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $200 or up to 6 months imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "One half of any fine paid goes to the person who gives information upon which a conviction is obtained"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Unlawfully enters a house, boat house or hut which is the property of the Humane Society of the Commonwealth of Massachusetts and injures, removes or carries away any property belonging to said society",
+     "ways": [
+      "injures",
+      "removes",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The penalties do not apply to persons for whose use said boats, houses and other property are intended and kept"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Injures or unlawfully uses or commits any trespass upon the property of said society which is intended or kept for the purpose of saving or preserving human life",
+     "ways": [
+      "injures",
+      "unlawfully uses",
+      "commits any trespass upon"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The penalties do not apply to persons for whose use said boats, houses and other property are intended and kept"
+     ],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Commits any trespass upon such house, hut or boat house",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The penalties do not apply to persons for whose use said boats, houses and other property are intended and kept"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/135": {
+  "review": {
+   "isOffense": true,
+   "plain": "Mooring a vessel to a U.S. government buoy, beacon or floating guide in state waters is punishable by a fine of up to $50; wilfully destroying, injuring or removing one, by up to 3 months or a $100 fine.",
+   "category": "Transportation & Aviation",
+   "maxYears": 0.25,
+   "acts": [
+    "moors or in any manner makes fast a vessel, scow, boat or raft to a buoy, beacon or floating guide placed by the government of the United States in the navigable waters of the commonwealth",
+    "destroys, injures or removes any such beacon or guide"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "One third of all fines goes to the complainant and two-thirds to the commonwealth"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Moors or in any manner makes fast a vessel, scow, boat or raft to a buoy, beacon or floating guide placed by the government of the United States in the navigable waters of the commonwealth",
+     "ways": [
+      "moors",
+      "makes fast"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $50",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Destroys, injures or removes any such beacon or guide",
+     "ways": [
+      "destroys",
+      "injures",
+      "removes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $100 or up to 3 months imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/137": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly raising a river or stream by a dam so that it floods or injures a lawfully existing mill in the commonwealth, without right, is punishable by up to 6 months in prison or a $1,000 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "causes the water of a river or stream so to be raised as to flow upon or injure a mill lawfully existing in the commonwealth and belonging to a citizen thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 6 months imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "By erecting or maintaining a dam, either within or without the commonwealth, causes the water of a river or stream so to be raised as to flow upon or injure a mill lawfully existing in the commonwealth and belonging to a citizen thereof",
+     "ways": [
+      "erecting a dam",
+      "maintaining a dam"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without right as against the owner of such mill"
+     ],
+     "exceptions": [
+      "Cases in which the courts of the commonwealth have jurisdiction to abate a dam so raised or maintained"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/138": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully damaging a dam, reservoir, canal, mill gear or mill machinery, or wilfully or wantonly draining or blocking water in a mill pond or reservoir, is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "breaks down, injures, removes or destroys a dam, reservoir, canal or trench, or a gate, flume, flashboards or other appurtenances thereof, or a wheel, or mill gear, or machinery of a water mill or steam mill",
+    "draws off the water contained in a mill pond, reservoir, canal or trench, or obstructs such water from flowing out of the same"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks down, injures, removes or destroys a dam, reservoir, canal or trench, or a gate, flume, flashboards or other appurtenances thereof, or a wheel, or mill gear, or machinery of a water mill or steam mill",
+     "ways": [
+      "breaks down",
+      "injures",
+      "removes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully, intentionally and without right"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Draws off the water contained in a mill pond, reservoir, canal or trench, or obstructs such water from flowing out of the same",
+     "ways": [
+      "draws off the water",
+      "obstructs such water from flowing out"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without color of right"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Wilfully or wantonly"
+     ]
+    }
+   ]
+  }
+ },
+ "266/138A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right damaging or disabling machinery or equipment used to carry water for agricultural purposes is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "damages or renders unusable machinery or equipment used in the transmission of water for agricultural purposes"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Damages or renders unusable machinery or equipment used in the transmission of water for agricultural purposes",
+     "ways": [
+      "damages",
+      "renders unusable"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/139": {
+  "review": {
+   "isOffense": true,
+   "plain": "Removing or altering a motor vehicle or trailer's identifying numbers, or selling vehicles or parts knowing the numbers were altered, is punishable by up to 3 years in state prison; stealing another's registration plate, up to 2½ years.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "acts": [
+    "removes, defaces, alters, changes, destroys, obliterates or mutilates or causes to be removed or destroyed or in any way defaced, altered, changed, obliterated or mutilated, the identifying number or numbers of a motor vehicle or trailer",
+    "sells, transfers, distributes, dispenses or otherwise disposes of or attempts to sell, transfer, distribute, dispense or otherwise dispose of any motor vehicle or trailer or motor vehicle part",
+    "buys, receives, possesses, or obtains control of a motor vehicle, trailer, or motor vehicle part",
+    "takes and carries away the registration plate that is attached to the vehicle of another or is assigned by the registry of motor vehicles to another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Identifying number or numbers\": the manufacturer's number or numbers identifying the motor vehicle, trailer or motor vehicle part as required to be contained in an application for registration by section two of chapter ninety, including the identifying number or numbers as restored or substituted under authority of section thirty-two A of said chapter ninety or similar law of another state"
+    ],
+    "consequences": [
+     "The court reports a conviction or delinquency adjudication to the registrar of motor vehicles, who shall revoke immediately the license or right to operate motor vehicles; an appeal does not stay the revocation",
+     "No new license or reinstatement until 60 days after revocation for a first offense, or 1 year after revocation for any subsequent conviction or adjudication, unless the prosecution is finally terminated in the person's favor"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Removes, defaces, alters, changes, destroys, obliterates or mutilates or causes to be removed or destroyed or in any way defaced, altered, changed, obliterated or mutilated, the identifying number or numbers of a motor vehicle or trailer",
+     "ways": [
+      "removes",
+      "defaces",
+      "alters",
+      "changes",
+      "destroys",
+      "obliterates",
+      "mutilates",
+      "causes to be removed, destroyed, defaced, altered, changed, obliterated or mutilated"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intentionally and maliciously"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $1,000 or up to 3 years in state prison, or both",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Sells, transfers, distributes, dispenses or otherwise disposes of any motor vehicle or trailer or motor vehicle part",
+     "ways": [
+      "sells",
+      "transfers",
+      "distributes",
+      "dispenses",
+      "otherwise disposes of"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Unless authorized by law to do so"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or having reason to believe that the identifying number or numbers to said motor vehicle, trailer, or vehicle part have been so removed, defaced, altered, changed, destroyed, obliterated, or mutilated"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $1,000 or up to 3 years in state prison, or both",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Buys, receives, possesses, or obtains control of a motor vehicle, trailer, or motor vehicle part",
+     "ways": [
+      "buys",
+      "receives",
+      "possesses",
+      "obtains control of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless authorized by law to do so"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or having reason to believe that an identifying number to said vehicle, trailer, or vehicle part has been removed, obliterated, tampered with, or altered"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of up to $500 or up to 2 years in a house of correction, or both",
+       "min": null,
+       "max": 2,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Takes and carries away the registration plate that is attached to the vehicle of another or is assigned by the registry of motor vehicles to another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $500 nor more than $1,000 or up to 2½ years in the house of correction, or both",
+       "min": null,
+       "max": 2.5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/139A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Removing or altering the identifying numbers of any machine or electrical or mechanical device to conceal it, defraud, hinder competition or hide a crime, or selling such a device knowingly, is punishable by up to 1 year in jail.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "removes, defaces, alters, changes, destroys, obliterates or mutilates or causes to be removed or destroyed or in any way defaced, altered, changed, obliterated or mutilated, the identifying number or numbers of any machine or any electrical or mechanical device",
+    "sells or otherwise disposes of or attempts to sell or otherwise dispose of a machine or an electrical or a mechanical device"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 1 year in a jail or house of correction, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, defaces, alters, changes, destroys, obliterates or mutilates or causes to be removed or destroyed or in any way defaced, altered, changed, obliterated or mutilated, the identifying number or numbers of any machine or any electrical or mechanical device",
+     "ways": [
+      "removes",
+      "defaces",
+      "alters",
+      "changes",
+      "destroys",
+      "obliterates",
+      "mutilates",
+      "causes to be removed, destroyed, defaced, altered, changed, obliterated or mutilated"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent thereby to conceal its identity, to defraud the manufacturer, seller, or purchaser, to hinder competition in the areas of sales and servicing, or to prevent the detection of a crime"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Sells or otherwise disposes of a machine or an electrical or a mechanical device",
+     "ways": [
+      "sells",
+      "otherwise disposes of"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or having reason to believe that the identifying number or numbers of the same have been so removed, defaced, altered, changed, destroyed, obliterated or mutilated"
+     ]
+    }
+   ]
+  }
+ },
+ "266/140": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling, offering to sell, or soliciting offers to buy a master key for more than one motor vehicle, knowing it will be used illegally, is punishable by up to 1 year in prison, a $500 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "sells or offers to sell or solicits offers to purchase a master key designed to fit more than one motor vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowing, or having reasonable cause to believe, that said key will be used for an illegal purpose"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 1 year imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or offers to sell or solicits offers to purchase a master key designed to fit more than one motor vehicle",
+     "ways": [
+      "sells",
+      "offers to sell",
+      "solicits offers to purchase"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/141": {
+  "review": {
+   "isOffense": false,
+   "plain": "Makes anyone who uses odometer-altering devices, resets odometers, or knowingly drives with a disconnected odometer to defraud liable in a civil action for triple damages or $1,500, and treats it as unfair competition."
+  }
+ },
+ "266/141A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Turning back or readjusting a motor vehicle's speedometer or odometer to misrepresent its mileage to a buyer is punishable by a $500 to $1,000 fine, 30 days to 2 years in jail, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 2,
+   "acts": [
+    "turns back or readjusts the speedometer or odometer thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to misrepresent to a prospective or eventual purchaser the number of miles traveled by a motor vehicle"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $500 nor more than $1,000, or not less than 30 days nor more than 2 years in a jail or house of correction, or both",
+      "min": 0.08,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Turns back or readjusts the speedometer or odometer of a motor vehicle",
+     "ways": [
+      "turns back",
+      "readjusts"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/142": {
+  "review": {
+   "isOffense": true,
+   "plain": "A business buying copper line wire or scrap copper wire that fails to record each purchase and seller in a book open to police inspection faces a fine of up to $50.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "violates any provision of this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person in the business of purchasing copper line wire or scrap copper wire",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $50",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fails to enter in a book kept for that purpose a description of the same, the quantity purchased, the purchase price and a name and address of the seller",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Fails to keep said book at all times open to the inspection of the chief of police of a city or town or any other officer having similar duties or any officer authorized by either of them, or a state police officer",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/142A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Gold, silver and platinum buyers must record purchases of $50 or more in a book open to police, and sellers must show photo ID; violations bring up to 1 year in prison, a $1,000 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "violates any provision of this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 1 year imprisonment, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fails to enter in a book kept for that purpose a description of the item, quantity purchased, the purchase price and the name and address of the seller",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The purchase price of such item is at least $50"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person in the business of purchasing gold, silver or platinum"
+    },
+    {
+     "where": "",
+     "act": "Fails to keep said book at all times open to the inspection of the chief of police of a city or town or of any other officer having similar duties or any officer authorized by either of them, or a state police officer",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person in the business of purchasing gold, silver or platinum"
+    },
+    {
+     "where": "",
+     "act": "Fails to show to the buyer prior to said sale identification which includes a photograph of said seller",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person who sells gold, silver or platinum"
+    }
+   ]
+  }
+ },
+ "266/143": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines \"article\" or \"recorded device,\" \"audiovisual recording function,\" \"motion picture theater\" and \"owner\" for sections 143A to 143H on unauthorized recordings."
+  }
+ },
+ "266/143A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly copying sound recordings without the owner's consent to sell, rent or use them for profit, or knowingly selling such copies, is a crime punished as provided in section 143E.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "transfers or causes to be transferred any sound recorded on a phonograph record, disc, wire, tape, film, videocassette or other article on which such sound is recorded",
+    "sells any such article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in section 143E of chapter 266",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Directly or indirectly by any means, transfers or causes to be transferred any sound recorded on a phonograph record, disc, wire, tape, film, videocassette or other article on which such sound is recorded",
+     "ways": [
+      "transfers",
+      "causes to be transferred"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With intent to sell, rent or transport, or cause to be sold, rented or transported, or to use or cause to be used for profit through public performance such article on which such sound is so transferred"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Sells any such article",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With the knowledge that the sound thereon has been so transferred without the consent of the owner"
+     ]
+    }
+   ]
+  }
+ },
+ "266/143B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Recording a live performance without the owner's consent for commercial gain, or selling, renting or possessing such recordings knowing they were unauthorized, is a crime punished as provided in section 143E.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "records or causes to be recorded a live performance",
+    "advertises, sells, rents, transports or causes to be advertised, sold, rented or transported, or possesses for any of such purposes, a recording of a live performance"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "For commercial advantage or private financial gain"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in section 143E of chapter 266",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Records or causes to be recorded a live performance",
+     "ways": [
+      "records",
+      "causes to be recorded"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With knowledge that such recording is without the consent of the owner"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Advertises, sells, rents, transports or causes to be advertised, sold, rented or transported, or possesses for any of such purposes, a recording of a live performance",
+     "ways": [
+      "advertises",
+      "sells",
+      "rents",
+      "transports",
+      "causes to be advertised, sold, rented or transported",
+      "possesses for any of such purposes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With the knowledge that the live performance was recorded without the consent of the owner"
+     ]
+    }
+   ]
+  }
+ },
+ "266/143C": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly making, renting, selling, transporting or possessing for sale recorded devices whose packaging lacks the true name and address of the transferor, for commercial gain, is punished as provided in section 143E.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "manufactures, rents, sells, transports, or causes to be manufactured, rented, sold or transported, or possesses for purposes of sale, rental or transport, any recorded device the outside packaging of which does not clearly and conspicuously bear the true name and address of the transferor of the sounds or images contained thereon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowingly"
+    ],
+    "intent": [
+     "For commercial advantage or private financial gain"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in section 143E of chapter 266",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures, rents, sells, transports, or causes to be manufactured, rented, sold or transported, or possesses for purposes of sale, rental or transport, any recorded device the outside packaging of which does not clearly and conspicuously bear the true name and address of the transferor of the sounds or images contained thereon",
+     "ways": [
+      "manufactures",
+      "rents",
+      "sells",
+      "transports",
+      "causes to be manufactured, rented, sold or transported",
+      "possesses for purposes of sale, rental or transport"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/143D": {
+  "review": {
+   "isOffense": false,
+   "plain": "States that sections 143A to 143C do not apply to persons lawfully entitled to use the sounds or images, to radio or television broadcasts or archival preservation, or to law enforcement officers acting lawfully."
+  }
+ },
+ "266/143E": {
+  "review": {
+   "isOffense": true,
+   "plain": "Sets penalties for violating sections 143A to 143C on unauthorized recordings: up to 1 year in a house of correction, rising to up to 5 years in state prison for 1,000 or more sound or 65 or more audiovisual recordings.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "violates any provision of section 143A to section 143C, inclusive"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 1 year in the house of correction or a fine of up to $25,000, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "the offense involves less than 1,000 but not less than 100 unlawful sound recordings or less than 65 but not less than 7 unlawful audio visual recordings",
+      "penalty": "Up to 2 years in the house of correction or a fine of up to $100,000, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     },
+     {
+      "if": "the offense involves not less than 1,000 unlawful sound recordings or not less than 65 unlawful audio visual recordings",
+      "penalty": "Up to 5 years in state prison or a fine of up to $250,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Violates any provision of section 143A to section 143C, inclusive",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/143F": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly operating a recording device in a movie theater during a showing to unlawfully record the film without consent is punishable by up to 2 years in a house of correction, or 5 years in state prison for repeat offenses.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "operates an audiovisual recording function"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With the intent to unlawfully record the motion picture"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2 years in the house of correction or a fine of up to $100,000, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     },
+     {
+      "if": "a second or subsequent conviction",
+      "penalty": "Up to 5 years in state prison or a fine of up to $250,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Operates an audiovisual recording function",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In a motion picture theater while a motion picture is being exhibited",
+      "Without the consent of the owner or lessee of the motion picture theater"
+     ],
+     "exceptions": [
+      "Local, state or federal law enforcement officers employing an audiovisual recording function during the lawful exercise of law enforcement duties"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/143G": {
+  "review": {
+   "isOffense": false,
+   "plain": "Gives a defense to false arrest or false imprisonment claims for reasonably detaining a person at a movie theater on reasonable grounds of a section 143F recording violation."
+  }
+ },
+ "266/143H": {
+  "review": {
+   "isOffense": false,
+   "plain": "Allows the court, upon a conviction under sections 143A to 143C or 143F, to order forfeiture or destruction of the recordings and equipment used, stayed pending appeal."
+  }
+ },
+ "266/144": {
+  "review": {
+   "isOffense": true,
+   "plain": "Carrying away or converting a stamped plastic or wire milk case or milk-products container without the owner's permission is punishable by a fine of $10 to $100.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "carries away or converts to his own use a plastic or wire milk case or a plastic or wire container for milk products which has been indelibly stamped with the name of a milk dealer or association of milk dealers"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $10 and not more than $100",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Carries away or converts to his own use a plastic or wire milk case or a plastic or wire container for milk products which has been indelibly stamped with the name of a milk dealer or association of milk dealers",
+     "ways": [
+      "carries away",
+      "converts to his own use"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission of the owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/145": {
+  "review": {
+   "isOffense": true,
+   "plain": "Intentionally concealing a public record of the commonwealth or a local government, intending to permanently deprive it of the record, is punishable by a fine of up to $500.",
+   "category": "Government & Corruption",
+   "maxYears": 0,
+   "acts": [
+    "conceals upon his person or otherwise any record of the commonwealth or a political subdivision thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Intentionally",
+     "With the intention of permanently depriving said commonwealth or said political subdivision of its use"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Conceals upon his person or otherwise any record of the commonwealth or a political subdivision thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The record is a record of the commonwealth or a political subdivision thereof, as defined in section three of chapter sixty-six"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/146": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully dumping solid waste in another's commercial disposal container without the owner's or custodian's consent is punishable by a fine of $100 to $1,000.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "deposits solid waste in a commercial disposal container of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Willfully and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $100 nor more than $1,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Solid waste\": garbage, refuse, trash, rubbish, sludge, residue or by-products of processing or treatment of discarded material, and any other solid, semi-solid or liquid discarded material resulting from domestic, commercial, mining, industrial, agricultural, municipal, or other sources or activities, but not solid or dissolved material in domestic sewage"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Deposits solid waste in a commercial disposal container of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner or other person who has legal custody, care or control thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}

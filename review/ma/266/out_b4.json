@@ -1,0 +1,1623 @@
+{
+ "266/92": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully making or publishing a false or exaggerated statement about a business's or person's finances or assets, with intent to defraud, is punishable by up to 10 years in prison and a $5,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "makes or publishes, or causes or permits to be made or published in any way whatever, any book, prospectus, notice, report, statement, exhibit, advertisement or other publication"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully",
+     "With intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000 or imprisonment for up to 10 years, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes or publishes, or causes or permits to be made or published, any book, prospectus, notice, report, statement, exhibit, advertisement or other publication of or concerning the affairs, financial condition, property or assets of any corporation, joint stock association, partnership or individual",
+     "ways": [
+      "makes",
+      "publishes",
+      "causes to be made or published",
+      "permits to be made or published"
+     ],
+     "tags": [],
+     "conditions": [
+      "The publication contains a statement which is false or wilfully exaggerated",
+      "The statement has a tendency to give a less or greater apparent value to the shares, bonds, property or assets than they really possess"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/92A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Selling a motor vehicle without disclosing in writing on the bill of sale that it was flood-damaged or used as a police car, taxi, rental or leased vehicle, or selling a police car without removing its markings, is punishable by a fine of up to $500.",
+   "category": "Fraud & Money",
+   "maxYears": 0,
+   "acts": [
+    "sells a motor vehicle",
+    "sells any such police car to an ultimate user for other than police purposes without first having obliterated all evidence of distinctive police insignias or markings thereon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $10 nor more than $500",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells a motor vehicle without indicating such fact in writing on the bill of sale",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The fact is not indicated in writing on the bill of sale"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": null,
+     "knowledge": [
+      "Knowing that its engine or electrical parts have been submerged in water, or knowing that it has been used as a police car, a taxicab, a rental vehicle by a motor vehicle rental agency, or a leased vehicle which has been leased to any corporation, individual or entity, other than a motor vehicle rental company"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Sells any such police car to an ultimate user for other than police purposes without first having obliterated all evidence of distinctive police insignias or markings thereon, and painting the exterior of every marked state police vehicle one solid color",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person other than the commonwealth or any political subdivision thereof"
+    }
+   ]
+  }
+ },
+ "266/93": {
+  "review": {
+   "isOffense": true,
+   "plain": "Obtaining an animal breed registration by false pretence, or knowingly making or giving a false written pedigree of an animal, is punishable by up to 2 years in prison and a $500 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 2,
+   "acts": [
+    "obtains from any club, association, society or company for improving the breed of cattle, horses, sheep, swine or other domestic animals, the registration, or a certificate thereof, of any animal in the herd register",
+    "makes, exhibits or gives a false pedigree in writing of any animal"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment for up to 2 years or a fine of up to $500, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains from any club, association, society or company for improving the breed of cattle, horses, sheep, swine or other domestic animals, the registration, or a certificate thereof, of any animal in the herd register or any other register of such club, association, society or company, or a transfer of such registration",
+     "ways": [
+      "registration",
+      "certificate of registration",
+      "transfer of registration"
+     ],
+     "tags": [],
+     "conditions": [
+      "Obtained by a false pretence"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Makes, exhibits or gives a false pedigree in writing of any animal",
+     "ways": [
+      "makes",
+      "exhibits",
+      "gives"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "266/94": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right damaging or removing boundary monuments, milestones, guideboards, building signs, public lamps or railings, or traffic signs and signals is punishable by up to 6 months in prison and restitution.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "breaks down, injures, removes or destroys a monument erected for the purpose of designating the boundaries of a town or of a tract or lot of land, or a tree which has been marked for that purpose",
+    "so breaks down, injures, removes or destroys a milestone, mileboard or guideboard erected upon a public way or railroad",
+    "defaces or alters the inscription on any such stone or board",
+    "mars or defaces a building or signboard",
+    "extinguishes a light or breaks, destroys or removes a lamp, lamp post, railing or post erected on a bridge, sidewalk, public way, court or passage",
+    "defaces or otherwise injures, removes, interferes with or destroys any traffic regulating sign, light, signal, marking or device lawfully erected or placed under public authority on any public way"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment for up to 6 months or a fine of up to $200",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must make restitution, in addition to any imprisonment or fine"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks down, injures, removes or destroys a monument erected for the purpose of designating the boundaries of a town or of a tract or lot of land, or a tree which has been marked for that purpose",
+     "ways": [
+      "breaks down",
+      "injures",
+      "removes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Breaks down, injures, removes or destroys a milestone, mileboard or guideboard erected upon a public way or railroad",
+     "ways": [
+      "breaks down",
+      "injures",
+      "removes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Defaces or alters the inscription on any such stone or board",
+     "ways": [
+      "defaces",
+      "alters"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Mars or defaces a building or signboard",
+     "ways": [
+      "mars",
+      "defaces"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Extinguishes a light or breaks, destroys or removes a lamp, lamp post, railing or post erected on a bridge, sidewalk, public way, court or passage",
+     "ways": [
+      "extinguishes a light",
+      "breaks",
+      "destroys",
+      "removes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Defaces or otherwise injures, removes, interferes with or destroys any traffic regulating sign, light, signal, marking or device lawfully erected or placed under public authority on any public way",
+     "ways": [
+      "defaces",
+      "injures",
+      "removes",
+      "interferes with",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/95": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully or maliciously damaging or removing a monument or marker for a historic place or event is punishable by up to 2 years in prison or a $1,000 fine, plus reimbursing the state for the damage.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "removes, displaces, destroys, defaces, mars or injures any monument, tablet or other device erected to mark an historic place or to commemorate an historic event"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully or maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or imprisonment for up to 2 years",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must reimburse the commonwealth for the total amount of damage incurred, in addition to any fine"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, displaces, destroys, defaces, mars or injures any monument, tablet or other device erected to mark an historic place or to commemorate an historic event",
+     "ways": [
+      "removes",
+      "displaces",
+      "destroys",
+      "defaces",
+      "mars",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/96": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right defacing or damaging any state-owned building is punishable by up to 2 years in prison or a fine of $100 to $1,000, plus reimbursing the state for the damage.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "defaces, mars or injures the walls, wainscoting or any other part of any building belonging to the commonwealth, or the appurtenances thereof, by cutting, writing or otherwise"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $100 nor more than $1,000 or imprisonment for up to 2 years",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must reimburse the commonwealth for the total amount of damages incurred, in addition to any fine"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Defaces, mars or injures the walls, wainscoting or any other part of any building belonging to the commonwealth, or the appurtenances thereof, by cutting, writing or otherwise",
+     "ways": [
+      "defaces",
+      "mars",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/97": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully damaging a courthouse, jail, house of correction or other county building is punishable by up to 2 years in prison or a fine of $100 to $1,000, plus reimbursing the county.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "mars or injures the walls, wainscoting or any other part of a court house, jail or house of correction, or of any other building or room used for county business, or the appurtenances thereof, by cutting, writing or otherwise"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment for up to 2 years or a fine of not less than $100 nor more than $1,000",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must reimburse the county for the total amount of damage incurred, in addition to any fine"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Mars or injures the walls, wainscoting or any other part of a court house, jail or house of correction, or of any other building or room used for county business, or the appurtenances thereof, by cutting, writing or otherwise",
+     "ways": [
+      "mars",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/98": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully or wantonly damaging a school, church, or other educational or religious building, its grounds or its property is punishable by up to 2 years in prison and a $1,000 fine.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "destroys, defaces, mars or injures a schoolhouse, church or other building erected or used for purposes of education or religious instruction, or for the general diffusion of knowledge"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "mentalState": [
+     "Or wantonly and without cause"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000, or imprisonment for up to 2 years, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Destroys, defaces, mars or injures a schoolhouse, church or other building erected or used for purposes of education or religious instruction, or for the general diffusion of knowledge, or an outbuilding, fence, well or appurtenance of such building, or furniture, apparatus or other property belonging thereto or connected therewith",
+     "ways": [
+      "destroys",
+      "defaces",
+      "mars",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/98A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully or wantonly damaging playground equipment in a public park or playground is punishable by a fine of up to $1,000.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "destroys, defaces, mars or injures any playground apparatus or equipment located in a public park or playground"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "mentalState": [
+     "Or wantonly and without cause"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Destroys, defaces, mars or injures any playground apparatus or equipment located in a public park or playground",
+     "ways": [
+      "destroys",
+      "defaces",
+      "mars",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/99": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines \"library materials and property\" and \"library premises\" for the library theft and damage sections."
+  }
+ },
+ "266/99A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stealing library materials by concealing and removing them, wilfully not returning overdue items, borrowing with false ID or another's card, or destroying library records is a crime; the top penalty is 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "conceals on his person or among his belongings any library materials or property and removes said library materials or property",
+    "fail to return the same within thirty days from the date of such notice",
+    "giving of a false identification or fictitious name, address or place of employment",
+    "borrowing or attempting to borrow any library material or property by:",
+    "alteration or destruction of library ownership records, electronic or catalog records retained apart from or applied directly to the library materials or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Conceals on his person or among his belongings any library materials or property and removes said library materials or property",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in jail for up to 1 year or a fine of not less than $100 nor more than $1,000, or both, and an order to pay the replacement value of the library materials or property, including all reasonable processing costs",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the value of the property stolen exceeds $250",
+       "penalty": "Imprisonment in the state prison for up to 5 years, or a fine of not less than $1,000 nor more than $25,000, or both",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Fails to return library materials or property within thirty days from the date of notice that it is overdue",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person neglected to return it within the time required by the library's by-laws, rules or regulations",
+      "The person received notice from the librarian or other proper custodian that it is overdue"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person who has properly charged out library materials or property",
+     "intent": [
+      "Willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $100 nor more than $500",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Must pay the replacement value of the library materials or property, including all reasonable processing costs",
+      "Each piece of library property is a separate offense"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Gives a false identification or fictitious name, address or place of employment, or borrows or attempts to borrow any library material or property by the use of a library card issued to another without the other's consent, a library card that is revoked, canceled or expired, or a library card that is falsely made, counterfeit or materially altered",
+     "ways": [
+      "giving a false identification or fictitious name, address or place of employment",
+      "using a library card issued to another without consent",
+      "using a revoked, canceled or expired library card",
+      "using a falsely made, counterfeit or materially altered library card"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to deceive (for giving false identification)"
+     ],
+     "knowledge": [
+      "Knowing that the card is revoked, canceled or expired, or knowing that it is falsely made, counterfeit or materially altered"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not less than $100 nor more than $1,000",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Alters or destroys library ownership records, electronic or catalog records retained apart from or applied directly to the library materials or property",
+     "ways": [
+      "alteration",
+      "destruction"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willful"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for up to 5 years or a fine of not less than $1,000 nor more than $25,000, or both",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Must pay the replacement value of the library materials or property, including all reasonable processing costs"
+     ]
+    }
+   ]
+  }
+ },
+ "266/100": {
+  "review": {
+   "isOffense": true,
+   "plain": "Willfully, maliciously or wantonly damaging or destroying library materials or property is punishable by up to 2 years in a house of correction, a fine, and full restitution.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "writes upon, injures, defaces, tears, cuts, mutilates or destroys any library material or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Willfully, maliciously or wantonly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a house of correction for up to 2 years or a fine of not less than $100 nor more than $1,000, or both",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must make restitution in full replacement value of the library materials or property",
+     "A law enforcement officer may arrest without warrant on probable cause"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Writes upon, injures, defaces, tears, cuts, mutilates or destroys any library material or property",
+     "ways": [
+      "writes upon",
+      "injures",
+      "defaces",
+      "tears",
+      "cuts",
+      "mutilates",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/101": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines terms such as explosive, destructive or incendiary device, hoax device, and chemical, biological and nuclear weapon for the explosives and weapons sections that follow."
+  }
+ },
+ "266/102": {
+  "review": {
+   "isOffense": true,
+   "plain": "Possessing ingredients to make a bomb or a chemical, biological or nuclear weapon, possessing an explosive or incendiary device, or using a hoax device to cause fear is a crime; the top penalty is 20 years in state prison.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 20,
+   "acts": [
+    "has in his possession or under his control:",
+    "has in his possession or uses or places, or causes another to knowingly or unknowingly possess, use or place, any hoax explosive, hoax destructive or incendiary device or substance or any hoax chemical, biological or nuclear weapon",
+    "has in his possession or under his control any explosive or any destructive or incendiary device or substance"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)(i)",
+     "act": "Has in his possession or under his control any substance, material, article, explosive or ingredient which, alone or in combination, could be used to make a destructive or incendiary device or substance",
+     "ways": [
+      "possession",
+      "control"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority",
+      "Need not possess or control every substance, material, article, explosive or ingredient required to make a complete and functional device, substance or weapon (not a defense)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intends to make a destructive or incendiary device or substance"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years in the house of correction, or not less than 5 nor more than 10 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)(ii)",
+     "act": "Has in his possession or under his control any substance, material, article, explosive or ingredient which, alone or in combination, could be used to make a chemical, biological or nuclear weapon",
+     "ways": [
+      "possession",
+      "control"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority",
+      "Need not possess or control every substance, material, article, explosive or ingredient required to make a complete and functional device, substance or weapon (not a defense)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intends to make a chemical, biological or nuclear weapon"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years in the house of correction, or not less than 5 nor more than 10 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Has in his possession or uses or places, or causes another to knowingly or unknowingly possess, use or place, any hoax explosive, hoax destructive or incendiary device or substance or any hoax chemical, biological or nuclear weapon",
+     "ways": [
+      "possesses",
+      "uses",
+      "places",
+      "causes another to possess, use or place"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that the hoax explosive, device, substance or weapon be used to cause anxiety, unrest, fear or personal discomfort to any person or group of persons"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years in the house of correction or up to 5 years in state prison or a fine of up to $10,000, or both fine and imprisonment",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Has in his possession or under his control any explosive or any destructive or incendiary device or substance",
+     "ways": [
+      "possession",
+      "control"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 2½ years in the house of correction, or not less than 10 nor more than 20 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+       "min": null,
+       "max": 20,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/102A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Without lawful authority secreting, throwing, launching or placing an explosive or incendiary device to cause fear, to set it off, or to release a chemical, biological or nuclear weapon is punishable by up to 25 years in state prison.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 25,
+   "acts": [
+    "secretes, throws, launches or otherwise places an explosive or a destructive or incendiary device or substance"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction, or not less than 10 nor more than 25 years in state prison, or a fine of up to $25,000, or both fine and imprisonment",
+      "min": null,
+      "max": 25,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Secretes, throws, launches or otherwise places an explosive or a destructive or incendiary device or substance",
+     "ways": [
+      "secretes",
+      "throws",
+      "launches",
+      "places"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to cause fear, panic or apprehension in any person; or to ignite, explode or discharge such explosive or device or substance; or to release or discharge any chemical, biological or nuclear weapon"
+     ]
+    }
+   ]
+  }
+ },
+ "266/102B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Without lawful authority willfully setting off or exploding a destructive or incendiary device or substance is punishable by 15 to 25 years in state prison, a $50,000 fine, or both.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 25,
+   "acts": [
+    "discharges, ignites or explodes any destructive or incendiary device or substance"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Willfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 15 nor more than 25 years in state prison or a fine of $50,000, or both",
+      "min": null,
+      "max": 25,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Discharges, ignites or explodes any destructive or incendiary device or substance",
+     "ways": [
+      "discharges",
+      "ignites",
+      "explodes"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/102C": {
+  "review": {
+   "isOffense": true,
+   "plain": "Knowingly developing, producing, acquiring, possessing or using a biological, chemical or nuclear weapon or delivery system, with intent to cause death, injury or property damage, is punishable by up to 25 years in state prison.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 25,
+   "acts": [
+    "develops, produces, stockpiles, acquires, transports, possesses, controls, places, secretes or uses any biological, chemical or nuclear weapon or delivery system"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With the intent to cause death, bodily injury or property damage"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction or up to 25 years in state prison or a fine of up to $50,000, or both fine and imprisonment",
+      "min": null,
+      "max": 25,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Develops, produces, stockpiles, acquires, transports, possesses, controls, places, secretes or uses any biological, chemical or nuclear weapon or delivery system",
+     "ways": [
+      "develops",
+      "produces",
+      "stockpiles",
+      "acquires",
+      "transports",
+      "possesses",
+      "controls",
+      "places",
+      "secretes",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful authority"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/102D": {
+  "review": {
+   "isOffense": false,
+   "plain": "Requires notice of seized explosives or weapons to the state fire marshal, forfeiture on conviction, and restitution to public agencies by people convicted of the explosives and weapons offenses."
+  }
+ },
+ "266/103": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully throwing or placing acid, coal tar or other noxious or filthy substances on a house, building or vessel to damage or defile it is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "throws into, against or upon a dwelling house, office, shop or other building, or vessel, or puts or places therein or thereon oil of vitriol, coal tar or other noxious or filthy substance"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right",
+     "With intent unlawfully to injure, deface or defile such dwelling house, office, shop, building or vessel, or any property therein"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in jail or a fine of up to $300",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Throws into, against or upon a dwelling house, office, shop or other building, or vessel, or puts or places therein or thereon oil of vitriol, coal tar or other noxious or filthy substance",
+     "ways": [
+      "throws",
+      "puts",
+      "places"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/104": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right damaging or defacing a house or other building, inside or outside, is punishable by up to 2 months in prison or a $50 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.17,
+   "acts": [
+    "destroys, injures, defaces or mars a dwelling house or other building, whether upon the inside or outside"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment for up to 2 months or a fine of up to $50",
+      "min": null,
+      "max": 0.17,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Destroys, injures, defaces or mars a dwelling house or other building, whether upon the inside or outside",
+     "ways": [
+      "destroys",
+      "injures",
+      "defaces",
+      "mars"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/104A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right destroying, damaging or removing a football goal post is punishable by a fine of $50 to $200.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "destroys, injures or removes a goal post on a football field"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $50 nor more than $200",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Destroys, injures or removes a goal post on a football field",
+     "ways": [
+      "destroys",
+      "injures",
+      "removes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/104B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering an animal research facility and without authority damaging or removing its property or data, or releasing or interfering with its animals, is punishable by up to 10 years in state prison if malicious.",
+   "category": "Animals & Wildlife",
+   "maxYears": 10,
+   "acts": [
+    "enters any premises in which animals are being housed or used in research by a research institution",
+    "injures, damages, commits any trespass upon, removes or carries away any data, equipment, facility or property",
+    "injures, damages, removes, carries away, interferes with or releases any animal"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters any premises in which animals are being housed or used in research by a research institution and, without authority, injures, damages, commits any trespass upon, removes or carries away any data, equipment, facility or property or injures, damages, removes, carries away, interferes with or releases any animal",
+     "ways": [
+      "injures",
+      "damages",
+      "commits trespass upon",
+      "removes",
+      "carries away",
+      "interferes with",
+      "releases"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Malicious and wilful"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 10 years in state prison, or a fine of up to $25,000 and up to 2½ years in a jail or house of correction",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Enters any premises in which animals are being housed or used in research by a research institution and, without authority, injures, damages, commits any trespass upon, removes or carries away any data, equipment, facility or property or injures, damages, removes, carries away, interferes with or releases any animal",
+     "ways": [
+      "injures",
+      "damages",
+      "commits trespass upon",
+      "removes",
+      "carries away",
+      "interferes with",
+      "releases"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilful but not malicious"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison, or a fine of up to $10,000 and up to 2½ years in a jail or house of correction",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/105": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right pulling down or removing part of a stone wall or fence that encloses land is punishable by a fine of up to $10.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "pulls down or removes any portion of a stone wall or fence which is erected or maintained for the purpose of enclosing land"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $10",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Natural resource officers and deputy natural resource officers may arrest without a warrant any person found violating this section"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Pulls down or removes any portion of a stone wall or fence which is erected or maintained for the purpose of enclosing land",
+     "ways": [
+      "pulls down",
+      "removes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/106": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right damaging ice on waters where ice is harvested for sale, so that taking it is hindered or its value reduced, is punishable by a fine of up to $100.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "acts": [
+    "cuts, injures, mars or otherwise damages or destroys ice upon waters from which ice is or may be taken as an article of merchandise"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right or license"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Cuts, injures, mars or otherwise damages or destroys ice upon waters from which ice is or may be taken as an article of merchandise",
+     "ways": [
+      "cuts",
+      "injures",
+      "mars",
+      "damages",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [
+      "The taking of the ice is hindered or its value diminished for that purpose"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/107": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and without right damaging or destroying a public bridge or a canal lock, culvert or embankment, or breaching a canal embankment, is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "breaks down, injures, removes or destroys a public bridge, or a lock, culvert or embankment of a canal",
+    "makes an aperture or breach in such embankment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks down, injures, removes or destroys a public bridge, or a lock, culvert or embankment of a canal",
+     "ways": [
+      "breaks down",
+      "injures",
+      "removes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Makes an aperture or breach in such embankment",
+     "ways": [
+      "aperture",
+      "breach"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully, intentionally and without right",
+      "With intent to destroy or injure the same"
+     ]
+    }
+   ]
+  }
+ },
+ "266/108": {
+  "review": {
+   "isOffense": true,
+   "plain": "Destroying a ship or vessel by casting it away, burning or sinking it, to injure or defraud its owner, cargo owner or insurer, is punishable by up to 10 years in state prison plus restitution.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "casts away, burns, sinks or otherwise destroys a ship or vessel"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to injure or defraud an owner thereof, or of any property laden on board the same, or an insurer of such ship, vessel or property, or of any part thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in a jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Must make restitution to the insurer or owner for any financial loss sustained, in addition to incarceration or fine, unless the court finds the defendant indigent or that restitution would cause substantial financial hardship and makes specific written findings",
+     "The court holds an evidentiary hearing to set the amount and method of restitution and may later grant remission or modify payment",
+     "A defendant who defaults on restitution may be held in contempt unless he made a good faith effort to pay"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Casts away, burns, sinks or otherwise destroys a ship or vessel",
+     "ways": [
+      "casts away",
+      "burns",
+      "sinks",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/109": {
+  "review": {
+   "isOffense": true,
+   "plain": "Loading, equipping or fitting out a ship or vessel, or helping to, intending it be destroyed in order to injure or defraud its owner or insurer, is punishable by up to 20 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 20,
+   "acts": [
+    "lades, equips or fits out, or assists in lading, equipping or fitting out, a ship or vessel"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent that it shall be wilfully cast away, burnt, sunk or otherwise destroyed",
+     "With intent to injure or defraud an owner or insurer of such ship or vessel, or of any property laden on board the same"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison, or a fine of up to $5,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Lades, equips or fits out, or assists in lading, equipping or fitting out, a ship or vessel",
+     "ways": [
+      "lades",
+      "equips",
+      "fits out",
+      "assists in lading, equipping or fitting out"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/110": {
+  "review": {
+   "isOffense": true,
+   "plain": "A ship or cargo owner, or someone involved in loading a vessel, who makes or shows a false invoice, bill of lading or other estimate of cargo to defraud an insurer faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "makes out or exhibits, or causes to be made out or exhibited, a false or fraudulent invoice, bill of lading, bill or parcels or other false estimates of any goods or property laden or pretended to be laden on board such ship or vessel"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An owner of a ship or vessel, or of property laden or pretended to be laden on board it, or any other person concerned in the lading or fitting out of a ship or vessel",
+    "intent": [
+     "With intent to injure or defraud an insurer of such ship, vessel or property or of any part thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $5,000 and up to 2 years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes out or exhibits, or causes to be made out or exhibited, a false or fraudulent invoice, bill of lading, bill or parcels or other false estimates of any goods or property laden or pretended to be laden on board such ship or vessel",
+     "ways": [
+      "makes out",
+      "exhibits",
+      "causes to be made out",
+      "causes to be exhibited"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/111": {
+  "review": {
+   "isOffense": true,
+   "plain": "A ship's master, officer or mariner who makes or swears to a false affidavit or protest, or an owner who procures or exhibits one, to defraud an insurer faces up to 10 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 10,
+   "acts": [
+    "makes or causes to be made or swears to a false affidavit or protest",
+    "procures such false affidavit or protest to be made, or exhibits the same"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "With intent to injure, deceive or defraud an insurer of such ship or vessel, or of any goods or property laden on board the same"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $5,000 and up to 2 years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes or causes to be made or swears to a false affidavit or protest",
+     "ways": [
+      "makes",
+      "causes to be made",
+      "swears to"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A master, officer or mariner of a ship or vessel"
+    },
+    {
+     "where": "",
+     "act": "Procures such false affidavit or protest to be made, or exhibits the same",
+     "ways": [
+      "procures",
+      "exhibits"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "An owner of or other person concerned in such ship or vessel, or the owner of or person concerned in the goods or property laden on board"
+    }
+   ]
+  }
+ },
+ "266/111A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Presenting, or making or preparing for presentation, a document with a false or fraudulent material statement in support of an insurance claim, with intent to defraud the insurer, is punishable by up to 5 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "presents to it, or aids or abets in or procures the presentation to it of, any notice, statement, proof of loss, bill of lading, bill of parcels, invoice, schedule, account or other written document",
+    "makes, prepares or subscribes, or aids or abets in or procures the making, preparation or subscription of, any such notice, statement, proof of loss, bill of lading, bill of parcels, invoice, schedule, account or other written document"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to injure, defraud or deceive such company"
+    ],
+    "knowledge": [
+     "Knowing that the document contains any false or fraudulent statement or representation of any fact or thing material to such claim"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or not less than 6 months nor more than 2½ years in jail, or a fine of not less than $500 nor more than $10,000, or both such fine and imprisonment in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"company\": as defined in section one of chapter one hundred and seventy-five"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Presents to an insurance company, or aids or abets in or procures the presentation to it of, any notice, statement, proof of loss, bill of lading, bill of parcels, invoice, schedule, account or other written document, in connection with or in support of any claim under any policy of insurance",
+     "ways": [
+      "presents",
+      "aids or abets in the presentation",
+      "procures the presentation"
+     ],
+     "tags": [],
+     "conditions": [
+      "Whether or not the document is under oath or is required or authorized by law or by the terms of the policy"
+     ],
+     "exceptions": [
+      "Except as provided in section one hundred and ten or one hundred and eleven"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Makes, prepares or subscribes, or aids or abets in or procures the making, preparation or subscription of, any notice, statement, proof of loss, bill of lading, bill of parcels, invoice, schedule, account or other written document intended to be presented to such company in connection with or in support of any claim under such policy",
+     "ways": [
+      "makes",
+      "prepares",
+      "subscribes",
+      "aids or abets",
+      "procures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in section one hundred and ten or one hundred and eleven"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}

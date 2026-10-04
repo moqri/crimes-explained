@@ -1,0 +1,1611 @@
+{
+ "266/1": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously burning a dwelling house, or a building next to one or whose burning burns one, or helping do so, is punishable by up to 20 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 20,
+   "acts": [
+    "sets fire to, burns, or causes to be burned",
+    "aids, counsels or procures the burning of, a dwelling house"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "terms": [
+     "\"Dwelling house\": all buildings used as dwellings such as apartment houses, tenement houses, hotels, boarding houses, dormitories, hospitals, institutions, sanatoria, or other buildings where persons are domiciled"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison, or up to 2½ years in a jail or house of correction, or a fine of up to $10,000, or both such fine and imprisonment",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets fire to, burns, or causes to be burned, or aids, counsels or procures the burning of, a dwelling house, or a building adjoining or adjacent to a dwelling house, or a building by the burning whereof a dwelling house is burned",
+     "ways": [
+      "sets fire to",
+      "burns",
+      "causes to be burned",
+      "aids, counsels or procures the burning of"
+     ],
+     "tags": [],
+     "conditions": [
+      "Applies whether the dwelling house or other building is the property of himself or another",
+      "Applies whether the same is occupied or unoccupied"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/2": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously burning a church, public building, business building, vessel, vehicle, bridge, or other building or structure not a dwelling, or helping do so, is punishable by up to 10 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "sets fire to, burns, or causes to be burned",
+    "aids, counsels or procures the burning of, a meeting house"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets fire to, burns, or causes to be burned, or aids, counsels or procures the burning of, a meeting house, church, court house, town house, college, academy, jail or other building erected for public use, or a banking house, warehouse, store, manufactory, mill, barn, stable, shop, outhouse or other building, or an office building, lumber yard, ship, vessel, street car or railway car, or a bridge, lock, dam, flume, tank, or any building or structure or contents thereof",
+     "ways": [
+      "sets fire to",
+      "burns",
+      "causes to be burned",
+      "aids, counsels or procures the burning of"
+     ],
+     "tags": [],
+     "conditions": [
+      "The building or structure is not included or described in the preceding section",
+      "Applies whether the same is the property of himself or of another",
+      "Applies whether occupied, unoccupied or vacant"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/5": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously burning wood, lumber, crops, trees, fences, another's personal property worth over $25, or any boat or motor vehicle, or helping do so, is punishable by up to 3 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "acts": [
+    "sets fire to, or burns or otherwise destroys or injures by burning, or causes to be burned or otherwise so destroyed or injured",
+    "aids, counsels or procures the burning of, a pile or parcel of wood"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "terms": [
+     "\"Motor vehicle\": as defined in section one of chapter ninety"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 3 years in state prison, or a fine of up to $500 and up to 1 year in a jail or house of correction",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets fire to, or burns or otherwise destroys or injures by burning, or causes to be burned or otherwise so destroyed or injured, or aids, counsels or procures the burning of, a pile or parcel of wood, boards, timber or other lumber, any fence, bars or gate, a stack of grain, hay or other vegetable product, any vegetable product severed from the soil and not stacked, any standing tree, grain, grass or other standing product of the soil, or the soil itself, or any personal property of another exceeding a value of twenty-five dollars, or any boat, motor vehicle or other conveyance",
+     "ways": [
+      "sets fire to",
+      "burns",
+      "otherwise destroys or injures by burning",
+      "causes to be burned or otherwise so destroyed or injured",
+      "aids, counsels or procures the burning of"
+     ],
+     "tags": [],
+     "conditions": [
+      "Personal property must be of another and exceed a value of twenty-five dollars",
+      "A boat, motor vehicle or other conveyance may be of himself or another"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/5A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wilfully and maliciously attempting to burn any building, structure or property covered by the preceding arson sections, helping in the attempt, or doing any preliminary act, is punishable by up to 10 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "attempts to set fire to, or attempts to burn",
+    "aids, counsels or assists in such an attempt to set fire to or burn",
+    "commits any act preliminary thereto or in furtherance thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "terms": [
+     "\"Attempt to burn\": the placing or distributing of any flammable, explosive or combustible material or substance or any device in or against any building, structure or property mentioned in the foregoing sections in an arrangement or preparation with intent eventually to wilfully and maliciously set fire to or burn it, or to procure the setting fire to or burning of the same"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or up to 2½ years in a jail or house of correction, or a fine of up to $1,000",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Attempts to set fire to, or attempts to burn, or aids, counsels or assists in such an attempt to set fire to or burn, any of the buildings, structures or property mentioned in the foregoing sections, or commits any act preliminary thereto or in furtherance thereof",
+     "ways": [
+      "attempts to set fire to",
+      "attempts to burn",
+      "aids, counsels or assists in such an attempt",
+      "commits any act preliminary thereto or in furtherance thereof"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "The target is a building, structure or property mentioned in the foregoing sections"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/7": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wantonly or recklessly setting or increasing a fire that injures or destroys another's growing or standing wood is punishable by up to 2 years of imprisonment or a $1,000 fine.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "setting fire to any material, or by increasing a fire already set, causes injury to, or the destruction of, any growing or standing wood of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "mentalState": [
+     "Wantonly or recklessly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 2 years of imprisonment",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "By setting fire to any material, or by increasing a fire already set, causes injury to, or the destruction of, any growing or standing wood of another",
+     "ways": [
+      "setting fire to any material",
+      "increasing a fire already set"
+     ],
+     "tags": [],
+     "conditions": [
+      "Injury to or destruction of growing or standing wood of another results"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/8": {
+  "review": {
+   "isOffense": true,
+   "plain": "Setting or increasing a fire on another's land that injures another's property, or letting a fire on your own land spread and injure others' property, is punishable by up to 2 years of imprisonment or a $1,000 fine.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "sets or increases a fire upon land of another whereby the property of another is injured",
+    "suffers any fire upon his own land to extend beyond the limits thereof whereby the woods or property of another are injured"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or up to 2 years of imprisonment",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "The town where the fire occurred may recover in an action of tort, brought within two years after the cause of action accrues, the expense of extinguishing the fire"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets or increases a fire upon land of another whereby the property of another is injured",
+     "ways": [
+      "sets",
+      "increases"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property of another is injured"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person not being a tenant of the land"
+    },
+    {
+     "where": "",
+     "act": "Suffers any fire upon his own land to extend beyond the limits thereof whereby the woods or property of another are injured",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The woods or property of another are injured"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": null,
+     "mentalState": [
+      "Negligently or wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "266/9": {
+  "review": {
+   "isOffense": true,
+   "plain": "In towns that accept it, failing to put out a fire you set on another's land, or wilfully or negligently setting or letting fires escape that endanger or injure property, is punishable by up to 1 month in jail and a $100 fine.",
+   "category": "Property Crimes",
+   "maxYears": 0.08,
+   "acts": [
+    "sets a fire on land which is not owned or controlled by him and before leaving the same neglects to entirely extinguish such fire",
+    "sets a fire on land which is not owned or controlled by him whereby property is endangered or injured",
+    "suffers a fire upon his own land to escape beyond the limits thereof to the injury of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 1 month in jail, or both",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Liable for all damages caused thereby",
+     "The fine is equally divided between the complainant and the town"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets a fire on land which is not owned or controlled by him and before leaving the same neglects to entirely extinguish such fire",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The fire is in a town which accepts this section or has accepted corresponding provisions of earlier laws"
+     ],
+     "exceptions": [
+      "This section shall not apply to cities"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Sets a fire on land which is not owned or controlled by him whereby property is endangered or injured",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The fire is in a town which accepts this section or has accepted corresponding provisions of earlier laws",
+      "Property is endangered or injured"
+     ],
+     "exceptions": [
+      "This section shall not apply to cities"
+     ],
+     "defenses": [],
+     "mentalState": [
+      "Wilfully or negligently"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Suffers a fire upon his own land to escape beyond the limits thereof to the injury of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The fire is in a town which accepts this section or has accepted corresponding provisions of earlier laws",
+      "Another is injured"
+     ],
+     "exceptions": [
+      "This section shall not apply to cities"
+     ],
+     "defenses": [],
+     "mentalState": [
+      "Wilfully or negligently"
+     ]
+    }
+   ]
+  }
+ },
+ "266/10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Setting fire to, attempting to burn, or helping burn an insured building or goods, wilfully and with intent to defraud or injure the insurer, is punishable by up to 5 years in state prison.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "sets fire to, or attempts to set fire to",
+    "causes to be burned",
+    "aids, counsels or procures the burning of, a building"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully",
+     "With intent to defraud or injure the insurer"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets fire to, or attempts to set fire to, or causes to be burned, or aids, counsels or procures the burning of, a building, or any goods, wares, merchandise or other chattels, belonging to himself or another",
+     "ways": [
+      "sets fire to",
+      "attempts to set fire to",
+      "causes to be burned",
+      "aids, counsels or procures the burning of"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "The property is at the time insured against loss or damage by fire"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/11": {
+  "review": {
+   "isOffense": true,
+   "plain": "Within 24 hours before a fire, wilfully and without right disabling a nearby fire alarm system or damaging fire engines, hose or apparatus is punishable by up to 2 years of imprisonment or a $500 fine.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "cuts or removes a bell rope or a wire or conduit connected with a fire alarm signal system or injures or disables any fire alarm signal box or any part of such system in the vicinity of such building or property",
+    "cuts, injures or destroys an engine, hose or other fire apparatus in said vicinity"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully, intentionally and without right"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 2 years of imprisonment",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Cuts or removes a bell rope or a wire or conduit connected with a fire alarm signal system or injures or disables any fire alarm signal box or any part of such system in the vicinity of such building or property",
+     "ways": [
+      "cuts or removes a bell rope, wire or conduit",
+      "injures or disables any fire alarm signal box or part of the system"
+     ],
+     "tags": [],
+     "conditions": [
+      "Within twenty-four hours prior to the burning of a building or other property"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Cuts, injures or destroys an engine, hose or other fire apparatus in said vicinity",
+     "ways": [
+      "cuts",
+      "injures",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Within twenty-four hours prior to the burning of a building or other property"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/12": {
+  "review": {
+   "isOffense": true,
+   "plain": "During a fire, wilfully and maliciously disabling a fire alarm system, preventing an alarm, damaging fire apparatus, or obstructing putting out the fire is punishable by up to 7 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 7,
+   "acts": [
+    "cuts or removes a bell rope or a wire or conduit connected with a fire alarm signal system or injures or disables any fire alarm signal box or any part of such system in the vicinity of such building or property, or otherwise prevents an alarm being given",
+    "cuts, injures or destroys an engine, hose or other fire apparatus, in said vicinity, or otherwise wilfully and maliciously prevents or obstructs the extinction of a fire"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 7 years in state prison, or up to 2½ years in jail, or a fine of up to $1,000",
+      "min": null,
+      "max": 7,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Cuts or removes a bell rope or a wire or conduit connected with a fire alarm signal system or injures or disables any fire alarm signal box or any part of such system in the vicinity of such building or property, or otherwise prevents an alarm being given",
+     "ways": [
+      "cuts or removes a bell rope, wire or conduit",
+      "injures or disables any fire alarm signal box or part of the system",
+      "otherwise prevents an alarm being given"
+     ],
+     "tags": [],
+     "conditions": [
+      "During the burning of a building or other property"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Cuts, injures or destroys an engine, hose or other fire apparatus, in said vicinity, or otherwise prevents or obstructs the extinction of a fire",
+     "ways": [
+      "cuts, injures or destroys fire apparatus",
+      "otherwise prevents or obstructs the extinction of a fire"
+     ],
+     "tags": [],
+     "conditions": [
+      "During the burning of a building or other property"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/13": {
+  "review": {
+   "isOffense": true,
+   "plain": "Wantonly or maliciously injuring a fire engine or other fire apparatus is punishable by up to 2 years of imprisonment or a $500 fine, plus a court-ordered good-behavior bond.",
+   "category": "Property Crimes",
+   "maxYears": 2,
+   "acts": [
+    "injures a fire engine or other fire apparatus"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wantonly or maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to 2 years of imprisonment",
+      "min": null,
+      "max": 2,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Ordered to recognize with sufficient surety or sureties for good behavior during such term as the court shall order"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Injures a fire engine or other fire apparatus",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/13A": {
+  "review": {
+   "isOffense": true,
+   "plain": "A hotel manager, or whoever is in charge, who fails to notify the fire department of a fire and sound the required alarm when it threatens guest rooms can get up to 2½ years in jail.",
+   "category": "Courts & Justice",
+   "maxYears": 2.5,
+   "acts": [
+    "notify the fire department",
+    "sound the alarm system required by the state building code"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "The manager of a hotel or family hotel, or such other person as may be in charge of the premises in the absence of the manager",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a jail or house of correction or a fine of up to $1,000",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fails to notify the fire department as soon as he becomes aware that there is a fire therein",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "There is a fire in the hotel",
+      "He is aware of the fire"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Fails to sound the alarm system required by the state building code",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The fire, or heat, smoke or gas therefrom, threatens to spread to rooms occupied by guests"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/14": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking into a dwelling at night to commit a felony while someone is lawfully inside and the burglar is armed or assaults someone is punishable by up to life, with at least 10 years (15 if armed with a firearm).",
+   "category": "Property Crimes",
+   "maxYears": 999,
+   "acts": [
+    "breaks and enters a dwelling house in the night time",
+    "after having entered with such intent, breaks such dwelling house in the night time"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit a felony"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks and enters a dwelling house in the night time, or, after having entered, breaks such dwelling house in the night time",
+     "ways": [
+      "breaks and enters",
+      "after having entered, breaks"
+     ],
+     "tags": [],
+     "conditions": [
+      "Any person is then lawfully therein",
+      "The offender is armed with a dangerous weapon at the time of the breaking or entry, or so arms himself in the house, or makes an actual assault on a person lawfully therein"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Life or any term of not less than 10 years in state prison",
+       "min": 10,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      },
+      {
+       "if": "the person, after being convicted of any offence mentioned in this section, commits the like offence or any other of the offences therein mentioned",
+       "penalty": "No suspension of sentence or probation",
+       "min": 10,
+       "max": 999,
+       "flags": [
+        "mandatory minimum",
+        "no probation"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Commits any offense described in this section while armed with a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The offender is armed with a firearm"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"Firearm\": as defined in section 121 of chapter 140"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Life or any term of years in state prison, but not less than 15 years",
+       "min": 15,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      },
+      {
+       "if": "the person commits a subsequent such offense",
+       "penalty": "Life or any term of years in state prison, but not less than 20 years; sentence shall not be suspended, nor shall he be placed on probation",
+       "min": 20,
+       "max": 999,
+       "flags": [
+        "mandatory minimum",
+        "no probation"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking into a dwelling at night with intent to commit a felony, without being armed or assaulting anyone, is punishable by up to 20 years in state prison, with at least 5 years for repeat offenders.",
+   "category": "Property Crimes",
+   "maxYears": 20,
+   "acts": [
+    "breaks and enters a dwelling house in the night time",
+    "having entered with such intent, breaks such dwelling house in the night time"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent mentioned in the preceding section"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the person has been previously convicted of any crime named in this or the preceding section",
+      "penalty": "Not less than 5 years and up to 20 years in state prison",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks and enters a dwelling house in the night time, or, having entered, breaks such dwelling house in the night time",
+     "ways": [
+      "breaks and enters",
+      "having entered, breaks"
+     ],
+     "tags": [],
+     "conditions": [
+      "The offender is not armed, nor arming himself in the house, with a dangerous weapon",
+      "The offender does not make an assault upon a person lawfully therein"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/16": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking into a building, ship or vehicle at night to commit a felony, or breaking or blowing open a safe or vault to commit larceny or a felony, is punishable by up to 20 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 20,
+   "acts": [
+    "breaks and enters a building, ship, vessel or vehicle",
+    "attempts to or does break, burn, blow up or otherwise injures or destroys a safe, vault or other depository of money, bonds or other valuables in any building, vehicle or place"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks and enters a building, ship, vessel or vehicle in the night time",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the night time"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to commit a felony"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Attempts to or does break, burn, blow up or otherwise injure or destroy a safe, vault or other depository of money, bonds or other valuables in any building, vehicle or place",
+     "ways": [
+      "break",
+      "burn",
+      "blow up",
+      "otherwise injure or destroy"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "Applies whether he succeeds or fails in the perpetration of the larceny or felony"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to commit a larceny or felony"
+     ]
+    }
+   ]
+  }
+ },
+ "266/16A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking and entering a building, ship, vessel or vehicle, day or night, with intent to commit a misdemeanor is punishable by up to 6 months of imprisonment, a $200 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "breaks and enters a building, ship, vessel or vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit a misdemeanor"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $200 or up to 6 months of imprisonment, or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks and enters a building, ship, vessel or vehicle in the nighttime or daytime",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/17": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering a building, ship or vehicle at night without breaking, or breaking in by day, to commit a felony while putting someone inside in fear is punishable by up to 10 years in state prison; with a firearm, at least 7 years.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "enters without breaking, or breaks and enters in the day time, a building, ship, vessel, or vehicle",
+    "commits any offense described in this section while armed with a firearm"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit a felony"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "In the night time, enters without breaking, or breaks and enters in the day time, a building, ship, vessel, or vehicle",
+     "ways": [
+      "enters without breaking in the night time",
+      "breaks and enters in the day time"
+     ],
+     "tags": [],
+     "conditions": [
+      "The owner or any other person lawfully therein is put in fear"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 10 years in state prison",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Commits any offense described in this section while armed with a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The owner or any other person lawfully therein is put in fear",
+      "The offender is armed with a firearm"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"Firearm\": as defined in section 121 of chapter 140"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Not less than 7 years in state prison, or not less than 2 years nor more than 2½ years in the house of correction",
+       "min": 2,
+       "max": null,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/18": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering a dwelling at night without breaking, or breaking into a building, ship, vessel or motor vehicle by day, to commit a felony is punishable by up to 10 years in state prison; with a firearm, at least 7 years.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "enters a dwelling house without breaking, or breaks and enters in the day time a building, ship or motor vehicle or vessel",
+    "commits any offense described in this section while armed with a firearm"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit a felony"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "In the night time, enters a dwelling house without breaking, or breaks and enters in the day time a building, ship or motor vehicle or vessel",
+     "ways": [
+      "enters a dwelling house without breaking in the night time",
+      "breaks and enters in the day time"
+     ],
+     "tags": [],
+     "conditions": [
+      "No person lawfully therein is put in fear"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 10 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Commits any offense described in this section while armed with a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The offender is armed with a firearm"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"Firearm\": as defined in section 121 of chapter 140"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Not less than 7 years in state prison, or not less than 2 years nor more than 2½ years in the house of correction",
+       "min": 2,
+       "max": null,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/18A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Entering a dwelling by false pretenses, without breaking, to commit a felony, or entering that way and then committing larceny, without putting anyone in fear, is punishable by up to 10 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "enters a dwelling house by false pretenses, without breaking",
+    "after having entered, commits a larceny"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $5,000 and up to 2 years in a house of correction, or both such fine and imprisonment",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters a dwelling house by false pretenses, without breaking",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "No person lawfully therein is put in fear"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to commit a felony"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Enters a dwelling house by false pretenses, without breaking and, after having entered, commits a larceny",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "No person lawfully therein is put in fear"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"Larceny\": as defined by section 30 of chapter 266"
+     ]
+    }
+   ]
+  }
+ },
+ "266/19": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking and entering a railroad car, or entering one at night without breaking, with intent to commit a felony is punishable by up to 10 years in state prison.",
+   "category": "Transportation & Aviation",
+   "maxYears": 10,
+   "acts": [
+    "breaks and enters, or enters in the night time without breaking, a railroad car"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit a felony"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $500 and up to 2 years in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks and enters, or enters in the night time without breaking, a railroad car",
+     "ways": [
+      "breaks and enters",
+      "enters in the night time without breaking"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/20": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stealing in a building, ship, vessel or railroad car is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "steals in a building, ship, vessel or railroad car"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500, or up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals in a building, ship, vessel or railroad car",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/20A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking and entering, or entering without breaking, a truck, tractor-trailer, trailer, semi-trailer or freight container to commit a felony is punishable by up to 10 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 10,
+   "acts": [
+    "breaks and enters, or enters without breaking, a truck, tractor/trailer unit, trailer, semi-trailer or freight container"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit a felony"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $500 and up to 2 years in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks and enters, or enters without breaking, a truck, tractor/trailer unit, trailer, semi-trailer or freight container",
+     "ways": [
+      "breaks and enters",
+      "enters without breaking"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/20B": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stealing in a truck, tractor-trailer, trailer, semi-trailer or freight container is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "steals in a truck, tractor/trailer unit, trailer, semi-trailer or freight container"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500, or up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals in a truck, tractor/trailer unit, trailer, semi-trailer or freight container",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/21": {
+  "review": {
+   "isOffense": true,
+   "plain": "A person convicted of burglary, robbery, or related break-in crimes who keeps property taken in the crime and refuses the owner's request to return it can get up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "has in his possession or control money, goods, bonds or bank notes, or any paper of value, or any property of another",
+    "refuses or fails so to do while having power to deliver the same"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who has been convicted, either as principal or accessory, of burglary or robbery, or of any of the crimes described in sections seventeen to twenty, inclusive, of chapter two hundred and sixty-five, or of breaking and entering or of entering a building with intent to commit robbery or larceny",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2 years in jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Has in his possession or control money, goods, bonds or bank notes, or any paper of value, or any property of another, obtained or taken by means of such crime, and refuses or fails to deliver it to the lawful owner upon request",
+     "ways": [
+      "refuses",
+      "fails"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property was obtained or taken by means of such crime",
+      "The lawful owner requested delivery",
+      "The person has power to deliver the same"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/22": {
+  "review": {
+   "isOffense": true,
+   "plain": "Breaking or entering, or entering at night without breaking, a building or enclosure holding live poultry to commit larceny is punishable by up to 3 years in state prison; the owner may detain the offender up to 24 hours.",
+   "category": "Animals & Wildlife",
+   "maxYears": 3,
+   "acts": [
+    "breaks or enters or enters in the night without breaking any building or enclosure wherein is kept or confined any kind of live poultry"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to commit larceny"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 3 years in state prison, or a fine of up to $500 and up to 2 years in the house of correction",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "May be detained or kept in custody in a convenient place by the owner of the poultry, or by his agent or employee, for not more than twenty-four hours, Sunday excepted, until a complaint can be made and he be taken upon a warrant"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks or enters, or enters in the night without breaking, any building or enclosure wherein is kept or confined any kind of live poultry",
+     "ways": [
+      "breaks",
+      "enters",
+      "enters in the night without breaking"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/23": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stealing, carrying away or hiding belongings of people whose buildings are on fire or endangered, and not returning them or giving notice within two days, is larceny; the penalty is not set in this section.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "steals, conveys away or conceals any furniture, goods, chattels, merchandise or effects of persons whose houses or buildings are on fire or are endangered thereby",
+    "does not, within two days thereafter, restore the same or give notice of his possession thereof to the owner"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of larceny; the penalty is not set in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals, conveys away or conceals any furniture, goods, chattels, merchandise or effects of persons whose houses or buildings are on fire or are endangered thereby, and does not, within two days thereafter, restore the same or give notice of his possession",
+     "ways": [
+      "steals",
+      "conveys away",
+      "conceals"
+     ],
+     "tags": [],
+     "conditions": [
+      "The owner's house or building is on fire or endangered thereby",
+      "Within two days he does not restore the property or give notice of his possession to the owner, if known, or, if unknown, to the mayor or one of the aldermen, selectmen or firewards of the place"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/24": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stealing in a building that is on fire, or stealing property removed because of a fire alarm, is punishable by up to 5 years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "steals in a building which is on fire",
+    "steals property which has been removed in consequence of an alarm caused by fire"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $500 and up to 2 years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals in a building which is on fire, or steals property which has been removed in consequence of an alarm caused by fire",
+     "ways": [
+      "steals in a building on fire",
+      "steals property removed in consequence of a fire alarm"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Larceny from the person (pickpocketing, purse-snatching) is punishable by up to 5 years in state prison; repeat thefts from people 65 or older carry at least 2 years.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "acts": [
+    "commits larceny by stealing from the person of a person sixty-five years or older",
+    "commits larceny by stealing from the person of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits larceny by stealing from the person of a person sixty-five years or older",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is sixty-five years or older"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison or up to 2½ years in jail",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior conviction for this crime",
+       "penalty": "Not less than 2 years of imprisonment; not reduced, and no probation, parole, furlough, work release or good-conduct deduction, until one year has been served",
+       "min": 2,
+       "max": null,
+       "flags": [
+        "mandatory minimum",
+        "no parole",
+        "no probation"
+       ]
+      }
+     ],
+     "consequences": [
+      "On a second or subsequent offense, the commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+      "The provisions of section eighty-seven of chapter two hundred and seventy-six relating to probation shall not apply to any person seventeen years of age or over charged with a violation of this subsection"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits larceny by stealing from the person of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Up to 5 years in state prison or up to 2½ years in jail",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "266/27": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stealing a contractor's, builder's or mechanic's tool from a building under construction or repair is punishable by up to 6 months of imprisonment, a $100 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "steals any tool belonging to any contractor, builder or mechanic from any building during the course of its construction, completion, alteration or repair"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or up to 6 months of imprisonment, or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "A fine of $100 or imprisonment for 6 months, or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals any tool belonging to any contractor, builder or mechanic from any building during the course of its construction, completion, alteration or repair",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "266/27A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Removing or hiding an insured motor vehicle or trailer, or helping do so, with intent to defraud the insurer is punishable by up to 5 years in state prison, a $500-$5,000 fine, and restitution.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "acts": [
+    "removes or conceals a motor vehicle or trailer belonging to himself or another",
+    "aids or abets in such removal or concealment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to defraud the insurer"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or not less than 1 year nor more than 2½ years in jail or house of correction, and a fine of not less than $500 nor more than $5,000",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Sentence shall not be reduced to less than one year, nor suspended or reduced until one year has been served; not eligible for probation, parole, furlough or work release",
+      "min": 1,
+      "max": 5,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Ordered to make restitution to the insurer for any financial loss sustained, after an evidentiary hearing on damages, in addition to incarceration or fine; restitution shall not be ordered to a party aggrieved without that party's consent",
+     "Whenever possible, the fine shall equal twice the amount of damages or financial loss suffered",
+     "A defendant who defaults on restitution shall be held in contempt unless he made a good faith effort to pay",
+     "A prosecution shall not be placed on file, or continued without a finding",
+     "On a second or subsequent offense, the commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes or conceals a motor vehicle or trailer belonging to himself or another, or aids or abets in such removal or concealment",
+     "ways": [
+      "removes",
+      "conceals",
+      "aids or abets in such removal or concealment"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicle or trailer is at the time insured against theft"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}
