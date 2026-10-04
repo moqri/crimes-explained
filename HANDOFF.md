@@ -1,53 +1,42 @@
-# Handoff: continuing Crime Code
+# Handoff: continuing Crimes Explained
 
 Notes for picking this project up in a new Claude Code session or account. Read this first, then `README.md` (files and build commands).
 
-- **Live site:** https://moqri.github.io/us-crimes-explained/ (federal) and https://moqri.github.io/us-crimes-explained/ma/ (Massachusetts)
-- **Repo:** https://github.com/moqri/us-crimes-explained (public, GitHub Pages from `main`, root folder)
-- **Local copy:** `/Users/mahdimoqri/ai/usc18` (the parent folder `/Users/mahdimoqri/ai` holds an unrelated hello-world `index.html` from the very start)
-- **State as of 2026-10-04:** everything below is committed and pushed. Nothing is running (no local server, no agents).
+- **Live site:** https://moqri.github.io/crimes-explained/ (Federal) and https://moqri.github.io/crimes-explained/ma/ (MA)
+- **Repo:** https://github.com/moqri/crimes-explained (public, GitHub Pages from `main`, root folder)
+- **Local copy:** `/Users/mahdimoqri/ai/usc18` (the parent folder `/Users/mahdimoqri/ai` is otherwise empty)
+- **State as of 2026-10-04:** everything is committed and pushed. Nothing is running except possibly a local server.
 
 ## What the site is
 
-"Crime Code": every crime in a criminal code, as official text, annotated and linked, with each crime broken into its elements.
+"Crimes Explained": every crime in a criminal code, as official text, annotated and linked, with each crime broken into its elements. Page titles are "Crimes Explained: Federal" and "Crimes Explained: MA"; the switch at the top of the list pages says Federal / MA.
 
 - **Federal:** Title 18, Part I of the U.S. Code (GovInfo 2024 edition, current through Jan. 6, 2025): 710 sections, 1,731 crimes. List page `index.html`, one page per section `18/<section>.html`.
-- **Massachusetts:** General Laws chapter 265 (Crimes Against the Person), official text from the Legislature's API: 83 sections, 153 crimes. List page `ma/index.html` (generated), section pages `ma/<chapter>/<section>.html`.
-- Both list pages have a Federal / Massachusetts switch at the top.
+- **Massachusetts:** General Laws chapters 265 (Crimes Against the Person), 266 (Crimes Against Property) and 268 (Crimes Against Public Justice); official text from the Legislature's API: 317 sections, 569 crimes (265: 83/153, 266: 187/336, 268: 47/80). List page `ma/index.html` (generated), section pages `ma/<chapter>/<section>.html`.
+- Each section page ends with a "Simplified explanation" box (the section's plain-English summary; there is no per-crime summary).
+- The list pages keep search and filters in the URL (`?q=&chapter=&type=&penalty=&sort=&text=0`).
 
 ## How to build and preview
 
-The page builder renders with headless Chrome against a local server, so start one first:
+The page builder renders with headless Chrome against a local server, so start one first, **from inside `usc18`**:
 
 ```sh
 cd /Users/mahdimoqri/ai/usc18 && python3 -m http.server 8000     # serves http://localhost:8000/
 ```
 
 Federal: `python3 build_data.py` then `python3 build_pages.py`.
-Massachusetts: `python3 ma/fetch_ma.py <chapters…>`, `python3 ma/build_ma.py`, then `python3 build_pages.py --jur ma`.
+Massachusetts: `python3 ma/fetch_ma.py <chapters…>`, then review (below), `python3 ma/build_ma.py`, then `python3 build_pages.py --jur ma`.
 Run `build_pages.py` for both jurisdictions after any change to `index.html` (it also rewrites `assets/site.css`, `assets/page.js`, `sitemap.xml`).
 
 Key design: **`index.html` is the single source** of styles and rendering code for both jurisdictions. The page sets `data-jur="ma"` for Massachusetts; `build_pages.py --jur ma` writes `ma/index.html` from `index.html`, swapping the regions marked `<!-- jur:nav|lede|about|footer -->`. Shared Python text helpers are in `textlib.py`.
 
-## In progress: Massachusetts chapter 266 (Crimes Against Property)
+## Adding a Massachusetts chapter (the workflow used for 266 and 268)
 
-- `ma/raw/266.json` is downloaded (222 sections, 212 in force).
-- **122 of 212 sections are reviewed** and already merged into `ma/plain.json` and `ma/elements.json` (outputs saved in `review/ma/266/`: `out_04`, `out_08`, `out_b1`, `out_b4`, `out_b6`). 266/148 is excluded as not a crime.
-- **90 sections still need review.** Run `python3 ma/build_ma.py --batches <dir>`: it writes only the unreviewed ones (about 3 batches of 30).
-- `ma/crimes.json` and the pages have **not** been rebuilt since, so the live site still shows only chapter 265. `ma/build_ma.py` leaves unreviewed sections out, so rebuilding at any point is safe.
-- Agents were stopped twice to save the user's usage limit; launch a few at a time and ask before launching many.
-
-To finish it:
-
-1. Merge new outputs with `python3 ma/merge_review.py review/ma/266/out_*.json` (it already forces 266/148 to not-a-crime).
-2. `python3 ma/build_ma.py --batches <dir>` writes the remaining unreviewed sections in batches of 30.
-3. Run one review agent per batch with `review/ma/INSTRUCTIONS.md`; each validates with `python3 review/ma/validate.py <in> <out>` until it prints OK.
-4. Merge, `python3 ma/build_ma.py`, `python3 build_pages.py --jur ma`, then check links (every `xref` link on `ma/*/*.html`: internal targets exist, external return 200) and skim a few pages.
-5. The header lists included chapters automatically (from `ma/crimes.json`).
-
-Also pending from this step: chapter titles now capitalize "Against" ("Crimes Against the Person"); the change is in `ma/build_ma.py` but the published data and pages still say "against" until the next Massachusetts rebuild.
-
-Judgment calls the chapter 266 agents flagged (worth a look): 266/75 ("as in the case of larceny" penalty, max unknown), 266/75C (which crime the exception covers), 266/76 (common-law "gross fraud or cheat"), 266/78 (split into two crimes), 266/87 (intent applied to all three acts), 266/89 (three crimes), 266/147 (tiers mixing item count, value, and prior offenses).
+1. `python3 ma/fetch_ma.py <chapter>` downloads `ma/raw/<chapter>.json`.
+2. `mkdir -p review/ma/<chapter> && python3 ma/build_ma.py --batches review/ma/<chapter>` writes `in_01.json …` (batches of 30 unreviewed sections).
+3. One review agent per batch, run one at a time (they use a lot of the user's usage limit; ask before launching many). Each follows `review/ma/INSTRUCTIONS.md` and validates with `python3 review/ma/validate.py <in> <out>` until it prints OK.
+4. `python3 ma/merge_review.py review/ma/<chapter>/out_*.json`, then `python3 ma/build_ma.py` and `python3 build_pages.py --jur ma`. Check links (internal targets exist, external return 200); add cited sections that no longer exist to `MA_DEAD` in `index.html`.
+5. `build_ma.py` leaves unreviewed sections out, so rebuilding at any point is safe. The header lists included chapters automatically.
 
 ## The user's rules and preferences (follow these)
 
@@ -79,18 +68,19 @@ List page
 
 Working style
 - The user writes short, fast messages; interpret generously and act. Ask only when genuinely ambiguous.
-- Commits: author `Mahdi Moqri <4342458+moqri@users.noreply.github.com>` (GitHub noreply; never the personal email), message ends with `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`. The user usually says "push" explicitly; ask before pushing otherwise.
+- Commits: author `Mahdi Moqri <4342458+moqri@users.noreply.github.com>` (GitHub noreply; never the personal email), message ends with `Co-Authored-By: the Claude model name from the session attribution reminder`. The user usually says "push" explicitly; ask before pushing otherwise.
 - The user asked to stop the running review agents (usage limits) and to stop the local server; check before launching many agents again.
 
-## Other open items (offered, not started)
+## Open items (offered, not started)
 
+- More Massachusetts chapters: 269 (public peace and weapons), 272 (public order), then 94C (drugs), 90 (motor vehicles), 140 §§121–131 (firearms), 209A. Chapter 268 took 2 agent batches.
+- Judgment calls to check legally: chapter 266 sections 75, 75C, 76, 78, 87, 89, 147; chapters 266/268 sections split into several crimes (266/28, 30A, 37B, 37C, 53A, 60; 268/31, 32); 268/14A marked not an offense (it only says contempt); sections with no penalty of their own (266/32–34, 37, 38, 58, 59; 268/1A, 2, 25); federal §709 split into 24 crimes, §922 into 45; Massachusetts 265 §§1, 3, 4 with no penalty of their own, mandatory-minimum readings, §21A's ambiguous fine.
+- 33 federal and 21 MA sections have no numeric maximum penalty (`maxYears` null) because the penalty is set elsewhere or by reference; this is correct under the own-text rule.
 - Federal §1112/§1113 penalty tiers show "Set in another law"; a fill pass was offered (must respect the own-text rule).
 - About 10 federal crimes still lack act highlights.
-- Save search and filters in the URL.
-- Custom domain or a repo rename (the repo name says "federal" but now holds Massachusetts too; `BASE_URL` in `build_pages.py` must change with it).
-- Legal review of judgment calls (e.g. federal §709 split into 24 crimes, §922 into 45; Massachusetts 265 items such as §§1, 3, 4 having no penalty of their own, mandatory-minimum readings, §21A's ambiguous fine).
+- Per-crime simplified explanations (about 2,300 crimes) were offered and not chosen; the section summary is used instead.
 - Massachusetts frequency data: the Trial Court and the Sentencing Commission publish charge and sentencing counts; not yet checked for per-section downloads.
-- More Massachusetts chapters after 266: 268 (public justice), 269 (public peace and weapons), 272 (public order), and crimes elsewhere (90 motor vehicles, 94C drugs, 140 §§121–131 firearms, 209A).
+- Custom domain.
 
 ## Gotchas
 

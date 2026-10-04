@@ -8,7 +8,7 @@ headless Chrome; write the pages, plus sitemap.xml and robots.txt (covering both
 import glob, html, json, os, re, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BASE_URL = "https://moqri.github.io/us-crimes-explained/"   # used for canonical links and the sitemap
+BASE_URL = "https://moqri.github.io/crimes-explained/"   # used for canonical links and the sitemap
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 SERVER = "http://localhost:8000/"                         # a local server must be serving this folder
 

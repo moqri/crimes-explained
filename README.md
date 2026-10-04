@@ -73,7 +73,7 @@ New chapters need `ma/plain.json` and `ma/elements.json` entries; `python3 ma/bu
 
 ## Review tools
 
-`review/federal/` and `review/ma/` hold the instructions, validators, and (federal) merge script used to produce `elements.json`, `plain.json`, and their Massachusetts counterparts with review agents. `review/ma/266/` holds the chapter 266 batches reviewed so far. See `HANDOFF.md` for the current state and next steps.
+`review/federal/` and `review/ma/` hold the instructions, validators, and (federal) merge script used to produce `elements.json`, `plain.json`, and their Massachusetts counterparts with review agents. `review/ma/266/` and `review/ma/268/` hold the reviewed batches for those chapters. See `HANDOFF.md` for the current state and next steps.
 
 ## Source and limits
 
