@@ -51,6 +51,26 @@ python3 build_data.py          # rebuild with the new link targets
 python3 build_pages.py         # regenerate 18/*.html, assets/site.css, sitemap.xml (needs the local server and Chrome)
 ```
 
+## Massachusetts (`ma/`)
+
+The same site for the Massachusetts General Laws, starting with chapter 265 (Crimes Against the Person): a list page at `ma/index.html` and one page per section at `ma/<chapter>/<section>.html`. It reuses the root `index.html` code (the page sets `data-jur="ma"`), so styles and rendering stay in one place; `build_pages.py --jur ma` writes `ma/index.html` from `index.html`, replacing the regions marked `<!-- jur:… -->`.
+
+| File | Purpose |
+|---|---|
+| `ma/fetch_ma.py` | Downloads chapters from the Legislature's public API (`malegislature.gov/api`) into `ma/raw/<chapter>.json` |
+| `ma/build_ma.py` | Parses the text (paragraphs, outline levels, ½ and ¾ in numbers, quotation marks, the version of amended text in effect on the download date) and merges `ma/plain.json` and `ma/elements.json` into `ma/crimes.json` |
+| `ma/plain.json` | Per section: whether it defines a crime, one-line summary, type, maximum prison term, prohibited-act phrases |
+| `ma/elements.json` | Crime breakdowns, same schema as `elements.json`, from that section's own text only |
+| `textlib.py` | Text helpers shared with `build_data.py` (outline levels, act ranges, the own-section-only filter) |
+
+```sh
+python3 ma/fetch_ma.py 265          # download chapter 265 (add more chapter numbers to extend)
+python3 ma/build_ma.py              # build ma/crimes.json
+python3 build_pages.py --jur ma     # write ma/index.html and ma/<chapter>/*.html (needs the local server and Chrome)
+```
+
+New chapters need `ma/plain.json` and `ma/elements.json` entries; `python3 ma/build_ma.py --batches DIR` writes the parsed sections in batches for review. Massachusetts has no source like the Sentencing Commission's datafile, so its list has no "Most common first" sort.
+
 ## Source and limits
 
 - Text: United States Code, 2024 edition, current through January 6, 2025, from [GovInfo](https://www.govinfo.gov/app/collection/uscode). Two sections (§1992 and §2258A) were changed by Pub. L. 119–60 (December 18, 2025); the site flags both.

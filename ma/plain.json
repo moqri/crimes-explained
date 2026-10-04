@@ -1,0 +1,881 @@
+{
+ "265/1": {
+  "isOffense": true,
+  "plain": "Defines first-degree murder (premeditated, extremely atrocious or cruel, or during a crime punishable by death or life) and second-degree murder; the punishment is not set in this section.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "Murder committed with deliberately premeditated malice aforethought",
+   "Murder which does not appear to be in the first degree",
+   "Petit treason"
+  ]
+ },
+ "265/2": {
+  "isOffense": true,
+  "plain": "Sets the punishment for murder: life in state prison, without parole for first-degree murder by an adult, and with parole eligibility for juveniles 14 to 17 and for second-degree murder.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "found guilty of murder in the first degree",
+   "found guilty of murder in the second degree"
+  ]
+ },
+ "265/3": {
+  "isOffense": true,
+  "plain": "A Massachusetts resident who arranges a duel here, fights it out of state, and mortally wounds someone who dies in Massachusetts is guilty of murder here; the punishment is set elsewhere.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "fights a duel outside its jurisdiction, and in so doing inflicts a mortal wound upon a person whereof he dies within the commonwealth"
+  ]
+ },
+ "265/4": {
+  "isOffense": true,
+  "plain": "A Massachusetts resident who arranges here to act as a second in a duel and is present when a fatal wound is inflicted is an accessory before the fact to murder; the punishment is set elsewhere.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "becomes the second of either party in such duel and is present as a second when a mortal wound is inflicted upon a person whereof he dies within this commonwealth"
+  ]
+ },
+ "265/5": {
+  "isOffense": false,
+  "plain": "Lets a person charged under the two preceding duel sections plead a former conviction or acquittal for the same crime in another state or country as a bar to further prosecution."
+ },
+ "265/9": {
+  "isOffense": true,
+  "plain": "Engaging in a prearranged fight with another person (outside licensed exceptions) is punishable by up to 10 years in state prison or a fine of up to $5,000.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "engages in a fight with another person"
+  ]
+ },
+ "265/10": {
+  "isOffense": true,
+  "plain": "Being present at a prize fight as an aid, second or surgeon, or advising, encouraging or promoting it, is punishable by up to 5 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "is present at such fight as an aid, second or surgeon",
+   "advises, encourages or promotes such fight"
+  ]
+ },
+ "265/11": {
+  "isOffense": true,
+  "plain": "A Massachusetts resident who arranges a fight here and then leaves the state to fight faces up to 5 years in state prison or a fine of up to $5,000.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "leaves the same and engages in a fight with another person outside the limits thereof"
+  ]
+ },
+ "265/12": {
+  "isOffense": true,
+  "plain": "Giving, promoting or engaging in an unlicensed public boxing, kickboxing or MMA match, or a private one for pay, is punishable by up to 3 months in a house of correction, a $5,000 fine, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 0.25,
+  "acts": [
+   "gives, promotes or engages in a public boxing, kickboxing, mixed martial arts or other unarmed combative sporting match or sparring exhibition",
+   "engages in a private boxing, kickboxing, mixed martial arts or other unarmed combative sporting event match or sparring exhibition"
+  ]
+ },
+ "265/13": {
+  "isOffense": true,
+  "plain": "Manslaughter is punishable by up to 20 years in state prison, or life if committed while violating certain chapter 266 provisions; a business organization faces a fine of up to $250,000.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "commits manslaughter",
+   "commits manslaughter while violating the provisions of sections 102 to 102C, inclusive, of chapter 266"
+  ]
+ },
+ "265/13A": {
+  "isOffense": true,
+  "plain": "Assault or assault and battery is punishable by up to 2½ years in a house of correction; causing serious injury, assaulting a pregnant person, or assaulting someone with a protective order against you carries up to 5 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "commits an assault or an assault and battery upon another",
+   "commits an assault or an assault and battery:"
+  ]
+ },
+ "265/13B": {
+  "isOffense": true,
+  "plain": "Indecent assault and battery on a child under 14 is punishable by up to 10 years in state prison or up to 2½ years in a house of correction.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 10,
+  "acts": [
+   "commits an indecent assault and battery on a child under the age of 14"
+  ]
+ },
+ "265/13B1~2": {
+  "isOffense": true,
+  "plain": "Indecent assault and battery on a child under 14 during a burglary, robbery, kidnapping, home invasion or similar listed crime, or by a mandated reporter, carries life or any term of years with a 10-year minimum.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "commits an indecent assault and battery on a child under the age of 14 and:"
+  ]
+ },
+ "265/13B3~4": {
+  "isOffense": true,
+  "plain": "Indecent assault and battery on a child under 14 by someone previously convicted of a listed child sex or rape offense carries life or any term of years with a 15-year minimum.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "commits an indecent assault and battery on a child under the age of 14"
+  ]
+ },
+ "265/13C": {
+  "isOffense": true,
+  "plain": "Assault and battery to collect a loan is punishable by up to 5 years in state prison (or 2½ years in jail); a repeat offense carries 5 to 10 years with no probation or parole until the minimum is served.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "commits an assault and battery upon another"
+  ]
+ },
+ "265/13D": {
+  "isOffense": true,
+  "plain": "Assault and battery on a public employee or transit worker on duty carries 90 days to 2½ years in a house of correction or a fine; trying to disarm an officer, or seriously injuring an officer, carries up to 10 years.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "commits an assault and battery, including assault and battery by means of a bodily substance, upon any public employee, public transit worker or any transit worker contracted or employed to operate public transit services",
+   "commits an offense under this section and which includes an attempt to disarm a police officer in the performance of the officer's duties",
+   "commits an assault and battery upon a police officer"
+  ]
+ },
+ "265/13D1~2": {
+  "isOffense": true,
+  "plain": "Committing an offense under section 1, 2, 5 or 7 of chapter 266 that injures a firefighter on duty is punishable by up to 10 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "commits an offense set forth in section one, two, five or seven of chapter two hundred and sixty-six"
+  ]
+ },
+ "265/13F": {
+  "isOffense": true,
+  "plain": "Indecent assault and battery on a person known to have an intellectual disability carries 5 to 10 years in state prison (at least 10 for a repeat); plain assault and battery on such a person carries up to 5 years.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "commits an indecent assault and battery on a person with an intellectual disability",
+   "commits an assault and battery on a person with an intellectual disability"
+  ]
+ },
+ "265/13G": {
+  "isOffense": true,
+  "plain": "Committing a felony for payment or a promise of payment adds up to 5 years in state prison on top of the punishment for the felony itself.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "maxPlus": true,
+  "acts": [
+   "commits a felony"
+  ]
+ },
+ "265/13H": {
+  "isOffense": true,
+  "plain": "Indecent assault and battery on a person 14 or older is punishable by up to 5 years in state prison; on an elder or person with a disability, up to 10 years, or 20 for a repeat offense.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 20,
+  "acts": [
+   "commits an indecent assault and battery on a person who has attained age fourteen",
+   "commits an indecent assault and battery on an elder or person with a disability"
+  ]
+ },
+ "265/13H1~2": {
+  "isOffense": true,
+  "plain": "A law enforcement officer who indecently assaults a person in their custody or control faces up to 5 years in state prison, rising to 10 or 20 years for elders, people with disabilities, or children under 14.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 20,
+  "acts": [
+   "commits an indecent assault and battery on a person who has attained the age of 14",
+   "commits an indecent assault and battery on an elder or person with a disability",
+   "commits an indecent assault and battery on a person in their custody or control",
+   "commits an indecent assault and battery on a child under the age of 14"
+  ]
+ },
+ "265/13H3~4": {
+  "isOffense": true,
+  "plain": "A health care provider or clergy member (or someone posing as one) who indecently assaults a patient or client during diagnosis, counseling or treatment faces up to 5 years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 5,
+  "acts": [
+   "commits an indecent assault and battery on a patient or client during the course of diagnosis, counseling or treatment"
+  ]
+ },
+ "265/13I": {
+  "isOffense": true,
+  "plain": "Assault or assault and battery on an EMT, ambulance operator or attendant, or health care provider while they treat or transport someone carries 90 days to 2½ years in a house of correction, a fine, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 2.5,
+  "acts": [
+   "commits an assault or an assault and battery on an emergency medical technician, an ambulance operator, an ambulance attendant or a health care provider"
+  ]
+ },
+ "265/13J": {
+  "isOffense": true,
+  "plain": "Assault and battery on a child under 14 causing bodily injury carries up to 5 years in state prison (15 for substantial injury); a caretaker who wantonly or recklessly permits such injury also faces prison.",
+  "category": "Family & Children",
+  "maxYears": 15,
+  "acts": [
+   "commits an assault and battery upon a child and by such assault and battery causes bodily injury",
+   "commits an assault and battery upon a child and by such assault and battery causes substantial bodily injury",
+   "wantonly or recklessly permits bodily injury to such child",
+   "permits another to commit an assault and battery upon such child",
+   "permits substantial bodily injury to such child"
+  ]
+ },
+ "265/13K": {
+  "isOffense": true,
+  "plain": "Assault and battery on a person 60 or older or a person with a disability carries up to 3 years in state prison, rising to 10 years for serious injury; caretakers who wantonly or recklessly permit injury, abuse or neglect also face up to 10 years.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "commits an assault and battery upon an elder or person with a disability",
+   "permits bodily injury to such elder or person with a disability",
+   "permits another to commit an assault and battery upon such elder or person with a disability which assault and battery causes bodily injury",
+   "commits or permits another to commit abuse, neglect or mistreatment upon such elder or person with a disability",
+   "permits serious bodily injury to such elder or person with a disability"
+  ]
+ },
+ "265/13L": {
+  "isOffense": true,
+  "plain": "Wantonly or recklessly creating, or failing to reduce when there is a duty to act, a substantial risk of serious bodily injury or sexual abuse to a child under 18 is punishable by up to 2½ years in a house of correction.",
+  "category": "Family & Children",
+  "maxYears": 2.5,
+  "acts": [
+   "engages in conduct that creates a substantial risk of serious bodily injury or sexual abuse to a child",
+   "fails to take reasonable steps to alleviate such risk where there is a duty to act"
+  ]
+ },
+ "265/13M": {
+  "isOffense": true,
+  "plain": "Assault or assault and battery on a family or household member is punishable by up to 2½ years in a house of correction; a repeat offense carries up to 5 years in state prison, and batterer's intervention is required.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "commits an assault or assault and battery on a family or household member"
+  ]
+ },
+ "265/13N": {
+  "isOffense": false,
+  "plain": "Requires a court, upon a misdemeanor conviction involving force or a threatened deadly weapon, to record whether the victim was a family or household member and forward that to criminal justice information services."
+ },
+ "265/14": {
+  "isOffense": true,
+  "plain": "Mayhem, such as maliciously cutting out a tongue, putting out an eye or disabling a limb, or disfiguring someone with a dangerous weapon or chemical, is punishable by up to 20 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 20,
+  "acts": [
+   "cuts out or maims the tongue, puts out or destroys an eye, cuts or tears off an ear, cuts, slits or mutilates the nose or lip, or cuts off or disables a limb or member, of another person",
+   "assaults another person with a dangerous weapon, substance or chemical, and by such assault disfigures, cripples or inflicts serious or permanent physical injury upon such person",
+   "is privy to such intent, or is present and aids in the commission of such crime"
+  ]
+ },
+ "265/15": {
+  "isOffense": true,
+  "plain": "Assaulting someone with intent to murder, maim or disfigure is punishable by up to 10 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "assaults another"
+  ]
+ },
+ "265/15A": {
+  "isOffense": true,
+  "plain": "Assault and battery with a dangerous weapon is punishable by up to 10 years in state prison; causing serious injury, or attacking a pregnant person, a child under 14, or someone with a protective order against you, carries up to 15 years.",
+  "category": "Violence & Threats",
+  "maxYears": 15,
+  "acts": [
+   "commits assault and battery upon a person sixty years or older by means of a dangerous weapon",
+   "commits an assault and battery upon another by means of a dangerous weapon",
+   "commits an assault and battery upon another and by such assault and battery causes serious bodily injury",
+   "commits an assault and battery upon another who is pregnant at the time of such assault and battery",
+   "commits an assault and battery upon another who he knows has an outstanding temporary or permanent vacate, restraining or no contact order or judgment",
+   "commits an assault and battery upon a child under the age of 14"
+  ]
+ },
+ "265/15B": {
+  "isOffense": true,
+  "plain": "Assault with a dangerous weapon is punishable by up to 5 years in state prison; a repeat offense against a person 60 or older carries at least 2 years.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "commits an assault upon a person sixty years or older",
+   "commits an assault upon another"
+  ]
+ },
+ "265/15C": {
+  "isOffense": true,
+  "plain": "Assaulting someone with a hypodermic syringe or needle is punishable by up to 10 years in state prison; assault and battery with one carries up to 15 years.",
+  "category": "Violence & Threats",
+  "maxYears": 15,
+  "acts": [
+   "commits an assault upon another, by means of a hypodermic syringe, hypodermic needle, or any instrument adapted for the administration of controlled or other substances by injection",
+   "commits an assault and battery upon another, by means of a hypodermic syringe, hypodermic needle, or any instrument adapted for the administration of controlled or other substances by injection"
+  ]
+ },
+ "265/15D": {
+  "isOffense": true,
+  "plain": "Strangling or suffocating another person is punishable by up to 5 years in state prison; causing serious injury, a pregnant victim, a prior conviction, or a protective order raises it to up to 10 years.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "strangles or suffocates another person",
+   "strangles or suffocates another person and by such strangulation or suffocation causes serious bodily injury",
+   "strangles or suffocates another person, who is pregnant at the time of such strangulation or suffocation"
+  ]
+ },
+ "265/15E": {
+  "isOffense": true,
+  "plain": "Committing assault and battery on someone by discharging a firearm is punishable by up to 20 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 20,
+  "acts": [
+   "commits an assault and battery upon another by discharging a firearm"
+  ]
+ },
+ "265/15F": {
+  "isOffense": true,
+  "plain": "Attempting to commit assault and battery on someone by discharging a firearm is punishable by up to 15 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 15,
+  "acts": [
+   "attempts to commit an assault and battery upon another by means of discharging a firearm"
+  ]
+ },
+ "265/16": {
+  "isOffense": true,
+  "plain": "Attempting to murder someone by poisoning, drowning, strangling, or other means not amounting to assault with intent to murder is punishable by up to 20 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 20,
+  "acts": [
+   "attempts to commit murder by poisoning, drowning or strangling another person, or by any means not constituting an assault with intent to commit murder"
+  ]
+ },
+ "265/17": {
+  "isOffense": true,
+  "plain": "Armed robbery (assaulting and robbing someone while armed with a dangerous weapon) is punishable by up to life in state prison, with mandatory minimums when masked or armed with a firearm.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "assaults another and robs, steals or takes from his person money or other property which may be the subject of larceny"
+  ]
+ },
+ "265/18": {
+  "isOffense": true,
+  "plain": "Assaulting someone while armed with a dangerous weapon, with intent to rob or murder, is punishable by up to 20 years in state prison, with mandatory minimums if armed with a firearm.",
+  "category": "Violence & Threats",
+  "maxYears": 20,
+  "acts": [
+   "assaults a person sixty years or older",
+   "assaults another"
+  ]
+ },
+ "265/18A": {
+  "isOffense": true,
+  "plain": "Entering a dwelling house armed with a dangerous weapon and assaulting someone inside with intent to commit a felony is punishable by life or at least 10 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "enters a dwelling house and while therein assaults another"
+  ]
+ },
+ "265/18B": {
+  "isOffense": true,
+  "plain": "Having a firearm in your possession or control while committing or attempting a state-prison offense adds at least 5 years in state prison (10 for a large capacity firearm or machine gun), on top of that offense's penalty.",
+  "category": "Weapons & Terrorism",
+  "maxYears": null,
+  "acts": [
+   "has in his possession or under his control a firearm"
+  ]
+ },
+ "265/18C": {
+  "isOffense": true,
+  "plain": "Home invasion (knowingly entering an occupied dwelling armed with a dangerous weapon and using or threatening force, or intentionally injuring someone) is punishable by life or at least 20 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "enters the dwelling place of another",
+   "uses force or threatens the imminent use of force upon any person within such dwelling place",
+   "causes any injury to any person within such dwelling place"
+  ]
+ },
+ "265/19": {
+  "isOffense": true,
+  "plain": "Unarmed robbery (taking money or property from a person by force or by assault and putting in fear) is punishable by up to life in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "robs, steals or takes from the person of a person sixty years or older, or from his immediate control, money or other property which may be the subject of larceny",
+   "robs, steals or takes from the person of another, or from his immediate control, money or other property which may be the subject of larceny"
+  ]
+ },
+ "265/20": {
+  "isOffense": true,
+  "plain": "Assaulting someone with force and violence, while unarmed, with intent to rob or steal is punishable by up to 10 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "assaults another with force and violence"
+  ]
+ },
+ "265/21": {
+  "isOffense": true,
+  "plain": "Confining, injuring, threatening or frightening a person to steal from a building, bank, safe or vault, or forcing someone to reveal how to open one, is punishable by up to life in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "confines, maims, injures or wounds, or attempts or threatens to kill, confine, maim, injure or wound, or puts any person in fear",
+   "compels or attempts to compel any person to disclose or surrender the means of opening any building, bank, safe, vault or other depository of money, bonds, or other valuables"
+  ]
+ },
+ "265/21A": {
+  "isOffense": true,
+  "plain": "Carjacking (assaulting, confining, maiming or frightening a person to steal a motor vehicle) is punishable by up to 15 years in state prison, up to 20 years if armed, and at least 7 years with a firearm.",
+  "category": "Violence & Threats",
+  "maxYears": 20,
+  "acts": [
+   "assaults, confines, maims or puts any person in fear for the purpose of stealing a motor vehicle"
+  ]
+ },
+ "265/22": {
+  "isOffense": true,
+  "plain": "Rape (sexual intercourse compelled by force or threat of bodily injury) is punishable by up to 20 years in state prison; rape causing serious injury, by joint enterprise, or during certain crimes carries up to life.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse with a person, and compels such person to submit by force and against his will, or compels such person to submit by threat of bodily injury",
+   "has sexual intercourse or unnatural sexual intercourse with a person and compels such person to submit by force and against his will, or compels such person to submit by threat of bodily injury",
+   "has sexual intercourse with a person in the custody or control of the law enforcement officer"
+  ]
+ },
+ "265/22A": {
+  "isOffense": true,
+  "plain": "Rape of a child under 16 by force or threat of bodily injury is punishable by up to life in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury"
+  ]
+ },
+ "265/22B": {
+  "isOffense": true,
+  "plain": "Rape of a child under 16 by force, aggravated by circumstances such as serious injury, binding, drugging, joint enterprise, or during another serious crime, is punishable by life or at least 15 years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury"
+  ]
+ },
+ "265/22C": {
+  "isOffense": true,
+  "plain": "Rape of a child under 16 by force, by someone previously convicted of certain sex offenses, is punishable by life or at least 20 years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury"
+  ]
+ },
+ "265/22D": {
+  "isOffense": true,
+  "plain": "A health care provider or clergy member (or someone posing as one) who knowingly uses a false representation to induce a patient or client into sexual intercourse during treatment faces up to 20 years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 20,
+  "acts": [
+   "induces by false misrepresentation a patient or client to engage in sexual intercourse during the course of diagnosis, counseling or treatment"
+  ]
+ },
+ "265/23": {
+  "isOffense": true,
+  "plain": "Statutory rape (unlawfully having sexual intercourse with and abusing a child under 16) is punishable by up to life in state prison or any term in a jail or house of correction.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age"
+  ]
+ },
+ "265/23A": {
+  "isOffense": true,
+  "plain": "Statutory rape of a child under 16 aggravated by a large age difference, or committed by a mandated reporter, is punishable by life or at least 10 years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age"
+  ]
+ },
+ "265/23B": {
+  "isOffense": true,
+  "plain": "Statutory rape of a child under 16 by someone previously convicted of certain sex offenses is punishable by life or at least 15 years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age"
+  ]
+ },
+ "265/24": {
+  "isOffense": true,
+  "plain": "Assaulting a person with intent to commit rape is punishable by up to 20 years in state prison; repeat offenses carry up to life, with mandatory minimums if armed with a firearm.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "assaults a person"
+  ]
+ },
+ "265/24A": {
+  "isOffense": false,
+  "plain": "Allows certain sex crimes to be prosecuted either where committed or in the county or judicial district from which the victim was conveyed."
+ },
+ "265/24B": {
+  "isOffense": true,
+  "plain": "Assaulting a child under 16 with intent to commit rape is punishable by up to life in state prison, with mandatory minimums for repeat offenses by adults and for being armed with a firearm.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 999,
+  "acts": [
+   "assaults a child under sixteen"
+  ]
+ },
+ "265/24C": {
+  "isOffense": true,
+  "plain": "Court and police records naming victims of rape, assault with intent to rape, or human trafficking are withheld from the public, and publishing or disclosing such a victim's name is punishable by a fine of $2,500 to $10,000.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 0,
+  "acts": [
+   "publish, disseminate or otherwise disclose the name of any individual identified as an alleged victim of any of the offenses described in the first paragraph"
+  ]
+ },
+ "265/25": {
+  "isOffense": true,
+  "plain": "Maliciously threatening to accuse someone of a crime or to injure their person or property, or an official misusing their power, to extort money or force an act, is punishable by up to 15 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 15,
+  "acts": [
+   "threatens to accuse another of a crime or offence",
+   "threatens an injury to the person or property of another",
+   "uses or threatens to use against another the power or authority vested in him"
+  ]
+ },
+ "265/26": {
+  "isOffense": true,
+  "plain": "Kidnapping (forcibly or secretly confining, carrying away, or seizing a person without lawful authority) is punishable by up to 10 years in state prison, 15 for a child under 16, and up to life when done to extort money.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "forcibly or secretly confines or imprisons another person within this commonwealth against his will",
+   "forcibly carries or sends such person out of this commonwealth",
+   "forcibly seizes and confines or inveigles or kidnaps another person",
+   "forcibly or secretly confines or imprisons a child under the age of 16 within the commonwealth against his will",
+   "forcibly seizes and confines or inveigles or kidnaps a child under the age of 16"
+  ]
+ },
+ "265/26A": {
+  "isOffense": true,
+  "plain": "A relative who, without lawful authority, holds or takes a child under 18 from lawful custody, or takes an incompetent person from lawful custody, faces up to 1 year; up to 5 years in state prison if taken out of state or endangered.",
+  "category": "Family & Children",
+  "maxYears": 5,
+  "acts": [
+   "holds or intends to hold such a child permanently or for a protracted period",
+   "takes or entices such a child from his lawful custodian",
+   "takes or entices from lawful custody any incompetent person or other person entrusted by authority of law to the custody of another person or institution"
+  ]
+ },
+ "265/26B": {
+  "isOffense": true,
+  "plain": "Drugging a person to overpower them in order to confine, kidnap, or carry them out of state against their will is punishable by life or at least 10 years in state prison (at least 15 if done to extort money).",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "applies, administers to or causes to be taken by a person any drug, matter or thing"
+  ]
+ },
+ "265/26C": {
+  "isOffense": true,
+  "plain": "Enticing a child under 16 (or someone believed to be) into a vehicle, building, or other space intending a listed sex or violent crime is punishable by up to 5 years in state prison.",
+  "category": "Family & Children",
+  "maxYears": 5,
+  "acts": [
+   "entices a child under the age of 16, or someone he believes to be a child under the age of 16, to enter, exit or remain within any vehicle, dwelling, building, or other outdoor space"
+  ]
+ },
+ "265/26D": {
+  "isOffense": true,
+  "plain": "Knowingly using electronic communication to entice a child under 18 into prostitution, human trafficking, or commercial sexual activity is punishable by up to 5 years in state prison; a repeat offense brings at least 5 years.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 5,
+  "acts": [
+   "entices a child under the age of 18 years, to engage in prostitution in violation of section 50 or section 53A of chapter 272, human trafficking in violation of section 50, 51, 52 or 53 or commercial sexual activity as defined in section 49"
+  ]
+ },
+ "265/27": {
+  "isOffense": false,
+  "plain": "Sets where a kidnapping crime described in section 26 may be tried and provides that the victim's consent is no defense unless the jury finds it was not obtained by fraud, duress or threats."
+ },
+ "265/27A": {
+  "isOffense": false,
+  "plain": "Sets the counties where the crime of kidnapping of a minor or incompetent by a relative described in section 26A may be tried."
+ },
+ "265/28": {
+  "isOffense": true,
+  "plain": "Mixing poison into food, drink, or medicine, or wilfully poisoning a spring, well, or reservoir, with intent to kill or injure someone is punishable by up to life in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "mingles poison with food, drink or medicine",
+   "poisons any spring, well or reservoir of water"
+  ]
+ },
+ "265/29": {
+  "isOffense": true,
+  "plain": "Assaulting someone with intent to commit a felony, where no other law sets the punishment, is punishable by up to 10 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "assaults another"
+  ]
+ },
+ "265/30": {
+  "isOffense": true,
+  "plain": "A person managing or controlling a steamboat or other public passenger conveyance who is grossly negligent in operating it while carrying passengers faces up to 2½ years in jail or a $5,000 fine.",
+  "category": "Transportation & Aviation",
+  "maxYears": 2.5,
+  "acts": [
+   "is guilty of gross negligence in or relative to the management or control of such steamboat or other public conveyance"
+  ]
+ },
+ "265/32": {
+  "isOffense": true,
+  "plain": "Throwing or dropping glass on a public way or on or near a bathing beach is punishable by a fine of up to $100 or up to one month in prison.",
+  "category": "Property Crimes",
+  "maxYears": 0.083,
+  "acts": [
+   "throws or drops glass on a public way, or on or near a bathing beach, or on a public way, sidewalk or reservation in the immediate neighborhood of a bathing beach"
+  ]
+ },
+ "265/34": {
+  "isOffense": true,
+  "plain": "Tattooing a person's body by anyone not registered as a qualified physician is punishable by a fine of up to $300, up to one year in prison, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "marks the body of any person by means of tattooing"
+  ]
+ },
+ "265/35": {
+  "isOffense": true,
+  "plain": "Willfully or negligently dropping or throwing an object onto a road, the turnpike, or certain tunnels so that public safety might be endangered is punishable by a $100 fine, up to one year, or both.",
+  "category": "Transportation & Aviation",
+  "maxYears": 1,
+  "acts": [
+   "drops, throws or otherwise releases any object, missile or other article onto any way as defined in section one of chapter ninety"
+  ]
+ },
+ "265/36": {
+  "isOffense": true,
+  "plain": "Willfully throwing or dropping an object at a sporting event intending to injure someone there is punishable by a $500 fine, up to one year in a house of correction, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "drops, throws or otherwise releases any object, missile or other article at any sporting event"
+  ]
+ },
+ "265/37": {
+  "isOffense": true,
+  "plain": "Using force or threats to injure, intimidate, or interfere with someone exercising their state or federal legal rights is punishable by up to 1 year, or up to 10 years if bodily injury results.",
+  "category": "Civil Rights",
+  "maxYears": 10,
+  "acts": [
+   "injure, intimidate or interfere with, or attempt to injure, intimidate or interfere with, or oppress or threaten any other person in the free exercise or enjoyment of any right or privilege secured to him by the constitution or laws of the commonwealth or by the constitution or laws of the United States"
+  ]
+ },
+ "265/39": {
+  "isOffense": true,
+  "plain": "Assaulting, battering, or damaging the property of someone to intimidate them because of race, religion, disability, sexual orientation, gender identity, or similar traits is punishable by up to 2½ years; up to 10 if injury results while armed.",
+  "category": "Civil Rights",
+  "maxYears": 10,
+  "acts": [
+   "commits an assault or a battery upon a person",
+   "damages the real or personal property of a person",
+   "commits a battery in violation of this section and which results in bodily injury"
+  ]
+ },
+ "265/40": {
+  "isOffense": true,
+  "plain": "A person running a physical exercise course or training program who willfully, wantonly and recklessly causes serious bodily injury to a participant faces up to 2½ years in jail and a $5,000 fine.",
+  "category": "Violence & Threats",
+  "maxYears": 2.5,
+  "acts": [
+   "causes serious bodily injury to a person participating in a course of study or training program involving physical exercise"
+  ]
+ },
+ "265/41": {
+  "isOffense": false,
+  "plain": "Requires a superior court judge who does not impose imprisonment for a chapter 265 crime punishable by imprisonment to put specific reasons in the record, which is a public record."
+ },
+ "265/42": {
+  "isOffense": true,
+  "plain": "Playing a radio or boom box without earphones on a public passenger conveyance is punishable by a $100 to $500 fine or up to one month in prison.",
+  "category": "Transportation & Aviation",
+  "maxYears": 0.083,
+  "acts": [
+   "uses a radio or boom box, so-called, or similar broadcasting equipment without the use of earphones or other apparatus on a public conveyance used for the common carriage of persons"
+  ]
+ },
+ "265/43": {
+  "isOffense": true,
+  "plain": "Stalking, a willful, malicious pattern of alarming conduct plus a threat meant to cause fear of death or injury, is punishable by up to 5 years; violating a court order brings 1 to 5 years, and repeat offenses 2 to 10.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "engages in a knowing pattern of conduct or series of acts over a period of time directed at a specific person which seriously alarms or annoys that person and would cause a reasonable person to suffer substantial emotional distress",
+   "makes a threat",
+   "commits the crime of stalking in violation of a temporary or permanent vacate, restraining, or no-contact order or judgment"
+  ]
+ },
+ "265/43A": {
+  "isOffense": true,
+  "plain": "Criminal harassment, a willful, malicious pattern of conduct seriously alarming a person, or knowingly distributing harmful nude or sexual images (including fakes) of someone, is punishable by up to 2½ years; repeat offenses up to 10.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "acts": [
+   "engages in a knowing pattern of conduct or series of acts over a period of time directed at a specific person, which seriously alarms that person and would cause a reasonable person to suffer substantial emotional distress",
+   "distributes visual material, including visual material produced by digitization, depicting another person"
+  ]
+ },
+ "265/44": {
+  "isOffense": true,
+  "plain": "Committing assault and battery on a child under 18 to force or coerce the child into joining a criminal conspiracy such as a street gang is punishable by up to 5 years in state prison; repeat offenses 5 to 10 years.",
+  "category": "Family & Children",
+  "maxYears": 10,
+  "acts": [
+   "commits an assault and battery on a child under the age of eighteen"
+  ]
+ },
+ "265/45": {
+  "isOffense": false,
+  "plain": "Adds community parole supervision for life, served under the parole board, to the sentences for listed sex offenses and child kidnapping, mandatory for some offenses and repeat offenders, starting when imprisonment, probation or commitment ends."
+ },
+ "265/46": {
+  "isOffense": false,
+  "plain": "Bars a person charged with or convicted of murder or manslaughter of a decedent from taking from the decedent's estate, and sets how this affects estate distribution and real property title."
+ },
+ "265/47": {
+  "isOffense": false,
+  "plain": "Requires sex offenders on probation to wear a GPS device, sets exclusion zones and arrest or surrender procedures for violations, and makes the probationer pay the device fees unless waived for hardship."
+ },
+ "265/48": {
+  "isOffense": true,
+  "plain": "A registered sex offender who engages in ice cream truck vending faces up to 2½ years in a house of correction, a $1,000 fine, or both.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 2.5,
+  "acts": [
+   "engages in ice cream truck vending"
+  ]
+ },
+ "265/49": {
+  "isOffense": false,
+  "plain": "Defines terms such as commercial sexual activity, financial harm, forced services, services and sexually-explicit performance for the human trafficking laws."
+ },
+ "265/50": {
+  "isOffense": true,
+  "plain": "Knowingly recruiting, transporting, or causing someone to engage in commercial sex, sexual performances, or unlawful pornography, or profiting from it, is punishable by 5 to 20 years; life if the victim is under 18.",
+  "category": "Human Trafficking & Slavery",
+  "maxYears": 999,
+  "acts": [
+   "subjects, or attempts to subject, or recruits, entices, harbors, transports, provides or obtains by any means, or attempts to recruit, entice, harbor, transport, provide or obtain by any means, another person to engage in commercial sexual activity, a sexually-explicit performance or the production of unlawful pornography in violation of chapter 272",
+   "causes a person to engage in commercial sexual activity, a sexually-explicit performance or the production of unlawful pornography in violation of said chapter 272",
+   "benefits, financially or by receiving anything of value, as a result of a violation of clause (i)",
+   "commits the crime of trafficking of persons for sexual servitude upon a person under 18 years of age",
+   "commits trafficking of persons for sexual servitude"
+  ]
+ },
+ "265/51": {
+  "isOffense": true,
+  "plain": "Knowingly subjecting someone to forced services, or recruiting or transporting someone knowing they will be forced into services, or profiting from it, is punishable by 5 to 20 years; life if the victim is under 18.",
+  "category": "Human Trafficking & Slavery",
+  "maxYears": 999,
+  "acts": [
+   "subjects, or attempts to subject, another person to forced services",
+   "recruits, entices, harbors, transports, provides or obtains by any means, or attempts to recruit, entice, harbor, transport, provide or obtain by any means, another person",
+   "benefits, financially or by receiving anything of value, as a result of a violation of clause (i)",
+   "commits the crime of trafficking of persons for forced services upon a person under 18 years of age",
+   "commits trafficking of persons for forced labor services"
+  ]
+ },
+ "265/52": {
+  "isOffense": true,
+  "plain": "A second or subsequent sex-trafficking or forced-services trafficking violation, after a prior conviction or delinquency adjudication, is punishable by life or at least 10 years in state prison.",
+  "category": "Human Trafficking & Slavery",
+  "maxYears": 999,
+  "acts": [
+   "commits a second or subsequent violation of either section 50 or 51"
+  ]
+ },
+ "265/53": {
+  "isOffense": true,
+  "plain": "Recruiting, transporting, or obtaining a person knowing their organs or tissue will be removed for sale against their will, or knowingly profiting from it, is punishable by up to 15 years; a mandatory 5 years if the victim is under 18.",
+  "category": "Human Trafficking & Slavery",
+  "maxYears": 15,
+  "acts": [
+   "recruits, entices, harbors, transports, delivers or obtains by any means, another person",
+   "receives anything of value, directly or indirectly as a result of a violation of clause (i)",
+   "commits the crime of organ trafficking upon a person under 18 years of age"
+  ]
+ },
+ "265/54": {
+  "isOffense": false,
+  "plain": "Requires courts to send fines collected under certain human trafficking laws to the state treasurer for deposit into the Victims of Human Trafficking Trust Fund."
+ },
+ "265/55": {
+  "isOffense": false,
+  "plain": "Makes money paid for forced labor or sexual servitude, or used to facilitate human trafficking, subject to forfeiture and available to victims ordered restitution."
+ },
+ "265/56": {
+  "isOffense": false,
+  "plain": "Sets out which property used in or gained from human trafficking is subject to forfeiture, and the procedures, exceptions, records, seizure, and homestead rules for forfeiture."
+ },
+ "265/57": {
+  "isOffense": false,
+  "plain": "Gives human trafficking victims an affirmative defense to certain prostitution-related charges if they were under duress or coerced into committing the offenses."
+ },
+ "265/58": {
+  "isOffense": true,
+  "plain": "Possessing a deceptive firearm device while committing a violent crime means the person is treated as armed and faces the armed-crime penalties set elsewhere in chapter 265.",
+  "category": "Weapons & Terrorism",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "is in possession of a deceptive firearm device"
+  ]
+ },
+ "265/59": {
+  "isOffense": false,
+  "plain": "Lets courts vacate prostitution-related or simple drug possession convictions when the defendant's participation likely resulted from being a human trafficking victim, and provides an affirmative defense on retrial."
+ },
+ "265/60": {
+  "isOffense": true,
+  "plain": "Knowingly performing female genital mutilation on someone under 18, or transporting or sending a minor so it can be done, is punishable by up to 5 years in state prison.",
+  "category": "Family & Children",
+  "maxYears": 5,
+  "acts": [
+   "commits female genital mutilation on a person under the age of 18",
+   "transports a person under the age of 18 within the commonwealth",
+   "sends such person out of the commonwealth"
+  ]
+ },
+ "265/131~2": {
+  "isOffense": true,
+  "plain": "Committing manslaughter while operating a motor vehicle under the influence is punishable by 5 to 20 years in state prison, a fine of up to $25,000, and a license suspension of at least 15 years.",
+  "category": "Transportation & Aviation",
+  "maxYears": 20,
+  "acts": [
+   "commits manslaughter while operating a motor vehicle"
+  ]
+ }
+}

@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-jur="ma">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Crime Code</title>
+  <title>Crime Code: Massachusetts</title>
   <style>
     :root {
       --bg: #f6f5f1; --surface: #ffffff; --surface-2: #faf9f6; --text: #1d1c1a; --muted: #67645c;
@@ -252,23 +252,21 @@
 <body>
 <main>
   <header>
-    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">Federal</a><a href="ma/">Massachusetts</a></nav><!-- /jur:nav -->
+    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a></nav><!-- /jur:nav -->
     <h1>Crime Code</h1>
-    <!-- jur:lede --><p class="lede">Every crime in <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partI.htm" target="_blank" rel="noopener" title="Title 18, Part I (Crimes): full official text on GovInfo">Title 18</a> of the <a href="https://www.govinfo.gov/app/collection/uscode" target="_blank" rel="noopener" title="The United States Code on GovInfo">United States Code</a><span id="crimecount"></span></p><!-- /jur:lede -->
+    <!-- jur:lede --><p class="lede">Every crime in <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">Chapter 265 (Crimes Against the Person)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
       <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
       <details class="about">
         <summary>About this site</summary>
         <div class="about-body"><!-- jur:about -->
-          <p>The main body of federal criminal law, in its official text and annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and every citation to another law links to its official source. <span id="edition"></span></p>
+          <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> This is a first chapter; more chapters of the criminal code will follow.</p>
           <ul>
-      <li><b>Select any section</b> to open its own page with the official text of the law. Below the text, each crime in the section is broken out: the act (with <i>+ attempt</i> / <i>+ conspiracy</i> when those are covered), who can commit it when the law limits that, the federal basis, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences such as forfeiture. What applies to every crime in a section is shown once at the top.</li>
-      <li>In the official text, <span class="act">the prohibited act</span> (what a person does that makes it a crime) is highlighted in orange, the <span class="know">knowledge</span> the law requires (such as acting <i>knowingly</i>, or knowing a statement is false) in teal, the <span class="intent">intent</span> or purpose required (such as <i>willfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics (such as <span class="condw">if</span> death results), and <span class="pen">penalties</span> in red. Knowledge and intent often decide whether something is a crime at all.</li>
+      <li><b>Select any section</b> to open its own page with the official text beside a breakdown of each crime in it: the act, who can commit it when the law limits that, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences. Breakdowns use only the text of that section.</li>
+      <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span> or purpose required (such as <i>wilfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and <span class="pen">penalties</span> in red.</li>
       <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
-      <li>References to other laws are <a class="xref" href="#">links</a>. Links to sections on this page jump there; others open the official text on GovInfo.</li>
-      <li>The colored bar on each card shows the <b>maximum</b> prison time. Most people convicted receive less. Actual sentences depend on the facts and the federal sentencing guidelines.</li>
-      <li><b>How common:</b> the number of people sentenced in federal court in a fiscal year (October to September) with at least one conviction under the section, from the U.S. Sentencing Commission's <a href="https://www.ussc.gov/research/datafiles/commission-datafiles" target="_blank" rel="noopener">individual datafile</a>. A person convicted under several sections counts once for each. It covers federal prosecutions only, not how often the conduct happens, and sections often cited together (such as §&nbsp;922 with §&nbsp;924, or §&nbsp;2) rank high because they are charged alongside other crimes.</li>
-      <li>A <b>felony</b> is a crime punishable by more than one year in prison; a <b>misdemeanor</b> is one year or less.</li>
+      <li>The colored bar on each card shows the <b>maximum</b> prison time stated in that section. Many sentences are lower, and some crimes are punished under other sections.</li>
+      <li><b>State prison or house of correction:</b> a crime that can be punished in the state prison is a <b>felony</b>; one punishable only in a house of correction (county jail, usually up to 2½ years) is a <b>misdemeanor</b>.</li>
     </ul>
         <!-- /jur:about --></div>
       </details>
@@ -276,7 +274,7 @@
   </header>
 
   <div class="controls">
-    <input class="search" id="q" type="search" placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”" aria-label="Search">
+    <input class="search" id="q" type="search" placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”" aria-label="Search">
     <select id="category" aria-label="Filter by type of crime"><option value="">All types</option></select>
     <select id="chapter" aria-label="Filter by chapter"><option value="">All chapters</option></select>
     <select id="severity" aria-label="Filter by maximum penalty"><option value="">Any penalty</option></select>
@@ -305,9 +303,9 @@
   </section>
 
   <footer><!-- jur:footer -->
-    <p>Section headings and statutory text are from the official <a id="srclink" href="https://www.govinfo.gov/app/collection/uscode" target="_blank" rel="noopener">GovInfo</a> edition of the U.S. Code (U.S. Government Publishing Office). Plain-English summaries, key points, penalty summaries, crime types, maximum-penalty labels, and the highlighting of prohibited acts were prepared with AI assistance from that text. They are simplified and may contain errors, so rely on the official text.</p>
-    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, civil remedies, forfeiture rules, and sections that only add penalties to crimes defined elsewhere). Statutory notes are omitted. Many federal crimes are also defined outside Title 18, for example drug crimes (Title 21) and tax crimes (Title 26); those are not covered here.</p>
-    <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you can't afford one and are charged with a federal crime, you have the right to a court-appointed attorney.</p>
+    <p>Section headings and statutory text are the official text of the Massachusetts General Laws from the <a id="srclink" href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener">Massachusetts Legislature</a>, current as of the download date shown under About. Summaries, crime types, maximum-penalty labels, crime breakdowns, and highlighting were prepared with AI assistance from that text and may contain errors, so rely on the official text.</p>
+    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, sentencing administration). Many Massachusetts crimes are defined outside chapter 265, for example in chapters 266 (property), 90 (motor vehicles), and 94C (drugs).</p>
+    <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   <!-- /jur:footer --></footer>
 </main>
 <div id="pop" role="tooltip"></div>

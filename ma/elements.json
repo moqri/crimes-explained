@@ -1,0 +1,4820 @@
+{
+ "265/1": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Not set in this section",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "The degree of murder shall be found by the jury"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits murder",
+    "ways": [
+     "with deliberately premeditated malice aforethought",
+     "with extreme atrocity or cruelty",
+     "in the commission or attempted commission of a crime punishable with death or imprisonment for life"
+    ],
+    "tags": [],
+    "conditions": [
+     "The murder is committed with deliberately premeditated malice aforethought, or with extreme atrocity or cruelty, or in the commission or attempted commission of a crime punishable with death or imprisonment for life (murder in the first degree)"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Commits murder",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The murder does not appear to be in the first degree (murder in the second degree)"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Commits petit treason",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Prosecuted and punished as murder; punishment not set in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits murder in the first degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "As provided in subsection (b)"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life in state prison, not eligible for parole (parole set in section 133A of chapter 127)",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits murder in the first degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person committed the offense on or after the person's fourteenth birthday and before the person's eighteenth birthday"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life in state prison, eligible for parole after the term of years fixed by the court (set in section 24 of chapter 279)",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits murder in the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life in state prison, eligible for parole after the term of years fixed by the court (set in section 24 of chapter 279)",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "A person whose sentence for murder is commuted by the governor and council shall thereafter be subject to the laws governing parole"
+    ]
+   }
+  ]
+ },
+ "265/3": {
+  "shared": {
+   "who": "An inhabitant or resident of this commonwealth"
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Fights a duel outside its jurisdiction, and in so doing inflicts a mortal wound upon a person whereof he dies within the commonwealth",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The duel was by previous appointment or engagement made within the commonwealth",
+     "The person dies within the commonwealth"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of murder within this commonwealth; punishment not set in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "May be indicted, tried and convicted in the county where the death occurs"
+    ]
+   }
+  ]
+ },
+ "265/4": {
+  "shared": {
+   "who": "An inhabitant or resident of this commonwealth"
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Becomes the second of either party in such duel and is present as a second when a mortal wound is inflicted upon a person whereof he dies within this commonwealth",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "By previous appointment or engagement made within the commonwealth",
+     "The person dies within this commonwealth"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Accessory before the fact to murder in this commonwealth; punishment not set in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "May be indicted, tried and convicted in the county where the death occurs"
+    ]
+   }
+  ]
+ },
+ "265/9": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in a fight with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "By previous appointment or arrangement"
+    ],
+    "exceptions": [
+     "As provided in sections thirty-two to fifty, inclusive, of chapter one hundred and forty-seven"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or a fine of up to $5,000",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/10": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Is present at such fight as an aid, second or surgeon, or advises, encourages or promotes such fight",
+    "ways": [
+     "is present as an aid, second or surgeon",
+     "advises",
+     "encourages",
+     "promotes"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "As provided in sections thirty-two to fifty, inclusive, of chapter one hundred and forty-seven"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $1,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/11": {
+  "shared": {
+   "who": "An inhabitant or resident of this commonwealth"
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Leaves the same and engages in a fight with another person outside the limits thereof",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "By previous appointment or engagement made in the commonwealth"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or a fine of up to $5,000",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/12": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 3 months in the house of correction, a fine of up to $5,000, or both",
+     "min": null,
+     "max": 0.25,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Gives, promotes or engages in a public boxing, kickboxing, mixed martial arts or other unarmed combative sporting match or sparring exhibition",
+    "ways": [
+     "gives",
+     "promotes",
+     "engages in"
+    ],
+    "tags": [],
+    "conditions": [
+     "Directly or indirectly"
+    ],
+    "exceptions": [
+     "As provided in sections 32 to 50A, inclusive, of chapter 147"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Engages in a private boxing, kickboxing, mixed martial arts or other unarmed combative sporting event match or sparring exhibition",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Directly or indirectly",
+     "The contestants have received or have been promised any pecuniary reward, remuneration or consideration whatsoever"
+    ],
+    "exceptions": [
+     "As provided in sections 32 to 50A, inclusive, of chapter 147"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "265/13": {
+  "shared": {},
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits manslaughter",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison, or a fine of up to $1,000 and up to 2½ years in jail or a house of correction",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "",
+    "act": "Commits manslaughter",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "While violating the provisions of sections 102 to 102C, inclusive, of chapter 266"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "",
+    "act": "Commits manslaughter",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $250,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "who": "Any business organization including, without limitation, a corporation, association, partnership or other legal entity",
+    "consequences": [
+     "The appropriate commissioner or secretary may debar the corporation under section 29F of chapter 29 for up to 10 years"
+    ]
+   }
+  ]
+ },
+ "265/13A": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Serious bodily injury\": bodily injury that results in a permanent disfigurement, loss or impairment of a bodily function, limb or organ, or a substantial risk of death"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault or an assault and battery upon another",
+    "ways": [
+     "assault",
+     "assault and battery"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a house of correction or a fine of up to $1,000",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "A summons may be issued instead of a warrant if the court believes the person will appear upon a summons"
+    ]
+   },
+   {
+    "where": "(b)(i)",
+    "act": "Commits an assault or an assault and battery upon another",
+    "ways": [
+     "assault",
+     "assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The assault and battery causes serious bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in the house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)(ii)",
+    "act": "Commits an assault or an assault and battery upon another who is pregnant",
+    "ways": [
+     "assault",
+     "assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is pregnant at the time of the assault and battery"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in the house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or having reason to know that the person is pregnant"
+    ]
+   },
+   {
+    "where": "(b)(iii)",
+    "act": "Commits an assault or an assault and battery upon another",
+    "ways": [
+     "assault",
+     "assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim has an outstanding temporary or permanent vacate, restraining or no contact order or judgment issued pursuant to section 18, section 34B or 34C of chapter 208, section 32 of chapter 209, section 3, 4 or 5 of chapter 209A, or section 15 or 20 of chapter 209C, in effect against the person at the time"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in the house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows the victim has an outstanding temporary or permanent vacate, restraining or no contact order or judgment in effect against him"
+    ]
+   }
+  ]
+ },
+ "265/13B": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 10 years in state prison or up to 2½ years in the house of correction",
+     "min": null,
+     "max": 10,
+     "flags": []
+    }
+   ],
+   "consequences": [
+    "The prosecution shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an indecent assault and battery on a child under the age of 14",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: A child under the age of 14 years shall be deemed incapable of consenting to any conduct of the defendant"
+    ]
+   }
+  ]
+ },
+ "265/13B1~2": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Life or any term of years in state prison, but not less than 10 years",
+     "min": 10,
+     "max": 999,
+     "flags": [
+      "mandatory minimum",
+      "no parole",
+      "no probation"
+     ]
+    }
+   ],
+   "consequences": [
+    "The sentence shall not be reduced to less than 10 years, or suspended",
+    "Not eligible for probation, parole, work release, or furlough or any deduction for good conduct until 10 years of the sentence are served",
+    "Prosecutions shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an indecent assault and battery on a child under the age of 14",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "The indecent assault and battery was committed during the commission or attempted commission of: armed burglary; unarmed burglary; breaking and entering; entering without breaking; breaking and entering into a dwelling house; kidnapping; armed robbery; unarmed robbery; assault and battery with a dangerous weapon or assault with a dangerous weapon; home invasion; or posing or exhibiting child in state of nudity or sexual conduct (each as set forth in the chapter 265, 266 or 272 section named in this section)"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: A child under the age of 14 years shall be deemed incapable of consenting to any conduct of the defendant"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an indecent assault and battery on a child under the age of 14",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "At the time, the defendant was a mandated reporter as defined in section 21 of chapter 119"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: A child under the age of 14 years shall be deemed incapable of consenting to any conduct of the defendant"
+    ]
+   }
+  ]
+ },
+ "265/13B3~4": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Life or any term of years in state prison, but not less than 15 years",
+     "min": 15,
+     "max": 999,
+     "flags": [
+      "mandatory minimum",
+      "no parole",
+      "no probation"
+     ]
+    }
+   ],
+   "consequences": [
+    "The sentence shall not be reduced to less than 15 years, or suspended",
+    "Not eligible for probation, parole, work release or furlough or any deduction for good conduct until 15 years of the sentence are served",
+    "Prosecutions shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an indecent assault and battery on a child under the age of 14",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "The person has been previously convicted of or adjudicated delinquent or as a youthful offender for indecent assault and battery on a child under 14; aggravated indecent assault and battery on a child under 14; indecent assault and battery on a person 14 or older; assault of a child with intent to commit rape; rape of a child with force; aggravated rape of a child with force; rape and abuse of a child; aggravated rape and abuse of a child; rape; or a like violation of the laws of another state, the United States or a military, territorial or Indian tribal authority"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "265/13C": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "For the purpose of collecting a loan"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault and battery upon another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "3 to 5 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "5 to 10 years in state prison; sentence not suspended and no probation or parole until the minimum is served",
+      "min": 5,
+      "max": 10,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/13D": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Bodily substance\": any human secretion, discharge or emission including, but not limited to, blood, saliva, mucous, semen, urine or feces",
+    "\"Serious bodily injury\": bodily injury which results in a permanent disfigurement, protracted loss or impairment of a bodily function, limb or organ, or substantial risk of death"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault and battery, including assault and battery by means of a bodily substance, upon any public employee, public transit worker or any transit worker contracted or employed to operate public transit services",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is engaged in the performance of their duties at the time"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "90 days to 2½ years in a house of correction or a fine of $500 to $5,000, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "An officer may arrest without a warrant upon probable cause if the offense was upon a public employee operating a public transit vehicle"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits an offense under this section which includes an attempt to disarm a police officer in the performance of the officer's duties",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits an assault and battery upon a police officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer is engaged in the performance of the officer's duties at the time",
+     "The assault and battery causes serious bodily injury to the officer"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "1 to 10 years in state prison or 1 to 2½ years in the house of correction; a fine of $500 to $10,000 may be imposed but not in lieu of the mandatory minimum",
+      "min": 1,
+      "max": 10,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Prosecution shall not be placed on file or continued without a finding",
+     "Sentence shall not be suspended or reduced; no probation, parole, work release, furlough or good-conduct deduction until the mandatory minimum term is served"
+    ]
+   }
+  ]
+ },
+ "265/13D1~2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an offense set forth in section one, two, five or seven of chapter two hundred and sixty-six",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The offense results in injury to a firefighter in the performance of his duty"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/13F": {
+  "shared": {
+   "who": null,
+   "knowledge": [
+    "Knowing such person to have an intellectual disability"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an indecent assault and battery on a person with an intellectual disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim has an intellectual disability"
+    ],
+    "exceptions": [
+     "Does not apply to the commission of an indecent assault and battery by a person with an intellectual disability upon another person with an intellectual disability"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "5 to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Not less than 10 years in state prison; sentence not suspended and no probation or parole until the minimum is served",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits an assault and battery on a person with an intellectual disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim has an intellectual disability"
+    ],
+    "exceptions": [
+     "Does not apply to the commission of an assault and battery by a mentally retarded person upon another mentally retarded person"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a house of correction or up to 5 years in state prison",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Up to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/13G": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a felony",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "For the payment of consideration or for the promise of the payment of such consideration"
+    ],
+    "consequences": [
+     "In addition to the punishment provided by law for the felony so committed"
+    ]
+   }
+  ]
+ },
+ "265/13H": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an indecent assault and battery on a person who has attained age fourteen",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim has attained age fourteen"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits an indecent assault and battery on an elder or person with a disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is an elder or person with a disability, as defined in section 13K of chapter 265"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Prosecution shall not be placed on file nor continued without a finding"
+    ]
+   }
+  ]
+ },
+ "265/13H1~2": {
+  "shared": {
+   "who": "A law enforcement officer",
+   "terms": [
+    "\"Law enforcement officer\": a police officer, an auxiliary, intermittent, special, part-time or reserve police officer, a police officer in the employ of a public institution of higher education, a public prosecutor, a municipal or public emergency medical technician, a deputy sheriff, a correction officer, a court officer, a probation officer, a parole officer, an officer of the department of youth services, a constable, a campus police officer who holds authority as a special state police officer or a person impersonating one of the foregoing"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Commits an indecent assault and battery on a person who has attained the age of 14",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim has attained the age of 14",
+     "The victim is in the custody or control of the law enforcement officer"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: a person shall be deemed incapable of consent to contact of a sexual nature with a law enforcement officer"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits an indecent assault and battery on an elder or person with a disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is an elder or person with a disability, as defined in section 13K of chapter 265",
+     "The victim is in the custody or control of the law enforcement officer"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: a person shall be deemed incapable of consent to contact of a sexual nature with a law enforcement officer"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Commits an indecent assault and battery on a person in their custody or control",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is in the custody or control of the law enforcement officer",
+     "The victim has an intellectual disability"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: a person shall be deemed incapable of consent to contact of a sexual nature with a law enforcement officer"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "5 to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Not less than 10 years in state prison; sentence not suspended and no probation or parole until the minimum is served",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "knowledge": [
+     "The victim is known to the officer as having an intellectual disability"
+    ]
+   },
+   {
+    "where": "(e)",
+    "act": "Commits an indecent assault and battery on a child under the age of 14",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "The victim is in the custody or control of the law enforcement officer"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense: a child under the age of 14 shall be deemed incapable of consent to contact of a sexual nature with a law enforcement officer"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Prosecution shall neither be continued without a finding nor placed on file"
+    ]
+   }
+  ]
+ },
+ "265/13H3~4": {
+  "shared": {
+   "who": "A person who is, or holds themselves out to be, a health care provider or clergy member",
+   "terms": [
+    "\"Health care provider\": a person licensed by the commonwealth to provide health care as a physician, dentist, registered or licensed nurse, optometrist, podiatrist, chiropractor, physical therapist, psychologist, social worker or acupuncturist acting in the scope and course of their employment"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Commits an indecent assault and battery on a patient or client during the course of diagnosis, counseling or treatment",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a patient or client",
+     "During the course of diagnosis, counseling or treatment"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Consent is not a defense when consent was procured by a false representation that such contact was for a legitimate medical, counseling or treatment purpose and not consistent with generally accepted principles of professional medical practice"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in a house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/13I": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Health care provider\": as defined in section 1 of chapter 111"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault or an assault and battery on an emergency medical technician, an ambulance operator, an ambulance attendant or a health care provider",
+    "ways": [
+     "assault",
+     "assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The technician, operator, attendant or provider is treating or transporting a person in the line of duty"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "90 days to 2½ years in the house of correction or a fine of $500 to $5,000, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/13J": {
+  "shared": {
+   "terms": [
+    "\"Bodily injury\": substantial impairment of the physical condition including any burn, fracture of any bone, subdural hematoma, injury to any internal organ, any injury which occurs as the result of repeated harm to any bodily function or organ including human skin or any physical condition which substantially imperils a child's health or welfare",
+    "\"Child\": any person under fourteen years of age",
+    "\"Person having care and custody\": a parent, guardian, employee of a home or institution or any other person with equivalent supervision or care of a child, whether the supervision is temporary or permanent",
+    "\"Substantial bodily injury\": bodily injury which creates a permanent disfigurement, protracted loss or impairment of a function of a body member, limb or organ, or substantial risk of death"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Commits an assault and battery upon a child and by such assault and battery causes bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "The assault and battery causes bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault and battery upon a child and by such assault and battery causes substantial bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "The assault and battery causes substantial bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "(b)",
+    "act": "Permits bodily injury to such child or permits another to commit an assault and battery upon such child, which assault and battery causes bodily injury",
+    "ways": [
+     "permits bodily injury",
+     "permits another to commit an assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "Bodily injury results"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ],
+    "who": "A person having care and custody of a child",
+    "mentalState": [
+     "Wantonly or recklessly"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Permits substantial bodily injury to such child or permits another to commit an assault and battery upon such child, which assault and battery causes substantial bodily injury",
+    "ways": [
+     "permits substantial bodily injury",
+     "permits another to commit an assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 14",
+     "Substantial bodily injury results"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "who": "A person having care and custody of a child",
+    "mentalState": [
+     "Wantonly or recklessly"
+    ]
+   }
+  ]
+ },
+ "265/13K": {
+  "shared": {
+   "terms": [
+    "\"Abuse\": physical contact which either harms or creates a substantial likelihood of harm",
+    "\"Bodily injury\": substantial impairment of the physical condition, including, but not limited to, any burn, fracture of any bone, subdural hematoma, injury to any internal organ, or any injury which occurs as the result of repeated harm to any bodily function or organ, including human skin",
+    "\"Caretaker\": a person with responsibility for the care of an elder or person with a disability, which responsibility may arise as the result of a family relationship, or by a fiduciary duty imposed by law, or by a voluntary or contractual duty undertaken on behalf of such elder or person with a disability; only if a reasonable person would believe that such person's failure to fulfill such responsibility would adversely affect the physical health of such elder or person with a disability; minor children and adults adjudicated incompetent may not be deemed to be caretakers",
+    "\"Elder\": a person sixty years of age or older",
+    "\"Mistreatment\": the use of medications or treatments, isolation, or physical or chemical restraints which harms or creates a substantial likelihood of harm",
+    "\"Neglect\": the failure to provide treatment or services necessary to maintain health and safety and which either harms or creates a substantial likelihood of harm",
+    "\"Person with disability\": a person with a permanent or long-term physical or mental impairment that prevents or restricts the individual's ability to provide for his or her own care or protection",
+    "\"Serious bodily injury\": bodily injury which results in a permanent disfigurement, protracted loss or impairment of a bodily function, limb or organ, or substantial risk of death"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a1/2)",
+    "act": "Commits an assault and battery upon an elder or person with a disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is an elder (60 or older) or a person with a disability"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 3 years in state prison or up to 2½ years in a house of correction, a fine of up to $1,000, or both",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault and battery upon an elder or person with a disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is an elder (60 or older) or a person with a disability",
+     "The assault and battery causes bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in the house of correction, a fine of up to $1,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "(c)",
+    "act": "Commits an assault and battery upon an elder or person with a disability",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is an elder (60 or older) or a person with a disability",
+     "The assault and battery causes serious bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in the house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "who": null
+   },
+   {
+    "where": "(d)",
+    "act": "Permits bodily injury to such elder or person with a disability, or permits another to commit an assault and battery upon such elder or person with a disability which assault and battery causes bodily injury",
+    "ways": [
+     "permits bodily injury",
+     "permits another to commit an assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "Bodily injury results"
+    ],
+    "exceptions": [
+     "Conduct is not wanton or reckless if directed by a competent elder or person with a disability, or for the sole reason that, in lieu of medical treatment, the elder or person with a disability is furnished or relies upon treatment by spiritual means through prayer in accordance with the tenets and practices of their established religious tradition, at the direction of the competent elder or person with a disability or of a properly designated health care proxy"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in the house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "who": "A caretaker of an elder or person with a disability",
+    "mentalState": [
+     "Wantonly or recklessly"
+    ]
+   },
+   {
+    "where": "(d1/2)",
+    "act": "Commits or permits another to commit abuse, neglect or mistreatment upon such elder or person with a disability",
+    "ways": [
+     "commits",
+     "permits another to commit"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Conduct is not wanton or reckless if directed by a competent elder or person with a disability, or for the sole reason that, in lieu of medical treatment, the elder or person with a disability is furnished or relies upon treatment by spiritual means through prayer in accordance with the tenets and practices of their established religious tradition, at the direction of the competent elder or person with a disability or of a properly designated health care proxy"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 3 years in state prison or up to 2½ years in the house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ],
+    "who": "A caretaker of an elder or person with a disability",
+    "mentalState": [
+     "Wantonly or recklessly"
+    ]
+   },
+   {
+    "where": "(e)",
+    "act": "Permits serious bodily injury to such elder or person with a disability, or permits another to commit an assault and battery upon such elder or person with a disability which assault and battery causes serious bodily injury",
+    "ways": [
+     "permits serious bodily injury",
+     "permits another to commit an assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "Serious bodily injury results"
+    ],
+    "exceptions": [
+     "Conduct is not wanton or reckless if directed by a competent elder or person with a disability, or for the sole reason that, in lieu of medical treatment, the elder or person with a disability is furnished or relies upon treatment by spiritual means through prayer in accordance with the tenets and practices of their established religious tradition, at the direction of the competent elder or person with a disability or of a properly designated health care proxy"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in the house of correction, a fine of up to $10,000, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "who": "A caretaker of an elder or person with a disability",
+    "mentalState": [
+     "Wantonly or recklessly"
+    ]
+   }
+  ]
+ },
+ "265/13L": {
+  "shared": {
+   "who": null,
+   "mentalState": [
+    "Wantonly or recklessly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 2½ years in the house of correction",
+     "min": null,
+     "max": 2.5,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"Child\": any person under 18 years of age",
+    "\"Serious bodily injury\": bodily injury which results in a permanent disfigurement, protracted loss or impairment of a bodily function, limb or organ, or substantial risk of death",
+    "\"Sexual abuse\": indecent assault and battery on a child under 14; aggravated indecent assault and battery on a child under 14; a repeat offense of it; indecent assault and battery on a person age 14 or over; rape; rape of a child under 16 with force; aggravated rape of a child under 16 with force; a repeat offense of it; rape and abuse of a child; aggravated rape and abuse of a child; a repeat offense of it; assault with intent to commit rape; and assault of a child with intent to commit rape (each under the section of chapter 265 named in this section)",
+    "\"Wanton or reckless\": the person is aware of and consciously disregards a substantial and unjustifiable risk that his acts, or omissions where there is a duty to act, would result in serious bodily injury or sexual abuse to a child; the disregard must be a gross deviation from the standard of conduct that a reasonable person would observe in the situation"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in conduct that creates a substantial risk of serious bodily injury or sexual abuse to a child",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 18"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Fails to take reasonable steps to alleviate such risk",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 18",
+     "There is a duty to act"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "265/13M": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Family or household member\": persons who (i) are or were married to one another, (ii) have a child in common regardless of whether they have ever married or lived together or (iii) are or have been in a substantive dating or engagement relationship, considering the length of time of the relationship, the type of relationship, the frequency of interaction, whether it was terminated by either person, and the time elapsed since termination"
+   ],
+   "consequences": [
+    "The court shall order the defendant to complete a certified batterer's intervention program, unless the court issues specific written findings for good cause or the program determines the defendant is not suitable"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault or assault and battery on a family or household member",
+    "ways": [
+     "assault",
+     "assault and battery"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is a family or household member"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction or a fine of up to $5,000, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Up to 2½ years in the house of correction or up to 5 years in state prison",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/14": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 20 years in state prison, or a fine of up to $1,000 and up to 2½ years in jail",
+     "min": null,
+     "max": 20,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Cuts out or maims the tongue, puts out or destroys an eye, cuts or tears off an ear, cuts, slits or mutilates the nose or lip, or cuts off or disables a limb or member, of another person",
+    "ways": [
+     "cuts out or maims the tongue",
+     "puts out or destroys an eye",
+     "cuts or tears off an ear",
+     "cuts, slits or mutilates the nose or lip",
+     "cuts off or disables a limb or member"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With malicious intent to maim or disfigure"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Assaults another person with a dangerous weapon, substance or chemical, and by such assault disfigures, cripples or inflicts serious or permanent physical injury upon such person",
+    "ways": [
+     "disfigures",
+     "cripples",
+     "inflicts serious or permanent physical injury"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to maim or disfigure"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Is privy to such intent, or is present and aids in the commission of such crime",
+    "ways": [
+     "is privy to such intent",
+     "is present and aids"
+    ],
+    "tags": [],
+    "conditions": [
+     "One of the mayhem crimes described in this section is committed"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "265/15": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With intent to commit murder, or to maim or disfigure his person in any way described in the preceding section"
+    ]
+   }
+  ]
+ },
+ "265/15A": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits assault and battery upon a person sixty years or older by means of a dangerous weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is 60 years or older"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 or up to 2½ years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Imprisonment for not less than 2 years; the sentence shall not be reduced until 2 years have been served",
+      "min": 2,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Second or subsequent offense: not eligible for probation, parole, furlough, work release or good-conduct deductions until 2 years of the sentence are served",
+     "The commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+     "The court's power to place certain offenders on probation (section 87 of chapter 276) does not apply to a person 18 years of age or over charged under this subsection"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault and battery upon another by means of a dangerous weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in a house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(i)",
+    "act": "Commits an assault and battery upon another by means of a dangerous weapon and by such assault and battery causes serious bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The assault and battery causes serious bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Serious bodily injury\": bodily injury which results in a permanent disfigurement, loss or impairment of a bodily function, limb or organ, or a substantial risk of death"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a house of correction, a fine of up to $10,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(ii)",
+    "act": "Commits an assault and battery upon another by means of a dangerous weapon who is pregnant",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is pregnant at the time of the assault and battery"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to know that the person is pregnant"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a house of correction, a fine of up to $10,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(iii)",
+    "act": "Commits an assault and battery upon another by means of a dangerous weapon who has an outstanding vacate, restraining or no contact order or judgment in effect against him",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim has an outstanding temporary or permanent vacate, restraining or no contact order or judgment in effect against the defendant at the time"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knows the person has an outstanding temporary or permanent vacate, restraining or no contact order or judgment in effect against him"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a house of correction, a fine of up to $10,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(iv)",
+    "act": "Commits an assault and battery upon a child under the age of 14 by means of a dangerous weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under the age of 14"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person 18 years of age or older",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a house of correction, a fine of up to $10,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/15B": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault upon a person sixty years or older by means of a dangerous weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is 60 years or older"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $1,000 or up to 2½ years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime (a conviction under subsection (a) of section 15A or paragraph (a) of section 18 also counts)",
+      "penalty": "Imprisonment for not less than 2 years; the sentence shall not be reduced until 1 year has been served",
+      "min": 2,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Second or subsequent offense: not eligible for probation, parole, furlough, work release or good-conduct deductions until 1 year of the sentence is served",
+     "The commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+     "The court's power to place certain offenders on probation (section 87 of chapter 276) does not apply to a person 18 years of age or over charged under this subsection"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault upon another by means of a dangerous weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison, or a fine of up to $1,000 or up to 2½ years in jail",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/15C": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault upon another, by means of a hypodermic syringe, hypodermic needle, or any instrument adapted for the administration of controlled or other substances by injection",
+    "ways": [
+     "hypodermic syringe",
+     "hypodermic needle",
+     "any instrument adapted for the administration of controlled or other substances by injection"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison or up to 2½ years in a house of correction, a fine of up to $1,000, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault and battery upon another, by means of a hypodermic syringe, hypodermic needle, or any instrument adapted for the administration of controlled or other substances by injection",
+    "ways": [
+     "hypodermic syringe",
+     "hypodermic needle",
+     "any instrument adapted for the administration of controlled or other substances by injection"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/15D": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Strangulation\": the intentional interference of the normal breathing or circulation of blood by applying substantial pressure on the throat or neck of another",
+    "\"Suffocation\": the intentional interference of the normal breathing or circulation of blood by blocking the nose or mouth of another"
+   ],
+   "consequences": [
+    "For any violation, or as a condition of a continuance without a finding, the court shall order the defendant to complete a certified batterer's intervention program, unless on good cause shown the court issues specific written findings why it should not be ordered or the program determines the defendant is not suitable"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Strangles or suffocates another person",
+    "ways": [
+     "strangles",
+     "suffocates"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in state prison or up to 2½ years in a house of correction, a fine of up to $5,000, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person was previously convicted of strangling or suffocating another person under this section, or of a like offense in another state or the United States or a military, territorial or Indian tribal authority",
+      "penalty": "Up to 10 years in state prison, or up to 2½ years in a house of correction, and a fine of up to $10,000",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(i)",
+    "act": "Strangles or suffocates another person and by such strangulation or suffocation causes serious bodily injury",
+    "ways": [
+     "strangles",
+     "suffocates"
+    ],
+    "tags": [],
+    "conditions": [
+     "The strangulation or suffocation causes serious bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Serious bodily injury\": bodily injury that results in a permanent disfigurement, loss or impairment of a bodily function, limb or organ or creates a substantial risk of death"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or up to 2½ years in a house of correction, and a fine of up to $10,000",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(ii)",
+    "act": "Strangles or suffocates another person, who is pregnant",
+    "ways": [
+     "strangles",
+     "suffocates"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is pregnant at the time of the strangulation or suffocation"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to know that the person is pregnant"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or up to 2½ years in a house of correction, and a fine of up to $10,000",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(iv)",
+    "act": "Strangles or suffocates another person",
+    "ways": [
+     "strangles",
+     "suffocates"
+    ],
+    "tags": [],
+    "conditions": [
+     "An outstanding temporary or permanent vacate, restraining or no contact order or judgment is in effect against the defendant at the time of the offense"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "With knowledge that the individual has an outstanding temporary or permanent vacate, restraining or no contact order or judgment in effect against such person"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or up to 2½ years in a house of correction, and a fine of up to $10,000",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/15E": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault and battery upon another by discharging a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The firearm is a firearm as defined in section 121 of chapter 140"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison or up to 2½ years in a house of correction or a fine of up to $10,000, or both",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/15F": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Attempts to commit an assault and battery upon another by means of discharging a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The firearm is a firearm as defined in section 121 of chapter 140"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a house of correction or a fine of up to $10,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/16": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Attempts to commit murder by poisoning, drowning or strangling another person, or by any means not constituting an assault with intent to commit murder",
+    "ways": [
+     "poisoning",
+     "drowning",
+     "strangling",
+     "any means not constituting an assault with intent to commit murder"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison, or a fine of up to $1,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/17": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults another and robs, steals or takes from his person money or other property which may be the subject of larceny",
+    "ways": [
+     "robs",
+     "steals",
+     "takes"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is armed with a dangerous weapon"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while masked or disguised or with features artificially distorted (first offense)",
+      "penalty": "Not less than 5 years imprisonment",
+      "min": 5,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the offense is committed while masked or disguised or with features artificially distorted (subsequent offense)",
+      "penalty": "Not less than 10 years imprisonment",
+      "min": 10,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 5 years in state prison",
+      "min": 5,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "a subsequent offense is committed while armed with a firearm",
+      "penalty": "Not less than 15 years in state prison",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/18": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to rob or murder"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Assaults a person sixty years or older",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is armed with a dangerous weapon",
+     "The victim is 60 years or older"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 10 years in state prison",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Imprisonment for not less than 2 years; the sentence shall not be reduced until 2 years have been served",
+      "min": 2,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     },
+     {
+      "if": "the person has a prior conviction for this crime committed while armed with a firearm and commits it again",
+      "penalty": "Not less than 20 years in state prison",
+      "min": 20,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ],
+    "consequences": [
+     "Second or subsequent offense: not eligible for probation, parole, furlough, work release or good-conduct deductions until 2 years of the sentence are served",
+     "The commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+     "The court's power to place certain offenders on probation (section 87 of chapter 276) does not apply to a person 18 years of age or over charged under this subsection"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Assaults another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is armed with a dangerous weapon"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the person is armed with a firearm, shotgun, rifle, machine gun or assault weapon",
+      "penalty": "Not less than 5 and not more than 20 years in state prison",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/18A": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit a felony"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Enters a dwelling house and while therein assaults another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is armed with a dangerous weapon"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life, or a term of not less than 10 years, in state prison; not eligible for parole in less than 5 years",
+      "min": 10,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no parole"
+      ]
+     },
+     {
+      "if": "the dangerous weapon is a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 10 years in state prison; not eligible for parole before 10 years",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/18B": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "The sentence is in addition to the penalty for the underlying offense",
+    "Not eligible for probation, parole, furlough, work release or good-conduct deductions until the minimum term of the additional sentence is served; a second or subsequent offense sentence shall not be reduced or suspended",
+    "The commissioner of correction may grant a temporary release in custody only to attend the funeral of a spouse or next of kin, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+    "Prosecutions shall neither be continued without a finding nor placed on file",
+    "The court's power to place certain offenders on probation (section 87 of chapter 276) does not apply to a person 18 years of age or over charged under this section"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Has in his possession or under his control a firearm",
+    "ways": [
+     "possession",
+     "control"
+    ],
+    "tags": [],
+    "conditions": [
+     "While in the commission or attempted commission of an offense which may be punished by imprisonment in the state prison",
+     "The firearm is a firearm as defined in section 121 of chapter 140"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years in state prison, in addition to the penalty for the underlying offense",
+      "min": 5,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     },
+     {
+      "if": "the firearm is a large capacity firearm, or the person has a machine gun in his possession or control",
+      "penalty": "Not less than 10 years in state prison",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     },
+     {
+      "if": "the person previously committed a state-prison offense while possessing or controlling a firearm (second or subsequent offense)",
+      "penalty": "Not less than 20 years in state prison",
+      "min": 20,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     },
+     {
+      "if": "second or subsequent offense and the firearm is a large capacity semiautomatic firearm or the person has a machine gun",
+      "penalty": "Not less than 25 years in state prison",
+      "min": 25,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/18C": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Enters the dwelling place of another, or enters and remains in such dwelling place, while armed with a dangerous weapon, and uses force or threatens the imminent use of force upon any person within such dwelling place, or causes any injury to any person within such dwelling place",
+    "ways": [
+     "enters",
+     "enters and remains"
+    ],
+    "tags": [],
+    "conditions": [
+     "One or more persons are present within the dwelling place",
+     "The person is armed with a dangerous weapon",
+     "Force is used or threatened, whether or not injury occurs, or injury is intentionally caused"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly enters (or enters and remains)",
+     "Knowing or having reason to know that one or more persons are present within"
+    ],
+    "intent": [
+     "Intentionally (for causing injury)"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of not less than 20 years in state prison",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/19": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Robs, steals or takes from the person of a person sixty years or older, or from his immediate control, money or other property which may be the subject of larceny",
+    "ways": [
+     "by force and violence",
+     "by assault and putting in fear"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is not armed with a dangerous weapon",
+     "The victim is 60 years or older"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Imprisonment for not less than 2 years; the sentence shall not be reduced until 2 years have been served",
+      "min": 2,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Second or subsequent offense: not eligible for probation, parole, furlough, work release or good-conduct deductions until 2 years of the sentence are served",
+     "The commissioner of correction may grant a temporary release in custody only to attend the funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services unavailable at the institution",
+     "The court's power to place certain offenders on probation (section 87 of chapter 276) does not apply to a person 18 years of age or over charged under this subsection"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Robs, steals or takes from the person of another, or from his immediate control, money or other property which may be the subject of larceny",
+    "ways": [
+     "by force and violence",
+     "by assault and putting in fear"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is not armed with a dangerous weapon"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/20": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults another with force and violence",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is not armed with a dangerous weapon"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to rob or steal"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/21": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With intent to commit larceny or any felony"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Life or any term of years in state prison",
+     "min": null,
+     "max": 999,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Confines, maims, injures or wounds, or attempts or threatens to kill, confine, maim, injure or wound, or puts any person in fear, for the purpose of stealing from a building, bank, safe, vault or other depository of money, bonds or other valuables",
+    "ways": [
+     "confines",
+     "maims",
+     "injures",
+     "wounds",
+     "attempts or threatens to kill, confine, maim, injure or wound",
+     "puts any person in fear"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "Whether he succeeds or fails in the perpetration of the larceny or felony"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to commit larceny or any felony",
+     "For the purpose of stealing from a building, bank, safe, vault or other depository of money, bonds or other valuables"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Compels or attempts to compel any person to disclose or surrender the means of opening any building, bank, safe, vault or other depository of money, bonds, or other valuables",
+    "ways": [
+     "by intimidation",
+     "by force",
+     "by threats"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "Whether he succeeds or fails in the perpetration of the larceny or felony"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "265/21A": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults, confines, maims or puts any person in fear for the purpose of stealing a motor vehicle",
+    "ways": [
+     "assaults",
+     "confines",
+     "maims",
+     "puts any person in fear"
+    ],
+    "tags": [],
+    "conditions": [
+     "Whether he succeeds or fails in stealing the motor vehicle"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to steal a motor vehicle"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison or up to 2½ years in a jail or house of correction, and a fine of $1,000 to $15,000",
+      "min": null,
+      "max": 15,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a dangerous weapon",
+      "penalty": "Up to 20 years in state prison or 1 to 2½ years in a jail or house of correction, and a fine of not less than five nor more than fifteen thousand dollars",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 7 years in state prison",
+      "min": 7,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/22": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "Second or subsequent offense: not eligible for furlough, temporary release, or education, training or employment programs outside a correctional facility until two-thirds of the minimum sentence (or of the aggregate minimum terms of non-concurrent sentences) is served"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a person and compels such person to submit by force and against his will, or compels such person to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The intercourse results in or is committed with acts resulting in serious bodily injury, or is committed by a joint enterprise, or is committed during the commission or attempted commission of an offense defined in section 15A, 15B, 17, 19 or 26 of chapter 265, section 14, 15, 16, 17 or 18 of chapter 266 or section 10 of chapter 269"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 10 years in state prison",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "a second or subsequent offense is committed while armed with a firearm",
+      "penalty": "Life or any term of years in state prison, but not less than 15 years",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a person and compels such person to submit by force and against his will, or compels such person to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 10 years in state prison",
+      "min": 10,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "a second or subsequent offense is committed while armed with a firearm",
+      "penalty": "Life or any term of years in state prison, but not less than 15 years",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Has sexual intercourse with a person in the custody or control of the law enforcement officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is in the custody or control of the law enforcement officer",
+     "The person is deemed incapable of consent to sexual intercourse with the officer"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A law enforcement officer",
+    "terms": [
+     "\"Sexual intercourse\": includes vaginal, oral or anal intercourse, including fellatio, cunnilingus or other intrusion of a part of a person's body or an object into the genital or anal opening of another person's body",
+     "\"Law enforcement officer\": a police officer; an auxiliary, intermittent, special, part-time or reserve police officer; a police officer employed by a public institution of higher education; a public prosecutor; a municipal or public emergency medical technician; a deputy sheriff; a correction officer; a court officer; a probation officer; a parole officer; an officer of the department of youth services; a constable; a campus police officer who holds authority as a special state police officer; or a person impersonating any of these"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Punished as a violation of subsection (b): up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/22A": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "The prosecution shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/22B": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Life or any term of years in state prison, but not less than 15 years",
+     "min": 15,
+     "max": 999,
+     "flags": [
+      "mandatory minimum",
+      "no parole",
+      "no probation"
+     ]
+    }
+   ],
+   "consequences": [
+    "The sentence shall not be reduced to less than 15 years or suspended",
+    "Not eligible for probation, parole, work release or furlough or good-conduct deductions until 15 years of the sentence are served",
+    "Prosecutions shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The intercourse is committed during the commission or attempted commission of: armed burglary; unarmed burglary; breaking and entering; entering without breaking; breaking and entering into a dwelling house; kidnapping; armed robbery; unarmed robbery; assault and battery with a dangerous weapon or assault with a dangerous weapon; home invasion; or posing or exhibiting child in state of nudity or sexual conduct"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(b)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The intercourse results in, or is committed by means of an act or acts resulting in, substantial bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Substantial bodily injury\": as defined in section 13J of chapter 265"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The intercourse is committed while the victim is tied, bound or gagged"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(d)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The intercourse is committed after the defendant administered, or caused to be administered, alcohol or a controlled substance by injection, inhalation, ingestion, or any other means to the victim without the victim's consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(e)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The intercourse is committed by a joint enterprise"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(f)",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The intercourse was committed in a manner in which the victim could contract a sexually transmitted disease or infection of which the defendant was a carrier"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knew or should have known he was a carrier of a sexually transmitted disease or infection"
+    ]
+   }
+  ]
+ },
+ "265/22C": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Has sexual intercourse or unnatural sexual intercourse with a child under 16, and compels such child to submit by force and against his will or compels such child to submit by threat of bodily injury",
+    "ways": [
+     "by force and against his will",
+     "by threat of bodily injury"
+    ],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16",
+     "The person has been previously convicted of or adjudicated delinquent or as a youthful offender for: indecent assault and battery on a child under 14; aggravated indecent assault and battery on a child under 14; indecent assault and battery on a person 14 or older; assault of a child with intent to commit rape; rape of a child with force; aggravated rape of a child with force; rape and abuse of a child; aggravated rape and abuse of a child; rape; or a like violation of the laws of another state, the United States or a military, territorial or Indian tribal authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison, but not less than 20 years",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "The sentence shall not be reduced to less than 20 years or suspended",
+     "Not eligible for probation, parole, work release or furlough or good-conduct deductions until 20 years of the sentence are served",
+     "Prosecutions shall neither be continued without a finding nor placed on file",
+     "Certified attested copies of court papers or of probation, jail, house of correction or department of correction records are prima facie evidence of the prior conviction, admissible after guilt on the primary offense is established"
+    ]
+   }
+  ]
+ },
+ "265/22D": {
+  "shared": {
+   "who": "A person who is, or holds themselves out to be, a health care provider or clergy member"
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Induces by false misrepresentation a patient or client to engage in sexual intercourse during the course of diagnosis, counseling or treatment",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The patient or client is deemed incapable of consenting when consent was procured by false representation that the contact was for a legitimate medical, counseling or treatment purpose and not consistent with generally accepted principles of professional medical practice"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly"
+    ],
+    "terms": [
+     "\"Health care provider\": a person licensed by the commonwealth to provide health care or professional services as a physician, dentist, registered or licensed nurse, optometrist, podiatrist, chiropractor, physical therapist, psychologist, social worker or acupuncturist acting in the scope and course of their employment"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/23": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "The prosecution shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Unlawfully has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16 years of age"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison or, except as otherwise provided, any term in a jail or house of correction",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/23A": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Life or any term of years in state prison, but not less than 10 years",
+     "min": 10,
+     "max": 999,
+     "flags": [
+      "mandatory minimum",
+      "no parole",
+      "no probation"
+     ]
+    }
+   ],
+   "consequences": [
+    "The sentence shall not be reduced to less than 10 years or suspended",
+    "Not eligible for probation, parole, work release or furlough or good-conduct deductions until 10 years of the sentence are served",
+    "Prosecutions shall neither be continued without a finding nor placed on file"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Unlawfully has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "There exists more than a 5 year age difference between the defendant and the victim",
+     "The victim is under 12 years of age"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(b)",
+    "act": "Unlawfully has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "There exists more than a 10 year age difference between the defendant and the victim",
+     "The victim is between the age of 12 and 16 years of age"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(c)",
+    "act": "Unlawfully has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16 years of age"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A mandated reporter, as defined in section 21 of chapter 119, at the time of the intercourse"
+   }
+  ]
+ },
+ "265/23B": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Unlawfully has sexual intercourse or unnatural sexual intercourse, and abuses a child under 16 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16 years of age",
+     "The person has been previously convicted of or adjudicated delinquent or as a youthful offender for: indecent assault and battery on a child under 14; aggravated indecent assault and battery on a child under 14; indecent assault and battery on a person 14 or older; assault of a child with intent to commit rape; rape of a child with force; aggravated rape of a child with force; rape and abuse of a child; aggravated rape and abuse of a child; rape; or a like violation of the laws of another state, the United States or a military, territorial or Indian tribal authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison, but not less than 15 years",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "The sentence shall not be reduced to less than 15 years or suspended",
+     "Not eligible for probation, parole, work release or furlough or good-conduct deductions until 15 years of the sentence are served",
+     "Prosecutions shall neither be continued without a finding nor placed on file",
+     "Certified attested copies of court papers or of probation, jail, house of correction or department of correction records are prima facie evidence of the prior conviction, admissible after guilt on the primary offense is established"
+    ]
+   }
+  ]
+ },
+ "265/24": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults a person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to commit a rape"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 20 years in state prison or up to 2½ years in a jail or house of correction",
+      "min": null,
+      "max": 20,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Not less than 5 years in state prison",
+      "min": 5,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "a second or subsequent offense is committed while armed with a firearm",
+      "penalty": "Life or any term of years in state prison, but not less than 20 years",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ],
+    "consequences": [
+     "Second or subsequent offense: not eligible for furlough, temporary release, or education, training or employment programs outside a correctional facility until two-thirds of the minimum sentence (or of the aggregate minimum terms of non-concurrent sentences) is served"
+    ]
+   }
+  ]
+ },
+ "265/24B": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults a child under sixteen",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 16"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to commit a rape"
+    ],
+    "terms": [
+     "\"Rape\": as defined in section 39 of chapter 277"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the person is over the age of 18 and has a prior conviction for this crime",
+      "penalty": "Life or any term of years in state prison, but not less than 5 years",
+      "min": 5,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140",
+      "penalty": "Life or any term of years in state prison, but not less than 10 years",
+      "min": 10,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the person is over the age of 18 and commits a second or subsequent such offense while armed with a firearm",
+      "penalty": "Life or any term of years in state prison, but not less than 15 years",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/24C": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Publish, disseminate or otherwise disclose the name of any individual identified as an alleged victim of any of the offenses described in the first paragraph",
+    "ways": [
+     "publish",
+     "disseminate",
+     "otherwise disclose"
+    ],
+    "tags": [],
+    "conditions": [
+     "The individual is identified as an alleged victim in an arrest, investigation or complaint for rape or assault with intent to rape under section 13B, 13B1/2, 13B3/4, 22, 22A, 22B, 22C, 23, 23A, 23B, 24 or 24B of chapter 265, or for trafficking of persons under section 50 of chapter 265"
+    ],
+    "exceptions": [
+     "Except as otherwise provided in this section"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $2,500 nor more than $10,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/25": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 15 years in state prison, or up to 2½ years in a house of correction, or a fine of up to $5,000, or both",
+     "min": null,
+     "max": 15,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Threatens to accuse another of a crime or offence",
+    "ways": [
+     "verbally",
+     "by a written or printed communication"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Maliciously",
+     "With intent thereby to extort money or any pecuniary advantage, or with intent to compel any person to do any act against his will"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Threatens an injury to the person or property of another",
+    "ways": [
+     "by a verbal communication",
+     "by a written or printed communication"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Maliciously",
+     "With intent thereby to extort money or any pecuniary advantage, or with intent to compel any person to do any act against his will"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Uses or threatens to use against another the power or authority vested in him",
+    "ways": [
+     "uses",
+     "threatens to use"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Any police officer or person having the powers of a police officer, or any officer, or employee of any licensing authority",
+    "intent": [
+     "Maliciously and unlawfully",
+     "With intent thereby to extort money or any pecuniary advantage, or with intent to compel any person to do any act against his will"
+    ]
+   }
+  ]
+ },
+ "265/26": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Serious bodily injury\": bodily injury which results in a permanent disfigurement, protracted loss or impairment of a bodily function, limb or organ or substantial risk of death",
+    "\"Sexual assault\": the commission of any act set forth in sections 13B, 13B1/2, 13B3/4, 13F, 13H, 22, 22A, 22B, 22C, 23, 23A, 23B, 24 or 24B of chapter 265"
+   ],
+   "intent": [
+    "For seizing and confining, inveigling or kidnapping: with intent either to cause the person to be secretly confined or imprisoned in the commonwealth against his will, or to cause him to be sent out of the commonwealth against his will or in any way held to service against his will"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Forcibly or secretly confines or imprisons another person within this commonwealth against his will, or forcibly carries or sends such person out of this commonwealth, or forcibly seizes and confines or inveigles or kidnaps another person",
+    "ways": [
+     "forcibly or secretly confines or imprisons",
+     "forcibly carries or sends out of the commonwealth",
+     "forcibly seizes and confines",
+     "inveigles",
+     "kidnaps"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in state prison, or a fine of up to $1,000 and up to 2 years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed with the intent to extort money or other valuable thing",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140 (does not apply to the parent of a child under 18 who takes custody of such child)",
+      "penalty": "Not less than 10 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm and with the intent to extort money or other valuable thing",
+      "penalty": "Life or any term of years in state prison, but not less than 20 years",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the offense is committed while armed with a dangerous weapon and the person inflicts serious bodily injury upon another person or sexually assaults such person",
+      "penalty": "Not less than 25 years in state prison",
+      "min": 25,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Forcibly or secretly confines or imprisons a child under the age of 16 within the commonwealth against his will or forcibly carries or sends such person out of the commonwealth or forcibly seizes and confines or inveigles or kidnaps a child under the age of 16",
+    "ways": [
+     "forcibly or secretly confines or imprisons",
+     "forcibly carries or sends out of the commonwealth",
+     "forcibly seizes and confines",
+     "inveigles",
+     "kidnaps"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority",
+     "The victim is a child under the age of 16"
+    ],
+    "exceptions": [
+     "Does not apply to the parent of a child under 16 years of age who takes custody of such child"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in state prison",
+      "min": null,
+      "max": 15,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed with the intent to extort money or other valuable thing",
+      "penalty": "Life or any term of years in state prison",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm, as defined in section 121 of chapter 140 (does not apply to the parent of a child under 18 who takes custody of such child)",
+      "penalty": "Not less than 10 years in state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm and with the intent to extort money or other valuable thing",
+      "penalty": "Life or any term of years in state prison, but not less than 20 years",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the offense is committed while armed with a dangerous weapon and the person inflicts serious bodily injury upon another person or sexually assaults such person",
+      "penalty": "Not less than 25 years in state prison",
+      "min": 25,
+      "max": null,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "265/26A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 1 year in the house of correction, a fine of up to $1,000, or both",
+     "min": null,
+     "max": 1,
+     "flags": []
+    },
+    {
+     "if": "the offense is committed by taking or holding the child outside the commonwealth or under circumstances which expose the person taken or enticed from lawful custody to a risk which endangers his safety",
+     "penalty": "A fine of up to $5,000, up to 5 years in the state prison, or both",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Holds or intends to hold such a child permanently or for a protracted period, or takes or entices such a child from his lawful custodian",
+    "ways": [
+     "holds",
+     "intends to hold",
+     "takes",
+     "entices"
+    ],
+    "tags": [],
+    "conditions": [
+     "The child is less than eighteen years old",
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A relative of a child less than eighteen years old"
+   },
+   {
+    "where": "",
+    "act": "Takes or entices from lawful custody any incompetent person or other person entrusted by authority of law to the custody of another person or institution",
+    "ways": [
+     "takes",
+     "entices"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without lawful authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A relative of a child less than eighteen years old"
+   }
+  ]
+ },
+ "265/26B": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Applies, administers to or causes to be taken by a person any drug, matter or thing",
+    "ways": [
+     "applies",
+     "administers to",
+     "causes to be taken by"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to stupefy or overpower such person so as to, without lawful authority, forcibly or secretly confine or imprison another person within the commonwealth against his will, or to forcibly carry or send such person out of the commonwealth, or to forcibly seize and confine or inveigle or kidnap such person with intent to cause him to be secretly confined or imprisoned in the commonwealth against his will, or to cause him to be sent out of the commonwealth against his will or in any way held to service against his will"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years not less than 10 years in the state prison",
+      "min": 10,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "the person violates this section with the intent to extort money or other valuable thing",
+      "penalty": "Life or any term of years not less than 15 years in the state prison",
+      "min": 15,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/26C": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Entice\": to lure, induce, persuade, tempt, incite, solicit, coax or invite"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Entices a child under the age of 16, or someone he believes to be a child under the age of 16, to enter, exit or remain within any vehicle, dwelling, building, or other outdoor space",
+    "ways": [
+     "enter",
+     "exit",
+     "remain within"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person enticed is a child under the age of 16, or someone he believes to be a child under the age of 16"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent that he or another person will violate one of the sections of chapter 265 or chapter 272 listed in this subsection, or any offense that has as an element the use or attempted use of force"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in the state prison, or up to 2½ years in the house of correction, or both imprisonment and a fine of up to $5,000",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/26D": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Entice\": to lure, induce, persuade, tempt, incite, solicit, coax or invite",
+    "\"Electronic communication\": includes, but is not limited to, any transfer of signs, signals, writing, images, sounds, data or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photo-electronic or photo-optical system"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(c)",
+    "act": "Entices a child under the age of 18 years, by electronic communication, to engage in prostitution, human trafficking or commercial sexual activity",
+    "ways": [
+     "prostitution",
+     "human trafficking",
+     "commercial sexual activity"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "The child is under the age of 18 years",
+     "The enticement is by electronic communication"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a house of correction or up to 5 years in the state prison, or a fine of not less than $2,500, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction or delinquency adjudication for this crime",
+      "penalty": "Not less than 5 years in the state prison and a fine of not less than $10,000",
+      "min": 5,
+      "max": null,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "For a second or subsequent violation: sentence shall not be reduced to less than 5 years, or suspended, and no probation, parole, work release or furlough or deduction for good conduct until 5 years served"
+    ]
+   }
+  ]
+ },
+ "265/28": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Life or any term of years in the state prison",
+     "min": null,
+     "max": 999,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Mingles poison with food, drink or medicine",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to kill or injure another person"
+    ]
+   },
+   {
+    "where": "",
+    "act": "Poisons any spring, well or reservoir of water",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Wilfully",
+     "With intent to kill or injure another person"
+    ]
+   }
+  ]
+ },
+ "265/29": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Assaults another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The punishment of such assault is not hereinbefore provided"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to commit a felony"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 10 years in the state prison, or a fine of up to $1,000 and up to 2½ years in jail",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/30": {
+  "shared": {
+   "who": "A person having the management or control of or over a steamboat or other public conveyance used for the common carriage of persons"
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Is guilty of gross negligence in or relative to the management or control of such steamboat or other public conveyance",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "While the conveyance is being used for the common carriage of persons"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Gross negligence"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000 or up to 2½ years in jail",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/32": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Throws or drops glass on a public way, or on or near a bathing beach, or on a public way, sidewalk or reservation in the immediate neighborhood of a bathing beach",
+    "ways": [
+     "throws",
+     "drops"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100 or imprisonment for up to one month",
+      "min": null,
+      "max": 0.083,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/34": {
+  "shared": {
+   "who": "A person not registered as a qualified physician under section two of chapter one hundred and twelve, or corresponding provisions of earlier laws"
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Marks the body of any person by means of tattooing",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $300 or imprisonment for up to one year, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/35": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Drops, throws or otherwise releases any object, missile or other article onto any way, the turnpike or the tunnels",
+    "ways": [
+     "drops",
+     "throws",
+     "otherwise releases"
+    ],
+    "tags": [],
+    "conditions": [
+     "The lives or safety of the public might be endangered"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Willfully or negligently"
+    ],
+    "terms": [
+     "\"Way\", \"turnpike\" and \"tunnels\": as defined in section one of chapter ninety, clause (b) of section four of chapter 354 of the acts of 1952, and clause (d) of section one of chapter 598 of the acts of 1958"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $100, or imprisonment for up to one year, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/36": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Drops, throws or otherwise releases any object, missile or other article at any sporting event",
+    "ways": [
+     "drops",
+     "throws",
+     "otherwise releases"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Willfully",
+     "With the intent to injure any person at such event"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $500 or up to one year in the house of correction, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/37": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Injure, intimidate or interfere with, or oppress or threaten any other person in the free exercise or enjoyment of any right or privilege secured to him by the constitution or laws of the commonwealth or by the constitution or laws of the United States",
+    "ways": [
+     "injure",
+     "intimidate",
+     "interfere with",
+     "oppress",
+     "threaten"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "By force or threat of force",
+     "Whether or not acting under color of law"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Willfully"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000 or imprisonment for up to one year, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "bodily injury results",
+      "penalty": "A fine of up to $10,000 or imprisonment for up to 10 years, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/39": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "With the intent to intimidate such person because of such person's race, color, religion, national origin, sexual orientation, gender identity, or disability"
+   ],
+   "consequences": [
+    "A surcharge of $100 on a fine assessed for each conviction",
+    "Must complete a diversity awareness program prior to release from incarceration or prior to completion of the terms of probation"
+   ],
+   "terms": [
+    "\"Disability\": same meaning as \"handicap\" as defined in subsection 17 of section one of chapter 151B, but not including any condition primarily resulting from the use of alcohol or a controlled substance"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault or a battery upon a person",
+    "ways": [
+     "assault",
+     "battery"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000 or up to 2½ years in a house of correction, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(a)",
+    "act": "Damages the real or personal property of a person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000 or up to 2½ years in a house of correction, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "A surcharge of $100 on a fine assessed for each conviction",
+     "Must complete a diversity awareness program prior to release from incarceration or prior to completion of the terms of probation",
+     "The court may order restitution to the victim up to three times the value of property damage sustained"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits a battery in violation of this section which results in bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The battery results in bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Disability\": same meaning as \"handicap\" as defined in subsection 17 of section one of chapter 151B, but not including any condition primarily resulting from the use of alcohol or a controlled substance",
+     "\"Bodily injury\": substantial impairment of the physical condition, including, but not limited to, any burn, fracture of any bone, subdural hematoma, injury to any internal organ, or any injury which occurs as the result of repeated harm to any bodily function or organ, including human skin"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $10,000 or up to 5 years in the state prison, or both",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the offense is committed while armed with a firearm",
+      "penalty": "Up to 10 years in the state prison or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/40": {
+  "shared": {
+   "who": "A person having the direct management or direct control over the conduct of physical exercise as part of a course of study or training program at any public or private institution, agency or entity",
+   "terms": [
+    "\"Serious bodily injury\": bodily injury which creates a substantial risk of death or which involves either total disability or the loss or substantial impairment of some bodily function for a substantial period of time"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious bodily injury to a person participating in a course of study or training program involving physical exercise",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Willfully, wantonly and recklessly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $5,000 or up to 2½ years in a jail or house of correction, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/42": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses a radio or boom box, so-called, or similar broadcasting equipment without the use of earphones or other apparatus on a public conveyance used for the common carriage of persons",
+    "ways": [
+     "radio",
+     "boom box",
+     "similar broadcasting equipment"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "Evidence seized shall be sold at public auction and the proceeds may be applied against outstanding fines and court costs"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not less than $100 nor more than $500 or imprisonment for up to one month",
+      "min": null,
+      "max": 0.083,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/43": {
+  "shared": {
+   "who": null,
+   "intent": [
+    "Willfully and maliciously",
+    "With the intent to place the person in imminent fear of death or bodily injury"
+   ],
+   "terms": [
+    "\"Conduct, acts or threats\": include, but are not limited to, those conducted by mail or by use of a telephonic or telecommunication device or electronic communication device, including electronic mail, internet communications, instant messages or facsimile communications"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Engages in a knowing pattern of conduct or series of acts over a period of time directed at a specific person which seriously alarms or annoys that person and would cause a reasonable person to suffer substantial emotional distress, and makes a threat",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The conduct seriously alarms or annoys that person and would cause a reasonable person to suffer substantial emotional distress"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 5 years in the state prison or a fine of up to $1,000, or up to 2½ years in the house of correction, or both such fine and imprisonment",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for stalking",
+      "penalty": "Not less than 2 years and up to 10 years in a jail or the state prison",
+      "min": 2,
+      "max": 10,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "For a second or subsequent offense: prosecution shall not be placed on file or continued without a finding; no probation, parole, furlough, work release or deduction for good conduct until the 2-year mandatory minimum is served"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits the crime of stalking in violation of a temporary or permanent vacate, restraining, or no-contact order or judgment",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "A temporary or permanent vacate, restraining, or no-contact order or judgment, a protection order issued by another jurisdiction, or a temporary restraining order or preliminary or permanent injunction issued by the superior court is in effect"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 1 year and up to 5 years in a jail or the state prison",
+      "min": 1,
+      "max": 5,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     },
+     {
+      "if": "the person has a prior conviction for stalking",
+      "penalty": "Not less than 2 years and up to 10 years in a jail or the state prison",
+      "min": 2,
+      "max": 10,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "For a violation of subsection (b) or a second or subsequent offense: prosecution shall not be placed on file or continued without a finding",
+     "Sentence shall not be reduced below or suspended until the mandatory minimum term is served",
+     "No probation, parole, furlough, work release or deduction for good conduct until the mandatory minimum term is served, except temporary release in custody to attend a funeral of next of kin or spouse, visit a critically ill close relative or spouse, or obtain emergency medical services"
+    ]
+   }
+  ]
+ },
+ "265/43A": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Engages in a knowing pattern of conduct or series of acts over a period of time directed at a specific person, which seriously alarms that person and would cause a reasonable person to suffer substantial emotional distress",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The conduct seriously alarms that person and would cause a reasonable person to suffer substantial emotional distress"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Willfully and maliciously"
+    ],
+    "terms": [
+     "\"Conduct or acts\": include, but are not limited to, those conducted by mail or by use of a telephonic or telecommunication device or electronic communication device, including electronic mail, internet communications, instant messages or facsimile communications"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a house of correction or a fine of up to $5,000, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for an offense under this section or for a violation of section 43",
+      "penalty": "Up to 2½ years in a house of correction or up to 10 years in a state prison, a fine of up to $15,000, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)(2)",
+    "act": "Distributes visual material, including visual material produced by digitization, depicting another person, who is either identifiable in the visual material or identified by the distributing person, who is nude, partially nude or engaged in sexual conduct",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person depicted is identifiable in the visual material or identified by the distributing person",
+     "The person depicted is nude, partially nude or engaged in sexual conduct",
+     "The distribution causes the person depicted physical or economic injury or substantial emotional distress"
+    ],
+    "exceptions": [
+     "Visual material involving nudity, partial nudity or sexual conduct that is voluntary or consensual and occurring in a commercial setting or in a place where a person does not have a reasonable expectation of privacy",
+     "Distribution made in the public interest, including the reporting of unlawful conduct",
+     "Lawful and common practices of law enforcement, criminal reporting, corrections, legal proceedings or medical treatment, including telemedicine",
+     "Distribution of visual material that constitutes a matter of public concern",
+     "Interactive computer services as defined in 47 U.S.C. 230(f)(2) for content solely provided by another person",
+     "Information services or telecommunications services as defined in 47 U.S.C. 153 for content solely provided by another person"
+    ],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With the intent to harm, harass, intimidate, threaten, coerce or cause substantial emotional distress (or, alternatively, with the reckless disregard described)"
+    ],
+    "mentalState": [
+     "Reckless disregard for: (A) the likelihood that the person depicted will suffer harm, harassment, intimidation, threat, coercion or substantial emotional distress; (B) the depicted person's lack of consent to the distribution; and (C) the depicted person's reasonable expectation that the visual material would remain private"
+    ],
+    "terms": [
+     "\"Digitization\": the creation or alteration of visual material including, but not limited to, through the use of computer-generated images, in a manner that would falsely appear to a reasonable person to be an authentic representation of the person depicted",
+     "\"Distribute\": give, sell, transfer, disseminate, publish, upload, circulate, broadcast or engage in any other form of transmission, electronic or otherwise",
+     "\"Identifiable\": recognizable from the visual material itself or from information offered in connection with the visual material",
+     "\"Partially nude\": the exposure of fully uncovered buttocks or all or part of the human genitals or the female nipple-areolar complex",
+     "\"Publish\": (i) disseminate an image with the intent that it be made available by any means to any person or other legal entity; (ii) disseminate an image with the intent that it be sold by another person or legal entity; (iii) post, present, display, exhibit, circulate, advertise or allow access to an image by any means so as to make such image available to the public; or (iv) disseminate an image with the intent that it be posted, presented, displayed, exhibited, circulated, advertised or made accessible by any means so as to make such image available to the public",
+     "\"Visual material\": a photograph, film, video or digital image or recording, whether produced by electronic, mechanical or other means, or any part, representation or reproduction thereof",
+     "\"Consent\": consent to the creation of visual material shall not constitute consent to the distribution of the visual material"
+    ],
+    "consequences": [
+     "Visual material in the court record is not open to public inspection"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in a house of correction, a fine of up to $10,000, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for an offense under this section or for a violation of section 43",
+      "penalty": "Up to 2½ years in a house of correction or up to 10 years in a state prison, a fine of up to $15,000, or both",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/44": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault and battery on a child under the age of eighteen",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a child under the age of eighteen"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "For the purpose of causing or coercing such child to join or participate in a criminal conspiracy, including but not limited to a criminal street gang or other organization of three or more persons which has a common name, identifying sign or symbol and whose members individually or collectively engage in criminal activity"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 3 nor more than 5 years in the state prison, or up to 2½ years in the house of correction",
+      "min": null,
+      "max": 5,
+      "flags": []
+     },
+     {
+      "if": "the person has a prior conviction for this crime",
+      "penalty": "Not less than 5 nor more than 10 years in the state prison",
+      "min": 5,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/48": {
+  "shared": {
+   "who": "A sex offender, as defined by section 178C of chapter 6"
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in ice cream truck vending",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Ice cream truck vending\": as defined in section 25 of chapter 270"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 2½ years in the house of correction or a fine of $1,000, or both",
+      "min": null,
+      "max": 2.5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/50": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(i)",
+    "act": "Subjects, or recruits, entices, harbors, transports, provides or obtains by any means, another person to engage in commercial sexual activity, a sexually-explicit performance or the production of unlawful pornography, or causes a person to engage in such activity",
+    "ways": [
+     "subjects",
+     "recruits",
+     "entices",
+     "harbors",
+     "transports",
+     "provides",
+     "obtains",
+     "causes"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years and up to 20 years in the state prison and a fine of up to $25,000",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 5 years, or suspended",
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served",
+     "No prosecution shall be continued without a finding or placed on file",
+     "A victim of subsection (a) may bring an action in tort in the superior court; a business entity that knowingly aids or is a joint venturer in the trafficking is civilly liable"
+    ]
+   },
+   {
+    "where": "(a)(ii)",
+    "act": "Benefits, financially or by receiving anything of value, as a result of a violation of clause (i)",
+    "ways": [
+     "financially",
+     "by receiving anything of value"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years and up to 20 years in the state prison and a fine of up to $25,000",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 5 years, or suspended",
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served",
+     "No prosecution shall be continued without a finding or placed on file",
+     "A victim of subsection (a) may bring an action in tort in the superior court; a business entity that knowingly aids or is a joint venturer in the trafficking is civilly liable"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits the crime of trafficking of persons for sexual servitude upon a person under 18 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 18 years of age"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years, but not less than 5 years, in the state prison",
+      "min": 5,
+      "max": 999,
+      "flags": [
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits trafficking of persons for sexual servitude",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A business entity",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/51": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(i)",
+    "act": "Subjects another person to forced services",
+    "ways": [],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years and up to 20 years in the state prison and a fine of up to $25,000",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 5 years, or suspended",
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served",
+     "No prosecution shall be continued without a finding or placed on file",
+     "A victim of subsection (a) may bring an action in tort in the superior court; a business entity that knowingly aids or is a joint venturer in the trafficking is civilly liable"
+    ]
+   },
+   {
+    "where": "(a)(i)",
+    "act": "Recruits, entices, harbors, transports, provides or obtains by any means, another person",
+    "ways": [
+     "recruits",
+     "entices",
+     "harbors",
+     "transports",
+     "provides",
+     "obtains"
+    ],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly",
+     "Intending or knowing that such person will be subjected to forced services"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years and up to 20 years in the state prison and a fine of up to $25,000",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 5 years, or suspended",
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served",
+     "No prosecution shall be continued without a finding or placed on file",
+     "A victim of subsection (a) may bring an action in tort in the superior court; a business entity that knowingly aids or is a joint venturer in the trafficking is civilly liable"
+    ]
+   },
+   {
+    "where": "(a)(ii)",
+    "act": "Benefits, financially or by receiving anything of value, as a result of a violation of clause (i)",
+    "ways": [
+     "financially",
+     "by receiving anything of value"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years and up to 20 years in the state prison and a fine of up to $25,000",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 5 years, or suspended",
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served",
+     "No prosecution shall be continued without a finding or placed on file",
+     "A victim of subsection (a) may bring an action in tort in the superior court; a business entity that knowingly aids or is a joint venturer in the trafficking is civilly liable"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits the crime of trafficking of persons for forced services upon a person under 18 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 18 years of age"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years, but not less than 5 years, in the state prison",
+      "min": 5,
+      "max": 999,
+      "flags": [
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 5 years of the sentence are served"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits trafficking of persons for forced labor services",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A business entity",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of up to $1,000,000",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/52": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a second or subsequent violation of either section 50 or 51",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person has previously been convicted of or adjudicated delinquent by reason of a violation of section 50 or 51"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Life or any term of years, but not less than 10 years, in the state prison",
+      "min": 10,
+      "max": 999,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 10 years, or suspended",
+     "No probation, parole, work release or furlough or deduction from sentence for good conduct until 10 years of the sentence are served",
+     "No prosecution shall be continued without a finding or placed on file"
+    ]
+   }
+  ]
+ },
+ "265/53": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(i)",
+    "act": "Recruits, entices, harbors, transports, delivers or obtains by any means, another person",
+    "ways": [
+     "recruits",
+     "entices",
+     "harbors",
+     "transports",
+     "delivers",
+     "obtains"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intending or knowing that an organ, tissue or other body part of such person will be removed for sale, against such person's will"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in the state prison or a fine of up to $50,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(a)(ii)",
+    "act": "Receives anything of value, directly or indirectly as a result of a violation of clause (i)",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Up to 15 years in the state prison or a fine of up to $50,000, or both",
+      "min": null,
+      "max": 15,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits the crime of organ trafficking upon a person under 18 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 18 years of age"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "5 years in the state prison",
+      "min": 5,
+      "max": 5,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "Sentence shall not be reduced to less than 5 years, or suspended",
+     "No probation, parole, work release, or furlough or deduction from sentence for good conduct until 5 years of the sentence are served"
+    ]
+   }
+  ]
+ },
+ "265/58": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Is in possession of a deceptive firearm device during the commission of a violent crime",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person possesses a deceptive firearm device (as defined in section 121 of chapter 140)",
+     "The possession occurs during the commission of a violent crime (as defined in section 121 of chapter 140)"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "The person shall be deemed to be armed"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in chapter 265 (penalties for the crime committed while armed)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "265/60": {
+  "shared": {
+   "who": null,
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Up to 5 years in state prison, or a fine of up to $10,000 and up to 2½ years in a house of correction",
+     "min": null,
+     "max": 5,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"Female genital mutilation\": partially or totally removing the female genitalia or altering the structure or function of the female genitalia for non-medical purposes, including, but not limited to, infibulation, the partial or total removal of the clitoris, prepuce, labia minora, or labia majora, the narrowing of the vaginal orifice, or any other procedure that causes injury to the female genitalia for non-medical purposes"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Commits female genital mutilation on a person under the age of 18",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "Knowingly"
+    ],
+    "conditions": [
+     "The person is under the age of 18"
+    ],
+    "exceptions": [
+     "It is not a violation for a licensed medical provider to conduct a procedure necessary to preserve or protect the health of the person on whom it is performed in the course of medical treatment or for gender reassignment as requested by the person on whom it is performed"
+    ],
+    "defenses": [
+     "Not a defense: that the defendant believes their actions were conducted as a matter of custom or ritual",
+     "Not a defense: that the person on whom female genital mutilation was performed, or that person's parent or guardian, consented to the procedure"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Transports a person under the age of 18 within the commonwealth or sends such person out of the commonwealth",
+    "ways": [
+     "transports within the commonwealth",
+     "sends out of the commonwealth"
+    ],
+    "tags": [],
+    "intent": [
+     "Knowingly",
+     "With the intent to commit, or that another person will commit, female genital mutilation"
+    ],
+    "conditions": [
+     "The person is under the age of 18"
+    ],
+    "exceptions": [
+     "It is not a violation for a licensed medical provider to conduct a procedure necessary to preserve or protect the health of the person on whom it is performed in the course of medical treatment or for gender reassignment as requested by the person on whom it is performed"
+    ],
+    "defenses": [
+     "Not a defense: that the defendant believes their actions were conducted as a matter of custom or ritual",
+     "Not a defense: that the person on whom female genital mutilation was performed, or that person's parent or guardian, consented to the procedure"
+    ]
+   }
+  ]
+ },
+ "265/131~2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits manslaughter while operating a motor vehicle",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The motor vehicle is operated in violation of paragraph (a) of subdivision (1) of section 24 of chapter 90 or section 8A of chapter 90B"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Not less than 5 years and not more than 20 years in state prison, and a fine of up to $25,000",
+      "min": 5,
+      "max": 20,
+      "flags": [
+       "mandatory minimum",
+       "no parole",
+       "no probation"
+      ]
+     }
+    ],
+    "consequences": [
+     "The sentence shall not be reduced to less than 5 years, nor suspended",
+     "Not eligible for probation, parole or furlough or a deduction for good conduct until 5 years of the sentence are served",
+     "The commissioner of correction may grant temporary release in custody only to attend a relative's funeral, visit a critically ill relative, obtain emergency medical or psychiatric services unavailable at the institution, or engage in work release",
+     "The registrar may suspend the license or right to operate for any extended period up to life, but at least 15 years; the person may appeal to the superior court, which may not reduce the suspension below 15 years"
+    ]
+   }
+  ]
+ }
+}
