@@ -636,9 +636,8 @@
    "Applies to conduct outside the U.S."
   ],
   "penalty": "Assault: a fine plus up to 1, 10, 20, or 30 years depending on severity; threats: up to 10 years (6 for threatened assault), a fine, or both; kidnapping and murder punished as provided in other sections",
-  "maxYears": 30,
+  "maxYears": 1000,
   "category": "Violence & Threats",
-  "maxPlus": true,
   "acts": [
    "assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official",
    "threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer",
@@ -4365,7 +4364,8 @@
    "penalty": [
     "doubles the maximum prison term"
    ]
-  }
+  },
+  "maxPlus": true
  },
  "592": {
   "isOffense": true,
@@ -5279,7 +5279,7 @@
    "Theft of pre-retail medical products is punished under section 670 unless this section's penalty is greater"
   ],
   "penalty": "Up to 10 years in prison, a fine, or both; if less than $1,000, up to 3 years, a fine, or both; if pre-retail medical products are involved, punished under section 670 unless this section's penalty is greater",
-  "maxYears": 10,
+  "maxYears": 30,
   "category": "Property Crimes",
   "acts": [
    "embezzles, steals, or unlawfully takes, carries away, or conceals, or by fraud or deception obtains from any pipeline system, railroad car, wagon, motortruck, trailer, or other vehicle",
@@ -7280,9 +7280,8 @@
    "Notice must be posted at entrances, unless the person actually knew of the rule"
   ],
   "penalty": "Up to 1 year in prison and/or a fine (2 years in a federal court facility; 5 years if intended for use in a crime); killings are punished under sections 1111, 1112, 1113, and 1117",
-  "maxYears": 5,
+  "maxYears": 1000,
   "category": "Weapons & Terrorism",
-  "maxPlus": true,
   "acts": [
    "possesses or causes to be present a firearm or other dangerous weapon in a Federal facility",
    "possesses or causes to be present such firearm or dangerous weapon in a Federal facility",
@@ -11426,9 +11425,8 @@
    "Threats or force in a criminal trial can raise the maximum to that of the charged crime"
   ],
   "penalty": "Up to 10 years in prison and/or a fine; up to 20 years for attempted killing or crimes against a trial juror in serious felony cases; for a killing, the punishment in sections 1111 and 1112",
-  "maxYears": 20,
+  "maxYears": 1000,
   "category": "Courts & Justice",
-  "maxPlus": true,
   "acts": [
    "endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States",
    "injures any such grand or petit juror in his person or property",
@@ -11671,9 +11669,8 @@
    "Higher maximum may apply if tied to a criminal trial"
   ],
   "penalty": "Killing: punished as in sections 1111 and 1112 (murder and manslaughter); attempted murder or physical force: up to 30 years; threat of force: up to 20 years; intimidation or destroying evidence: up to 20 years and/or a fine; harassment: up to 3 years and/or a fine",
-  "maxYears": 30,
+  "maxYears": 1000,
   "category": "Courts & Justice",
-  "maxPlus": true,
   "acts": [
    "kills or attempts to kill another person",
    "uses physical force or the threat of physical force against any person, or attempts to do so",
@@ -11708,9 +11705,8 @@
    "Higher maximum may apply if tied to a criminal trial"
   ],
   "penalty": "Killing: punished as in sections 1111 and 1112 (murder and manslaughter); attempted killing: up to 30 years; injury, property damage, or threats: up to 20 years and/or a fine; other harmful retaliation: up to 10 years and/or a fine",
-  "maxYears": 30,
+  "maxYears": 1000,
   "category": "Courts & Justice",
-  "maxPlus": true,
   "acts": [
    "kills or attempts to kill another person with intent to retaliate against any person",
    "engages in any conduct and thereby causes bodily injury to another person or damages the tangible property of another person, or threatens to do so",
@@ -15373,7 +15369,7 @@
    "Attempts are also covered"
   ],
   "penalty": "Up to 10 years in prison, a fine (or up to twice the crime money involved), or both; if a pre-retail medical product is involved, the penalty under section 670 applies if greater",
-  "maxYears": 10,
+  "maxYears": 30,
   "category": "Fraud & Money",
   "acts": [
    "engages or attempts to engage in a monetary transaction in criminally derived property of a value greater than $10,000"
@@ -15952,7 +15948,7 @@
    "A state conviction or acquittal for the same acts bars federal prosecution"
   ],
   "penalty": "Up to 10 years in prison and/or a fine; if pre-retail medical products are involved, the penalty under section 670 applies if it is greater",
-  "maxYears": 10,
+  "maxYears": 30,
   "category": "Property Crimes",
   "acts": [
    "breaks the seal or lock of any railroad car, vessel, aircraft, motortruck, wagon or other vehicle or of any pipeline system",
@@ -17936,7 +17932,7 @@
    "Stolen veterans' memorial objects worth under $1,000 carry a lower penalty"
   ],
   "penalty": "Up to 10 years in prison and a fine; up to 1 year if veterans' memorial objects are worth under $1,000; if a pre-retail medical product is involved, the penalty under section 670 applies if higher",
-  "maxYears": 10,
+  "maxYears": 30,
   "category": "Property Crimes",
   "acts": [
    "transports, transmits, or transfers in interstate or foreign commerce any goods, wares, merchandise, securities or money",
@@ -17971,7 +17967,7 @@
    "Stolen veterans' memorial objects worth under $1,000 carry a lower penalty"
   ],
   "penalty": "Up to 10 years in prison and a fine; up to 1 year if veterans' memorial objects are worth under $1,000; if a pre-retail medical product is involved, the penalty under section 670 applies if higher",
-  "maxYears": 10,
+  "maxYears": 30,
   "category": "Property Crimes",
   "acts": [
    "receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money",

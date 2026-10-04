@@ -1,19 +1,25 @@
-# Federal Crimes Explained
+# Crime Code
 
-Every crime in Title 18 of the United States Code (Part I, "Crimes"): 710 sections, each with the full official text and a plain-English summary.
+Every crime in Title 18 of the United States Code (Part I, "Crimes"): 710 sections in their official text, annotated. Each section is color-coded to show the prohibited act, knowledge, intent, and penalty, and every citation links to its official source.
 
 In the official text, color marks the parts of each crime:
 
 - **Prohibited act** (amber highlight): what a person does that makes it a crime
-- **Intent** (purple): the mental state required, such as *willfully* or *with intent to*
+- **Knowledge** (teal): what the law requires the person to be aware of, such as acting *knowingly* or knowing a statement is false
+- **Intent** (purple): the purpose required, such as *willfully* or *with intent to*
 - **Penalty** (red): prison terms, fines, and civil penalties
 - **Legal terms** (dotted underline): tap or hover for a definition
 
 Citations link to the official sources on GovInfo (U.S. Government Publishing Office). Sections can be filtered by type of crime, maximum penalty, and chapter.
 
+## Pages
+
+- `index.html`: the searchable list of all sections (search, filters, pages).
+- `18/<section>.html`: one page per section with the color-coded official text and the crime breakdown, pre-rendered as static HTML so search engines can read it. Old `index.html#sec-1001` links redirect to `18/1001.html`.
+
 ## Run locally
 
-The page loads `crimes.json`, so serve the folder rather than opening the file directly:
+The list page loads `crimes.json`, so serve the folder rather than opening the file directly:
 
 ```sh
 python3 -m http.server 8000
@@ -24,10 +30,12 @@ python3 -m http.server 8000
 
 | File | What it is |
 |---|---|
-| `index.html` | The whole site: layout, styles, and the script that renders and links the text |
+| `index.html` | The list page, and the single source of the site's styles and of the code that renders and links the text |
+| `build_pages.py` | Pre-renders every section into `18/<section>.html` with that same code; writes `assets/site.css`, `assets/page.js`, `sitemap.xml`, `robots.txt` |
 | `crimes.json` | Built data: official text of each section plus summaries, highlights, and link targets |
 | `build_data.py` | Downloads Title 18, Part I from GovInfo and builds `crimes.json` |
 | `plain.json` | Plain-English summaries, key points, penalties, crime types, and prohibited-act phrases for each section |
+| `elements.json` | Each section's crimes broken into elements: act, ways to commit, attempt/conspiracy tags, who, federal basis, knowledge, mental state, intent, conditions, exceptions, defenses, penalty tiers (with mandatory-minimum, consecutive, and no-probation flags), other consequences, and key terms |
 | `later_amendments.json` | Changes made by laws enacted after the GovInfo edition used here |
 | `resolve_stat_links.py` | Finds the best GovInfo target for each Statutes at Large citation; writes `stat_links.json` and `plaw_pages.json` |
 | `summary-fixes.json` | Log of corrections made when the summaries were checked against the law |
@@ -38,6 +46,7 @@ To rebuild after the source changes:
 python3 build_data.py          # fetch the law text and merge in plain.json
 python3 resolve_stat_links.py  # refresh Statutes at Large link targets
 python3 build_data.py          # rebuild with the new link targets
+python3 build_pages.py         # regenerate 18/*.html, assets/site.css, sitemap.xml (needs the local server and Chrome)
 ```
 
 ## Source and limits

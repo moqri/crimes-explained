@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Federal Crimes Explained</title>
+  <title>Crime Code</title>
   <style>
     :root {
       --bg: #f6f5f1; --surface: #ffffff; --surface-2: #faf9f6; --text: #1d1c1a; --muted: #67645c;
@@ -12,7 +12,7 @@
       --pen-bg: #fdecea; --pen-ink: #a3261c;
       --intent-bg: #efe9fb; --intent-ink: #5b3aa8;
       --act-bg: #fff0d6; --act-line: #d97a00;
-      --hl-act: #fdebc0; --hl-pen: #b3261e; --hl-intent: #6a3ab8; --hl-link: #1d5f8f;
+      --hl-act: #fdebc0; --hl-pen: #b3261e; --hl-intent: #6a3ab8; --hl-know: #0b6e66; --hl-cond: #3d5a8a; --hl-link: #1d5f8f;
       --term-line: #8a8577; --mark: #ffe58a; --chip: #f0eee7;
       --sev-5: #8e1b1b; --sev-4: #c0392b; --sev-3: #d9822b; --sev-2: #b9a12a; --sev-1: #3d7ab8; --sev-0: #8a8577;
       --shadow: 0 1px 2px rgb(0 0 0 / .04), 0 2px 8px rgb(0 0 0 / .04);
@@ -26,7 +26,7 @@
         --pen-bg: #3a1b18; --pen-ink: #ff9e93;
         --intent-bg: #261f3a; --intent-ink: #c4b0ff;
         --act-bg: #3a2a12; --act-line: #f2a33a;
-        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-link: #86c0ea;
+        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
         --term-line: #8d897e; --mark: #6b5710; --chip: #2a2926;
         --sev-5: #ff7b7b; --sev-4: #ff8f70; --sev-3: #f2ad5b; --sev-2: #e0cc5c; --sev-1: #7db7e0; --sev-0: #9c998f;
         --shadow: none;
@@ -40,24 +40,33 @@
         --pen-bg: #3a1b18; --pen-ink: #ff9e93;
         --intent-bg: #261f3a; --intent-ink: #c4b0ff;
         --act-bg: #3a2a12; --act-line: #f2a33a;
-        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-link: #86c0ea;
+        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
         --term-line: #8d897e; --mark: #6b5710; --chip: #2a2926;
         --sev-5: #ff7b7b; --sev-4: #ff8f70; --sev-3: #f2ad5b; --sev-2: #e0cc5c; --sev-1: #7db7e0; --sev-0: #9c998f;
         --shadow: none;
         --sev-ink: #141413; color-scheme: dark;
     }
     * { box-sizing: border-box; }
+    h1, h2, h3, b, strong, summary, dt, th { font-weight: 400; }  /* no bold anywhere; hierarchy comes from size and color */
     html { scroll-padding-top: 16px; }
     body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
     main { overflow-wrap: break-word; max-width: 900px; margin: 0 auto; padding: 40px 16px 80px; }
     a { color: var(--accent); }
     header h1 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.2; margin: 0 0 8px; }
-    .lede { color: var(--muted); margin: 0 0 20px; max-width: 62ch; }
+    .lede { color: var(--muted); margin: 0; max-width: 62ch; font-size: 17px; }
+    .keyrow { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; margin: 14px 0 22px; }
+    .keyrow > .legend { font-size: 13px; gap: 14px; }
+    .about { flex: 1 1 100%; }
+    .about > summary { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; list-style: none; font-size: 14px; color: var(--accent); }
+    .about > summary::-webkit-details-marker { display: none; }
+    .about > summary::after { content: "›"; font-size: 18px; line-height: 1; transition: transform .15s; }
+    .about[open] > summary::after { transform: rotate(90deg); }
+    .about-body { margin-top: 10px; padding: 14px 18px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; max-width: 72ch; font-size: 15px; }
+    .about-body p { margin: 0 0 8px; }
+    .about-body ul { margin: 0; padding-left: 20px; }
+    .about-body li { margin: 4px 0; }
+    @media (min-width: 720px) { .about { flex: 0 1 auto; } .about[open] { flex-basis: 100%; } }
 
-    .guide { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 18px; margin-bottom: 20px; box-shadow: var(--shadow); }
-    .guide summary { cursor: pointer; font-weight: 600; }
-    .guide ul { margin: 10px 0 4px; padding-left: 20px; }
-    .guide li { margin: 4px 0; }
 
     .controls { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-bottom: 10px; }
     .controls .search { grid-column: 1 / -1; }
@@ -76,21 +85,36 @@
     ol#list { list-style: none; padding: 0; margin: 0; }
     .card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; margin-bottom: 10px;
       box-shadow: var(--shadow); border-left: 5px solid var(--sev); scroll-margin-top: 12px; }
-    .card > summary { list-style: none; cursor: pointer; padding: 14px 18px; display: grid;
+    .card { position: relative; }
+    .card > .card-row { list-style: none; cursor: pointer; padding: 14px 18px; display: grid;
       grid-template-columns: auto minmax(0, 1fr) auto; gap: 4px 14px; align-items: start; }
-    .card > summary::-webkit-details-marker { display: none; }
-    .sec { font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; white-space: nowrap; padding-top: 1px; }
-    .head h2 { font-size: 17px; line-height: 1.35; margin: 0; font-weight: 650; }
+    .sec { font-weight: 400; color: var(--accent); font-variant-numeric: tabular-nums; white-space: nowrap; padding-top: 1px; }
+    .head h2 { font-size: 17px; line-height: 1.35; margin: 0; font-weight: 400; }
     .head .teaser { color: var(--muted); font-size: 14.5px; margin: 4px 0 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-    .card[open] .head .teaser { display: none; }
     .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
     .chip { font-size: 12px; line-height: 1.3; padding: 3px 9px; border-radius: 99px; background: var(--chip); color: var(--muted); overflow-wrap: anywhere; }
     a.chiplink { text-decoration: none; color: var(--muted); }
     a.chiplink::after { content: " ↗"; font-size: .9em; }
     a.chiplink:hover { color: var(--accent); background: var(--accent-soft); }
-    .chip.sev { color: var(--sev-ink); background: var(--sev); font-weight: 600; }
+    .chip.sev { color: var(--sev-ink); background: var(--sev); font-weight: 400; }
     .chev { color: var(--muted); font-size: 20px; line-height: 1; transition: transform .15s; padding-top: 2px; }
-    .card[open] .chev { transform: rotate(90deg); }
+    .card-link { color: inherit; text-decoration: none; }
+    .card-link::after { content: ""; position: absolute; inset: 0; border-radius: 14px; }   /* whole card is the link */
+    .card:hover { border-color: color-mix(in srgb, var(--accent) 45%, var(--border)); }
+    .card:hover .chev { color: var(--accent); transform: translateX(2px); }
+    .card .chips a { position: relative; z-index: 1; }                                     /* chapter link stays its own link */
+    .card-link:focus-visible { outline: none; }
+    .card:has(.card-link:focus-visible) { outline: 2px solid var(--accent); outline-offset: 2px; }
+    /* section pages */
+    .page-nav { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; font-size: 14px; margin-bottom: 18px; }
+    .page-nav a { text-decoration: none; }
+    .page-nav .pn { display: inline-flex; gap: 14px; }
+    .page-head { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 14px; align-items: baseline; margin-bottom: 6px; }
+    .page-head .sec { font-size: 20px; }
+    .page-head h1 { font-size: clamp(1.4rem, 3.4vw, 1.9rem); line-height: 1.25; margin: 0; text-wrap: balance; }
+    .page-head .chips { grid-column: 2; }
+    .page .body { padding: 4px 18px 20px; }
+    .page-foot-nav { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--border); }
 
     .body { padding: 0 18px 18px; }
     .plain { background: var(--plain-bg); border: 1px solid var(--plain-border); border-radius: 12px; padding: 14px 16px; }
@@ -100,27 +124,50 @@
     .plain ul { margin: 10px 0 0; padding-left: 20px; }
     .plain li { margin: 3px 0; }
     .penalty { display: flex; gap: 10px; align-items: flex-start; margin-top: 12px; padding: 10px 12px; border-radius: 10px;
-      background: var(--pen-bg); color: var(--pen-ink); font-weight: 550; }
+      background: var(--pen-bg); color: var(--pen-ink); font-weight: 400; }
     .penalty b { white-space: nowrap; }
     .ai-note { font-size: 12px; color: var(--muted); margin-top: 10px; }
 
     .official { margin-top: 4px; }
     .plain { margin-top: 20px; }
+    .offenses { margin-top: 20px; border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; background: var(--surface-2); }
+    .offenses h3 { font-size: 12px; letter-spacing: .06em; text-transform: uppercase; margin: 0 0 6px; color: var(--muted); }
+    .offenses ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; counter-reset: off; }
+    .offenses li { padding: 10px 0; border-top: 1px solid var(--border); min-width: 0; }
+    .offenses li:first-child { border-top: 0; padding-top: 4px; }
+    .offenses p.off-act { margin: 0; max-width: 72ch; font-size: 15.5px; line-height: 1.6; }
+    .off-q { display: grid; grid-template-columns: 9.5em minmax(0, 1fr); gap: 2px 10px; margin-top: 6px; font-size: 14.5px; line-height: 1.5; }
+    .off-k { color: var(--muted); font-size: 12px; letter-spacing: .04em; text-transform: uppercase; padding-top: 2px; }
+    .off-q ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 2px; max-width: 64ch; }
+    .off-q li { padding: 0; border: 0; }
+    .off-q ul.tiers { gap: 4px; }
+    .offenses .shared { margin: 2px 0 8px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px dashed var(--border); }
+    .offenses .shared-k { font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
+    .flag { display: inline-block; margin-left: 6px; padding: 1px 7px; border-radius: 99px; font-size: 11.5px; line-height: 1.5; vertical-align: 1px;
+      color: var(--muted); border: 1px solid var(--border); font-style: normal; }
+    .flag.tag { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+    .tier-src { color: var(--muted); font-size: .92em; }
+    @media (max-width: 560px) { .off-q { grid-template-columns: 1fr; } }
     .official h3 { color: var(--muted); display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
     .legend { font-size: 12px; text-transform: none; letter-spacing: 0; font-weight: 400; display: inline-flex; gap: 12px; flex-wrap: wrap; align-items: center; }
     .stat { font-family: Georgia, "Times New Roman", serif; font-size: 16.5px; line-height: 1.75; max-width: 72ch; }
     .stat p { min-width: 0; margin: 0; padding: 6px 0 6px 12px; border-left: 2px solid var(--border); }
     .stat p + p { margin-top: 2px; }
+    .subsec + .subsec { margin-top: 18px; padding-top: 18px; border-top: 1px solid color-mix(in srgb, var(--text) 22%, transparent); }
     .stat p[data-i="0"] { border-left-color: var(--accent); }
     .stat p[data-i="1"] { border-left-color: color-mix(in srgb, var(--accent) 55%, var(--border)); }
-    .lbl { font-family: system-ui, sans-serif; font-weight: 700; font-size: 13px; color: var(--accent); background: var(--accent-soft);
+    .lbl { font-family: system-ui, sans-serif; font-weight: 400; font-size: 13px; color: var(--accent); background: var(--accent-soft);
       padding: 1px 6px; border-radius: 6px; margin-right: 4px; white-space: nowrap; }
-    .subhead { font-weight: 700; }
+    .subhead { font-weight: inherit; }
     /* Highlight system: the prohibited act is the one background "marker"; penalty and intent are colored, semi-bold text,
        so they stay distinct inside an act and the paragraph keeps a calm texture. Legal terms and links use quiet underlines. */
     .act { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
-    .pen { color: var(--hl-pen); font-weight: 600; }
-    .intent { color: var(--hl-intent); font-weight: 600; }
+    .pen { color: var(--hl-pen); }
+    .penp { font-weight: inherit; }  /* the amount after the penalty word stays regular text */
+    .intent { color: var(--hl-intent); }
+    .know { color: var(--hl-know); }
+    .cond { }                                             /* the clause itself stays plain text */
+    .condw { font-style: italic; color: var(--hl-cond); }  /* only "if" / "unless" is marked */
     .term { all: unset; cursor: help; text-decoration: underline dotted; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); text-decoration-thickness: 1.5px; text-underline-offset: .2em; }
     .term:hover { text-decoration-color: currentColor; }
     .term:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
@@ -148,14 +195,14 @@
     .pager:empty { display: none; }
     #pagerBottom { margin: 18px 0 0; }
     .pager button { min-width: 38px; padding: 6px 10px; font-size: 14px; border-radius: 8px; font-variant-numeric: tabular-nums; }
-    .pager button[aria-current="page"] { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 700; }
+    .pager button[aria-current="page"] { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 400; }
     .pager button:disabled { opacity: .4; cursor: default; }
     .pager .gap { color: var(--muted); padding: 0 2px; }
 
     .glossary { margin-top: 40px; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 18px 20px; }
     .glossary h2 { font-family: Georgia, serif; margin: 0 0 8px; font-size: 1.4rem; }
     .glossary dl { margin: 0; display: grid; grid-template-columns: minmax(140px, 220px) 1fr; gap: 10px 18px; }
-    .glossary dt { font-weight: 650; }
+    .glossary dt { font-weight: 400; }
     .glossary dd { margin: 0; color: var(--muted); }
     footer { color: var(--muted); font-size: 13px; margin-top: 32px; line-height: 1.6; }
     footer a { color: inherit; }
@@ -163,7 +210,8 @@
 
     @media (max-width: 640px) {
       .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-      .card > summary { grid-template-columns: minmax(0, 1fr) auto; padding: 14px; }
+      .card > .card-row { grid-template-columns: minmax(0, 1fr) auto; padding: 14px; }
+      .page-head { grid-template-columns: 1fr; } .page-head .chips { grid-column: 1; }
       .sec { grid-column: 1; }
       .head { grid-column: 1 / -1; grid-row: 2; }
       .chev { grid-column: 2; grid-row: 1; }
@@ -172,7 +220,7 @@
       .glossary dd { margin-bottom: 10px; }
     }
     @media print {
-      .controls, .bar, .guide, .totop, .actions, .chev { display: none !important; }
+      .controls, .bar, .about, .totop, .actions, .chev { display: none !important; }
       .card { break-inside: avoid; box-shadow: none; }
       body { background: #fff; }
     }
@@ -181,21 +229,26 @@
 <body>
 <main>
   <header>
-    <h1>Federal Crimes, Explained</h1>
-    <p class="lede">Every crime in <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partI.htm" target="_blank" rel="noopener" title="Title 18, Part I (Crimes): full official text on GovInfo">Title 18 (Crimes)</a> of the United States Code, the main body of federal criminal law. Each shows the full official text, color-coded to show the prohibited act, intent, and penalty, followed by a plain-English summary. <span id="edition"></span></p>
-  </header>
-
-  <details class="guide">
-    <summary>How to read this page</summary>
-    <ul>
-      <li><b>Open any card</b> for the official text of the law, followed by a plain-English summary, key points, and the penalty.</li>
-      <li>In the official text, <span class="act">the prohibited act</span> (what a person does that makes it a crime) is highlighted in orange, words about <span class="intent">intent</span> (such as <i>knowingly</i>) in purple, and <span class="pen">penalties</span> in red. Intent often decides whether something is a crime at all.</li>
+    <h1>Crime Code</h1>
+    <p class="lede">Every crime in <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partI.htm" target="_blank" rel="noopener" title="Title 18, Part I (Crimes): full official text on GovInfo">Title 18</a> of the <a href="https://www.govinfo.gov/app/collection/uscode" target="_blank" rel="noopener" title="The United States Code on GovInfo">United States Code</a><span id="crimecount"></span></p>
+    <div class="keyrow">
+      <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
+      <details class="about">
+        <summary>About this site</summary>
+        <div class="about-body">
+          <p>The main body of federal criminal law, in its official text and annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and every citation to another law links to its official source. <span id="edition"></span></p>
+          <ul>
+      <li><b>Select any section</b> to open its own page with the official text of the law. Below the text, each crime in the section is broken out: the act (with <i>+ attempt</i> / <i>+ conspiracy</i> when those are covered), who can commit it when the law limits that, the federal basis, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences such as forfeiture. What applies to every crime in a section is shown once at the top.</li>
+      <li>In the official text, <span class="act">the prohibited act</span> (what a person does that makes it a crime) is highlighted in orange, the <span class="know">knowledge</span> the law requires (such as acting <i>knowingly</i>, or knowing a statement is false) in teal, the <span class="intent">intent</span> or purpose required (such as <i>willfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics (such as <span class="condw">if</span> death results), and <span class="pen">penalties</span> in red. Knowledge and intent often decide whether something is a crime at all.</li>
       <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
       <li>References to other laws are <a class="xref" href="#">links</a>. Links to sections on this page jump there; others open the official text on GovInfo.</li>
       <li>The colored bar on each card shows the <b>maximum</b> prison time. Most people convicted receive less. Actual sentences depend on the facts and the federal sentencing guidelines.</li>
       <li>A <b>felony</b> is a crime punishable by more than one year in prison; a <b>misdemeanor</b> is one year or less.</li>
     </ul>
-  </details>
+        </div>
+      </details>
+    </div>
+  </header>
 
   <div class="controls">
     <input class="search" id="q" type="search" placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”" aria-label="Search">
@@ -212,7 +265,6 @@
     <span id="count" aria-live="polite"></span>
     <span class="btns">
       <label><input type="checkbox" id="fulltext" checked> Search official text too</label>
-      <button id="toggle" type="button">Expand all</button>
       <label>Per page <select id="pagesize" aria-label="Sections per page" style="width:auto;padding:5px 8px;font-size:13px">
         <option>10</option><option>25</option><option>50</option><option>100</option><option value="0">All</option></select></label>
       <button id="reset" type="button">Reset</button>
@@ -239,7 +291,7 @@
 <script>
   const $ = id => document.getElementById(id);
   const list = $('list'), q = $('q'), chapterSel = $('chapter'), catSel = $('category'), sevSel = $('severity'),
-        sortSel = $('sort'), fulltext = $('fulltext'), toggle = $('toggle'), pop = $('pop');
+        sortSel = $('sort'), fulltext = $('fulltext'), pop = $('pop');
   let crimes = [], bySection = new Map();
 
   // Plain-language definitions shown on tap/hover. Keys are matched case-insensitively in the statute text.
@@ -257,6 +309,13 @@
     ['with intent to', 'With intent to', 'Acting for the purpose of bringing about a particular result. The result does not have to actually happen.'],
     ['with the intent to', 'With the intent to', 'Acting for the purpose of bringing about a particular result. The result does not have to actually happen.'],
     ['maliciously', 'Maliciously', 'Done intentionally to cause harm, or with reckless disregard of a known risk.'],
+    ['having knowledge', 'Having knowledge', 'Being aware of a fact.'],
+    ['with knowledge', 'With knowledge', 'Being aware of a fact.'],
+    ['has knowledge', 'Has knowledge', 'Is aware of a fact.'],
+    ['had knowledge', 'Had knowledge', 'Was aware of a fact.'],
+    ['knows', 'Knows', 'Is aware of a fact.'],
+    ['knew', 'Knew', 'Was aware of a fact.'],
+    ['aware that', 'Aware that', 'Knowing a fact.'],
     ['knowing', 'Knowing', 'Being aware of a fact, such as knowing that an offense was committed or that a statement is false.'],
     ['in order to', 'In order to', 'For the purpose of. The person must act with that goal in mind, even if the goal is not achieved.'],
     ['for the purpose of', 'For the purpose of', 'With the goal of. The person must act with that aim, even if it is not achieved.'],
@@ -286,15 +345,16 @@
     ['thing of value', 'Thing of value', 'Anything that has value to the person receiving it, not only money.'],
   ];
   // Mental-state wording, highlighted in purple wherever it appears in statute text.
-  const INTENT_KEYS = new Set(['knowingly', 'willfully', 'intentionally', 'with intent to', 'with the intent to', 'maliciously', 'corruptly',
+  const INTENT_KEYS = new Set(['willfully', 'intentionally', 'with intent to', 'with the intent to', 'maliciously', 'corruptly',
     'in order to', 'for the purpose of', 'with the purpose of', 'intending', 'with the intent that', 'recklessly',
     'with reckless disregard', 'fraudulently', 'purposely']);
-  // Knowledge standards ("knowing", "has reason to know/believe") describe what a person knew, not their intent:
-  // they are not colored as intent (the "reason to …" phrases keep their legal-term definition).
-  const NOT_A_TERM = new Set(['in order to', 'for the purpose of', 'with the purpose of', 'intending', 'with the intent that',
+  // Knowledge standards describe what a person knew, not what they meant to do: colored teal, separate from intent.
+  const KNOWLEDGE_KEYS = new Set(['knowingly', 'knowing', 'having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'having reason to believe', 'has reason to believe',
+    'having reasonable cause to believe', 'has reasonable cause to believe', 'having reason to know', 'has reason to know']);
+  const NOT_A_TERM = new Set(['having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'in order to', 'for the purpose of', 'with the purpose of', 'intending', 'with the intent that',
     'with intent to', 'with the intent to', 'knowing', 'knowingly', 'intentionally', 'purposely', 'fraudulently', 'counterfeit']);
   // Variants that share a definition with another entry; kept out of the glossary list at the bottom of the page.
-  const GLOSS_HIDDEN = new Set(['knowing', 'in order to', 'for the purpose of', 'intending', 'counterfeit', 'with the intent to', 'fine under this title', 'with the purpose of', 'has reason to believe',
+  const GLOSS_HIDDEN = new Set(['having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'knowing', 'in order to', 'for the purpose of', 'intending', 'counterfeit', 'with the intent to', 'fine under this title', 'with the purpose of', 'has reason to believe',
     'has reasonable cause to believe', 'has reason to know', 'with the intent that']);
   const GLOSS = new Map(GLOSSARY.map(([k, label, def]) => [k.toLowerCase(), { label, def }]));
 
@@ -349,11 +409,29 @@
   const ACT_CODIFIED = /^\s+of\s+the\s+[^();]{3,120}?\s*\((\d+)\s+U\.S\.C\.\s+(\d+[a-zA-Z]*(?:[–-]\d+[a-zA-Z]*)?)/;
   const OTHER_LAW_AFTER = /^(?:\s*\[\d+\])?(?:\s*\((?:[^()]|\([^()]*\)){0,150}\))?(?:(?:\s*,\s*(?:(?:and|or)\s+)?|\s+(?:and|or)\s+)(?:sections?\s+)?\d+[A-Za-z]*(?:[–-][A-Za-z0-9]+)?(?:\([A-Za-z0-9]+\))*(?:\s*\[\d+\])?(?:\s*\((?:[^()]|\([^()]*\)){0,150}\))?)*\s+of\s+(?!this\s+title)(?:title\s+(\d+)\b)?/;
   // Part I sections come from the data; Parts II–V start at § 3001 and stop at § 6005.
-  let PART1 = new Set(), STAT = {};
+  let PART1 = new Set(), STAT = {}, ACT_SECTIONS = {};
   const isTitle18 = sec => PART1.has(sec) || (parseInt(sec) >= 3001 && parseInt(sec) <= 6005);
   // Citations in the statute text that GovInfo has no page for (renumbered sections, typos flagged by footnotes in the law).
   const DEAD = new Set(['14/83', '14/81', '14/491', '46/151', '18/2232a', '18/230']);
-  function enrich(text) {
+  // Penalty phrases: the whole phrase is semi-bold; only the penalty itself (imprisoned, fined, death, life, …) is red.
+  const PEN_WORD = /\b(?:imprisoned|imprisonment|fined|fine|civil (?:penalty|fine)|penalt(?:y|ies)|punished|punishable|punishment|sentenced|death|life)\b/gi;
+  // Only the penalty action is red: the first penalty word ("imprisoned", "fined", "civil penalty" …), or the whole
+  // "punished by death" / "sentenced to death"; words inside the amount ("… the maximum term of imprisonment") stay plain.
+  const penInner = html => {
+    const death = html.match(/\b(?:punished|sentenced) (?:by|to) death\b/i);
+    if (death) return html.slice(0, death.index) + `<span class="pen">${death[0]}</span>` + html.slice(death.index + death[0].length);
+    PEN_WORD.lastIndex = 0;
+    const m = PEN_WORD.exec(html);
+    const t = m || html.match(/\bterm\b/i);           // "a term of no more than 25 years"
+    return t ? html.slice(0, t.index) + `<span class="pen">${t[0]}</span>` + html.slice(t.index + t[0].length) : html;
+  };
+  const penHTML = html => `<span class="penp">${penInner(html)}</span>`;
+  // `after` is the text that follows this piece in the same paragraph, so look-ahead checks ("… of the X Act")
+  // still work when an act or condition highlight splits the paragraph into pieces.
+  let LINKS_ONLY = false;
+  const linkify = t => { LINKS_ONLY = true; try { return enrich(t); } finally { LINKS_ONLY = false; } };   // citations only
+  function enrich(text, after = '') {
+    const ahead = (i, n) => (text.slice(i) + after).slice(0, n);
     let out = '', last = 0;
     for (const m of text.matchAll(RX)) {
       out += esc(text.slice(last, m.index));
@@ -361,28 +439,35 @@
       const g = m.groups, raw = esc(m[0]);
       if (g.uscT) out += xref(g.uscT, g.uscS, raw);
       else if (g.stT) out += xref(g.stT, g.stS, raw);
-      else if (g.chList) out += chapterLinks(m[0], g.chList, text.slice(last, last + 60));
+      else if (g.chList) out += chapterLinks(m[0], g.chList, ahead(last, 60));
       else if (g.tN) out += `<a class="xref ext" href="https://www.govinfo.gov/content/pkg/USCODE-2024-title${g.tN}/html/USCODE-2024-title${g.tN}-toc.htm" target="_blank" rel="noopener" title="Title ${g.tN}, United States Code: table of contents on GovInfo">${raw}</a>`;
       else if (g.thisCh) out += currentChapter ? chapterLink(currentChapter, raw) : raw;
       else if (g.sS) {
-        const other = !g.sThis && text.slice(last, last + 400).match(OTHER_LAW_AFTER);
+        const other = !g.sThis && ahead(last, 400).match(OTHER_LAW_AFTER);
         // "section 1 of the International Banking Act of 1978 (12 U.S.C. 3101)": link to the Code section the law itself cites.
-        const codified = !g.sThis && text.slice(last, last + 200).match(ACT_CODIFIED);
-        out += codified ? xref(codified[1], codified[2], raw)
+        // "such section 226" points back to a section of another law named just before; leave it unlinked
+        const backRef = /\bsuch\s+$/i.test(text.slice(Math.max(0, m.index - 8), m.index));
+        const codified = !g.sThis && ahead(last, 200).match(ACT_CODIFIED);
+        // no citation here, but the law cites this Act section's Code location elsewhere
+        const named = !codified && !g.sThis && ahead(last, 140).match(/^\s+of\s+the\s+([A-Z][^();,.]{2,90}?\b(?:Act|Code)(?: of \d{4})?)(?![\w-])/);
+        const known = named && ACT_SECTIONS[`${named[1].replace(/\s+/g, ' ').trim().toLowerCase()}|${g.sS}`];
+        out += backRef ? raw : codified ? xref(codified[1], codified[2], raw) : known ? xref(known[0], known[1], raw)
           : other ? (other[1] ? xref(other[1], g.sS, raw) : raw) : isTitle18(g.sS) ? xref('18', g.sS, raw) : raw;
       }
       else if (g.plC) out += +g.plC >= 104
         ? `<a class="xref ext" href="https://www.govinfo.gov/link/plaw/${g.plC}/public/${g.plN}?link-type=html" target="_blank" rel="noopener" title="Public Law ${g.plC}-${g.plN} on GovInfo">${raw}</a>` : raw;
       else if (g.stV) out += statLink(g.stV, g.stPg, raw);
-      else if (g.pen) out += `<span class="pen">${raw}</span>`;
+      else if (g.pen) out += LINKS_ONLY ? raw : penHTML(raw);
+      else if (g.term && LINKS_ONLY) out += raw;
       else if (g.term) {
         const k = m[0].toLowerCase(), info = GLOSS.get(k);
         // "for the purpose of this section" defines scope; it is not a mental state.
-        const isIntent = INTENT_KEYS.has(k) && !(k.endsWith('purpose of') && /^\s+(this|that|such|these|subsection|section|paragraph|chapter|title|clause)\b/i.test(text.slice(last, last + 20)));
-        const cls = k === 'fined under this title' || k === 'fine under this title' || k === 'any term of years or for life' ? 'pen' : isIntent ? 'intent' : '';
+        const isIntent = INTENT_KEYS.has(k) && !(k.endsWith('purpose of') && /^\s+(this|that|such|these|subsection|section|paragraph|chapter|title|clause)\b/i.test(ahead(last, 20)));
+        const cls = k === 'fined under this title' || k === 'fine under this title' || k === 'any term of years or for life' ? 'pen' : isIntent ? 'intent' : KNOWLEDGE_KEYS.has(k) ? 'know' : '';
         // Plain-English phrases (e.g. "in order to") keep their color but are not shown as legal terms.
-        const btn = NOT_A_TERM.has(k) ? raw : `<button type="button" class="term" data-k="${esc(k)}">${raw}</button>`;
-        out += cls ? `<span class="${cls}">${btn}</span>` : btn;
+        const btn = NOT_A_TERM.has(k) ? raw : `<button type="button" class="term" data-k="${esc(k)}" data-label="${esc(info?.label || '')}" data-def="${esc(info?.def || '')}">${raw}</button>`;
+        out += cls === 'pen' ? `<span class="penp">${NOT_A_TERM.has(k) ? penInner(raw) : `<button type="button" class="term" data-k="${esc(k)}" data-label="${esc(info?.label || '')}" data-def="${esc(info?.def || '')}">${penInner(raw)}</button>`}</span>`
+          : cls ? `<span class="${cls}">${btn}</span>` : btn;
       }
     }
     return out + esc(text.slice(last));
@@ -423,22 +508,44 @@
   function xref(title, sec, raw) {
     if (/^\d+[–-]\d+$/.test(sec)) sec = sec.split(/[–-]/)[0];  // a range like 1311–1314 links to its first section
     if (DEAD.has(`${title}/${sec}`)) return raw;
-    if (title === '18' && bySection.has(sec)) return `<a class="xref" href="#sec-${sec}" data-jump="${sec}" title="Go to § ${sec} on this page">${raw}</a>`;
+    if (title === '18' && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on Crime Code">${raw}</a>`;
     return `<a class="xref ext" href="${usc(title, sec)}" target="_blank" rel="noopener" title="${title} U.S.C. § ${sec} on GovInfo">${raw}</a>`;
   }
   // Style the leading "(a) Heading.—" of a statute paragraph.
   // Enrich text[from..] while wrapping the paragraph's prohibited-act ranges (absolute offsets into p.t) in .act spans.
-  function enrichActs(p, from, text) {
-    if (!p.a) return enrich(text);
-    let out = '', pos = 0;
-    for (const [s0, e0] of p.a) {
-      const s = Math.max(0, s0 - from), e = Math.min(text.length, e0 - from);
-      if (e <= pos || s >= text.length) continue;
-      const st = Math.max(s, pos);
-      out += enrich(text.slice(pos, st)) + `<span class="act">${enrich(text.slice(st, e))}</span>`;
-      pos = e;
+  // Conditions: "if …" / "unless …" clauses, up to the next , ; : . — (parenthesized text such as
+  // "(as defined in section 2331)" stays inside the clause).
+  const COND = /(?<![A-Za-z])(?:if|unless)\b(?:[^,;:.()—]|\([^()]*\))*/gi;
+  function condRanges(t) {
+    const out = [];
+    for (const m of t.matchAll(COND)) {
+      const txt = m[0].replace(/\s+$/, '');
+      // "which if directly performed by him … would be an offense" is a hypothetical that defines the act, not a condition
+      // … also "would be punishable if committed within the State": "would" just before the "if"
+      if (/\bwould\b/i.test(txt) || /\bwould\b[^,;.]{0,40}$/i.test(t.slice(Math.max(0, m.index - 60), m.index))) continue;
+      const listIntro = /^\s*—/.test(t.slice(m.index + txt.length));   // "…, or both, if—" followed by (i), (ii)
+      if ((txt.length >= 10 || listIntro) && !/^if (any|so|applicable|necessary)$/i.test(txt)) {
+        out.push([m.index, m.index + txt.length, 'cond']);
+        out.push([m.index, m.index + txt.match(/^\w+/)[0].length, 'condw']);   // the "if"/"unless" itself is italic
+      }
     }
-    return out + enrich(text.slice(pos));
+    return out;
+  }
+  // Wrap text (a suffix of p.t starting at `from`) in act / condition spans; ranges are absolute offsets into p.t.
+  function enrichActs(p, from, text) {
+    const end = from + text.length;
+    const ranges = [...(p.a || []).map(([s, e]) => [s, e, 'act']), ...condRanges(p.t)].filter(([s, e]) => e > from && s < end);
+    if (!ranges.length) return enrich(text);
+    const cuts = [...new Set([from, end, ...ranges.flatMap(([s, e]) => [Math.max(s, from), Math.min(e, end)])])].sort((a, b) => a - b);
+    let out = '';
+    for (let i = 0; i < cuts.length - 1; i++) {
+      const a = cuts[i], b = cuts[i + 1];
+      let cls = [...new Set(ranges.filter(([s, e]) => s <= a && e >= b).map(r => r[2]))];
+      if (cls.includes('cond') || cls.includes('condw')) cls = cls.filter(c => c !== 'act');   // a condition is never part of the act
+      const seg = enrich(p.t.slice(a, b), p.t.slice(b, b + 250));
+      out += cls.length ? `<span class="${cls.join(' ')}">${seg}</span>` : seg;
+    }
+    return out;
   }
   function para(p) {
     const m = p.t.match(/^((?:\([A-Za-z0-9]+\)\s*)+)(?:([A-Z][^.—]{0,80}?)\.—)?/);
@@ -454,7 +561,10 @@
   fetch('crimes.json').then(r => r.json()).then(data => {
     $('edition').textContent = `Source: ${data.edition}.`;
     PART1 = new Set(data.partISections);
+    const nCrimes = data.crimes.reduce((n, c) => n + (c.elements?.crimes?.length || 0), 0);
+    if (nCrimes) $('crimecount').textContent = `: ${nCrimes.toLocaleString()} crimes in ${data.crimes.length.toLocaleString()} sections`;
     STAT = data.statLinks || {};
+    ACT_SECTIONS = data.actSections || {};
     $('srclink').href = data.source;
     crimes = data.crimes.map((c, i) => ({
       ...c, n: i + 1, tier: tierOf(c.maxYears),
@@ -476,7 +586,7 @@
     $('gloss').innerHTML = GLOSSARY.filter(([k]) => !GLOSS_HIDDEN.has(k))
       .map(([, label, def]) => `<dt>${esc(label)}</dt><dd>${esc(def)}</dd>`).join('');
     render();
-    if (location.hash.startsWith('#sec-')) jump(location.hash.slice(5), false);
+    if (location.hash.startsWith('#sec-') && bySection.has(decodeURIComponent(location.hash.slice(5)))) { location.replace(`18/${location.hash.slice(5)}.html`); return; }
   });
 
   // Color-code a plain-English string: marks = {act, intent, penalty} lists of exact substrings (first occurrence each).
@@ -499,6 +609,60 @@
     return out + esc(text.slice(pos));
   }
 
+  // Group the official text by top-level subsection: a new group starts at each labeled paragraph at depth 0, and
+  // unlabeled closing lines ("shall be fined … or both.") stay with the subsection they end.
+  function statGroups(text) {
+    const groups = [];
+    for (const p of text) {
+      const startsTop = p.i === 0 && /^\(/.test(p.t);
+      if (!groups.length || startsTop) groups.push([]);
+      groups[groups.length - 1].push(p);
+    }
+    return groups.map(g => `<div class="subsec">${g.map(p => `<p data-i="${p.i}" style="margin-left:${p.i * 1.25}em">${para(p)}</p>`).join('')}</div>`).join('');
+  }
+
+  // Crime breakdown ("elements"): shared fields once per section, then each crime with only what differs.
+  const ROWS = [
+    ['who', 'Who', ''], ['federalBasis', 'Federal basis', ''], ['knowledge', 'Knowledge', 'know'], ['mentalState', 'Mental state', 'know'],
+    ['intent', 'Intent', 'intent'], ['conditions', 'Conditions', ''], ['exceptions', 'Exceptions', ''], ['defenses', 'Defenses', ''],
+    ['penalties', 'Penalty', 'pen'], ['consequences', 'Other consequences', ''], ['terms', 'Key terms', ''],
+  ];
+  function tiersHTML(tiers) {
+    return `<ul class="tiers">${tiers.map(t => {
+      const flags = (t.flags || []).map(f => `<span class="flag">${esc(f)}</span>`).join('');
+      const src = t.source ? ` <span class="tier-src">(${linkify(t.source.replace(/§\s*(\d+[A-Za-z]*)/g, 'section $1'))})</span>` : '';
+      return `<li>${t.if ? `<span class="condw">If</span> ${linkify(t.if)}: ` : ''}<span class="pen">${linkify(t.penalty)}</span>${src}${flags}</li>`;
+    }).join('')}</ul>`;
+  }
+  function rowsHTML(obj, skip = new Set()) {
+    return ROWS.map(([key, label, cls]) => {
+      if (skip.has(key)) return '';
+      const v = obj[key];
+      if (key === 'who') return v ? `<div class="off-q"><span class="off-k">${label}</span><ul><li>${linkify(v)}</li></ul></div>` : '';
+      if (key === 'penalties') return v?.length ? `<div class="off-q"><span class="off-k">${label}</span>${tiersHTML(v)}</div>` : '';
+      return v?.length ? `<div class="off-q"><span class="off-k">${label}</span><ul>${v.map(t => `<li${cls ? ` class="${cls}"` : ''}>${linkify(t)}</li>`).join('')}</ul></div>` : '';
+    }).join('');
+  }
+  function crimeHead(o) {
+    const tags = (o.tags || []).map(t => `<span class="flag tag">+ ${esc(t)}</span>`).join('');
+    const ways = o.ways?.length > 1 ? `<div class="off-q"><span class="off-k">Ways to commit</span><ul><li>${o.ways.map(esc).join(' · ')}</li></ul></div>` : '';
+    return `<p class="off-act">${o.where ? `<span class="lbl">${esc(o.where)}</span> ` : ''}<span class="act">${linkify(o.act)}</span>${tags}</p>${ways}`;
+  }
+  function elementsHTML(c) {
+    const el = c.elements;
+    if (!el?.crimes?.length) return '';
+    const n = el.crimes.length, shared = el.shared || {};
+    if (n === 1) {   // one crime: show everything together
+      const o = { ...shared };
+      for (const [k, v] of Object.entries(el.crimes[0])) if (v !== undefined && v !== null && !(Array.isArray(v) && !v.length)) o[k] = v;
+      return `<div class="offenses"><h3>The crime in this section</h3><ol><li>${crimeHead(el.crimes[0])}${rowsHTML(o)}</li></ol></div>`;
+    }
+    const sharedRows = rowsHTML(shared, new Set(['conditions', 'exceptions', 'defenses']));
+    return `<div class="offenses"><h3>${n} crimes in this section</h3>
+      ${sharedRows ? `<div class="shared"><div class="shared-k">Applies to all ${n} crimes below</div>${sharedRows}</div>` : ''}
+      <ol>${el.crimes.map(o => `<li>${crimeHead(o)}${rowsHTML(o)}</li>`).join('')}</ol></div>`;
+  }
+
   // Card bodies (enriched official text + plain summary) are built on first open: ~800 sections is too much to render up front.
   function bodyHTML(c) {
     currentChapter = c.chapter;
@@ -510,19 +674,12 @@
                 <a href="https://www.law.cornell.edu/uscode/text/18/${esc(c.section)}" target="_blank" rel="noopener">Current text on Cornell LII ↗</a></div>`;
             }).join('')}
             <div class="official">
-              <h3>Official text <span class="legend"><span class="act">prohibited act</span><span class="intent">intent</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span></h3>
-              <div class="stat">${c.text.map(p => `<p data-i="${p.i}" style="margin-left:${p.i * 1.25}em">${para(p)}</p>`).join('')}</div>
+              <h3>Official text <span class="legend"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span></h3>
+              <div class="stat">${statGroups(c.text)}</div>
               ${c.source ? `<p class="src"><b>History:</b> ${enrich(c.source)}</p>` : ''}
               ${c.footnotes.map(f => `<p class="fn">${enrich(f)}</p>`).join('')}
             </div>
-            ${c.plain ? `
-            <div class="plain">
-              <h3>In plain English <span class="legend"><span class="act">act</span><span class="intent">intent</span><span class="pen">penalty</span></span></h3>
-              <p>${markup(c.plain, c.marks)}</p>
-              ${c.keyPoints?.length ? `<ul>${c.keyPoints.map(k => `<li>${markup(k, c.marks)}</li>`).join('')}</ul>` : ''}
-              ${c.penalty ? `<div class="penalty"><b>Penalty:</b><span>${esc(c.penalty)}</span></div>` : ''}
-              <div class="ai-note">Simplified summary written with AI assistance. The official text above is what counts.</div>
-            </div>` : ''}
+            ${elementsHTML(c)}
             <div class="actions">
               <button type="button" data-copy="${esc(c.section)}">Copy link</button>
               <a href="${c.url}" target="_blank" rel="noopener">Official page on GovInfo ↗</a>
@@ -557,6 +714,13 @@
     return rows;
   }
 
+  function chipsHTML(c) {
+    return `<span class="chip sev"${c.maxPlus ? ' title="Some forms of this crime are punished under other sections and may carry more."' : ''}>${esc(sevText(c))}</span>
+      ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
+      ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
+      ${chapterLink(c.chapter, `Ch. ${esc(c.chapter)} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
+  }
+
   function render() {
     const term = q.value.trim(), t = term.toLowerCase();
     const rows = currentRows = filteredRows();
@@ -574,29 +738,23 @@
     for (const c of shown) {
       const li = document.createElement('li');
       li.innerHTML = `
-        <details class="card" id="sec-${esc(c.section)}" style="--sev:${c.tier.color}"${textHit(c) ? ' open' : ''}>
-          <summary>
+        <article class="card" id="sec-${esc(c.section)}" style="--sev:${c.tier.color}">
+          <div class="card-row">
             <span class="sec">§ ${esc(c.section)}</span>
             <div class="head">
-              <h2>${esc(c.title)}</h2>
+              <h2><a class="card-link" href="18/${esc(c.section)}.html" target="_blank" rel="noopener">${esc(c.title)}</a></h2>
               ${c.plain ? `<p class="teaser">${esc(c.plain)}</p>` : ''}
               <div class="chips">
-                <span class="chip sev"${c.maxPlus ? ' title="Some forms of this crime are punished under other sections and may carry more."' : ''}>${esc(sevText(c))}</span>
-                ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
-                ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
-                ${chapterLink(c.chapter, `Ch. ${esc(c.chapter)} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}
+                ${chipsHTML(c)}
               </div>
             </div>
             <span class="chev" aria-hidden="true">›</span>
-          </summary>
-          <div class="body"></div>
-        </details>`;
+          </div>
+        </article>`;
       frag.append(li);
     }
     list.append(frag);
-    list.querySelectorAll('details.card[open]').forEach(fill);
     if (t.length > 1) list.querySelectorAll('.head').forEach(h => markText(h, term));
-    syncToggle();
   }
 
   // Page buttons: Prev, 1 … (p-1) p (p+1) … last, Next.
@@ -672,35 +830,22 @@
     const term = e.target.closest('.term[data-k]');
     if (term) { e.preventDefault(); showPop(term); return; }
     hidePop();
-    const a = e.target.closest('a[data-jump]');
-    if (a) { e.preventDefault(); jump(a.dataset.jump); return; }
     const cp = e.target.closest('[data-copy]');
     if (cp) {
       const url = location.href.split('#')[0] + '#sec-' + cp.dataset.copy;
       navigator.clipboard?.writeText(url).then(() => { cp.textContent = 'Copied!'; setTimeout(() => cp.textContent = 'Copy link', 1500); },
         () => { cp.textContent = 'Copy failed'; cp.title = url; });
     }
-    if (e.target.closest('.guide a[href="#"]')) e.preventDefault();
+    if (e.target.closest('.about a[href="#"]')) e.preventDefault();
   });
   document.addEventListener('mouseover', e => { const t = e.target.closest('.term[data-k]'); if (t && matchMedia('(hover: hover)').matches) showPop(t); });
   document.addEventListener('mouseout', e => { if (e.target.closest('.term[data-k]') && matchMedia('(hover: hover)').matches) hidePop(); });
   document.addEventListener('focusin', e => { const t = e.target.closest('.term[data-k]'); t ? showPop(t) : hidePop(); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape') hidePop(); });
-  window.addEventListener('popstate', () => location.hash.startsWith('#sec-') && jump(location.hash.slice(5), false));
 
-  function syncToggle() {
-    const all = list.querySelectorAll('details.card');
-    toggle.textContent = all.length && [...all].every(d => d.open) ? 'Collapse all' : 'Expand all';
-  }
-  toggle.addEventListener('click', () => {
-    const open = toggle.textContent === 'Expand all';
-    list.querySelectorAll('details.card').forEach(d => { if (open) fill(d); d.open = open; });
-    syncToggle();
-  });
   function resetFilters() { q.value = ''; [chapterSel, catSel, sevSel].forEach(s => s.value = ''); sortSel.value = 'code'; }
   const refilter = () => { page = 1; render(); };
   $('reset').addEventListener('click', () => { resetFilters(); refilter(); });
-  list.addEventListener('toggle', e => { if (e.target.open) fill(e.target); syncToggle(); }, true);
   let tmr; q.addEventListener('input', () => { clearTimeout(tmr); tmr = setTimeout(refilter, 120); });
   [chapterSel, catSel, sevSel, sortSel, fulltext].forEach(el => el.addEventListener('change', refilter));
   const totop = $('totop');

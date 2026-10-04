@@ -49,6 +49,53 @@ def outline_levels(paras):
             depth = len(stack) - 1 if depth is None else depth
         p["i"] = depth
 
+# Knowledge and intent wording inside a prohibited-act phrase is not part of the act: "receives … the offender in order
+# to hinder or prevent his apprehension" → only "receives … the offender". Single words (knowingly, willfully, …) are
+# cut out on their own; clauses (in order to …, with intent to …, knowing the …) run to the next comma or semicolon.
+MENTAL_WORD = re.compile(r"(?i)\b(?:knowingly|willfully|wilfully|intentionally|maliciously|corruptly|recklessly|fraudulently|purposely)\b(?:\s+(?:and|or)\s+(?=(?:knowingly|willfully|intentionally|maliciously|corruptly|recklessly|fraudulently)\b))?")
+MENTAL_CLAUSE = re.compile(r"(?i)\b(?:in order to|with (?:the )?intent(?: to| that)?|for the purpose of|with the purpose of|intending to|knowing(?! ly)\b|having knowledge|having reason to|has reason to|with reckless disregard)[^,;]*")
+
+def without_mental_state(text, start, end):
+    """Split the act range [start, end) around mental-state words and clauses; drop pieces that are only connectors."""
+    cut = []
+    for rx in (MENTAL_CLAUSE, MENTAL_WORD):
+        for m in rx.finditer(text, start, end):
+            e = min(m.end(), end)
+            # a clause that ends a few words short of the phrase end ("…his apprehension, trial or punishment") runs to the end
+            if rx is MENTAL_CLAUSE and len(text[e:end].split()) <= 5: e = end
+            cut.append((m.start(), e))
+    if not cut: return [[start, end]]
+    cut.sort()
+    pieces, pos = [], start
+    for s, e in cut:
+        if s > pos: pieces.append([pos, s])
+        pos = max(pos, e)
+    if pos < end: pieces.append([pos, end])
+    out = []
+    for s, e in pieces:                      # trim spaces, commas, and dangling "and"/"or"; drop leftover connectors
+        while True:
+            seg = text[s:e]
+            m1 = re.match(r"(?i)^[\s,;]+|^(?:and|or)\b\s*", seg)
+            m2 = re.search(r"(?i)[\s,;]+$|\s(?:and|or)$", seg)
+            if m1 and m1.end(): s += m1.end(); continue
+            if m2 and m2.end() > m2.start(): e -= m2.end() - m2.start(); continue
+            break
+        if e - s >= 4 and not re.fullmatch(r"(?i)(and|or|and/or|the|to|a|an)", text[s:e]): out.append([s, e])
+    if not out:                              # the whole phrase was a clause ("a knowing attempt …"): only drop the words
+        return [[start, end]] if not MENTAL_WORD.search(text, start, end) else without_words(text, start, end)
+    return out
+
+def without_words(text, start, end):
+    pieces, pos = [], start
+    for m in re.finditer(r"(?i)\b(?:knowingly|knowing|willfully|intentionally|maliciously|corruptly|recklessly|fraudulently)\b", text[start:end]):
+        s, e = start + m.start(), start + m.end()
+        if s > pos: pieces.append([pos, s])
+        pos = e
+    if pos < end: pieces.append([pos, end])
+    return [[s + len(text[s:e]) - len(text[s:e].lstrip()), e - (len(text[s:e]) - len(text[s:e].rstrip()))] for s, e in pieces if text[s:e].strip(" ,;") and len(text[s:e].strip()) >= 4]
+
+NEW_PROVISION = re.compile(r"(?<=[.)\]])\s+(?=(?:There is jurisdiction|For (?:the )?purposes of (?:this|such|subsection|section|paragraph)|As used in this|In this (?:section|subsection|paragraph|chapter)|This (?:section|subsection) (?:does not|shall not|shall apply|applies)|Nothing in this)\b)")
+
 def clean(s):
     s = re.sub(r"<!--.*?-->", "", s, flags=re.S)
     s = re.sub(r"<sup>\s*<a[^>]*>(.*?)</a>\s*</sup>", r"[\1]", s, flags=re.S)
@@ -88,7 +135,10 @@ for blk in parts:
         if (chain := LEAD_CHAIN.match(t)) and len(labels := re.findall(r"\([^)]+\)", chain.group(0))) > 1:
             for L in labels[:-1]: paras.append({"i": indent, "t": L})
             t = t[chain.end() - len(labels[-1]):]
-        paras.append({"i": indent, "t": t})
+        # A closing line often runs into separate provisions ("…or both. There is jurisdiction over …. For purposes of
+        # this subsection, …"); start each such provision on its own line.
+        for piece in NEW_PROVISION.split(t):
+            if piece: paras.append({"i": indent, "t": piece})
     if not paras: warn.append(f"§{sec} has no statute paragraphs")
     outline_levels(paras)
     out.append({
@@ -118,6 +168,8 @@ if os.path.exists(plain_path):
             for k, start in hits[:1] if len(hits) > 3 else hits:      # a very common phrase: mark its first use only
                 c["text"][k].setdefault("a", []).append([start, start + len(phrase)])
         for p in c["text"]:
+            if "a" in p: p["a"] = [r for s, e in p["a"] for r in without_mental_state(p["t"], s, e)]
+        for p in c["text"]:
             if "a" in p:                                             # sort and merge overlapping ranges
                 merged = []
                 for s, e in sorted(p["a"]):
@@ -130,6 +182,11 @@ if os.path.exists(plain_path):
         later = json.load(open(later_path, encoding="utf-8"))
         for c in out:
             if c["section"] in later: c["later"] = later[c["section"]]
+    elements_path = os.path.join(here, "elements.json")  # each section's crimes broken into elements
+    if os.path.exists(elements_path):
+        elements = json.load(open(elements_path, encoding="utf-8"))
+        for c in out:
+            if c["section"] in elements: c["elements"] = elements[c["section"]]
     dropped = [c["section"] for c in out if c.get("isOffense") is False]
     out = [c for c in out if c.get("isOffense") is not False]
     print(len(dropped), "sections excluded as not defining a crime")
@@ -147,7 +204,16 @@ if os.path.exists(stat_path):
         if v.get("plaw"): stat_links[k] = {"plaw": v["plaw"], **({"exact": False} if not v.get("exact") else {})}
         elif v.get("pdf"): stat_links[k] = {"pdf": v["pdf"].replace("https://www.govinfo.gov/content/pkg/", ""), "kb": v.get("kb")}
 
-json.dump({"partISections": part1, "statLinks": stat_links, "edition": "United States Code, 2024 Edition (current through Jan. 6, 2025)", "source": SRC, "crimes": out},
+# Where the law cites "section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))", remember
+# Act + section → Code section, so the same reference without a citation elsewhere can link too.
+ACT_CITE = re.compile(r"[Ss]ections?\s+(\d+[A-Za-z]*)(?:\([^)]*\))*\s+of\s+the\s+([A-Z][^();,]{3,90}?)\s*\((\d+)\s+U\.S\.C\.\s+(\d+[a-zA-Z]*(?:[–-]\d+[a-zA-Z]*)?)")
+act_sections = {}
+for c in out:
+    for p in c["text"]:
+        for m in ACT_CITE.finditer(p["t"]):
+            act_sections.setdefault(f"{re.sub(r'\s+', ' ', m.group(2)).strip().lower()}|{m.group(1)}", [m.group(3), m.group(4)])
+
+json.dump({"partISections": part1, "statLinks": stat_links, "actSections": act_sections, "edition": "United States Code, 2024 Edition (current through Jan. 6, 2025)", "source": SRC, "crimes": out},
           open(os.path.join(here, "crimes.json"), "w"), ensure_ascii=False, indent=1)
 print(len(out), "sections;", out[0]["section"], "→", out[-1]["section"])
 print("warnings:", warn)
