@@ -106,6 +106,10 @@ python3 build_pages.py --jur ny                     # write ny/index.html and ny
 
 Sentences are set in Penal Law Articles 70 and 80, outside this set, so the site shows each crime's class (for example "Class D felony") instead of a prison term. `review/ny/` holds the instructions, validator, and reviewed batches.
 
+## Related crimes
+
+`related.py` picks, for every section, up to 3 similar sections in the same jurisdiction and up to 3 in the other jurisdictions (TF-IDF over title, summary, category and acts, with the title weighted extra; cutoffs 0.32 within a jurisdiction and 0.38 across, chosen so wrong matches are rarer than missing ones). It writes `related.json`, and `build_pages.py` shows it as the "Related crimes" box on each section page. Run `python3 related.py` after any data rebuild and before `build_pages.py`; `python3 related.py --show us:922 ca:187` prints the matches and scores for those sections.
+
 ## Review tools
 
 `review/federal/` and `review/ma/` hold the instructions, validators, and (federal) merge script used to produce `elements.json`, `plain.json`, and their Massachusetts counterparts with review agents. `review/ma/266/` and `review/ma/268/` hold the reviewed batches for those chapters. See `HANDOFF.md` for the current state and next steps.

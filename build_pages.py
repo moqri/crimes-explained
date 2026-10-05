@@ -191,6 +191,27 @@ pages = json.loads(html.unescape(m.group(1)))
 # 4. Write the pages.
 UP = "../../" if MA else "../"                 # from a section page to the site root
 LIST = "index.html" if (CA or NY) else "../index.html"  # from a section page to its list page
+# Related crimes (related.py): titles, labels and addresses of every section in every jurisdiction.
+RELATED = json.load(open(os.path.join(HERE, "related.json"))) if os.path.exists(os.path.join(HERE, "related.json")) else {}
+JUR_NAMES = {"us": "Federal", "ma": "Massachusetts", "ca": "California", "ny": "New York"}
+INFO = {}
+for _jur, _f in (("us", "crimes.json"), ("ma", "ma/crimes.json"), ("ca", "ca/crimes.json"), ("ny", "ny/crimes.json")):
+    if os.path.exists(os.path.join(HERE, _f)):
+        for _c in json.load(open(os.path.join(HERE, _f), encoding="utf-8"))["crimes"]:
+            INFO[(_jur, _c["section"])] = (_c["title"], _c.get("cite") or "§ " + _c["section"], ("18/" if _jur == "us" else _jur + "/") + _c["section"] + ".html")
+
+def related_html(key):
+    r = RELATED.get(key)
+    if not r or not (r["same"] or r["other"]): return ""
+    def item(j, s, show_jur):
+        t, label, path = INFO[(j, s)]
+        jur = f'<span class="rel-jur">{JUR_NAMES[j]}</span> ' if show_jur else ""
+        return f'<li>{jur}<a href="{UP}{path}"><span class="rel-sec">{html.escape(label)}</span> {html.escape(t)}</a></li>'
+    cols = ""
+    if r["same"]: cols += f'<div><h3>In {JUR_NAMES[JURSEL]}</h3><ul>{"".join(item(j, s, False) for j, s in r["same"])}</ul></div>'
+    if r["other"]: cols += f'<div><h3>In other jurisdictions</h3><ul>{"".join(item(j, s, True) for j, s in r["other"])}</ul></div>'
+    return f'<section class="related" aria-label="Related crimes"><h2>Related crimes</h2><div class="rel-cols">{cols}</div></section>'
+
 def page(i, p):
     prev_p, next_p = (pages[i - 1] if i else None), (pages[i + 1] if i + 1 < len(pages) else None)
     href = lambda q: f'../{q["section"]}.html' if MA else f'{q["section"]}.html'
@@ -204,6 +225,7 @@ def page(i, p):
     source = (f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
               if MA else f'Official text of the California Penal Code from the California Legislative Information site (<a href="{html.escape(p["url"])}">leginfo.legislature.ca.gov</a>), downloaded {EDITION_DATE}. Section names are descriptions written for this site; the Penal Code has no official section headings.'
               if CA else f'Official text of the New York Penal Law from the New York State Senate Open Legislation API (<a href="{html.escape(p["url"])}">nysenate.gov</a>), downloaded {EDITION_DATE}. Section names are the official titles.' if NY else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
+    related = related_html(f'{JURSEL}:{p["section"]}')
     page_url = f'{BASE_URL}{JURSEL + "/" if STATE else "18/"}{p["section"]}.html'
     report = "https://github.com/moqri/crimes-explained/issues/new?" + urllib.parse.urlencode(
         {"title": f"Error in {law}", "body": f"Section: {law}, {p['title']}\nPage: {page_url}\n\nWhat is wrong:\n\nWhat the official text says:\n"}, quote_via=urllib.parse.quote)
@@ -235,6 +257,7 @@ def page(i, p):
       {p["body"]}
     </div>
   </article>
+  {related}
   <nav class="page-nav page-foot-nav" aria-label="Sections">
     <a href="{LIST}">← All sections</a>
     <span class="pn">{nav(prev_p, "prev")}{nav(next_p, "next")}</span>

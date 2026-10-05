@@ -198,6 +198,17 @@
     .xref { text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: color-mix(in srgb, currentColor 40%, transparent); text-underline-offset: .18em; }
     .xref:hover { text-decoration-color: currentColor; }
     .xref.ext::after { content: "↗"; font-size: .75em; margin-left: 1px; text-decoration: none; display: inline-block; }
+    /* related crimes box on section pages */
+    .related { margin-top: 18px; padding: 14px 16px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface-2); }
+    .related h2 { font: 400 12px/1.4 system-ui, sans-serif; letter-spacing: .06em; text-transform: uppercase; margin: 0 0 8px; color: var(--muted); }
+    .related h3 { font: 400 12px/1.4 system-ui, sans-serif; letter-spacing: .04em; color: var(--muted); margin: 0 0 4px; }
+    .rel-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); gap: 12px 28px; }
+    .related ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+    .related li { line-height: 1.45; min-width: 0; }
+    .related a { color: var(--hl-link); text-decoration: none; }
+    .related a:hover { text-decoration: underline; }
+    .rel-sec { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; margin-right: 2px; }
+    .rel-jur { font: 400 11.5px/1.5 system-ui, sans-serif; color: var(--muted); border: 1px solid var(--border); border-radius: 99px; padding: 0 7px; margin-right: 4px; white-space: nowrap; }
     .later { margin: 4px 0 14px; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--act-line); background: var(--act-bg); font-size: 14.5px; }
     .later a { margin-left: 4px; white-space: nowrap; }
     .filesize { font-size: .85em; color: var(--muted); white-space: nowrap; }
