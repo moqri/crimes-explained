@@ -263,7 +263,7 @@
           <p>California criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Code may follow.</p>
           <ul>
       <li><b>Select any section</b> to open its own page with the official text beside a breakdown of each crime in it: the act, who can commit it when the law limits that, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences. Breakdowns use only the text of that section. The Penal Code has no official section headings, so each section's name here is a short description written for this site.</li>
-      <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span> or purpose required (such as <i>willfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and <span class="pen">penalties</span> in red.</li>
+      <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span>, recklessness or negligence, or the purpose required (such as <i>willfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and <span class="pen">penalties</span> in red.</li>
       <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
       <li>The colored bar on each card shows the <b>maximum</b> prison time stated in that section. Many sentences are lower, enhancements and punishments set in other sections can add to them, and some crimes are punished under other sections.</li>
       <li><b>Felony or misdemeanor:</b> a crime punishable by death, in state prison, or in county jail under Penal Code Section 1170(h) is a <b>felony</b>; every other crime is a <b>misdemeanor</b> (usually up to one year in county jail) or an infraction. A <b>wobbler</b> can be punished either way.</li>
@@ -349,6 +349,10 @@
     ['intending', 'Intending', 'Having the aim or goal of bringing about a particular result.'],
     ['with the intent that', 'With the intent that', 'Acting for the purpose of bringing about a particular result.'],
     ['recklessly', 'Recklessly', 'Consciously ignoring a substantial and unjustifiable risk.'],
+    ['reckless disregard', 'Reckless disregard', 'Consciously ignoring a known, serious risk.'],
+    ['wantonly', 'Wantonly', 'Acting in conscious disregard of a risk of harm to others or their property.'],
+    ['negligently', 'Negligently', 'Failing to be as careful as a reasonable person would be. The law may define the standard more precisely for a given crime.'],
+    ['wilfully', 'Wilfully', 'Done on purpose. For many crimes it also means the person knew the conduct was unlawful.'],
     ['with reckless disregard', 'With reckless disregard', 'Consciously ignoring a known, serious risk.'],
     ['fraudulently', 'Fraudulently', 'Done with intent to deceive or cheat someone.'],
     ['purposely', 'Purposely', 'Done on purpose, with the aim of causing the result.'],
@@ -371,7 +375,7 @@
     ['thing of value', 'Thing of value', 'Anything that has value to the person receiving it, not only money.'],
   ];
   // Mental-state wording, highlighted in purple wherever it appears in statute text.
-  const INTENT_KEYS = new Set(['willfully', 'wilfully', 'wantonly or recklessly', 'intentionally', 'with intent to', 'with the intent to', 'maliciously', 'corruptly',
+  const INTENT_KEYS = new Set(['willfully', 'wilfully', 'wantonly or recklessly', 'wantonly', 'reckless disregard', 'negligently', 'criminal negligence', 'with criminal negligence', 'intentionally', 'with intent to', 'with the intent to', 'maliciously', 'corruptly',
     'in order to', 'for the purpose of', 'with the purpose of', 'intending', 'with the intent that', 'recklessly',
     'with reckless disregard', 'fraudulently', 'purposely']);
   // Knowledge standards describe what a person knew, not what they meant to do: colored teal, separate from intent.
@@ -380,7 +384,7 @@
   const NOT_A_TERM = new Set(['having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'in order to', 'for the purpose of', 'with the purpose of', 'intending', 'with the intent that',
     'with intent to', 'with the intent to', 'knowing', 'knowingly', 'intentionally', 'purposely', 'fraudulently', 'counterfeit', 'wilfully']);
   // Variants that share a definition with another entry; kept out of the glossary list at the bottom of the page.
-  const GLOSS_HIDDEN = new Set(['having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'knowing', 'in order to', 'for the purpose of', 'intending', 'counterfeit', 'with the intent to', 'fine under this title', 'with the purpose of', 'has reason to believe',
+  const GLOSS_HIDDEN = new Set(['reckless disregard', 'with criminal negligence', 'having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'knowing', 'in order to', 'for the purpose of', 'intending', 'counterfeit', 'with the intent to', 'fine under this title', 'with the purpose of', 'has reason to believe',
     'has reasonable cause to believe', 'has reason to know', 'with the intent that']);
   if (MA || CA || NY) {   // Massachusetts / California / New York meanings replace the federal ones; federal-only terms are dropped
     const FED_ONLY = new Set(['fine under this title', 'fined under this title', 'special maritime and territorial jurisdiction of the United States', 'interstate or foreign commerce', ...(CA || NY ? ['any term of years or for life'] : [])]);
@@ -395,6 +399,7 @@
       ['intentionally', 'Intentionally', 'A person acts intentionally when his or her conscious objective is to cause the result or to engage in the conduct (Penal Law § 15.05).'],
       ['knowingly', 'Knowingly', 'A person acts knowingly when he or she is aware that his or her conduct is of that nature or that the circumstance exists (Penal Law § 15.05).'],
       ['recklessly', 'Recklessly', 'A person acts recklessly when he or she is aware of and consciously disregards a substantial and unjustifiable risk that a result will occur or a circumstance exists, a risk of such a nature that disregarding it is a gross deviation from how a reasonable person would act (Penal Law § 15.05).'],
+      ['with criminal negligence', 'With criminal negligence', 'A person acts with criminal negligence when he or she fails to perceive a substantial and unjustifiable risk, a risk of such a nature that the failure is a gross deviation from how a reasonable person would act (Penal Law § 15.05).'],
       ['criminal negligence', 'Criminal negligence', 'A person acts with criminal negligence when he or she fails to perceive a substantial and unjustifiable risk, a risk of such a nature that the failure is a gross deviation from how a reasonable person would act (Penal Law § 15.05).'],
     ] : CA ? [
       ['felony', 'Felony', 'In California, a crime punishable by death, by imprisonment in the state prison, or by imprisonment in a county jail under Penal Code § 1170(h) (Pen. Code § 17). Every other crime is a misdemeanor or an infraction.'],
@@ -423,8 +428,8 @@
       ['wantonly or recklessly', 'Wantonly or recklessly', 'Consciously disregarding a high risk that serious harm will result.'],
       ['malice aforethought', 'Malice aforethought', 'The state of mind required for murder: an intent to kill, an intent to cause grievous bodily harm, or an intent to do an act that a reasonable person would know creates a plain and strong likelihood of death.'],
     ];
-    const keys = new Set(MA_TERMS.map(t => t[0])), NY_KEEP = new Set(['with intent to']);
-    GLOSSARY.splice(0, GLOSSARY.length, ...GLOSSARY.filter(([k]) => NY ? NY_KEEP.has(k) : !FED_ONLY.has(k) && !keys.has(k)), ...MA_TERMS);   // New York keeps only the generic federal terms listed here
+    const keys = new Set(MA_TERMS.map(t => t[0])), NY_KEEP = new Set([...KNOWLEDGE_KEYS, ...INTENT_KEYS, 'with intent to', 'with the intent to', 'with reckless disregard']);
+    GLOSSARY.splice(0, GLOSSARY.length, ...GLOSSARY.filter(([k]) => NY ? NY_KEEP.has(k) && !keys.has(k) : !FED_ONLY.has(k) && !keys.has(k)), ...MA_TERMS);   // New York keeps only the generic federal terms listed here
   }
   const GLOSS = new Map(GLOSSARY.map(([k, label, def]) => [k.toLowerCase(), { label, def }]));
 
@@ -944,7 +949,7 @@
 
   // Crime breakdown ("elements"): shared fields once per section, then each crime with only what differs.
   const ROWS = [
-    ['who', 'Who', ''], ['federalBasis', 'Federal basis', ''], ['knowledge', 'Knowledge', 'know'], ['mentalState', 'Mental state', 'know'],
+    ['who', 'Who', ''], ['federalBasis', 'Federal basis', ''], ['knowledge', 'Knowledge', 'know'], ['mentalState', 'Mental state', 'intent'],
     ['intent', 'Intent', 'intent'], ['conditions', 'Conditions', ''], ['exceptions', 'Exceptions', ''], ['defenses', 'Defenses', ''],
     ['penalties', 'Penalty', 'pen'], ['consequences', 'Other consequences', ''], ['terms', 'Key terms', ''],
   ];

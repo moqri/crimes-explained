@@ -67,7 +67,7 @@ Content and accuracy
 
 Official-text highlighting
 - Prohibited act: amber background; always starts with the infinitive "to" when there is one; never a lone trailing "." or other punctuation.
-- Knowledge: teal. Intent: purple. Conditions: only the word "if"/"unless" is marked (italic, slate). Penalty: only the penalty action word is red (e.g. "fined", "imprisoned"); the rest stays plain.
+- Knowledge (knowingly, knowing that…): teal. Intent, recklessness and negligence (willfully, with intent to, recklessly, wantonly, negligently, with criminal negligence…): purple, in the official text and in the breakdown (the "Mental state" row is purple like "Intent"; "Knowledge" is teal). Keep both sides in sync: the word lists are `INTENT_KEYS` / `KNOWLEDGE_KEYS` in `index.html`, and each jurisdiction's glossary must contain a term for a word to be colored. Conditions: only the word "if"/"unless" is marked (italic, slate). Penalty: only the penalty action word is red (e.g. "fined", "imprisoned"); the rest stays plain.
 - A clause like "if … would be an offense" that defines the act is not a condition.
 - No bold anywhere. Legal terms get a dotted underline with a popup, but simple phrases ("in order to", "knowing") are not underlined.
 - Correct outline indentation; chained labels like "(b)(1)" on separate lines; subsections separated by dividers; separate provisions ("There is jurisdiction …", "For purposes of …") start new paragraphs.
