@@ -1,3 +1,7 @@
 .DS_Store
 __pycache__/
 _*.html
+
+# local secrets (never commit)
+ny/.api_key
+*.api_key

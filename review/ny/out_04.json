@@ -1,0 +1,106 @@
+{
+ "135.61": {
+  "review": {
+   "isOffense": true,
+   "plain": "Coercion in the second degree is committing coercion in the third degree and thereby compelling or inducing a person to engage in vaginal, oral or anal sexual contact; it is a class E felony.",
+   "category": "Sex Crimes & Exploitation",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "compels or induces a person to engage in vaginal sexual contact, oral sexual contact or anal sexual contact"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"vaginal sexual contact, oral sexual contact or anal sexual contact\": as such terms are defined in section 130.00 of this title"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Compels or induces a person to engage in vaginal sexual contact, oral sexual contact or anal sexual contact",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits the crime of coercion in the third degree as defined in section 135.60 of this article"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "135.65": {
+  "review": {
+   "isOffense": true,
+   "plain": "Coercion in the first degree is committing coercion in the third degree by instilling fear of injury or property damage, or by compelling the victim to commit a felony, cause injury, or violate public duty; it is a class D felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "commits such crime by instilling in the victim a fear that he or she will cause physical injury to a person or cause damage to property",
+    "compels or induces the victim to"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits such crime by instilling in the victim a fear that he or she will cause physical injury to a person or cause damage to property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits the crime of coercion in the third degree"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Compels or induces the victim to commit or attempt to commit a felony, to cause or attempt to cause physical injury to a person, or to violate his or her duty as a public servant",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits the crime of coercion in the third degree",
+      "Any of the following: the victim is compelled or induced to commit or attempt to commit a felony; to cause or attempt to cause physical injury to a person; or to violate his or her duty as a public servant"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "135.70": {
+  "review": {
+   "isOffense": false,
+   "plain": "Coercion and certain bribe receiving crimes are not mutually exclusive, and committing one of those bribe receiving crimes by the same conduct is no defense to a coercion prosecution."
+  }
+ },
+ "135.75": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets an affirmative defense to coercion by threat of criminal charges where the defendant reasonably believed the charge true and sought only reasonable action to make good the wrong."
+  }
+ }
+}

@@ -1,0 +1,912 @@
+{
+ "120.00": {
+  "isOffense": true,
+  "plain": "Assault in the third degree covers intentionally or recklessly causing physical injury, or causing it with criminal negligence by a deadly weapon or dangerous instrument; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "he causes such injury to such person or to a third person",
+   "causes physical injury to another person"
+  ]
+ },
+ "120.01": {
+  "isOffense": true,
+  "plain": "Reckless assault of a child by a child day care provider covers recklessly causing serious physical injury to a child under eleven in the provider's care; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "causes serious physical injury to a child under the care of such provider or employee who is less than eleven years of age"
+  ]
+ },
+ "120.02": {
+  "isOffense": true,
+  "plain": "Reckless assault of a child covers an adult recklessly causing serious injury to the brain of a child under five by shaking or by slamming or throwing the child; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "causes serious physical injury to the brain of a child less than five years old by shaking the child, or by slamming or throwing the child so as to impact the child's head on a hard surface or object"
+  ]
+ },
+ "120.03": {
+  "isOffense": true,
+  "plain": "Vehicular assault in the second degree covers causing serious physical injury while operating a motor vehicle, vessel, snowmobile or all terrain vehicle in violation of listed intoxication or impairment laws; it is a class E felony.",
+  "category": "Transportation & Aviation",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "causes serious physical injury to another person",
+   "operates a motor vehicle in violation of subdivision two, three, four or four-a of section eleven hundred ninety-two of the vehicle and traffic law",
+   "operates a motor vehicle with a gross vehicle weight rating of more than eighteen thousand pounds which contains flammable gas, radioactive materials or explosives",
+   "operates a snowmobile in violation of paragraph (b), (c) or (d) of subdivision one of section 25.24 of the parks, recreation and historic preservation law"
+  ]
+ },
+ "120.04": {
+  "isOffense": true,
+  "plain": "Vehicular assault in the first degree covers committing vehicular assault in the second degree with an aggravating factor such as .18 blood alcohol, a suspended license, a prior conviction, multiple victims or a child passenger; it is a class D felony.",
+  "category": "Transportation & Aviation",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article"
+  ]
+ },
+ "120.04-A": {
+  "isOffense": true,
+  "plain": "Aggravated vehicular assault covers reckless driving plus vehicular assault in the second degree, with an aggravating factor such as .18 blood alcohol, a suspended license, a prior conviction, multiple victims or a child passenger; it is a class C felony.",
+  "category": "Transportation & Aviation",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law",
+   "commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article"
+  ]
+ },
+ "120.05": {
+  "isOffense": true,
+  "plain": "Assault in the second degree covers many listed assaults, including intentionally causing serious injury, injury with a weapon, injury to protected workers, children and the elderly; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "he causes such injury to such person or to a third person",
+   "causes physical injury to such employee",
+   "causes serious physical injury to another person by means of a deadly weapon or a dangerous instrument",
+   "causes physical injury to another person who is a child under the age of eighteen by intentional discharge of a firearm, rifle or shotgun",
+   "causes stupor, unconsciousness or other physical impairment or injury to another person by administering to him, without his consent, a drug, substance or preparation capable of producing the same",
+   "causes physical injury to a person other than one of the participants",
+   "causes serious physical injury to such person",
+   "causes such injury to an employee of a school or public school district",
+   "causes physical injury to such process server"
+  ]
+ },
+ "120.06": {
+  "isOffense": true,
+  "plain": "Gang assault in the second degree covers causing serious physical injury with intent to cause physical injury while aided by two or more other persons present; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "he causes serious physical injury to such person or to a third person"
+  ]
+ },
+ "120.07": {
+  "isOffense": true,
+  "plain": "Gang assault in the first degree covers causing serious physical injury with intent to cause serious physical injury while aided by two or more other persons present; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "he causes serious physical injury to such person or to a third person"
+  ]
+ },
+ "120.08": {
+  "isOffense": true,
+  "plain": "Assault on a peace officer, police officer, firefighter or emergency medical services professional covers causing serious physical injury to prevent the lawful duty; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "causes serious physical injury to such peace officer, police officer, firefighter, paramedic or technician"
+  ]
+ },
+ "120.09": {
+  "isOffense": true,
+  "plain": "Assault on a judge covers causing serious physical injury to a judge with intent to prevent official judicial duties; it is a class C felony.",
+  "category": "Courts & Justice",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "causes serious physical injury to such judge"
+  ]
+ },
+ "120.09-A": {
+  "isOffense": true,
+  "plain": "Aggravated assault on a judge covers causing serious physical injury to a judge with intent to cause serious injury and prevent official judicial duties; it is a class B felony.",
+  "category": "Courts & Justice",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "causes serious physical injury to such judge"
+  ]
+ },
+ "120.10": {
+  "isOffense": true,
+  "plain": "Assault in the first degree covers intentionally causing serious injury with a weapon, intentional disfigurement or disabling, depraved-indifference recklessness, and injury during a felony; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "he causes such injury to such person or to a third person by means of a deadly weapon or a dangerous instrument",
+   "he causes such injury to such person or to a third person",
+   "engages in conduct which creates a grave risk of death to another person, and thereby causes serious physical injury to another person",
+   "causes serious physical injury to a person other than one of the participants"
+  ]
+ },
+ "120.11": {
+  "isOffense": true,
+  "plain": "Aggravated assault upon a police officer or a peace officer covers intentionally causing serious injury to one by deadly weapon or dangerous instrument; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "he causes such injury by means of a deadly weapon or dangerous instrument"
+  ]
+ },
+ "120.12": {
+  "isOffense": true,
+  "plain": "Aggravated assault upon a person less than eleven years old covers an adult committing third degree assault on such a child after a prior conviction within ten years; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of assault in the third degree as defined in section 120.00 of this article upon a person less than eleven years old"
+  ]
+ },
+ "120.13": {
+  "isOffense": true,
+  "plain": "Menacing in the first degree covers committing menacing in the second degree after a prior conviction for it or for menacing a police officer or peace officer within ten years; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of menacing in the second degree"
+  ]
+ },
+ "120.14": {
+  "isOffense": true,
+  "plain": "Menacing in the second degree covers placing another in fear of injury or death by displaying a weapon, stalking-like repeated conduct, or menacing in violation of an order of protection; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "places or attempts to place another person in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon",
+   "repeatedly follows a person or engages in a course of conduct or repeatedly commits acts over a period of time",
+   "commits the crime of menacing in the third degree in violation of that part of a duly served order of protection"
+  ]
+ },
+ "120.15": {
+  "isOffense": true,
+  "plain": "Menacing in the third degree covers intentionally placing or attempting to place another in fear of death or injury by physical menace; it is a class B misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "places or attempts to place another person in fear of death, imminent serious physical injury or physical injury"
+  ]
+ },
+ "120.16": {
+  "isOffense": true,
+  "plain": "Hazing in the first degree covers intentionally or recklessly engaging in conduct in the course of initiation or affiliation that creates a substantial risk of physical injury and thereby causes injury; it is a class a misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person and thereby causes such injury"
+  ]
+ },
+ "120.17": {
+  "isOffense": true,
+  "plain": "Hazing in the second degree covers intentionally or recklessly engaging in conduct in the course of initiation or affiliation that creates a substantial risk of physical injury; it is a violation.",
+  "category": "Violence & Threats",
+  "penClass": "Violation",
+  "maxYears": null,
+  "acts": [
+   "engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person"
+  ]
+ },
+ "120.18": {
+  "isOffense": true,
+  "plain": "Menacing a police officer or peace officer covers intentionally placing one in fear of injury or death by displaying a weapon; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "places or attempts to place a police officer or peace officer in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon, knife, pistol, revolver, rifle, shotgun, machine gun or other firearm, whether operable or not"
+  ]
+ },
+ "120.19": {
+  "isOffense": true,
+  "plain": "Assault on a retail worker covers causing physical injury to a retail worker to prevent an act within the scope of employment; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "causes physical injury to such retail worker"
+  ]
+ },
+ "120.20": {
+  "isOffense": true,
+  "plain": "Reckless endangerment in the second degree covers recklessly creating a substantial risk of serious physical injury to another; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "engages in conduct which creates a substantial risk of serious physical injury to another person"
+  ]
+ },
+ "120.25": {
+  "isOffense": true,
+  "plain": "Reckless endangerment in the first degree covers recklessly creating a grave risk of death to another under circumstances showing depraved indifference; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "engages in conduct which creates a grave risk of death to another person"
+  ]
+ },
+ "120.30": {
+  "isOffense": true,
+  "plain": "Promoting a suicide attempt covers intentionally causing or aiding another person to attempt suicide; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "causes or aids another person to attempt suicide"
+  ]
+ },
+ "120.35": {
+  "isOffense": false,
+  "plain": "Provides that a person whose conduct is both promoting a suicide attempt and attempt to commit murder may not be convicted of attempt to commit murder unless he causes or aids the suicide attempt by duress or deception."
+ },
+ "120.40": {
+  "isOffense": false,
+  "plain": "Defines terms used in the stalking sections of this article."
+ },
+ "120.45": {
+  "isOffense": true,
+  "plain": "Stalking in the fourth degree covers intentionally engaging in a course of conduct directed at a specific person, with no legitimate purpose, that causes or is likely to cause fear or harm; it is a class B misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "engages in a course of conduct directed at a specific person"
+  ]
+ },
+ "120.50": {
+  "isOffense": true,
+  "plain": "Stalking in the third degree covers repeated fourth degree stalking against several persons or after prior convictions, or intentionally engaging in a course of conduct likely to cause fear of injury; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "Commits the crime of stalking in the fourth degree in violation of section 120.45 of this article",
+   "engages in a course of conduct directed at such person"
+  ]
+ },
+ "120.55": {
+  "isOffense": true,
+  "plain": "Stalking in the second degree covers aggravated third degree stalking, such as displaying a weapon, prior convictions, stalking a child under fourteen, or stalking ten or more persons; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "Commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 of this article",
+   "repeatedly follows a person under the age of fourteen or engages in a course of conduct or repeatedly commits acts over a period of time"
+  ]
+ },
+ "120.60": {
+  "isOffense": true,
+  "plain": "Stalking in the first degree is committing stalking in the third or second degree and, in the course and furtherance, causing physical injury or committing a listed sex offense; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 or stalking in the second degree as defined in section 120.55 of this article",
+   "causes physical injury to the victim of such crime",
+   "commits a class A misdemeanor defined in article one hundred thirty of this chapter, or a class E felony defined in section 130.25, former section 130.40 or section 130.85 of this chapter, or a class D felony defined in former section 130.45 or section 130.30 of this chapter"
+  ]
+ },
+ "120.70": {
+  "isOffense": true,
+  "plain": "Luring a child is luring a child under seventeen into a vehicle, aircraft, watercraft, isolated area or building to commit a listed offense against the child; class E felony, raised to class C or D if the intended offense was a class A or B felony.",
+  "category": "Family & Children",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "lures a child into a motor vehicle, aircraft, watercraft, isolated area, building, or part thereof"
+  ]
+ },
+ "121.11": {
+  "isOffense": true,
+  "plain": "Criminal obstruction of breathing or blood circulation is pressing on the throat or neck, or blocking the nose or mouth, of another with intent to impede breathing or blood circulation; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "applies pressure on the throat or neck of such person",
+   "blocks the nose or mouth of such person"
+  ]
+ },
+ "121.12": {
+  "isOffense": true,
+  "plain": "Strangulation in the second degree is criminal obstruction of breathing or blood circulation that causes stupor, loss of consciousness, or other physical injury or impairment; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of criminal obstruction of breathing or blood circulation, as defined in section 121.11 of this article, and thereby causes stupor, loss of consciousness for any period of time, or any other physical injury or impairment"
+  ]
+ },
+ "121.13": {
+  "isOffense": true,
+  "plain": "Strangulation in the first degree is criminal obstruction of breathing or blood circulation that causes serious physical injury to the other person; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of criminal obstruction of breathing or blood circulation, as defined in section 121.11 of this article, and thereby causes serious physical injury to such other person"
+  ]
+ },
+ "121.13-A": {
+  "isOffense": true,
+  "plain": "Aggravated strangulation is a police or peace officer committing criminal obstruction of breathing or blood circulation, or using a chokehold or similar restraint, and thereby causing serious physical injury or death; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of criminal obstruction of breathing or blood circulation, as defined in section 121.11 of this article",
+   "uses a chokehold or similar restraint, as described in paragraph b of subdivision one of section eight hundred thirty-seven-t of the executive law, and thereby causes serious physical injury or death to another person"
+  ]
+ },
+ "121.14": {
+  "isOffense": false,
+  "plain": "Makes it an affirmative defense to sections 121.11, 121.12, 121.13 and 121.13-a that the conduct was for a valid medical or dental purpose."
+ },
+ "125.00": {
+  "isOffense": false,
+  "plain": "Defines homicide as conduct which causes the death of a person under circumstances constituting murder, manslaughter in the first or second degree, or criminally negligent homicide."
+ },
+ "125.05": {
+  "isOffense": false,
+  "plain": "Defines \"person,\" when referring to the victim of a homicide, as a human being who has been born and is alive."
+ },
+ "125.10": {
+  "isOffense": true,
+  "plain": "Criminally negligent homicide is causing the death of another person with criminal negligence; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of another person"
+  ]
+ },
+ "125.11": {
+  "isOffense": true,
+  "plain": "Aggravated criminally negligent homicide is causing, with criminal negligence, the death of a police or peace officer performing official duties; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of a police officer or peace officer"
+  ]
+ },
+ "125.12": {
+  "isOffense": true,
+  "plain": "Vehicular manslaughter in the second degree is causing a death while operating a motor vehicle, vessel, snowmobile or all terrain vehicle in violation of listed intoxication or impairment laws; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of another person",
+   "operates a motor vehicle in violation of subdivision two, three, four or four-a of section eleven hundred ninety-two of the vehicle and traffic law",
+   "operates a vessel or public vessel in violation of paragraph (b), (c), (d) or (e) of subdivision two of section forty-nine-a of the navigation law",
+   "operates a motor vehicle with a gross vehicle weight rating of more than eighteen thousand pounds which contains flammable gas, radioactive materials or explosives in violation of subdivision one of section eleven hundred ninety-two of the vehicle and traffic law",
+   "operates a snowmobile in violation of paragraph (b), (c) or (d) of subdivision one of section 25.24 of the parks, recreation and historic preservation law",
+   "operates an all terrain vehicle as defined in paragraph (a) of subdivision one of section twenty-two hundred eighty-one of the vehicle and traffic law in violation of subdivision two, three, four, or four-a of section eleven hundred ninety-two of the vehicle and traffic law"
+  ]
+ },
+ "125.13": {
+  "isOffense": true,
+  "plain": "Vehicular manslaughter in the first degree is committing vehicular manslaughter in the second degree with an aggravating factor such as .18 blood alcohol, suspended license, prior conviction, multiple deaths or a child passenger; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+   "commits such crime while operating a motor vehicle while such person has .18 of one per centum or more by weight of alcohol in such person's blood as shown by chemical analysis of such person's blood, breath, urine or saliva made pursuant to the provisions of section eleven hundred ninety-four of the vehicle and traffic law",
+   "causes the death of more than one other person",
+   "commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes the death of such child",
+   "commits such crime while operating a vessel in violation of paragraph (e-1) of subdivision two of section forty-nine-a of the navigation law while a child who is fifteen years of age or less is a passenger in such vessel and causes the death of such child"
+  ]
+ },
+ "125.14": {
+  "isOffense": true,
+  "plain": "Aggravated vehicular homicide is reckless driving plus vehicular manslaughter in the second degree with an aggravating factor such as .18 blood alcohol, suspended license, prior conviction or multiple victims; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law",
+   "commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+   "causes the death of more than one other person",
+   "causes the death of one person and the serious physical injury of at least one other person"
+  ]
+ },
+ "125.15": {
+  "isOffense": true,
+  "plain": "Manslaughter in the second degree is recklessly causing the death of another person, or intentionally causing or aiding another person to commit suicide; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of another person",
+   "causes or aids another person to commit suicide"
+  ]
+ },
+ "125.20": {
+  "isOffense": true,
+  "plain": "Manslaughter in the first degree covers causing death with intent to cause serious injury, killing under extreme emotional disturbance, and recklessly causing the death of a child under eleven; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of such person or of a third person",
+   "engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such person"
+  ]
+ },
+ "125.21": {
+  "isOffense": true,
+  "plain": "Aggravated manslaughter in the second degree is recklessly causing the death of a police or peace officer performing official duties; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of a police officer or peace officer"
+  ]
+ },
+ "125.22": {
+  "isOffense": true,
+  "plain": "Aggravated manslaughter in the first degree is killing a police or peace officer performing official duties with intent to cause serious injury, or with intent to kill under extreme emotional disturbance; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of such officer or another police officer or peace officer"
+  ]
+ },
+ "125.25": {
+  "isOffense": true,
+  "plain": "Murder in the second degree covers intentional killing, depraved-indifference killing, felony murder, and killings of children under eleven or during listed sex crimes against children under fourteen; it is a class A-I felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class A-I felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of such person or of a third person",
+   "engages in conduct which creates a grave risk of death to another person, and thereby causes the death of another person",
+   "commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree",
+   "causes the death of a person other than one of the participants",
+   "engages in conduct which creates a grave risk of serious physical injury or death to another person less than eleven years old and thereby causes the death of such person",
+   "causes the death of such person"
+  ]
+ },
+ "125.26": {
+  "isOffense": true,
+  "plain": "Aggravated murder is intentionally killing a police officer, peace officer, first responder or correctional employee on duty, or intentionally killing a child under fourteen by torture, by a defendant over eighteen; it is a class A-I felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class A-I felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of such person, or of a third person who was a person described in subparagraph (i), (ii), (ii-a) or (iii) of paragraph (a) of this subdivision engaged at the time of the killing in the course of performing his or her official duties",
+   "causes the death of such person"
+  ]
+ },
+ "125.27": {
+  "isOffense": true,
+  "plain": "Murder in the first degree is intentionally killing, by a defendant over eighteen, where a listed aggravating circumstance applies, such as the victim being a police officer, a contract killing or multiple victims; it is a class A-I felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class A-I felony",
+  "maxYears": null,
+  "acts": [
+   "causes the death of such person or of a third person"
+  ]
+ },
+ "130.00": {
+  "isOffense": false,
+  "plain": "Defines terms used in Article 130, such as vaginal, oral and anal sexual contact, sexual contact, forcible compulsion, mentally disabled, and physically helpless."
+ },
+ "130.05": {
+  "isOffense": false,
+  "plain": "Makes lack of consent an element of every offense in this article and sets out when lack of consent results and who is deemed incapable of consent."
+ },
+ "130.10": {
+  "isOffense": false,
+  "plain": "Sets affirmative defenses and limits for prosecutions under Article 130, including lack of knowledge of incapacity, medical purpose, patient consent after advice, and marriage."
+ },
+ "130.16": {
+  "isOffense": false,
+  "plain": "Bars conviction under this article, where lack of consent rests solely on mental defect or incapacity, on the victim's testimony alone without supporting evidence."
+ },
+ "130.20": {
+  "isOffense": true,
+  "plain": "Sexual misconduct is vaginal, oral or anal sexual contact with another person without consent, or sexual conduct with an animal or a dead human body; it is a class A misdemeanor.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "engages in vaginal sexual contact with another person",
+   "engages in oral sexual contact with another person",
+   "engages in anal sexual contact with another person",
+   "engages in sexual conduct with an animal or a dead human body"
+  ]
+ },
+ "130.25": {
+  "isOffense": true,
+  "plain": "Rape in the third degree is vaginal, oral or anal sexual contact with a person incapable of consent for reasons other than age, with a person under seventeen by an actor twenty-one or older, or without consent; it is a class E felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "engages in vaginal sexual contact with another person",
+   "engages in oral sexual contact with another person",
+   "engages in anal sexual contact with another person"
+  ]
+ },
+ "130.30": {
+  "isOffense": true,
+  "plain": "Rape in the second degree is vaginal, oral or anal sexual contact by an actor eighteen or older with a person under fifteen, or with a person incapable of consent by mental disability or incapacitation; it is a class D felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "engages in vaginal sexual contact with another person",
+   "engages in oral sexual contact with another person",
+   "engages in anal sexual contact with another person"
+  ]
+ },
+ "130.35": {
+  "isOffense": true,
+  "plain": "Rape in the first degree is vaginal, oral or anal sexual contact by forcible compulsion, with a physically helpless person, with a child under eleven, or under thirteen by an actor eighteen or older; it is a class B felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "engages in vaginal sexual contact with another person",
+   "engages in oral sexual contact with another person",
+   "engages in anal sexual contact with another person"
+  ]
+ },
+ "130.52": {
+  "isOffense": true,
+  "plain": "Forcible touching is intentionally and for no legitimate purpose forcibly touching another's intimate parts, or subjecting a transit passenger to sexual contact, for a prohibited purpose; it is a class A misdemeanor.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "forcibly touches the sexual or other intimate parts of another person",
+   "subjects another person to sexual contact"
+  ]
+ },
+ "130.53": {
+  "isOffense": true,
+  "plain": "Persistent sexual abuse is committing forcible touching or sexual abuse in the second or third degree after two or more prior qualifying convictions within ten years; it is a class E felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of forcible touching, as defined in section 130.52 of this article, sexual abuse in the third degree, as defined in section 130.55 of this article, or sexual abuse in the second degree, as defined in section 130.60 of this article"
+  ]
+ },
+ "130.55": {
+  "isOffense": true,
+  "plain": "Sexual abuse in the third degree is subjecting another person to sexual contact without consent; it is a class B misdemeanor.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "subjects another person to sexual contact without the latter's consent"
+  ]
+ },
+ "130.60": {
+  "isOffense": true,
+  "plain": "Sexual abuse in the second degree is subjecting to sexual contact a person incapable of consent for a reason other than being under seventeen, or under fourteen; it is a class A misdemeanor.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "subjects another person to sexual contact"
+  ]
+ },
+ "130.65": {
+  "isOffense": true,
+  "plain": "Sexual abuse in the first degree is subjecting another person to sexual contact by force, or when the person is physically helpless or very young; it is a class D felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "subjects another person to sexual contact"
+  ]
+ },
+ "130.65-A": {
+  "isOffense": true,
+  "plain": "Aggravated sexual abuse in the fourth degree is inserting a foreign object, or a finger causing injury, into a person incapable of consent for a reason other than being under seventeen; it is a class E felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person",
+   "inserts a finger in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person"
+  ]
+ },
+ "130.66": {
+  "isOffense": true,
+  "plain": "Aggravated sexual abuse in the third degree is inserting a foreign object or finger into another person by force, or when helpless or very young, or causing injury to a mentally incapable person; class D felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "inserts a foreign object or a finger in the vagina, urethra, penis, rectum or anus of another person",
+   "inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person"
+  ]
+ },
+ "130.67": {
+  "isOffense": true,
+  "plain": "Aggravated sexual abuse in the second degree is inserting a finger into another person causing physical injury, by force or when helpless or under eleven; it is a class C felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "inserts a finger in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person"
+  ]
+ },
+ "130.70": {
+  "isOffense": true,
+  "plain": "Aggravated sexual abuse in the first degree is inserting a foreign object into another person causing physical injury, by force or when helpless or under eleven; it is a class B felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person"
+  ]
+ },
+ "130.75": {
+  "isOffense": true,
+  "plain": "Course of sexual conduct against a child in the first degree is two or more acts of sexual conduct over at least three months with a young child; it is a class B felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "engages in two or more acts of sexual conduct, which includes at least one act of vaginal sexual contact, oral sexual contact, anal sexual contact or aggravated sexual contact, with a child less than eleven years old",
+   "engages in two or more acts of sexual conduct, which include at least one act of vaginal sexual contact, oral sexual contact, anal sexual contact or aggravated sexual contact, with a child less than thirteen years old"
+  ]
+ },
+ "130.80": {
+  "isOffense": true,
+  "plain": "Course of sexual conduct against a child in the second degree is two or more acts of sexual conduct over at least three months with a young child; it is a class D felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "engages in two or more acts of sexual conduct with a child less than eleven years old",
+   "engages in two or more acts of sexual conduct with a child less than thirteen years old"
+  ]
+ },
+ "130.85": {
+  "isOffense": true,
+  "plain": "Female genital mutilation is knowingly cutting a person under eighteen's genitals, or a responsible adult knowingly consenting to it; it is a class E felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not reached eighteen years of age",
+   "consents to the circumcision, excision or infibulation of whole or part of such child's labia majora or labia minora or clitoris"
+  ]
+ },
+ "130.90": {
+  "isOffense": true,
+  "plain": "Facilitating a sex offense with a controlled substance is administering a controlled substance or prescription substance without consent to commit a felony of this article, then committing or attempting it; class D felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "possesses a controlled substance or any preparation, compound, mixture or substance that requires a prescription to obtain and administers such substance or preparation, compound, mixture or substance that requires a prescription to obtain to another person without such person's consent",
+   "commits or attempts to commit such conduct constituting a felony defined in this article"
+  ]
+ },
+ "130.91": {
+  "isOffense": true,
+  "plain": "A sexually motivated felony is committing a specified offense for the purpose, in whole or substantial part, of one's own direct sexual gratification; this section states no class.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": null,
+  "maxYears": null,
+  "acts": [
+   "commits a specified offense"
+  ]
+ },
+ "130.92": {
+  "isOffense": false,
+  "plain": "Sets sentencing consequences for a sexually motivated felony: it may be deemed a violent felony offense, takes the offense level of the specified offense, and is sentenced under section 70.80."
+ },
+ "130.95": {
+  "isOffense": true,
+  "plain": "Predatory sexual assault is committing first degree rape, aggravated sexual abuse or course of sexual conduct against a child with listed aggravating facts; it is a class A-II felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class A-II felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article"
+  ]
+ },
+ "130.96": {
+  "isOffense": true,
+  "plain": "Predatory sexual assault against a child is, by a person eighteen or older, first degree rape, aggravated sexual abuse or course of sexual conduct against a child with a victim under thirteen; class A-II felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class A-II felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article"
+  ]
+ },
+ "135.00": {
+  "isOffense": false,
+  "plain": "Defines restrain, abduct and relative for the kidnapping and unlawful imprisonment article."
+ },
+ "135.05": {
+  "isOffense": true,
+  "plain": "Unlawful imprisonment in the second degree is restraining another person; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "restrains another person"
+  ]
+ },
+ "135.10": {
+  "isOffense": true,
+  "plain": "Unlawful imprisonment in the first degree is restraining another person in circumstances that expose that person to a risk of serious physical injury; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "restrains another person under circumstances which expose the latter to a risk of serious physical injury"
+  ]
+ },
+ "135.15": {
+  "isOffense": false,
+  "plain": "Gives an affirmative defense to unlawful imprisonment where the defendant was a relative of a child under sixteen whose sole purpose was to assume control of the child."
+ },
+ "135.20": {
+  "isOffense": true,
+  "plain": "Kidnapping in the second degree is abducting another person; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "abducts another person"
+  ]
+ },
+ "135.25": {
+  "isOffense": true,
+  "plain": "Kidnapping in the first degree is abducting a person with ransom or similar intent, restraining over twelve hours with listed intent, or where the person abducted dies; it is a class A-I felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class A-I felony",
+  "maxYears": null,
+  "acts": [
+   "abducts another person"
+  ]
+ },
+ "135.30": {
+  "isOffense": false,
+  "plain": "Gives an affirmative defense to kidnapping where the defendant was a relative of the person abducted and his sole purpose was to assume control of that person."
+ },
+ "135.35": {
+  "isOffense": true,
+  "plain": "Labor trafficking is compelling or inducing another to engage in labor, or recruiting, enticing, harboring or transporting a person, by listed coercive means; it is a class D felony.",
+  "category": "Human Trafficking & Slavery",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "compels or induces another to engage in labor or recruits, entices, harbors, or transports such other person"
+  ]
+ },
+ "135.36": {
+  "isOffense": false,
+  "plain": "Provides that a person compelled, induced, recruited, enticed, harbored or transported to engage in labor is not deemed an accomplice in a labor trafficking prosecution."
+ },
+ "135.37": {
+  "isOffense": true,
+  "plain": "Aggravated labor trafficking is compelling or inducing labor, or recruiting or transporting a person for labor, by unlawfully providing a controlled substance to impair judgment; it is a class C felony.",
+  "category": "Human Trafficking & Slavery",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "compels or induces another to engage in labor or recruits, entices, harbors, or transports such other person to engage in labor"
+  ]
+ },
+ "135.45": {
+  "isOffense": true,
+  "plain": "Custodial interference in the second degree is a relative taking or enticing a child under sixteen, or anyone taking or enticing an incompetent person from lawful custody; it is a class A misdemeanor.",
+  "category": "Family & Children",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "takes or entices such child from his lawful custodian",
+   "takes or entices from lawful custody any incompetent person or other person entrusted by authority of law to the custody of another person or institution"
+  ]
+ },
+ "135.50": {
+  "isOffense": true,
+  "plain": "Custodial interference in the first degree is custodial interference in the second degree while removing the victim from the state or endangering the victim's safety or health; it is a class E felony.",
+  "category": "Family & Children",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of custodial interference in the second degree",
+   "he removes such person from the state"
+  ]
+ },
+ "135.55": {
+  "isOffense": true,
+  "plain": "Substitution of children is, having been entrusted with a child under one year old, substituting, producing or returning a different child to the parent or custodian intending to deceive; it is a class E felony.",
+  "category": "Family & Children",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "substitutes, produces or returns to such parent, guardian or custodian a child other than the one entrusted"
+  ]
+ },
+ "135.60": {
+  "isOffense": true,
+  "plain": "Coercion in the third degree is compelling or inducing a person to do or not do something they have a legal right to, by instilling fear of listed harms; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "compels or induces a person to engage in conduct which the latter has a legal right to abstain from engaging in",
+   "to abstain from engaging in conduct in which he or she has a legal right to engage",
+   "compels or induces a person to join a group, organization or criminal enterprise which such latter person has a right to abstain from joining",
+   "compels or induces a person to produce, disseminate, or otherwise display an image or images depicting nudity of such person or depicting such person engaged in sexual conduct"
+  ]
+ },
+ "135.61": {
+  "isOffense": true,
+  "plain": "Coercion in the second degree is committing coercion in the third degree and thereby compelling or inducing a person to engage in vaginal, oral or anal sexual contact; it is a class E felony.",
+  "category": "Sex Crimes & Exploitation",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "compels or induces a person to engage in vaginal sexual contact, oral sexual contact or anal sexual contact"
+  ]
+ },
+ "135.65": {
+  "isOffense": true,
+  "plain": "Coercion in the first degree is committing coercion in the third degree by instilling fear of injury or property damage, or by compelling the victim to commit a felony, cause injury, or violate public duty; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits such crime by instilling in the victim a fear that he or she will cause physical injury to a person or cause damage to property",
+   "compels or induces the victim to"
+  ]
+ },
+ "135.70": {
+  "isOffense": false,
+  "plain": "Coercion and certain bribe receiving crimes are not mutually exclusive, and committing one of those bribe receiving crimes by the same conduct is no defense to a coercion prosecution."
+ },
+ "135.75": {
+  "isOffense": false,
+  "plain": "Sets an affirmative defense to coercion by threat of criminal charges where the defendant reasonably believed the charge true and sought only reasonable action to make good the wrong."
+ }
+}

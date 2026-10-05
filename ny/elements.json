@@ -1,0 +1,3767 @@
+{
+ "120.00": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes physical injury to another person or to a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to another person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Causes physical injury to another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Causes physical injury to another person by means of a deadly weapon or a dangerous instrument",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With criminal negligence"
+    ]
+   }
+  ]
+ },
+ "120.01": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury to a child under the care of such provider or employee",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The child is less than eleven years of age"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ],
+    "who": "A child day care provider or an employee of one"
+   }
+  ]
+ },
+ "120.02": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes serious physical injury to the brain of a child less than five years old",
+    "ways": [
+     "By shaking the child",
+     "By slamming or throwing the child so as to impact the child's head on a hard surface or object"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ],
+    "who": "A person eighteen years of age or more",
+    "terms": [
+     "\"serious physical injury\": serious physical injury as defined in subdivision ten of section 10.00 of this chapter; or extreme rotational cranial acceleration and deceleration and one or more of the following: subdural hemorrhaging; intracranial hemorrhaging; or retinal hemorrhaging"
+    ]
+   }
+  ]
+ },
+ "120.03": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Operates a motor vehicle in violation of subdivision two, three, four or four-a of section eleven hundred ninety-two of the vehicle and traffic law, in a manner that causes serious physical injury to another person",
+    "ways": [
+     "Operates a vessel or public vessel in violation of paragraph (b), (c), (d) or (e) of subdivision two of section forty-nine-a of the navigation law"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person causes serious physical injury to another person",
+     "The operation in that manner is a result of intoxication or impairment by the use of a drug, or by the combined influence of drugs or of alcohol and any drug or drugs",
+     "Rebuttable presumption: if the person caused the serious physical injury while unlawfully intoxicated or impaired by the use of alcohol or a drug, it is presumed that the operation in that manner was a result of the intoxication or impairment (applies to each subdivision)"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Operates a motor vehicle with a gross vehicle weight rating of more than eighteen thousand pounds which contains flammable gas, radioactive materials or explosives in violation of subdivision one of section eleven hundred ninety-two of the vehicle and traffic law, in a manner that causes serious physical injury to another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person causes serious physical injury to another person",
+     "Such flammable gas, radioactive materials or explosives is the cause of the serious physical injury",
+     "The operation in that manner is a result of impairment by the use of alcohol"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Operates a snowmobile in violation of paragraph (b), (c) or (d) of subdivision one of section 25.24 of the parks, recreation and historic preservation law, in a manner that causes serious physical injury to another person",
+    "ways": [
+     "Operates an all terrain vehicle as defined in paragraph (a) of subdivision one of section twenty-two hundred eighty-one of the vehicle and traffic law and in violation of subdivision two, three, four, or four-a of section eleven hundred ninety-two of the vehicle and traffic law"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person causes serious physical injury to another person",
+     "The operation in that manner is a result of intoxication or impairment by the use of a drug, or by the combined influence of drugs or of alcohol and any drug or drugs"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.04": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a motor vehicle while the person has .18 of one per centum or more by weight of alcohol in the blood as shown by chemical analysis of blood, breath, urine or saliva made pursuant to section eleven hundred ninety-four of the vehicle and traffic law",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to know that either: (a) his or her license or privilege of operating a motor vehicle in another state, or privilege of obtaining a license there, is suspended or revoked based upon a conviction in such other state for an offense which would, if committed in this state, constitute a violation of section eleven hundred ninety-two of the vehicle and traffic law; or (b) his or her license or privilege of operating a motor vehicle in this state, or privilege of obtaining a license issued by the commissioner of motor vehicles, is suspended or revoked based upon a refusal to submit to a chemical test pursuant to section eleven hundred ninety-four of the vehicle and traffic law or following a conviction for a violation of section eleven hundred ninety-two of the vehicle and traffic law"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating section eleven hundred ninety-two of the vehicle and traffic law within the preceding ten years; a conviction in any other state or jurisdiction for an offense which, if committed in this state, would constitute a violation of that section is treated as a violation of such law",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Causes serious physical injury to more than one other person",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating any provision of this article or article one hundred twenty-five of this title involving the operation of a motor vehicle, or was convicted in any other state or jurisdiction of an offense involving the operation of a motor vehicle which, if committed in this state, would constitute a violation of this article or article one hundred twenty-five of this title",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes serious physical injury to such child",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "7",
+    "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a vessel in violation of paragraph (e-1) of subdivision two of section forty-nine-a of the navigation law while a child who is fifteen years of age or less is a passenger in such vessel and causes serious physical injury to such child",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.04-A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crimes while operating a motor vehicle while the person has .18 of one per centum or more by weight of alcohol in the blood as shown by chemical analysis of blood, breath, urine or saliva made pursuant to section eleven hundred ninety-four of the vehicle and traffic law",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to know that either: (a) his or her license or privilege of operating a motor vehicle in another state, or privilege of obtaining a license there, is suspended or revoked based upon a conviction in such other state for an offense which would, if committed in this state, constitute a violation of section eleven hundred ninety-two of the vehicle and traffic law; or (b) his or her license or privilege of operating a motor vehicle in this state, or privilege of obtaining a license issued by the commissioner of motor vehicles, is suspended or revoked based upon a refusal to submit to a chemical test pursuant to section eleven hundred ninety-four of the vehicle and traffic law or following a conviction for a violation of section eleven hundred ninety-two of the vehicle and traffic law"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating section eleven hundred ninety-two of the vehicle and traffic law within the preceding ten years; a conviction in any other state or jurisdiction for an offense which, if committed in this state, would constitute a violation of that section is treated as a violation of such law",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Causes serious physical injury to more than one other person",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating any provision of this article or article one hundred twenty-five of this title involving the operation of a motor vehicle, or was convicted in any other state or jurisdiction of an offense involving the operation of a motor vehicle which, if committed in this state, would constitute a violation of this article or article one hundred twenty-five of this title",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes serious physical injury to such child",
+     "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.05": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes serious physical injury to another person or to a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury to another person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Causes physical injury to another person or to a third person by means of a deadly weapon or a dangerous instrument",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to another person"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Causes physical injury to a peace officer, police officer, prosecutor, nurse, firefighter, paramedic, technician or other person listed in subdivision 3, by means including releasing or failing to control an animal under circumstances evincing the actor's intent that the animal obstruct the lawful activity of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is one of the persons listed in subdivision 3 (peace officer, police officer, prosecutor as defined in subdivision thirty-one of section 1.20 of the criminal procedure law, registered nurse, licensed practical nurse, public health sanitarian, sanitation enforcement agent, firefighter, emergency medical service paramedic or technician, hospital emergency department personnel, city marshal, school crossing guard, traffic enforcement officer or agent, or employee of an entity governed by the public service law in the course of performing an essential service, and others as listed)"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent the person from performing a lawful duty"
+    ]
+   },
+   {
+    "where": "3-a",
+    "act": "Causes physical injury to an employee of a local social services district, including by means of releasing or failing to control an animal under circumstances evincing the actor's intent that the animal obstruct the lawful activities of such employee",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent an employee of a local social services district directly involved in investigation of or response to alleged abuse or neglect of a child, a vulnerable elderly person or an incompetent or physically disabled person, from performing such investigation or response, the actor not being such child or person",
+     "Or with intent to prevent an employee of a local social services district directly involved in providing public assistance and care from performing his or her job"
+    ]
+   },
+   {
+    "where": "3-b",
+    "act": "Causes physical injury to an employee of the New York city housing authority",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The employee is located on housing project grounds, real property, or a building owned, managed, or operated by such authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent an employee of the New York city housing authority from performing his or her lawful duties"
+    ]
+   },
+   {
+    "where": "3-c",
+    "act": "Causes physical injury to an employee providing direct patient care",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The employee is not a nurse pursuant to title eight of the education law",
+     "The employee's principal employment responsibility is to carry out direct patient care for one or more patients in any hospital, nursing home, residential health care facility, general hospital, government agency including any chronic disease hospital, maternity hospital, outpatient department, emergency center or surgical center under article twenty-eight of the public health law"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent such employee from performing a lawful duty"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Causes serious physical injury to another person by means of a deadly weapon or a dangerous instrument",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "4-a",
+    "act": "Causes physical injury to another person who is a child under the age of eighteen by intentional discharge of a firearm, rifle or shotgun",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a child under the age of eighteen"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "5",
+    "act": "Causes stupor, unconsciousness or other physical impairment or injury to another person by administering to him, without his consent, a drug, substance or preparation capable of producing the same",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ],
+    "intent": [
+     "For a purpose other than lawful medical or therapeutic treatment"
+    ]
+   },
+   {
+    "where": "6",
+    "act": "Causes physical injury to a person other than one of the participants, in the course of and in furtherance of the commission or attempted commission of a felony, or of immediate flight therefrom",
+    "ways": [
+     "Another participant, if there be any, causes the injury"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "A felony defined in article one hundred thirty which requires corroboration for conviction"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "7",
+    "act": "Causes physical injury to another person or to a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person has been charged with or convicted of a crime and is confined in a correctional facility, as defined in subdivision three of section forty of the correction law, pursuant to such charge or conviction"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to another person"
+    ]
+   },
+   {
+    "where": "8",
+    "act": "Causes serious physical injury to a person less than eleven years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person eighteen years old or more",
+    "mentalState": [
+     "Recklessly"
+    ],
+    "intent": [
+     "With intent to cause physical injury to a person less than eleven years old"
+    ]
+   },
+   {
+    "where": "9",
+    "act": "Causes physical injury to a person less than seven years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person eighteen years old or more",
+    "intent": [
+     "With intent to cause physical injury to a person less than seven years old"
+    ]
+   },
+   {
+    "where": "10(a)",
+    "act": "Causes physical injury to an employee of a school or public school district",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury"
+    ],
+    "knowledge": [
+     "Acting at a place the person knows, or reasonably should know, is on school grounds"
+    ],
+    "terms": [
+     "\"school grounds\": shall have the meaning set forth in subdivision fourteen of section 220.00 of this chapter"
+    ]
+   },
+   {
+    "where": "10(b)",
+    "act": "Causes physical injury to another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is not a student of such school or public school district",
+     "The other person is a student of such school who is attending or present for educational purposes"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury"
+    ],
+    "knowledge": [
+     "Acting at a place the person knows, or reasonably should know, is on school grounds"
+    ],
+    "terms": [
+     "\"school grounds\": shall have the meaning set forth in subdivision fourteen of section 220.00 of this chapter"
+    ]
+   },
+   {
+    "where": "11",
+    "act": "Causes physical injury to a train operator, ticket inspector, conductor, bus operator, station agent, transit worker or other person listed in subdivision 11",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is one of the transit, ferry, enforcement, nursing, sanitation, prosecutor, paramedic or other persons listed in subdivision 11",
+     "The victim is performing an assigned duty as described in subdivision 11"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to such person"
+    ]
+   },
+   {
+    "where": "11-a",
+    "act": "Causes physical injury to an employee of a local social services district",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to an employee of a local social services district directly involved in investigation of or response to alleged abuse or neglect of a child, vulnerable elderly person or an incompetent or physically disabled person, the actor not being such child or person",
+     "Or with intent to prevent an employee of a local social services district directly involved in providing public assistance and care from performing his or her job"
+    ]
+   },
+   {
+    "where": "11-b",
+    "act": "Causes physical injury to an employee of the New York city housing authority",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The employee is performing his or her lawful duties while located on housing project grounds, real property, or a building owned, managed, or operated by such authority"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to such employee"
+    ]
+   },
+   {
+    "where": "11-c",
+    "act": "Causes physical injury to an employee providing direct patient care",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The employee is not a nurse pursuant to title eight of the education law",
+     "The employee's principal employment responsibility is to carry out direct patient care for one or more patients in a facility listed in this subdivision",
+     "The employee is performing a lawful duty"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to such employee"
+    ]
+   },
+   {
+    "where": "12",
+    "act": "Causes physical injury to a person who is sixty-five years of age or older",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The actor is more than ten years younger than such person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to such person"
+    ]
+   },
+   {
+    "where": "13",
+    "act": "Causes physical injury to an employee of a secure treatment facility",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is confined to a secure treatment facility, as such term is defined in subdivision (o) of section 10.03 of the mental hygiene law"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to an employee of such secure treatment facility performing his or her duties"
+    ]
+   },
+   {
+    "where": "14",
+    "act": "Causes physical injury to a process server",
+    "ways": [
+     "Including by means of releasing or failing to control an animal evincing the actor's intent that the animal prevent or obstruct the lawful duty of the process server or as retaliation against the process server"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent or obstruct a process server, as defined in section eighty-nine-t of the general business law, from performing a lawful duty pursuant to article three of the civil practice law and rules",
+     "Or intentionally, as retaliation against such a process server for the performance of the process server's duties pursuant to such article"
+    ]
+   }
+  ]
+ },
+ "120.06": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury to another person or to a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is aided by two or more other persons actually present"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause physical injury to another person"
+    ]
+   }
+  ]
+ },
+ "120.07": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury to another person or to a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is aided by two or more other persons actually present"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury to another person"
+    ]
+   }
+  ]
+ },
+ "120.08": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury to a peace officer, police officer, firefighter, paramedic or technician",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent a peace officer, police officer, a firefighter, including a firefighter acting as a paramedic or emergency medical technician administering first aid in the course of performance of duty as such firefighter, or an emergency medical service paramedic or emergency medical service technician, from performing a lawful duty"
+    ]
+   }
+  ]
+ },
+ "120.09": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury to a judge",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to prevent a judge from performing official judicial duties"
+    ],
+    "terms": [
+     "\"judge\": a judge of a court of record or a justice court"
+    ]
+   }
+  ]
+ },
+ "120.09-A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury to a judge",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury and prevent a judge from performing official judicial duties"
+    ],
+    "terms": [
+     "\"judge\": a judge of a court of record or a justice court"
+    ]
+   }
+  ]
+ },
+ "120.10": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes serious physical injury to another person or to a third person by means of a deadly weapon or a dangerous instrument",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury to another person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Causes serious and permanent disfigurement, or permanent destruction, amputation or disabling of a member or organ of the body, of another person or a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to disfigure another person seriously and permanently, or to destroy, amputate or disable permanently a member or organ of his body"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Engages in conduct which creates a grave risk of death to another person, and thereby causes serious physical injury to another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly",
+     "Under circumstances evincing a depraved indifference to human life"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Causes serious physical injury to a person other than one of the participants, in the course of and in furtherance of the commission or attempted commission of a felony or of immediate flight therefrom",
+    "ways": [
+     "Another participant, if there be any, causes the injury"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.11": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes serious physical injury by means of a deadly weapon or dangerous instrument",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer is engaged in the course of performing his official duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury to a person"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know the person to be a police officer or a peace officer"
+    ]
+   }
+  ]
+ },
+ "120.12": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of assault in the third degree as defined in section 120.00 of this article upon a person less than eleven years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has been previously convicted of such crime upon a person less than eleven years old within the preceding ten years"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person eighteen years old or more"
+   }
+  ]
+ },
+ "120.13": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of menacing in the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has been previously convicted of the crime of menacing in the second degree or the crime of menacing a police officer or peace officer within the preceding ten years"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.14": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Places or attempts to place another person in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon, dangerous instrument or what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Repeatedly follows a person or engages in a course of conduct or repeatedly commits acts over a period of time placing or attempting to place another person in reasonable fear of physical injury, serious physical injury or death",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Commits the crime of menacing in the third degree in violation of that part of a duly served order of protection, or such order which the defendant has actual knowledge of because he or she was present in court when such order was issued, which directed the respondent or defendant to stay away from the person or persons on whose behalf the order was issued",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The order was issued pursuant to article eight of the family court act, section 530.12 of the criminal procedure law, or is an order of protection issued by a court of competent jurisdiction in another state, territorial or tribal jurisdiction"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Places or attempts to place another person in fear of death, imminent serious physical injury or physical injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "By physical menace"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ]
+   }
+  ]
+ },
+ "120.16": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person and thereby causes such injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of another person's initiation into or affiliation with any organization"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally or recklessly"
+    ]
+   }
+  ]
+ },
+ "120.17": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of another person's initiation affiliation with any organization"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally or recklessly"
+    ]
+   }
+  ]
+ },
+ "120.18": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Places or attempts to place a police officer or peace officer in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon, knife, pistol, revolver, rifle, shotgun, machine gun or other firearm, whether operable or not",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer was in the course of performing his or her official duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should have known that such victim was a police officer or peace officer"
+    ]
+   }
+  ]
+ },
+ "120.19": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes physical injury to a retail worker",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent to prevent a retail worker from performing an act within the scope of such worker's employment"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should have known that such individual was a retail worker"
+    ],
+    "terms": [
+     "\"Retail worker\": any person whose usual place of work is a retail establishment, including an employee, an owner, or a person who works in the retail establishment under arrangements made between the person and the establishment",
+     "\"Retail establishment\": any physical business or commercial entity engaged in the sale of goods, merchandise, or services directly to consumers"
+    ]
+   }
+  ]
+ },
+ "120.20": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in conduct which creates a substantial risk of serious physical injury to another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ]
+   }
+  ]
+ },
+ "120.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in conduct which creates a grave risk of death to another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly",
+     "Under circumstances evincing a depraved indifference to human life"
+    ]
+   }
+  ]
+ },
+ "120.30": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes or aids another person to attempt suicide",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ]
+   }
+  ]
+ },
+ "120.45": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ],
+   "intent": [
+    "Intentionally, and for no legitimate purpose"
+   ],
+   "knowledge": [
+    "Knowing or reasonably should know that such conduct has the effect described in the subdivision"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in a course of conduct directed at a specific person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Such conduct is likely to cause reasonable fear of material harm to the physical health, safety or property of such person, a member of such person's immediate family or a third party with whom such person is acquainted"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Engages in a course of conduct directed at a specific person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Such conduct causes material harm to the mental or emotional health of such person",
+     "Such conduct consists of following, telephoning or initiating communication or contact with such person, a member of such person's immediate family or a third party with whom such person is acquainted",
+     "The actor was previously clearly informed to cease that conduct"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"following\": for the purposes of subdivision two, includes the unauthorized tracking of such person's movements or location through the use of a global positioning system or other device"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Engages in a course of conduct directed at a specific person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Such conduct is likely to cause such person to reasonably fear that his or her employment, business or career is threatened",
+     "Such conduct consists of appearing, telephoning or initiating communication or contact at such person's place of employment or business",
+     "The actor was previously clearly informed to cease that conduct"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.50": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of stalking in the fourth degree in violation of section 120.45 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Against three or more persons, in three or more separate transactions, for which the actor has not been previously convicted"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of stalking in the fourth degree in violation of section 120.45 of this article against any person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted, within the preceding ten years, of a specified predicate crime, as defined in subdivision five of section 120.40 of this article",
+     "The victim of such specified predicate crime is the victim, or an immediate family member of the victim, of the present offense"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Engages in a course of conduct directed at a specific person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The conduct is likely to cause such person to reasonably fear physical injury or serious physical injury, the commission of a sex offense against, or the kidnapping, unlawful imprisonment or death of such person or a member of such person's immediate family"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to harass, annoy or alarm a specific person",
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Commits the crime of stalking in the fourth degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted within the preceding ten years of stalking in the fourth degree"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.55": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of and in furtherance of the commission of such offense, displays, or possesses and threatens the use of, a firearm, pistol, revolver, rifle, shotgun, machine gun, electronic dart gun, electronic stun gun, cane sword, billy, blackjack, bludgeon, plastic knuckles, metal knuckles, chuka stick, sand bag, sandclub, slingshot, slungshot, shuriken, throwing star, dagger, dangerous knife, dirk, razor, stiletto, imitation pistol, dangerous instrument, deadly instrument or deadly weapon; or displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of stalking in the third degree in violation of subdivision three of section 120.50 of this article against any person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted, within the preceding five years, of a specified predicate crime as defined in subdivision five of section 120.40 of this article",
+     "The victim of such specified predicate crime is the victim, or an immediate family member of the victim, of the present offense"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Commits the crime of stalking in the fourth degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of stalking in the third degree as defined in subdivision four of section 120.50 of this article against any person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Repeatedly follows a person under the age of fourteen or engages in a course of conduct or repeatedly commits acts over a period of time placing or attempting to place such person in reasonable fear of physical injury, serious physical injury or death",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is under the age of fourteen"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person twenty-one years of age or older",
+    "mentalState": [
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "5",
+    "act": "Commits the crime of stalking in the third degree, as defined in subdivision three of section 120.50 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Against ten or more persons, in ten or more separate transactions, for which the actor has not been previously convicted"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.60": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes physical injury to the victim of such crime",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 or stalking in the second degree as defined in section 120.55 of this article, and does so in the course and furtherance thereof"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally or recklessly"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Commits a class A misdemeanor defined in article one hundred thirty of this chapter, or a class E felony defined in section 130.25, former section 130.40 or section 130.85 of this chapter, or a class D felony defined in former section 130.45 or section 130.30 of this chapter",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 or stalking in the second degree as defined in section 120.55 of this article, and does so in the course and furtherance thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "120.70": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    },
+    {
+     "if": "the underlying offense the actor intended to commit against such child constituted a class A felony",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    },
+    {
+     "if": "the underlying offense the actor intended to commit against such child constituted a class B felony",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Lures a child into a motor vehicle, aircraft, watercraft, isolated area, building, or part thereof",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "For the purpose of committing against such child any of the following offenses: an offense as defined in section 70.02 of this chapter; an offense as defined in section 125.25 or 125.27 of this chapter; a felony offense that is a violation of article one hundred thirty of this chapter; an offense as defined in section 135.25 of this chapter; an offense as defined in sections 230.30, 230.33, 230.34 or 230.34-a of this chapter; an offense as defined in sections 255.25, 255.26, or 255.27 of this chapter; or an offense as defined in sections 263.05, 263.10, or 263.15 of this chapter"
+    ],
+    "terms": [
+     "\"child\": a person less than seventeen years of age"
+    ]
+   }
+  ]
+ },
+ "121.11": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ],
+   "intent": [
+    "With intent to impede the normal breathing or circulation of the blood of another person"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "a",
+    "act": "Applies pressure on the throat or neck of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "b",
+    "act": "Blocks the nose or mouth of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "121.12": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of criminal obstruction of breathing or blood circulation, as defined in section 121.11 of this article, and thereby causes stupor, loss of consciousness for any period of time, or any other physical injury or impairment",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "121.13": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of criminal obstruction of breathing or blood circulation, as defined in section 121.11 of this article, and thereby causes serious physical injury to such other person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "121.13-A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of criminal obstruction of breathing or blood circulation, as defined in section 121.11 of this article, and thereby causes serious physical injury or death to another person",
+    "ways": [
+     "Uses a chokehold or similar restraint, as described in paragraph b of subdivision one of section eight hundred thirty-seven-t of the executive law, and thereby causes serious physical injury or death to another person"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Being a police officer as defined in subdivision thirty-four of section 1.20 of the criminal procedure law or a peace officer as defined in section 2.10 of the criminal procedure law"
+   }
+  ]
+ },
+ "125.10": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes the death of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With criminal negligence"
+    ]
+   }
+  ]
+ },
+ "125.11": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes the death of a police officer or peace officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer was in the course of performing his or her official duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With criminal negligence"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should have known that such victim was a police officer or peace officer"
+    ]
+   }
+  ]
+ },
+ "125.12": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of another person and operates a motor vehicle in violation of subdivision two, three, four or four-a of section eleven hundred ninety-two of the vehicle and traffic law",
+    "ways": [
+     "Operates a vessel or public vessel in violation of paragraph (b), (c), (d) or (e) of subdivision two of section forty-nine-a of the navigation law"
+    ],
+    "tags": [],
+    "conditions": [
+     "As a result of such intoxication or impairment by the use of a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, operates such motor vehicle, vessel or public vessel in a manner that causes the death of such other person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Causes the death of another person and operates a motor vehicle with a gross vehicle weight rating of more than eighteen thousand pounds which contains flammable gas, radioactive materials or explosives in violation of subdivision one of section eleven hundred ninety-two of the vehicle and traffic law",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Such flammable gas, radioactive materials or explosives is the cause of such death",
+     "As a result of such impairment by the use of alcohol, operates such motor vehicle in a manner that causes the death of such other person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Causes the death of another person and operates a snowmobile in violation of paragraph (b), (c) or (d) of subdivision one of section 25.24 of the parks, recreation and historic preservation law",
+    "ways": [
+     "Operates an all terrain vehicle as defined in paragraph (a) of subdivision one of section twenty-two hundred eighty-one of the vehicle and traffic law in violation of subdivision two, three, four, or four-a of section eleven hundred ninety-two of the vehicle and traffic law"
+    ],
+    "tags": [],
+    "conditions": [
+     "As a result of such intoxication or impairment by the use of a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, operates such snowmobile or all terrain vehicle in a manner that causes the death of such other person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "125.13": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a motor vehicle while such person has .18 of one per centum or more by weight of alcohol in such person's blood as shown by chemical analysis of such person's blood, breath, urine or saliva made pursuant to the provisions of section eleven hundred ninety-four of the vehicle and traffic law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to know that his or her license or his or her privilege of operating a motor vehicle in another state or his or her privilege of obtaining a license to operate a motor vehicle in another state is suspended or revoked and such suspension or revocation is based upon a conviction in such other state for an offense which would, if committed in this state, constitute a violation of any of the provisions of section eleven hundred ninety-two of the vehicle and traffic law",
+     "Knowing or having reason to know that his or her license or his or her privilege of operating a motor vehicle in the state or his or her privilege of obtaining a license issued by the commissioner of motor vehicles is suspended or revoked and such suspension or revocation is based upon either a refusal to submit to a chemical test pursuant to section eleven hundred ninety-four of the vehicle and traffic law or following a conviction for a violation of any of the provisions of section eleven hundred ninety-two of the vehicle and traffic law"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating any of the provisions of section eleven hundred ninety-two of the vehicle and traffic law within the preceding ten years, provided that, for the purposes of this subdivision, a conviction in any other state or jurisdiction for an offense which, if committed in this state, would constitute a violation of section eleven hundred ninety-two of the vehicle and traffic law, shall be treated as a violation of such law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Causes the death of more than one other person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating any provision of this article or article one hundred twenty of this title involving the operation of a motor vehicle, or was convicted in any other state or jurisdiction of an offense involving the operation of a motor vehicle which, if committed in this state, would constitute a violation of this article or article one hundred twenty of this title"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes the death of such child"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "7",
+    "act": "Commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a vessel in violation of paragraph (e-1) of subdivision two of section forty-nine-a of the navigation law while a child who is fifteen years of age or less is a passenger in such vessel and causes the death of such child"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "125.14": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crimes while operating a motor vehicle while such person has .18 of one per centum or more by weight of alcohol in such person's blood as shown by chemical analysis of such person's blood, breath, urine or saliva made pursuant to the provisions of section eleven hundred ninety-four of the vehicle and traffic law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or having reason to know that his or her license or his or her privilege of operating a motor vehicle in another state or his or her privilege of obtaining a license to operate a motor vehicle in another state is suspended or revoked and such suspension or revocation is based upon a conviction in such other state for an offense which would, if committed in this state, constitute a violation of any of the provisions of section eleven hundred ninety-two of the vehicle and traffic law",
+     "Knowing or having reason to know that his or her license or his or her privilege of operating a motor vehicle in this state or his or her privilege of obtaining a license issued by the commissioner of motor vehicles is suspended or revoked and such suspension or revocation is based upon either a refusal to submit to a chemical test pursuant to section eleven hundred ninety-four of the vehicle and traffic law or following a conviction for a violation of any of the provisions of section eleven hundred ninety-two of the vehicle and traffic law"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating any of the provisions of section eleven hundred ninety-two of the vehicle and traffic law within the preceding ten years, provided that, for the purposes of this subdivision, a conviction in any other state or jurisdiction for an offense which, if committed in this state, would constitute a violation of section eleven hundred ninety-two of the vehicle and traffic law, shall be treated as a violation of such law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Causes the death of more than one other person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Causes the death of one person and the serious physical injury of at least one other person"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has previously been convicted of violating any provision of this article or article one hundred twenty of this title involving the operation of a motor vehicle, or was convicted in any other state or jurisdiction of an offense involving the operation of a motor vehicle which, if committed in this state, would constitute a violation of this article or article one hundred twenty of this title"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "7",
+    "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular manslaughter in the second degree as defined in section 125.12 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes the death of such child"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "125.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Causes or aids another person to commit suicide",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally"
+    ]
+   }
+  ]
+ },
+ "125.20": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of such person or of a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury to another person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Causes the death of such person or of a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Under circumstances which do not constitute murder because he acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause the death of another person"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Eighteen years old or more",
+    "intent": [
+     "With intent to cause physical injury to a person less than eleven years old"
+    ],
+    "mentalState": [
+     "Recklessly"
+    ]
+   }
+  ]
+ },
+ "125.21": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes the death of a police officer or peace officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer was in the course of performing his or her official duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should have known that such victim was a police officer or peace officer"
+    ]
+   }
+  ]
+ },
+ "125.22": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of such officer or another police officer or peace officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer was in the course of performing his or her official duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause serious physical injury to a police officer or peace officer"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should have known that such victim was a police officer or a peace officer"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Causes the death of such officer or another police officer or peace officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The officer was in the course of performing his or her official duties",
+     "Under circumstances which do not constitute murder because he or she acts under the influence of extreme emotional disturbance, as defined in paragraph (a) of subdivision one of section 125.25"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to cause the death of a police officer or peace officer"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should have known that such victim was a police officer or peace officer"
+    ]
+   }
+  ]
+ },
+ "125.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-I felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of such person or of a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. It shall not be a \"reasonable explanation or excuse\" when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth",
+     "The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide"
+    ],
+    "intent": [
+     "With intent to cause the death of another person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Engages in conduct which creates a grave risk of death to another person, and thereby causes the death of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With depraved indifference to human life",
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Commits or attempts to commit robbery, burglary, kidnapping, arson, rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of sexual abuse in the first degree, aggravated sexual abuse, escape in the first degree, or escape in the second degree, and in the course of and in furtherance of such crime or of immediate flight therefrom, he, or another participant, if there be any, causes the death of a person other than one of the participants",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Acting either alone or with one or more other persons"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "In a prosecution in which the defendant was not the only participant in the underlying crime, the defendant did not commit the homicidal act or in any way solicit, request, command, importune, cause or aid the commission thereof; and was not armed with a deadly weapon, or any instrument, article or substance readily capable of causing death or serious physical injury and of a sort not ordinarily carried in public places by law-abiding persons; and had no reasonable ground to believe that any other participant was armed with such a weapon, instrument, article or substance; and had no reasonable ground to believe that any other participant intended to engage in conduct likely to result in death or serious physical injury"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Engages in conduct which creates a grave risk of serious physical injury or death to another person less than eleven years old and thereby causes the death of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Eighteen years old or more",
+    "mentalState": [
+     "With depraved indifference to human life",
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "5",
+    "act": "Causes the death of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "While in the course of committing rape in the first, second or third degree, a crime formerly defined in section 130.50, 130.45 or 130.40 of this title, the crime of sexual abuse in the first degree, aggravated sexual abuse in the first, second, third or fourth degree, or incest in the first, second or third degree, against a person less than fourteen years old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Eighteen years old or more",
+    "intent": [
+     "Intentionally"
+    ]
+   }
+  ]
+ },
+ "125.26": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-I felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of such person, or of a third person who was a person described in subparagraph (i), (ii), (ii-a) or (iii) of paragraph (a) of this subdivision engaged at the time of the killing in the course of performing his or her official duties",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Either: (i) the intended victim was a police officer as defined in subdivision thirty-four of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was a police officer; or (ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or (ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or (iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his or her official duties, and the defendant knew or reasonably should have known that the victim was an employee of a state correctional institution or a local correctional facility"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. It shall not be a \"reasonable explanation or excuse\" when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth",
+     "The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide"
+    ],
+    "who": "More than eighteen years old at the time of the commission of the crime",
+    "intent": [
+     "With intent to cause the death of another person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Causes the death of such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. It shall not be a \"reasonable explanation or excuse\" when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth",
+     "The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide"
+    ],
+    "who": "More than eighteen years old at the time of the commission of the crime",
+    "intent": [
+     "With intent to cause the death of a person less than fourteen years old"
+    ],
+    "terms": [
+     "\"torture\": the intentional and depraved infliction of extreme physical pain that is separate and apart from the pain which otherwise would have been associated with such cause of death"
+    ]
+   }
+  ]
+ },
+ "125.27": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-I felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"immediate family member\": a husband, wife, father, mother, daughter, son, brother, sister, stepparent, grandparent, stepchild or grandchild",
+    "\"torture\": the intentional and depraved infliction of extreme physical pain",
+    "\"depraved\": the defendant relished the infliction of extreme physical pain upon the victim evidencing debasement or perversion or that the defendant evidenced a sense of pleasure in the infliction of extreme physical pain"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Causes the death of such person or of a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Any of the following: (i) the intended victim was a police officer as defined in subdivision 34 of section 1.20 of the criminal procedure law who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was a police officer; or (ii) the intended victim was a peace officer as defined in paragraph a of subdivision twenty-one, subdivision twenty-three, twenty-four or sixty-two (employees of the division for youth) of section 2.10 of the criminal procedure law who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was such a uniformed court officer, parole officer, probation officer, or employee of the division for youth; or (ii-a) the intended victim was a firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse involved in a first response team, or any other individual who, in the course of official duties, performs emergency response activities and was engaged in such activities at the time of killing and the defendant knew or reasonably should have known that the intended victim was such firefighter, emergency medical technician, ambulance driver, paramedic, physician or registered nurse; or (iii) the intended victim was an employee of a state correctional institution or was an employee of a local correctional facility as defined in subdivision two of section forty of the correction law, who was at the time of the killing engaged in the course of performing his official duties, and the defendant knew or reasonably should have known that the intended victim was an employee of a state correctional institution or a local correctional facility; or (iv) at the time of the commission of the killing, the defendant was confined in a state correctional institution or was otherwise in custody upon a sentence for the term of his natural life, or upon a sentence commuted to one of natural life, or upon a sentence for an indeterminate term the minimum of which was at least fifteen years and the maximum of which was natural life, or at the time of the commission of the killing, the defendant had escaped from such confinement or custody while serving such a sentence and had not yet been returned to such confinement or custody; or (v) the intended victim was a witness to a crime committed on a prior occasion and the death was caused for the purpose of preventing the intended victim's testimony in any criminal action or proceeding whether or not such action or proceeding had been commenced, or the intended victim had previously testified in a criminal action or proceeding and the killing was committed for the purpose of exacting retribution for such prior testimony, or the intended victim was an immediate family member of a witness to a crime committed on a prior occasion and the killing was committed for the purpose of preventing or influencing the testimony of such witness, or the intended victim was an immediate family member of a witness who had previously testified in a criminal action or proceeding and the killing was committed for the purpose of exacting retribution upon such witness for such prior testimony; or (vi) the defendant committed the killing or procured commission of the killing pursuant to an agreement with a person other than the intended victim to commit the same for the receipt, or in expectation of the receipt, of anything of pecuniary value from a party to the agreement or from a person other than the intended victim acting at the direction of a party to such agreement; or (vii) the victim was killed while the defendant was in the course of committing or attempting to commit and in furtherance of robbery, burglary in the first degree or second degree, kidnapping in the first degree, arson in the first degree or second degree, rape in the first degree, a crime formerly defined in section 130.50 of this title, sexual abuse in the first degree, aggravated sexual abuse in the first degree or escape in the first degree, or in the course of and furtherance of immediate flight after committing or attempting to commit any such crime or in the course of and furtherance of immediate flight after attempting to commit the crime of murder in the second degree; provided however, the victim is not a participant in one of the aforementioned crimes and, provided further that, unless the defendant's criminal liability under this subparagraph is based upon the defendant having commanded another person to cause the death of the victim or intended victim pursuant to section 20.00 of this chapter, this subparagraph shall not apply where the defendant's criminal liability is based upon the conduct of another pursuant to section 20.00 of this chapter; or (viii) as part of the same criminal transaction, the defendant, with intent to cause serious physical injury to or the death of an additional person or persons, causes the death of an additional person or persons; provided, however, the victim is not a participant in the criminal transaction; or (ix) prior to committing the killing, the defendant had been convicted of murder as defined in this section or section 125.25 of this article, or had been convicted in another jurisdiction of an offense which, if committed in this state, would constitute a violation of either of such sections; or (x) the defendant acted in an especially cruel and wanton manner pursuant to a course of conduct intended to inflict and inflicting torture upon the victim prior to the victim's death; or (xi) the defendant intentionally caused the death of two or more additional persons within the state in separate criminal transactions within a period of twenty-four months when committed in a similar fashion or pursuant to a common scheme or plan; or (xii) the intended victim was a judge as defined in subdivision twenty-three of section 1.20 of the criminal procedure law and the defendant killed such victim because such victim was, at the time of the killing, a judge; or (xiii) the victim was killed in furtherance of an act of terrorism, as defined in paragraph (b) of subdivision one of section 490.05 of this chapter"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The defendant acted under the influence of extreme emotional disturbance for which there was a reasonable explanation or excuse, the reasonableness of which is to be determined from the viewpoint of a person in the defendant's situation under the circumstances as the defendant believed them to be. It shall not be a \"reasonable explanation or excuse\" when the defendant's conduct resulted from the discovery, knowledge or disclosure of the victim's sexual orientation, sex, gender, gender identity, gender expression or sex assigned at birth",
+     "The defendant's conduct consisted of causing or aiding, without the use of duress or deception, another person to commit suicide"
+    ],
+    "who": "More than eighteen years old at the time of the commission of the crime",
+    "intent": [
+     "With intent to cause the death of another person"
+    ]
+   }
+  ]
+ },
+ "130.20": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without such person's consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without such person's consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without such person's consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Engages in sexual conduct with an animal or a dead human body",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of some factor other than being less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of some factor other than being less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of some other factor other than being less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Twenty-one years old or more"
+   },
+   {
+    "where": "5",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Twenty-one years old or more"
+   },
+   {
+    "where": "6",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "Twenty-one years old or more"
+   },
+   {
+    "where": "7",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without such person's consent where such lack of consent is by reason of some factor other than incapacity to consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "8",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without such person's consent where such lack of consent is by reason of some factor other than incapacity to consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "9",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without such person's consent where such lack of consent is by reason of some factor other than the incapacity to consent"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.30": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than fifteen years old"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The defendant was less than four years older than the victim at the time of the act"
+    ],
+    "who": "Eighteen years old or more"
+   },
+   {
+    "where": "2",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than fifteen years old"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The defendant was less than four years older than the victim at the time of the act"
+    ],
+    "who": "Eighteen years old or more"
+   },
+   {
+    "where": "3",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than fifteen years old"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The defendant was less than four years older than the victim at the time of the act"
+    ],
+    "who": "Eighteen years old or more"
+   },
+   {
+    "where": "4",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being mentally disabled or mentally incapacitated"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being mentally disabled or mentally incapacitated"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being mentally disabled or mentally incapacitated"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.35": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Engages in vaginal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Any of the following: (a) By forcible compulsion; or (b) Who is incapable of consent by reason of being physically helpless; or (c) Who is less than eleven years old; or (d) Who is less than thirteen years old and the actor is eighteen years old or more"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Engages in oral sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Any of the following: (a) By forcible compulsion; or (b) Who is incapable of consent by reason of being physically helpless; or (c) Who is less than eleven years old; or (d) Who is less than thirteen years old and the actor is eighteen years old or more"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Engages in anal sexual contact with another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Any of the following: (a) By forcible compulsion; or (b) Who is incapable of consent by reason of being physically helpless; or (c) Who is less than eleven years old; or (d) Who is less than thirteen years old and the actor is eighteen years old or more"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.52": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"forcible touching\": includes squeezing, grabbing or pinching"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Forcibly touches the sexual or other intimate parts of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "For no legitimate purpose"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally",
+     "For the purpose of degrading or abusing such person, or for the purpose of gratifying the actor's sexual desire"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Subjects another person to sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "For no legitimate purpose",
+     "Such other person is a passenger on a bus, train, or subway car operated by any transit agency, authority or company, public or private, whose operation is authorized by New York state or any of its political subdivisions"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally",
+     "For the purpose of gratifying the actor's sexual desire and with intent to degrade or abuse such other person"
+    ]
+   }
+  ]
+ },
+ "130.53": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of forcible touching, as defined in section 130.52 of this article, sexual abuse in the third degree, as defined in section 130.55 of this article, or sexual abuse in the second degree, as defined in section 130.60 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Within the previous ten year period, excluding any time during which such person was incarcerated for any reason, has been convicted two or more times, in separate criminal transactions for which sentence was imposed on separate occasions, of forcible touching, sexual abuse in the third degree, sexual abuse in the second degree, or any offense defined in this article, of which the commission or attempted commission thereof is a felony"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.55": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Subjects another person to sexual contact without the latter's consent",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense: (a) such other person's lack of consent was due solely to incapacity to consent by reason of being less than seventeen years old, and (b) such other person was more than fourteen years old, and (c) the defendant was less than five years older than such other person"
+    ]
+   }
+  ]
+ },
+ "130.60": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Subjects another person to sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of some factor other than being less than seventeen years old"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Subjects another person to sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than fourteen years old"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.65": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Subjects another person to sexual contact by forcible compulsion",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Subjects another person to sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being physically helpless"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Subjects another person to sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than eleven years old"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Subjects another person to sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than thirteen years old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person twenty-one years old or older"
+   }
+  ]
+ },
+ "130.65-A": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of some factor other than being less than seventeen years old"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Inserts a finger in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Such person is incapable of consent by reason of some factor other than being less than seventeen years old"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "130.66": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Inserts a foreign object or a finger in the vagina, urethra, penis, rectum or anus of another person by forcible compulsion",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Inserts a foreign object or a finger in the vagina, urethra, penis, rectum or anus of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being physically helpless"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(c)",
+    "act": "Inserts a foreign object or a finger in the vagina, urethra, penis, rectum or anus of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than eleven years old"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(d)",
+    "act": "Inserts a foreign object or a finger in the vagina, urethra, penis, rectum or anus of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than thirteen years old"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": [],
+    "who": "A person eighteen years of age or older"
+   },
+   {
+    "where": "2",
+    "act": "Inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Such person is incapable of consent by reason of being mentally disabled or mentally incapacitated"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "130.67": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Inserts a finger in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person by forcible compulsion",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Inserts a finger in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being physically helpless"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(c)",
+    "act": "Inserts a finger in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than eleven years old"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "130.70": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person by forcible compulsion",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is incapable of consent by reason of being physically helpless"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "1(c)",
+    "act": "Inserts a foreign object in the vagina, urethra, penis, rectum or anus of another person causing physical injury to such person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The other person is less than eleven years old"
+    ],
+    "exceptions": [
+     "Conduct performed for a valid medical purpose does not violate the provisions of this section"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "130.75": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Engages in two or more acts of sexual conduct, which includes at least one act of vaginal sexual contact, oral sexual contact, anal sexual contact or aggravated sexual contact, with a child less than eleven years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Over a period of time not less than three months in duration"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Engages in two or more acts of sexual conduct, which include at least one act of vaginal sexual contact, oral sexual contact, anal sexual contact or aggravated sexual contact, with a child less than thirteen years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Over a period of time not less than three months in duration"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person eighteen years old or more"
+   }
+  ]
+ },
+ "130.80": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Engages in two or more acts of sexual conduct with a child less than eleven years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Over a period of time not less than three months in duration"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Engages in two or more acts of sexual conduct with a child less than thirteen years old",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Over a period of time not less than three months in duration"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person eighteen years old or more"
+   }
+  ]
+ },
+ "130.85": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not reached eighteen years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Not a violation if such act is necessary to the health of the person on whom it is performed, and is performed by a person licensed in the place of its performance as a medical practitioner",
+     "Not a violation if such act is performed on a person in labor or who has just given birth and is performed for medical purposes connected with that labor or birth by a person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife"
+    ],
+    "defenses": [],
+    "mentalState": [
+     "Knowingly"
+    ]
+   },
+   {
+    "where": "1(b)",
+    "act": "Consents to the circumcision, excision or infibulation of whole or part of such child's labia majora or labia minora or clitoris",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Not a violation if such act is necessary to the health of the person on whom it is performed, and is performed by a person licensed in the place of its performance as a medical practitioner",
+     "Not a violation if such act is performed on a person in labor or who has just given birth and is performed for medical purposes connected with that labor or birth by a person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife"
+    ],
+    "defenses": [],
+    "mentalState": [
+     "Knowingly"
+    ],
+    "who": "A parent, guardian or other person legally responsible and charged with the care or custody of a child less than eighteen years old"
+   }
+  ]
+ },
+ "130.90": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses and administers a controlled substance or any preparation, compound, mixture or substance that requires a prescription to obtain to another person without such person's consent",
+    "ways": [
+     "Possesses a controlled substance",
+     "Possesses any preparation, compound, mixture or substance that requires a prescription to obtain"
+    ],
+    "tags": [],
+    "conditions": [
+     "And commits or attempts to commit such conduct constituting a felony defined in this article"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowingly and unlawfully"
+    ],
+    "intent": [
+     "With intent to commit against such person conduct constituting a felony defined in this article"
+    ]
+   }
+  ]
+ },
+ "130.91": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Not stated in this section",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits a specified offense",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "For the purpose, in whole or substantial part, of his or her own direct sexual gratification"
+    ],
+    "terms": [
+     "\"specified offense\": a felony offense defined by any of the provisions of this chapter listed in subdivision 2 of this section, or any felony attempt or conspiracy to commit any of the foregoing offenses"
+    ]
+   }
+  ]
+ },
+ "130.95": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-II felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or the immediate flight therefrom, he or she: (a) causes serious physical injury to the victim of such crime; or (b) uses or threatens the immediate use of a dangerous instrument"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "He or she has engaged in conduct constituting the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article, against one or more additional persons"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Commits the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "He or she has previously been subjected to a conviction for a felony defined in this article, incest as defined in section 255.25 of this chapter or use of a child in a sexual performance as defined in section 263.05 of this chapter"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "130.96": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-II felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of rape in the first degree, a crime formerly defined in section 130.50 of this title, the crime of aggravated sexual abuse in the first degree, or course of sexual conduct against a child in the first degree, as defined in this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is less than thirteen years old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A person eighteen years old or more"
+   }
+  ]
+ },
+ "135.05": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Restrains another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "135.10": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Restrains another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Under circumstances which expose the latter to a risk of serious physical injury"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "135.20": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Abducts another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "135.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-I felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Abducts another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "To compel a third person to pay or deliver money or property as ransom, or to engage in other particular conduct, or to refrain from engaging in particular conduct"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Abducts another person and restrains the person abducted for a period of more than twelve hours",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "To inflict physical injury upon him or violate or abuse him sexually",
+     "To accomplish or advance the commission of a felony",
+     "To terrorize him or a third person",
+     "To interfere with the performance of a governmental or political function"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Abducts another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person abducted dies during the abduction or before he is able to return or to be returned to safety"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "135.35": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Compels or induces another to engage in labor",
+    "ways": [
+     "Recruits, entices, harbors, or transports such other person"
+    ],
+    "tags": [],
+    "conditions": [
+     "By requiring that the labor be performed to retire, repay, or service a real or purported debt that the actor has caused by a systematic ongoing course of conduct"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ],
+    "intent": [
+     "With intent to defraud such person"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Compels or induces another to engage in labor",
+    "ways": [
+     "Recruits, entices, harbors, or transports such other person"
+    ],
+    "tags": [],
+    "conditions": [
+     "By withholding, destroying, or confiscating any actual or purported passport, immigration document, or any other actual or purported government identification document, of another person"
+    ],
+    "exceptions": [
+     "This subdivision shall not apply to an attempt to correct a social security administration record or immigration agency record in accordance with any local, state, or federal agency requirement, where such attempt is not made for the purpose of any express or implied threat"
+    ],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ],
+    "intent": [
+     "With intent to impair said person's freedom of movement"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Compels or induces another to engage in labor",
+    "ways": [
+     "Recruits, entices, harbors, or transports such other person"
+    ],
+    "tags": [],
+    "conditions": [
+     "By using force or engaging in any scheme, plan or pattern to compel or induce such person to engage in or continue to engage in labor activity by means of instilling a fear in such person that, if the demand is not complied with, the actor or another will do one or more of the following: (a) cause physical injury, serious physical injury, or death to a person; (b) cause damage to property, other than the property of the actor; (c) engage in other conduct constituting a felony or unlawful imprisonment in the second degree in violation of section 135.05 of this article; (d) accuse some person of a crime or cause criminal charges or deportation proceedings to be instituted against such person; (e) expose a secret or publicize an asserted fact, whether true or false, tending to subject some person to hatred, contempt or ridicule; (f) testify or provide information or withhold testimony or information with respect to another's legal claim or defense; (g) use or abuse his or her position as a public servant by performing some act within or related to his or her official duties, or by failing or refusing to perform an official duty, in such manner as to affect some person adversely"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense to this subdivision, as to paragraph (d): the defendant reasonably believed the threatened charge to be true and his or her sole purpose was to compel or induce the victim to take reasonable action to make good the wrong which was the subject of such threatened charge"
+    ],
+    "mentalState": [
+     "Intentionally"
+    ]
+   }
+  ]
+ },
+ "135.37": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Compels or induces another to engage in labor",
+    "ways": [
+     "Recruits, entices, harbors, or transports such other person to engage in labor"
+    ],
+    "tags": [],
+    "conditions": [
+     "By means of unlawfully providing a controlled substance to such person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ],
+    "intent": [
+     "With intent to impair said person's judgment"
+    ]
+   }
+  ]
+ },
+ "135.45": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Takes or entices such child from his lawful custodian",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "who": "A relative of a child less than sixteen years old",
+    "intent": [
+     "Intending to hold such child permanently or for a protracted period"
+    ],
+    "knowledge": [
+     "Knowing that he has no legal right to do so"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Takes or entices from lawful custody any incompetent person or other person entrusted by authority of law to the custody of another person or institution",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing that he has no legal right to do so"
+    ]
+   }
+  ]
+ },
+ "135.50": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of custodial interference in the second degree and removes such person from the state",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense: the victim had been abandoned or the taking was necessary in an emergency to protect the victim because he has been subjected to or threatened with mistreatment or abuse"
+    ],
+    "intent": [
+     "With intent to permanently remove the victim from this state"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of custodial interference in the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Under circumstances which expose the victim to a risk that his safety will be endangered or his health materially impaired"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "135.55": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Substitutes, produces or returns to such parent, guardian or custodian a child other than the one entrusted",
+    "ways": [
+     "Substitutes",
+     "Produces",
+     "Returns"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having been temporarily entrusted with a child less than one year old"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intending to deceive a parent, guardian or other lawful custodian of such child"
+    ]
+   }
+  ]
+ },
+ "135.60": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Compels or induces a person to engage in conduct which the latter has a legal right to abstain from engaging in",
+    "ways": [
+     "Compels or induces a person to abstain from engaging in conduct in which he or she has a legal right to engage",
+     "Compels or induces a person to join a group, organization or criminal enterprise which such latter person has a right to abstain from joining",
+     "Compels or induces a person to produce, disseminate, or otherwise display an image or images depicting nudity of such person or depicting such person engaged in sexual conduct as defined in subdivisions two and three of section 235.20 of this chapter"
+    ],
+    "tags": [],
+    "conditions": [
+     "By means of instilling in him or her a fear that, if the demand is not complied with, the actor or another will do any of: 1. cause physical injury to a person; 2. cause damage to property; 3. engage in other conduct constituting a crime; 4. accuse some person of a crime or cause criminal charges to be instituted against him or her; 5. expose a secret or publicize an asserted fact, whether true or false, tending to subject some person to hatred, contempt or ridicule; 6. cause a strike, boycott or other collective labor group action injurious to some person's business; 7. testify or provide information or withhold testimony or information with respect to another's legal claim or defense; 8. use or abuse his or her position as a public servant by performing some act within or related to his or her official duties, or by failing or refusing to perform an official duty, in such manner as to affect some person adversely; 9. perform any other act which would not in itself materially benefit the actor but which is calculated to harm another person materially with respect to his or her health, safety, business, calling, career, financial condition, reputation or personal relationships; 10. report his or her immigration status or suspected immigration status"
+    ],
+    "exceptions": [
+     "A threat to cause a strike, boycott or other collective labor group action shall not be deemed coercive when the act or omission compelled is for the benefit of the group in whose interest the actor purports to act"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "135.61": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ],
+   "terms": [
+    "\"vaginal sexual contact, oral sexual contact or anal sexual contact\": as such terms are defined in section 130.00 of this title"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Compels or induces a person to engage in vaginal sexual contact, oral sexual contact or anal sexual contact",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits the crime of coercion in the third degree as defined in section 135.60 of this article"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "135.65": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits such crime by instilling in the victim a fear that he or she will cause physical injury to a person or cause damage to property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits the crime of coercion in the third degree"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Compels or induces the victim to commit or attempt to commit a felony, to cause or attempt to cause physical injury to a person, or to violate his or her duty as a public servant",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Commits the crime of coercion in the third degree",
+     "Any of the following: the victim is compelled or induced to commit or attempt to commit a felony; to cause or attempt to cause physical injury to a person; or to violate his or her duty as a public servant"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ }
+}

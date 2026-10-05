@@ -252,7 +252,7 @@
 <body>
 <main>
   <header>
-    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">Federal</a><a href="ma/">Massachusetts</a><a href="ca/">California</a></nav><!-- /jur:nav -->
+    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">Federal</a><a href="ma/">Massachusetts</a><a href="ca/">California</a><a href="ny/">New York</a></nav><!-- /jur:nav -->
     <h1>Crimes Explained: Federal</h1>
     <!-- jur:lede --><p class="lede">Every crime in <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partI.htm" target="_blank" rel="noopener" title="Title 18, Part I (Crimes): full official text on GovInfo">Title 18</a> of the <a href="https://www.govinfo.gov/app/collection/uscode" target="_blank" rel="noopener" title="The United States Code on GovInfo">United States Code</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
@@ -316,11 +316,11 @@
 
 <script>
   const $ = id => document.getElementById(id);
-  // Which law this page shows: the federal code (index.html), Massachusetts (ma/index.html, data-jur="ma") or California (ca/index.html, data-jur="ca").
-  const JUR = document.documentElement.dataset.jur || 'us', MA = JUR === 'ma', CA = JUR === 'ca';
+  // Which law this page shows: the federal code (index.html), Massachusetts (ma/index.html, data-jur="ma"), California (ca/index.html, data-jur="ca") or New York (ny/index.html, data-jur="ny").
+  const JUR = document.documentElement.dataset.jur || 'us', MA = JUR === 'ma', CA = JUR === 'ca', NY = JUR === 'ny';
   const list = $('list'), q = $('q'), chapterSel = $('chapter'), catSel = $('category'), sevSel = $('severity'),
         sortSel = $('sort'), fulltext = $('fulltext'), pop = $('pop');
-  let crimes = [], bySection = new Map();
+  let crimes = [], bySection = new Map(), ART_IDS = {}, PEN_SECS = new Set();
 
   // Plain-language definitions shown on tap/hover. Keys are matched case-insensitively in the statute text.
   const GLOSSARY = [
@@ -384,9 +384,21 @@
   // Variants that share a definition with another entry; kept out of the glossary list at the bottom of the page.
   const GLOSS_HIDDEN = new Set(['having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'knowing', 'in order to', 'for the purpose of', 'intending', 'counterfeit', 'with the intent to', 'fine under this title', 'with the purpose of', 'has reason to believe',
     'has reasonable cause to believe', 'has reason to know', 'with the intent that']);
-  if (MA || CA) {   // Massachusetts / California meanings replace the federal ones; federal-only terms are dropped
-    const FED_ONLY = new Set(['fine under this title', 'fined under this title', 'special maritime and territorial jurisdiction of the United States', 'interstate or foreign commerce', ...(CA ? ['any term of years or for life'] : [])]);
-    const MA_TERMS = CA ? [
+  if (MA || CA || NY) {   // Massachusetts / California / New York meanings replace the federal ones; federal-only terms are dropped
+    const FED_ONLY = new Set(['fine under this title', 'fined under this title', 'special maritime and territorial jurisdiction of the United States', 'interstate or foreign commerce', ...(CA || NY ? ['any term of years or for life'] : [])]);
+    const MA_TERMS = NY ? [   // general explanations from Penal Law §§ 10.00 and 15.05; the sections' own text controls
+      ['felony', 'Felony', 'In New York, an offense for which a sentence to a term of imprisonment of more than one year may be imposed (Penal Law § 10.00). Felonies are classed A through E; the sentence for each class is set in Penal Law Article 70.'],
+      ['misdemeanor', 'Misdemeanor', 'In New York, an offense other than a traffic infraction for which a sentence to a term of imprisonment of more than fifteen days may be imposed, but not more than one year (Penal Law § 10.00). Misdemeanors are class A, class B, or unclassified.'],
+      ['violation', 'Violation', 'In New York, an offense other than a traffic infraction for which a sentence to a term of imprisonment of more than fifteen days cannot be imposed (Penal Law § 10.00). It is not a crime in the sense of a felony or misdemeanor.'],
+      ['serious physical injury', 'Serious physical injury', 'Physical injury that creates a substantial risk of death, or that causes death or serious and protracted disfigurement, protracted impairment of health, or protracted loss or impairment of the function of any bodily organ (Penal Law § 10.00).'],
+      ['physical injury', 'Physical injury', 'Impairment of physical condition or substantial pain (Penal Law § 10.00).'],
+      ['deadly weapon', 'Deadly weapon', 'A loaded weapon from which a shot, readily capable of causing death or other serious physical injury, may be discharged, or certain listed weapons such as a switchblade or gravity knife, dagger, billy, blackjack, or metal knuckles (Penal Law § 10.00).'],
+      ['dangerous instrument', 'Dangerous instrument', 'Any instrument, article or substance that, in the way it is used, attempted to be used or threatened to be used, is readily capable of causing death or other serious physical injury (Penal Law § 10.00).'],
+      ['intentionally', 'Intentionally', 'A person acts intentionally when his or her conscious objective is to cause the result or to engage in the conduct (Penal Law § 15.05).'],
+      ['knowingly', 'Knowingly', 'A person acts knowingly when he or she is aware that his or her conduct is of that nature or that the circumstance exists (Penal Law § 15.05).'],
+      ['recklessly', 'Recklessly', 'A person acts recklessly when he or she is aware of and consciously disregards a substantial and unjustifiable risk that a result will occur or a circumstance exists, a risk of such a nature that disregarding it is a gross deviation from how a reasonable person would act (Penal Law § 15.05).'],
+      ['criminal negligence', 'Criminal negligence', 'A person acts with criminal negligence when he or she fails to perceive a substantial and unjustifiable risk, a risk of such a nature that the failure is a gross deviation from how a reasonable person would act (Penal Law § 15.05).'],
+    ] : CA ? [
       ['felony', 'Felony', 'In California, a crime punishable by death, by imprisonment in the state prison, or by imprisonment in a county jail under Penal Code § 1170(h) (Pen. Code § 17). Every other crime is a misdemeanor or an infraction.'],
       ['misdemeanor', 'Misdemeanor', 'In California, a crime that is not a felony or an infraction. Unless the law says otherwise it carries up to six months in county jail, a fine of up to $1,000, or both (Pen. Code § 19); many carry up to one year.'],
       ['wobbler', 'Wobbler', 'A crime that can be punished either as a felony or as a misdemeanor, depending on the sentence the judge imposes or the charge the prosecutor files (Pen. Code § 17(b)).'],
@@ -413,8 +425,8 @@
       ['wantonly or recklessly', 'Wantonly or recklessly', 'Consciously disregarding a high risk that serious harm will result.'],
       ['malice aforethought', 'Malice aforethought', 'The state of mind required for murder: an intent to kill, an intent to cause grievous bodily harm, or an intent to do an act that a reasonable person would know creates a plain and strong likelihood of death.'],
     ];
-    const keys = new Set(MA_TERMS.map(t => t[0]));
-    GLOSSARY.splice(0, GLOSSARY.length, ...GLOSSARY.filter(([k]) => !FED_ONLY.has(k) && !keys.has(k)), ...MA_TERMS);
+    const keys = new Set(MA_TERMS.map(t => t[0])), NY_KEEP = new Set(['with intent to']);
+    GLOSSARY.splice(0, GLOSSARY.length, ...GLOSSARY.filter(([k]) => NY ? NY_KEEP.has(k) : !FED_ONLY.has(k) && !keys.has(k)), ...MA_TERMS);   // New York keeps only the generic federal terms listed here
   }
   const GLOSS = new Map(GLOSSARY.map(([k, label, def]) => [k.toLowerCase(), { label, def }]));
 
@@ -449,7 +461,20 @@
     { id: '1', label: 'Up to 1 year (county jail)', test: y => y > 0 && y <= 1, color: 'var(--sev-1)' },
     { id: 'fine', label: 'Fine only', test: y => y === 0, color: 'var(--sev-0)' },
     { id: 'other', label: 'See penalty details', test: y => y == null, color: 'var(--sev-0)' });
-  const tierOf = y => TIERS.find(t => t.test(y));
+  // New York: no term is stated in these sections, only a class (A-I … E felony, class A/B misdemeanor, violation), so tiers follow the class.
+  const nyCls = c => (c && c.penClass) || '';
+  if (NY) TIERS.splice(0, TIERS.length,
+    { id: 'A', label: 'Class A felony', test: (y, c) => /^Class A-I+ felony/.test(nyCls(c)), color: 'var(--sev-5)' },
+    { id: 'B', label: 'Class B felony', test: (y, c) => nyCls(c) === 'Class B felony', color: 'var(--sev-4)' },
+    { id: 'C', label: 'Class C felony', test: (y, c) => nyCls(c) === 'Class C felony', color: 'var(--sev-3)' },
+    { id: 'D', label: 'Class D felony', test: (y, c) => nyCls(c) === 'Class D felony', color: 'var(--sev-2)' },
+    { id: 'E', label: 'Class E felony', test: (y, c) => nyCls(c) === 'Class E felony', color: 'var(--sev-2)' },
+    { id: 'MA', label: 'Class A misdemeanor', test: (y, c) => nyCls(c) === 'Class A misdemeanor', color: 'var(--sev-1)' },
+    { id: 'MB', label: 'Class B misdemeanor', test: (y, c) => nyCls(c) === 'Class B misdemeanor', color: 'var(--sev-1)' },
+    { id: 'V', label: 'Violation', test: (y, c) => nyCls(c) === 'Violation', color: 'var(--sev-0)' },
+    { id: 'term', label: 'Term stated in the section', test: (y, c) => y != null, color: 'var(--sev-3)' },
+    { id: 'other', label: 'See penalty details', test: () => true, color: 'var(--sev-0)' });
+  const tierOf = (y, c) => TIERS.find(t => t.test(y, c));
   const yrs = y => y % 1 === .5 ? `${Math.floor(y) || ''}½` : y % 1 === .75 ? `${Math.floor(y) || ''}¾` : `${+y.toFixed(1)}`;
   // Section label: "§ 1001" (federal) or "c. 265, § 13A" (Massachusetts); page address relative to the list page.
   const secLabel = c => c.cite || `§ ${c.section}`;
@@ -458,7 +483,7 @@
     : y === 0 ? 'Fine only' : y < 0.2 ? `Up to ${Math.round(y * 365)} days` : y < 1 ? `Up to ${Math.round(y * 12)} months`
     : y > 1 && y < 1.01 ? 'Up to 1 year + 1 day' : `Up to ${yrs(y)} year${y === 1 ? '' : 's'}`;
   // maxPlus: some variants are punished under other sections, so the true maximum may be higher.
-  const sevText = c => sevLabel(c.maxYears) + (c.maxPlus ? '+' : '');
+  const sevText = c => NY && c.maxYears == null && c.penClass ? c.penClass : sevLabel(c.maxYears) + (c.maxPlus ? '+' : '');
 
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const LATEST_STAT_VOL = 137; // newest Statutes at Large volume GovInfo has published (vol. 138 returns 400 as of Oct 2026)
@@ -553,9 +578,77 @@
   const CN = String.raw`(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|eighteen|twenty|twenty-five|thirty)`;
   const CA_AMT = String.raw`(?:(?:[a-z-]+ )+dollars \(\$[\d,]+(?:\.\d+)?\)|\$[\d,]+(?:\.\d+)?)`;
   const CA_PEN = String.raw`(?<pen>(?:imprisonment|imprisoned|confinement|confined) in (?:a |the )?(?:county jail|state prison)(?: for (?:a (?:term|period) of )?(?:life(?: (?:with|without) (?:the )?possibility of parole)?|${CN}(?:(?:,\s*(?:or\s+)?|\s+or\s+)${CN})*\s+(?:years?|months?|days?)(?: to life)?)|(?: for)?(?: a (?:term|period))?(?: of)? (?:not (?:exceeding|more than|less than)|up to) [^,;.()]*?\b(?:years?|months?|days?)\b)?|(?:imprisonment|imprisoned)(?=\s+pursuant to\b)|(?:a )?(?:civil penalty|fine) (?:of |in the amount of )?(?:(?:not (?:exceeding|more than|less than)|up to) )?${CA_AMT}|by both (?:that |the |a |such )?(?:fine|imprisonment)(?: in a county jail)? and (?:that |the |a |such )?(?:imprisonment|fine)|(?:punishable|punished|sentenced) (?:by|to) death|(?:the )?penalty of death)`;
+  // New York citations: "section 120.05 of this article", "sections 125.25, 125.27 or 230.34-a of this chapter", "subdivision two of section 70.00",
+  // "article 130 of this chapter", "subdivision thirty-one of section 1.20 of the criminal procedure law", spelled-out numbers
+  // ("section forty of the correction law"). Penal Law sections are numbered like 120.05 and 130.65-a; other laws are named after the cite.
+  const NY_W = 'zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand';
+  const NY_SPELL = String.raw`(?:${NY_W})(?![a-z])(?:[-\s]+(?:${NY_W})(?![a-z]))*(?:-[a-z](?![a-z]))?`;
+  const NY_NUM = String.raw`(?:\d+(?:\.\d+)?(?:-[A-Za-z](?![A-Za-z]))?(?![\w])|${NY_SPELL})`;
+  const NY_LIST = String.raw`${NY_NUM}(?:(?:,\s*(?:and\s+|or\s+)?|\s+(?:and|or)\s+)(?:sections?\s+)?${NY_NUM})*`;
+  const NY_ONE = String.raw`[A-Za-z0-9-]+`;
+  const NY_PRE = String.raw`(?:(?:sub)?(?:divisions?|paragraphs?)\s+${NY_ONE}(?:(?:,\s*(?:and\s+|or\s+)?|\s+(?:and|or)\s+)${NY_ONE})*\s+of\s+)*`;
+  const NY_CITES = [
+    String.raw`(?<![A-Za-z])(?<nyArtW>[Aa]rticles?)\s+(?<nyArtN>${NY_NUM})`,
+    String.raw`\b(?<nyThis>[Tt]his (?:article|chapter|title))\b`,
+    String.raw`(?<![A-Za-z])(?<nyPre>${NY_PRE})(?<nyW>[Ss]ections?)\s+(?<nyL>${NY_LIST})`,
+  ];
+  const NY_LAWS = { 'penal law': 'PEN', 'criminal procedure law': 'CPL', 'correction law': 'COR', 'navigation law': 'NAV', 'general municipal law': 'GMU', 'education law': 'EDN',
+    'public health law': 'PBH', 'mental hygiene law': 'MHY', 'general business law': 'GBS', 'civil practice law': 'CVP', 'civil practice law and rules': 'CVP', 'family court act': 'FCT',
+    'executive law': 'EXC', 'vehicle and traffic law': 'VAT', 'social services law': 'SOS', 'domestic relations law': 'DOM', 'judiciary law': 'JUD', 'public officers law': 'PBO',
+    'insurance law': 'ISC', 'labor law': 'LAB', 'tax law': 'TAX', 'general obligations law': 'GOB', 'elder law': 'ELD', 'civil rights law': 'CVR', 'military law': 'MIL',
+    'highway law': 'HAY', 'agriculture and markets law': 'AGM', 'environmental conservation law': 'ENV', 'public service law': 'PBS', 'transportation law': 'TRA', 'real property law': 'RPP',
+    "workers' compensation law": 'WKC', 'alcoholic beverage control law': 'ABC', 'cannabis law': 'CAN', 'banking law': 'BNK', 'public authorities law': 'PBA', 'county law': 'CNT',
+    'town law': 'TWN', 'village law': 'VIL', 'general city law': 'GCT', 'state finance law': 'STF', 'retirement and social security law': 'RSS' };
+  const NY_LAW_NAME = { PEN: 'Penal Law', FCT: 'Family Court Act', CVP: 'Civil Practice Law and Rules', VAT: 'Vehicle and Traffic Law' };
+  const NY_VALS = Object.fromEntries(NY_W.split('|').map((w, i) => [w, i < 20 ? i : i < 28 ? (i - 18) * 10 : 0]));
+  // "forty-nine-a" → "49-A", "twenty-two hundred eighty-one" → "2281", "130.65-a" → "130.65-A"
+  function nyNum(t) {
+    t = t.trim();
+    if (/^\d/.test(t)) return t.toUpperCase();
+    const suf = t.match(/-([a-z])$/i);
+    const words = (suf ? t.slice(0, -2) : t).toLowerCase().split(/[-\s]+/);
+    let cur = 0, total = 0;
+    for (const w of words) { if (w === 'hundred') cur = (cur || 1) * 100; else if (w === 'thousand') { total += (cur || 1) * 1000; cur = 0; } else cur += NY_VALS[w] || 0; }
+    return `${total + cur}${suf ? '-' + suf[1].toUpperCase() : ''}`;
+  }
+  // Which law a cited section belongs to, from the words after it: 'PEN', another law's id, or null (unknown law: not linked).
+  function nyOwner(a) {
+    if (/^\s*,?\s+of\s+this\s+(?:article|chapter|title)\b/i.test(a)) return 'PEN';
+    const m = a.match(/^\s*,?\s+of\s+the\s+((?:[a-z][a-z',&]*\s+){0,6}?(?:law(?:\s+and\s+rules)?|act))\b/i);
+    if (m) return NY_LAWS[m[1].toLowerCase().replace(/\s+/g, ' ')] || null;
+    return 'PEN';
+  }
+  // Sections of the Penal Law the text cites that do not exist on nysenate.gov (the build also checks every cite against the Penal Law's section list).
+  const NY_DEAD = new Set(['130.40', '130.45', '130.50']);   // repealed sections still cited in the text
+  const nyLawName = law => NY_LAW_NAME[law] || (Object.keys(NY_LAWS).filter(k => NY_LAWS[k] === law).sort((x, y) => x.length - y.length)[0] || law).replace(/(^|\s)([a-z])/g, (m, a, c) => a + c.toUpperCase());
+  function nyLink(law, sec, raw) {
+    if (law === 'PEN') {
+      if (!sec.includes('.') || NY_DEAD.has(sec) || (PEN_SECS.size && !PEN_SECS.has(sec))) return raw;
+      if (bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="Penal Law § ${sec} on Crimes Explained">${raw}</a>`;
+    }
+    return `<a class="xref ext" href="https://www.nysenate.gov/legislation/laws/${law}/${sec}" target="_blank" rel="noopener" title="${nyLawName(law)} § ${sec} on nysenate.gov">${raw}</a>`;
+  }
+  function nySections(raw, list, link) {   // link every number in a list; one number links the whole phrase (with any "subdivision …" lead-in)
+    const nums = [...list.matchAll(new RegExp(NY_NUM, 'g'))];
+    if (nums.length === 1) return link(nyNum(nums[0][0]), esc(raw));
+    const at = raw.indexOf(list);
+    let out = esc(raw.slice(0, at)), pos = 0;
+    for (const n of nums) { out += esc(list.slice(pos, n.index)) + link(nyNum(n[0]), esc(n[0])); pos = n.index + n[0].length; }
+    return out + esc(list.slice(pos)) + esc(raw.slice(at + list.length));
+  }
+  const nyArtUrl = id => `https://www.nysenate.gov/legislation/laws/PEN/${id}`;
+  // "is a class D felony": the class is the penalty (red) and opens the glossary entry for felony / misdemeanor / violation.
+  const NY_PEN = String.raw`(?<pen>(?:is|are) an? (?:class [A-E](?:-I{1,2})? (?:violent )?(?:felony|misdemeanor)(?: offenses?)?|unclassified misdemeanor|violation(?! of)))`;
+  function nyPen(t) {
+    const mm = t.match(/(?:class [A-E](?:-I{1,2})? (?:violent )?(?:(felony|misdemeanor)(?: offenses?)?)|unclassified (misdemeanor)|(violation))/i);
+    if (!mm) return penHTML(esc(t));
+    const info = GLOSS.get((mm[1] || mm[2] || mm[3]).toLowerCase());
+    const btn = `<button type="button" class="term" data-k="${esc((mm[1] || mm[2] || mm[3]).toLowerCase())}" data-label="${esc(info?.label || '')}" data-def="${esc(info?.def || '')}"><span class="pen">${esc(mm[0])}</span></button>`;
+    return `${esc(t.slice(0, mm.index))}<span class="penp">${btn}</span>${esc(t.slice(mm.index + mm[0].length))}`;
+  }
   const RX = new RegExp([
     String.raw`(?<uscT>\d+)\s+U\.S\.C\.\s+(?<uscS>\d+[a-zA-Z]*(?:[–-]\d+)?)(?<uscP>(?:\([A-Za-z0-9]+\))*)`,
-    ...(MA ? MA_CITES : CA ? CA_CITES : [
+    ...(MA ? MA_CITES : CA ? CA_CITES : NY ? NY_CITES : [
       String.raw`(?<![A-Za-z])(?<stW>[Ss]ection)\s+(?<stS>\d+[A-Za-z]*)(?<stP>(?:\([A-Za-z0-9]+\))*)\s+of\s+title\s+(?<stT>\d+)`,
       String.raw`\b(?<thisCh>[Tt]his chapter)\b`,
       String.raw`(?<![A-Za-z])(?<chW>[Cc]hapters?)\s+(?<chList>\d+[A-Z]?(?:(?:,\s*(?:or\s+|and\s+)?|\s+(?:or|and)\s+)\d+[A-Z]?)*)(?![\w(])`,
@@ -567,7 +660,7 @@
     // Penalties: prison terms ("imprisoned not more than 5 years", "… not more than one-half the maximum term of imprisonment"),
     // life/death, and fines with a stated amount or formula ("fined not more than one-half the maximum fine prescribed …").
     // Open-ended amounts stop before ", ; or (" or a following " or/and imprisoned|fined" so one penalty never swallows the next.
-    CA ? CA_PEN : String.raw`(?<pen>(?:imprisonment|imprisoned) (?:in|at) (?:the |a )?(?:state prison|house of correction|jail|county jail)(?: or (?:the |a )?(?:house of correction|jail))?(?: for (?:life|(?:a term of )?(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b|(?:any )?term of years(?: or for life)?))?|(?<=\b(?:or|and|nor)\s)(?:in|at) (?:the |a )?(?:state prison|house of correction|jail)(?: or (?:the |a )?house of correction)? for (?:life|(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b)|(?:imprisoned|imprisonment|(?:an? )?(?:additional )?term of(?: imprisonment of)?)(?: for)? (?:not|no) (?:more|less) than (?:[^,;.()]*?\b(?:years?|months?|days?)\b|[^,;()]{1,90}?(?=\s+(?:or|and)\s+(?:\(|fined|imprisoned|both)|,|;|$))|(?:imprisoned|imprisonment)\s+(?:for\s+)?(?:any|a)\s+(?:term|number|period)\s+of\s+years(?:\s+(?:not|no)\s+(?:less|more)\s+than\s+\w+(?:\s+years?)?)?(?:,?\s+or\s+(?:for\s+)?life)?|(?:imprisoned|imprisonment) for (?:any term of years or for )?life|(?:imprisoned|imprisonment)(?: for)? a (?:term|period)(?: of)? (?:(?:not|no) (?:more|less) than|up to) \w+ (?:years?|months?|days?)|imprisonment of (?:(?:not|no) (?:more|less) than )?\w+ (?:years?|months?|days?)|imprisoned for not more that \w+ years?|shall (?:be not more than|not exceed) \w+ (?:years?|months?|days?)|punished by death|sentenced to death|(?:fined|a fine)(?: of)? (?:not|no) (?:more|less) than (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|[^,;()]{1,110}?(?=\s+(?:or|and)\s+|,|;|$))|fined in accordance with this title|(?:(?:shall be |is )?(?:subject|liable)[a-z ]{0,25}? (?:to|for) (?:an? )?|(?:may )?(?:impose|assess)[a-z ]{0,25}? (?:an? )?)(?:additional |mandatory (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)? )?)?civil (?:penalty|fine)(?:[^;,—(]{0,90}?(?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|the greater of|retail value of the [a-z ]+?(?= involved| at issue|[,;.])))?|fined (?:the greater of|in the amount|in an amount|a further sum|an amount not (?:greater|more) than|twice the amount|as provided (?:in|by)|for each offense)(?:(?!\s(?:sub)?section\s)[^;])*?(?=\s(?:sub)?section\s|,\s+(?:or both|imprisoned)|;|\.(?:\s|$)|\s+or\s+imprisoned|$)|(?:is|are|shall be) punishable as (?:a )?principals?|shall be punished as (?:provided|prescribed|follows)(?: (?:in|under|by))?|shall be subject to (?:the )?(?:same )?(?:penalties|punishment)(?: (?:set forth|provided|prescribed))?(?: (?:in|for|as|under))?|shall be punished(?=—|:)|(?:shall be |is )?guilty of a like offense and (?:shall be )?subject to (?:a|the) like punishment|subject to (?:a|the) like punishment|shall be punished in (?:the same|like) manner|(?<=,\s)(?:not|no) more than (?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty) (?:years?|months?|days?)\b(?!\s+(?:after|before|from|of age|old|prior))(?=,|;|\.|\s+or\b|\s+and\b|$))`,
+    CA ? CA_PEN : NY ? NY_PEN : String.raw`(?<pen>(?:imprisonment|imprisoned) (?:in|at) (?:the |a )?(?:state prison|house of correction|jail|county jail)(?: or (?:the |a )?(?:house of correction|jail))?(?: for (?:life|(?:a term of )?(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b|(?:any )?term of years(?: or for life)?))?|(?<=\b(?:or|and|nor)\s)(?:in|at) (?:the |a )?(?:state prison|house of correction|jail)(?: or (?:the |a )?house of correction)? for (?:life|(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b)|(?:imprisoned|imprisonment|(?:an? )?(?:additional )?term of(?: imprisonment of)?)(?: for)? (?:not|no) (?:more|less) than (?:[^,;.()]*?\b(?:years?|months?|days?)\b|[^,;()]{1,90}?(?=\s+(?:or|and)\s+(?:\(|fined|imprisoned|both)|,|;|$))|(?:imprisoned|imprisonment)\s+(?:for\s+)?(?:any|a)\s+(?:term|number|period)\s+of\s+years(?:\s+(?:not|no)\s+(?:less|more)\s+than\s+\w+(?:\s+years?)?)?(?:,?\s+or\s+(?:for\s+)?life)?|(?:imprisoned|imprisonment) for (?:any term of years or for )?life|(?:imprisoned|imprisonment)(?: for)? a (?:term|period)(?: of)? (?:(?:not|no) (?:more|less) than|up to) \w+ (?:years?|months?|days?)|imprisonment of (?:(?:not|no) (?:more|less) than )?\w+ (?:years?|months?|days?)|imprisoned for not more that \w+ years?|shall (?:be not more than|not exceed) \w+ (?:years?|months?|days?)|punished by death|sentenced to death|(?:fined|a fine)(?: of)? (?:not|no) (?:more|less) than (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|[^,;()]{1,110}?(?=\s+(?:or|and)\s+|,|;|$))|fined in accordance with this title|(?:(?:shall be |is )?(?:subject|liable)[a-z ]{0,25}? (?:to|for) (?:an? )?|(?:may )?(?:impose|assess)[a-z ]{0,25}? (?:an? )?)(?:additional |mandatory (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)? )?)?civil (?:penalty|fine)(?:[^;,—(]{0,90}?(?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|the greater of|retail value of the [a-z ]+?(?= involved| at issue|[,;.])))?|fined (?:the greater of|in the amount|in an amount|a further sum|an amount not (?:greater|more) than|twice the amount|as provided (?:in|by)|for each offense)(?:(?!\s(?:sub)?section\s)[^;])*?(?=\s(?:sub)?section\s|,\s+(?:or both|imprisoned)|;|\.(?:\s|$)|\s+or\s+imprisoned|$)|(?:is|are|shall be) punishable as (?:a )?principals?|shall be punished as (?:provided|prescribed|follows)(?: (?:in|under|by))?|shall be subject to (?:the )?(?:same )?(?:penalties|punishment)(?: (?:set forth|provided|prescribed))?(?: (?:in|for|as|under))?|shall be punished(?=—|:)|(?:shall be |is )?guilty of a like offense and (?:shall be )?subject to (?:a|the) like punishment|subject to (?:a|the) like punishment|shall be punished in (?:the same|like) manner|(?<=,\s)(?:not|no) more than (?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty) (?:years?|months?|days?)\b(?!\s+(?:after|before|from|of age|old|prior))(?=,|;|\.|\s+or\b|\s+and\b|$))`,
     String.raw`(?<term>\b(?:${termAlt})\b)`,
   ].join('|'), 'gi');
 
@@ -615,6 +708,20 @@
         const own = /\b(?:said|such|former)\s+$/i.test(text.slice(Math.max(0, m.index - 8), m.index)) ? null : caOwner(ahead(last, 200));
         out += !own ? raw : own.fed ? caSections(m[0], g.caL, (n, r) => xref(own.fed, n.replace(/\(.*$/, ''), r)) : caSections(m[0], g.caL, (n, r) => caLink(own.code, n, r));
       }
+      else if (g.nyThis) {
+        const w = g.nyThis.toLowerCase();
+        out += w.endsWith('article') ? (ART_IDS[currentChapter] ? `<a class="xref ext" href="${nyArtUrl(ART_IDS[currentChapter])}" target="_blank" rel="noopener" title="Penal Law article ${currentChapter} on nysenate.gov">${raw}</a>` : raw)
+          : w.endsWith('title') ? `<a class="xref ext" href="${nyArtUrl('P3TH')}" target="_blank" rel="noopener" title="Penal Law Part 3, Title H on nysenate.gov">${raw}</a>`
+          : `<a class="xref ext" href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener" title="The Penal Law on nysenate.gov">${raw}</a>`;
+      }
+      else if (g.nyArtN) {
+        const art = nyNum(g.nyArtN), own = nyOwner(ahead(last, 140));
+        out += own === 'PEN' && ART_IDS[art] ? `<a class="xref ext" href="${nyArtUrl(ART_IDS[art])}" target="_blank" rel="noopener" title="Penal Law article ${art} on nysenate.gov">${raw}</a>` : raw;
+      }
+      else if (g.nyL) {
+        const own = /\b(?:said|such|former)\s+$/i.test(text.slice(Math.max(0, m.index - 8), m.index)) ? null : nyOwner(ahead(last, 200));
+        out += own ? nySections(m[0], g.nyL, (n, r) => nyLink(own, n, r)) : raw;
+      }
       else if (g.maSL && /\bsaid\s+$/i.test(text.slice(Math.max(0, m.index - 6), m.index))) out += raw;   // "said section 121": refers back
       else if (g.maChL && /\bsaid\s+$/i.test(text.slice(Math.max(0, m.index - 6), m.index))) out += raw;
       else if (g.maOfL) out += /^\s+of\s+the\s+(?:acts|resolves)\b/i.test(ahead(last, 30)) ? raw : maSections(m[0], g.maOfL, maNum(g.maOfC));
@@ -640,7 +747,7 @@
       else if (g.plC) out += +g.plC >= 104
         ? `<a class="xref ext" href="https://www.govinfo.gov/link/plaw/${g.plC}/public/${g.plN}?link-type=html" target="_blank" rel="noopener" title="Public Law ${g.plC}-${g.plN} on GovInfo">${raw}</a>` : raw;
       else if (g.stV) out += statLink(g.stV, g.stPg, raw);
-      else if (g.pen) out += LINKS_ONLY ? raw : penHTML(raw);
+      else if (g.pen) out += LINKS_ONLY ? raw : NY ? nyPen(m[0]) : penHTML(raw);
       else if (g.term && LINKS_ONLY) out += raw;
       else if (g.term) {
         const k = m[0].toLowerCase(), info = GLOSS.get(k);
@@ -678,6 +785,7 @@
   const T18_PARTS = [[1, 123, 'I'], [201, 237, 'II'], [301, 319, 'III'], [401, 403, 'IV'], [601, 601, 'V']];
   let currentChapter = null;  // chapter of the section being rendered, for "this chapter"
   function chapterLink(num, label) {
+    if (NY) return ART_IDS[num] ? `<a class="xref ext" href="${nyArtUrl(ART_IDS[num])}" target="_blank" rel="noopener" title="Penal Law article ${num} on nysenate.gov">${label}</a>` : label;
     if (CA) return `<a class="xref ext" href="https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=${num}.&article=" target="_blank" rel="noopener" title="Penal Code, Title 8, Chapter ${num} on leginfo.legislature.ca.gov">${label}</a>`;
     if (MA) return `<a class="xref ext" href="https://malegislature.gov/Laws/GeneralLaws/Chapter${num}" target="_blank" rel="noopener" title="G.L. chapter ${num} on malegislature.gov">${label}</a>`;
     const n = parseInt(num), part = T18_PARTS.find(([lo, hi]) => n >= lo && n <= hi);
@@ -742,6 +850,12 @@
     return out;
   }
   function para(p) {
+    if (NY) {   // "1. …", "3-a. …", "(a) …", "(ii-a) …": a subdivision number, then paragraph labels
+      const mm = p.t.match(/^(\d+(?:-[A-Za-z])?\.\s+)?((?:\([A-Za-z0-9-]+\)\s*)*)/);
+      if (!mm || !mm[0]) return enrichActs(p, 0, p.t);
+      const labels = [...(mm[1] ? [mm[1].trim()] : []), ...mm[2].trim().split(/\s+/).filter(Boolean)].map(l => `<span class="lbl">${esc(l)}</span>`).join('');
+      return labels + ' ' + enrichActs(p, mm[0].length, p.t.slice(mm[0].length));
+    }
     const m = p.t.match(/^((?:\([A-Za-z0-9]+\)\s*)+)(?:([A-Z][^.—]{0,80}?)\.—)?/);
     if (!m || !m[0]) return enrichActs(p, 0, p.t);
     const labels = m[1].trim().split(/\s+/).map(l => `<span class="lbl">${esc(l)}</span>`).join('');
@@ -760,17 +874,19 @@
     const nCrimes = data.crimes.reduce((n, c) => n + (c.elements?.crimes?.length || 0), 0);
     if (nCrimes) $('crimecount').textContent = `: ${nCrimes.toLocaleString()} crimes in ${data.crimes.length.toLocaleString()} sections`;
     STAT = data.statLinks || {};
+    ART_IDS = data.articleIds || {}; PEN_SECS = new Set(data.penSections || []);
+    if (NY) { chapterSel.options[0].text = 'All articles'; chapterSel.setAttribute('aria-label', 'Filter by article'); }
     ACT_SECTIONS = data.actSections || {};
     $('srclink').href = data.source;
     crimes = data.crimes.map((c, i) => ({
-      ...c, n: i + 1, tier: tierOf(c.maxYears),
+      ...c, n: i + 1, tier: tierOf(c.maxYears, c),
       body: c.text.map(p => p.t).join(' ').toLowerCase(),
       plainBody: [c.plain, ...(c.keyPoints || []), c.penalty].join(' ').toLowerCase(),
     }));
     crimes.forEach(c => bySection.set(c.section, c));
     const chapters = new Map(); crimes.forEach(c => chapters.set(c.chapter, c.chapterTitle));
     const perChapter = {}; crimes.forEach(c => perChapter[c.chapter] = (perChapter[c.chapter] || 0) + 1);
-    for (const [num, title] of chapters) chapterSel.add(new Option(`Ch. ${num} — ${title} (${perChapter[num]})`, num));
+    for (const [num, title] of chapters) chapterSel.add(new Option(`${NY ? 'Art.' : 'Ch.'} ${num} — ${title} (${perChapter[num]})`, num));
     for (const cat of [...CATEGORIES].sort((x, y) => x.localeCompare(y))) {
       const n = crimes.filter(c => c.category === cat).length;
       if (n) catSel.add(new Option(`${cat} (${n})`, cat));
@@ -811,13 +927,13 @@
   function statGroups(text) {
     const groups = [];
     for (const p of text) {
-      const startsTop = p.i === 0 && /^\(/.test(p.t);
+      const startsTop = p.i === 0 && (NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
       if (!groups.length || startsTop) groups.push([]);
       groups[groups.length - 1].push(p);
     }
     const path = [];   // label at each depth, e.g. ["(b)", "(2)", "(A)"]
     const pathOf = p => {
-      const m = p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
+      const m = NY ? p.t.match(/^(\d+(?:-[A-Za-z])?\.|(?:\([A-Za-z0-9-]+\))+)/) : p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
       if (!m) return '';                                   // unlabeled closing line: belongs to the enclosing level
       path.length = p.i; path[p.i] = m[1];
       return path.join('');
@@ -857,7 +973,11 @@
   // Attempt / conspiracy go last, after the crime's other elements.
   const tagsRow = o => o.tags?.length ? `<div class="off-q"><span class="off-k">Also covers</span><ul><li>${o.tags.map(t => `<span class="flag tag">+ ${esc(t)}</span>`).join('')}</li></ul></div>` : '';
   const els = rows => rows ? `<div class="off-els">${rows}</div>` : '';   // a crime's elements, indented under its act
-  const whereAttr = o => { const m = (o.where || '').replace(/\s+/g, '').match(/^(?:\([A-Za-z0-9]+\))+/); return m ? ` data-where="${esc(m[0])}"` : ''; };
+  const whereAttr = o => {
+    const w = (o.where || '').replace(/\s+/g, '');
+    if (NY) { const n = w.match(/^(\d+(?:-[A-Za-z])?)((?:\([A-Za-z0-9-]+\))*)$/), q = w.match(/^(?:\([A-Za-z0-9-]+\))+$/); return n ? ` data-where="${esc(n[1] + '.' + n[2])}"` : q ? ` data-where="${esc(w)}"` : ''; }
+    const m = w.match(/^(?:\([A-Za-z0-9]+\))+/); return m ? ` data-where="${esc(m[0])}"` : '';
+  };
   function elementsHTML(c) {
     const el = c.elements;
     if (!el?.crimes?.length) return '';
@@ -895,8 +1015,8 @@
             ${c.plain ? `<div class="plain"><h3>Simplified explanation</h3><p>${esc(c.plain)}</p></div>` : ''}
             <div class="actions">
               <button type="button" data-copy="${esc(c.section)}">Copy link</button>
-              <a href="${c.url}" target="_blank" rel="noopener">Official page on ${MA ? 'malegislature.gov' : CA ? 'leginfo.legislature.ca.gov' : 'GovInfo'} ↗</a>
-              ${MA || CA ? '' : `<a href="${c.url.replace('/html/', '/pdf/').replace(/\.htm$/, '.pdf')}" target="_blank" rel="noopener">PDF ↗</a>`}
+              <a href="${c.url}" target="_blank" rel="noopener">Official page on ${MA ? 'malegislature.gov' : CA ? 'leginfo.legislature.ca.gov' : NY ? 'nysenate.gov' : 'GovInfo'} ↗</a>
+              ${MA || CA || NY ? '' : `<a href="${c.url.replace('/html/', '/pdf/').replace(/\.htm$/, '.pdf')}" target="_blank" rel="noopener">PDF ↗</a>`}
             </div>
 `;
   }
@@ -928,11 +1048,11 @@
   }
 
   function chipsHTML(c) {
-    return `<span class="chip sev"${c.maxPlus ? ' title="Some forms of this crime are punished under other sections and may carry more."' : ''}>${esc(sevText(c))}</span>
+    return `<span class="chip sev"${c.maxPlus ? ' title="Some forms of this crime are punished under other sections and may carry more."' : NY && c.maxYears == null && c.penClass ? ' title="The sentence for this class is set in Penal Law Articles 70 and 80, outside this section."' : ''}>${esc(sevText(c))}</span>
       ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
       ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
       ${FREQ ? `<span class="chip freq${c.sentenced ? '' : ' none'}" title="People sentenced in federal court in fiscal year ${FREQ.fiscalYear} with at least one conviction under this section (U.S. Sentencing Commission). Federal cases only.">${c.sentenced ? `${c.sentenced.toLocaleString()} sentenced` : 'None sentenced'} (FY${FREQ.fiscalYear})</span>` : ''}
-      ${chapterLink(c.chapter, `Ch. ${esc(c.chapter)} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
+      ${chapterLink(c.chapter, `${NY ? 'Art.' : 'Ch.'} ${esc(c.chapter)} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
   }
 
   function render() {

@@ -1,6 +1,6 @@
 # Crimes Explained
 
-Every crime in Title 18 of the United States Code (Part I, "Crimes"): 710 sections in their official text, annotated. A Massachusetts edition covers General Laws chapters 265, 266 and 268. Each section is color-coded to show the prohibited act, knowledge, intent, and penalty, and every citation links to its official source.
+Every crime in Title 18 of the United States Code (Part I, "Crimes"): 710 sections in their official text, annotated. Massachusetts (chapters 265, 266, 268), California (Penal Code Title 8) and New York (Penal Law Title H) editions follow. Each section is color-coded to show the prohibited act, knowledge, intent, and penalty, and every citation links to its official source.
 
 In the official text, color marks the parts of each crime:
 
@@ -88,6 +88,24 @@ python3 build_pages.py --jur ca                     # write ca/index.html and ca
 ```
 
 California has no frequency data, so its list has no "Most common first" sort. `review/ca/` holds the instructions, validator, and reviewed batches.
+
+## New York (`ny/`)
+
+The Penal Law, Part 3, Title H (Articles 120-135): list page `ny/index.html`, section pages `ny/<section>.html`. Same code as the other states (`data-jur="ny"`).
+
+| File | Purpose |
+|---|---|
+| `ny/fetch_ny.py` | Downloads Title H from the NY Senate Open Legislation API into `ny/raw/`. Needs a free API key in `ny/.api_key` (gitignored) or `NYSENATE_API_KEY`; sign up at legislation.nysenate.gov. Never commit or print the key. |
+| `ny/build_ny.py` | Parses the text and outline levels, merges `ny/plain.json` and `ny/elements.json` into `ny/crimes.json`; `--batches DIR` writes review batches |
+| `ny/merge_review.py` | Merges review-agent output |
+| `ny/plain.json`, `ny/elements.json` | Per-section review (summary, type, class of offense, act phrases) and crime breakdowns, own section text only |
+
+```sh
+python3 ny/fetch_ny.py && python3 ny/build_ny.py   # download and build ny/crimes.json
+python3 build_pages.py --jur ny                     # write ny/index.html and ny/<section>.html (needs the local server and Chrome)
+```
+
+Sentences are set in Penal Law Articles 70 and 80, outside this set, so the site shows each crime's class (for example "Class D felony") instead of a prison term. `review/ny/` holds the instructions, validator, and reviewed batches.
 
 ## Review tools
 

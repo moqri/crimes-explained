@@ -3,6 +3,7 @@
 Federal (default): 18/<section>.html, after build_data.py. Massachusetts (--jur ma): first writes ma/index.html from
 index.html with the Massachusetts header, about text and footer, then ma/<chapter>/<section>.html, after ma/build_ma.py.
 California (--jur ca): the same for ca/index.html and ca/<section>.html, after ca/build_ca.py.
+New York (--jur ny): ny/index.html and ny/<section>.html, after ny/build_ny.py.
 Steps: copy index.html's styles to assets/site.css; render every section's body with the list page's own functions in
 headless Chrome; write the pages, plus sitemap.xml and robots.txt (covering both jurisdictions).
 """
@@ -15,8 +16,8 @@ SERVER = "http://localhost:8000/"                         # a local server must 
 
 index = open(os.path.join(HERE, "index.html"), encoding="utf-8").read()
 JURSEL = sys.argv[sys.argv.index("--jur") + 1] if "--jur" in sys.argv else "us"
-MA, CA = JURSEL == "ma", JURSEL == "ca"
-STATE = MA or CA                                          # a state list page generated from index.html
+MA, CA, NY = JURSEL == "ma", JURSEL == "ca", JURSEL == "ny"
+STATE = MA or CA or NY                                          # a state list page generated from index.html
 
 # Massachusetts list page: index.html with its own header, about text and footer (the regions marked <!-- jur:… -->).
 # The header names the chapters included so far, e.g. "Chapters 265 (Crimes Against the Person) and 266 (Crimes Against Property)".
@@ -27,7 +28,7 @@ if MA:
 chap_link = lambda n, t: f'<a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter{n}" target="_blank" rel="noopener" title="Chapter {n}: official text on malegislature.gov">{"Chapter" if len(ma_chapters) == 1 else ""} {n} ({t})</a>'.replace("> ", ">")
 chap_list = (lambda xs: xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1])([chap_link(n, t) for n, t in ma_chapters.items()]) if ma_chapters else ""
 MA_REGIONS = {
-    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ca/">California</a></nav>',
+    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ca/">California</a><a href="../ny/">New York</a></nav>',
     "lede": f'<p class="lede">Every crime in {"" if len(ma_chapters) == 1 else "chapters "}{chap_list} of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
     "about": """
           <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
@@ -49,7 +50,7 @@ MA_REGIONS = {
 # California list page: the same regions, for Title 8 of Part 1 of the Penal Code.
 CA_TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=&article="
 CA_REGIONS = {
-    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="./" aria-current="page">California</a></nav>',
+    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="./" aria-current="page">California</a><a href="../ny/">New York</a></nav>',
     "lede": f'<p class="lede">Every crime in <a href="{CA_TITLE_URL}" target="_blank" rel="noopener" title="Title 8 (Of Crimes Against the Person): official text on leginfo.legislature.ca.gov">Title 8 (Of Crimes Against the Person)</a> of the <a href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener" title="The Penal Code on leginfo.legislature.ca.gov">California Penal Code</a><span id="crimecount"></span></p>',
     "about": """
           <p>California criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Code may follow.</p>
@@ -67,10 +68,31 @@ CA_REGIONS = {
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   """,
 }
+# New York list page: the same regions, for Title H of Part 3 of the Penal Law.
+NY_TITLE_URL = "https://www.nysenate.gov/legislation/laws/PEN/P3TH"
+NY_REGIONS = {
+    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="../ca/">California</a><a href="./" aria-current="page">New York</a></nav>',
+    "lede": f'<p class="lede">Every crime in <a href="{NY_TITLE_URL}" target="_blank" rel="noopener" title="Title H, Offenses Against the Person Involving Physical Injury, Sexual Conduct, Restraint and Intimidation: official text on nysenate.gov">Title H (Offenses Against the Person)</a> of the <a href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener" title="The Penal Law on nysenate.gov">New York Penal Law</a><span id="crimecount"></span></p>',
+    "about": """
+          <p>New York criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Law may follow.</p>
+          <ul>
+      <li><b>Select any section</b> to open its own page with the official text beside a breakdown of each crime in it: the act, who can commit it when the law limits that, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences. Breakdowns use only the text of that section. Section names are the official titles.</li>
+      <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span> or purpose required (such as <i>intentionally</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and the <span class="pen">class of the offense</span> in red.</li>
+      <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
+      <li>The colored bar on each card shows the <b>class</b> of the offense stated in that section (class A to E felony, class A or B misdemeanor, or violation). The sentence for each class is set in Penal Law Articles 70 and 80, which are not part of this set, so no prison term is shown here.</li>
+      <li><b>Felony, misdemeanor or violation:</b> a <b>felony</b> can be punished by more than one year in prison; a <b>misdemeanor</b> by up to one year; a <b>violation</b> by no more than fifteen days (general definitions from Penal Law section 10.00).</li>
+    </ul>
+        """,
+    "footer": """
+    <p>Section names are the official titles, and section text is the official text of the New York Penal Law from the <a id="srclink" href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener">New York State Senate Open Legislation API</a>, downloaded on the date shown under About. Summaries, crime types, class labels, crime breakdowns, and highlighting were prepared with AI assistance and may contain errors; the official text is what counts. Each breakdown uses only the text of its own section.</p>
+    <p>Not included: sections that do not themselves create a crime (definitions, rules of consent, defenses, procedure). Many New York crimes are defined outside Title H, for example burglary and arson (Title I), larceny and robbery (Title J), drug crimes (Article 220), weapons (Article 265), and driving offenses (Vehicle and Traffic Law). Sentences are set in Penal Law Articles 70 and 80.</p>
+    <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
+  """,
+}
 if STATE:
-    NAME, REGIONS = ("Massachusetts", MA_REGIONS) if MA else ("California", CA_REGIONS)
+    NAME, REGIONS = ("Massachusetts", MA_REGIONS) if MA else ("California", CA_REGIONS) if CA else ("New York", NY_REGIONS)
     page_src = index.replace('<html lang="en">', f'<html lang="en" data-jur="{JURSEL}">', 1).replace("<title>Crimes Explained: Federal</title>", f"<title>Crimes Explained: {NAME}</title>", 1).replace("<h1>Crimes Explained: Federal</h1>", f"<h1>Crimes Explained: {NAME}</h1>", 1)
-    page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"' if MA else 'placeholder="Search, e.g. “great bodily injury”, “kidnapping”, or “245”"', 1)
+    page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"' if MA else 'placeholder="Search, e.g. “great bodily injury”, “kidnapping”, or “245”"' if CA else 'placeholder="Search, e.g. “strangulation”, “serious physical injury”, or “125.25”"', 1)
     for name, body in REGIONS.items():
         page_src, n = re.subn(rf"<!-- jur:{name} -->.*?<!-- /jur:{name} -->", lambda m: f"<!-- jur:{name} -->{body}<!-- /jur:{name} -->", page_src, flags=re.S)
         assert n == 1, name
@@ -168,20 +190,20 @@ pages = json.loads(html.unescape(m.group(1)))
 
 # 4. Write the pages.
 UP = "../../" if MA else "../"                 # from a section page to the site root
-LIST = "index.html" if CA else "../index.html"  # from a section page to its list page
+LIST = "index.html" if (CA or NY) else "../index.html"  # from a section page to its list page
 def page(i, p):
     prev_p, next_p = (pages[i - 1] if i else None), (pages[i + 1] if i + 1 < len(pages) else None)
     href = lambda q: f'../{q["section"]}.html' if MA else f'{q["section"]}.html'
     short = lambda q: q["label"].split(", ")[-1] if MA else "§ " + q["section"]
     nav = lambda q, label: f'<a href="{href(q)}" rel="{label}">{"‹ " + short(q) if label == "prev" else short(q) + " ›"}</a>' if q else ""
-    law = "M.G.L. " + p["label"] if MA else f'Cal. Penal Code § {p["section"]}' if CA else f'18 U.S.C. § {p["section"]}'
+    law = "M.G.L. " + p["label"] if MA else f'Cal. Penal Code § {p["section"]}' if CA else f'N.Y. Penal Law § {p["section"]}' if NY else f'18 U.S.C. § {p["section"]}'
     desc = p["plain"] or f'{law}, {p["title"]}: official text, color-coded, with each crime broken into its elements.'
     desc = (desc[:157] + "…") if len(desc) > 160 else desc
     title = f'{law}: {p["title"]} · Crimes Explained'
-    back = "Crimes Explained: Massachusetts, all" if MA else "Crimes Explained: California, all" if CA else "Crimes Explained: Federal, all"
+    back = "Crimes Explained: Massachusetts, all" if MA else "Crimes Explained: California, all" if CA else "Crimes Explained: New York, all" if NY else "Crimes Explained: Federal, all"
     source = (f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
               if MA else f'Official text of the California Penal Code from the California Legislative Information site (<a href="{html.escape(p["url"])}">leginfo.legislature.ca.gov</a>), downloaded {EDITION_DATE}. Section names are descriptions written for this site; the Penal Code has no official section headings.'
-              if CA else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
+              if CA else f'Official text of the New York Penal Law from the New York State Senate Open Legislation API (<a href="{html.escape(p["url"])}">nysenate.gov</a>), downloaded {EDITION_DATE}. Section names are the official titles.' if NY else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
     page_url = f'{BASE_URL}{JURSEL + "/" if STATE else "18/"}{p["section"]}.html'
     report = "https://github.com/moqri/crimes-explained/issues/new?" + urllib.parse.urlencode(
         {"title": f"Error in {law}", "body": f"Section: {law}, {p['title']}\nPage: {page_url}\n\nWhat is wrong:\n\nWhat the official text says:\n"}, quote_via=urllib.parse.quote)
@@ -234,8 +256,9 @@ for i, p in enumerate(pages):
 
 # 5. Sitemap (every section page of both jurisdictions) and robots.txt for search engines.
 rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18", "*.html")) + glob.glob(os.path.join(HERE, "ma", "*", "*.html"))
-             + [f for f in glob.glob(os.path.join(HERE, "ca", "*.html")) if not f.endswith("index.html")])
-urls = [BASE_URL, BASE_URL + "feedback.html", BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + [BASE_URL + r for r in rel]
+             + [f for f in glob.glob(os.path.join(HERE, "ca", "*.html")) if not f.endswith("index.html")]
+             + [f for f in glob.glob(os.path.join(HERE, "ny", "*.html")) if not f.endswith("index.html")])
+urls = [BASE_URL, BASE_URL + "feedback.html", BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + ([BASE_URL + "ny/"] if os.path.exists(os.path.join(HERE, "ny", "index.html")) else []) + [BASE_URL + r for r in rel]
 open(os.path.join(HERE, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                                    + "".join(f"  <url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
 open(os.path.join(HERE, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n")

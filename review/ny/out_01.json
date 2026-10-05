@@ -1,0 +1,1842 @@
+{
+ "120.00": {
+  "review": {
+   "isOffense": true,
+   "plain": "Assault in the third degree covers intentionally or recklessly causing physical injury, or causing it with criminal negligence by a deadly weapon or dangerous instrument; it is a class A misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "he causes such injury to such person or to a third person",
+    "causes physical injury to another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Causes physical injury to another person or to a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to another person"
+     ]
+    },
+    {
+     "where": "2",
+     "act": "Causes physical injury to another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Causes physical injury to another person by means of a deadly weapon or a dangerous instrument",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "With criminal negligence"
+     ]
+    }
+   ]
+  }
+ },
+ "120.01": {
+  "review": {
+   "isOffense": true,
+   "plain": "Reckless assault of a child by a child day care provider covers recklessly causing serious physical injury to a child under eleven in the provider's care; it is a class E felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "causes serious physical injury to a child under the care of such provider or employee who is less than eleven years of age"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury to a child under the care of such provider or employee",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The child is less than eleven years of age"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ],
+     "who": "A child day care provider or an employee of one"
+    }
+   ]
+  }
+ },
+ "120.02": {
+  "review": {
+   "isOffense": true,
+   "plain": "Reckless assault of a child covers an adult recklessly causing serious injury to the brain of a child under five by shaking or by slamming or throwing the child; it is a class D felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "causes serious physical injury to the brain of a child less than five years old by shaking the child, or by slamming or throwing the child so as to impact the child's head on a hard surface or object"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Causes serious physical injury to the brain of a child less than five years old",
+     "ways": [
+      "By shaking the child",
+      "By slamming or throwing the child so as to impact the child's head on a hard surface or object"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ],
+     "who": "A person eighteen years of age or more",
+     "terms": [
+      "\"serious physical injury\": serious physical injury as defined in subdivision ten of section 10.00 of this chapter; or extreme rotational cranial acceleration and deceleration and one or more of the following: subdural hemorrhaging; intracranial hemorrhaging; or retinal hemorrhaging"
+     ]
+    }
+   ]
+  }
+ },
+ "120.03": {
+  "review": {
+   "isOffense": true,
+   "plain": "Vehicular assault in the second degree covers causing serious physical injury while operating a motor vehicle, vessel, snowmobile or all terrain vehicle in violation of listed intoxication or impairment laws; it is a class E felony.",
+   "category": "Transportation & Aviation",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "causes serious physical injury to another person",
+    "operates a motor vehicle in violation of subdivision two, three, four or four-a of section eleven hundred ninety-two of the vehicle and traffic law",
+    "operates a motor vehicle with a gross vehicle weight rating of more than eighteen thousand pounds which contains flammable gas, radioactive materials or explosives",
+    "operates a snowmobile in violation of paragraph (b), (c) or (d) of subdivision one of section 25.24 of the parks, recreation and historic preservation law"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Operates a motor vehicle in violation of subdivision two, three, four or four-a of section eleven hundred ninety-two of the vehicle and traffic law, in a manner that causes serious physical injury to another person",
+     "ways": [
+      "Operates a vessel or public vessel in violation of paragraph (b), (c), (d) or (e) of subdivision two of section forty-nine-a of the navigation law"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person causes serious physical injury to another person",
+      "The operation in that manner is a result of intoxication or impairment by the use of a drug, or by the combined influence of drugs or of alcohol and any drug or drugs",
+      "Rebuttable presumption: if the person caused the serious physical injury while unlawfully intoxicated or impaired by the use of alcohol or a drug, it is presumed that the operation in that manner was a result of the intoxication or impairment (applies to each subdivision)"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Operates a motor vehicle with a gross vehicle weight rating of more than eighteen thousand pounds which contains flammable gas, radioactive materials or explosives in violation of subdivision one of section eleven hundred ninety-two of the vehicle and traffic law, in a manner that causes serious physical injury to another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person causes serious physical injury to another person",
+      "Such flammable gas, radioactive materials or explosives is the cause of the serious physical injury",
+      "The operation in that manner is a result of impairment by the use of alcohol"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Operates a snowmobile in violation of paragraph (b), (c) or (d) of subdivision one of section 25.24 of the parks, recreation and historic preservation law, in a manner that causes serious physical injury to another person",
+     "ways": [
+      "Operates an all terrain vehicle as defined in paragraph (a) of subdivision one of section twenty-two hundred eighty-one of the vehicle and traffic law and in violation of subdivision two, three, four, or four-a of section eleven hundred ninety-two of the vehicle and traffic law"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person causes serious physical injury to another person",
+      "The operation in that manner is a result of intoxication or impairment by the use of a drug, or by the combined influence of drugs or of alcohol and any drug or drugs"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.04": {
+  "review": {
+   "isOffense": true,
+   "plain": "Vehicular assault in the first degree covers committing vehicular assault in the second degree with an aggravating factor such as .18 blood alcohol, a suspended license, a prior conviction, multiple victims or a child passenger; it is a class D felony.",
+   "category": "Transportation & Aviation",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits such crime while operating a motor vehicle while the person has .18 of one per centum or more by weight of alcohol in the blood as shown by chemical analysis of blood, breath, urine or saliva made pursuant to section eleven hundred ninety-four of the vehicle and traffic law",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or having reason to know that either: (a) his or her license or privilege of operating a motor vehicle in another state, or privilege of obtaining a license there, is suspended or revoked based upon a conviction in such other state for an offense which would, if committed in this state, constitute a violation of section eleven hundred ninety-two of the vehicle and traffic law; or (b) his or her license or privilege of operating a motor vehicle in this state, or privilege of obtaining a license issued by the commissioner of motor vehicles, is suspended or revoked based upon a refusal to submit to a chemical test pursuant to section eleven hundred ninety-four of the vehicle and traffic law or following a conviction for a violation of section eleven hundred ninety-two of the vehicle and traffic law"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted of violating section eleven hundred ninety-two of the vehicle and traffic law within the preceding ten years; a conviction in any other state or jurisdiction for an offense which, if committed in this state, would constitute a violation of that section is treated as a violation of such law",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Causes serious physical injury to more than one other person",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "5",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted of violating any provision of this article or article one hundred twenty-five of this title involving the operation of a motor vehicle, or was convicted in any other state or jurisdiction of an offense involving the operation of a motor vehicle which, if committed in this state, would constitute a violation of this article or article one hundred twenty-five of this title",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "6",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes serious physical injury to such child",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "7",
+     "act": "Commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits such crime while operating a vessel in violation of paragraph (e-1) of subdivision two of section forty-nine-a of the navigation law while a child who is fifteen years of age or less is a passenger in such vessel and causes serious physical injury to such child",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.04-A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Aggravated vehicular assault covers reckless driving plus vehicular assault in the second degree, with an aggravating factor such as .18 blood alcohol, a suspended license, a prior conviction, multiple victims or a child passenger; it is a class C felony.",
+   "category": "Transportation & Aviation",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law",
+    "commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits such crimes while operating a motor vehicle while the person has .18 of one per centum or more by weight of alcohol in the blood as shown by chemical analysis of blood, breath, urine or saliva made pursuant to section eleven hundred ninety-four of the vehicle and traffic law",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or having reason to know that either: (a) his or her license or privilege of operating a motor vehicle in another state, or privilege of obtaining a license there, is suspended or revoked based upon a conviction in such other state for an offense which would, if committed in this state, constitute a violation of section eleven hundred ninety-two of the vehicle and traffic law; or (b) his or her license or privilege of operating a motor vehicle in this state, or privilege of obtaining a license issued by the commissioner of motor vehicles, is suspended or revoked based upon a refusal to submit to a chemical test pursuant to section eleven hundred ninety-four of the vehicle and traffic law or following a conviction for a violation of section eleven hundred ninety-two of the vehicle and traffic law"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted of violating section eleven hundred ninety-two of the vehicle and traffic law within the preceding ten years; a conviction in any other state or jurisdiction for an offense which, if committed in this state, would constitute a violation of that section is treated as a violation of such law",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Causes serious physical injury to more than one other person",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "5",
+     "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted of violating any provision of this article or article one hundred twenty-five of this title involving the operation of a motor vehicle, or was convicted in any other state or jurisdiction of an offense involving the operation of a motor vehicle which, if committed in this state, would constitute a violation of this article or article one hundred twenty-five of this title",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "6",
+     "act": "Engages in reckless driving as defined by section twelve hundred twelve of the vehicle and traffic law, and commits the crime of vehicular assault in the second degree as defined in section 120.03 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Commits such crime while operating a motor vehicle while a child who is fifteen years of age or less is a passenger in such motor vehicle and causes serious physical injury to such child",
+      "Rebuttable presumption: if the person operating the motor vehicle caused the serious physical injury or injuries while unlawfully intoxicated or impaired by the use of alcohol or a drug, or by the combined influence of drugs or of alcohol and any drug or drugs, it is presumed that the person operated it in a manner that caused the injury or injuries as a result of the intoxication or impairment"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.05": {
+  "review": {
+   "isOffense": true,
+   "plain": "Assault in the second degree covers many listed assaults, including intentionally causing serious injury, injury with a weapon, injury to protected workers, children and the elderly; it is a class D felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "he causes such injury to such person or to a third person",
+    "causes physical injury to such employee",
+    "causes serious physical injury to another person by means of a deadly weapon or a dangerous instrument",
+    "causes physical injury to another person who is a child under the age of eighteen by intentional discharge of a firearm, rifle or shotgun",
+    "causes stupor, unconsciousness or other physical impairment or injury to another person by administering to him, without his consent, a drug, substance or preparation capable of producing the same",
+    "causes physical injury to a person other than one of the participants",
+    "causes serious physical injury to such person",
+    "causes such injury to an employee of a school or public school district",
+    "causes physical injury to such process server"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Causes serious physical injury to another person or to a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause serious physical injury to another person"
+     ]
+    },
+    {
+     "where": "2",
+     "act": "Causes physical injury to another person or to a third person by means of a deadly weapon or a dangerous instrument",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to another person"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Causes physical injury to a peace officer, police officer, prosecutor, nurse, firefighter, paramedic, technician or other person listed in subdivision 3, by means including releasing or failing to control an animal under circumstances evincing the actor's intent that the animal obstruct the lawful activity of such person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is one of the persons listed in subdivision 3 (peace officer, police officer, prosecutor as defined in subdivision thirty-one of section 1.20 of the criminal procedure law, registered nurse, licensed practical nurse, public health sanitarian, sanitation enforcement agent, firefighter, emergency medical service paramedic or technician, hospital emergency department personnel, city marshal, school crossing guard, traffic enforcement officer or agent, or employee of an entity governed by the public service law in the course of performing an essential service, and others as listed)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent the person from performing a lawful duty"
+     ]
+    },
+    {
+     "where": "3-a",
+     "act": "Causes physical injury to an employee of a local social services district, including by means of releasing or failing to control an animal under circumstances evincing the actor's intent that the animal obstruct the lawful activities of such employee",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent an employee of a local social services district directly involved in investigation of or response to alleged abuse or neglect of a child, a vulnerable elderly person or an incompetent or physically disabled person, from performing such investigation or response, the actor not being such child or person",
+      "Or with intent to prevent an employee of a local social services district directly involved in providing public assistance and care from performing his or her job"
+     ]
+    },
+    {
+     "where": "3-b",
+     "act": "Causes physical injury to an employee of the New York city housing authority",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The employee is located on housing project grounds, real property, or a building owned, managed, or operated by such authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent an employee of the New York city housing authority from performing his or her lawful duties"
+     ]
+    },
+    {
+     "where": "3-c",
+     "act": "Causes physical injury to an employee providing direct patient care",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The employee is not a nurse pursuant to title eight of the education law",
+      "The employee's principal employment responsibility is to carry out direct patient care for one or more patients in any hospital, nursing home, residential health care facility, general hospital, government agency including any chronic disease hospital, maternity hospital, outpatient department, emergency center or surgical center under article twenty-eight of the public health law"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent such employee from performing a lawful duty"
+     ]
+    },
+    {
+     "where": "4",
+     "act": "Causes serious physical injury to another person by means of a deadly weapon or a dangerous instrument",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ]
+    },
+    {
+     "where": "4-a",
+     "act": "Causes physical injury to another person who is a child under the age of eighteen by intentional discharge of a firearm, rifle or shotgun",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a child under the age of eighteen"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ]
+    },
+    {
+     "where": "5",
+     "act": "Causes stupor, unconsciousness or other physical impairment or injury to another person by administering to him, without his consent, a drug, substance or preparation capable of producing the same",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally"
+     ],
+     "intent": [
+      "For a purpose other than lawful medical or therapeutic treatment"
+     ]
+    },
+    {
+     "where": "6",
+     "act": "Causes physical injury to a person other than one of the participants, in the course of and in furtherance of the commission or attempted commission of a felony, or of immediate flight therefrom",
+     "ways": [
+      "Another participant, if there be any, causes the injury"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "A felony defined in article one hundred thirty which requires corroboration for conviction"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "7",
+     "act": "Causes physical injury to another person or to a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person has been charged with or convicted of a crime and is confined in a correctional facility, as defined in subdivision three of section forty of the correction law, pursuant to such charge or conviction"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to another person"
+     ]
+    },
+    {
+     "where": "8",
+     "act": "Causes serious physical injury to a person less than eleven years old",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person eighteen years old or more",
+     "mentalState": [
+      "Recklessly"
+     ],
+     "intent": [
+      "With intent to cause physical injury to a person less than eleven years old"
+     ]
+    },
+    {
+     "where": "9",
+     "act": "Causes physical injury to a person less than seven years old",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person eighteen years old or more",
+     "intent": [
+      "With intent to cause physical injury to a person less than seven years old"
+     ]
+    },
+    {
+     "where": "10(a)",
+     "act": "Causes physical injury to an employee of a school or public school district",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury"
+     ],
+     "knowledge": [
+      "Acting at a place the person knows, or reasonably should know, is on school grounds"
+     ],
+     "terms": [
+      "\"school grounds\": shall have the meaning set forth in subdivision fourteen of section 220.00 of this chapter"
+     ]
+    },
+    {
+     "where": "10(b)",
+     "act": "Causes physical injury to another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is not a student of such school or public school district",
+      "The other person is a student of such school who is attending or present for educational purposes"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury"
+     ],
+     "knowledge": [
+      "Acting at a place the person knows, or reasonably should know, is on school grounds"
+     ],
+     "terms": [
+      "\"school grounds\": shall have the meaning set forth in subdivision fourteen of section 220.00 of this chapter"
+     ]
+    },
+    {
+     "where": "11",
+     "act": "Causes physical injury to a train operator, ticket inspector, conductor, bus operator, station agent, transit worker or other person listed in subdivision 11",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is one of the transit, ferry, enforcement, nursing, sanitation, prosecutor, paramedic or other persons listed in subdivision 11",
+      "The victim is performing an assigned duty as described in subdivision 11"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to such person"
+     ]
+    },
+    {
+     "where": "11-a",
+     "act": "Causes physical injury to an employee of a local social services district",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to an employee of a local social services district directly involved in investigation of or response to alleged abuse or neglect of a child, vulnerable elderly person or an incompetent or physically disabled person, the actor not being such child or person",
+      "Or with intent to prevent an employee of a local social services district directly involved in providing public assistance and care from performing his or her job"
+     ]
+    },
+    {
+     "where": "11-b",
+     "act": "Causes physical injury to an employee of the New York city housing authority",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The employee is performing his or her lawful duties while located on housing project grounds, real property, or a building owned, managed, or operated by such authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to such employee"
+     ]
+    },
+    {
+     "where": "11-c",
+     "act": "Causes physical injury to an employee providing direct patient care",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The employee is not a nurse pursuant to title eight of the education law",
+      "The employee's principal employment responsibility is to carry out direct patient care for one or more patients in a facility listed in this subdivision",
+      "The employee is performing a lawful duty"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to such employee"
+     ]
+    },
+    {
+     "where": "12",
+     "act": "Causes physical injury to a person who is sixty-five years of age or older",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The actor is more than ten years younger than such person"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to such person"
+     ]
+    },
+    {
+     "where": "13",
+     "act": "Causes physical injury to an employee of a secure treatment facility",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is confined to a secure treatment facility, as such term is defined in subdivision (o) of section 10.03 of the mental hygiene law"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to an employee of such secure treatment facility performing his or her duties"
+     ]
+    },
+    {
+     "where": "14",
+     "act": "Causes physical injury to a process server",
+     "ways": [
+      "Including by means of releasing or failing to control an animal evincing the actor's intent that the animal prevent or obstruct the lawful duty of the process server or as retaliation against the process server"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent or obstruct a process server, as defined in section eighty-nine-t of the general business law, from performing a lawful duty pursuant to article three of the civil practice law and rules",
+      "Or intentionally, as retaliation against such a process server for the performance of the process server's duties pursuant to such article"
+     ]
+    }
+   ]
+  }
+ },
+ "120.06": {
+  "review": {
+   "isOffense": true,
+   "plain": "Gang assault in the second degree covers causing serious physical injury with intent to cause physical injury while aided by two or more other persons present; it is a class C felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "he causes serious physical injury to such person or to a third person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury to another person or to a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is aided by two or more other persons actually present"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause physical injury to another person"
+     ]
+    }
+   ]
+  }
+ },
+ "120.07": {
+  "review": {
+   "isOffense": true,
+   "plain": "Gang assault in the first degree covers causing serious physical injury with intent to cause serious physical injury while aided by two or more other persons present; it is a class B felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "he causes serious physical injury to such person or to a third person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury to another person or to a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is aided by two or more other persons actually present"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause serious physical injury to another person"
+     ]
+    }
+   ]
+  }
+ },
+ "120.08": {
+  "review": {
+   "isOffense": true,
+   "plain": "Assault on a peace officer, police officer, firefighter or emergency medical services professional covers causing serious physical injury to prevent the lawful duty; it is a class C felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "causes serious physical injury to such peace officer, police officer, firefighter, paramedic or technician"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury to a peace officer, police officer, firefighter, paramedic or technician",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent a peace officer, police officer, a firefighter, including a firefighter acting as a paramedic or emergency medical technician administering first aid in the course of performance of duty as such firefighter, or an emergency medical service paramedic or emergency medical service technician, from performing a lawful duty"
+     ]
+    }
+   ]
+  }
+ },
+ "120.09": {
+  "review": {
+   "isOffense": true,
+   "plain": "Assault on a judge covers causing serious physical injury to a judge with intent to prevent official judicial duties; it is a class C felony.",
+   "category": "Courts & Justice",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "causes serious physical injury to such judge"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury to a judge",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to prevent a judge from performing official judicial duties"
+     ],
+     "terms": [
+      "\"judge\": a judge of a court of record or a justice court"
+     ]
+    }
+   ]
+  }
+ },
+ "120.09-A": {
+  "review": {
+   "isOffense": true,
+   "plain": "Aggravated assault on a judge covers causing serious physical injury to a judge with intent to cause serious injury and prevent official judicial duties; it is a class B felony.",
+   "category": "Courts & Justice",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "causes serious physical injury to such judge"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury to a judge",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause serious physical injury and prevent a judge from performing official judicial duties"
+     ],
+     "terms": [
+      "\"judge\": a judge of a court of record or a justice court"
+     ]
+    }
+   ]
+  }
+ },
+ "120.10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Assault in the first degree covers intentionally causing serious injury with a weapon, intentional disfigurement or disabling, depraved-indifference recklessness, and injury during a felony; it is a class B felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "he causes such injury to such person or to a third person by means of a deadly weapon or a dangerous instrument",
+    "he causes such injury to such person or to a third person",
+    "engages in conduct which creates a grave risk of death to another person, and thereby causes serious physical injury to another person",
+    "causes serious physical injury to a person other than one of the participants"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Causes serious physical injury to another person or to a third person by means of a deadly weapon or a dangerous instrument",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause serious physical injury to another person"
+     ]
+    },
+    {
+     "where": "2",
+     "act": "Causes serious and permanent disfigurement, or permanent destruction, amputation or disabling of a member or organ of the body, of another person or a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to disfigure another person seriously and permanently, or to destroy, amputate or disable permanently a member or organ of his body"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Engages in conduct which creates a grave risk of death to another person, and thereby causes serious physical injury to another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly",
+      "Under circumstances evincing a depraved indifference to human life"
+     ]
+    },
+    {
+     "where": "4",
+     "act": "Causes serious physical injury to a person other than one of the participants, in the course of and in furtherance of the commission or attempted commission of a felony or of immediate flight therefrom",
+     "ways": [
+      "Another participant, if there be any, causes the injury"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.11": {
+  "review": {
+   "isOffense": true,
+   "plain": "Aggravated assault upon a police officer or a peace officer covers intentionally causing serious injury to one by deadly weapon or dangerous instrument; it is a class B felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "he causes such injury by means of a deadly weapon or dangerous instrument"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes serious physical injury by means of a deadly weapon or dangerous instrument",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The officer is engaged in the course of performing his official duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to cause serious physical injury to a person"
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know the person to be a police officer or a peace officer"
+     ]
+    }
+   ]
+  }
+ },
+ "120.12": {
+  "review": {
+   "isOffense": true,
+   "plain": "Aggravated assault upon a person less than eleven years old covers an adult committing third degree assault on such a child after a prior conviction within ten years; it is a class E felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of assault in the third degree as defined in section 120.00 of this article upon a person less than eleven years old"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits the crime of assault in the third degree as defined in section 120.00 of this article upon a person less than eleven years old",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has been previously convicted of such crime upon a person less than eleven years old within the preceding ten years"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person eighteen years old or more"
+    }
+   ]
+  }
+ },
+ "120.13": {
+  "review": {
+   "isOffense": true,
+   "plain": "Menacing in the first degree covers committing menacing in the second degree after a prior conviction for it or for menacing a police officer or peace officer within ten years; it is a class E felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of menacing in the second degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits the crime of menacing in the second degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has been previously convicted of the crime of menacing in the second degree or the crime of menacing a police officer or peace officer within the preceding ten years"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.14": {
+  "review": {
+   "isOffense": true,
+   "plain": "Menacing in the second degree covers placing another in fear of injury or death by displaying a weapon, stalking-like repeated conduct, or menacing in violation of an order of protection; it is a class A misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "places or attempts to place another person in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon",
+    "repeatedly follows a person or engages in a course of conduct or repeatedly commits acts over a period of time",
+    "commits the crime of menacing in the third degree in violation of that part of a duly served order of protection"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Places or attempts to place another person in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon, dangerous instrument or what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally"
+     ]
+    },
+    {
+     "where": "2",
+     "act": "Repeatedly follows a person or engages in a course of conduct or repeatedly commits acts over a period of time placing or attempting to place another person in reasonable fear of physical injury, serious physical injury or death",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Commits the crime of menacing in the third degree in violation of that part of a duly served order of protection, or such order which the defendant has actual knowledge of because he or she was present in court when such order was issued, which directed the respondent or defendant to stay away from the person or persons on whose behalf the order was issued",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The order was issued pursuant to article eight of the family court act, section 530.12 of the criminal procedure law, or is an order of protection issued by a court of competent jurisdiction in another state, territorial or tribal jurisdiction"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Menacing in the third degree covers intentionally placing or attempting to place another in fear of death or injury by physical menace; it is a class B misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class B misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "places or attempts to place another person in fear of death, imminent serious physical injury or physical injury"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Places or attempts to place another person in fear of death, imminent serious physical injury or physical injury",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "By physical menace"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally"
+     ]
+    }
+   ]
+  }
+ },
+ "120.16": {
+  "review": {
+   "isOffense": true,
+   "plain": "Hazing in the first degree covers intentionally or recklessly engaging in conduct in the course of initiation or affiliation that creates a substantial risk of physical injury and thereby causes injury; it is a class a misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person and thereby causes such injury"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person and thereby causes such injury",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of another person's initiation into or affiliation with any organization"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally or recklessly"
+     ]
+    }
+   ]
+  }
+ },
+ "120.17": {
+  "review": {
+   "isOffense": true,
+   "plain": "Hazing in the second degree covers intentionally or recklessly engaging in conduct in the course of initiation or affiliation that creates a substantial risk of physical injury; it is a violation.",
+   "category": "Violence & Threats",
+   "penClass": "Violation",
+   "maxYears": null,
+   "acts": [
+    "engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Engages in conduct, including, but not limited to, making physical contact with or requiring physical activity of such other person, which creates a substantial risk of physical injury to such other person or a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of another person's initiation affiliation with any organization"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally or recklessly"
+     ]
+    }
+   ]
+  }
+ },
+ "120.18": {
+  "review": {
+   "isOffense": true,
+   "plain": "Menacing a police officer or peace officer covers intentionally placing one in fear of injury or death by displaying a weapon; it is a class D felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "places or attempts to place a police officer or peace officer in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon, knife, pistol, revolver, rifle, shotgun, machine gun or other firearm, whether operable or not"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Places or attempts to place a police officer or peace officer in reasonable fear of physical injury, serious physical injury or death by displaying a deadly weapon, knife, pistol, revolver, rifle, shotgun, machine gun or other firearm, whether operable or not",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The officer was in the course of performing his or her official duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally"
+     ],
+     "knowledge": [
+      "Knowing or reasonably should have known that such victim was a police officer or peace officer"
+     ]
+    }
+   ]
+  }
+ },
+ "120.19": {
+  "review": {
+   "isOffense": true,
+   "plain": "Assault on a retail worker covers causing physical injury to a retail worker to prevent an act within the scope of employment; it is a class E felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "causes physical injury to such retail worker"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Causes physical injury to a retail worker",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to prevent a retail worker from performing an act within the scope of such worker's employment"
+     ],
+     "knowledge": [
+      "Knowing or reasonably should have known that such individual was a retail worker"
+     ],
+     "terms": [
+      "\"Retail worker\": any person whose usual place of work is a retail establishment, including an employee, an owner, or a person who works in the retail establishment under arrangements made between the person and the establishment",
+      "\"Retail establishment\": any physical business or commercial entity engaged in the sale of goods, merchandise, or services directly to consumers"
+     ]
+    }
+   ]
+  }
+ },
+ "120.20": {
+  "review": {
+   "isOffense": true,
+   "plain": "Reckless endangerment in the second degree covers recklessly creating a substantial risk of serious physical injury to another; it is a class A misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "engages in conduct which creates a substantial risk of serious physical injury to another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Engages in conduct which creates a substantial risk of serious physical injury to another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ]
+    }
+   ]
+  }
+ },
+ "120.25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Reckless endangerment in the first degree covers recklessly creating a grave risk of death to another under circumstances showing depraved indifference; it is a class D felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "engages in conduct which creates a grave risk of death to another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Engages in conduct which creates a grave risk of death to another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly",
+      "Under circumstances evincing a depraved indifference to human life"
+     ]
+    }
+   ]
+  }
+ },
+ "120.30": {
+  "review": {
+   "isOffense": true,
+   "plain": "Promoting a suicide attempt covers intentionally causing or aiding another person to attempt suicide; it is a class E felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "causes or aids another person to attempt suicide"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes or aids another person to attempt suicide",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Intentionally"
+     ]
+    }
+   ]
+  }
+ },
+ "120.35": {
+  "review": {
+   "isOffense": false,
+   "plain": "Provides that a person whose conduct is both promoting a suicide attempt and attempt to commit murder may not be convicted of attempt to commit murder unless he causes or aids the suicide attempt by duress or deception."
+  }
+ },
+ "120.40": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines terms used in the stalking sections of this article."
+  }
+ },
+ "120.45": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stalking in the fourth degree covers intentionally engaging in a course of conduct directed at a specific person, with no legitimate purpose, that causes or is likely to cause fear or harm; it is a class B misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class B misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "engages in a course of conduct directed at a specific person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Intentionally, and for no legitimate purpose"
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that such conduct has the effect described in the subdivision"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Engages in a course of conduct directed at a specific person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Such conduct is likely to cause reasonable fear of material harm to the physical health, safety or property of such person, a member of such person's immediate family or a third party with whom such person is acquainted"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Engages in a course of conduct directed at a specific person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Such conduct causes material harm to the mental or emotional health of such person",
+      "Such conduct consists of following, telephoning or initiating communication or contact with such person, a member of such person's immediate family or a third party with whom such person is acquainted",
+      "The actor was previously clearly informed to cease that conduct"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"following\": for the purposes of subdivision two, includes the unauthorized tracking of such person's movements or location through the use of a global positioning system or other device"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Engages in a course of conduct directed at a specific person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Such conduct is likely to cause such person to reasonably fear that his or her employment, business or career is threatened",
+      "Such conduct consists of appearing, telephoning or initiating communication or contact at such person's place of employment or business",
+      "The actor was previously clearly informed to cease that conduct"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.50": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stalking in the third degree covers repeated fourth degree stalking against several persons or after prior convictions, or intentionally engaging in a course of conduct likely to cause fear of injury; it is a class A misdemeanor.",
+   "category": "Violence & Threats",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "Commits the crime of stalking in the fourth degree in violation of section 120.45 of this article",
+    "engages in a course of conduct directed at such person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits the crime of stalking in the fourth degree in violation of section 120.45 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Against three or more persons, in three or more separate transactions, for which the actor has not been previously convicted"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Commits the crime of stalking in the fourth degree in violation of section 120.45 of this article against any person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted, within the preceding ten years, of a specified predicate crime, as defined in subdivision five of section 120.40 of this article",
+      "The victim of such specified predicate crime is the victim, or an immediate family member of the victim, of the present offense"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Engages in a course of conduct directed at a specific person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The conduct is likely to cause such person to reasonably fear physical injury or serious physical injury, the commission of a sex offense against, or the kidnapping, unlawful imprisonment or death of such person or a member of such person's immediate family"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to harass, annoy or alarm a specific person",
+      "Intentionally"
+     ]
+    },
+    {
+     "where": "4",
+     "act": "Commits the crime of stalking in the fourth degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted within the preceding ten years of stalking in the fourth degree"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "120.55": {
+  "review": {
+   "isOffense": true,
+   "plain": "Stalking in the second degree covers aggravated third degree stalking, such as displaying a weapon, prior convictions, stalking a child under fourteen, or stalking ten or more persons; it is a class E felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "Commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 of this article",
+    "repeatedly follows a person under the age of fourteen or engages in a course of conduct or repeatedly commits acts over a period of time"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits the crime of stalking in the third degree as defined in subdivision three of section 120.50 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of and in furtherance of the commission of such offense, displays, or possesses and threatens the use of, a firearm, pistol, revolver, rifle, shotgun, machine gun, electronic dart gun, electronic stun gun, cane sword, billy, blackjack, bludgeon, plastic knuckles, metal knuckles, chuka stick, sand bag, sandclub, slingshot, slungshot, shuriken, throwing star, dagger, dangerous knife, dirk, razor, stiletto, imitation pistol, dangerous instrument, deadly instrument or deadly weapon; or displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Commits the crime of stalking in the third degree in violation of subdivision three of section 120.50 of this article against any person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted, within the preceding five years, of a specified predicate crime as defined in subdivision five of section 120.40 of this article",
+      "The victim of such specified predicate crime is the victim, or an immediate family member of the victim, of the present offense"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Commits the crime of stalking in the fourth degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has previously been convicted of stalking in the third degree as defined in subdivision four of section 120.50 of this article against any person"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Repeatedly follows a person under the age of fourteen or engages in a course of conduct or repeatedly commits acts over a period of time placing or attempting to place such person in reasonable fear of physical injury, serious physical injury or death",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is under the age of fourteen"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person twenty-one years of age or older",
+     "mentalState": [
+      "Intentionally"
+     ]
+    },
+    {
+     "where": "5",
+     "act": "Commits the crime of stalking in the third degree, as defined in subdivision three of section 120.50 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Against ten or more persons, in ten or more separate transactions, for which the actor has not been previously convicted"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}
