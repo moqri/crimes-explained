@@ -6,7 +6,7 @@ California (--jur ca): the same for ca/index.html and ca/<section>.html, after c
 Steps: copy index.html's styles to assets/site.css; render every section's body with the list page's own functions in
 headless Chrome; write the pages, plus sitemap.xml and robots.txt (covering both jurisdictions).
 """
-import glob, html, json, os, re, subprocess, sys
+import glob, html, json, os, re, subprocess, sys, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 BASE_URL = "https://crimes.wiki/"   # used for canonical links and the sitemap
@@ -74,6 +74,7 @@ if STATE:
     for name, body in REGIONS.items():
         page_src, n = re.subn(rf"<!-- jur:{name} -->.*?<!-- /jur:{name} -->", lambda m: f"<!-- jur:{name} -->{body}<!-- /jur:{name} -->", page_src, flags=re.S)
         assert n == 1, name
+    page_src = page_src.replace('href="feedback.html"', 'href="../feedback.html"')
     open(os.path.join(HERE, JURSEL, "index.html"), "w", encoding="utf-8").write(page_src)
 OUT = os.path.join(HERE, JURSEL) if STATE else os.path.join(HERE, "18")
 os.makedirs(os.path.join(HERE, "assets"), exist_ok=True)
@@ -181,6 +182,9 @@ def page(i, p):
     source = (f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
               if MA else f'Official text of the California Penal Code from the California Legislative Information site (<a href="{html.escape(p["url"])}">leginfo.legislature.ca.gov</a>), downloaded {EDITION_DATE}. Section names are descriptions written for this site; the Penal Code has no official section headings.'
               if CA else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
+    page_url = f'{BASE_URL}{JURSEL + "/" if STATE else "18/"}{p["section"]}.html'
+    report = "https://github.com/moqri/crimes-explained/issues/new?" + urllib.parse.urlencode(
+        {"title": f"Error in {law}", "body": f"Section: {law}, {p['title']}\nPage: {page_url}\n\nWhat is wrong:\n\nWhat the official text says:\n"}, quote_via=urllib.parse.quote)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -213,7 +217,8 @@ def page(i, p):
     <a href="{LIST}">← All sections</a>
     <span class="pn">{nav(prev_p, "prev")}{nav(next_p, "next")}</span>
   </nav>
-  <footer><p>{source} Highlighting, crime breakdowns, and labels were prepared with AI assistance and may contain errors; rely on the official text. <b>This is general information, not legal advice.</b></p></footer>
+  <footer><p>{source} Highlighting, crime breakdowns, and labels were prepared with AI assistance and may contain errors; rely on the official text. <b>This is general information, not legal advice.</b></p>
+  <p>Found a mistake? <a href="{html.escape(report)}" target="_blank" rel="noopener">Report an error on this section</a> · <a href="{UP}feedback.html">Other feedback</a></p></footer>
 </main>
 <div id="pop" role="tooltip"></div>
 <script src="{UP}assets/page.js"></script>
@@ -230,7 +235,7 @@ for i, p in enumerate(pages):
 # 5. Sitemap (every section page of both jurisdictions) and robots.txt for search engines.
 rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18", "*.html")) + glob.glob(os.path.join(HERE, "ma", "*", "*.html"))
              + [f for f in glob.glob(os.path.join(HERE, "ca", "*.html")) if not f.endswith("index.html")])
-urls = [BASE_URL, BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + [BASE_URL + r for r in rel]
+urls = [BASE_URL, BASE_URL + "feedback.html", BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + [BASE_URL + r for r in rel]
 open(os.path.join(HERE, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                                    + "".join(f"  <url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
 open(os.path.join(HERE, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n")
