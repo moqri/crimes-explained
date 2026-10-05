@@ -1,0 +1,1829 @@
+{
+ "242": {
+  "review": {
+   "title": "Battery defined",
+   "isOffense": false,
+   "plain": "Defines battery as any willful and unlawful use of force or violence upon the person of another; it sets no punishment itself."
+  }
+ },
+ "243": {
+  "review": {
+   "title": "Battery punishments",
+   "isOffense": true,
+   "plain": "Battery is a misdemeanor punishable by up to six months in county jail; battery on certain officers, with injury, with serious bodily injury, or on partners is punished more, up to four years under Section 1170(h) sentencing.",
+   "category": "Violence & Threats",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "A battery is punishable",
+    "a battery is committed against the person of a peace officer",
+    "a battery is committed against a custodial officer",
+    "a battery is committed against any person and serious bodily injury is inflicted on the person",
+    "a battery is committed against a spouse"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a battery",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding six months, or both that fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits a battery against a peace officer, custodial officer, firefighter, emergency medical technician, lifeguard, security officer, custody assistant, process server, traffic officer, code enforcement officer, animal control officer, search and rescue member, probation department nonsworn employee, physician, nurse, or hospital emergency department health care worker",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is engaged in the performance of their duties, whether on or off duty, or as otherwise described in this subdivision"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is one of the listed persons"
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Commits a battery against a custodial officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, animal control officer, nonsworn employee of a probation department, physician, or nurse",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is engaged in the performance of their duties, whether on or off duty, or rendering emergency medical care",
+      "An injury is inflicted on that victim"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not more than two thousand dollars ($2,000), by imprisonment in a county jail not exceeding one year, or by both that fine and imprisonment, or by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is one of the listed persons"
+     ],
+     "terms": [
+      "\"Injury\": any physical injury which requires professional medical treatment"
+     ]
+    },
+    {
+     "where": "(c)(2)",
+     "act": "Commits the battery specified in paragraph (1) against a peace officer",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The peace officer is engaged in the performance of their duties, whether on or off duty",
+      "An injury is inflicted on that victim"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine of not more than ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, or both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a peace officer engaged in the performance of their duties"
+     ],
+     "terms": [
+      "\"Injury\": any physical injury which requires professional medical treatment"
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Commits a battery against any person that inflicts serious bodily injury",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Serious bodily injury is inflicted on the person"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year or imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "terms": [
+      "\"Serious bodily injury\": a serious impairment of physical condition, including, but not limited to, the following: loss of consciousness; concussion; bone fracture; protracted loss or impairment of function of any bodily member or organ; a wound requiring extensive suturing; and serious disfigurement"
+     ]
+    },
+    {
+     "where": "(e)(1)",
+     "act": "Commits a battery against a spouse, a person with whom the defendant is cohabiting, a person who is the parent of the defendant's child, former spouse, fiance or fiancee, or a person with whom the defendant currently has, or has previously had, a dating or engagement relationship",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail for a period of not more than one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "probation is granted or the sentence is suspended and the person has been previously convicted of a violation of this subdivision or Section 273.5",
+       "penalty": "Imprisoned for not less than 48 hours in addition to the probation conditions; the court, upon a showing of good cause, may elect not to impose it",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "If probation is granted, or the execution or imposition of the sentence is suspended, the defendant must participate in, for no less than one year, and successfully complete, a batterer's treatment program, or if none is available, another appropriate counseling program designated by the court",
+      "On probation, conditions may include, in lieu of a fine, payments to a domestic violence shelter-based program, up to a maximum of five thousand dollars ($5,000), or reimbursing the victim for reasonable costs of counseling and other reasonable expenses",
+      "The court shall determine the defendant's ability to pay"
+     ],
+     "terms": [
+      "\"Dating relationship\": frequent, intimate associations primarily characterized by the expectation of affectional or sexual involvement independent of financial considerations"
+     ]
+    }
+   ]
+  }
+ },
+ "243.1": {
+  "review": {
+   "title": "Battery on a custodial officer",
+   "isOffense": true,
+   "plain": "Battery on a custodial officer who is performing their duties, where the offender knows or should know it, is punished by imprisonment pursuant to subdivision (h) of Section 1170.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "a battery is committed against the person of a custodial officer"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a battery against the person of a custodial officer",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The custodial officer is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a custodial officer engaged in the performance of his or her duties"
+     ]
+    }
+   ]
+  }
+ },
+ "243.2": {
+  "review": {
+   "title": "Battery on school, park, or hospital grounds",
+   "isOffense": true,
+   "plain": "Battery on school property, park property, or hospital grounds is punishable by a fine up to $2,000, county jail up to one year, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "a battery is committed on school property, park property, or the grounds of a public or private hospital, against any person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Commits a battery against any person on school property, park property, or the grounds of a public or private hospital",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Section 243.6 otherwise provides",
+      "Conduct arising during the course of an otherwise lawful labor dispute"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "When committed by a minor on school property, the court may order the minor to attend counseling at the expense of the minor's parents"
+     ],
+     "terms": [
+      "\"Hospital\": a facility for the diagnosis, care, and treatment of human illness that is subject to, or specifically exempted from, the licensure requirements of Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code",
+      "\"Park\": any publicly maintained or operated park, not including any facility when used for professional sports or commercial events"
+     ]
+    }
+   ]
+  }
+ },
+ "243.25": {
+  "review": {
+   "title": "Battery on an elder or dependent adult",
+   "isOffense": true,
+   "plain": "Battery on an elder or dependent adult, knowing of that status, is punishable by a fine up to $2,000, county jail up to one year, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "a battery is committed against the person of an elder or a dependent adult"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a battery against the person of an elder or a dependent adult",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in a county jail not to exceed one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "With knowledge that he or she is an elder or a dependent adult"
+     ]
+    }
+   ]
+  }
+ },
+ "243.3": {
+  "review": {
+   "title": "Battery on transportation workers or passengers",
+   "isOffense": true,
+   "plain": "Battery on a public transportation operator, driver, passenger, agent, or employee is punishable by up to a $10,000 fine and a year in county jail, or state prison for 16 months to three years if injury results.",
+   "category": "Violence & Threats",
+   "maxYears": 3,
+   "acts": [
+    "a battery is committed against the person of an operator, driver, or passenger on a bus"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a battery against the person of an operator, driver, or passenger on a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle used for the transportation of persons for hire, or against a schoolbus driver, station agent or ticket agent, public transportation provider, or employee or contractor of a public transportation provider",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim, in the case of an operator, driver, agent, employee, or contractor, is engaged in the performance of their duties, or is a passenger"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "an injury is inflicted on that victim",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year or in the state prison for 16 months, or two or three years, or both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is engaged in the performance of their duties, or is a passenger"
+     ]
+    }
+   ]
+  }
+ },
+ "243.35": {
+  "review": {
+   "title": "Battery on public transportation property",
+   "isOffense": true,
+   "plain": "Battery on any person on the property or in a motor vehicle of a public transportation provider is punishable by a fine up to $2,000, county jail up to one year, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "a battery is committed against any person on the property of, or in a motor vehicle of, a public transportation provider"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a battery against any person on the property of, or in a motor vehicle of, a public transportation provider",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Section 243.3 otherwise provides"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in a county jail not to exceed one year, or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "terms": [
+      "\"Public transportation provider\": a publicly or privately owned entity that operates, for the transportation of persons for hire, a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle, including a vehicle operated on stationary rails or on a track or rail suspended in air, or that operates a schoolbus",
+      "\"On the property of\": the entire station where public transportation is available, including the parking lot reserved for the public who utilize the transportation system"
+     ]
+    }
+   ]
+  }
+ },
+ "243.4": {
+  "review": {
+   "title": "Sexual battery",
+   "isOffense": true,
+   "plain": "Sexual battery is touching an intimate part of another, or causing another to touch, for sexual purposes against their will in specified circumstances; felony sexual battery carries up to four years in state prison.",
+   "category": "Sex Crimes & Exploitation",
+   "maxYears": 4,
+   "acts": [
+    "touches an intimate part of another person while that person is unlawfully restrained by the accused or an accomplice",
+    "touches an intimate part of another person who is institutionalized for medical treatment and who is seriously disabled or medically incapacitated",
+    "touches an intimate part of another person for the purpose of sexual arousal, sexual gratification, or sexual abuse",
+    "causes another, against that person’s will while that person is unlawfully restrained either by the accused or an accomplice, or is institutionalized for medical treatment and is seriously disabled or medically incapacitated, to masturbate or touch an intimate part of either of those persons or a third person",
+    "touches an intimate part of another person, if the touching is against the will of the person touched"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "In a felony conviction, that the defendant was an employer and the victim an employee, or that the defendant was employed at the hospital where the offense occurred and the victim was in the defendant's care or seeking medical care there, is a factor in aggravation in sentencing"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Touches an intimate part of another person while that person is unlawfully restrained by the accused or an accomplice",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The touching is against the will of the person touched"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+     ],
+     "terms": [
+      "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+      "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Touches an intimate part of another person who is institutionalized for medical treatment and who is seriously disabled or medically incapacitated",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The touching is against the will of the person touched"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+     ],
+     "terms": [
+      "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+      "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense",
+      "\"Seriously disabled\": a person with severe physical or sensory disabilities",
+      "\"Medically incapacitated\": a person who is incapacitated as a result of prescribed sedatives, anesthesia, or other medication",
+      "\"Institutionalized\": a person who is located voluntarily or involuntarily in a hospital, medical treatment facility, nursing home, acute care facility, or mental hospital"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Touches an intimate part of another person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is at the time unconscious of the nature of the act because the perpetrator fraudulently represented that the touching served a professional purpose"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+     ],
+     "terms": [
+      "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+      "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense"
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Causes another, against that person's will, to masturbate or touch an intimate part of either of those persons or a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is unlawfully restrained either by the accused or an accomplice, or is institutionalized for medical treatment and is seriously disabled or medically incapacitated"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+     ],
+     "terms": [
+      "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+      "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense"
+     ]
+    },
+    {
+     "where": "(e)(1)",
+     "act": "Touches an intimate part of another person, or causes another to masturbate or touch an intimate part of either of those persons or a third person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The touching or act is against the will of the person"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Misdemeanor sexual battery: a fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding six months, or both that fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the defendant was an employer and the victim was an employee of the defendant",
+       "penalty": "A fine not exceeding three thousand dollars ($3,000), by imprisonment in a county jail not exceeding six months, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "For the specific purpose of sexual arousal, sexual gratification, or sexual abuse"
+     ],
+     "consequences": [
+      "Any fine amount above two thousand dollars ($2,000) is transmitted to the State Treasury for distribution to the Civil Rights Department, but not until all fines, including any restitution fines, have been paid in full"
+     ],
+     "terms": [
+      "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+      "\"Touches\": physical contact with another person, whether accomplished directly, through the clothing of the person committing the offense, or through the clothing of the victim"
+     ]
+    },
+    {
+     "where": "(k)",
+     "act": "Commits a violation of subdivision (a), (b), (c), or (d) against a minor",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a minor",
+      "The person has a prior felony conviction for a violation of this section"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony, punishable by imprisonment in the state prison for two, three, or four years and a fine not exceeding ten thousand dollars ($10,000)",
+       "min": null,
+       "max": 4,
+       "flags": []
+      }
+     ],
+     "terms": [
+      "\"Minor\": a person under 18 years of age"
+     ]
+    }
+   ]
+  }
+ },
+ "243.5": {
+  "review": {
+   "title": "Arrest for school assault or battery",
+   "isOffense": false,
+   "plain": "Allows a peace officer to arrest without a warrant for an assault or battery on school property during school activities, and defines school."
+  }
+ },
+ "243.6": {
+  "review": {
+   "title": "Battery on a school employee",
+   "isOffense": true,
+   "plain": "Battery on a school employee, knowing of that status, is punishable by county jail up to one year or a $2,000 fine; with injury, it may be punished under Section 1170(h) for 16 months to three years.",
+   "category": "Violence & Threats",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "a battery is committed against a school employee engaged in the performance of his or her duties"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a battery against a school employee",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is engaged in the performance of his or her duties, or the battery is in retaliation for an act performed in the course of his or her duties, whether on or off campus, during the schoolday or at any other time"
+     ],
+     "exceptions": [
+      "Conduct arising during the course of an otherwise lawful labor dispute"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding two thousand dollars ($2,000), or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "an injury is inflicted on the victim",
+       "penalty": "Imprisonment in a county jail for not more than one year, or a fine of not more than two thousand dollars ($2,000), or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a school employee"
+     ]
+    }
+   ]
+  }
+ },
+ "243.65": {
+  "review": {
+   "title": "Battery on a highway worker",
+   "isOffense": true,
+   "plain": "Battery on a highway worker who is performing their duties, where the offender knows or should know it, is punishable by a fine up to $2,000, county jail up to one year, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "a battery is committed against the person of a highway worker"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a battery against the person of a highway worker",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The highway worker is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a highway worker engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Highway worker\": an employee of the Department of Transportation, a contractor or employee of a contractor while working under contract with the Department of Transportation, an employee of a city, county, or city and county, a contractor or employee of a contractor while working under contract with a city, county, or city and county, or a volunteer as defined in Section 1720.4 of the Labor Code who performs maintenance, repair, or construction of, or operates equipment on, or performs related maintenance work on, state highway or local street or road infrastructures in work zones"
+     ]
+    }
+   ]
+  }
+ },
+ "243.7": {
+  "review": {
+   "title": "Battery on a juror",
+   "isOffense": true,
+   "plain": "A party to a case who commits a battery on a juror or alternate juror is punishable by a fine up to $5,000, county jail up to one year, or state prison for 16 months to three years.",
+   "category": "Violence & Threats",
+   "maxYears": 3,
+   "acts": [
+    "commits a battery against any juror or alternate juror who was selected and sworn in that legal action"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a battery against any juror or alternate juror who was selected and sworn in that legal action",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The battery is committed while the legal action is pending or after the conclusion of the trial"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not to exceed five thousand dollars ($5,000), or imprisonment in the county jail not exceeding one year, or both such fine and imprisonment, or imprisonment in the state prison for 16 months, or for two or three years",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "who": "A person who is a party to a civil or criminal action in which a jury has been selected to try the case"
+    }
+   ]
+  }
+ },
+ "243.8": {
+  "review": {
+   "title": "Battery on a sports official",
+   "isOffense": true,
+   "plain": "Battery on a sports official around an organized athletic contest, where the offender knows or should know the victim is performing duties, is punishable by a fine up to $2,000, county jail up to one year, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "a battery is committed against a sports official"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a battery against a sports official",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The battery is immediately prior to, during, or immediately following an interscholastic, intercollegiate, or any other organized amateur or professional athletic contest in which the sports official is participating"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Sports official\": any individual who serves as a referee, umpire, linesman, or who serves in a similar capacity but may be known by a different title or name and is duly registered by, or a member of, a local, state, regional, or national organization engaged in part in providing education and training to sports officials"
+     ]
+    }
+   ]
+  }
+ },
+ "243.83": {
+  "review": {
+   "title": "Interference at professional sporting events",
+   "isOffense": true,
+   "plain": "It is an infraction, punishable by a fine up to $250, for a spectator at a professional sporting event to throw objects on the field or court or enter the field or court without permission.",
+   "category": "Violence & Threats",
+   "maxYears": 0,
+   "acts": [
+    "Throw any object on or across the court or field of play with the intent to interfere with play or distract a player",
+    "Enter upon the court or field of play without permission from an authorized person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person attending a professional sporting event",
+    "terms": [
+     "\"Professional sporting event\": a scheduled sporting event involving a professional sports team or organization or a professional athlete for which an admission fee is charged to the public"
+    ],
+    "consequences": [
+     "The fine is not subject to penalty assessments"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Throw any object on or across the court or field of play",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Players and sports officials"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding two hundred fifty dollars ($250)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to interfere with play or distract a player"
+     ],
+     "who": "A person attending a professional sporting event"
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Enter upon the court or field of play without permission from an authorized person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The entry is any time after the authorized participants of play have entered the court or field to begin the sporting event and until the participants of play have completed the playing time"
+     ],
+     "exceptions": [
+      "Players and sports officials"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding two hundred fifty dollars ($250)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "who": "A person attending a professional sporting event"
+    }
+   ]
+  }
+ },
+ "243.85": {
+  "review": {
+   "title": "Notice at professional sports facilities",
+   "isOffense": false,
+   "plain": "Requires owners of professional sports facilities to post notices with a text and phone number for reporting a violent act."
+  }
+ },
+ "243.9": {
+  "review": {
+   "title": "Gassing by a jail inmate",
+   "isOffense": true,
+   "plain": "A person confined in a local detention facility who gasses a peace officer or facility employee is guilty of aggravated battery, punishable in county jail or by two, three, or four years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 4,
+   "acts": [
+    "commits a battery by gassing upon the person of any peace officer"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a battery by gassing upon the person of any peace officer or employee of the local detention facility",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail or imprisonment in the state prison for two, three, or four years",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "who": "A person confined in any local detention facility",
+     "terms": [
+      "\"Gassing\": intentionally placing or throwing, or causing to be placed or thrown, upon the person of another, any human excrement or other bodily fluids or bodily substances or any mixture containing human excrement or other bodily fluids or bodily substances that results in actual contact with the person's skin or membranes"
+     ]
+    }
+   ]
+  }
+ },
+ "243.10": {
+  "review": {
+   "title": "Battery on a service member because of service",
+   "isOffense": true,
+   "plain": "Battery on a member of the United States Armed Forces because of their service is punishable by a fine up to $2,000, county jail up to one year, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "commits a battery against a member of the United States Armed Forces because of the victim’s service in the United States Armed Forces"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a battery against a member of the United States Armed Forces",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The battery is because of the victim's service in the United States Armed Forces"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), by imprisonment in a county jail for a period not exceeding one year, or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "terms": [
+      "\"Because of\": the bias motivation must be a cause in fact of the battery, whether or not other causes exist; when multiple concurrent motives exist, the prohibited bias must be a substantial factor in bringing about the battery"
+     ]
+    }
+   ]
+  }
+ },
+ "243.15": {
+  "review": {
+   "title": "Battery by a jail inmate on a non-inmate",
+   "isOffense": true,
+   "plain": "A person confined in a city or county jail, industrial farm, or road camp who commits a battery on a non-inmate is punishable under Section 1170(h) or in county jail up to one year.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "commits a battery upon the person of any individual who is not himself or herself a person confined or sentenced therein"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a battery upon the person of any individual who is not himself or herself a person confined or sentenced therein",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or in a county jail for not more than one year",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "who": "A person confined in, sentenced to, or serving a sentence in, a city or county jail, industrial farm, or industrial road camp in this state"
+    }
+   ]
+  }
+ },
+ "244": {
+  "review": {
+   "title": "Throwing acid or caustic substance",
+   "isOffense": true,
+   "plain": "Willfully and maliciously throwing acid, a flammable substance, or caustic chemical on another to injure the flesh or disfigure the body is punishable by two, three, or four years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 4,
+   "acts": [
+    "places or throws, or causes to be placed or thrown, upon the person of another, any vitriol, corrosive acid, flammable substance, or caustic chemical of any nature"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Places or throws, or causes to be placed or thrown, upon the person of another, any vitriol, corrosive acid, flammable substance, or caustic chemical of any nature",
+     "ways": [
+      "places",
+      "throws",
+      "causes to be placed or thrown"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, three or four years",
+       "min": null,
+       "max": 4,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Willfully and maliciously",
+      "With the intent to injure the flesh or disfigure the body of that person"
+     ],
+     "terms": [
+      "\"Flammable substance\": gasoline, petroleum products, or flammable liquids with a flashpoint of 150 degrees Fahrenheit or less"
+     ]
+    }
+   ]
+  }
+ },
+ "244.5": {
+  "review": {
+   "title": "Assault with a stun gun",
+   "isOffense": true,
+   "plain": "Assault on another with a stun gun or less lethal weapon is punishable by county jail up to one year or under Section 1170(h); on a peace officer or firefighter the term is up to four years.",
+   "category": "Violence & Threats",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "commits an assault upon the person of another with a stun gun or less lethal weapon",
+    "commits an assault upon the person of a peace officer or firefighter with a stun gun or less lethal weapon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(b)",
+     "act": "Commits an assault upon the person of another with a stun gun or less lethal weapon",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for a term not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, two, or three years",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "terms": [
+      "\"Stun gun\": any item, except a less lethal weapon, as defined in Section 16780, used or intended to be used as either an offensive or defensive weapon that is capable of temporarily immobilizing a person by the infliction of an electrical charge"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Commits an assault upon the person of a peace officer or firefighter with a stun gun or less lethal weapon",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The peace officer or firefighter is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for a term not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the person is a peace officer or firefighter engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Stun gun\": any item, except a less lethal weapon, as defined in Section 16780, used or intended to be used as either an offensive or defensive weapon that is capable of temporarily immobilizing a person by the infliction of an electrical charge"
+     ]
+    }
+   ]
+  }
+ },
+ "245": {
+  "review": {
+   "title": "Assault with a deadly weapon or force",
+   "isOffense": true,
+   "plain": "Assault with a deadly weapon, firearm, or force likely to produce great bodily injury is punishable by state prison, with terms up to 12 years for machineguns or assault weapons, or on peace officers and firefighters.",
+   "category": "Violence & Threats",
+   "maxYears": 12,
+   "acts": [
+    "commits an assault upon the person of another with a deadly weapon or instrument other than a firearm",
+    "commits an assault upon the person of another with a firearm",
+    "commits an assault upon the person of another with a machinegun",
+    "commits an assault upon the person of another by any means of force likely to produce great bodily injury",
+    "commits an assault upon the person of another with a semiautomatic firearm",
+    "commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a peace officer or firefighter",
+    "commits an assault with a firearm upon the person of a peace officer or firefighter",
+    "commits an assault upon the person of a peace officer or firefighter with a semiautomatic firearm",
+    "commits an assault with a machinegun"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "When convicted in a case involving use of a deadly weapon or instrument or firearm owned by that person, the court shall order the weapon deemed a nuisance, confiscated and disposed of"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Commits an assault upon the person of another with a deadly weapon or instrument other than a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, three, or four years, or in a county jail for not exceeding one year, or a fine not exceeding ten thousand dollars ($10,000), or both the fine and imprisonment",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Commits an assault upon the person of another with a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, three, or four years, or in a county jail for not less than six months and not exceeding one year, or both a fine not exceeding ten thousand dollars ($10,000) and imprisonment",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(a)(3)",
+     "act": "Commits an assault upon the person of another with a machinegun, an assault weapon, or a .50 BMG rifle",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 4, 8, or 12 years",
+       "min": null,
+       "max": 12,
+       "flags": []
+      }
+     ],
+     "terms": []
+    },
+    {
+     "where": "(a)(4)",
+     "act": "Commits an assault upon the person of another by any means of force likely to produce great bodily injury",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, three, or four years, or in a county jail for not exceeding one year, or a fine not exceeding ten thousand dollars ($10,000), or both the fine and imprisonment",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits an assault upon the person of another with a semiautomatic firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, six, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a peace officer or firefighter",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The peace officer or firefighter is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, four, or five years",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+     ]
+    },
+    {
+     "where": "(d)(1)",
+     "act": "Commits an assault with a firearm upon the person of a peace officer or firefighter",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The peace officer or firefighter is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for four, six, or eight years",
+       "min": null,
+       "max": 8,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+     ]
+    },
+    {
+     "where": "(d)(2)",
+     "act": "Commits an assault upon the person of a peace officer or firefighter with a semiautomatic firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The peace officer or firefighter is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for five, seven, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+     ]
+    },
+    {
+     "where": "(d)(3)",
+     "act": "Commits an assault with a machinegun, an assault weapon, or a .50 BMG rifle upon the person of a peace officer or firefighter",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The peace officer or firefighter is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 6, 9, or 12 years",
+       "min": null,
+       "max": 12,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+     ]
+    }
+   ]
+  }
+ },
+ "245.1": {
+  "review": {
+   "title": "Emergency rescue personnel defined",
+   "isOffense": false,
+   "plain": "Defines emergency rescue personnel for use in Section 148.2."
+  }
+ },
+ "245.2": {
+  "review": {
+   "title": "Assault on transportation workers or passengers",
+   "isOffense": true,
+   "plain": "Assault with a deadly weapon or force likely to produce great bodily injury on a public transit operator, driver, agent, or passenger is punishable by three, four, or five years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 5,
+   "acts": [
+    "commits an assault with a deadly weapon or instrument or by any means of force likely to produce great bodily injury upon the person of an operator, driver, or passenger on a bus"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an assault with a deadly weapon or instrument or by any means of force likely to produce great bodily injury upon the person of an operator, driver, or passenger on a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle used for the transportation of persons for hire, or upon the person of a station agent or ticket agent for the entity providing such transportation",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The driver, operator, or agent is engaged in the performance of his or her duties, or the victim is a passenger"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, four, or five years",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is engaged in the performance of his or her duties, or is a passenger"
+     ]
+    }
+   ]
+  }
+ },
+ "245.3": {
+  "review": {
+   "title": "Assault on a custodial officer",
+   "isOffense": true,
+   "plain": "Assault with a deadly weapon or force likely to produce great bodily injury on a custodial officer performing their duties is punishable by three, four, or five years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 5,
+   "acts": [
+    "commits an assault with a deadly weapon or instrument or by any means likely to produce great bodily injury upon the person of a custodial officer"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an assault with a deadly weapon or instrument or by any means likely to produce great bodily injury upon the person of a custodial officer",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The custodial officer is engaged in the performance of that person's duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, four, or five years",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a custodial officer engaged in the performance of that person's duties"
+     ],
+     "consequences": [
+      "When convicted in a case involving use of a deadly weapon or instrument owned by that person, the court may, in its discretion, order that the weapon or instrument be deemed a nuisance, confiscated and destroyed"
+     ]
+    }
+   ]
+  }
+ },
+ "245.5": {
+  "review": {
+   "title": "Assault on a school employee",
+   "isOffense": true,
+   "plain": "Assault on a school employee performing their duties with a deadly weapon, firearm, or stun gun is punishable by state prison, up to eight years with a firearm.",
+   "category": "Violence & Threats",
+   "maxYears": 8,
+   "acts": [
+    "commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a school employee",
+    "commits an assault with a firearm upon the person of a school employee",
+    "commits an assault upon the person of a school employee with a stun gun or taser"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a school employee",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The school employee is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, four, or five years, or in a county jail not exceeding one year",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a school employee engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"School employee\": any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, a student teacher, or a school board member"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits an assault with a firearm upon the person of a school employee",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The school employee is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for four, six, or eight years, or in a county jail for not less than six months and not exceeding one year",
+       "min": null,
+       "max": 8,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a school employee engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"School employee\": any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, a student teacher, or a school board member"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Commits an assault upon the person of a school employee with a stun gun or taser",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The school employee is engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for a term not exceeding one year or by imprisonment in the state prison for two, three, or four years",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knows or reasonably should know that the victim is a school employee engaged in the performance of his or her duties"
+     ],
+     "terms": [
+      "\"School employee\": any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, a student teacher, or a school board member"
+     ]
+    }
+   ]
+  }
+ },
+ "245.6": {
+  "review": {
+   "title": "Hazing",
+   "isOffense": true,
+   "plain": "Hazing likely to cause serious bodily injury is a misdemeanor with a fine of $100 to $5,000 or county jail up to one year; hazing causing death or serious bodily injury may be a felony under Section 1170(h).",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "engage in hazing",
+    "engages in hazing that results in death or serious bodily injury"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Engage in hazing",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The violation does not result in serious bodily injury"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor, punishable by a fine of not less than one hundred dollars ($100), nor more than five thousand dollars ($5,000), or imprisonment in the county jail for not more than one year, or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "terms": [
+      "\"Hazing\": any method of initiation or preinitiation into a student organization or student body, whether or not the organization or body is officially recognized by an educational institution, which is likely to cause serious bodily injury to any former, current, or prospective student of any school, community college, college, university, or other educational institution in this state; it does not include customary athletic events or school-sanctioned events"
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Personally engages in hazing that results in death or serious bodily injury",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The hazing results in death or serious bodily injury"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of either a misdemeanor or a felony: imprisonment in county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "terms": [
+      "\"Hazing\": any method of initiation or preinitiation into a student organization or student body, whether or not the organization or body is officially recognized by an educational institution, which is likely to cause serious bodily injury to any former, current, or prospective student of any school, community college, college, university, or other educational institution in this state; it does not include customary athletic events or school-sanctioned events"
+     ]
+    }
+   ]
+  }
+ },
+ "246": {
+  "review": {
+   "title": "Shooting at an inhabited dwelling or vehicle",
+   "isOffense": true,
+   "plain": "Maliciously and willfully discharging a firearm at an inhabited dwelling, occupied building, vehicle, or aircraft is a felony punishable by three, five, or seven years in state prison.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 7,
+   "acts": [
+    "discharge a firearm at an inhabited dwelling house, occupied building, occupied motor vehicle, occupied aircraft, inhabited housecar"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Discharge a firearm at an inhabited dwelling house, occupied building, occupied motor vehicle, occupied aircraft, inhabited housecar, or inhabited camper",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony: imprisonment in the state prison for three, five, or seven years, or by imprisonment in the county jail for a term of not less than six months and not exceeding one year",
+       "min": null,
+       "max": 7,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "Maliciously and willfully"
+     ],
+     "terms": [
+      "\"Inhabited\": currently being used for dwelling purposes, whether occupied or not"
+     ]
+    }
+   ]
+  }
+ },
+ "246.1": {
+  "review": {
+   "title": "Sale of vehicles used in shootings",
+   "isOffense": false,
+   "plain": "Requires the court to order a vehicle used in specified violent firearm offenses sold, and sets the notice, sale, and proceeds procedure."
+  }
+ },
+ "246.3": {
+  "review": {
+   "title": "Grossly negligent discharge of a firearm",
+   "isOffense": true,
+   "plain": "Willfully discharging a firearm or BB device in a grossly negligent manner that could result in injury or death is punishable by county jail up to one year, or for a firearm also under Section 1170(h).",
+   "category": "Weapons & Terrorism",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "discharges a firearm in a grossly negligent manner which could result in injury or death to a person",
+    "discharges a BB device in a grossly negligent manner which could result in injury or death to a person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Discharges a firearm in a grossly negligent manner which could result in injury or death to a person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise authorized by law"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "Willfully"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Discharges a BB device in a grossly negligent manner which could result in injury or death to a person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise authorized by law"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Willfully"
+     ],
+     "terms": [
+      "\"BB device\": any instrument that expels a projectile, such as a BB or a pellet, through the force of air pressure, gas pressure, or spring action"
+     ]
+    }
+   ]
+  }
+ },
+ "247": {
+  "review": {
+   "title": "Shooting at an unoccupied aircraft, vehicle, or building",
+   "isOffense": true,
+   "plain": "Willfully and maliciously shooting at an unoccupied aircraft is a felony; shooting at an unoccupied motor vehicle or uninhabited building is punishable in county jail up to one year or in state prison.",
+   "category": "Weapons & Terrorism",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "discharges a firearm at an unoccupied aircraft",
+    "discharges a firearm at an unoccupied motor vehicle or an uninhabited building or dwelling house"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Discharges a firearm at an unoccupied aircraft",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Willfully and maliciously"
+     ],
+     "terms": [
+      "\"Aircraft\": any contrivance intended for and capable of transporting persons through the airspace"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Discharges a firearm at an unoccupied motor vehicle or an uninhabited building or dwelling house",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Shooting at an abandoned vehicle, unoccupied vehicle, uninhabited building, or dwelling house with the permission of the owner"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A public offense punishable by imprisonment in the county jail for not more than one year or in the state prison",
+       "min": null,
+       "max": null,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

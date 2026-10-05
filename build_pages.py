@@ -2,6 +2,7 @@
 
 Federal (default): 18/<section>.html, after build_data.py. Massachusetts (--jur ma): first writes ma/index.html from
 index.html with the Massachusetts header, about text and footer, then ma/<chapter>/<section>.html, after ma/build_ma.py.
+California (--jur ca): the same for ca/index.html and ca/<section>.html, after ca/build_ca.py.
 Steps: copy index.html's styles to assets/site.css; render every section's body with the list page's own functions in
 headless Chrome; write the pages, plus sitemap.xml and robots.txt (covering both jurisdictions).
 """
@@ -13,7 +14,9 @@ CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 SERVER = "http://localhost:8000/"                         # a local server must be serving this folder
 
 index = open(os.path.join(HERE, "index.html"), encoding="utf-8").read()
-MA = "--jur" in sys.argv and sys.argv[sys.argv.index("--jur") + 1] == "ma"
+JURSEL = sys.argv[sys.argv.index("--jur") + 1] if "--jur" in sys.argv else "us"
+MA, CA = JURSEL == "ma", JURSEL == "ca"
+STATE = MA or CA                                          # a state list page generated from index.html
 
 # Massachusetts list page: index.html with its own header, about text and footer (the regions marked <!-- jur:… -->).
 # The header names the chapters included so far, e.g. "Chapters 265 (Crimes Against the Person) and 266 (Crimes Against Property)".
@@ -24,7 +27,7 @@ if MA:
 chap_link = lambda n, t: f'<a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter{n}" target="_blank" rel="noopener" title="Chapter {n}: official text on malegislature.gov">{"Chapter" if len(ma_chapters) == 1 else ""} {n} ({t})</a>'.replace("> ", ">")
 chap_list = (lambda xs: xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1])([chap_link(n, t) for n, t in ma_chapters.items()]) if ma_chapters else ""
 MA_REGIONS = {
-    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">MA</a></nav>',
+    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ca/">California</a></nav>',
     "lede": f'<p class="lede">Every crime in {"" if len(ma_chapters) == 1 else "chapters "}{chap_list} of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
     "about": """
           <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
@@ -42,14 +45,37 @@ MA_REGIONS = {
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   """,
 }
-if MA:
-    page_src = index.replace('<html lang="en">', '<html lang="en" data-jur="ma">', 1).replace("<title>Crimes Explained: Federal</title>", "<title>Crimes Explained: MA</title>", 1).replace("<h1>Crimes Explained: Federal</h1>", "<h1>Crimes Explained: MA</h1>", 1)
-    page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"', 1)
-    for name, body in MA_REGIONS.items():
+
+# California list page: the same regions, for Title 8 of Part 1 of the Penal Code.
+CA_TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=&article="
+CA_REGIONS = {
+    "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="./" aria-current="page">California</a></nav>',
+    "lede": f'<p class="lede">Every crime in <a href="{CA_TITLE_URL}" target="_blank" rel="noopener" title="Title 8 (Of Crimes Against the Person): official text on leginfo.legislature.ca.gov">Title 8 (Of Crimes Against the Person)</a> of the <a href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener" title="The Penal Code on leginfo.legislature.ca.gov">California Penal Code</a><span id="crimecount"></span></p>',
+    "about": """
+          <p>California criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Code may follow.</p>
+          <ul>
+      <li><b>Select any section</b> to open its own page with the official text beside a breakdown of each crime in it: the act, who can commit it when the law limits that, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences. Breakdowns use only the text of that section. The Penal Code has no official section headings, so each section's name here is a short description written for this site.</li>
+      <li>In the official text, <span class="act">the prohibited act</span> is highlighted in orange, the <span class="know">knowledge</span> the law requires in teal, the <span class="intent">intent</span> or purpose required (such as <i>willfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics, and <span class="pen">penalties</span> in red.</li>
+      <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
+      <li>The colored bar on each card shows the <b>maximum</b> prison time stated in that section. Many sentences are lower, enhancements and punishments set in other sections can add to them, and some crimes are punished under other sections.</li>
+      <li><b>Felony or misdemeanor:</b> a crime punishable by death, in state prison, or in county jail under Penal Code Section 1170(h) is a <b>felony</b>; every other crime is a <b>misdemeanor</b> (usually up to one year in county jail) or an infraction. A <b>wobbler</b> can be punished either way.</li>
+    </ul>
+        """,
+    "footer": """
+    <p>Section text is the official text of the California Penal Code from the <a id="srclink" href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener">California Legislative Information</a> site, current as of the download date shown under About. Section names, summaries, crime types, maximum-penalty labels, crime breakdowns, and highlighting were prepared with AI assistance from that text and may contain errors, so rely on the official text.</p>
+    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, venue, civil remedies). Many California crimes are defined outside Title 8, for example sex crimes (Penal Code Title 9), property crimes such as theft and burglary (Title 13), drug crimes (Health and Safety Code), and driving offenses (Vehicle Code). Sentence enhancements set in other sections, such as Sections 12022 to 12022.9, are not included.</p>
+    <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
+  """,
+}
+if STATE:
+    NAME, REGIONS = ("Massachusetts", MA_REGIONS) if MA else ("California", CA_REGIONS)
+    page_src = index.replace('<html lang="en">', f'<html lang="en" data-jur="{JURSEL}">', 1).replace("<title>Crimes Explained: Federal</title>", f"<title>Crimes Explained: {NAME}</title>", 1).replace("<h1>Crimes Explained: Federal</h1>", f"<h1>Crimes Explained: {NAME}</h1>", 1)
+    page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"' if MA else 'placeholder="Search, e.g. “great bodily injury”, “kidnapping”, or “245”"', 1)
+    for name, body in REGIONS.items():
         page_src, n = re.subn(rf"<!-- jur:{name} -->.*?<!-- /jur:{name} -->", lambda m: f"<!-- jur:{name} -->{body}<!-- /jur:{name} -->", page_src, flags=re.S)
         assert n == 1, name
-    open(os.path.join(HERE, "ma", "index.html"), "w", encoding="utf-8").write(page_src)
-OUT = os.path.join(HERE, "ma") if MA else os.path.join(HERE, "18")
+    open(os.path.join(HERE, JURSEL, "index.html"), "w", encoding="utf-8").write(page_src)
+OUT = os.path.join(HERE, JURSEL) if STATE else os.path.join(HERE, "18")
 os.makedirs(os.path.join(HERE, "assets"), exist_ok=True)
 os.makedirs(OUT, exist_ok=True)
 
@@ -114,7 +140,7 @@ open(os.path.join(HERE, "assets", "page.js"), "w", encoding="utf-8").write(r"""/
 """)
 
 # 3. Render every section with index.html's own functions (bodyHTML, chipsHTML) in headless Chrome.
-harness = os.path.join(OUT if MA else HERE, "_prerender.html")
+harness = os.path.join(OUT if STATE else HERE, "_prerender.html")
 open(harness, "w").write("""<!doctype html><body><iframe id="f" src="index.html" style="width:1100px;height:600px"></iframe><pre id="out"></pre>
 <script>
 f.onload = () => {
@@ -131,7 +157,7 @@ f.onload = () => {
 </script></body>""")
 try:
     dom = subprocess.run(["perl", "-e", "alarm 240; exec @ARGV", CHROME, "--headless=new", "--disable-gpu", "--virtual-time-budget=60000",
-                          "--dump-dom", SERVER + ("ma/" if MA else "") + "_prerender.html"], capture_output=True, text=True).stdout
+                          "--dump-dom", SERVER + (JURSEL + "/" if STATE else "") + "_prerender.html"], capture_output=True, text=True).stdout
 finally:
     os.remove(harness)
 m = re.search(r'<pre id="out">(.*?)</pre>', dom, re.S)
@@ -141,18 +167,20 @@ pages = json.loads(html.unescape(m.group(1)))
 
 # 4. Write the pages.
 UP = "../../" if MA else "../"                 # from a section page to the site root
+LIST = "index.html" if CA else "../index.html"  # from a section page to its list page
 def page(i, p):
     prev_p, next_p = (pages[i - 1] if i else None), (pages[i + 1] if i + 1 < len(pages) else None)
     href = lambda q: f'../{q["section"]}.html' if MA else f'{q["section"]}.html'
     short = lambda q: q["label"].split(", ")[-1] if MA else "§ " + q["section"]
     nav = lambda q, label: f'<a href="{href(q)}" rel="{label}">{"‹ " + short(q) if label == "prev" else short(q) + " ›"}</a>' if q else ""
-    law = "M.G.L. " + p["label"] if MA else f'18 U.S.C. § {p["section"]}'
+    law = "M.G.L. " + p["label"] if MA else f'Cal. Penal Code § {p["section"]}' if CA else f'18 U.S.C. § {p["section"]}'
     desc = p["plain"] or f'{law}, {p["title"]}: official text, color-coded, with each crime broken into its elements.'
     desc = (desc[:157] + "…") if len(desc) > 160 else desc
     title = f'{law}: {p["title"]} · Crimes Explained'
-    back = "Crimes Explained: MA, all" if MA else "Crimes Explained: Federal, all"
+    back = "Crimes Explained: Massachusetts, all" if MA else "Crimes Explained: California, all" if CA else "Crimes Explained: Federal, all"
     source = (f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
-              if MA else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
+              if MA else f'Official text of the California Penal Code from the California Legislative Information site (<a href="{html.escape(p["url"])}">leginfo.legislature.ca.gov</a>), downloaded {EDITION_DATE}. Section names are descriptions written for this site; the Penal Code has no official section headings.'
+              if CA else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -160,13 +188,13 @@ def page(i, p):
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{html.escape(title)}</title>
   <meta name="description" content="{html.escape(desc)}">
-  <link rel="canonical" href="{BASE_URL}{"ma/" if MA else "18/"}{p["section"]}.html">
+  <link rel="canonical" href="{BASE_URL}{JURSEL + "/" if STATE else "18/"}{p["section"]}.html">
   <link rel="stylesheet" href="{UP}assets/site.css">
 </head>
 <body>
 <main class="page">
   <nav class="page-nav" aria-label="Sections">
-    <a href="{"../index.html"}">← {back} {len(pages)} sections</a>
+    <a href="{LIST}">← {back} {len(pages)} sections</a>
     <span class="pn">{nav(prev_p, "prev")}{nav(next_p, "next")}</span>
   </nav>
   <article class="card" style="--sev:{p["color"]}">
@@ -182,7 +210,7 @@ def page(i, p):
     </div>
   </article>
   <nav class="page-nav page-foot-nav" aria-label="Sections">
-    <a href="../index.html">← All sections</a>
+    <a href="{LIST}">← All sections</a>
     <span class="pn">{nav(prev_p, "prev")}{nav(next_p, "next")}</span>
   </nav>
   <footer><p>{source} Highlighting, crime breakdowns, and labels were prepared with AI assistance and may contain errors; rely on the official text. <b>This is general information, not legal advice.</b></p></footer>
@@ -193,16 +221,17 @@ def page(i, p):
 </html>
 """
 
-EDITION_DATE = re.search(r"downloaded ([\d-]+)", json.load(open(os.path.join(OUT, "crimes.json")))["edition"]).group(1) if MA else ""
+EDITION_DATE = re.search(r"downloaded ([\d-]+)", json.load(open(os.path.join(OUT, "crimes.json")))["edition"]).group(1) if STATE else ""
 for i, p in enumerate(pages):
     path = os.path.join(OUT, f'{p["section"]}.html')
     os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w", encoding="utf-8").write(page(i, p))
 
 # 5. Sitemap (every section page of both jurisdictions) and robots.txt for search engines.
-rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18", "*.html")) + glob.glob(os.path.join(HERE, "ma", "*", "*.html")))
-urls = [BASE_URL, BASE_URL + "ma/"] + [BASE_URL + r for r in rel]
+rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18", "*.html")) + glob.glob(os.path.join(HERE, "ma", "*", "*.html"))
+             + [f for f in glob.glob(os.path.join(HERE, "ca", "*.html")) if not f.endswith("index.html")])
+urls = [BASE_URL, BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + [BASE_URL + r for r in rel]
 open(os.path.join(HERE, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                                    + "".join(f"  <url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
 open(os.path.join(HERE, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n")
-print(f"wrote {len(pages)} section pages{' and ma/index.html' if MA else ''}, assets/site.css, assets/page.js, sitemap.xml ({len(urls)} URLs), robots.txt")
+print(f"wrote {len(pages)} section pages{f' and {JURSEL}/index.html' if STATE else ''}, assets/site.css, assets/page.js, sitemap.xml ({len(urls)} URLs), robots.txt")

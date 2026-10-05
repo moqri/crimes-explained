@@ -1,0 +1,1297 @@
+{
+ "187": {
+  "review": {
+   "title": "Murder defined",
+   "isOffense": true,
+   "plain": "Murder is the unlawful killing of a human being, or a fetus, with malice aforethought; this section sets no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "the unlawful killing of a human being, or a fetus"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "The unlawful killing of a human being, or a fetus",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The act complied with the former Therapeutic Abortion Act or the Reproductive Privacy Act (fetus death)",
+      "The act was committed by a holder of a physician's and surgeon's certificate where, to a medical certainty, the result of childbirth would be death of the person pregnant, or the pregnant person's death from childbirth would be substantially certain or more likely than not (fetus death)",
+      "It was an act or omission by the person pregnant with the fetus or was solicited, aided, abetted, or consented to by that person (fetus death)"
+     ],
+     "defenses": [],
+     "intent": [
+      "With malice aforethought"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "188": {
+  "review": {
+   "title": "Malice defined",
+   "isOffense": false,
+   "plain": "Defines express and implied malice for murder and says no other mental state need be shown once an intentional act with malice is shown."
+  }
+ },
+ "189": {
+  "review": {
+   "title": "Degrees of murder",
+   "isOffense": true,
+   "plain": "Murder by listed means or during listed felonies, or by willful, deliberate, premeditated killing, is first degree; all other murder is second degree. This section sets no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "All murder that is perpetrated by means of a destructive device or explosive",
+    "All other kinds of murders"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Perpetrates murder by means of a destructive device or explosive, a weapon of mass destruction, knowing use of ammunition designed primarily to penetrate metal or armor, poison, lying in wait, torture, or by any other kind of willful, deliberate, and premeditated killing; or commits murder in the perpetration of, or attempt to perpetrate, arson, rape, carjacking, robbery, burglary, mayhem, kidnapping, train wrecking, or any act punishable under Section 206, 286, 287, 288, or 289, or former Section 288a; or perpetrates murder by discharging a firearm from a motor vehicle, intentionally at another person outside of the vehicle with the intent to inflict death",
+     "ways": [
+      "destructive device or explosive",
+      "weapon of mass destruction",
+      "ammunition designed primarily to penetrate metal or armor",
+      "poison",
+      "lying in wait",
+      "torture",
+      "willful, deliberate, and premeditated killing",
+      "felony murder",
+      "discharging a firearm from a motor vehicle"
+     ],
+     "tags": [],
+     "conditions": [
+      "The killing is murder of the first degree"
+     ],
+     "exceptions": [
+      "A participant in a listed felony in which a death occurs is liable for murder only if the person was the actual killer; or, with intent to kill, aided or abetted the actual killer in first degree murder; or was a major participant in the underlying felony and acted with reckless indifference to human life",
+      "That limit does not apply when the victim is a peace officer killed in the course of duties and the defendant knew or reasonably should have known the victim was a peace officer"
+     ],
+     "defenses": [],
+     "terms": [
+      "\"Destructive device\": same meaning as in Section 16460",
+      "\"Explosive\": same meaning as in Section 12000 of the Health and Safety Code",
+      "\"Weapon of mass destruction\": any item defined in Section 11417"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits any other kind of murder",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The murder is of the second degree"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "189.1": {
+  "review": {
+   "title": "Peace officer murder declaration",
+   "isOffense": false,
+   "plain": "States the Legislature's finding that willful, deliberate, premeditated killing of a peace officer is first degree murder and that the section declares existing law."
+  }
+ },
+ "189.5": {
+  "review": {
+   "title": "Burden of proof in murder trial",
+   "isOffense": false,
+   "plain": "Places on the defendant the burden of proving mitigation, justification or excuse once the killing is proved at a murder trial."
+  }
+ },
+ "190": {
+  "review": {
+   "title": "Punishment for murder",
+   "isOffense": true,
+   "plain": "First degree murder is punished by death, life without parole, or 25 years to life; second degree murder by 15 years to life, with longer terms when a peace officer is killed.",
+   "category": "Violence & Threats",
+   "maxYears": 1000,
+   "acts": [
+    "Every person guilty of murder in the first degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits murder in the first degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is guilty of murder in the first degree"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "The penalty to be applied is determined as provided in Sections 190.1, 190.2, 190.3, 190.4, and 190.5",
+      "Section 2930 article credits do not reduce any minimum term; no release on parole before serving the minimum term"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Death, imprisonment in the state prison for life without the possibility of parole, or imprisonment in the state prison for a term of 25 years to life",
+       "min": null,
+       "max": 1000,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Commits murder in the second degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person is guilty of murder in the second degree"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "No release on parole prior to serving the minimum term of confinement prescribed by this section"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for a term of 15 years to life",
+       "min": 15,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      },
+      {
+       "if": "the victim was a peace officer killed while engaged in the performance of duties, and the defendant knew or reasonably should have known the victim was a peace officer engaged in the performance of duties",
+       "penalty": "Imprisonment in the state prison for a term of 25 years to life",
+       "min": 25,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      },
+      {
+       "if": "the victim was such a peace officer and any of these facts has been charged and found true: intent to kill the peace officer; intent to inflict great bodily injury on a peace officer; personal use of a dangerous or deadly weapon; personal use of a firearm",
+       "penalty": "Imprisonment in the state prison for a term of life without the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": [
+        "no parole"
+       ]
+      },
+      {
+       "if": "the killing was perpetrated by shooting a firearm from a motor vehicle, intentionally at another person outside the vehicle with the intent to inflict great bodily injury",
+       "penalty": "Imprisonment in the state prison for a term of 20 years to life",
+       "min": 20,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "190.03": {
+  "review": {
+   "title": "Hate crime first degree murder",
+   "isOffense": true,
+   "plain": "First-degree murder that is a hate crime is punished by life in state prison without the possibility of parole.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "maxPlus": true,
+   "acts": [
+    "commits first-degree murder that is a hate crime"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits first-degree murder that is a hate crime",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The allegation is charged in the accusatory pleading and admitted by the defendant or found true by the trier of fact"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"Hate crime\": same meaning as in Section 422.55"
+     ],
+     "consequences": [
+      "Court shall not strike the allegation except in the interest of justice, stating its reasons in writing",
+      "Punishment may instead be imposed under any other provision of law that imposes a greater or more severe punishment"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for life without the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "190.05": {
+  "review": {
+   "title": "Second degree murder after prior murder term",
+   "isOffense": true,
+   "plain": "A person guilty of second degree murder who served a prior prison term for murder gets life without parole or 15 years to life.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "acts": [
+    "found guilty of murder in the second degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits murder in the second degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The defendant has served a prior prison term for murder in the first or second degree",
+      "The fact of the prior prison term is alleged in the accusatory pleading and admitted or found true"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "Separate penalty hearing before the same trier of fact",
+      "If the trier of fact finds aggravating circumstances outweigh mitigating, life without the possibility of parole; if mitigating outweigh aggravating, 15 years to life"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Confinement in the state prison for a term of life without the possibility of parole or confinement in the state prison for a term of 15 years to life",
+       "min": 15,
+       "max": 999,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "190.1": {
+  "review": {
+   "title": "Phases of capital trial",
+   "isOffense": false,
+   "plain": "Requires a case in which the death penalty may be imposed to be tried in separate phases: guilt, special circumstances, sanity, then penalty."
+  }
+ },
+ "190.2": {
+  "review": {
+   "title": "Special circumstances murder penalty",
+   "isOffense": true,
+   "plain": "First degree murder with a listed special circumstance is punished by death or life in prison without parole; aiders with intent to kill, and certain major participants, face the same penalty.",
+   "category": "Violence & Threats",
+   "maxYears": 1000,
+   "acts": [
+    "Every person, not the actual killer, who, with the intent to kill, aids, abets, counsels, commands, induces, solicits, requests, or assists any actor in the commission of murder in the first degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits murder in the first degree with one or more special circumstances found true",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "One or more listed special circumstances (financial gain, prior murder conviction, more than one murder, destructive device, avoiding arrest or escape, peace officer, federal officer, firefighter, witness, prosecutor, judge, official, especially heinous murder, lying in wait, race or nationality, listed felonies, torture, poison, juror, firearm from a motor vehicle, criminal street gang) has been found under Section 190.4 to be true"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "terms": [
+      "\"especially heinous, atrocious, or cruel, manifesting exceptional depravity\": a conscienceless or pitiless crime that is unnecessarily torturous to the victim",
+      "\"juvenile proceeding\": a proceeding brought pursuant to Section 602 or 707 of the Welfare and Institutions Code",
+      "\"motor vehicle\": any vehicle as defined in Section 415 of the Vehicle Code"
+     ],
+     "consequences": [
+      "The penalty is determined as provided in this section and Sections 190.1, 190.3, 190.4, and 190.5",
+      "An actual killer need not have had intent to kill unless intent to kill is specifically required for the special circumstance"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Death or imprisonment in the state prison for life without the possibility of parole",
+       "min": null,
+       "max": 1000,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Aids, abets, counsels, commands, induces, solicits, requests, or assists any actor in the commission of murder in the first degree",
+     "ways": [
+      "aids",
+      "abets",
+      "counsels",
+      "commands",
+      "induces",
+      "solicits",
+      "requests",
+      "assists"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person is not the actual killer",
+      "One or more special circumstances enumerated in subdivision (a) has been found true under Section 190.4"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to kill"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Death or imprisonment in the state prison for life without the possibility of parole",
+       "min": null,
+       "max": 1000,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Aids, abets, counsels, commands, induces, solicits, requests, or assists in the commission of a felony enumerated in paragraph (17) of subdivision (a) which results in the death of some person or persons",
+     "ways": [
+      "aids",
+      "abets",
+      "counsels",
+      "commands",
+      "induces",
+      "solicits",
+      "requests",
+      "assists"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person is not the actual killer",
+      "The person is found guilty of murder in the first degree",
+      "A special circumstance in paragraph (17) of subdivision (a) has been found true under Section 190.4"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "With reckless indifference to human life and as a major participant"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Death or imprisonment in the state prison for life without the possibility of parole",
+       "min": null,
+       "max": 1000,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "190.25": {
+  "review": {
+   "title": "Murder of transit worker",
+   "isOffense": true,
+   "plain": "First degree murder of an on-duty transit driver or ticket agent, with a special circumstance found true, is punished by life in prison without parole, including for intentional aiders.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "acts": [
+    "Every person whether or not the actual killer found guilty of intentionally aiding, abetting, counseling, commanding, inducing, soliciting, requesting, or assisting any actor in the commission of murder in the first degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits murder in the first degree of the operator or driver of a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle operated on land used for the transportation of persons for hire, or of a station agent or ticket agent for the entity providing such transportation",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim was intentionally killed while engaged in the course of the performance of duties",
+      "The special circumstance has been charged and specially found under Section 190.4 to be true"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or reasonably should have known the victim was such an operator, driver, or agent engaged in the performance of duties"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Confinement in state prison for a term of life without the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Aids, abets, counsels, commands, induces, solicits, requests, or assists any actor in the commission of murder in the first degree",
+     "ways": [
+      "aids",
+      "abets",
+      "counsels",
+      "commands",
+      "induces",
+      "solicits",
+      "requests",
+      "assists"
+     ],
+     "tags": [],
+     "conditions": [
+      "Whether or not the actual killer",
+      "One or more of the special circumstances in subdivision (a) has been charged and specially found under Section 190.4 to be true"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intentionally"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Confinement in state prison for a term of life without the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "190.3": {
+  "review": {
+   "title": "Penalty phase of capital case",
+   "isOffense": false,
+   "plain": "Sets how the trier of fact decides between death and life without parole, including the evidence and factors considered."
+  }
+ },
+ "190.4": {
+  "review": {
+   "title": "Special circumstance findings",
+   "isOffense": false,
+   "plain": "Sets procedures for finding special circumstances, the penalty hearing, and review of a death verdict."
+  }
+ },
+ "190.41": {
+  "review": {
+   "title": "Corpus delicti in felony special circumstances",
+   "isOffense": false,
+   "plain": "Says the corpus delicti of a felony-based special circumstance need not be proved independently of the defendant's extrajudicial statement."
+  }
+ },
+ "190.5": {
+  "review": {
+   "title": "Murder by a minor, penalty limits",
+   "isOffense": true,
+   "plain": "Death cannot be imposed on a person under 18; a 16- or 17-year-old guilty of special circumstances first degree murder gets life without parole or, at the court's discretion, 25 years to life.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "acts": [
+    "guilty of murder in the first degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(b)",
+     "act": "Commits murder in the first degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "One or more special circumstances enumerated in Section 190.2 or 190.25 has been found true under Section 190.4",
+      "The defendant was 16 years of age or older and under the age of 18 at the time of the crime"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "The death penalty shall not be imposed upon any person under the age of 18 at the time of the crime; the burden of proof as to age is on the defendant"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Confinement in the state prison for life without the possibility of parole or, at the discretion of the court, 25 years to life",
+       "min": 25,
+       "max": 999,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "190.6": {
+  "review": {
+   "title": "Expediting capital appeals",
+   "isOffense": false,
+   "plain": "Declares legislative goals and time limits for briefing and deciding appeals in death penalty cases."
+  }
+ },
+ "190.7": {
+  "review": {
+   "title": "Record in capital appeals",
+   "isOffense": false,
+   "plain": "Defines what the entire record on appeal includes in a death penalty case."
+  }
+ },
+ "190.8": {
+  "review": {
+   "title": "Certifying capital case record",
+   "isOffense": false,
+   "plain": "Sets deadlines and duties for certifying the record on appeal where a death sentence has been imposed."
+  }
+ },
+ "190.9": {
+  "review": {
+   "title": "Reporting in capital cases",
+   "isOffense": false,
+   "plain": "Requires all superior court proceedings in a possible death penalty case to be reported and transcribed."
+  }
+ },
+ "191": {
+  "review": {
+   "title": "Petit treason abolished",
+   "isOffense": false,
+   "plain": "Abolishes the common-law rules of petit treason, making those killings ordinary homicides."
+  }
+ },
+ "191.5": {
+  "review": {
+   "title": "Vehicular manslaughter while intoxicated",
+   "isOffense": true,
+   "plain": "Killing a person while driving in violation of listed Vehicle Code intoxication sections is gross vehicular manslaughter (4 to 10 years) or vehicular manslaughter while intoxicated (up to 4 years); repeat offenders face 15 years to life.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "maxPlus": true,
+   "acts": [
+    "the unlawful killing of a human being without malice aforethought, in the driving of a vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits the unlawful killing of a human being without malice aforethought, in the driving of a vehicle (gross vehicular manslaughter while intoxicated)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The driving was in violation of Section 23140, 23152, or 23153 of the Vehicle Code",
+      "The killing was the proximate result of an unlawful act, not amounting to a felony, or of a lawful act that might produce death, in an unlawful manner",
+      "For the 15 years to life term, the prior-conviction fact is alleged in the information or indictment and admitted or found true"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "With gross negligence"
+     ],
+     "consequences": [
+      "If granted probation, the period of probation shall be not less than three nor more than five years",
+      "Article 2.5 of Chapter 7 of Title 1 of Part 3 (Section 2930) shall apply to reduce the 15 years to life term"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 4, 6, or 10 years",
+       "min": null,
+       "max": 10,
+       "flags": []
+      },
+      {
+       "if": "the person has one or more prior convictions of this section, of paragraph (1) of subdivision (c) of Section 192, subdivision (a) or (b) of Section 192.5, or of violating Section 23152 punishable under listed sections, or convicted of Section 23153, of the Vehicle Code",
+       "penalty": "Imprisonment in the state prison for a term of 15 years to life",
+       "min": 15,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits the unlawful killing of a human being without malice aforethought, in the driving of a vehicle (vehicular manslaughter while intoxicated)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The driving was in violation of Section 23140, 23152, or 23153 of the Vehicle Code",
+      "The killing was the proximate result of an unlawful act, not amounting to a felony, or of a lawful act that might produce death, in an unlawful manner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Without gross negligence"
+     ],
+     "consequences": [
+      "If granted probation, the period of probation shall be not less than three nor more than five years"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months or two or four years",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "192": {
+  "review": {
+   "title": "Manslaughter defined",
+   "isOffense": true,
+   "plain": "Manslaughter is the unlawful killing of a human being without malice: voluntary, involuntary, or vehicular. This section sets no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "the unlawful killing of a human being without malice"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits the unlawful killing of a human being without malice upon a sudden quarrel or heat of passion (voluntary manslaughter)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The killing is upon a sudden quarrel or heat of passion"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits the unlawful killing of a human being without malice in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act which might produce death, in an unlawful manner, or without due caution and circumspection (involuntary manslaughter)",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to a felony",
+      "in the commission of a lawful act which might produce death, in an unlawful manner, or without due caution and circumspection"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This subdivision does not apply to acts committed in the driving of a vehicle"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Drives a vehicle in the commission of an unlawful act, not amounting to a felony; or drives a vehicle in the commission of a lawful act which might produce death, in an unlawful manner, causing an unlawful killing without malice",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to a felony",
+      "in the commission of a lawful act which might produce death, in an unlawful manner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (a) of Section 191.5"
+     ],
+     "defenses": [],
+     "mentalState": [
+      "With gross negligence"
+     ],
+     "terms": [
+      "\"Gross negligence\": may include, based on the totality of the circumstances, participating in a sideshow, engaging in a motor vehicle speed contest, or speeding over 100 miles per hour"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(2)",
+     "act": "Drives a vehicle in the commission of an unlawful act, not amounting to a felony; or drives a vehicle in the commission of a lawful act which might produce death, in an unlawful manner, causing an unlawful killing without malice",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to a felony",
+      "in the commission of a lawful act which might produce death, in an unlawful manner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Without gross negligence"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(3)",
+     "act": "Drives a vehicle in connection with a violation of paragraph (3) of subdivision (a) of Section 550, causing an unlawful killing without malice",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The collision or accident proximately resulted in the death of any person"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "The vehicular collision or vehicular accident was knowingly caused for financial gain"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "192.5": {
+  "review": {
+   "title": "Vehicular manslaughter in a vessel",
+   "isOffense": true,
+   "plain": "Unlawfully killing a person without malice while operating a vessel is vehicular manslaughter; fleeing the scene adds five years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 5,
+   "maxPlus": true,
+   "acts": [
+    "Operating a vessel in the commission of an unlawful act, not amounting to a felony, and with gross negligence"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Operates a vessel in violation of subdivision (b), (c), (d), (e), or (f) of Section 655 of the Harbors and Navigation Code, and in the commission of an unlawful act, not amounting to felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to felony",
+      "in the commission of a lawful act that might produce death, in an unlawful manner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "With gross negligence"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Operates a vessel in violation of subdivision (b), (c), (d), (e), or (f) of Section 655 of the Harbors and Navigation Code, and in the commission of an unlawful act, not amounting to felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to felony",
+      "in the commission of a lawful act that might produce death, in an unlawful manner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Without gross negligence"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Operates a vessel in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to a felony",
+      "in the commission of a lawful act that might produce death, in an unlawful manner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "With gross negligence"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Operates a vessel in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+     "ways": [
+      "in the commission of an unlawful act, not amounting to a felony",
+      "in the commission of a lawful act that might produce death, in an unlawful manner"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Without gross negligence"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(e)",
+     "act": "Flees the scene of the crime after committing a violation of subdivision (a), (b), or (c)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Upon conviction",
+      "The allegation is charged in the accusatory pleading and admitted by the defendant or found true by the trier of fact"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "The court shall not strike a finding or allegation under this subdivision"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "In addition and consecutive to the punishment prescribed, an additional term of imprisonment of five years in the state prison",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "consecutive"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "193": {
+  "review": {
+   "title": "Punishment for manslaughter",
+   "isOffense": true,
+   "plain": "Voluntary manslaughter carries 3, 6, or 11 years in state prison; involuntary manslaughter and vehicular manslaughter carry lower or alternative terms set out by type.",
+   "category": "Violence & Threats",
+   "maxYears": 11,
+   "maxPlus": true,
+   "acts": [
+    "A violation of paragraph (1) of subdivision (c) of Section 192",
+    "A violation of paragraph (2) of subdivision (c) of Section 192",
+    "A violation of paragraph (3) of subdivision (c) of Section 192"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits voluntary manslaughter",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 3, 6, or 11 years",
+       "min": null,
+       "max": 11,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits involuntary manslaughter",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+       "min": null,
+       "max": 4,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Violates paragraph (1) of subdivision (c) of Section 192",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for not more than one year or imprisonment in the state prison for two, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(2)",
+     "act": "Violates paragraph (2) of subdivision (c) of Section 192",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for not more than one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(3)",
+     "act": "Violates paragraph (3) of subdivision (c) of Section 192",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 4, 6, or 10 years",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "193.5": {
+  "review": {
+   "title": "Punishment for vessel manslaughter",
+   "isOffense": true,
+   "plain": "Sets penalties for manslaughter committed while operating a vessel, from up to one year in county jail to 4, 6, or 10 years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 10,
+   "maxPlus": true,
+   "acts": [
+    "A violation of subdivision (a) of Section 192.5",
+    "A violation of subdivision (b) of Section 192.5",
+    "A violation of subdivision (c) of Section 192.5",
+    "A violation of subdivision (d) of Section 192.5"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Violates subdivision (a) of Section 192.5",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 4, 6, or 10 years",
+       "min": null,
+       "max": 10,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Violates subdivision (b) of Section 192.5",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year or by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months or two or four years",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Violates subdivision (c) of Section 192.5",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for not more than one year or by imprisonment in the state prison for two, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Violates subdivision (d) of Section 192.5",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for not more than one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "193.7": {
+  "review": {
+   "title": "Habitual traffic offender designation",
+   "isOffense": false,
+   "plain": "Designates a person convicted of vehicular manslaughter while intoxicated with two or more recent Vehicle Code violations as a habitual traffic offender for three years."
+  }
+ },
+ "193.8": {
+  "review": {
+   "title": "Lending vehicle to intoxicated minor",
+   "isOffense": true,
+   "plain": "An adult who lets an intoxicated minor drive their vehicle, where the minor is later convicted of a listed offense, faces a fine up to $1,000 or up to six months in county jail.",
+   "category": "Transportation & Aviation",
+   "maxYears": 0.5,
+   "acts": [
+    "shall not relinquish possession of the vehicle to a minor for the purpose of driving"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Relinquishes possession of a motor vehicle to a minor for the purpose of driving",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "A petition was sustained or the minor was convicted of a violation of Section 23103 as specified in Section 23103.5, 23140, 23152, or 23153 of the Vehicle Code or a violation of Section 191.5 or subdivision (a) of Section 192.5",
+      "The minor does not otherwise have a lawful right to possession of the vehicle"
+     ],
+     "exceptions": [
+      "Commercial bailments, motor vehicle leases, or parking arrangements, whether or not for compensation, provided by hotels, motels, or food facilities for customers, guests, or other invitees"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knew or reasonably should have known that the minor was intoxicated at the time possession was relinquished"
+     ],
+     "who": "An adult who is the registered owner of a motor vehicle or in possession of a motor vehicle",
+     "consequences": [
+      "The adult is not subject to driver's license suspension or revocation or attendance at a licensed alcohol or drug education and counseling program"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in a county jail not exceeding six months, or both the fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "194": {
+  "review": {
+   "title": "Death after three years and a day",
+   "isOffense": false,
+   "plain": "Says death need not occur within three years and a day for a killing to be murder or manslaughter, but later death raises a rebuttable presumption the killing was not criminal."
+  }
+ },
+ "195": {
+  "review": {
+   "title": "Excusable homicide",
+   "isOffense": false,
+   "plain": "Lists the cases in which a homicide is excusable."
+  }
+ },
+ "196": {
+  "review": {
+   "title": "Justifiable homicide by peace officers",
+   "isOffense": false,
+   "plain": "Lists the circumstances in which homicide by peace officers and those aiding them is justifiable."
+  }
+ }
+}

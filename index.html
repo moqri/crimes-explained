@@ -252,7 +252,7 @@
 <body>
 <main>
   <header>
-    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">Federal</a><a href="ma/">MA</a></nav><!-- /jur:nav -->
+    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">Federal</a><a href="ma/">Massachusetts</a><a href="ca/">California</a></nav><!-- /jur:nav -->
     <h1>Crimes Explained: Federal</h1>
     <!-- jur:lede --><p class="lede">Every crime in <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partI.htm" target="_blank" rel="noopener" title="Title 18, Part I (Crimes): full official text on GovInfo">Title 18</a> of the <a href="https://www.govinfo.gov/app/collection/uscode" target="_blank" rel="noopener" title="The United States Code on GovInfo">United States Code</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
@@ -315,8 +315,8 @@
 
 <script>
   const $ = id => document.getElementById(id);
-  // Which law this page shows: the federal code (index.html) or Massachusetts (ma/index.html, data-jur="ma").
-  const JUR = document.documentElement.dataset.jur || 'us', MA = JUR === 'ma';
+  // Which law this page shows: the federal code (index.html), Massachusetts (ma/index.html, data-jur="ma") or California (ca/index.html, data-jur="ca").
+  const JUR = document.documentElement.dataset.jur || 'us', MA = JUR === 'ma', CA = JUR === 'ca';
   const list = $('list'), q = $('q'), chapterSel = $('chapter'), catSel = $('category'), sevSel = $('severity'),
         sortSel = $('sort'), fulltext = $('fulltext'), pop = $('pop');
   let crimes = [], bySection = new Map();
@@ -383,9 +383,25 @@
   // Variants that share a definition with another entry; kept out of the glossary list at the bottom of the page.
   const GLOSS_HIDDEN = new Set(['having knowledge', 'with knowledge', 'has knowledge', 'had knowledge', 'knows', 'knew', 'aware that', 'knowing', 'in order to', 'for the purpose of', 'intending', 'counterfeit', 'with the intent to', 'fine under this title', 'with the purpose of', 'has reason to believe',
     'has reasonable cause to believe', 'has reason to know', 'with the intent that']);
-  if (MA) {   // Massachusetts meanings replace the federal ones; federal-only terms are dropped
-    const FED_ONLY = new Set(['fine under this title', 'fined under this title', 'special maritime and territorial jurisdiction of the United States', 'interstate or foreign commerce']);
-    const MA_TERMS = [
+  if (MA || CA) {   // Massachusetts / California meanings replace the federal ones; federal-only terms are dropped
+    const FED_ONLY = new Set(['fine under this title', 'fined under this title', 'special maritime and territorial jurisdiction of the United States', 'interstate or foreign commerce', ...(CA ? ['any term of years or for life'] : [])]);
+    const MA_TERMS = CA ? [
+      ['felony', 'Felony', 'In California, a crime punishable by death, by imprisonment in the state prison, or by imprisonment in a county jail under Penal Code § 1170(h) (Pen. Code § 17). Every other crime is a misdemeanor or an infraction.'],
+      ['misdemeanor', 'Misdemeanor', 'In California, a crime that is not a felony or an infraction. Unless the law says otherwise it carries up to six months in county jail, a fine of up to $1,000, or both (Pen. Code § 19); many carry up to one year.'],
+      ['wobbler', 'Wobbler', 'A crime that can be punished either as a felony or as a misdemeanor, depending on the sentence the judge imposes or the charge the prosecutor files (Pen. Code § 17(b)).'],
+      ['state prison', 'State prison', 'A California state prison, used for longer sentences. A crime punishable there is a felony.'],
+      ['county jail', 'County jail', 'A local jail run by a county. Misdemeanor sentences are served there, as are felony sentences imposed under Penal Code § 1170(h).'],
+      ['serious bodily injury', 'Serious bodily injury', 'A serious impairment of physical condition, including loss of consciousness, concussion, bone fracture, protracted loss or impairment of function of a body part or organ, a wound requiring extensive suturing, and serious disfigurement (as defined in Pen. Code § 243(f)).'],
+      ['great bodily injury', 'Great bodily injury', 'A significant or substantial physical injury, more than minor or moderate harm (Pen. Code § 12022.7(f)).'],
+      ['bodily injury', 'Bodily injury', 'Physical harm to a person, such as a cut, bruise or broken bone.'],
+      ['deadly weapon', 'Deadly weapon', 'An object used in a way that is capable of causing, and likely to cause, death or great bodily injury (as courts apply the term). Some items, such as firearms, are deadly weapons by their nature.'],
+      ['malice aforethought', 'Malice aforethought', 'The state of mind required for murder. Malice is express when there is a deliberate intention to unlawfully take a life, and implied when there is no considerable provocation or the circumstances show an abandoned and malignant heart (Pen. Code § 188).'],
+      ['willfully', 'Willfully', 'With a purpose or willingness to do the act. It does not require an intent to break the law, to hurt anyone, or to gain anything (Pen. Code § 7).'],
+      ['maliciously', 'Maliciously', 'With a wish to vex, annoy or injure another person, or with an intent to do a wrongful act (Pen. Code § 7).'],
+      ['knowingly', 'Knowingly', 'Knowing the facts that make the act a crime. It does not require knowing that the act is unlawful (Pen. Code § 7).'],
+      ['attempts', 'Attempts', 'Tries to commit a crime: a specific intent to commit it plus a direct but ineffectual act toward it (Pen. Code § 21a).'],
+      ['conspires', 'Conspires', 'Agrees with at least one other person to commit a crime, and one of them does an act to carry out the agreement (Pen. Code §§ 182, 184).'],
+    ] : [
       ['felony', 'Felony', 'In Massachusetts, a crime that can be punished by imprisonment in the state prison (G.L. c. 274, § 1). Every other crime is a misdemeanor.'],
       ['misdemeanor', 'Misdemeanor', 'In Massachusetts, a crime that cannot be punished by state prison time; the most it carries is usually up to 2½ years in a house of correction.'],
       ['state prison', 'State prison', 'A Massachusetts prison for longer sentences. A crime that can be punished there is a felony.'],
@@ -424,11 +440,19 @@
     { id: '1', label: 'Up to 1 year', test: y => y > 0 && y <= 1, color: 'var(--sev-1)' },
     { id: 'fine', label: 'Fine only', test: y => y === 0, color: 'var(--sev-0)' },
     { id: 'other', label: 'See penalty details', test: y => y == null, color: 'var(--sev-0)' });
+  if (CA) TIERS.splice(0, TIERS.length,   // death or life at the top; county jail up to 1 year is the misdemeanor ceiling
+    { id: 'life', label: 'Life in prison or death', test: y => y >= 999, color: 'var(--sev-5)' },
+    { id: '10', label: 'Up to 10+ years', test: y => y >= 10 && y < 999, color: 'var(--sev-4)' },
+    { id: '3', label: 'Up to 3–9 years', test: y => y >= 3 && y < 10, color: 'var(--sev-3)' },
+    { id: '2', label: 'Up to 2 years', test: y => y > 1 && y < 3, color: 'var(--sev-2)' },
+    { id: '1', label: 'Up to 1 year (county jail)', test: y => y > 0 && y <= 1, color: 'var(--sev-1)' },
+    { id: 'fine', label: 'Fine only', test: y => y === 0, color: 'var(--sev-0)' },
+    { id: 'other', label: 'See penalty details', test: y => y == null, color: 'var(--sev-0)' });
   const tierOf = y => TIERS.find(t => t.test(y));
   const yrs = y => y % 1 === .5 ? `${Math.floor(y) || ''}½` : y % 1 === .75 ? `${Math.floor(y) || ''}¾` : `${+y.toFixed(1)}`;
   // Section label: "§ 1001" (federal) or "c. 265, § 13A" (Massachusetts); page address relative to the list page.
   const secLabel = c => c.cite || `§ ${c.section}`;
-  const PAGE_DIR = MA ? '' : '18/';
+  const PAGE_DIR = JUR === 'us' ? '18/' : '';
   const sevLabel = y => y == null ? 'See penalty details' : y >= 1000 ? 'Death penalty possible' : y === 999 ? 'Up to life'
     : y === 0 ? 'Fine only' : y < 0.2 ? `Up to ${Math.round(y * 365)} days` : y < 1 ? `Up to ${Math.round(y * 12)} months`
     : y > 1 && y < 1.01 ? 'Up to 1 year + 1 day' : `Up to ${yrs(y)} year${y === 1 ? '' : 's'}`;
@@ -452,6 +476,57 @@
     String.raw`\b(?<thisCh>this chapter)\b`,
     String.raw`(?<![A-Za-z])(?<maSW>sections?)\s+(?<maSL>${MA_LIST})`,
   ];
+  // California citations: "Section 187", "Sections 187 to 199, inclusive", "subdivision (a) of Section 12022.5", "Section 1170 of this code",
+  // "Section 11350 of the Health and Safety Code", "Chapter 1 (commencing with Section 187)". Numbers may carry decimals and a letter (273.5, 1203.4a).
+  const CA_NUM = String.raw`\d+(?:\.\d+)*(?:[a-z](?![A-Za-z0-9]))?(?:\([A-Za-z0-9]+\))*`;
+  const CA_LIST = String.raw`${CA_NUM}(?:(?:,\s*(?:and\s+|or\s+)?|\s+(?:and|or|to|through)\s+)(?:Sections?\s+)?${CA_NUM})*`;
+  const CA_SUBS = String.raw`(?:subdivisions?|paragraphs?|subparagraphs?|clauses?)\s+\([A-Za-z0-9]+\)(?:(?:\s*,\s*(?:and\s+|or\s+)?|\s+(?:and|or|to|through)\s+)\([A-Za-z0-9]+\))*`;
+  const CA_CITES = [
+    String.raw`(?<![A-Za-z])(?<caChW>Chapters?|Articles?|Divisions?|Parts?|Titles?)\s+(?<caChN>[\d.]+[A-Za-z]?)\s+\(commencing with Section\s+(?<caChS>${CA_NUM})\)`,
+    String.raw`\b(?<thisCh>[Tt]his chapter)\b`,
+    String.raw`(?<![A-Za-z])(?<caPre>(?:${CA_SUBS}(?:\s+of\s+|,\s+))*)(?<caW>Sections?)\s+(?<caL>${CA_LIST})(?:,?\s+inclusive,?)?`,
+  ];
+  const CA_CODES = { 'penal': ['PEN', 'Penal Code'], 'health and safety': ['HSC', 'Health and Safety Code'], 'welfare and institutions': ['WIC', 'Welfare and Institutions Code'],
+    'vehicle': ['VEH', 'Vehicle Code'], 'government': ['GOV', 'Government Code'], 'civil': ['CIV', 'Civil Code'], 'family': ['FAM', 'Family Code'],
+    'business and professions': ['BPC', 'Business and Professions Code'], 'education': ['EDC', 'Education Code'], 'public resources': ['PRC', 'Public Resources Code'],
+    'insurance': ['INS', 'Insurance Code'], 'labor': ['LAB', 'Labor Code'], 'corporations': ['CORP', 'Corporations Code'], 'evidence': ['EVID', 'Evidence Code'],
+    'probate': ['PROB', 'Probate Code'], 'fish and game': ['FGC', 'Fish and Game Code'], 'financial': ['FIN', 'Financial Code'], 'elections': ['ELEC', 'Elections Code'],
+    'military and veterans': ['MVC', 'Military and Veterans Code'], 'public utilities': ['PUC', 'Public Utilities Code'], 'revenue and taxation': ['RTC', 'Revenue and Taxation Code'],
+    'streets and highways': ['SHC', 'Streets and Highways Code'], 'unemployment insurance': ['UIC', 'Unemployment Insurance Code'], 'harbors and navigation': ['HNC', 'Harbors and Navigation Code'],
+    'food and agricultural': ['FAC', 'Food and Agricultural Code'], 'water': ['WAT', 'Water Code'], 'public contract': ['PCC', 'Public Contract Code'], 'commercial': ['COM', 'Commercial Code'],
+    'code of civil procedure': ['CCP', 'Code of Civil Procedure'] };
+  const CA_NAMES = Object.keys(CA_CODES).filter(k => k !== 'code of civil procedure').join('|');
+  // Which law a cited section belongs to, from the words after it: null = another law (not linked), {code} = a California code, {fed} = a U.S. Code title.
+  function caOwner(a) {
+    if (a.startsWith(')')) a = a.slice(1).slice(a.slice(1).match(CA_CHAIN)[0].length);   // "Chapter 6.5 (commencing with Section 2840) of Division 2 of the …"
+    const spec = a.match(new RegExp(String.raw`^\s+as (?:specified|described) in\s+(?:Sections?\s+)?${CA_LIST}`)); if (spec) a = a.slice(spec[0].length);   // "Section 23103 as specified in Section 23103.5 … of the Vehicle Code"
+    if (/^\s*,?\s+of\s+this\s+(?:code|title|chapter|part|article|division)\b/i.test(a)) return { code: 'PEN' };
+    let m = a.match(new RegExp(String.raw`^\s*,?\s+of\s+the\s+(?:California\s+)?(?:(${CA_NAMES})\s+Code|(Code of Civil Procedure))\b`, 'i'));
+    if (m) return { code: CA_CODES[(m[1] || m[2]).toLowerCase()][0] };
+    if ((m = a.match(/^\s+of\s+Title\s+(\d+)\s+of\s+the\s+United\s+States\s+Code\b/i))) return { fed: m[1] };
+    if (/^\s*,?\s+of\s+(?:Article|Chapter|Division|Part|Title|the\s+(?:Constitution|California Constitution|Statutes|United States|Code of Federal Regulations|Federal)|this\s+act|that\s+act|the\s+[A-Z][A-Za-z' -]{2,60}\s+(?:Act|Law|Code|Rules?)\b)/.test(a)) return null;
+    return { code: 'PEN' };
+  }
+  // Sections of the Penal Code the statute text cites that do not exist (no such section on leginfo.legislature.ca.gov).
+  // (Vehicle Code sections cited without the code name in a list that names it only at the end are left unlinked too.)
+  const CA_DEAD = new Set(['PEN/1203.04', 'PEN/4131.5', 'HSC/113785', 'HSC/123400', 'PEN/23103', 'PEN/23152', 'PEN/23153', 'PEN/23540', 'PEN/23542', 'PEN/23546', 'PEN/23548', 'PEN/23550', 'PEN/23552']);
+  function caLink(code, sec, raw) {
+    const n = sec.replace(/\(.*$/, '');
+    if (CA_DEAD.has(`${code}/${n}`)) return raw;
+    const label = CA_CODES[Object.keys(CA_CODES).find(k => CA_CODES[k][0] === code)][1];
+    if (code === 'PEN' && bySection.has(n)) return `<a class="xref" href="${n}.html" title="Penal Code § ${n} on Crimes Explained">${raw}</a>`;
+    return `<a class="xref ext" href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=${code}&sectionNum=${n}" target="_blank" rel="noopener" title="${label} § ${n} on leginfo.legislature.ca.gov">${raw}</a>`;
+  }
+  // Link every number in a list ("273.5, 243(e) or 245") with `link`; one number links the whole phrase.
+  function caSections(raw, list, link) {
+    const nums = [...list.matchAll(new RegExp(CA_NUM, 'g'))];
+    if (nums.length === 1) return link(nums[0][0], esc(raw));
+    const at = raw.indexOf(list);
+    let out = esc(raw.slice(0, at)), pos = 0;
+    for (const n of nums) { out += esc(list.slice(pos, n.index)) + link(n[0], esc(n[0])); pos = n.index + n[0].length; }
+    return out + esc(list.slice(pos)) + esc(raw.slice(at + list.length));
+  }
+  const CA_CHAIN = /^(?:\s+(?:or|and)\s+[\d.]+[A-Za-z]?\s+\(commencing with Section\s+[\d.]+[a-z]?\)|\s*,?\s+of\s+(?:Parts?|Divisions?|Titles?|Chapters?|Articles?)\s+[\dA-Za-z.]+(?:\s*\(commencing with Section\s+[\d.]+[a-z]?\))?)*/;
   const NUM_VAL = Object.fromEntries(NUM_WORD.split('|').map((w, i) => [w, i < 20 ? i + 1 : i < 27 ? (i - 17) * 10 : 100]));
   // "two hundred and seventy-six" → "276", "thirteen B" → "13B", "13B½" stays.
   function maNum(t) {
@@ -471,9 +546,15 @@
     for (const n of nums) { out += esc(list.slice(pos, n.index)) + maLink(chap, maNum(n[0]), esc(n[0])); pos = n.index + n[0].length; }
     return out + esc(list.slice(pos)) + esc(raw.slice(at + list.length));
   }
+  // California penalty wording: "imprisonment in a county jail not exceeding one year", "imprisonment in the state prison for 2, 3, or 4 years",
+  // "imprisonment pursuant to subdivision (h) of Section 1170" (only the word "imprisonment" is the penalty; the citation stays a link),
+  // "punishable by death", "a fine not exceeding ten thousand dollars ($10,000)", "by both that fine and imprisonment".
+  const CN = String.raw`(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|eighteen|twenty|twenty-five|thirty)`;
+  const CA_AMT = String.raw`(?:(?:[a-z-]+ )+dollars \(\$[\d,]+(?:\.\d+)?\)|\$[\d,]+(?:\.\d+)?)`;
+  const CA_PEN = String.raw`(?<pen>(?:imprisonment|imprisoned|confinement|confined) in (?:a |the )?(?:county jail|state prison)(?: for (?:a (?:term|period) of )?(?:life(?: (?:with|without) (?:the )?possibility of parole)?|${CN}(?:(?:,\s*(?:or\s+)?|\s+or\s+)${CN})*\s+(?:years?|months?|days?)(?: to life)?)|(?: for)?(?: a (?:term|period))?(?: of)? (?:not (?:exceeding|more than|less than)|up to) [^,;.()]*?\b(?:years?|months?|days?)\b)?|(?:imprisonment|imprisoned)(?=\s+pursuant to\b)|(?:a )?(?:civil penalty|fine) (?:of |in the amount of )?(?:(?:not (?:exceeding|more than|less than)|up to) )?${CA_AMT}|by both (?:that |the |a |such )?(?:fine|imprisonment)(?: in a county jail)? and (?:that |the |a |such )?(?:imprisonment|fine)|(?:punishable|punished|sentenced) (?:by|to) death|(?:the )?penalty of death)`;
   const RX = new RegExp([
     String.raw`(?<uscT>\d+)\s+U\.S\.C\.\s+(?<uscS>\d+[a-zA-Z]*(?:[–-]\d+)?)(?<uscP>(?:\([A-Za-z0-9]+\))*)`,
-    ...(MA ? MA_CITES : [
+    ...(MA ? MA_CITES : CA ? CA_CITES : [
       String.raw`(?<![A-Za-z])(?<stW>[Ss]ection)\s+(?<stS>\d+[A-Za-z]*)(?<stP>(?:\([A-Za-z0-9]+\))*)\s+of\s+title\s+(?<stT>\d+)`,
       String.raw`\b(?<thisCh>[Tt]his chapter)\b`,
       String.raw`(?<![A-Za-z])(?<chW>[Cc]hapters?)\s+(?<chList>\d+[A-Z]?(?:(?:,\s*(?:or\s+|and\s+)?|\s+(?:or|and)\s+)\d+[A-Z]?)*)(?![\w(])`,
@@ -485,7 +566,7 @@
     // Penalties: prison terms ("imprisoned not more than 5 years", "… not more than one-half the maximum term of imprisonment"),
     // life/death, and fines with a stated amount or formula ("fined not more than one-half the maximum fine prescribed …").
     // Open-ended amounts stop before ", ; or (" or a following " or/and imprisoned|fined" so one penalty never swallows the next.
-    String.raw`(?<pen>(?:imprisonment|imprisoned) (?:in|at) (?:the |a )?(?:state prison|house of correction|jail|county jail)(?: or (?:the |a )?(?:house of correction|jail))?(?: for (?:life|(?:a term of )?(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b|(?:any )?term of years(?: or for life)?))?|(?<=\b(?:or|and|nor)\s)(?:in|at) (?:the |a )?(?:state prison|house of correction|jail)(?: or (?:the |a )?house of correction)? for (?:life|(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b)|(?:imprisoned|imprisonment|(?:an? )?(?:additional )?term of(?: imprisonment of)?)(?: for)? (?:not|no) (?:more|less) than (?:[^,;.()]*?\b(?:years?|months?|days?)\b|[^,;()]{1,90}?(?=\s+(?:or|and)\s+(?:\(|fined|imprisoned|both)|,|;|$))|(?:imprisoned|imprisonment)\s+(?:for\s+)?(?:any|a)\s+(?:term|number|period)\s+of\s+years(?:\s+(?:not|no)\s+(?:less|more)\s+than\s+\w+(?:\s+years?)?)?(?:,?\s+or\s+(?:for\s+)?life)?|(?:imprisoned|imprisonment) for (?:any term of years or for )?life|(?:imprisoned|imprisonment)(?: for)? a (?:term|period)(?: of)? (?:(?:not|no) (?:more|less) than|up to) \w+ (?:years?|months?|days?)|imprisonment of (?:(?:not|no) (?:more|less) than )?\w+ (?:years?|months?|days?)|imprisoned for not more that \w+ years?|shall (?:be not more than|not exceed) \w+ (?:years?|months?|days?)|punished by death|sentenced to death|(?:fined|a fine)(?: of)? (?:not|no) (?:more|less) than (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|[^,;()]{1,110}?(?=\s+(?:or|and)\s+|,|;|$))|fined in accordance with this title|(?:(?:shall be |is )?(?:subject|liable)[a-z ]{0,25}? (?:to|for) (?:an? )?|(?:may )?(?:impose|assess)[a-z ]{0,25}? (?:an? )?)(?:additional |mandatory (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)? )?)?civil (?:penalty|fine)(?:[^;,—(]{0,90}?(?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|the greater of|retail value of the [a-z ]+?(?= involved| at issue|[,;.])))?|fined (?:the greater of|in the amount|in an amount|a further sum|an amount not (?:greater|more) than|twice the amount|as provided (?:in|by)|for each offense)(?:(?!\s(?:sub)?section\s)[^;])*?(?=\s(?:sub)?section\s|,\s+(?:or both|imprisoned)|;|\.(?:\s|$)|\s+or\s+imprisoned|$)|(?:is|are|shall be) punishable as (?:a )?principals?|shall be punished as (?:provided|prescribed|follows)(?: (?:in|under|by))?|shall be subject to (?:the )?(?:same )?(?:penalties|punishment)(?: (?:set forth|provided|prescribed))?(?: (?:in|for|as|under))?|shall be punished(?=—|:)|(?:shall be |is )?guilty of a like offense and (?:shall be )?subject to (?:a|the) like punishment|subject to (?:a|the) like punishment|shall be punished in (?:the same|like) manner|(?<=,\s)(?:not|no) more than (?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty) (?:years?|months?|days?)\b(?!\s+(?:after|before|from|of age|old|prior))(?=,|;|\.|\s+or\b|\s+and\b|$))`,
+    CA ? CA_PEN : String.raw`(?<pen>(?:imprisonment|imprisoned) (?:in|at) (?:the |a )?(?:state prison|house of correction|jail|county jail)(?: or (?:the |a )?(?:house of correction|jail))?(?: for (?:life|(?:a term of )?(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b|(?:any )?term of years(?: or for life)?))?|(?<=\b(?:or|and|nor)\s)(?:in|at) (?:the |a )?(?:state prison|house of correction|jail)(?: or (?:the |a )?house of correction)? for (?:life|(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b)|(?:imprisoned|imprisonment|(?:an? )?(?:additional )?term of(?: imprisonment of)?)(?: for)? (?:not|no) (?:more|less) than (?:[^,;.()]*?\b(?:years?|months?|days?)\b|[^,;()]{1,90}?(?=\s+(?:or|and)\s+(?:\(|fined|imprisoned|both)|,|;|$))|(?:imprisoned|imprisonment)\s+(?:for\s+)?(?:any|a)\s+(?:term|number|period)\s+of\s+years(?:\s+(?:not|no)\s+(?:less|more)\s+than\s+\w+(?:\s+years?)?)?(?:,?\s+or\s+(?:for\s+)?life)?|(?:imprisoned|imprisonment) for (?:any term of years or for )?life|(?:imprisoned|imprisonment)(?: for)? a (?:term|period)(?: of)? (?:(?:not|no) (?:more|less) than|up to) \w+ (?:years?|months?|days?)|imprisonment of (?:(?:not|no) (?:more|less) than )?\w+ (?:years?|months?|days?)|imprisoned for not more that \w+ years?|shall (?:be not more than|not exceed) \w+ (?:years?|months?|days?)|punished by death|sentenced to death|(?:fined|a fine)(?: of)? (?:not|no) (?:more|less) than (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|[^,;()]{1,110}?(?=\s+(?:or|and)\s+|,|;|$))|fined in accordance with this title|(?:(?:shall be |is )?(?:subject|liable)[a-z ]{0,25}? (?:to|for) (?:an? )?|(?:may )?(?:impose|assess)[a-z ]{0,25}? (?:an? )?)(?:additional |mandatory (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)? )?)?civil (?:penalty|fine)(?:[^;,—(]{0,90}?(?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|the greater of|retail value of the [a-z ]+?(?= involved| at issue|[,;.])))?|fined (?:the greater of|in the amount|in an amount|a further sum|an amount not (?:greater|more) than|twice the amount|as provided (?:in|by)|for each offense)(?:(?!\s(?:sub)?section\s)[^;])*?(?=\s(?:sub)?section\s|,\s+(?:or both|imprisoned)|;|\.(?:\s|$)|\s+or\s+imprisoned|$)|(?:is|are|shall be) punishable as (?:a )?principals?|shall be punished as (?:provided|prescribed|follows)(?: (?:in|under|by))?|shall be subject to (?:the )?(?:same )?(?:penalties|punishment)(?: (?:set forth|provided|prescribed))?(?: (?:in|for|as|under))?|shall be punished(?=—|:)|(?:shall be |is )?guilty of a like offense and (?:shall be )?subject to (?:a|the) like punishment|subject to (?:a|the) like punishment|shall be punished in (?:the same|like) manner|(?<=,\s)(?:not|no) more than (?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty) (?:years?|months?|days?)\b(?!\s+(?:after|before|from|of age|old|prior))(?=,|;|\.|\s+or\b|\s+and\b|$))`,
     String.raw`(?<term>\b(?:${termAlt})\b)`,
   ].join('|'), 'gi');
 
@@ -505,10 +586,10 @@
   // Only the penalty action is red: the first penalty word ("imprisoned", "fined", "civil penalty" …), or the whole
   // "punished by death" / "sentenced to death"; words inside the amount ("… the maximum term of imprisonment") stay plain.
   const penInner = html => {
-    const death = html.match(/\b(?:punished|sentenced) (?:by|to) death\b/i);
+    const death = html.match(CA ? /\b(?:punished|punishable|sentenced) (?:by|to) death\b|\bpenalty of death\b/i : /\b(?:punished|sentenced) (?:by|to) death\b/i);
     if (death) return html.slice(0, death.index) + `<span class="pen">${death[0]}</span>` + html.slice(death.index + death[0].length);
     PEN_WORD.lastIndex = 0;
-    const m = PEN_WORD.exec(html);
+    const m = CA && /^confine(?:ment|d)\b/i.test(html) ? html.match(/^confine(?:ment|d)/i) : PEN_WORD.exec(html);
     const t = m || html.match(/\bterm\b/i);           // "a term of no more than 25 years"
     return t ? html.slice(0, t.index) + `<span class="pen">${t[0]}</span>` + html.slice(t.index + t[0].length) : html;
   };
@@ -525,6 +606,14 @@
       last = m.index + m[0].length;
       const g = m.groups, raw = esc(m[0]);
       if (g.uscT) out += xref(g.uscT, g.uscS, raw);
+      else if (g.caChS) {   // "Chapter 1 (commencing with Section 187) of …": the chapter's first section, in whichever code owns it
+        const ahead2 = ahead(last, 300), own = caOwner(ahead2.slice(ahead2.match(CA_CHAIN)[0].length));
+        out += !own ? raw : own.fed ? raw : caLink(own.code, g.caChS, raw);
+      }
+      else if (g.caL) {
+        const own = /\b(?:said|such|former)\s+$/i.test(text.slice(Math.max(0, m.index - 8), m.index)) ? null : caOwner(ahead(last, 200));
+        out += !own ? raw : own.fed ? caSections(m[0], g.caL, (n, r) => xref(own.fed, n.replace(/\(.*$/, ''), r)) : caSections(m[0], g.caL, (n, r) => caLink(own.code, n, r));
+      }
       else if (g.maSL && /\bsaid\s+$/i.test(text.slice(Math.max(0, m.index - 6), m.index))) out += raw;   // "said section 121": refers back
       else if (g.maChL && /\bsaid\s+$/i.test(text.slice(Math.max(0, m.index - 6), m.index))) out += raw;
       else if (g.maOfL) out += /^\s+of\s+the\s+(?:acts|resolves)\b/i.test(ahead(last, 30)) ? raw : maSections(m[0], g.maOfL, maNum(g.maOfC));
@@ -588,6 +677,7 @@
   const T18_PARTS = [[1, 123, 'I'], [201, 237, 'II'], [301, 319, 'III'], [401, 403, 'IV'], [601, 601, 'V']];
   let currentChapter = null;  // chapter of the section being rendered, for "this chapter"
   function chapterLink(num, label) {
+    if (CA) return `<a class="xref ext" href="https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=${num}.&article=" target="_blank" rel="noopener" title="Penal Code, Title 8, Chapter ${num} on leginfo.legislature.ca.gov">${label}</a>`;
     if (MA) return `<a class="xref ext" href="https://malegislature.gov/Laws/GeneralLaws/Chapter${num}" target="_blank" rel="noopener" title="G.L. chapter ${num} on malegislature.gov">${label}</a>`;
     const n = parseInt(num), part = T18_PARTS.find(([lo, hi]) => n >= lo && n <= hi);
     if (!part) return label;
@@ -611,7 +701,7 @@
   function xref(title, sec, raw) {
     if (/^\d+[–-]\d+$/.test(sec)) sec = sec.split(/[–-]/)[0];  // a range like 1311–1314 links to its first section
     if (DEAD.has(`${title}/${sec}`)) return raw;
-    if (title === '18' && !MA && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on Crimes Explained">${raw}</a>`;
+    if (title === '18' && JUR === 'us' && bySection.has(sec)) return `<a class="xref" href="${sec}.html" title="§ ${sec} on Crimes Explained">${raw}</a>`;
     return `<a class="xref ext" href="${usc(title, sec)}" target="_blank" rel="noopener" title="${title} U.S.C. § ${sec} on GovInfo">${raw}</a>`;
   }
   // Style the leading "(a) Heading.—" of a statute paragraph.
@@ -804,8 +894,8 @@
             ${c.plain ? `<div class="plain"><h3>Simplified explanation</h3><p>${esc(c.plain)}</p></div>` : ''}
             <div class="actions">
               <button type="button" data-copy="${esc(c.section)}">Copy link</button>
-              <a href="${c.url}" target="_blank" rel="noopener">Official page on ${MA ? 'malegislature.gov' : 'GovInfo'} ↗</a>
-              ${MA ? '' : `<a href="${c.url.replace('/html/', '/pdf/').replace(/\.htm$/, '.pdf')}" target="_blank" rel="noopener">PDF ↗</a>`}
+              <a href="${c.url}" target="_blank" rel="noopener">Official page on ${MA ? 'malegislature.gov' : CA ? 'leginfo.legislature.ca.gov' : 'GovInfo'} ↗</a>
+              ${MA || CA ? '' : `<a href="${c.url.replace('/html/', '/pdf/').replace(/\.htm$/, '.pdf')}" target="_blank" rel="noopener">PDF ↗</a>`}
             </div>
 `;
   }

@@ -1,0 +1,1412 @@
+{
+ "197": {
+  "review": {
+   "title": "Justifiable homicide",
+   "isOffense": false,
+   "plain": "Lists the cases in which a homicide is justifiable, such as resisting an attempt to murder or to commit a felony, or defending habitation, property, or person."
+  }
+ },
+ "198": {
+  "review": {
+   "title": "Fear needed to justify homicide",
+   "isOffense": false,
+   "plain": "Says a bare fear of the offenses in subdivisions 2 and 3 of Section 197 is not enough; the circumstances must excite the fears of a reasonable person."
+  }
+ },
+ "198.5": {
+  "review": {
+   "title": "Presumed fear when force used at home",
+   "isOffense": false,
+   "plain": "Creates a presumption of reasonable fear when force likely to cause death or great bodily injury is used against an unlawful and forcible entrant into one's residence, and defines great bodily injury."
+  }
+ },
+ "199": {
+  "review": {
+   "title": "Acquittal when homicide justifiable",
+   "isOffense": false,
+   "plain": "Says that when a homicide appears justifiable or excusable, the person indicted must be fully acquitted and discharged at trial."
+  }
+ },
+ "203": {
+  "review": {
+   "title": "Mayhem defined",
+   "isOffense": true,
+   "plain": "Mayhem is unlawfully and maliciously depriving a person of a body member or disabling, disfiguring, or rendering it useless; this section states no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "deprives a human being of a member of his body, or disables, disfigures, or renders it useless, or cuts or disables the tongue, or puts out an eye, or slits the nose, ear, or lip"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Deprives a human being of a member of his body, or disables, disfigures, or renders it useless, or cuts or disables the tongue, or puts out an eye, or slits the nose, ear, or lip",
+     "ways": [
+      "Deprives a human being of a member of his body",
+      "Disables, disfigures, or renders it useless",
+      "Cuts or disables the tongue",
+      "Puts out an eye",
+      "Slits the nose, ear, or lip"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Unlawfully and maliciously"
+     ]
+    }
+   ]
+  }
+ },
+ "204": {
+  "review": {
+   "title": "Punishment for mayhem",
+   "isOffense": true,
+   "plain": "Mayhem is punishable by imprisonment in the state prison for two, four, or eight years.",
+   "category": "Violence & Threats",
+   "maxYears": 8,
+   "acts": [
+    "Mayhem"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits mayhem",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, four, or eight years",
+       "min": null,
+       "max": 8,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "205": {
+  "review": {
+   "title": "Aggravated mayhem",
+   "isOffense": true,
+   "plain": "Aggravated mayhem is intentionally causing permanent disability or disfigurement, or depriving a person of a limb, organ, or member, with extreme indifference; it is punishable by life in state prison with the possibility of parole.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "acts": [
+    "intentionally causes permanent disability or disfigurement of another human being or deprives a human being of a limb, organ, or member of his or her body"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Causes permanent disability or disfigurement of another human being or deprives a human being of a limb, organ, or member of his or her body",
+     "ways": [
+      "Causes permanent disability or disfigurement of another human being",
+      "Deprives a human being of a limb, organ, or member of his or her body"
+     ],
+     "tags": [],
+     "conditions": [
+      "Unlawfully, under circumstances manifesting extreme indifference to the physical or psychological well-being of another person"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony punishable by imprisonment in the state prison for life with the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Intentionally"
+     ],
+     "consequences": [
+      "It is not necessary to prove an intent to kill"
+     ]
+    }
+   ]
+  }
+ },
+ "206": {
+  "review": {
+   "title": "Torture",
+   "isOffense": true,
+   "plain": "Torture is inflicting great bodily injury on another with intent to cause cruel or extreme pain and suffering for revenge, extortion, persuasion, or a sadistic purpose; this section states no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "inflicts great bodily injury as defined in Section 12022.7 upon the person of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Inflicts great bodily injury as defined in Section 12022.7 upon the person of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The crime of torture does not require any proof that the victim suffered pain"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to cause cruel or extreme pain and suffering for the purpose of revenge, extortion, persuasion, or for any sadistic purpose"
+     ]
+    }
+   ]
+  }
+ },
+ "206.1": {
+  "review": {
+   "title": "Punishment for torture",
+   "isOffense": true,
+   "plain": "Torture is punishable by life in state prison, with parole eligibility only after at least seven years, or ten years in the stated case involving a child 14 or younger.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "acts": [
+    "torture"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits torture",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for a term of life",
+       "min": null,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "A defendant imprisoned for torture shall not be eligible for parole until they have served at least seven years, pursuant to Section 3046",
+      "For a crime of torture committed on or after January 1, 2026, if the defendant is an adult who had care or custody of the victim and the victim was 14 years of age or younger at the time of the crime, the defendant shall not be eligible for parole until they have served at least 10 years"
+     ]
+    }
+   ]
+  }
+ },
+ "207": {
+  "review": {
+   "title": "Kidnapping",
+   "isOffense": true,
+   "plain": "Kidnapping is forcibly or by fear taking or holding a person and carrying them elsewhere, enticing a child under 14, or bringing a person into the state; this section states no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "steals or takes, or holds, detains, or arrests any person in this state, and carries the person into another country, state, or county, or into another part of the same county",
+    "hires, persuades, entices, decoys, or seduces by false promises, misrepresentations, or the like, any child under the age of 14 years to go out of this country, state, or county, or into another part of the same county",
+    "takes or holds, detains, or arrests any person, with a design to take the person out of this state",
+    "abducts or takes by force or fraud any person contrary to the law of the place where that act is committed, and brings, sends, or conveys that person within the limits of this state"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Force\" for kidnapping an unresisting infant or child: the amount of physical force required to take and carry the child away a substantial distance for an illegal purpose or with an illegal intent"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Steals or takes, or holds, detains, or arrests any person in this state, and carries the person into another country, state, or county, or into another part of the same county",
+     "ways": [
+      "Steals or takes",
+      "Holds, detains, or arrests"
+     ],
+     "tags": [],
+     "conditions": [
+      "Done forcibly, or by any other means of instilling fear",
+      "The person is carried into another country, state, or county, or into another part of the same county"
+     ],
+     "exceptions": [
+      "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+      "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Hires, persuades, entices, decoys, or seduces by false promises, misrepresentations, or the like, any child under the age of 14 years to go out of this country, state, or county, or into another part of the same county",
+     "ways": [
+      "Hires",
+      "Persuades",
+      "Entices",
+      "Decoys",
+      "Seduces by false promises, misrepresentations, or the like"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person is a child under the age of 14 years"
+     ],
+     "exceptions": [
+      "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+      "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "For the purpose of committing any act defined in Section 288"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Takes or holds, detains, or arrests any person, with a design to take the person out of this state, or hires, persuades, entices, decoys, or seduces by false promises, misrepresentations, or the like, any person to go out of this state, or to be taken or removed therefrom",
+     "ways": [
+      "Takes or holds, detains, or arrests any person, with a design to take the person out of this state",
+      "Hires, persuades, entices, decoys, or seduces any person to go out of this state, or to be taken or removed therefrom"
+     ],
+     "tags": [],
+     "conditions": [
+      "Done forcibly, or by any other means of instilling fear (for the taking or holding)",
+      "Without having established a claim, according to the laws of the United States, or of this state (for the taking or holding)"
+     ],
+     "exceptions": [
+      "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+      "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "For the purpose and with the intent to sell that person into slavery or involuntary servitude, or otherwise to employ that person for his or her own use, or to the use of another, without the free will and consent of that persuaded person"
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Abducts or takes by force or fraud any person contrary to the law of the place where that act is committed, and brings, sends, or conveys that person within the limits of this state",
+     "ways": [
+      "Abducts",
+      "Takes by force or fraud"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person is out of this state when the act is committed",
+      "The person is afterwards found within the limits of this state"
+     ],
+     "exceptions": [
+      "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+      "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "208": {
+  "review": {
+   "title": "Punishment for kidnapping",
+   "isOffense": true,
+   "plain": "Kidnapping is punishable by three, five, or eight years in state prison, or five, eight, or eleven years if the victim is under 14; probation requires 12 months in county jail except in unusual cases.",
+   "category": "Violence & Threats",
+   "maxYears": 11,
+   "acts": [
+    "Kidnapping"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits kidnapping",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The under-14 tier is not applicable to the taking, detaining, or concealing, of a minor child by a biological parent, a natural father, as specified in Section 7611 of the Family Code, an adoptive parent, or a person who has been granted access to the minor child by a court order"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, five, or eight years",
+       "min": null,
+       "max": 8,
+       "flags": []
+      },
+      {
+       "if": "the person kidnapped is under 14 years of age at the time of the commission of the crime",
+       "penalty": "Imprisonment in the state prison for 5, 8, or 11 years",
+       "min": null,
+       "max": 11,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "In all cases in which probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+      "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+     ]
+    }
+   ]
+  }
+ },
+ "209": {
+  "review": {
+   "title": "Kidnapping for ransom or to commit a crime",
+   "isOffense": true,
+   "plain": "Kidnapping for ransom, reward, or extortion is a felony punishable by life, without parole if the victim dies or is harmed; kidnapping to commit robbery or a sex offense is life with parole.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "maxPlus": true,
+   "acts": [
+    "seizes, confines, inveigles, entices, decoys, abducts, conceals, kidnaps, or carries away another person by any means whatsoever with intent to hold or detain, or who holds or detains, that person for ransom, reward, or to commit extortion or to exact from another person any money or valuable thing, or a person who aids or abets any such act",
+    "kidnaps or carries away an individual to commit robbery, rape, oral copulation, sodomy, or any violation of Section 264.1, 288, 289, or former Section 262"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Seizes, confines, inveigles, entices, decoys, abducts, conceals, kidnaps, or carries away another person by any means whatsoever with intent to hold or detain, or holds or detains, that person for ransom, reward, or to commit extortion or to exact from another person any money or valuable thing, or aids or abets any such act",
+     "ways": [
+      "Seizes, confines, inveigles, entices, decoys, abducts, conceals, kidnaps, or carries away another person",
+      "Holds or detains that person",
+      "Aids or abets any such act"
+     ],
+     "tags": [],
+     "conditions": [
+      "For ransom, reward, or to commit extortion or to exact from another person any money or valuable thing"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "a person subjected to that act suffers death or bodily harm, or is intentionally confined in a manner that exposes that person to a substantial likelihood of death",
+       "penalty": "Imprisonment in the state prison for life without possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": [
+        "no parole"
+       ]
+      },
+      {
+       "if": "no person subjected to that act suffers death or bodily harm",
+       "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "When probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+      "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Kidnaps or carries away an individual to commit robbery, rape, oral copulation, sodomy, or any violation of Section 264.1, 288, 289, or former Section 262",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The movement of the victim is beyond that merely incidental to the commission of, and increases the risk of harm to the victim over and above that necessarily present in, the intended underlying offense"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Subdivision (b) does not supersede or affect Section 667.61",
+      "A person may be charged with a violation of subdivision (b) and Section 667.61",
+      "A person may not be punished under subdivision (b) and Section 667.61 for the same act that constitutes a violation of both",
+      "When probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+      "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+     ]
+    }
+   ]
+  }
+ },
+ "209.5": {
+  "review": {
+   "title": "Kidnapping during a carjacking",
+   "isOffense": true,
+   "plain": "Kidnapping another person during a carjacking to facilitate it is punishable by life in state prison with the possibility of parole.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "acts": [
+    "kidnaps another person who is not a principal in the commission of the carjacking"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Kidnaps another person who is not a principal in the commission of the carjacking",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "During the commission of a carjacking and in order to facilitate the commission of the carjacking",
+      "The movement of the victim is beyond that merely incidental to the commission of the carjacking",
+      "The victim is moved a substantial distance from the vicinity of the carjacking",
+      "The movement of the victim increases the risk of harm to the victim over and above that necessarily present in the crime of carjacking itself"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "In all cases in which probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+      "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+     ]
+    }
+   ]
+  }
+ },
+ "210": {
+  "review": {
+   "title": "Posing as kidnapper for ransom",
+   "isOffense": true,
+   "plain": "Posing as a kidnapper, or as someone able to obtain a victim's release, to obtain ransom, reward, or money is a felony punishable by imprisonment for two, three, or four years.",
+   "category": "Violence & Threats",
+   "maxYears": 4,
+   "acts": [
+    "poses as, or in any manner represents himself to be a person who has seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away any person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Poses as, or in any manner represents himself to be, a person who has seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away any person, or who holds or detains such person, or who has aided or abetted any such act, or who has the influence, power, or ability to obtain the release of such person",
+     "ways": [
+      "Poses as a person who has seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away any person",
+      "Poses as a person who holds or detains such person",
+      "Poses as a person who has aided or abetted any such act",
+      "Poses as a person who has the influence, power, or ability to obtain the release of such person"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Nothing in this section prohibits any person who, in good faith believes that he can rescue any person who has been seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away, and who has had no part in, or connection with, such confinement, inveigling, decoying, abducting, concealing, kidnapping, or carrying away, from offering to rescue or obtain the release of such person for a monetary consideration or other thing of value"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony punishable by imprisonment for two, three or four years",
+       "min": null,
+       "max": 4,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "For the purpose of obtaining any ransom or reward, or to extort or exact from any person any money or thing of value"
+     ]
+    }
+   ]
+  }
+ },
+ "210.5": {
+  "review": {
+   "title": "False imprisonment as shield or to avoid arrest",
+   "isOffense": true,
+   "plain": "False imprisonment of a person to protect against arrest, substantially increasing risk of harm, or to use as a shield, is punishable under subdivision (h) of Section 1170 for three, five, or eight years.",
+   "category": "Violence & Threats",
+   "maxYears": 8,
+   "maxPlus": true,
+   "acts": [
+    "commits the offense of false imprisonment, as defined in Section 236, against a person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits the offense of false imprisonment, as defined in Section 236, against a person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "For purposes of protection from arrest, which substantially increases the risk of harm to the victim, or for purposes of using the person as a shield"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for three, five, or eight years",
+       "min": null,
+       "max": 8,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "211": {
+  "review": {
+   "title": "Robbery",
+   "isOffense": true,
+   "plain": "Robbery is the felonious taking of personal property from another's person or immediate presence, against their will, by force or fear; this section states no penalty.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "taking of personal property in the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes personal property in the possession of another, from his person or immediate presence, and against his will",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Accomplished by means of force or fear"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No penalty is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Feloniously"
+     ]
+    }
+   ]
+  }
+ },
+ "212": {
+  "review": {
+   "title": "Fear in robbery",
+   "isOffense": false,
+   "plain": "Says the fear mentioned in Section 211 may be fear of unlawful injury to the person robbed or relatives, or of immediate unlawful injury to anyone in the person robbed's company."
+  }
+ },
+ "212.5": {
+  "review": {
+   "title": "Degrees of robbery",
+   "isOffense": false,
+   "plain": "Sets which robberies are of the first degree, such as those of transit operators and passengers, in inhabited dwellings, or at automated teller machines, and says all others are second degree."
+  }
+ },
+ "213": {
+  "review": {
+   "title": "Punishment for robbery",
+   "isOffense": true,
+   "plain": "Robbery of the first degree carries three to nine years in state prison depending on the case, and second degree carries two, three, or five years.",
+   "category": "Violence & Threats",
+   "maxYears": 9,
+   "maxPlus": true,
+   "acts": [
+    "Robbery of the first degree",
+    "Robbery of the second degree",
+    "attempted robbery in violation of paragraph (2) of subdivision (a)"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Commits robbery of the first degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "In all cases other than that specified in subparagraph (A), by imprisonment in the state prison for three, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": []
+      },
+      {
+       "if": "the defendant, voluntarily acting in concert with two or more other persons, commits the robbery within an inhabited dwelling house, a vessel as defined in Section 21 of the Harbors and Navigation Code, which is inhabited and designed for habitation, an inhabited floating home as defined in subdivision (d) of Section 18075.55 of the Health and Safety Code, a trailer coach as defined in the Vehicle Code, which is inhabited, or the inhabited portion of any other building",
+       "penalty": "Imprisonment in the state prison for three, six, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Commits robbery of the second degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, three, or five years",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Attempts robbery in violation of paragraph (2) of subdivision (a)",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "Notwithstanding Section 664"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "214": {
+  "review": {
+   "title": "Train robbery and train interference",
+   "isOffense": true,
+   "plain": "Boarding a train to rob passengers, or interfering with railroad track, signals, or trains with intent to rob, is a felony; this section states no term.",
+   "category": "Transportation & Aviation",
+   "maxYears": null,
+   "acts": [
+    "goes upon or boards any railroad train, car or engine",
+    "interferes in any manner with any switch, rail, sleeper, viaduct, culvert, embankment, structure or appliance pertaining to or connected with any railroad",
+    "places any dynamite or other explosive substance or material upon or near the track of any railroad",
+    "sets fire to any railroad bridge or trestle",
+    "stops any such train, car or engine, or slackens the speed thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Goes upon or boards any railroad train, car or engine; interferes in any manner with any switch, rail, sleeper, viaduct, culvert, embankment, structure or appliance pertaining to or connected with any railroad; places any dynamite or other explosive substance or material upon or near the track of any railroad; sets fire to any railroad bridge or trestle; shows, masks, extinguishes or alters any light or other signal; exhibits or compels any other person to exhibit any false light or signal; stops any such train, car or engine, or slackens the speed thereof; or compels or attempts to compel any person in charge or control thereof to stop any such train, car or engine, or slacken the speed thereof",
+     "ways": [
+      "Goes upon or boards any railroad train, car or engine",
+      "Interferes with any switch, rail, sleeper, viaduct, culvert, embankment, structure or appliance of a railroad",
+      "Places any dynamite or other explosive substance or material upon or near the track of any railroad",
+      "Sets fire to any railroad bridge or trestle",
+      "Shows, masks, extinguishes or alters any light or other signal",
+      "Exhibits or compels any other person to exhibit any false light or signal",
+      "Stops any such train, car or engine, or slackens the speed thereof",
+      "Compels or attempts to compel any person in charge or control thereof to stop any such train, car or engine, or slacken the speed thereof"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intention of robbing any passenger or other person on such train, car or engine, of any personal property thereon in the possession or charge or under the control of any such passenger or other person"
+     ]
+    }
+   ]
+  }
+ },
+ "215": {
+  "review": {
+   "title": "Carjacking",
+   "isOffense": true,
+   "plain": "Carjacking is the felonious taking of a motor vehicle from another's person or immediate presence by force or fear; it is punishable by three, five, or nine years in state prison.",
+   "category": "Violence & Threats",
+   "maxYears": 9,
+   "acts": [
+    "taking of a motor vehicle in the possession of another, from his or her person or immediate presence, or from the person or immediate presence of a passenger of the motor vehicle, against his or her will"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Takes a motor vehicle in the possession of another, from his or her person or immediate presence, or from the person or immediate presence of a passenger of the motor vehicle, against his or her will",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Accomplished by means of force or fear"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for a term of three, five, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Feloniously",
+      "With the intent to either permanently or temporarily deprive the person in possession of the motor vehicle of his or her possession"
+     ],
+     "consequences": [
+      "This section shall not be construed to supersede or affect Section 211",
+      "A person may be charged with a violation of this section and Section 211",
+      "No defendant may be punished under this section and Section 211 for the same act which constitutes a violation of both"
+     ]
+    }
+   ]
+  }
+ },
+ "217.1": {
+  "review": {
+   "title": "Assault on public officials",
+   "isOffense": true,
+   "plain": "Assaulting listed officials such as judges, prosecutors, or peace officers in retaliation for or to prevent official duties is a wobbler; attempted murder of them carries 15 years to life.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "maxPlus": true,
+   "acts": [
+    "commits any assault upon the President or Vice President of the United States",
+    "attempts to commit murder against any person listed in subdivision (a)"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits any assault upon the President or Vice President of the United States, the Governor of any state or territory, any justice, judge, or former judge of any local, state, or federal court of record, any commissioner, referee, or other subordinate judicial officer of any court of record, the secretary or director of any executive agency or department of the United States or any state or territory, or any other official of the United States or any state or territory holding elective office, any mayor, city council member, county supervisor, sheriff, district attorney, prosecutor or assistant prosecutor of any local, state, or federal prosecutor’s office, a former prosecutor or assistant prosecutor, public defender or assistant public defender, a former public defender or assistant public defender, the chief of police of any municipal police department, any peace officer, any juror in any local, state, or federal court of record, or the immediate family of any of these officials",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (b)"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail not exceeding one year or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "In retaliation for or to prevent the performance of the victim’s official duties"
+     ],
+     "terms": [
+      "\"Immediate family\": spouse, child, stepchild, brother, stepbrother, sister, stepsister, mother, stepmother, father, or stepfather",
+      "\"Peace officer\": any person specified in subdivision (a) of Section 830.1 or Section 830.5"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Attempts to commit murder against any person listed in subdivision (a)",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Confined in the state prison for a term of 15 years to life",
+       "min": 15,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "In retaliation for or to prevent the performance of the victim’s official duties"
+     ],
+     "consequences": [
+      "The provisions of Article 2.5 (commencing with Section 2930) of Chapter 7 of Title 1 of Part 3 shall apply to reduce any minimum term of 15 years in a state prison imposed pursuant to this section, but that person shall not otherwise be released on parole prior to that time"
+     ],
+     "terms": [
+      "\"Immediate family\": spouse, child, stepchild, brother, stepbrother, sister, stepsister, mother, stepmother, father, or stepfather",
+      "\"Peace officer\": any person specified in subdivision (a) of Section 830.1 or Section 830.5"
+     ]
+    }
+   ]
+  }
+ },
+ "218": {
+  "review": {
+   "title": "Derailing a train",
+   "isOffense": true,
+   "plain": "Unlawfully obstructing or setting fire to railroad track or bridges with intent to derail or wreck a train is a felony punishable by life in state prison without possibility of parole.",
+   "category": "Transportation & Aviation",
+   "maxYears": 999,
+   "acts": [
+    "throws out a switch, removes a rail, or places any obstruction on any railroad",
+    "places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+    "sets fire to any railroad bridge or trestle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Throws out a switch, removes a rail, or places any obstruction on any railroad; places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad; or sets fire to any railroad bridge or trestle over which any such train, car or engine must pass",
+     "ways": [
+      "Throws out a switch, removes a rail, or places any obstruction on any railroad",
+      "Places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+      "Sets fire to any railroad bridge or trestle"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony punishable by imprisonment in the state prison for life without possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ],
+     "intent": [
+      "Unlawfully",
+      "With the intention of derailing, blowing up, or wrecking any such train, car or engine"
+     ]
+    }
+   ]
+  }
+ },
+ "218.1": {
+  "review": {
+   "title": "Obstructing railroad track with gross negligence",
+   "isOffense": true,
+   "plain": "Unlawfully and with gross negligence placing an obstruction on a railroad track that damages or derails a train or injures a passenger or employee is punishable in county jail, under Section 1170(h), or by fine.",
+   "category": "Transportation & Aviation",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "places or causes to be placed any obstruction upon or near the track of any railroad"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Places or causes to be placed any obstruction upon or near the track of any railroad",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The obstruction proximately results in either the damaging or derailing of any passenger, freight, or other train, or injures a rail passenger or employee"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years, or imprisonment in a county jail for not more than one year, or a fine not to exceed two thousand five hundred dollars ($2,500), or both that imprisonment and fine",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "mentalState": [
+      "With gross negligence"
+     ],
+     "intent": [
+      "Unlawfully"
+     ]
+    }
+   ]
+  }
+ },
+ "219": {
+  "review": {
+   "title": "Wrecking a train",
+   "isOffense": true,
+   "plain": "Unlawfully obstructing, blowing up, or burning railroad track or bridges with intent to wreck a train and doing so is a felony; death or life without parole if someone dies, otherwise life with parole.",
+   "category": "Transportation & Aviation",
+   "maxYears": 1000,
+   "maxPlus": true,
+   "acts": [
+    "throws out a switch, removes a rail, or places any obstruction on any railroad",
+    "places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+    "sets fire to any railroad bridge or trestle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Throws out a switch, removes a rail, or places any obstruction on any railroad; places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad; or sets fire to any railroad bridge or trestle over which any such train, car or engine must pass",
+     "ways": [
+      "Throws out a switch, removes a rail, or places any obstruction on any railroad",
+      "Places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+      "Sets fire to any railroad bridge or trestle"
+     ],
+     "tags": [],
+     "conditions": [
+      "The train, car or engine is thus derailed, blown up, or wrecked"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony punishable by imprisonment in the state prison for life with the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": []
+      },
+      {
+       "if": "any person suffers death as a proximate result",
+       "penalty": "Death or imprisonment in the state prison for life without possibility of parole",
+       "min": null,
+       "max": 1000,
+       "flags": [
+        "no parole"
+       ]
+      }
+     ],
+     "intent": [
+      "Unlawfully",
+      "With the intention of derailing, blowing up, or wrecking any such train, car or engine"
+     ],
+     "consequences": [
+      "The penalty shall be determined pursuant to Sections 190.3 and 190.4"
+     ]
+    }
+   ]
+  }
+ },
+ "219.1": {
+  "review": {
+   "title": "Wrecking a common carrier vehicle",
+   "isOffense": true,
+   "plain": "Throwing a missile at, or doing an unlawful act to, a common carrier vehicle to wreck it and cause bodily harm, and doing so, is a felony punishable under Section 1170(h) for two, four, or six years.",
+   "category": "Transportation & Aviation",
+   "maxYears": 6,
+   "maxPlus": true,
+   "acts": [
+    "throws, hurls or projects at a vehicle operated by a common carrier"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Throws, hurls or projects at a vehicle operated by a common carrier, while such vehicle is either in motion or stationary, any rock, stone, brick, bottle, piece of wood or metal or any other missile of any kind or character, or does any unlawful act",
+     "ways": [
+      "Throws, hurls or projects at a vehicle operated by a common carrier any rock, stone, brick, bottle, piece of wood or metal or any other missile",
+      "Does any unlawful act"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicle is thus wrecked and bodily harm is caused"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Unlawfully",
+      "With the intention of wrecking such vehicle and doing bodily harm"
+     ]
+    }
+   ]
+  }
+ },
+ "219.2": {
+  "review": {
+   "title": "Throwing objects at trains, buses, or vessels",
+   "isOffense": true,
+   "plain": "Willfully throwing a hard object or shooting a missile at a train, bus, or passenger or freight vessel is punishable by county jail up to one year, state prison, or a fine up to $2,000.",
+   "category": "Transportation & Aviation",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "throws, hurls, or projects a stone or other hard substance, or shoots a missile, at a train, locomotive, railway car, caboose, cable railway car, street railway car, or bus or at a steam vessel or watercraft used for carrying passengers or freight on any of the waters within or bordering on this state"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Throws, hurls, or projects a stone or other hard substance, or shoots a missile, at a train, locomotive, railway car, caboose, cable railway car, street railway car, or bus or at a steam vessel or watercraft used for carrying passengers or freight on any of the waters within or bordering on this state",
+     "ways": [
+      "Throws, hurls, or projects a stone or other hard substance",
+      "Shoots a missile"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail not exceeding one year, or in a state prison, or a fine not exceeding two thousand dollars ($2,000), or both such fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "intent": [
+      "Willfully"
+     ]
+    }
+   ]
+  }
+ },
+ "219.3": {
+  "review": {
+   "title": "Dropping objects from a toll bridge",
+   "isOffense": true,
+   "plain": "Wilfully dropping or throwing any object or missile from a toll bridge is a misdemeanor.",
+   "category": "Transportation & Aviation",
+   "maxYears": null,
+   "acts": [
+    "drops or throws any object or missile from any toll bridge"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Drops or throws any object or missile from any toll bridge",
+     "ways": [
+      "Drops",
+      "Throws"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Wilfully"
+     ]
+    }
+   ]
+  }
+ },
+ "220": {
+  "review": {
+   "title": "Assault with intent to commit a sex crime or mayhem",
+   "isOffense": true,
+   "plain": "Assault with intent to commit mayhem, rape, sodomy, or oral copulation carries two to six years in state prison, more if the victim is under 18, and life with parole during a first-degree burglary.",
+   "category": "Violence & Threats",
+   "maxYears": 999,
+   "maxPlus": true,
+   "acts": [
+    "assaults another with intent to commit mayhem, rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289",
+    "assaults another person under 18 years of age with the intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289",
+    "assaults another with intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Assaults another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (b)"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With intent to commit mayhem, rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Assaults another person under 18 years of age",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is under 18 years of age"
+     ],
+     "exceptions": [
+      "Except as provided in subdivision (b)"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for five, seven, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Assaults another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The assault is in the commission of a burglary of the first degree, as defined in subdivision (a) of Section 460"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+       "min": null,
+       "max": 999,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+     ]
+    }
+   ]
+  }
+ },
+ "222": {
+  "review": {
+   "title": "Administering drugs to commit a felony",
+   "isOffense": true,
+   "plain": "Administering chloroform, ether, laudanum, a controlled substance, or another anaesthetic or intoxicating agent to help commit a felony is a felony punishable by 16 months, or two or three years.",
+   "category": "Violence & Threats",
+   "maxYears": 3,
+   "acts": [
+    "administering to another any chloroform, ether, laudanum, or any controlled substance, anaesthetic, or intoxicating agent"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Administers to another any chloroform, ether, laudanum, or any controlled substance, anaesthetic, or intoxicating agent",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony punishable by imprisonment in the state prison for 16 months, or two or three years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With intent thereby to enable or assist himself or herself or any other person to commit a felony"
+     ]
+    }
+   ]
+  }
+ }
+}

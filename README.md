@@ -71,6 +71,24 @@ python3 build_pages.py --jur ma     # write ma/index.html and ma/<chapter>/*.htm
 
 New chapters need `ma/plain.json` and `ma/elements.json` entries; `python3 ma/build_ma.py --batches DIR` writes the parsed sections in batches for review. Massachusetts has no source like the Sentencing Commission's datafile, so its list has no "Most common first" sort.
 
+## California (`ca/`)
+
+The Penal Code, Part 1, Title 8 (Crimes Against the Person, sections 187-248): list page `ca/index.html`, one page per section at `ca/<section>.html`. Same code as Massachusetts (`index.html` with `data-jur="ca"`).
+
+| File | Purpose |
+|---|---|
+| `ca/fetch_ca.py` | Downloads the Title 8 chapter pages from leginfo.legislature.ca.gov into `ca/raw/` |
+| `ca/build_ca.py` | Parses sections and outline levels and merges `ca/plain.json` and `ca/elements.json` into `ca/crimes.json`; `--batches DIR` writes review batches |
+| `ca/merge_review.py` | Merges review-agent output into `ca/plain.json` and `ca/elements.json` |
+| `ca/plain.json`, `ca/elements.json` | Per-section review (caption, summary, type, maximum penalty, act phrases) and crime breakdowns, own section text only |
+
+```sh
+python3 ca/fetch_ca.py && python3 ca/build_ca.py   # download and build ca/crimes.json
+python3 build_pages.py --jur ca                     # write ca/index.html and ca/<section>.html (needs the local server and Chrome)
+```
+
+California has no frequency data, so its list has no "Most common first" sort. `review/ca/` holds the instructions, validator, and reviewed batches.
+
 ## Review tools
 
 `review/federal/` and `review/ma/` hold the instructions, validators, and (federal) merge script used to produce `elements.json`, `plain.json`, and their Massachusetts counterparts with review agents. `review/ma/266/` and `review/ma/268/` hold the reviewed batches for those chapters. See `HANDOFF.md` for the current state and next steps.

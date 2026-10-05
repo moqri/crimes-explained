@@ -1,0 +1,910 @@
+{
+ "236": {
+  "review": {
+   "title": "False imprisonment defined",
+   "isOffense": true,
+   "plain": "False imprisonment is the unlawful violation of the personal liberty of another; the section sets no punishment itself.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "the unlawful violation of the personal liberty of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Violates the personal liberty of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Set in Section 237",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "Unlawfully"
+     ]
+    }
+   ]
+  }
+ },
+ "236.1": {
+  "review": {
+   "title": "Human trafficking",
+   "isOffense": true,
+   "plain": "Depriving or violating another person's liberty to obtain forced labor or services, or to commit certain listed offenses, or inducing a minor into a commercial sex act, is human trafficking punishable by up to life in state prison.",
+   "category": "Human Trafficking & Slavery",
+   "maxYears": 999,
+   "acts": [
+    "deprives or violates the personal liberty of another",
+    "causes, induces, or persuades, or attempts to cause, induce, or persuade, a person who is a minor at the time of commission of the offense to engage in a commercial sex act"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Commercial sex act\": sexual conduct on account of which anything of value is given or received by a person",
+     "\"Minor\": a person less than 18 years of age",
+     "\"Forced labor or services\": labor or services that are performed or provided by a person and are obtained or maintained through force, fraud, duress, or coercion, or equivalent conduct that would reasonably overbear the will of the person",
+     "\"Deprivation or violation of the personal liberty of another\": includes substantial and sustained restriction of another's liberty accomplished through force, fear, fraud, deceit, coercion, violence, duress, menace, or threat of unlawful injury to the victim or to another person, under circumstances where the person receiving or apprehending the threat reasonably believes that it is likely that the person making the threat would carry it out"
+    ],
+    "consequences": [
+     "Consent by a victim who is a minor at the time of the offense is not a defense",
+     "Mistake of fact as to the age of a victim who is a minor at the time of the offense is not a defense",
+     "A court shall report a conviction of subdivision (a), (b), or (c) that occurred while the person was using a commercial motor vehicle to the Department of Motor Vehicles"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Deprives or violates the personal liberty of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 5, 8, or 12 years and a fine of not more than five hundred thousand dollars ($500,000)",
+       "min": null,
+       "max": 12,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to obtain forced labor or services"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Deprives or violates the personal liberty of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 8, 14, or 20 years and a fine of not more than five hundred thousand dollars ($500,000)",
+       "min": null,
+       "max": 20,
+       "flags": []
+      }
+     ],
+     "intent": [
+      "With the intent to effect or maintain a violation of Section 266, 266h, 266i, 266j, 267, 311.1, 311.2, 311.3, 311.4, 311.5, 311.6, or 518"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Causes, induces, or persuades, or attempts to cause, induce, or persuade, a person who is a minor at the time of commission of the offense to engage in a commercial sex act",
+     "ways": [
+      "causes",
+      "induces",
+      "persuades",
+      "attempts to cause, induce, or persuade"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person caused, induced, or persuaded is a minor at the time of commission of the offense"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 5, 8, or 12 years and a fine of not more than five hundred thousand dollars ($500,000)",
+       "min": null,
+       "max": 12,
+       "flags": []
+      },
+      {
+       "if": "the offense involves force, fear, fraud, deceit, coercion, violence, duress, menace, or threat of unlawful injury to the victim or to another person",
+       "penalty": "Imprisonment in the state prison for 15 years to life and a fine of not more than five hundred thousand dollars ($500,000)",
+       "min": 15,
+       "max": 999,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ],
+     "intent": [
+      "With the intent to effect or maintain a violation of Section 266, 266h, 266i, 266j, 267, 311.1, 311.2, 311.3, 311.4, 311.5, 311.6, or 518"
+     ]
+    }
+   ]
+  }
+ },
+ "236.2": {
+  "review": {
+   "title": "Human trafficking victim indicators",
+   "isOffense": false,
+   "plain": "Requires law enforcement to use due diligence to identify human trafficking victims and to consider listed indicators of trafficking."
+  }
+ },
+ "236.21": {
+  "review": {
+   "title": "Victim interview rights",
+   "isOffense": false,
+   "plain": "Gives human trafficking victims the right to an advocate and support person at interviews and requires they be told of that right."
+  }
+ },
+ "236.23": {
+  "review": {
+   "title": "Human trafficking victim defense",
+   "isOffense": false,
+   "plain": "Creates an affirmative defense for a person coerced to commit an offense as a direct result of being a trafficking victim, and sets the relief if it succeeds."
+  }
+ },
+ "236.24": {
+  "review": {
+   "title": "Partner violence coercion defense",
+   "isOffense": false,
+   "plain": "Creates an affirmative defense for a person coerced to commit an offense as a direct result of intimate partner or sexual violence, and sets the relief if it succeeds."
+  }
+ },
+ "236.3": {
+  "review": {
+   "title": "Nuisance procedures after trafficking",
+   "isOffense": false,
+   "plain": "Applies public nuisance procedures and remedies to real property used to facilitate human trafficking after a conviction."
+  }
+ },
+ "236.4": {
+  "review": {
+   "title": "Human trafficking enhancements",
+   "isOffense": true,
+   "plain": "Great bodily injury during human trafficking adds a consecutive 5, 7, or 10 years in state prison, and a prior trafficking conviction adds a consecutive 5 years for each; the court may also add a fine up to $1,000,000.",
+   "category": "Human Trafficking & Slavery",
+   "maxYears": 10,
+   "maxPlus": true,
+   "acts": [
+    "inflicts great bodily injury on a victim in the commission or attempted commission of a violation of Section 236.1",
+    "has previously been convicted of a violation of any crime specified in Section 236.1"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "Upon conviction of a violation of Section 236.1, the court may, in addition to any other penalty, fine, or restitution, order the defendant to pay an additional fine not to exceed one million dollars ($1,000,000)",
+     "Fines are deposited in the Victim-Witness Assistance Fund"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)",
+     "act": "Inflicts great bodily injury on a victim in the commission or attempted commission of a violation of Section 236.1",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "Great bodily injury is inflicted on a victim in the commission or attempted commission of a violation of Section 236.1"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An additional and consecutive term of imprisonment in the state prison for 5, 7, or 10 years",
+       "min": null,
+       "max": 10,
+       "flags": [
+        "consecutive"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Has previously been convicted of a violation of any crime specified in Section 236.1",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person has previously been convicted of a violation of any crime specified in Section 236.1",
+      "Each additional conviction was on charges separately brought and tried"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An additional and consecutive term of imprisonment in the state prison for 5 years for each additional conviction on charges separately brought and tried",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "consecutive"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "236.5": {
+  "review": {
+   "title": "Law enforcement endorsement letters",
+   "isOffense": false,
+   "plain": "Requires law enforcement to provide endorsement letters for human trafficking victims and sets rules for submitting and denying them."
+  }
+ },
+ "236.6": {
+  "review": {
+   "title": "Asset preservation proceedings",
+   "isOffense": false,
+   "plain": "Lets prosecutors petition for orders preserving assets of a person charged with human trafficking, and sets notice, claim, and hearing procedures."
+  }
+ },
+ "236.7": {
+  "review": {
+   "title": "Forfeiture for trafficking of minors",
+   "isOffense": false,
+   "plain": "Allows forfeiture of property used in or gained from human trafficking involving a commercial sex act with a minor, with limits for certain property."
+  }
+ },
+ "236.8": {
+  "review": {
+   "title": "Forfeiture petition procedure",
+   "isOffense": false,
+   "plain": "Sets the petition and notice procedure for forfeiture in trafficking cases involving a commercial sex act with a minor."
+  }
+ },
+ "236.9": {
+  "review": {
+   "title": "Forfeiture claims and hearing",
+   "isOffense": false,
+   "plain": "Sets how interested persons file claims and how the forfeiture hearing proceeds, including the burden of proof."
+  }
+ },
+ "236.10": {
+  "review": {
+   "title": "Orders to preserve forfeitable property",
+   "isOffense": false,
+   "plain": "Lets the court issue orders pending forfeiture to preserve property, including injunctions and receivers."
+  }
+ },
+ "236.11": {
+  "review": {
+   "title": "Forfeiture orders and liens",
+   "isOffense": false,
+   "plain": "Sets the court's orders on forfeited property and how lienholders are treated."
+  }
+ },
+ "236.12": {
+  "review": {
+   "title": "Distribution of forfeited property",
+   "isOffense": false,
+   "plain": "Sets how forfeited money and sale proceeds are distributed."
+  }
+ },
+ "236.13": {
+  "review": {
+   "title": "Victim Witness help for minors",
+   "isOffense": false,
+   "plain": "Requires that a minor trafficking victim be given Victim Witness Assistance Center help if the minor wishes."
+  }
+ },
+ "236.14": {
+  "review": {
+   "title": "Vacatur for trafficking victims",
+   "isOffense": false,
+   "plain": "Lets a trafficking victim petition to vacate convictions, arrests, and adjudications for nonviolent offenses committed as a victim, and sets the procedure."
+  }
+ },
+ "236.15": {
+  "review": {
+   "title": "Vacatur for partner violence victims",
+   "isOffense": false,
+   "plain": "Lets a victim of intimate partner or sexual violence petition to vacate convictions for nonviolent offenses committed as a victim, and sets the procedure."
+  }
+ },
+ "237": {
+  "review": {
+   "title": "False imprisonment punishment",
+   "isOffense": true,
+   "plain": "False imprisonment is punishable by a fine up to $1,000 or up to one year in county jail, and by imprisonment under subdivision (h) of Section 1170 if done by violence, menace, fraud, or deceit.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "False imprisonment",
+    "False imprisonment of an elder or dependent adult by use of violence, menace, fraud, or deceit"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits false imprisonment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail for not more than one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the false imprisonment is effected by violence, menace, fraud, or deceit",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits false imprisonment of an elder or dependent adult by use of violence, menace, fraud, or deceit",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is an elder or dependent adult",
+      "The false imprisonment is by use of violence, menace, fraud, or deceit"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punishable as described in subdivision (f) of Section 368. Set in Section 368",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "240": {
+  "review": {
+   "title": "Assault defined",
+   "isOffense": true,
+   "plain": "An assault is an unlawful attempt, coupled with a present ability, to commit a violent injury on another person; the section sets no punishment itself.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "acts": [
+    "an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person has a present ability to commit the violent injury"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Set in Section 241",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "241": {
+  "review": {
+   "title": "Assault punishment",
+   "isOffense": true,
+   "plain": "Assault is punishable by a fine up to $1,000 or up to six months in county jail, with higher fines and up to one year in jail when committed against certain officers and workers.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "assault",
+    "an assault is committed against the person of a parking control officer engaged in the performance of their duties",
+    "an assault is committed against the person of a peace officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of their duties"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Parking control officer\": any person employed by a city, county, or city and county, to monitor and enforce state laws and local ordinances relating to parking",
+     "\"Traffic officer\": any person employed by a county or city to monitor and enforce state laws and local ordinances relating to parking and the operation of vehicles",
+     "\"Animal control officer\": any person employed by a county or city for purposes of enforcing animal control laws or regulations",
+     "\"Search and rescue member\": any person who is part of an organized search and rescue team managed by a governmental agency",
+     "\"Health care worker\": a person who, in the course and scope of employment, performs duties directly associated with the care and treatment rendered by the hospital's emergency department or the department's security"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits an assault",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail not exceeding six months, or both the fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits an assault against the person of a parking control officer engaged in the performance of their duties",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a parking control officer engaged in the performance of their duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding six months, or both the fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a parking control officer"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Commits an assault against the person of a peace officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of their duties, or a physician or nurse engaged in rendering emergency medical care outside a hospital, clinic, or other health care facility, or a physician, nurse, or other health care worker of a hospital engaged in providing services within the emergency department",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a peace officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of their duties, or a physician or nurse engaged in rendering emergency medical care outside a hospital, clinic, or other health care facility, or a physician, nurse, or other health care worker of a hospital engaged in providing services within the emergency department"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding one year, or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is in one of the listed categories and engaged in the performance of the listed duties"
+     ]
+    }
+   ]
+  }
+ },
+ "241.1": {
+  "review": {
+   "title": "Assault on custodial officer",
+   "isOffense": true,
+   "plain": "Assault on a custodial officer is punishable by up to one year in county jail or by imprisonment under subdivision (h) of Section 1170.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "an assault is committed against the person of a custodial officer as defined in Section 831 or 831.5"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an assault against the person of a custodial officer as defined in Section 831 or 831.5",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a custodial officer engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a custodial officer engaged in the performance of his or her duties"
+     ]
+    }
+   ]
+  }
+ },
+ "241.2": {
+  "review": {
+   "title": "Assault on school or park property",
+   "isOffense": true,
+   "plain": "Assault on school or park property is punishable by a fine up to $2,000 or up to one year in county jail, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "an assault is committed on school or park property against any person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"School\": any elementary school, junior high school, four-year high school, senior high school, adult school or any branch thereof, opportunity school, continuation high school, regional occupational center, evening high school, technical school, or community college",
+     "\"Park\": any publicly maintained or operated park, not including any facility when used for professional sports or commercial events"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits an assault on school or park property against any person",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The assault is committed on school or park property"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "When committed by a minor on school property, the court may order the minor to attend counseling at the expense of the minor's parents, in addition to any other fine or sentence or as a condition of probation"
+     ]
+    }
+   ]
+  }
+ },
+ "241.3": {
+  "review": {
+   "title": "Assault on public transportation",
+   "isOffense": true,
+   "plain": "Assault on any person on the property of, or a motor vehicle of, a public transportation provider is punishable by a fine up to $2,000 or up to one year in county jail, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "an assault is committed against any person on the property of, or on a motor vehicle of, a public transportation provider"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Public transportation provider\": a publicly or privately owned entity that operates, for the transportation of persons for hire, a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle, including a vehicle operated on stationary rails or on a track or rail suspended in air, or that operates a schoolbus",
+     "\"On the property of\": the entire station where public transportation is available, including the parking lot reserved for the public who utilize the transportation system"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits an assault against any person on the property of, or on a motor vehicle of, a public transportation provider",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The assault is against a person on the property of, or on a motor vehicle of, a public transportation provider"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in a county jail not to exceed one year, or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "241.4": {
+  "review": {
+   "title": "Assault on school police officer",
+   "isOffense": true,
+   "plain": "Assault is punishable by a fine up to $1,000 or up to six months in county jail; against a school district police officer it is punishable by up to one year in county jail or under subdivision (h) of Section 1170.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "An assault is punishable",
+    "the assault is committed against the person of a peace officer engaged in the performance of his or her duties as a member of a police department of a school district pursuant to Section 38000 of the Education Code"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an assault",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail not exceeding six months, or both",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Commits an assault against the person of a peace officer engaged in the performance of his or her duties as a member of a police department of a school district pursuant to Section 38000 of the Education Code",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a peace officer engaged in the performance of his or her duties as a member of a police department of a school district pursuant to Section 38000 of the Education Code"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a peace officer engaged in the performance of his or her duties"
+     ]
+    }
+   ]
+  }
+ },
+ "241.5": {
+  "review": {
+   "title": "Assault on highway worker",
+   "isOffense": true,
+   "plain": "Assault on a highway worker engaged in their duties is punishable by a fine up to $2,000 or up to one year in county jail, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "an assault is committed against a highway worker engaged in the performance of his or her duties"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Highway worker\": an employee of the Department of Transportation, a contractor or employee of a contractor while working under contract with the Department of Transportation, an employee of a city, county, or city and county, a contractor or employee of a contractor while working under contract with a city, county, or city and county, or a volunteer as defined in Section 1720.4 of the Labor Code who performs maintenance, repair, or construction, operates equipment, or performs related maintenance work on state highway or local street or road infrastructures in work zones"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits an assault against a highway worker engaged in the performance of his or her duties",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a highway worker engaged in the performance of his or her duties"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not to exceed two thousand dollars ($2,000) or imprisonment in a county jail up to one year or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know that the victim is a highway worker engaged in the performance of his or her duties"
+     ]
+    }
+   ]
+  }
+ },
+ "241.6": {
+  "review": {
+   "title": "Assault on school employee",
+   "isOffense": true,
+   "plain": "Assault on a school employee engaged in their duties or in retaliation for their duties is punishable by up to one year in county jail, a fine up to $2,000, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "an assault is committed against a school employee engaged in the performance of his or her duties, or in retaliation for an act performed in the course of his or her duties"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"School employee\": has the same meaning as defined in subdivision (d) of Section 245.5"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an assault against a school employee engaged in the performance of his or her duties, or in retaliation for an act performed in the course of his or her duties",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The victim is a school employee engaged in the performance of his or her duties, or the assault is in retaliation for an act performed in the course of his or her duties, whether on or off campus, during the schoolday or at any other time"
+     ],
+     "exceptions": [
+      "Conduct arising during the course of an otherwise lawful labor dispute"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding two thousand dollars ($2,000), or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing or reasonably should know the victim is a school employee"
+     ]
+    }
+   ]
+  }
+ },
+ "241.7": {
+  "review": {
+   "title": "Assault on juror",
+   "isOffense": true,
+   "plain": "A party to a jury case who assaults a juror or alternate juror during or after the case is punishable by a fine up to $2,000, up to one year in county jail, or imprisonment under subdivision (h) of Section 1170.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "commits an assault against any juror or alternate juror who was selected and sworn in that legal action"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an assault against any juror or alternate juror who was selected and sworn in that legal action",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The assault is committed while the legal action is pending or after the conclusion of the trial",
+      "The victim is a juror or alternate juror who was selected and sworn in that legal action"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both such fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "who": "A party to a civil or criminal action in which a jury has been selected to try the case"
+    }
+   ]
+  }
+ },
+ "241.8": {
+  "review": {
+   "title": "Assault on armed forces member",
+   "isOffense": true,
+   "plain": "Assault on a member of the United States Armed Forces because of the victim's service is punishable by a fine up to $2,000, up to one year in county jail, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "acts": [
+    "commits an assault against a member of the United States Armed Forces"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Because of\": the bias motivation must be a cause in fact of the assault, whether or not other causes exist; when multiple concurrent motives exist, the prohibited bias must be a substantial factor in bringing about the assault"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits an assault against a member of the United States Armed Forces",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The assault is because of the victim's service in the United States Armed Forces"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding two thousand dollars ($2,000), by imprisonment in a county jail for a period not exceeding one year, or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

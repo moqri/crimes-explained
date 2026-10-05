@@ -1,0 +1,96 @@
+{
+ "247.5": {
+  "review": {
+   "title": "Laser discharged at aircraft",
+   "isOffense": true,
+   "plain": "Willfully and maliciously discharging a laser at an occupied aircraft is a misdemeanor (county jail up to one year) or a felony (16 months, two years, or three years).",
+   "category": "Transportation & Aviation",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "discharges a laser at an aircraft, whether in motion or in flight, while occupied"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"aircraft\": any contrivance intended for and capable of transporting persons through the airspace",
+     "\"laser\": a device that utilizes the natural oscillations of atoms or molecules between energy levels for generating coherent electromagnetic radiation in the ultraviolet, visible, or infrared region of the spectrum, and when discharged exceeds one milliwatt continuous wave"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Discharges a laser at an aircraft, whether in motion or in flight, while occupied",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "Willfully and maliciously"
+     ],
+     "conditions": [
+      "The aircraft is occupied, whether in motion or in flight"
+     ],
+     "exceptions": [
+      "This section does not apply to the conduct of laser development activity by or on behalf of the United States Armed Forces"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Misdemeanor by imprisonment in the county jail for not more than one year or by a fine of one thousand dollars ($1,000), or a felony by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, two years, or three years, or by a fine of two thousand dollars ($2,000)",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "248": {
+  "review": {
+   "title": "Light shined at aircraft",
+   "isOffense": true,
+   "plain": "Willfully shining a bright light at an aircraft to interfere with its operation is punishable by a fine up to $1,000, county jail up to one year, or both.",
+   "category": "Transportation & Aviation",
+   "maxYears": 1,
+   "acts": [
+    "willfully shines a light or other bright device, of an intensity capable of impairing the operation of an aircraft, at an aircraft"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Shines a light or other bright device, of an intensity capable of impairing the operation of an aircraft, at an aircraft",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "With the intent to interfere with the operation of an aircraft",
+      "Willfully"
+     ],
+     "conditions": [
+      "The light or device is of an intensity capable of impairing the operation of an aircraft"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

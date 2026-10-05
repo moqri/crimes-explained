@@ -1,0 +1,4207 @@
+{
+ "187": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "The unlawful killing of a human being, or a fetus",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "The act complied with the former Therapeutic Abortion Act or the Reproductive Privacy Act (fetus death)",
+     "The act was committed by a holder of a physician's and surgeon's certificate where, to a medical certainty, the result of childbirth would be death of the person pregnant, or the pregnant person's death from childbirth would be substantially certain or more likely than not (fetus death)",
+     "It was an act or omission by the person pregnant with the fetus or was solicited, aided, abetted, or consented to by that person (fetus death)"
+    ],
+    "defenses": [],
+    "intent": [
+     "With malice aforethought"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "189": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Perpetrates murder by means of a destructive device or explosive, a weapon of mass destruction, knowing use of ammunition designed primarily to penetrate metal or armor, poison, lying in wait, torture, or by any other kind of willful, deliberate, and premeditated killing; or commits murder in the perpetration of, or attempt to perpetrate, arson, rape, carjacking, robbery, burglary, mayhem, kidnapping, train wrecking, or any act punishable under Section 206, 286, 287, 288, or 289, or former Section 288a; or perpetrates murder by discharging a firearm from a motor vehicle, intentionally at another person outside of the vehicle with the intent to inflict death",
+    "ways": [
+     "destructive device or explosive",
+     "weapon of mass destruction",
+     "ammunition designed primarily to penetrate metal or armor",
+     "poison",
+     "lying in wait",
+     "torture",
+     "willful, deliberate, and premeditated killing",
+     "felony murder",
+     "discharging a firearm from a motor vehicle"
+    ],
+    "tags": [],
+    "conditions": [
+     "The killing is murder of the first degree"
+    ],
+    "exceptions": [
+     "A participant in a listed felony in which a death occurs is liable for murder only if the person was the actual killer; or, with intent to kill, aided or abetted the actual killer in first degree murder; or was a major participant in the underlying felony and acted with reckless indifference to human life",
+     "That limit does not apply when the victim is a peace officer killed in the course of duties and the defendant knew or reasonably should have known the victim was a peace officer"
+    ],
+    "defenses": [],
+    "terms": [
+     "\"Destructive device\": same meaning as in Section 16460",
+     "\"Explosive\": same meaning as in Section 12000 of the Health and Safety Code",
+     "\"Weapon of mass destruction\": any item defined in Section 11417"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits any other kind of murder",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The murder is of the second degree"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "190": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits murder in the first degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is guilty of murder in the first degree"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "The penalty to be applied is determined as provided in Sections 190.1, 190.2, 190.3, 190.4, and 190.5",
+     "Section 2930 article credits do not reduce any minimum term; no release on parole before serving the minimum term"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Death, imprisonment in the state prison for life without the possibility of parole, or imprisonment in the state prison for a term of 25 years to life",
+      "min": null,
+      "max": 1000,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(a)",
+    "act": "Commits murder in the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is guilty of murder in the second degree"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "No release on parole prior to serving the minimum term of confinement prescribed by this section"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for a term of 15 years to life",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the victim was a peace officer killed while engaged in the performance of duties, and the defendant knew or reasonably should have known the victim was a peace officer engaged in the performance of duties",
+      "penalty": "Imprisonment in the state prison for a term of 25 years to life",
+      "min": 25,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     },
+     {
+      "if": "the victim was such a peace officer and any of these facts has been charged and found true: intent to kill the peace officer; intent to inflict great bodily injury on a peace officer; personal use of a dangerous or deadly weapon; personal use of a firearm",
+      "penalty": "Imprisonment in the state prison for a term of life without the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     },
+     {
+      "if": "the killing was perpetrated by shooting a firearm from a motor vehicle, intentionally at another person outside the vehicle with the intent to inflict great bodily injury",
+      "penalty": "Imprisonment in the state prison for a term of 20 years to life",
+      "min": 20,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "190.03": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits first-degree murder that is a hate crime",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The allegation is charged in the accusatory pleading and admitted by the defendant or found true by the trier of fact"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"Hate crime\": same meaning as in Section 422.55"
+    ],
+    "consequences": [
+     "Court shall not strike the allegation except in the interest of justice, stating its reasons in writing",
+     "Punishment may instead be imposed under any other provision of law that imposes a greater or more severe punishment"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for life without the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "190.05": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits murder in the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The defendant has served a prior prison term for murder in the first or second degree",
+     "The fact of the prior prison term is alleged in the accusatory pleading and admitted or found true"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "Separate penalty hearing before the same trier of fact",
+     "If the trier of fact finds aggravating circumstances outweigh mitigating, life without the possibility of parole; if mitigating outweigh aggravating, 15 years to life"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Confinement in the state prison for a term of life without the possibility of parole or confinement in the state prison for a term of 15 years to life",
+      "min": 15,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "190.2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits murder in the first degree with one or more special circumstances found true",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "One or more listed special circumstances (financial gain, prior murder conviction, more than one murder, destructive device, avoiding arrest or escape, peace officer, federal officer, firefighter, witness, prosecutor, judge, official, especially heinous murder, lying in wait, race or nationality, listed felonies, torture, poison, juror, firearm from a motor vehicle, criminal street gang) has been found under Section 190.4 to be true"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"especially heinous, atrocious, or cruel, manifesting exceptional depravity\": a conscienceless or pitiless crime that is unnecessarily torturous to the victim",
+     "\"juvenile proceeding\": a proceeding brought pursuant to Section 602 or 707 of the Welfare and Institutions Code",
+     "\"motor vehicle\": any vehicle as defined in Section 415 of the Vehicle Code"
+    ],
+    "consequences": [
+     "The penalty is determined as provided in this section and Sections 190.1, 190.3, 190.4, and 190.5",
+     "An actual killer need not have had intent to kill unless intent to kill is specifically required for the special circumstance"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Death or imprisonment in the state prison for life without the possibility of parole",
+      "min": null,
+      "max": 1000,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Aids, abets, counsels, commands, induces, solicits, requests, or assists any actor in the commission of murder in the first degree",
+    "ways": [
+     "aids",
+     "abets",
+     "counsels",
+     "commands",
+     "induces",
+     "solicits",
+     "requests",
+     "assists"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is not the actual killer",
+     "One or more special circumstances enumerated in subdivision (a) has been found true under Section 190.4"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With the intent to kill"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Death or imprisonment in the state prison for life without the possibility of parole",
+      "min": null,
+      "max": 1000,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Aids, abets, counsels, commands, induces, solicits, requests, or assists in the commission of a felony enumerated in paragraph (17) of subdivision (a) which results in the death of some person or persons",
+    "ways": [
+     "aids",
+     "abets",
+     "counsels",
+     "commands",
+     "induces",
+     "solicits",
+     "requests",
+     "assists"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is not the actual killer",
+     "The person is found guilty of murder in the first degree",
+     "A special circumstance in paragraph (17) of subdivision (a) has been found true under Section 190.4"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With reckless indifference to human life and as a major participant"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Death or imprisonment in the state prison for life without the possibility of parole",
+      "min": null,
+      "max": 1000,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "190.25": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits murder in the first degree of the operator or driver of a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle operated on land used for the transportation of persons for hire, or of a station agent or ticket agent for the entity providing such transportation",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim was intentionally killed while engaged in the course of the performance of duties",
+     "The special circumstance has been charged and specially found under Section 190.4 to be true"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing or reasonably should have known the victim was such an operator, driver, or agent engaged in the performance of duties"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Confinement in state prison for a term of life without the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Aids, abets, counsels, commands, induces, solicits, requests, or assists any actor in the commission of murder in the first degree",
+    "ways": [
+     "aids",
+     "abets",
+     "counsels",
+     "commands",
+     "induces",
+     "solicits",
+     "requests",
+     "assists"
+    ],
+    "tags": [],
+    "conditions": [
+     "Whether or not the actual killer",
+     "One or more of the special circumstances in subdivision (a) has been charged and specially found under Section 190.4 to be true"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Confinement in state prison for a term of life without the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "190.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Commits murder in the first degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "One or more special circumstances enumerated in Section 190.2 or 190.25 has been found true under Section 190.4",
+     "The defendant was 16 years of age or older and under the age of 18 at the time of the crime"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "The death penalty shall not be imposed upon any person under the age of 18 at the time of the crime; the burden of proof as to age is on the defendant"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Confinement in the state prison for life without the possibility of parole or, at the discretion of the court, 25 years to life",
+      "min": 25,
+      "max": 999,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "191.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits the unlawful killing of a human being without malice aforethought, in the driving of a vehicle (gross vehicular manslaughter while intoxicated)",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The driving was in violation of Section 23140, 23152, or 23153 of the Vehicle Code",
+     "The killing was the proximate result of an unlawful act, not amounting to a felony, or of a lawful act that might produce death, in an unlawful manner",
+     "For the 15 years to life term, the prior-conviction fact is alleged in the information or indictment and admitted or found true"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With gross negligence"
+    ],
+    "consequences": [
+     "If granted probation, the period of probation shall be not less than three nor more than five years",
+     "Article 2.5 of Chapter 7 of Title 1 of Part 3 (Section 2930) shall apply to reduce the 15 years to life term"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 4, 6, or 10 years",
+      "min": null,
+      "max": 10,
+      "flags": []
+     },
+     {
+      "if": "the person has one or more prior convictions of this section, of paragraph (1) of subdivision (c) of Section 192, subdivision (a) or (b) of Section 192.5, or of violating Section 23152 punishable under listed sections, or convicted of Section 23153, of the Vehicle Code",
+      "penalty": "Imprisonment in the state prison for a term of 15 years to life",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits the unlawful killing of a human being without malice aforethought, in the driving of a vehicle (vehicular manslaughter while intoxicated)",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The driving was in violation of Section 23140, 23152, or 23153 of the Vehicle Code",
+     "The killing was the proximate result of an unlawful act, not amounting to a felony, or of a lawful act that might produce death, in an unlawful manner"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Without gross negligence"
+    ],
+    "consequences": [
+     "If granted probation, the period of probation shall be not less than three nor more than five years"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months or two or four years",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "192": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits the unlawful killing of a human being without malice upon a sudden quarrel or heat of passion (voluntary manslaughter)",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The killing is upon a sudden quarrel or heat of passion"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits the unlawful killing of a human being without malice in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act which might produce death, in an unlawful manner, or without due caution and circumspection (involuntary manslaughter)",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to a felony",
+     "in the commission of a lawful act which might produce death, in an unlawful manner, or without due caution and circumspection"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "This subdivision does not apply to acts committed in the driving of a vehicle"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(1)",
+    "act": "Drives a vehicle in the commission of an unlawful act, not amounting to a felony; or drives a vehicle in the commission of a lawful act which might produce death, in an unlawful manner, causing an unlawful killing without malice",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to a felony",
+     "in the commission of a lawful act which might produce death, in an unlawful manner"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Except as provided in subdivision (a) of Section 191.5"
+    ],
+    "defenses": [],
+    "mentalState": [
+     "With gross negligence"
+    ],
+    "terms": [
+     "\"Gross negligence\": may include, based on the totality of the circumstances, participating in a sideshow, engaging in a motor vehicle speed contest, or speeding over 100 miles per hour"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(2)",
+    "act": "Drives a vehicle in the commission of an unlawful act, not amounting to a felony; or drives a vehicle in the commission of a lawful act which might produce death, in an unlawful manner, causing an unlawful killing without malice",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to a felony",
+     "in the commission of a lawful act which might produce death, in an unlawful manner"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Without gross negligence"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(3)",
+    "act": "Drives a vehicle in connection with a violation of paragraph (3) of subdivision (a) of Section 550, causing an unlawful killing without malice",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The collision or accident proximately resulted in the death of any person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "The vehicular collision or vehicular accident was knowingly caused for financial gain"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "192.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Operates a vessel in violation of subdivision (b), (c), (d), (e), or (f) of Section 655 of the Harbors and Navigation Code, and in the commission of an unlawful act, not amounting to felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to felony",
+     "in the commission of a lawful act that might produce death, in an unlawful manner"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With gross negligence"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Operates a vessel in violation of subdivision (b), (c), (d), (e), or (f) of Section 655 of the Harbors and Navigation Code, and in the commission of an unlawful act, not amounting to felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to felony",
+     "in the commission of a lawful act that might produce death, in an unlawful manner"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Without gross negligence"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Operates a vessel in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to a felony",
+     "in the commission of a lawful act that might produce death, in an unlawful manner"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "With gross negligence"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Operates a vessel in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act that might produce death, in an unlawful manner, causing an unlawful killing without malice aforethought",
+    "ways": [
+     "in the commission of an unlawful act, not amounting to a felony",
+     "in the commission of a lawful act that might produce death, in an unlawful manner"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Without gross negligence"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(e)",
+    "act": "Flees the scene of the crime after committing a violation of subdivision (a), (b), or (c)",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Upon conviction",
+     "The allegation is charged in the accusatory pleading and admitted by the defendant or found true by the trier of fact"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "consequences": [
+     "The court shall not strike a finding or allegation under this subdivision"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "In addition and consecutive to the punishment prescribed, an additional term of imprisonment of five years in the state prison",
+      "min": null,
+      "max": 5,
+      "flags": [
+       "consecutive"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "193": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits voluntary manslaughter",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 3, 6, or 11 years",
+      "min": null,
+      "max": 11,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits involuntary manslaughter",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+      "min": null,
+      "max": 4,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(1)",
+    "act": "Violates paragraph (1) of subdivision (c) of Section 192",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail for not more than one year or imprisonment in the state prison for two, four, or six years",
+      "min": null,
+      "max": 6,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(c)(2)",
+    "act": "Violates paragraph (2) of subdivision (c) of Section 192",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail for not more than one year",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)(3)",
+    "act": "Violates paragraph (3) of subdivision (c) of Section 192",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 4, 6, or 10 years",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "193.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Violates subdivision (a) of Section 192.5",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 4, 6, or 10 years",
+      "min": null,
+      "max": 10,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Violates subdivision (b) of Section 192.5",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year or by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months or two or four years",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Violates subdivision (c) of Section 192.5",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail for not more than one year or by imprisonment in the state prison for two, four, or six years",
+      "min": null,
+      "max": 6,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Violates subdivision (d) of Section 192.5",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail for not more than one year",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "193.8": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Relinquishes possession of a motor vehicle to a minor for the purpose of driving",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "A petition was sustained or the minor was convicted of a violation of Section 23103 as specified in Section 23103.5, 23140, 23152, or 23153 of the Vehicle Code or a violation of Section 191.5 or subdivision (a) of Section 192.5",
+     "The minor does not otherwise have a lawful right to possession of the vehicle"
+    ],
+    "exceptions": [
+     "Commercial bailments, motor vehicle leases, or parking arrangements, whether or not for compensation, provided by hotels, motels, or food facilities for customers, guests, or other invitees"
+    ],
+    "defenses": [],
+    "knowledge": [
+     "Knew or reasonably should have known that the minor was intoxicated at the time possession was relinquished"
+    ],
+    "who": "An adult who is the registered owner of a motor vehicle or in possession of a motor vehicle",
+    "consequences": [
+     "The adult is not subject to driver's license suspension or revocation or attendance at a licensed alcohol or drug education and counseling program"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in a county jail not exceeding six months, or both the fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "203": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Deprives a human being of a member of his body, or disables, disfigures, or renders it useless, or cuts or disables the tongue, or puts out an eye, or slits the nose, ear, or lip",
+    "ways": [
+     "Deprives a human being of a member of his body",
+     "Disables, disfigures, or renders it useless",
+     "Cuts or disables the tongue",
+     "Puts out an eye",
+     "Slits the nose, ear, or lip"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Unlawfully and maliciously"
+    ]
+   }
+  ]
+ },
+ "204": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits mayhem",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, four, or eight years",
+      "min": null,
+      "max": 8,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "205": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Causes permanent disability or disfigurement of another human being or deprives a human being of a limb, organ, or member of his or her body",
+    "ways": [
+     "Causes permanent disability or disfigurement of another human being",
+     "Deprives a human being of a limb, organ, or member of his or her body"
+    ],
+    "tags": [],
+    "conditions": [
+     "Unlawfully, under circumstances manifesting extreme indifference to the physical or psychological well-being of another person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Felony punishable by imprisonment in the state prison for life with the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Intentionally"
+    ],
+    "consequences": [
+     "It is not necessary to prove an intent to kill"
+    ]
+   }
+  ]
+ },
+ "206": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Inflicts great bodily injury as defined in Section 12022.7 upon the person of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The crime of torture does not require any proof that the victim suffered pain"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With the intent to cause cruel or extreme pain and suffering for the purpose of revenge, extortion, persuasion, or for any sadistic purpose"
+    ]
+   }
+  ]
+ },
+ "206.1": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits torture",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for a term of life",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "A defendant imprisoned for torture shall not be eligible for parole until they have served at least seven years, pursuant to Section 3046",
+     "For a crime of torture committed on or after January 1, 2026, if the defendant is an adult who had care or custody of the victim and the victim was 14 years of age or younger at the time of the crime, the defendant shall not be eligible for parole until they have served at least 10 years"
+    ]
+   }
+  ]
+ },
+ "207": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Force\" for kidnapping an unresisting infant or child: the amount of physical force required to take and carry the child away a substantial distance for an illegal purpose or with an illegal intent"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Steals or takes, or holds, detains, or arrests any person in this state, and carries the person into another country, state, or county, or into another part of the same county",
+    "ways": [
+     "Steals or takes",
+     "Holds, detains, or arrests"
+    ],
+    "tags": [],
+    "conditions": [
+     "Done forcibly, or by any other means of instilling fear",
+     "The person is carried into another country, state, or county, or into another part of the same county"
+    ],
+    "exceptions": [
+     "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+     "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Hires, persuades, entices, decoys, or seduces by false promises, misrepresentations, or the like, any child under the age of 14 years to go out of this country, state, or county, or into another part of the same county",
+    "ways": [
+     "Hires",
+     "Persuades",
+     "Entices",
+     "Decoys",
+     "Seduces by false promises, misrepresentations, or the like"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is a child under the age of 14 years"
+    ],
+    "exceptions": [
+     "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+     "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "For the purpose of committing any act defined in Section 288"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Takes or holds, detains, or arrests any person, with a design to take the person out of this state, or hires, persuades, entices, decoys, or seduces by false promises, misrepresentations, or the like, any person to go out of this state, or to be taken or removed therefrom",
+    "ways": [
+     "Takes or holds, detains, or arrests any person, with a design to take the person out of this state",
+     "Hires, persuades, entices, decoys, or seduces any person to go out of this state, or to be taken or removed therefrom"
+    ],
+    "tags": [],
+    "conditions": [
+     "Done forcibly, or by any other means of instilling fear (for the taking or holding)",
+     "Without having established a claim, according to the laws of the United States, or of this state (for the taking or holding)"
+    ],
+    "exceptions": [
+     "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+     "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "For the purpose and with the intent to sell that person into slavery or involuntary servitude, or otherwise to employ that person for his or her own use, or to the use of another, without the free will and consent of that persuaded person"
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Abducts or takes by force or fraud any person contrary to the law of the place where that act is committed, and brings, sends, or conveys that person within the limits of this state",
+    "ways": [
+     "Abducts",
+     "Takes by force or fraud"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person is out of this state when the act is committed",
+     "The person is afterwards found within the limits of this state"
+    ],
+    "exceptions": [
+     "Subdivisions (a) to (d) do not apply to any person who steals, takes, entices away, detains, conceals, or harbors any child under the age of 14 years, if that act is taken to protect the child from danger of imminent harm",
+     "Subdivisions (a) to (d) do not apply to any person acting under Section 834 or 837"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "208": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits kidnapping",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "The under-14 tier is not applicable to the taking, detaining, or concealing, of a minor child by a biological parent, a natural father, as specified in Section 7611 of the Family Code, an adoptive parent, or a person who has been granted access to the minor child by a court order"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for three, five, or eight years",
+      "min": null,
+      "max": 8,
+      "flags": []
+     },
+     {
+      "if": "the person kidnapped is under 14 years of age at the time of the commission of the crime",
+      "penalty": "Imprisonment in the state prison for 5, 8, or 11 years",
+      "min": null,
+      "max": 11,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "In all cases in which probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+     "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+    ]
+   }
+  ]
+ },
+ "209": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Seizes, confines, inveigles, entices, decoys, abducts, conceals, kidnaps, or carries away another person by any means whatsoever with intent to hold or detain, or holds or detains, that person for ransom, reward, or to commit extortion or to exact from another person any money or valuable thing, or aids or abets any such act",
+    "ways": [
+     "Seizes, confines, inveigles, entices, decoys, abducts, conceals, kidnaps, or carries away another person",
+     "Holds or detains that person",
+     "Aids or abets any such act"
+    ],
+    "tags": [],
+    "conditions": [
+     "For ransom, reward, or to commit extortion or to exact from another person any money or valuable thing"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "a person subjected to that act suffers death or bodily harm, or is intentionally confined in a manner that exposes that person to a substantial likelihood of death",
+      "penalty": "Imprisonment in the state prison for life without possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     },
+     {
+      "if": "no person subjected to that act suffers death or bodily harm",
+      "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "When probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+     "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Kidnaps or carries away an individual to commit robbery, rape, oral copulation, sodomy, or any violation of Section 264.1, 288, 289, or former Section 262",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The movement of the victim is beyond that merely incidental to the commission of, and increases the risk of harm to the victim over and above that necessarily present in, the intended underlying offense"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Subdivision (b) does not supersede or affect Section 667.61",
+     "A person may be charged with a violation of subdivision (b) and Section 667.61",
+     "A person may not be punished under subdivision (b) and Section 667.61 for the same act that constitutes a violation of both",
+     "When probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+     "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+    ]
+   }
+  ]
+ },
+ "209.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Kidnaps another person who is not a principal in the commission of the carjacking",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "During the commission of a carjacking and in order to facilitate the commission of the carjacking",
+     "The movement of the victim is beyond that merely incidental to the commission of the carjacking",
+     "The victim is moved a substantial distance from the vicinity of the carjacking",
+     "The movement of the victim increases the risk of harm to the victim over and above that necessarily present in the crime of carjacking itself"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "In all cases in which probation is granted, the court shall, except in unusual cases where the interests of justice would best be served by a lesser penalty, require as a condition of the probation that the person be confined in the county jail for 12 months",
+     "If the court grants probation without requiring the defendant to be confined in the county jail for 12 months, it shall specify its reason or reasons for imposing a lesser penalty"
+    ]
+   }
+  ]
+ },
+ "210": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Poses as, or in any manner represents himself to be, a person who has seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away any person, or who holds or detains such person, or who has aided or abetted any such act, or who has the influence, power, or ability to obtain the release of such person",
+    "ways": [
+     "Poses as a person who has seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away any person",
+     "Poses as a person who holds or detains such person",
+     "Poses as a person who has aided or abetted any such act",
+     "Poses as a person who has the influence, power, or ability to obtain the release of such person"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Nothing in this section prohibits any person who, in good faith believes that he can rescue any person who has been seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away, and who has had no part in, or connection with, such confinement, inveigling, decoying, abducting, concealing, kidnapping, or carrying away, from offering to rescue or obtain the release of such person for a monetary consideration or other thing of value"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Felony punishable by imprisonment for two, three or four years",
+      "min": null,
+      "max": 4,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "For the purpose of obtaining any ransom or reward, or to extort or exact from any person any money or thing of value"
+    ]
+   }
+  ]
+ },
+ "210.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the offense of false imprisonment, as defined in Section 236, against a person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "For purposes of protection from arrest, which substantially increases the risk of harm to the victim, or for purposes of using the person as a shield"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for three, five, or eight years",
+      "min": null,
+      "max": 8,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "211": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Takes personal property in the possession of another, from his person or immediate presence, and against his will",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Accomplished by means of force or fear"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No penalty is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Feloniously"
+    ]
+   }
+  ]
+ },
+ "213": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(1)",
+    "act": "Commits robbery of the first degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "In all cases other than that specified in subparagraph (A), by imprisonment in the state prison for three, four, or six years",
+      "min": null,
+      "max": 6,
+      "flags": []
+     },
+     {
+      "if": "the defendant, voluntarily acting in concert with two or more other persons, commits the robbery within an inhabited dwelling house, a vessel as defined in Section 21 of the Harbors and Navigation Code, which is inhabited and designed for habitation, an inhabited floating home as defined in subdivision (d) of Section 18075.55 of the Health and Safety Code, a trailer coach as defined in the Vehicle Code, which is inhabited, or the inhabited portion of any other building",
+      "penalty": "Imprisonment in the state prison for three, six, or nine years",
+      "min": null,
+      "max": 9,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(a)(2)",
+    "act": "Commits robbery of the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, three, or five years",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Attempts robbery in violation of paragraph (2) of subdivision (a)",
+    "ways": [],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "Notwithstanding Section 664"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "214": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Goes upon or boards any railroad train, car or engine; interferes in any manner with any switch, rail, sleeper, viaduct, culvert, embankment, structure or appliance pertaining to or connected with any railroad; places any dynamite or other explosive substance or material upon or near the track of any railroad; sets fire to any railroad bridge or trestle; shows, masks, extinguishes or alters any light or other signal; exhibits or compels any other person to exhibit any false light or signal; stops any such train, car or engine, or slackens the speed thereof; or compels or attempts to compel any person in charge or control thereof to stop any such train, car or engine, or slacken the speed thereof",
+    "ways": [
+     "Goes upon or boards any railroad train, car or engine",
+     "Interferes with any switch, rail, sleeper, viaduct, culvert, embankment, structure or appliance of a railroad",
+     "Places any dynamite or other explosive substance or material upon or near the track of any railroad",
+     "Sets fire to any railroad bridge or trestle",
+     "Shows, masks, extinguishes or alters any light or other signal",
+     "Exhibits or compels any other person to exhibit any false light or signal",
+     "Stops any such train, car or engine, or slackens the speed thereof",
+     "Compels or attempts to compel any person in charge or control thereof to stop any such train, car or engine, or slacken the speed thereof"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With the intention of robbing any passenger or other person on such train, car or engine, of any personal property thereon in the possession or charge or under the control of any such passenger or other person"
+    ]
+   }
+  ]
+ },
+ "215": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Takes a motor vehicle in the possession of another, from his or her person or immediate presence, or from the person or immediate presence of a passenger of the motor vehicle, against his or her will",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Accomplished by means of force or fear"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for a term of three, five, or nine years",
+      "min": null,
+      "max": 9,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Feloniously",
+     "With the intent to either permanently or temporarily deprive the person in possession of the motor vehicle of his or her possession"
+    ],
+    "consequences": [
+     "This section shall not be construed to supersede or affect Section 211",
+     "A person may be charged with a violation of this section and Section 211",
+     "No defendant may be punished under this section and Section 211 for the same act which constitutes a violation of both"
+    ]
+   }
+  ]
+ },
+ "217.1": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits any assault upon the President or Vice President of the United States, the Governor of any state or territory, any justice, judge, or former judge of any local, state, or federal court of record, any commissioner, referee, or other subordinate judicial officer of any court of record, the secretary or director of any executive agency or department of the United States or any state or territory, or any other official of the United States or any state or territory holding elective office, any mayor, city council member, county supervisor, sheriff, district attorney, prosecutor or assistant prosecutor of any local, state, or federal prosecutor’s office, a former prosecutor or assistant prosecutor, public defender or assistant public defender, a former public defender or assistant public defender, the chief of police of any municipal police department, any peace officer, any juror in any local, state, or federal court of record, or the immediate family of any of these officials",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Except as provided in subdivision (b)"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not exceeding one year or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "In retaliation for or to prevent the performance of the victim’s official duties"
+    ],
+    "terms": [
+     "\"Immediate family\": spouse, child, stepchild, brother, stepbrother, sister, stepsister, mother, stepmother, father, or stepfather",
+     "\"Peace officer\": any person specified in subdivision (a) of Section 830.1 or Section 830.5"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Attempts to commit murder against any person listed in subdivision (a)",
+    "ways": [],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Confined in the state prison for a term of 15 years to life",
+      "min": 15,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "In retaliation for or to prevent the performance of the victim’s official duties"
+    ],
+    "consequences": [
+     "The provisions of Article 2.5 (commencing with Section 2930) of Chapter 7 of Title 1 of Part 3 shall apply to reduce any minimum term of 15 years in a state prison imposed pursuant to this section, but that person shall not otherwise be released on parole prior to that time"
+    ],
+    "terms": [
+     "\"Immediate family\": spouse, child, stepchild, brother, stepbrother, sister, stepsister, mother, stepmother, father, or stepfather",
+     "\"Peace officer\": any person specified in subdivision (a) of Section 830.1 or Section 830.5"
+    ]
+   }
+  ]
+ },
+ "218": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Throws out a switch, removes a rail, or places any obstruction on any railroad; places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad; or sets fire to any railroad bridge or trestle over which any such train, car or engine must pass",
+    "ways": [
+     "Throws out a switch, removes a rail, or places any obstruction on any railroad",
+     "Places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+     "Sets fire to any railroad bridge or trestle"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Felony punishable by imprisonment in the state prison for life without possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ],
+    "intent": [
+     "Unlawfully",
+     "With the intention of derailing, blowing up, or wrecking any such train, car or engine"
+    ]
+   }
+  ]
+ },
+ "218.1": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Places or causes to be placed any obstruction upon or near the track of any railroad",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The obstruction proximately results in either the damaging or derailing of any passenger, freight, or other train, or injures a rail passenger or employee"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years, or imprisonment in a county jail for not more than one year, or a fine not to exceed two thousand five hundred dollars ($2,500), or both that imprisonment and fine",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "mentalState": [
+     "With gross negligence"
+    ],
+    "intent": [
+     "Unlawfully"
+    ]
+   }
+  ]
+ },
+ "219": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Throws out a switch, removes a rail, or places any obstruction on any railroad; places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad; or sets fire to any railroad bridge or trestle over which any such train, car or engine must pass",
+    "ways": [
+     "Throws out a switch, removes a rail, or places any obstruction on any railroad",
+     "Places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+     "Sets fire to any railroad bridge or trestle"
+    ],
+    "tags": [],
+    "conditions": [
+     "The train, car or engine is thus derailed, blown up, or wrecked"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Felony punishable by imprisonment in the state prison for life with the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": []
+     },
+     {
+      "if": "any person suffers death as a proximate result",
+      "penalty": "Death or imprisonment in the state prison for life without possibility of parole",
+      "min": null,
+      "max": 1000,
+      "flags": [
+       "no parole"
+      ]
+     }
+    ],
+    "intent": [
+     "Unlawfully",
+     "With the intention of derailing, blowing up, or wrecking any such train, car or engine"
+    ],
+    "consequences": [
+     "The penalty shall be determined pursuant to Sections 190.3 and 190.4"
+    ]
+   }
+  ]
+ },
+ "219.1": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Throws, hurls or projects at a vehicle operated by a common carrier, while such vehicle is either in motion or stationary, any rock, stone, brick, bottle, piece of wood or metal or any other missile of any kind or character, or does any unlawful act",
+    "ways": [
+     "Throws, hurls or projects at a vehicle operated by a common carrier any rock, stone, brick, bottle, piece of wood or metal or any other missile",
+     "Does any unlawful act"
+    ],
+    "tags": [],
+    "conditions": [
+     "The vehicle is thus wrecked and bodily harm is caused"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, four, or six years",
+      "min": null,
+      "max": 6,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Unlawfully",
+     "With the intention of wrecking such vehicle and doing bodily harm"
+    ]
+   }
+  ]
+ },
+ "219.2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Throws, hurls, or projects a stone or other hard substance, or shoots a missile, at a train, locomotive, railway car, caboose, cable railway car, street railway car, or bus or at a steam vessel or watercraft used for carrying passengers or freight on any of the waters within or bordering on this state",
+    "ways": [
+     "Throws, hurls, or projects a stone or other hard substance",
+     "Shoots a missile"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not exceeding one year, or in a state prison, or a fine not exceeding two thousand dollars ($2,000), or both such fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "Willfully"
+    ]
+   }
+  ]
+ },
+ "219.3": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Drops or throws any object or missile from any toll bridge",
+    "ways": [
+     "Drops",
+     "Throws"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Wilfully"
+    ]
+   }
+  ]
+ },
+ "220": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(1)",
+    "act": "Assaults another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Except as provided in subdivision (b)"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, four, or six years",
+      "min": null,
+      "max": 6,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With intent to commit mayhem, rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+    ]
+   },
+   {
+    "where": "(a)(2)",
+    "act": "Assaults another person under 18 years of age",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is under 18 years of age"
+    ],
+    "exceptions": [
+     "Except as provided in subdivision (b)"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for five, seven, or nine years",
+      "min": null,
+      "max": 9,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With the intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Assaults another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The assault is in the commission of a burglary of the first degree, as defined in subdivision (a) of Section 460"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for life with the possibility of parole",
+      "min": null,
+      "max": 999,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+    ]
+   }
+  ]
+ },
+ "222": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Administers to another any chloroform, ether, laudanum, or any controlled substance, anaesthetic, or intoxicating agent",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Felony punishable by imprisonment in the state prison for 16 months, or two or three years",
+      "min": null,
+      "max": 3,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With intent thereby to enable or assist himself or herself or any other person to commit a felony"
+    ]
+   }
+  ]
+ },
+ "236": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Violates the personal liberty of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in Section 237",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Unlawfully"
+    ]
+   }
+  ]
+ },
+ "236.1": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Commercial sex act\": sexual conduct on account of which anything of value is given or received by a person",
+    "\"Minor\": a person less than 18 years of age",
+    "\"Forced labor or services\": labor or services that are performed or provided by a person and are obtained or maintained through force, fraud, duress, or coercion, or equivalent conduct that would reasonably overbear the will of the person",
+    "\"Deprivation or violation of the personal liberty of another\": includes substantial and sustained restriction of another's liberty accomplished through force, fear, fraud, deceit, coercion, violence, duress, menace, or threat of unlawful injury to the victim or to another person, under circumstances where the person receiving or apprehending the threat reasonably believes that it is likely that the person making the threat would carry it out"
+   ],
+   "consequences": [
+    "Consent by a victim who is a minor at the time of the offense is not a defense",
+    "Mistake of fact as to the age of a victim who is a minor at the time of the offense is not a defense",
+    "A court shall report a conviction of subdivision (a), (b), or (c) that occurred while the person was using a commercial motor vehicle to the Department of Motor Vehicles"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Deprives or violates the personal liberty of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 5, 8, or 12 years and a fine of not more than five hundred thousand dollars ($500,000)",
+      "min": null,
+      "max": 12,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With the intent to obtain forced labor or services"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Deprives or violates the personal liberty of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 8, 14, or 20 years and a fine of not more than five hundred thousand dollars ($500,000)",
+      "min": null,
+      "max": 20,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With the intent to effect or maintain a violation of Section 266, 266h, 266i, 266j, 267, 311.1, 311.2, 311.3, 311.4, 311.5, 311.6, or 518"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Causes, induces, or persuades, or attempts to cause, induce, or persuade, a person who is a minor at the time of commission of the offense to engage in a commercial sex act",
+    "ways": [
+     "causes",
+     "induces",
+     "persuades",
+     "attempts to cause, induce, or persuade"
+    ],
+    "tags": [],
+    "conditions": [
+     "The person caused, induced, or persuaded is a minor at the time of commission of the offense"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 5, 8, or 12 years and a fine of not more than five hundred thousand dollars ($500,000)",
+      "min": null,
+      "max": 12,
+      "flags": []
+     },
+     {
+      "if": "the offense involves force, fear, fraud, deceit, coercion, violence, duress, menace, or threat of unlawful injury to the victim or to another person",
+      "penalty": "Imprisonment in the state prison for 15 years to life and a fine of not more than five hundred thousand dollars ($500,000)",
+      "min": 15,
+      "max": 999,
+      "flags": [
+       "mandatory minimum"
+      ]
+     }
+    ],
+    "intent": [
+     "With the intent to effect or maintain a violation of Section 266, 266h, 266i, 266j, 267, 311.1, 311.2, 311.3, 311.4, 311.5, 311.6, or 518"
+    ]
+   }
+  ]
+ },
+ "236.4": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "Upon conviction of a violation of Section 236.1, the court may, in addition to any other penalty, fine, or restitution, order the defendant to pay an additional fine not to exceed one million dollars ($1,000,000)",
+    "Fines are deposited in the Victim-Witness Assistance Fund"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Inflicts great bodily injury on a victim in the commission or attempted commission of a violation of Section 236.1",
+    "ways": [],
+    "tags": [
+     "attempt"
+    ],
+    "conditions": [
+     "Great bodily injury is inflicted on a victim in the commission or attempted commission of a violation of Section 236.1"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "An additional and consecutive term of imprisonment in the state prison for 5, 7, or 10 years",
+      "min": null,
+      "max": 10,
+      "flags": [
+       "consecutive"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Has previously been convicted of a violation of any crime specified in Section 236.1",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person has previously been convicted of a violation of any crime specified in Section 236.1",
+     "Each additional conviction was on charges separately brought and tried"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "An additional and consecutive term of imprisonment in the state prison for 5 years for each additional conviction on charges separately brought and tried",
+      "min": null,
+      "max": 5,
+      "flags": [
+       "consecutive"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "237": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits false imprisonment",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail for not more than one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "the false imprisonment is effected by violence, menace, fraud, or deceit",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits false imprisonment of an elder or dependent adult by use of violence, menace, fraud, or deceit",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is an elder or dependent adult",
+     "The false imprisonment is by use of violence, menace, fraud, or deceit"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Punishable as described in subdivision (f) of Section 368. Set in Section 368",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "240": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person has a present ability to commit the violent injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in Section 241",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "241": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Parking control officer\": any person employed by a city, county, or city and county, to monitor and enforce state laws and local ordinances relating to parking",
+    "\"Traffic officer\": any person employed by a county or city to monitor and enforce state laws and local ordinances relating to parking and the operation of vehicles",
+    "\"Animal control officer\": any person employed by a county or city for purposes of enforcing animal control laws or regulations",
+    "\"Search and rescue member\": any person who is part of an organized search and rescue team managed by a governmental agency",
+    "\"Health care worker\": a person who, in the course and scope of employment, performs duties directly associated with the care and treatment rendered by the hospital's emergency department or the department's security"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail not exceeding six months, or both the fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault against the person of a parking control officer engaged in the performance of their duties",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a parking control officer engaged in the performance of their duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding six months, or both the fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a parking control officer"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits an assault against the person of a peace officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of their duties, or a physician or nurse engaged in rendering emergency medical care outside a hospital, clinic, or other health care facility, or a physician, nurse, or other health care worker of a hospital engaged in providing services within the emergency department",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a peace officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of their duties, or a physician or nurse engaged in rendering emergency medical care outside a hospital, clinic, or other health care facility, or a physician, nurse, or other health care worker of a hospital engaged in providing services within the emergency department"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding one year, or both the fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is in one of the listed categories and engaged in the performance of the listed duties"
+    ]
+   }
+  ]
+ },
+ "241.1": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault against the person of a custodial officer as defined in Section 831 or 831.5",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a custodial officer engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a custodial officer engaged in the performance of his or her duties"
+    ]
+   }
+  ]
+ },
+ "241.2": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"School\": any elementary school, junior high school, four-year high school, senior high school, adult school or any branch thereof, opportunity school, continuation high school, regional occupational center, evening high school, technical school, or community college",
+    "\"Park\": any publicly maintained or operated park, not including any facility when used for professional sports or commercial events"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault on school or park property against any person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The assault is committed on school or park property"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "When committed by a minor on school property, the court may order the minor to attend counseling at the expense of the minor's parents, in addition to any other fine or sentence or as a condition of probation"
+    ]
+   }
+  ]
+ },
+ "241.3": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Public transportation provider\": a publicly or privately owned entity that operates, for the transportation of persons for hire, a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle, including a vehicle operated on stationary rails or on a track or rail suspended in air, or that operates a schoolbus",
+    "\"On the property of\": the entire station where public transportation is available, including the parking lot reserved for the public who utilize the transportation system"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault against any person on the property of, or on a motor vehicle of, a public transportation provider",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The assault is against a person on the property of, or on a motor vehicle of, a public transportation provider"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in a county jail not to exceed one year, or both the fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "241.4": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail not exceeding six months, or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "",
+    "act": "Commits an assault against the person of a peace officer engaged in the performance of his or her duties as a member of a police department of a school district pursuant to Section 38000 of the Education Code",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a peace officer engaged in the performance of his or her duties as a member of a police department of a school district pursuant to Section 38000 of the Education Code"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a peace officer engaged in the performance of his or her duties"
+    ]
+   }
+  ]
+ },
+ "241.5": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Highway worker\": an employee of the Department of Transportation, a contractor or employee of a contractor while working under contract with the Department of Transportation, an employee of a city, county, or city and county, a contractor or employee of a contractor while working under contract with a city, county, or city and county, or a volunteer as defined in Section 1720.4 of the Labor Code who performs maintenance, repair, or construction, operates equipment, or performs related maintenance work on state highway or local street or road infrastructures in work zones"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault against a highway worker engaged in the performance of his or her duties",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a highway worker engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not to exceed two thousand dollars ($2,000) or imprisonment in a county jail up to one year or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a highway worker engaged in the performance of his or her duties"
+    ]
+   }
+  ]
+ },
+ "241.6": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"School employee\": has the same meaning as defined in subdivision (d) of Section 245.5"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault against a school employee engaged in the performance of his or her duties, or in retaliation for an act performed in the course of his or her duties",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a school employee engaged in the performance of his or her duties, or the assault is in retaliation for an act performed in the course of his or her duties, whether on or off campus, during the schoolday or at any other time"
+    ],
+    "exceptions": [
+     "Conduct arising during the course of an otherwise lawful labor dispute"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding two thousand dollars ($2,000), or both the fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know the victim is a school employee"
+    ]
+   }
+  ]
+ },
+ "241.7": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault against any juror or alternate juror who was selected and sworn in that legal action",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The assault is committed while the legal action is pending or after the conclusion of the trial",
+     "The victim is a juror or alternate juror who was selected and sworn in that legal action"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both such fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "who": "A party to a civil or criminal action in which a jury has been selected to try the case"
+   }
+  ]
+ },
+ "241.8": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"Because of\": the bias motivation must be a cause in fact of the assault, whether or not other causes exist; when multiple concurrent motives exist, the prohibited bias must be a substantial factor in bringing about the assault"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault against a member of the United States Armed Forces",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The assault is because of the victim's service in the United States Armed Forces"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), by imprisonment in a county jail for a period not exceeding one year, or by both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "243": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a battery",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding six months, or both that fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits a battery against a peace officer, custodial officer, firefighter, emergency medical technician, lifeguard, security officer, custody assistant, process server, traffic officer, code enforcement officer, animal control officer, search and rescue member, probation department nonsworn employee, physician, nurse, or hospital emergency department health care worker",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is engaged in the performance of their duties, whether on or off duty, or as otherwise described in this subdivision"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is one of the listed persons"
+    ]
+   },
+   {
+    "where": "(c)(1)",
+    "act": "Commits a battery against a custodial officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, animal control officer, nonsworn employee of a probation department, physician, or nurse",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is engaged in the performance of their duties, whether on or off duty, or rendering emergency medical care",
+     "An injury is inflicted on that victim"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not more than two thousand dollars ($2,000), by imprisonment in a county jail not exceeding one year, or by both that fine and imprisonment, or by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is one of the listed persons"
+    ],
+    "terms": [
+     "\"Injury\": any physical injury which requires professional medical treatment"
+    ]
+   },
+   {
+    "where": "(c)(2)",
+    "act": "Commits the battery specified in paragraph (1) against a peace officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The peace officer is engaged in the performance of their duties, whether on or off duty",
+     "An injury is inflicted on that victim"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine of not more than ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, or both that fine and imprisonment",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a peace officer engaged in the performance of their duties"
+    ],
+    "terms": [
+     "\"Injury\": any physical injury which requires professional medical treatment"
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Commits a battery against any person that inflicts serious bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Serious bodily injury is inflicted on the person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year or imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Serious bodily injury\": a serious impairment of physical condition, including, but not limited to, the following: loss of consciousness; concussion; bone fracture; protracted loss or impairment of function of any bodily member or organ; a wound requiring extensive suturing; and serious disfigurement"
+    ]
+   },
+   {
+    "where": "(e)(1)",
+    "act": "Commits a battery against a spouse, a person with whom the defendant is cohabiting, a person who is the parent of the defendant's child, former spouse, fiance or fiancee, or a person with whom the defendant currently has, or has previously had, a dating or engagement relationship",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail for a period of not more than one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "probation is granted or the sentence is suspended and the person has been previously convicted of a violation of this subdivision or Section 273.5",
+      "penalty": "Imprisoned for not less than 48 hours in addition to the probation conditions; the court, upon a showing of good cause, may elect not to impose it",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "If probation is granted, or the execution or imposition of the sentence is suspended, the defendant must participate in, for no less than one year, and successfully complete, a batterer's treatment program, or if none is available, another appropriate counseling program designated by the court",
+     "On probation, conditions may include, in lieu of a fine, payments to a domestic violence shelter-based program, up to a maximum of five thousand dollars ($5,000), or reimbursing the victim for reasonable costs of counseling and other reasonable expenses",
+     "The court shall determine the defendant's ability to pay"
+    ],
+    "terms": [
+     "\"Dating relationship\": frequent, intimate associations primarily characterized by the expectation of affectional or sexual involvement independent of financial considerations"
+    ]
+   }
+  ]
+ },
+ "243.1": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a battery against the person of a custodial officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The custodial officer is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a custodial officer engaged in the performance of his or her duties"
+    ]
+   }
+  ]
+ },
+ "243.2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)(1)",
+    "act": "Commits a battery against any person on school property, park property, or the grounds of a public or private hospital",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Section 243.6 otherwise provides",
+     "Conduct arising during the course of an otherwise lawful labor dispute"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both the fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "When committed by a minor on school property, the court may order the minor to attend counseling at the expense of the minor's parents"
+    ],
+    "terms": [
+     "\"Hospital\": a facility for the diagnosis, care, and treatment of human illness that is subject to, or specifically exempted from, the licensure requirements of Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code",
+     "\"Park\": any publicly maintained or operated park, not including any facility when used for professional sports or commercial events"
+    ]
+   }
+  ]
+ },
+ "243.25": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a battery against the person of an elder or a dependent adult",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in a county jail not to exceed one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "With knowledge that he or she is an elder or a dependent adult"
+    ]
+   }
+  ]
+ },
+ "243.3": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a battery against the person of an operator, driver, or passenger on a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle used for the transportation of persons for hire, or against a schoolbus driver, station agent or ticket agent, public transportation provider, or employee or contractor of a public transportation provider",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim, in the case of an operator, driver, agent, employee, or contractor, is engaged in the performance of their duties, or is a passenger"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "an injury is inflicted on that victim",
+      "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year or in the state prison for 16 months, or two or three years, or both that fine and imprisonment",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is engaged in the performance of their duties, or is a passenger"
+    ]
+   }
+  ]
+ },
+ "243.35": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a battery against any person on the property of, or in a motor vehicle of, a public transportation provider",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Section 243.3 otherwise provides"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not to exceed two thousand dollars ($2,000), or imprisonment in a county jail not to exceed one year, or both the fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Public transportation provider\": a publicly or privately owned entity that operates, for the transportation of persons for hire, a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle, including a vehicle operated on stationary rails or on a track or rail suspended in air, or that operates a schoolbus",
+     "\"On the property of\": the entire station where public transportation is available, including the parking lot reserved for the public who utilize the transportation system"
+    ]
+   }
+  ]
+ },
+ "243.4": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "In a felony conviction, that the defendant was an employer and the victim an employee, or that the defendant was employed at the hospital where the offense occurred and the victim was in the defendant's care or seeking medical care there, is a factor in aggravation in sentencing"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Touches an intimate part of another person while that person is unlawfully restrained by the accused or an accomplice",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The touching is against the will of the person touched"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+    ],
+    "terms": [
+     "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+     "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Touches an intimate part of another person who is institutionalized for medical treatment and who is seriously disabled or medically incapacitated",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The touching is against the will of the person touched"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+    ],
+    "terms": [
+     "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+     "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense",
+     "\"Seriously disabled\": a person with severe physical or sensory disabilities",
+     "\"Medically incapacitated\": a person who is incapacitated as a result of prescribed sedatives, anesthesia, or other medication",
+     "\"Institutionalized\": a person who is located voluntarily or involuntarily in a hospital, medical treatment facility, nursing home, acute care facility, or mental hospital"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Touches an intimate part of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is at the time unconscious of the nature of the act because the perpetrator fraudulently represented that the touching served a professional purpose"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+    ],
+    "terms": [
+     "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+     "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense"
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Causes another, against that person's will, to masturbate or touch an intimate part of either of those persons or a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person is unlawfully restrained either by the accused or an accomplice, or is institutionalized for medical treatment and is seriously disabled or medically incapacitated"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year, and by a fine not exceeding two thousand dollars ($2,000); or by imprisonment in the state prison for two, three, or four years, and by a fine not exceeding ten thousand dollars ($10,000)",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "For the purpose of sexual arousal, sexual gratification, or sexual abuse"
+    ],
+    "terms": [
+     "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+     "\"Touches\": physical contact with the skin of another person whether accomplished directly or through the clothing of the person committing the offense"
+    ]
+   },
+   {
+    "where": "(e)(1)",
+    "act": "Touches an intimate part of another person, or causes another to masturbate or touch an intimate part of either of those persons or a third person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The touching or act is against the will of the person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Misdemeanor sexual battery: a fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding six months, or both that fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "the defendant was an employer and the victim was an employee of the defendant",
+      "penalty": "A fine not exceeding three thousand dollars ($3,000), by imprisonment in a county jail not exceeding six months, or by both that fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "For the specific purpose of sexual arousal, sexual gratification, or sexual abuse"
+    ],
+    "consequences": [
+     "Any fine amount above two thousand dollars ($2,000) is transmitted to the State Treasury for distribution to the Civil Rights Department, but not until all fines, including any restitution fines, have been paid in full"
+    ],
+    "terms": [
+     "\"Intimate part\": the sexual organ, anus, groin, or buttocks of any person, and the breast of a female",
+     "\"Touches\": physical contact with another person, whether accomplished directly, through the clothing of the person committing the offense, or through the clothing of the victim"
+    ]
+   },
+   {
+    "where": "(k)",
+    "act": "Commits a violation of subdivision (a), (b), (c), or (d) against a minor",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is a minor",
+     "The person has a prior felony conviction for a violation of this section"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony, punishable by imprisonment in the state prison for two, three, or four years and a fine not exceeding ten thousand dollars ($10,000)",
+      "min": null,
+      "max": 4,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Minor\": a person under 18 years of age"
+    ]
+   }
+  ]
+ },
+ "243.6": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a battery against a school employee",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The victim is engaged in the performance of his or her duties, or the battery is in retaliation for an act performed in the course of his or her duties, whether on or off campus, during the schoolday or at any other time"
+    ],
+    "exceptions": [
+     "Conduct arising during the course of an otherwise lawful labor dispute"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding two thousand dollars ($2,000), or both the fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     },
+     {
+      "if": "an injury is inflicted on the victim",
+      "penalty": "Imprisonment in a county jail for not more than one year, or a fine of not more than two thousand dollars ($2,000), or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a school employee"
+    ]
+   }
+  ]
+ },
+ "243.65": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a battery against the person of a highway worker",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The highway worker is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is a highway worker engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Highway worker\": an employee of the Department of Transportation, a contractor or employee of a contractor while working under contract with the Department of Transportation, an employee of a city, county, or city and county, a contractor or employee of a contractor while working under contract with a city, county, or city and county, or a volunteer as defined in Section 1720.4 of the Labor Code who performs maintenance, repair, or construction of, or operates equipment on, or performs related maintenance work on, state highway or local street or road infrastructures in work zones"
+    ]
+   }
+  ]
+ },
+ "243.7": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a battery against any juror or alternate juror who was selected and sworn in that legal action",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The battery is committed while the legal action is pending or after the conclusion of the trial"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not to exceed five thousand dollars ($5,000), or imprisonment in the county jail not exceeding one year, or both such fine and imprisonment, or imprisonment in the state prison for 16 months, or for two or three years",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "who": "A person who is a party to a civil or criminal action in which a jury has been selected to try the case"
+   }
+  ]
+ },
+ "243.8": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a battery against a sports official",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The battery is immediately prior to, during, or immediately following an interscholastic, intercollegiate, or any other organized amateur or professional athletic contest in which the sports official is participating"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), or imprisonment in the county jail not exceeding one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knowing or reasonably should know that the victim is engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Sports official\": any individual who serves as a referee, umpire, linesman, or who serves in a similar capacity but may be known by a different title or name and is duly registered by, or a member of, a local, state, regional, or national organization engaged in part in providing education and training to sports officials"
+    ]
+   }
+  ]
+ },
+ "243.83": {
+  "shared": {
+   "who": "A person attending a professional sporting event",
+   "terms": [
+    "\"Professional sporting event\": a scheduled sporting event involving a professional sports team or organization or a professional athlete for which an admission fee is charged to the public"
+   ],
+   "consequences": [
+    "The fine is not subject to penalty assessments"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)(1)",
+    "act": "Throw any object on or across the court or field of play",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Players and sports officials"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "An infraction punishable by a fine not exceeding two hundred fifty dollars ($250)",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With the intent to interfere with play or distract a player"
+    ],
+    "who": "A person attending a professional sporting event"
+   },
+   {
+    "where": "(a)(2)",
+    "act": "Enter upon the court or field of play without permission from an authorized person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The entry is any time after the authorized participants of play have entered the court or field to begin the sporting event and until the participants of play have completed the playing time"
+    ],
+    "exceptions": [
+     "Players and sports officials"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "An infraction punishable by a fine not exceeding two hundred fifty dollars ($250)",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ],
+    "who": "A person attending a professional sporting event"
+   }
+  ]
+ },
+ "243.9": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a battery by gassing upon the person of any peace officer or employee of the local detention facility",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail or imprisonment in the state prison for two, three, or four years",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "who": "A person confined in any local detention facility",
+    "terms": [
+     "\"Gassing\": intentionally placing or throwing, or causing to be placed or thrown, upon the person of another, any human excrement or other bodily fluids or bodily substances or any mixture containing human excrement or other bodily fluids or bodily substances that results in actual contact with the person's skin or membranes"
+    ]
+   }
+  ]
+ },
+ "243.10": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits a battery against a member of the United States Armed Forces",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The battery is because of the victim's service in the United States Armed Forces"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding two thousand dollars ($2,000), by imprisonment in a county jail for a period not exceeding one year, or by both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Because of\": the bias motivation must be a cause in fact of the battery, whether or not other causes exist; when multiple concurrent motives exist, the prohibited bias must be a substantial factor in bringing about the battery"
+    ]
+   }
+  ]
+ },
+ "243.15": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a battery upon the person of any individual who is not himself or herself a person confined or sentenced therein",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or in a county jail for not more than one year",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "who": "A person confined in, sentenced to, or serving a sentence in, a city or county jail, industrial farm, or industrial road camp in this state"
+   }
+  ]
+ },
+ "244": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Places or throws, or causes to be placed or thrown, upon the person of another, any vitriol, corrosive acid, flammable substance, or caustic chemical of any nature",
+    "ways": [
+     "places",
+     "throws",
+     "causes to be placed or thrown"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, three or four years",
+      "min": null,
+      "max": 4,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Willfully and maliciously",
+     "With the intent to injure the flesh or disfigure the body of that person"
+    ],
+    "terms": [
+     "\"Flammable substance\": gasoline, petroleum products, or flammable liquids with a flashpoint of 150 degrees Fahrenheit or less"
+    ]
+   }
+  ]
+ },
+ "244.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(b)",
+    "act": "Commits an assault upon the person of another with a stun gun or less lethal weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for a term not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, two, or three years",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Stun gun\": any item, except a less lethal weapon, as defined in Section 16780, used or intended to be used as either an offensive or defensive weapon that is capable of temporarily immobilizing a person by the infliction of an electrical charge"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits an assault upon the person of a peace officer or firefighter with a stun gun or less lethal weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The peace officer or firefighter is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail for a term not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the person is a peace officer or firefighter engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Stun gun\": any item, except a less lethal weapon, as defined in Section 16780, used or intended to be used as either an offensive or defensive weapon that is capable of temporarily immobilizing a person by the infliction of an electrical charge"
+    ]
+   }
+  ]
+ },
+ "245": {
+  "shared": {
+   "who": null,
+   "consequences": [
+    "When convicted in a case involving use of a deadly weapon or instrument or firearm owned by that person, the court shall order the weapon deemed a nuisance, confiscated and disposed of"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(a)(1)",
+    "act": "Commits an assault upon the person of another with a deadly weapon or instrument other than a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, three, or four years, or in a county jail for not exceeding one year, or a fine not exceeding ten thousand dollars ($10,000), or both the fine and imprisonment",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(a)(2)",
+    "act": "Commits an assault upon the person of another with a firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, three, or four years, or in a county jail for not less than six months and not exceeding one year, or both a fine not exceeding ten thousand dollars ($10,000) and imprisonment",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(a)(3)",
+    "act": "Commits an assault upon the person of another with a machinegun, an assault weapon, or a .50 BMG rifle",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 4, 8, or 12 years",
+      "min": null,
+      "max": 12,
+      "flags": []
+     }
+    ],
+    "terms": []
+   },
+   {
+    "where": "(a)(4)",
+    "act": "Commits an assault upon the person of another by any means of force likely to produce great bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for two, three, or four years, or in a county jail for not exceeding one year, or a fine not exceeding ten thousand dollars ($10,000), or both the fine and imprisonment",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault upon the person of another with a semiautomatic firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for three, six, or nine years",
+      "min": null,
+      "max": 9,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a peace officer or firefighter",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The peace officer or firefighter is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for three, four, or five years",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+    ]
+   },
+   {
+    "where": "(d)(1)",
+    "act": "Commits an assault with a firearm upon the person of a peace officer or firefighter",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The peace officer or firefighter is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for four, six, or eight years",
+      "min": null,
+      "max": 8,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+    ]
+   },
+   {
+    "where": "(d)(2)",
+    "act": "Commits an assault upon the person of a peace officer or firefighter with a semiautomatic firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The peace officer or firefighter is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for five, seven, or nine years",
+      "min": null,
+      "max": 9,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+    ]
+   },
+   {
+    "where": "(d)(3)",
+    "act": "Commits an assault with a machinegun, an assault weapon, or a .50 BMG rifle upon the person of a peace officer or firefighter",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The peace officer or firefighter is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for 6, 9, or 12 years",
+      "min": null,
+      "max": 12,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a peace officer or firefighter engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"Peace officer\": any person designated as a peace officer in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2"
+    ]
+   }
+  ]
+ },
+ "245.2": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault with a deadly weapon or instrument or by any means of force likely to produce great bodily injury upon the person of an operator, driver, or passenger on a bus, taxicab, streetcar, cable car, trackless trolley, or other motor vehicle used for the transportation of persons for hire, or upon the person of a station agent or ticket agent for the entity providing such transportation",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The driver, operator, or agent is engaged in the performance of his or her duties, or the victim is a passenger"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for three, four, or five years",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is engaged in the performance of his or her duties, or is a passenger"
+    ]
+   }
+  ]
+ },
+ "245.3": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits an assault with a deadly weapon or instrument or by any means likely to produce great bodily injury upon the person of a custodial officer",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The custodial officer is engaged in the performance of that person's duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for three, four, or five years",
+      "min": null,
+      "max": 5,
+      "flags": []
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a custodial officer engaged in the performance of that person's duties"
+    ],
+    "consequences": [
+     "When convicted in a case involving use of a deadly weapon or instrument owned by that person, the court may, in its discretion, order that the weapon or instrument be deemed a nuisance, confiscated and destroyed"
+    ]
+   }
+  ]
+ },
+ "245.5": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a school employee",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The school employee is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for three, four, or five years, or in a county jail not exceeding one year",
+      "min": null,
+      "max": 5,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a school employee engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"School employee\": any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, a student teacher, or a school board member"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Commits an assault with a firearm upon the person of a school employee",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The school employee is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the state prison for four, six, or eight years, or in a county jail for not less than six months and not exceeding one year",
+      "min": null,
+      "max": 8,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a school employee engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"School employee\": any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, a student teacher, or a school board member"
+    ]
+   },
+   {
+    "where": "(c)",
+    "act": "Commits an assault upon the person of a school employee with a stun gun or taser",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The school employee is engaged in the performance of his or her duties"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for a term not exceeding one year or by imprisonment in the state prison for two, three, or four years",
+      "min": null,
+      "max": 4,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "knowledge": [
+     "Knows or reasonably should know that the victim is a school employee engaged in the performance of his or her duties"
+    ],
+    "terms": [
+     "\"School employee\": any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, a student teacher, or a school board member"
+    ]
+   }
+  ]
+ },
+ "245.6": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Engage in hazing",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The violation does not result in serious bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor, punishable by a fine of not less than one hundred dollars ($100), nor more than five thousand dollars ($5,000), or imprisonment in the county jail for not more than one year, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Hazing\": any method of initiation or preinitiation into a student organization or student body, whether or not the organization or body is officially recognized by an educational institution, which is likely to cause serious bodily injury to any former, current, or prospective student of any school, community college, college, university, or other educational institution in this state; it does not include customary athletic events or school-sanctioned events"
+    ]
+   },
+   {
+    "where": "(d)",
+    "act": "Personally engages in hazing that results in death or serious bodily injury",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The hazing results in death or serious bodily injury"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of either a misdemeanor or a felony: imprisonment in county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": null,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Hazing\": any method of initiation or preinitiation into a student organization or student body, whether or not the organization or body is officially recognized by an educational institution, which is likely to cause serious bodily injury to any former, current, or prospective student of any school, community college, college, university, or other educational institution in this state; it does not include customary athletic events or school-sanctioned events"
+    ]
+   }
+  ]
+ },
+ "246": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Discharge a firearm at an inhabited dwelling house, occupied building, occupied motor vehicle, occupied aircraft, inhabited housecar, or inhabited camper",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony: imprisonment in the state prison for three, five, or seven years, or by imprisonment in the county jail for a term of not less than six months and not exceeding one year",
+      "min": null,
+      "max": 7,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "Maliciously and willfully"
+    ],
+    "terms": [
+     "\"Inhabited\": currently being used for dwelling purposes, whether occupied or not"
+    ]
+   }
+  ]
+ },
+ "246.3": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Discharges a firearm in a grossly negligent manner which could result in injury or death to a person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Except as otherwise authorized by law"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "intent": [
+     "Willfully"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Discharges a BB device in a grossly negligent manner which could result in injury or death to a person",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Except as otherwise authorized by law"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Willfully"
+    ],
+    "terms": [
+     "\"BB device\": any instrument that expels a projectile, such as a BB or a pellet, through the force of air pressure, gas pressure, or spring action"
+    ]
+   }
+  ]
+ },
+ "247": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "(a)",
+    "act": "Discharges a firearm at an unoccupied aircraft",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "Willfully and maliciously"
+    ],
+    "terms": [
+     "\"Aircraft\": any contrivance intended for and capable of transporting persons through the airspace"
+    ]
+   },
+   {
+    "where": "(b)",
+    "act": "Discharges a firearm at an unoccupied motor vehicle or an uninhabited building or dwelling house",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Shooting at an abandoned vehicle, unoccupied vehicle, uninhabited building, or dwelling house with the permission of the owner"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A public offense punishable by imprisonment in the county jail for not more than one year or in the state prison",
+      "min": null,
+      "max": null,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "247.5": {
+  "shared": {
+   "who": null,
+   "terms": [
+    "\"aircraft\": any contrivance intended for and capable of transporting persons through the airspace",
+    "\"laser\": a device that utilizes the natural oscillations of atoms or molecules between energy levels for generating coherent electromagnetic radiation in the ultraviolet, visible, or infrared region of the spectrum, and when discharged exceeds one milliwatt continuous wave"
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Discharges a laser at an aircraft, whether in motion or in flight, while occupied",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "Willfully and maliciously"
+    ],
+    "conditions": [
+     "The aircraft is occupied, whether in motion or in flight"
+    ],
+    "exceptions": [
+     "This section does not apply to the conduct of laser development activity by or on behalf of the United States Armed Forces"
+    ],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Misdemeanor by imprisonment in the county jail for not more than one year or by a fine of one thousand dollars ($1,000), or a felony by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, two years, or three years, or by a fine of two thousand dollars ($2,000)",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "248": {
+  "shared": {
+   "who": null
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Shines a light or other bright device, of an intensity capable of impairing the operation of an aircraft, at an aircraft",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "With the intent to interfere with the operation of an aircraft",
+     "Willfully"
+    ],
+    "conditions": [
+     "The light or device is of an intensity capable of impairing the operation of an aircraft"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ }
+}

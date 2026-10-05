@@ -1,0 +1,1087 @@
+{
+ "187": {
+  "title": "Murder defined",
+  "isOffense": true,
+  "plain": "Murder is the unlawful killing of a human being, or a fetus, with malice aforethought; this section sets no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "the unlawful killing of a human being, or a fetus"
+  ]
+ },
+ "188": {
+  "title": "Malice defined",
+  "isOffense": false,
+  "plain": "Defines express and implied malice for murder and says no other mental state need be shown once an intentional act with malice is shown."
+ },
+ "189": {
+  "title": "Degrees of murder",
+  "isOffense": true,
+  "plain": "Murder by listed means or during listed felonies, or by willful, deliberate, premeditated killing, is first degree; all other murder is second degree. This section sets no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "All murder that is perpetrated by means of a destructive device or explosive",
+   "All other kinds of murders"
+  ]
+ },
+ "189.1": {
+  "title": "Peace officer murder declaration",
+  "isOffense": false,
+  "plain": "States the Legislature's finding that willful, deliberate, premeditated killing of a peace officer is first degree murder and that the section declares existing law."
+ },
+ "189.5": {
+  "title": "Burden of proof in murder trial",
+  "isOffense": false,
+  "plain": "Places on the defendant the burden of proving mitigation, justification or excuse once the killing is proved at a murder trial."
+ },
+ "190": {
+  "title": "Punishment for murder",
+  "isOffense": true,
+  "plain": "First degree murder is punished by death, life without parole, or 25 years to life; second degree murder by 15 years to life, with longer terms when a peace officer is killed.",
+  "category": "Violence & Threats",
+  "maxYears": 1000,
+  "acts": [
+   "Every person guilty of murder in the first degree"
+  ]
+ },
+ "190.03": {
+  "title": "Hate crime first degree murder",
+  "isOffense": true,
+  "plain": "First-degree murder that is a hate crime is punished by life in state prison without the possibility of parole.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "maxPlus": true,
+  "acts": [
+   "commits first-degree murder that is a hate crime"
+  ]
+ },
+ "190.05": {
+  "title": "Second degree murder after prior murder term",
+  "isOffense": true,
+  "plain": "A person guilty of second degree murder who served a prior prison term for murder gets life without parole or 15 years to life.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "found guilty of murder in the second degree"
+  ]
+ },
+ "190.1": {
+  "title": "Phases of capital trial",
+  "isOffense": false,
+  "plain": "Requires a case in which the death penalty may be imposed to be tried in separate phases: guilt, special circumstances, sanity, then penalty."
+ },
+ "190.2": {
+  "title": "Special circumstances murder penalty",
+  "isOffense": true,
+  "plain": "First degree murder with a listed special circumstance is punished by death or life in prison without parole; aiders with intent to kill, and certain major participants, face the same penalty.",
+  "category": "Violence & Threats",
+  "maxYears": 1000,
+  "acts": [
+   "Every person, not the actual killer, who, with the intent to kill, aids, abets, counsels, commands, induces, solicits, requests, or assists any actor in the commission of murder in the first degree"
+  ]
+ },
+ "190.25": {
+  "title": "Murder of transit worker",
+  "isOffense": true,
+  "plain": "First degree murder of an on-duty transit driver or ticket agent, with a special circumstance found true, is punished by life in prison without parole, including for intentional aiders.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "Every person whether or not the actual killer found guilty of intentionally aiding, abetting, counseling, commanding, inducing, soliciting, requesting, or assisting any actor in the commission of murder in the first degree"
+  ]
+ },
+ "190.3": {
+  "title": "Penalty phase of capital case",
+  "isOffense": false,
+  "plain": "Sets how the trier of fact decides between death and life without parole, including the evidence and factors considered."
+ },
+ "190.4": {
+  "title": "Special circumstance findings",
+  "isOffense": false,
+  "plain": "Sets procedures for finding special circumstances, the penalty hearing, and review of a death verdict."
+ },
+ "190.41": {
+  "title": "Corpus delicti in felony special circumstances",
+  "isOffense": false,
+  "plain": "Says the corpus delicti of a felony-based special circumstance need not be proved independently of the defendant's extrajudicial statement."
+ },
+ "190.5": {
+  "title": "Murder by a minor, penalty limits",
+  "isOffense": true,
+  "plain": "Death cannot be imposed on a person under 18; a 16- or 17-year-old guilty of special circumstances first degree murder gets life without parole or, at the court's discretion, 25 years to life.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "guilty of murder in the first degree"
+  ]
+ },
+ "190.6": {
+  "title": "Expediting capital appeals",
+  "isOffense": false,
+  "plain": "Declares legislative goals and time limits for briefing and deciding appeals in death penalty cases."
+ },
+ "190.7": {
+  "title": "Record in capital appeals",
+  "isOffense": false,
+  "plain": "Defines what the entire record on appeal includes in a death penalty case."
+ },
+ "190.8": {
+  "title": "Certifying capital case record",
+  "isOffense": false,
+  "plain": "Sets deadlines and duties for certifying the record on appeal where a death sentence has been imposed."
+ },
+ "190.9": {
+  "title": "Reporting in capital cases",
+  "isOffense": false,
+  "plain": "Requires all superior court proceedings in a possible death penalty case to be reported and transcribed."
+ },
+ "191": {
+  "title": "Petit treason abolished",
+  "isOffense": false,
+  "plain": "Abolishes the common-law rules of petit treason, making those killings ordinary homicides."
+ },
+ "191.5": {
+  "title": "Vehicular manslaughter while intoxicated",
+  "isOffense": true,
+  "plain": "Killing a person while driving in violation of listed Vehicle Code intoxication sections is gross vehicular manslaughter (4 to 10 years) or vehicular manslaughter while intoxicated (up to 4 years); repeat offenders face 15 years to life.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "maxPlus": true,
+  "acts": [
+   "the unlawful killing of a human being without malice aforethought, in the driving of a vehicle"
+  ]
+ },
+ "192": {
+  "title": "Manslaughter defined",
+  "isOffense": true,
+  "plain": "Manslaughter is the unlawful killing of a human being without malice: voluntary, involuntary, or vehicular. This section sets no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "the unlawful killing of a human being without malice"
+  ]
+ },
+ "192.5": {
+  "title": "Vehicular manslaughter in a vessel",
+  "isOffense": true,
+  "plain": "Unlawfully killing a person without malice while operating a vessel is vehicular manslaughter; fleeing the scene adds five years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "maxPlus": true,
+  "acts": [
+   "Operating a vessel in the commission of an unlawful act, not amounting to a felony, and with gross negligence"
+  ]
+ },
+ "193": {
+  "title": "Punishment for manslaughter",
+  "isOffense": true,
+  "plain": "Voluntary manslaughter carries 3, 6, or 11 years in state prison; involuntary manslaughter and vehicular manslaughter carry lower or alternative terms set out by type.",
+  "category": "Violence & Threats",
+  "maxYears": 11,
+  "maxPlus": true,
+  "acts": [
+   "A violation of paragraph (1) of subdivision (c) of Section 192",
+   "A violation of paragraph (2) of subdivision (c) of Section 192",
+   "A violation of paragraph (3) of subdivision (c) of Section 192"
+  ]
+ },
+ "193.5": {
+  "title": "Punishment for vessel manslaughter",
+  "isOffense": true,
+  "plain": "Sets penalties for manslaughter committed while operating a vessel, from up to one year in county jail to 4, 6, or 10 years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 10,
+  "maxPlus": true,
+  "acts": [
+   "A violation of subdivision (a) of Section 192.5",
+   "A violation of subdivision (b) of Section 192.5",
+   "A violation of subdivision (c) of Section 192.5",
+   "A violation of subdivision (d) of Section 192.5"
+  ]
+ },
+ "193.7": {
+  "title": "Habitual traffic offender designation",
+  "isOffense": false,
+  "plain": "Designates a person convicted of vehicular manslaughter while intoxicated with two or more recent Vehicle Code violations as a habitual traffic offender for three years."
+ },
+ "193.8": {
+  "title": "Lending vehicle to intoxicated minor",
+  "isOffense": true,
+  "plain": "An adult who lets an intoxicated minor drive their vehicle, where the minor is later convicted of a listed offense, faces a fine up to $1,000 or up to six months in county jail.",
+  "category": "Transportation & Aviation",
+  "maxYears": 0.5,
+  "acts": [
+   "shall not relinquish possession of the vehicle to a minor for the purpose of driving"
+  ]
+ },
+ "194": {
+  "title": "Death after three years and a day",
+  "isOffense": false,
+  "plain": "Says death need not occur within three years and a day for a killing to be murder or manslaughter, but later death raises a rebuttable presumption the killing was not criminal."
+ },
+ "195": {
+  "title": "Excusable homicide",
+  "isOffense": false,
+  "plain": "Lists the cases in which a homicide is excusable."
+ },
+ "196": {
+  "title": "Justifiable homicide by peace officers",
+  "isOffense": false,
+  "plain": "Lists the circumstances in which homicide by peace officers and those aiding them is justifiable."
+ },
+ "197": {
+  "title": "Justifiable homicide",
+  "isOffense": false,
+  "plain": "Lists the cases in which a homicide is justifiable, such as resisting an attempt to murder or to commit a felony, or defending habitation, property, or person."
+ },
+ "198": {
+  "title": "Fear needed to justify homicide",
+  "isOffense": false,
+  "plain": "Says a bare fear of the offenses in subdivisions 2 and 3 of Section 197 is not enough; the circumstances must excite the fears of a reasonable person."
+ },
+ "198.5": {
+  "title": "Presumed fear when force used at home",
+  "isOffense": false,
+  "plain": "Creates a presumption of reasonable fear when force likely to cause death or great bodily injury is used against an unlawful and forcible entrant into one's residence, and defines great bodily injury."
+ },
+ "199": {
+  "title": "Acquittal when homicide justifiable",
+  "isOffense": false,
+  "plain": "Says that when a homicide appears justifiable or excusable, the person indicted must be fully acquitted and discharged at trial."
+ },
+ "203": {
+  "title": "Mayhem defined",
+  "isOffense": true,
+  "plain": "Mayhem is unlawfully and maliciously depriving a person of a body member or disabling, disfiguring, or rendering it useless; this section states no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "deprives a human being of a member of his body, or disables, disfigures, or renders it useless, or cuts or disables the tongue, or puts out an eye, or slits the nose, ear, or lip"
+  ]
+ },
+ "204": {
+  "title": "Punishment for mayhem",
+  "isOffense": true,
+  "plain": "Mayhem is punishable by imprisonment in the state prison for two, four, or eight years.",
+  "category": "Violence & Threats",
+  "maxYears": 8,
+  "acts": [
+   "Mayhem"
+  ]
+ },
+ "205": {
+  "title": "Aggravated mayhem",
+  "isOffense": true,
+  "plain": "Aggravated mayhem is intentionally causing permanent disability or disfigurement, or depriving a person of a limb, organ, or member, with extreme indifference; it is punishable by life in state prison with the possibility of parole.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "intentionally causes permanent disability or disfigurement of another human being or deprives a human being of a limb, organ, or member of his or her body"
+  ]
+ },
+ "206": {
+  "title": "Torture",
+  "isOffense": true,
+  "plain": "Torture is inflicting great bodily injury on another with intent to cause cruel or extreme pain and suffering for revenge, extortion, persuasion, or a sadistic purpose; this section states no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "inflicts great bodily injury as defined in Section 12022.7 upon the person of another"
+  ]
+ },
+ "206.1": {
+  "title": "Punishment for torture",
+  "isOffense": true,
+  "plain": "Torture is punishable by life in state prison, with parole eligibility only after at least seven years, or ten years in the stated case involving a child 14 or younger.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "torture"
+  ]
+ },
+ "207": {
+  "title": "Kidnapping",
+  "isOffense": true,
+  "plain": "Kidnapping is forcibly or by fear taking or holding a person and carrying them elsewhere, enticing a child under 14, or bringing a person into the state; this section states no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "steals or takes, or holds, detains, or arrests any person in this state, and carries the person into another country, state, or county, or into another part of the same county",
+   "hires, persuades, entices, decoys, or seduces by false promises, misrepresentations, or the like, any child under the age of 14 years to go out of this country, state, or county, or into another part of the same county",
+   "takes or holds, detains, or arrests any person, with a design to take the person out of this state",
+   "abducts or takes by force or fraud any person contrary to the law of the place where that act is committed, and brings, sends, or conveys that person within the limits of this state"
+  ]
+ },
+ "208": {
+  "title": "Punishment for kidnapping",
+  "isOffense": true,
+  "plain": "Kidnapping is punishable by three, five, or eight years in state prison, or five, eight, or eleven years if the victim is under 14; probation requires 12 months in county jail except in unusual cases.",
+  "category": "Violence & Threats",
+  "maxYears": 11,
+  "acts": [
+   "Kidnapping"
+  ]
+ },
+ "209": {
+  "title": "Kidnapping for ransom or to commit a crime",
+  "isOffense": true,
+  "plain": "Kidnapping for ransom, reward, or extortion is a felony punishable by life, without parole if the victim dies or is harmed; kidnapping to commit robbery or a sex offense is life with parole.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "maxPlus": true,
+  "acts": [
+   "seizes, confines, inveigles, entices, decoys, abducts, conceals, kidnaps, or carries away another person by any means whatsoever with intent to hold or detain, or who holds or detains, that person for ransom, reward, or to commit extortion or to exact from another person any money or valuable thing, or a person who aids or abets any such act",
+   "kidnaps or carries away an individual to commit robbery, rape, oral copulation, sodomy, or any violation of Section 264.1, 288, 289, or former Section 262"
+  ]
+ },
+ "209.5": {
+  "title": "Kidnapping during a carjacking",
+  "isOffense": true,
+  "plain": "Kidnapping another person during a carjacking to facilitate it is punishable by life in state prison with the possibility of parole.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "acts": [
+   "kidnaps another person who is not a principal in the commission of the carjacking"
+  ]
+ },
+ "210": {
+  "title": "Posing as kidnapper for ransom",
+  "isOffense": true,
+  "plain": "Posing as a kidnapper, or as someone able to obtain a victim's release, to obtain ransom, reward, or money is a felony punishable by imprisonment for two, three, or four years.",
+  "category": "Violence & Threats",
+  "maxYears": 4,
+  "acts": [
+   "poses as, or in any manner represents himself to be a person who has seized, confined, inveigled, enticed, decoyed, abducted, concealed, kidnapped or carried away any person"
+  ]
+ },
+ "210.5": {
+  "title": "False imprisonment as shield or to avoid arrest",
+  "isOffense": true,
+  "plain": "False imprisonment of a person to protect against arrest, substantially increasing risk of harm, or to use as a shield, is punishable under subdivision (h) of Section 1170 for three, five, or eight years.",
+  "category": "Violence & Threats",
+  "maxYears": 8,
+  "maxPlus": true,
+  "acts": [
+   "commits the offense of false imprisonment, as defined in Section 236, against a person"
+  ]
+ },
+ "211": {
+  "title": "Robbery",
+  "isOffense": true,
+  "plain": "Robbery is the felonious taking of personal property from another's person or immediate presence, against their will, by force or fear; this section states no penalty.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "taking of personal property in the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear"
+  ]
+ },
+ "212": {
+  "title": "Fear in robbery",
+  "isOffense": false,
+  "plain": "Says the fear mentioned in Section 211 may be fear of unlawful injury to the person robbed or relatives, or of immediate unlawful injury to anyone in the person robbed's company."
+ },
+ "212.5": {
+  "title": "Degrees of robbery",
+  "isOffense": false,
+  "plain": "Sets which robberies are of the first degree, such as those of transit operators and passengers, in inhabited dwellings, or at automated teller machines, and says all others are second degree."
+ },
+ "213": {
+  "title": "Punishment for robbery",
+  "isOffense": true,
+  "plain": "Robbery of the first degree carries three to nine years in state prison depending on the case, and second degree carries two, three, or five years.",
+  "category": "Violence & Threats",
+  "maxYears": 9,
+  "maxPlus": true,
+  "acts": [
+   "Robbery of the first degree",
+   "Robbery of the second degree",
+   "attempted robbery in violation of paragraph (2) of subdivision (a)"
+  ]
+ },
+ "214": {
+  "title": "Train robbery and train interference",
+  "isOffense": true,
+  "plain": "Boarding a train to rob passengers, or interfering with railroad track, signals, or trains with intent to rob, is a felony; this section states no term.",
+  "category": "Transportation & Aviation",
+  "maxYears": null,
+  "acts": [
+   "goes upon or boards any railroad train, car or engine",
+   "interferes in any manner with any switch, rail, sleeper, viaduct, culvert, embankment, structure or appliance pertaining to or connected with any railroad",
+   "places any dynamite or other explosive substance or material upon or near the track of any railroad",
+   "sets fire to any railroad bridge or trestle",
+   "stops any such train, car or engine, or slackens the speed thereof"
+  ]
+ },
+ "215": {
+  "title": "Carjacking",
+  "isOffense": true,
+  "plain": "Carjacking is the felonious taking of a motor vehicle from another's person or immediate presence by force or fear; it is punishable by three, five, or nine years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 9,
+  "acts": [
+   "taking of a motor vehicle in the possession of another, from his or her person or immediate presence, or from the person or immediate presence of a passenger of the motor vehicle, against his or her will"
+  ]
+ },
+ "217.1": {
+  "title": "Assault on public officials",
+  "isOffense": true,
+  "plain": "Assaulting listed officials such as judges, prosecutors, or peace officers in retaliation for or to prevent official duties is a wobbler; attempted murder of them carries 15 years to life.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "maxPlus": true,
+  "acts": [
+   "commits any assault upon the President or Vice President of the United States",
+   "attempts to commit murder against any person listed in subdivision (a)"
+  ]
+ },
+ "218": {
+  "title": "Derailing a train",
+  "isOffense": true,
+  "plain": "Unlawfully obstructing or setting fire to railroad track or bridges with intent to derail or wreck a train is a felony punishable by life in state prison without possibility of parole.",
+  "category": "Transportation & Aviation",
+  "maxYears": 999,
+  "acts": [
+   "throws out a switch, removes a rail, or places any obstruction on any railroad",
+   "places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+   "sets fire to any railroad bridge or trestle"
+  ]
+ },
+ "218.1": {
+  "title": "Obstructing railroad track with gross negligence",
+  "isOffense": true,
+  "plain": "Unlawfully and with gross negligence placing an obstruction on a railroad track that damages or derails a train or injures a passenger or employee is punishable in county jail, under Section 1170(h), or by fine.",
+  "category": "Transportation & Aviation",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "places or causes to be placed any obstruction upon or near the track of any railroad"
+  ]
+ },
+ "219": {
+  "title": "Wrecking a train",
+  "isOffense": true,
+  "plain": "Unlawfully obstructing, blowing up, or burning railroad track or bridges with intent to wreck a train and doing so is a felony; death or life without parole if someone dies, otherwise life with parole.",
+  "category": "Transportation & Aviation",
+  "maxYears": 1000,
+  "maxPlus": true,
+  "acts": [
+   "throws out a switch, removes a rail, or places any obstruction on any railroad",
+   "places any dynamite or other explosive material or any other obstruction upon or near the track of any railroad",
+   "sets fire to any railroad bridge or trestle"
+  ]
+ },
+ "219.1": {
+  "title": "Wrecking a common carrier vehicle",
+  "isOffense": true,
+  "plain": "Throwing a missile at, or doing an unlawful act to, a common carrier vehicle to wreck it and cause bodily harm, and doing so, is a felony punishable under Section 1170(h) for two, four, or six years.",
+  "category": "Transportation & Aviation",
+  "maxYears": 6,
+  "maxPlus": true,
+  "acts": [
+   "throws, hurls or projects at a vehicle operated by a common carrier"
+  ]
+ },
+ "219.2": {
+  "title": "Throwing objects at trains, buses, or vessels",
+  "isOffense": true,
+  "plain": "Willfully throwing a hard object or shooting a missile at a train, bus, or passenger or freight vessel is punishable by county jail up to one year, state prison, or a fine up to $2,000.",
+  "category": "Transportation & Aviation",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "throws, hurls, or projects a stone or other hard substance, or shoots a missile, at a train, locomotive, railway car, caboose, cable railway car, street railway car, or bus or at a steam vessel or watercraft used for carrying passengers or freight on any of the waters within or bordering on this state"
+  ]
+ },
+ "219.3": {
+  "title": "Dropping objects from a toll bridge",
+  "isOffense": true,
+  "plain": "Wilfully dropping or throwing any object or missile from a toll bridge is a misdemeanor.",
+  "category": "Transportation & Aviation",
+  "maxYears": null,
+  "acts": [
+   "drops or throws any object or missile from any toll bridge"
+  ]
+ },
+ "220": {
+  "title": "Assault with intent to commit a sex crime or mayhem",
+  "isOffense": true,
+  "plain": "Assault with intent to commit mayhem, rape, sodomy, or oral copulation carries two to six years in state prison, more if the victim is under 18, and life with parole during a first-degree burglary.",
+  "category": "Violence & Threats",
+  "maxYears": 999,
+  "maxPlus": true,
+  "acts": [
+   "assaults another with intent to commit mayhem, rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289",
+   "assaults another person under 18 years of age with the intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289",
+   "assaults another with intent to commit rape, sodomy, oral copulation, or any violation of Section 264.1, 288, or 289"
+  ]
+ },
+ "222": {
+  "title": "Administering drugs to commit a felony",
+  "isOffense": true,
+  "plain": "Administering chloroform, ether, laudanum, a controlled substance, or another anaesthetic or intoxicating agent to help commit a felony is a felony punishable by 16 months, or two or three years.",
+  "category": "Violence & Threats",
+  "maxYears": 3,
+  "acts": [
+   "administering to another any chloroform, ether, laudanum, or any controlled substance, anaesthetic, or intoxicating agent"
+  ]
+ },
+ "236": {
+  "title": "False imprisonment defined",
+  "isOffense": true,
+  "plain": "False imprisonment is the unlawful violation of the personal liberty of another; the section sets no punishment itself.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "the unlawful violation of the personal liberty of another"
+  ]
+ },
+ "236.1": {
+  "title": "Human trafficking",
+  "isOffense": true,
+  "plain": "Depriving or violating another person's liberty to obtain forced labor or services, or to commit certain listed offenses, or inducing a minor into a commercial sex act, is human trafficking punishable by up to life in state prison.",
+  "category": "Human Trafficking & Slavery",
+  "maxYears": 999,
+  "acts": [
+   "deprives or violates the personal liberty of another",
+   "causes, induces, or persuades, or attempts to cause, induce, or persuade, a person who is a minor at the time of commission of the offense to engage in a commercial sex act"
+  ]
+ },
+ "236.2": {
+  "title": "Human trafficking victim indicators",
+  "isOffense": false,
+  "plain": "Requires law enforcement to use due diligence to identify human trafficking victims and to consider listed indicators of trafficking."
+ },
+ "236.21": {
+  "title": "Victim interview rights",
+  "isOffense": false,
+  "plain": "Gives human trafficking victims the right to an advocate and support person at interviews and requires they be told of that right."
+ },
+ "236.23": {
+  "title": "Human trafficking victim defense",
+  "isOffense": false,
+  "plain": "Creates an affirmative defense for a person coerced to commit an offense as a direct result of being a trafficking victim, and sets the relief if it succeeds."
+ },
+ "236.24": {
+  "title": "Partner violence coercion defense",
+  "isOffense": false,
+  "plain": "Creates an affirmative defense for a person coerced to commit an offense as a direct result of intimate partner or sexual violence, and sets the relief if it succeeds."
+ },
+ "236.3": {
+  "title": "Nuisance procedures after trafficking",
+  "isOffense": false,
+  "plain": "Applies public nuisance procedures and remedies to real property used to facilitate human trafficking after a conviction."
+ },
+ "236.4": {
+  "title": "Human trafficking enhancements",
+  "isOffense": true,
+  "plain": "Great bodily injury during human trafficking adds a consecutive 5, 7, or 10 years in state prison, and a prior trafficking conviction adds a consecutive 5 years for each; the court may also add a fine up to $1,000,000.",
+  "category": "Human Trafficking & Slavery",
+  "maxYears": 10,
+  "maxPlus": true,
+  "acts": [
+   "inflicts great bodily injury on a victim in the commission or attempted commission of a violation of Section 236.1",
+   "has previously been convicted of a violation of any crime specified in Section 236.1"
+  ]
+ },
+ "236.5": {
+  "title": "Law enforcement endorsement letters",
+  "isOffense": false,
+  "plain": "Requires law enforcement to provide endorsement letters for human trafficking victims and sets rules for submitting and denying them."
+ },
+ "236.6": {
+  "title": "Asset preservation proceedings",
+  "isOffense": false,
+  "plain": "Lets prosecutors petition for orders preserving assets of a person charged with human trafficking, and sets notice, claim, and hearing procedures."
+ },
+ "236.7": {
+  "title": "Forfeiture for trafficking of minors",
+  "isOffense": false,
+  "plain": "Allows forfeiture of property used in or gained from human trafficking involving a commercial sex act with a minor, with limits for certain property."
+ },
+ "236.8": {
+  "title": "Forfeiture petition procedure",
+  "isOffense": false,
+  "plain": "Sets the petition and notice procedure for forfeiture in trafficking cases involving a commercial sex act with a minor."
+ },
+ "236.9": {
+  "title": "Forfeiture claims and hearing",
+  "isOffense": false,
+  "plain": "Sets how interested persons file claims and how the forfeiture hearing proceeds, including the burden of proof."
+ },
+ "236.10": {
+  "title": "Orders to preserve forfeitable property",
+  "isOffense": false,
+  "plain": "Lets the court issue orders pending forfeiture to preserve property, including injunctions and receivers."
+ },
+ "236.11": {
+  "title": "Forfeiture orders and liens",
+  "isOffense": false,
+  "plain": "Sets the court's orders on forfeited property and how lienholders are treated."
+ },
+ "236.12": {
+  "title": "Distribution of forfeited property",
+  "isOffense": false,
+  "plain": "Sets how forfeited money and sale proceeds are distributed."
+ },
+ "236.13": {
+  "title": "Victim Witness help for minors",
+  "isOffense": false,
+  "plain": "Requires that a minor trafficking victim be given Victim Witness Assistance Center help if the minor wishes."
+ },
+ "236.14": {
+  "title": "Vacatur for trafficking victims",
+  "isOffense": false,
+  "plain": "Lets a trafficking victim petition to vacate convictions, arrests, and adjudications for nonviolent offenses committed as a victim, and sets the procedure."
+ },
+ "236.15": {
+  "title": "Vacatur for partner violence victims",
+  "isOffense": false,
+  "plain": "Lets a victim of intimate partner or sexual violence petition to vacate convictions for nonviolent offenses committed as a victim, and sets the procedure."
+ },
+ "237": {
+  "title": "False imprisonment punishment",
+  "isOffense": true,
+  "plain": "False imprisonment is punishable by a fine up to $1,000 or up to one year in county jail, and by imprisonment under subdivision (h) of Section 1170 if done by violence, menace, fraud, or deceit.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "False imprisonment",
+   "False imprisonment of an elder or dependent adult by use of violence, menace, fraud, or deceit"
+  ]
+ },
+ "240": {
+  "title": "Assault defined",
+  "isOffense": true,
+  "plain": "An assault is an unlawful attempt, coupled with a present ability, to commit a violent injury on another person; the section sets no punishment itself.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "acts": [
+   "an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another"
+  ]
+ },
+ "241": {
+  "title": "Assault punishment",
+  "isOffense": true,
+  "plain": "Assault is punishable by a fine up to $1,000 or up to six months in county jail, with higher fines and up to one year in jail when committed against certain officers and workers.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "assault",
+   "an assault is committed against the person of a parking control officer engaged in the performance of their duties",
+   "an assault is committed against the person of a peace officer, firefighter, emergency medical technician, lifeguard, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of their duties"
+  ]
+ },
+ "241.1": {
+  "title": "Assault on custodial officer",
+  "isOffense": true,
+  "plain": "Assault on a custodial officer is punishable by up to one year in county jail or by imprisonment under subdivision (h) of Section 1170.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "an assault is committed against the person of a custodial officer as defined in Section 831 or 831.5"
+  ]
+ },
+ "241.2": {
+  "title": "Assault on school or park property",
+  "isOffense": true,
+  "plain": "Assault on school or park property is punishable by a fine up to $2,000 or up to one year in county jail, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "an assault is committed on school or park property against any person"
+  ]
+ },
+ "241.3": {
+  "title": "Assault on public transportation",
+  "isOffense": true,
+  "plain": "Assault on any person on the property of, or a motor vehicle of, a public transportation provider is punishable by a fine up to $2,000 or up to one year in county jail, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "an assault is committed against any person on the property of, or on a motor vehicle of, a public transportation provider"
+  ]
+ },
+ "241.4": {
+  "title": "Assault on school police officer",
+  "isOffense": true,
+  "plain": "Assault is punishable by a fine up to $1,000 or up to six months in county jail; against a school district police officer it is punishable by up to one year in county jail or under subdivision (h) of Section 1170.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "An assault is punishable",
+   "the assault is committed against the person of a peace officer engaged in the performance of his or her duties as a member of a police department of a school district pursuant to Section 38000 of the Education Code"
+  ]
+ },
+ "241.5": {
+  "title": "Assault on highway worker",
+  "isOffense": true,
+  "plain": "Assault on a highway worker engaged in their duties is punishable by a fine up to $2,000 or up to one year in county jail, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "an assault is committed against a highway worker engaged in the performance of his or her duties"
+  ]
+ },
+ "241.6": {
+  "title": "Assault on school employee",
+  "isOffense": true,
+  "plain": "Assault on a school employee engaged in their duties or in retaliation for their duties is punishable by up to one year in county jail, a fine up to $2,000, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "an assault is committed against a school employee engaged in the performance of his or her duties, or in retaliation for an act performed in the course of his or her duties"
+  ]
+ },
+ "241.7": {
+  "title": "Assault on juror",
+  "isOffense": true,
+  "plain": "A party to a jury case who assaults a juror or alternate juror during or after the case is punishable by a fine up to $2,000, up to one year in county jail, or imprisonment under subdivision (h) of Section 1170.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "commits an assault against any juror or alternate juror who was selected and sworn in that legal action"
+  ]
+ },
+ "241.8": {
+  "title": "Assault on armed forces member",
+  "isOffense": true,
+  "plain": "Assault on a member of the United States Armed Forces because of the victim's service is punishable by a fine up to $2,000, up to one year in county jail, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "commits an assault against a member of the United States Armed Forces"
+  ]
+ },
+ "242": {
+  "title": "Battery defined",
+  "isOffense": false,
+  "plain": "Defines battery as any willful and unlawful use of force or violence upon the person of another; it sets no punishment itself."
+ },
+ "243": {
+  "title": "Battery punishments",
+  "isOffense": true,
+  "plain": "Battery is a misdemeanor punishable by up to six months in county jail; battery on certain officers, with injury, with serious bodily injury, or on partners is punished more, up to four years under Section 1170(h) sentencing.",
+  "category": "Violence & Threats",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "A battery is punishable",
+   "a battery is committed against the person of a peace officer",
+   "a battery is committed against a custodial officer",
+   "a battery is committed against any person and serious bodily injury is inflicted on the person",
+   "a battery is committed against a spouse"
+  ]
+ },
+ "243.1": {
+  "title": "Battery on a custodial officer",
+  "isOffense": true,
+  "plain": "Battery on a custodial officer who is performing their duties, where the offender knows or should know it, is punished by imprisonment pursuant to subdivision (h) of Section 1170.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "a battery is committed against the person of a custodial officer"
+  ]
+ },
+ "243.2": {
+  "title": "Battery on school, park, or hospital grounds",
+  "isOffense": true,
+  "plain": "Battery on school property, park property, or hospital grounds is punishable by a fine up to $2,000, county jail up to one year, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "a battery is committed on school property, park property, or the grounds of a public or private hospital, against any person"
+  ]
+ },
+ "243.25": {
+  "title": "Battery on an elder or dependent adult",
+  "isOffense": true,
+  "plain": "Battery on an elder or dependent adult, knowing of that status, is punishable by a fine up to $2,000, county jail up to one year, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "a battery is committed against the person of an elder or a dependent adult"
+  ]
+ },
+ "243.3": {
+  "title": "Battery on transportation workers or passengers",
+  "isOffense": true,
+  "plain": "Battery on a public transportation operator, driver, passenger, agent, or employee is punishable by up to a $10,000 fine and a year in county jail, or state prison for 16 months to three years if injury results.",
+  "category": "Violence & Threats",
+  "maxYears": 3,
+  "acts": [
+   "a battery is committed against the person of an operator, driver, or passenger on a bus"
+  ]
+ },
+ "243.35": {
+  "title": "Battery on public transportation property",
+  "isOffense": true,
+  "plain": "Battery on any person on the property or in a motor vehicle of a public transportation provider is punishable by a fine up to $2,000, county jail up to one year, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "a battery is committed against any person on the property of, or in a motor vehicle of, a public transportation provider"
+  ]
+ },
+ "243.4": {
+  "title": "Sexual battery",
+  "isOffense": true,
+  "plain": "Sexual battery is touching an intimate part of another, or causing another to touch, for sexual purposes against their will in specified circumstances; felony sexual battery carries up to four years in state prison.",
+  "category": "Sex Crimes & Exploitation",
+  "maxYears": 4,
+  "acts": [
+   "touches an intimate part of another person while that person is unlawfully restrained by the accused or an accomplice",
+   "touches an intimate part of another person who is institutionalized for medical treatment and who is seriously disabled or medically incapacitated",
+   "touches an intimate part of another person for the purpose of sexual arousal, sexual gratification, or sexual abuse",
+   "causes another, against that person’s will while that person is unlawfully restrained either by the accused or an accomplice, or is institutionalized for medical treatment and is seriously disabled or medically incapacitated, to masturbate or touch an intimate part of either of those persons or a third person",
+   "touches an intimate part of another person, if the touching is against the will of the person touched"
+  ]
+ },
+ "243.5": {
+  "title": "Arrest for school assault or battery",
+  "isOffense": false,
+  "plain": "Allows a peace officer to arrest without a warrant for an assault or battery on school property during school activities, and defines school."
+ },
+ "243.6": {
+  "title": "Battery on a school employee",
+  "isOffense": true,
+  "plain": "Battery on a school employee, knowing of that status, is punishable by county jail up to one year or a $2,000 fine; with injury, it may be punished under Section 1170(h) for 16 months to three years.",
+  "category": "Violence & Threats",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "a battery is committed against a school employee engaged in the performance of his or her duties"
+  ]
+ },
+ "243.65": {
+  "title": "Battery on a highway worker",
+  "isOffense": true,
+  "plain": "Battery on a highway worker who is performing their duties, where the offender knows or should know it, is punishable by a fine up to $2,000, county jail up to one year, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "a battery is committed against the person of a highway worker"
+  ]
+ },
+ "243.7": {
+  "title": "Battery on a juror",
+  "isOffense": true,
+  "plain": "A party to a case who commits a battery on a juror or alternate juror is punishable by a fine up to $5,000, county jail up to one year, or state prison for 16 months to three years.",
+  "category": "Violence & Threats",
+  "maxYears": 3,
+  "acts": [
+   "commits a battery against any juror or alternate juror who was selected and sworn in that legal action"
+  ]
+ },
+ "243.8": {
+  "title": "Battery on a sports official",
+  "isOffense": true,
+  "plain": "Battery on a sports official around an organized athletic contest, where the offender knows or should know the victim is performing duties, is punishable by a fine up to $2,000, county jail up to one year, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "a battery is committed against a sports official"
+  ]
+ },
+ "243.83": {
+  "title": "Interference at professional sporting events",
+  "isOffense": true,
+  "plain": "It is an infraction, punishable by a fine up to $250, for a spectator at a professional sporting event to throw objects on the field or court or enter the field or court without permission.",
+  "category": "Violence & Threats",
+  "maxYears": 0,
+  "acts": [
+   "Throw any object on or across the court or field of play with the intent to interfere with play or distract a player",
+   "Enter upon the court or field of play without permission from an authorized person"
+  ]
+ },
+ "243.85": {
+  "title": "Notice at professional sports facilities",
+  "isOffense": false,
+  "plain": "Requires owners of professional sports facilities to post notices with a text and phone number for reporting a violent act."
+ },
+ "243.9": {
+  "title": "Gassing by a jail inmate",
+  "isOffense": true,
+  "plain": "A person confined in a local detention facility who gasses a peace officer or facility employee is guilty of aggravated battery, punishable in county jail or by two, three, or four years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 4,
+  "acts": [
+   "commits a battery by gassing upon the person of any peace officer"
+  ]
+ },
+ "243.10": {
+  "title": "Battery on a service member because of service",
+  "isOffense": true,
+  "plain": "Battery on a member of the United States Armed Forces because of their service is punishable by a fine up to $2,000, county jail up to one year, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "acts": [
+   "commits a battery against a member of the United States Armed Forces because of the victim’s service in the United States Armed Forces"
+  ]
+ },
+ "243.15": {
+  "title": "Battery by a jail inmate on a non-inmate",
+  "isOffense": true,
+  "plain": "A person confined in a city or county jail, industrial farm, or road camp who commits a battery on a non-inmate is punishable under Section 1170(h) or in county jail up to one year.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "commits a battery upon the person of any individual who is not himself or herself a person confined or sentenced therein"
+  ]
+ },
+ "244": {
+  "title": "Throwing acid or caustic substance",
+  "isOffense": true,
+  "plain": "Willfully and maliciously throwing acid, a flammable substance, or caustic chemical on another to injure the flesh or disfigure the body is punishable by two, three, or four years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 4,
+  "acts": [
+   "places or throws, or causes to be placed or thrown, upon the person of another, any vitriol, corrosive acid, flammable substance, or caustic chemical of any nature"
+  ]
+ },
+ "244.5": {
+  "title": "Assault with a stun gun",
+  "isOffense": true,
+  "plain": "Assault on another with a stun gun or less lethal weapon is punishable by county jail up to one year or under Section 1170(h); on a peace officer or firefighter the term is up to four years.",
+  "category": "Violence & Threats",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "commits an assault upon the person of another with a stun gun or less lethal weapon",
+   "commits an assault upon the person of a peace officer or firefighter with a stun gun or less lethal weapon"
+  ]
+ },
+ "245": {
+  "title": "Assault with a deadly weapon or force",
+  "isOffense": true,
+  "plain": "Assault with a deadly weapon, firearm, or force likely to produce great bodily injury is punishable by state prison, with terms up to 12 years for machineguns or assault weapons, or on peace officers and firefighters.",
+  "category": "Violence & Threats",
+  "maxYears": 12,
+  "acts": [
+   "commits an assault upon the person of another with a deadly weapon or instrument other than a firearm",
+   "commits an assault upon the person of another with a firearm",
+   "commits an assault upon the person of another with a machinegun",
+   "commits an assault upon the person of another by any means of force likely to produce great bodily injury",
+   "commits an assault upon the person of another with a semiautomatic firearm",
+   "commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a peace officer or firefighter",
+   "commits an assault with a firearm upon the person of a peace officer or firefighter",
+   "commits an assault upon the person of a peace officer or firefighter with a semiautomatic firearm",
+   "commits an assault with a machinegun"
+  ]
+ },
+ "245.1": {
+  "title": "Emergency rescue personnel defined",
+  "isOffense": false,
+  "plain": "Defines emergency rescue personnel for use in Section 148.2."
+ },
+ "245.2": {
+  "title": "Assault on transportation workers or passengers",
+  "isOffense": true,
+  "plain": "Assault with a deadly weapon or force likely to produce great bodily injury on a public transit operator, driver, agent, or passenger is punishable by three, four, or five years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "commits an assault with a deadly weapon or instrument or by any means of force likely to produce great bodily injury upon the person of an operator, driver, or passenger on a bus"
+  ]
+ },
+ "245.3": {
+  "title": "Assault on a custodial officer",
+  "isOffense": true,
+  "plain": "Assault with a deadly weapon or force likely to produce great bodily injury on a custodial officer performing their duties is punishable by three, four, or five years in state prison.",
+  "category": "Violence & Threats",
+  "maxYears": 5,
+  "acts": [
+   "commits an assault with a deadly weapon or instrument or by any means likely to produce great bodily injury upon the person of a custodial officer"
+  ]
+ },
+ "245.5": {
+  "title": "Assault on a school employee",
+  "isOffense": true,
+  "plain": "Assault on a school employee performing their duties with a deadly weapon, firearm, or stun gun is punishable by state prison, up to eight years with a firearm.",
+  "category": "Violence & Threats",
+  "maxYears": 8,
+  "acts": [
+   "commits an assault with a deadly weapon or instrument, other than a firearm, or by any means likely to produce great bodily injury upon the person of a school employee",
+   "commits an assault with a firearm upon the person of a school employee",
+   "commits an assault upon the person of a school employee with a stun gun or taser"
+  ]
+ },
+ "245.6": {
+  "title": "Hazing",
+  "isOffense": true,
+  "plain": "Hazing likely to cause serious bodily injury is a misdemeanor with a fine of $100 to $5,000 or county jail up to one year; hazing causing death or serious bodily injury may be a felony under Section 1170(h).",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "engage in hazing",
+   "engages in hazing that results in death or serious bodily injury"
+  ]
+ },
+ "246": {
+  "title": "Shooting at an inhabited dwelling or vehicle",
+  "isOffense": true,
+  "plain": "Maliciously and willfully discharging a firearm at an inhabited dwelling, occupied building, vehicle, or aircraft is a felony punishable by three, five, or seven years in state prison.",
+  "category": "Weapons & Terrorism",
+  "maxYears": 7,
+  "acts": [
+   "discharge a firearm at an inhabited dwelling house, occupied building, occupied motor vehicle, occupied aircraft, inhabited housecar"
+  ]
+ },
+ "246.1": {
+  "title": "Sale of vehicles used in shootings",
+  "isOffense": false,
+  "plain": "Requires the court to order a vehicle used in specified violent firearm offenses sold, and sets the notice, sale, and proceeds procedure."
+ },
+ "246.3": {
+  "title": "Grossly negligent discharge of a firearm",
+  "isOffense": true,
+  "plain": "Willfully discharging a firearm or BB device in a grossly negligent manner that could result in injury or death is punishable by county jail up to one year, or for a firearm also under Section 1170(h).",
+  "category": "Weapons & Terrorism",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "discharges a firearm in a grossly negligent manner which could result in injury or death to a person",
+   "discharges a BB device in a grossly negligent manner which could result in injury or death to a person"
+  ]
+ },
+ "247": {
+  "title": "Shooting at an unoccupied aircraft, vehicle, or building",
+  "isOffense": true,
+  "plain": "Willfully and maliciously shooting at an unoccupied aircraft is a felony; shooting at an unoccupied motor vehicle or uninhabited building is punishable in county jail up to one year or in state prison.",
+  "category": "Weapons & Terrorism",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "discharges a firearm at an unoccupied aircraft",
+   "discharges a firearm at an unoccupied motor vehicle or an uninhabited building or dwelling house"
+  ]
+ },
+ "247.5": {
+  "title": "Laser discharged at aircraft",
+  "isOffense": true,
+  "plain": "Willfully and maliciously discharging a laser at an occupied aircraft is a misdemeanor (county jail up to one year) or a felony (16 months, two years, or three years).",
+  "category": "Transportation & Aviation",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "discharges a laser at an aircraft, whether in motion or in flight, while occupied"
+  ]
+ },
+ "248": {
+  "title": "Light shined at aircraft",
+  "isOffense": true,
+  "plain": "Willfully shining a bright light at an aircraft to interfere with its operation is punishable by a fine up to $1,000, county jail up to one year, or both.",
+  "category": "Transportation & Aviation",
+  "maxYears": 1,
+  "acts": [
+   "willfully shines a light or other bright device, of an intensity capable of impairing the operation of an aircraft, at an aircraft"
+  ]
+ }
+}

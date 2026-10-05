@@ -2,17 +2,18 @@
 
 Notes for picking this project up in a new Claude Code session or account. Read this first, then `README.md` (files and build commands).
 
-- **Live site:** https://crimes.wiki/ (Federal) and https://crimes.wiki/ma/ (MA)
+- **Live site:** https://crimes.wiki/ (Federal), https://crimes.wiki/ma/ (Massachusetts) and https://crimes.wiki/ca/ (California, added locally, not yet published)
 - **Repo:** https://github.com/moqri/crimes-explained (public, GitHub Pages from `main`, root folder)
 - **Local copy:** `/Users/mahdimoqri/ai/usc18` (the parent folder `/Users/mahdimoqri/ai` is otherwise empty)
 - **State as of 2026-10-04:** everything is committed and pushed. Nothing is running except possibly a local server.
 
 ## What the site is
 
-"Crimes Explained": every crime in a criminal code, as official text, annotated and linked, with each crime broken into its elements. Page titles are "Crimes Explained: Federal" and "Crimes Explained: MA"; the switch at the top of the list pages says Federal / MA.
+"Crimes Explained": every crime in a criminal code, as official text, annotated and linked, with each crime broken into its elements. Page titles are "Crimes Explained: Federal", "Crimes Explained: Massachusetts" and "Crimes Explained: California"; the switch at the top of the list pages says Federal / Massachusetts / California (full names).
 
 - **Federal:** Title 18, Part I of the U.S. Code (GovInfo 2024 edition, current through Jan. 6, 2025): 710 sections, 1,731 crimes. List page `index.html`, one page per section `18/<section>.html`.
 - **Massachusetts:** General Laws chapters 265 (Crimes Against the Person), 266 (Crimes Against Property) and 268 (Crimes Against Public Justice); official text from the Legislature's API: 317 sections, 569 crimes (265: 83/153, 266: 187/336, 268: 47/80). List page `ma/index.html` (generated), section pages `ma/<chapter>/<section>.html`.
+- **California:** Penal Code, Part 1, Title 8 (Of Crimes Against the Person, sections 187-248; the chapters that exist are 1, 2, 3, 3.5, 4, 5, 6, 8, 9): 122 sections parsed, 79 define crimes, 141 crimes. Official text from leginfo.legislature.ca.gov. List page `ca/index.html` (generated), section pages `ca/<section>.html` (e.g. `ca/243.4.html`). The Penal Code has no section headings, so each section's caption is written by the reviewer (`title` in `ca/plain.json`) and the site says so.
 - Each section page ends with a "Simplified explanation" box (the section's plain-English summary; there is no per-crime summary).
 - The list pages keep search and filters in the URL (`?q=&chapter=&type=&penalty=&sort=&text=0`).
 
@@ -26,7 +27,8 @@ cd /Users/mahdimoqri/ai/usc18 && python3 serve.py     # serves http://localhost:
 
 Federal: `python3 build_data.py` then `python3 build_pages.py`.
 Massachusetts: `python3 ma/fetch_ma.py <chapters…>`, then review (below), `python3 ma/build_ma.py`, then `python3 build_pages.py --jur ma`.
-Run `build_pages.py` for both jurisdictions after any change to `index.html` (it also rewrites `assets/site.css`, `assets/page.js`, `sitemap.xml`).
+California: `python3 ca/fetch_ca.py`, review, `python3 ca/build_ca.py`, `python3 build_pages.py --jur ca`.
+Run `build_pages.py` for all three jurisdictions after any change to `index.html` (it also rewrites `assets/site.css`, `assets/page.js`, `sitemap.xml`).
 
 Key design: **`index.html` is the single source** of styles and rendering code for both jurisdictions. The page sets `data-jur="ma"` for Massachusetts; `build_pages.py --jur ma` writes `ma/index.html` from `index.html`, swapping the regions marked `<!-- jur:nav|lede|about|footer -->`. Shared Python text helpers are in `textlib.py`.
 
@@ -37,6 +39,17 @@ Key design: **`index.html` is the single source** of styles and rendering code f
 3. One review agent per batch, run one at a time (they use a lot of the user's usage limit; ask before launching many). Each follows `review/ma/INSTRUCTIONS.md` and validates with `python3 review/ma/validate.py <in> <out>` until it prints OK.
 4. `python3 ma/merge_review.py review/ma/<chapter>/out_*.json`, then `python3 ma/build_ma.py` and `python3 build_pages.py --jur ma`. Check links (internal targets exist, external return 200); add cited sections that no longer exist to `MA_DEAD` in `index.html`.
 5. `build_ma.py` leaves unreviewed sections out, so rebuilding at any point is safe. The header lists included chapters automatically.
+
+## California (`ca/`)
+
+Same design as Massachusetts: `index.html` has `data-jur="ca"` support (CA citation patterns, penalty wording, glossary, severity tiers; no frequency sort), `build_pages.py --jur ca` writes `ca/index.html` and `ca/<section>.html`. Workflow: `python3 ca/fetch_ca.py` (downloads chapter pages to `ca/raw/`), `python3 ca/build_ca.py --batches review/ca` (batches of 30 sections not yet in `ca/plain.json`), one review agent per batch run one at a time following `review/ca/INSTRUCTIONS.md` and validated with `python3 review/ca/validate.py <in> <out>`, `python3 ca/merge_review.py review/ca/out_*.json`, `python3 ca/build_ca.py`, `python3 build_pages.py --jur ca`. Extra rules: a "wobbler" tier flag; penalties set by Section 1170(h) are quoted, not expanded; maxYears 1000 = death, 999 = life. Cited sections that do not exist go in `CA_DEAD` in `index.html`.
+
+Other Title-level work not done: more of the Penal Code (Title 9 sex crimes 261+, Title 13 property crimes, weapons Part 6) and other codes (Health and Safety 11350+, Vehicle).
+
+## States investigated and blocked
+
+- **New York:** the official Open Legislation API needs an API key (not obtained: it would mean signing up with the user's email, which was not done); the nysenate.gov and legislation web pages sit behind a bot challenge.
+- **Texas:** statutes.capitol.texas.gov is a JavaScript app; no bulk download or API was found.
 
 ## The user's rules and preferences (follow these)
 
@@ -72,6 +85,8 @@ Working style
 - The user asked to stop the running review agents (usage limits) and to stop the local server; check before launching many agents again.
 
 ## Open items (offered, not started)
+
+- California judgment calls to check legally: 187, 189, 192, 193, 193.5, 204, 207, 211, 214, 236, 240 (definition-only sections kept as crimes with the penalty "Set in Section X"); 212.5, 242, 243.85 (marked not crimes); 190.2 (aiders and major participants split into separate crimes); 243.4(k); 241.4; 217.1.
 
 - More Massachusetts chapters: 269 (public peace and weapons), 272 (public order), then 94C (drugs), 90 (motor vehicles), 140 §§121–131 (firearms), 209A. Chapter 268 took 2 agent batches.
 - Judgment calls to check legally: chapter 266 sections 75, 75C, 76, 78, 87, 89, 147; chapters 266/268 sections split into several crimes (266/28, 30A, 37B, 37C, 53A, 60; 268/31, 32); 268/14A marked not an offense (it only says contempt); sections with no penalty of their own (266/32–34, 37, 38, 58, 59; 268/1A, 2, 25); federal §709 split into 24 crimes, §922 into 45; Massachusetts 265 §§1, 3, 4 with no penalty of their own, mandatory-minimum readings, §21A's ambiguous fine.
