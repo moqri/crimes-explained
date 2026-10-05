@@ -5,8 +5,7 @@ Every crime in Title 18 of the United States Code (Part I, "Crimes"): 710 sectio
 In the official text, color marks the parts of each crime:
 
 - **Prohibited act** (amber highlight): what a person does that makes it a crime
-- **Knowledge** (teal): what the law requires the person to be aware of, such as acting *knowingly* or knowing a statement is false
-- **Intent** (purple): the purpose required, such as *willfully* or *with intent to*
+- **Mental state** (teal): what the law requires of the person's mind: knowledge, intent, recklessness or negligence, such as *knowingly*, *willfully*, *with intent to* or *recklessly*
 - **Penalty** (red): prison terms, fines, and civil penalties
 - **Legal terms** (dotted underline): tap or hover for a definition
 

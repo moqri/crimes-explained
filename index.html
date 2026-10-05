@@ -187,10 +187,10 @@
     .act { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
     .pen { color: var(--hl-pen); }
     .penp { font-weight: inherit; }  /* the amount after the penalty word stays regular text */
-    .intent { color: var(--hl-intent); }
+    .intent { color: var(--hl-know); }   /* the one mental-state color (knowledge, intent, recklessness, negligence): teal */
     .know { color: var(--hl-know); }
     .cond { }                                             /* the clause itself stays plain text */
-    .condw { font-style: italic; color: var(--hl-cond); }  /* only "if" / "unless" is marked */
+    .condw { font-style: italic; color: var(--hl-intent); }  /* only "if" / "unless" is marked */
     .term { all: unset; cursor: help; text-decoration: underline dotted; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); text-decoration-thickness: 1.5px; text-underline-offset: .2em; }
     .term:hover { text-decoration-color: currentColor; }
     .term:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
@@ -256,14 +256,14 @@
     <h1>Crimes Explained: Federal</h1>
     <!-- jur:lede --><p class="lede">Every crime in <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partI.htm" target="_blank" rel="noopener" title="Title 18, Part I (Crimes): full official text on GovInfo">Title 18</a> of the <a href="https://www.govinfo.gov/app/collection/uscode" target="_blank" rel="noopener" title="The United States Code on GovInfo">United States Code</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
-      <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
+      <span class="legend" aria-label="Color key"><span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span>
       <details class="about">
         <summary>About this site</summary>
         <div class="about-body"><!-- jur:about -->
-          <p>The main body of federal criminal law, in its official text and annotated. Each section is color-coded to show the prohibited act, the knowledge and intent the law requires, and the penalty, and every citation to another law links to its official source. <span id="edition"></span></p>
+          <p>The main body of federal criminal law, in its official text and annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and every citation to another law links to its official source. <span id="edition"></span></p>
           <ul>
-      <li><b>Select any section</b> to open its own page with the official text of the law. Below the text, each crime in the section is broken out: the act (with <i>+ attempt</i> / <i>+ conspiracy</i> when those are covered), who can commit it when the law limits that, the federal basis, the knowledge and intent required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences such as forfeiture. What applies to every crime in a section is shown once at the top.</li>
-      <li>In the official text, <span class="act">the prohibited act</span> (what a person does that makes it a crime) is highlighted in orange, the <span class="know">knowledge</span> the law requires (such as acting <i>knowingly</i>, or knowing a statement is false) in teal, the <span class="intent">intent</span>, recklessness or negligence, or the purpose required (such as <i>willfully</i> or <i>with intent to</i>) in purple, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in slate-blue italics (such as <span class="condw">if</span> death results), and <span class="pen">penalties</span> in red. Knowledge and intent often decide whether something is a crime at all.</li>
+      <li><b>Select any section</b> to open its own page with the official text of the law. Below the text, each crime in the section is broken out: the act (with <i>+ attempt</i> / <i>+ conspiracy</i> when those are covered), who can commit it when the law limits that, the federal basis, the mental state required, conditions, exceptions and defenses, the penalty with any conditions that change it, and other consequences such as forfeiture. What applies to every crime in a section is shown once at the top.</li>
+      <li>In the official text, <span class="act">the prohibited act</span> (what a person does that makes it a crime) is highlighted in orange, the <span class="intent">mental state</span> the law requires (knowledge, intent, recklessness or negligence, such as <i>willfully</i> or <i>with intent to</i>) in teal, conditions by their <span class="condw">if</span> or <span class="condw">unless</span> in purple italics (such as <span class="condw">if</span> death results), and <span class="pen">penalties</span> in red. The mental state often decides whether something is a crime at all.</li>
       <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
       <li>References to other laws are <a class="xref" href="#">links</a>. Links to sections on this page jump there; others open the official text on GovInfo.</li>
       <li>The colored bar on each card shows the <b>maximum</b> prison time. Most people convicted receive less. Actual sentences depend on the facts and the federal sentencing guidelines.</li>
@@ -376,7 +376,7 @@
     ['forfeited', 'Forfeited', 'Taken away by the government as part of a penalty.'],
     ['thing of value', 'Thing of value', 'Anything that has value to the person receiving it, not only money.'],
   ];
-  // Mental-state wording, highlighted in purple wherever it appears in statute text.
+  // Mental-state wording, highlighted in teal wherever it appears in statute text.
   const INTENT_KEYS = new Set(['willfully', 'wilfully', 'wantonly or recklessly', 'wantonly', 'reckless disregard', 'negligently', 'criminal negligence', 'with criminal negligence', 'intentionally', 'with intent to', 'with the intent to', 'maliciously', 'corruptly',
     'in order to', 'for the purpose of', 'with the purpose of', 'intending', 'with the intent that', 'recklessly',
     'with reckless disregard', 'fraudulently', 'purposely']);
@@ -758,7 +758,7 @@
         const k = m[0].toLowerCase(), info = GLOSS.get(k);
         // "for the purpose of this section" defines scope; it is not a mental state.
         const isIntent = INTENT_KEYS.has(k) && !(k.endsWith('purpose of') && /^\s+(this|that|such|these|subsection|section|paragraph|chapter|title|clause)\b/i.test(ahead(last, 20)));
-        const cls = k === 'fined under this title' || k === 'fine under this title' || k === 'any term of years or for life' ? 'pen' : isIntent ? 'intent' : KNOWLEDGE_KEYS.has(k) ? 'know' : '';
+        const cls = k === 'fined under this title' || k === 'fine under this title' || k === 'any term of years or for life' ? 'pen' : isIntent || KNOWLEDGE_KEYS.has(k) ? 'intent' : '';
         // Plain-English phrases (e.g. "in order to") keep their color but are not shown as legal terms.
         const btn = NOT_A_TERM.has(k) ? raw : `<button type="button" class="term" data-k="${esc(k)}" data-label="${esc(info?.label || '')}" data-def="${esc(info?.def || '')}">${raw}</button>`;
         out += cls === 'pen' ? `<span class="penp">${NOT_A_TERM.has(k) ? penInner(raw) : `<button type="button" class="term" data-k="${esc(k)}" data-label="${esc(info?.label || '')}" data-def="${esc(info?.def || '')}">${penInner(raw)}</button>`}</span>`
@@ -951,8 +951,8 @@
 
   // Crime breakdown ("elements"): shared fields once per section, then each crime with only what differs.
   const ROWS = [
-    ['who', 'Who', ''], ['federalBasis', 'Federal basis', ''], ['knowledge', 'Knowledge', 'know'], ['mentalState', 'Mental state', 'intent'],
-    ['intent', 'Intent', 'intent'], ['conditions', 'Conditions', ''], ['exceptions', 'Exceptions', ''], ['defenses', 'Defenses', ''],
+    ['who', 'Who', ''], ['federalBasis', 'Federal basis', ''], ['mentalState', 'Mental state', 'intent'],
+    ['conditions', 'Conditions', ''], ['exceptions', 'Exceptions', ''], ['defenses', 'Defenses', ''],
     ['penalties', 'Penalty', 'pen'], ['consequences', 'Other consequences', ''], ['terms', 'Key terms', ''],
   ];
   function tiersHTML(tiers) {
@@ -965,7 +965,8 @@
   function rowsHTML(obj, skip = new Set()) {
     return ROWS.map(([key, label, cls]) => {
       if (skip.has(key)) return '';
-      const v = obj[key];
+      // one "Mental state" row: what the person must know, intend, or disregard (knowledge, recklessness or negligence, intent)
+      const v = key === 'mentalState' ? [...new Set([...(obj.knowledge || []), ...(obj.mentalState || []), ...(obj.intent || [])])] : obj[key];
       if (key === 'who') return v ? `<div class="off-q"><span class="off-k">${label}</span><ul><li>${linkify(v)}</li></ul></div>` : '';
       if (key === 'penalties') return v?.length ? `<div class="off-q"><span class="off-k">${label}</span>${tiersHTML(v)}</div>` : '';
       return v?.length ? `<div class="off-q"><span class="off-k">${label}</span><ul>${v.map(t => `<li${cls ? ` class="${cls}"` : ''}>${linkify(t)}</li>`).join('')}</ul></div>` : '';
@@ -1010,7 +1011,7 @@
             }).join('')}
             <div class="split">
             <div class="official">
-              <h3>Official text <span class="legend"><span class="act">prohibited act</span><span class="know">knowledge</span><span class="intent">intent</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span></h3>
+              <h3>Official text <span class="legend"><span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span></h3>
               <div class="stat">${statGroups(c.text)}</div>
               ${c.source ? `<p class="src"><b>History:</b> ${enrich(c.source)}</p>` : ''}
               ${c.footnotes.map(f => `<p class="fn">${enrich(f)}</p>`).join('')}

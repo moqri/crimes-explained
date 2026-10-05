@@ -180,10 +180,10 @@
     .act { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
     .pen { color: var(--hl-pen); }
     .penp { font-weight: inherit; }  /* the amount after the penalty word stays regular text */
-    .intent { color: var(--hl-intent); }
+    .intent { color: var(--hl-know); }   /* the one mental-state color (knowledge, intent, recklessness, negligence): teal */
     .know { color: var(--hl-know); }
     .cond { }                                             /* the clause itself stays plain text */
-    .condw { font-style: italic; color: var(--hl-cond); }  /* only "if" / "unless" is marked */
+    .condw { font-style: italic; color: var(--hl-intent); }  /* only "if" / "unless" is marked */
     .term { all: unset; cursor: help; text-decoration: underline dotted; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); text-decoration-thickness: 1.5px; text-underline-offset: .2em; }
     .term:hover { text-decoration-color: currentColor; }
     .term:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
