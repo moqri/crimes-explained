@@ -30,7 +30,7 @@ Federal: `python3 build_data.py` then `python3 build_pages.py`.
 Massachusetts: `python3 ma/fetch_ma.py <chapters…>`, then review (below), `python3 ma/build_ma.py`, then `python3 build_pages.py --jur ma`.
 California: `python3 ca/fetch_ca.py`, review, `python3 ca/build_ca.py`, `python3 build_pages.py --jur ca`.
 New York: `python3 ny/fetch_ny.py`, review, `python3 ny/build_ny.py`, `python3 build_pages.py --jur ny`.
-After any data rebuild, run `python3 related.py` (writes `related.json`, the "Related crimes" box on section pages) before `build_pages.py`. Run `build_pages.py` for all four jurisdictions after any change to `index.html` (it also rewrites `assets/site.css`, `assets/page.js`, `sitemap.xml`).
+After any data rebuild, run `python3 related.py` (writes `related.json`, the "Related crimes" box on section pages) before `build_pages.py` "In other jurisdictions" shows the single best match from each other jurisdiction, in the order Federal, Massachusetts, New York, California, and only when it scores at least `OTHER_MIN` and shares the crime type (or scores at least `OTHER_ANY_TYPE`); a jurisdiction without a good match is left out. The scoring is word overlap (TF-IDF), so lowering the thresholds brings in wrong matches. Run `build_pages.py` for all four jurisdictions after any change to `index.html` (it also rewrites `assets/site.css`, `assets/page.js`, `sitemap.xml`).
 
 Key design: **`index.html` is the single source** of styles and rendering code for both jurisdictions. The page sets `data-jur="ma"` for Massachusetts; `build_pages.py --jur ma` writes `ma/index.html` from `index.html`, swapping the regions marked `<!-- jur:nav|lede|about|footer -->`. Shared Python text helpers are in `textlib.py`.
 

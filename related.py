@@ -1,4 +1,5 @@
-"""Related crimes: for every section, up to 3 similar sections in the same jurisdiction and up to 3 in other jurisdictions.
+"""Related crimes: for every section, up to 3 similar sections in the same jurisdiction and, from each other jurisdiction,
+its single most similar section (when one is similar enough; a jurisdiction with no good match is left out).
 
 Similarity is TF-IDF cosine over each section's title, plain-English summary, category and crimes' acts (no outside data,
 no AI at build time). Writes related.json: {"us:922": {"same": [["us", "924"], ...], "other": [["ma", "265/15A"], ...]}}.
@@ -11,7 +12,9 @@ from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 SOURCES = {"us": "crimes.json", "ma": "ma/crimes.json", "ca": "ca/crimes.json", "ny": "ny/crimes.json"}
 NAMES = {"us": "Federal", "ma": "Massachusetts", "ca": "California", "ny": "New York"}
+ORDER = ["us", "ma", "ny", "ca"]   # the order of the switch at the top of the site
 SAME_MIN, OTHER_MIN, CATEGORY_BOOST, TITLE_WEIGHT = 0.32, 0.38, 0.05, 0.5
+OTHER_ANY_TYPE = 0.55   # a match in another jurisdiction must share the crime type unless it scores at least this
 
 STOP = set("""a an and or the of to in on at by for with from as is are was be been being it its this that these those any all
 such than then there their his her he she they them who whom whoever whose which what when where while if unless not no nor
@@ -75,18 +78,11 @@ for i, (jur, sec, cat, _, _) in enumerate(items):
         score = cos(vecs[i], vecs[k]) + TITLE_WEIGHT * cos(tvecs[i], tvecs[k]) + (CATEGORY_BOOST if cat and cat == cat2 else 0)
         if j2 == jur:
             if score >= SAME_MIN: same.append((score, s2))
-        elif score >= OTHER_MIN:
-            if j2 not in best_other or score > best_other[j2][0][0]: best_other[j2] = [(score, s2)] + best_other.get(j2, [])[:1]
-            else: best_other[j2].append((score, s2))
+        elif score >= OTHER_MIN and (cat == cat2 or score >= OTHER_ANY_TYPE):
+            if score > best_other.get(j2, (0, None))[0]: best_other[j2] = (score, s2)
     same = sorted(same, reverse=True)[:3]
-    # other jurisdictions: the best match from each, then fill the rest with the next best, up to 3 in all
-    pool = sorted(((sc, j2, s2) for j2, lst in best_other.items() for sc, s2 in lst), reverse=True)
-    firsts = [max((p for p in pool if p[1] == j2), default=None) for j2 in best_other]
-    chosen = sorted((p for p in firsts if p), reverse=True)[:3]
-    for p in pool:
-        if len(chosen) >= 3: break
-        if p not in chosen: chosen.append(p)
-    chosen = sorted(chosen, reverse=True)[:3]
+    # other jurisdictions: the single best match from each, in the site's order (Federal, Massachusetts, New York, California)
+    chosen = [(best_other[j2][0], j2, best_other[j2][1]) for j2 in ORDER if j2 in best_other]
     related[f"{jur}:{sec}"] = {"same": [[jur, s] for _, s in same], "other": [[j2, s2] for _, j2, s2 in chosen]}
     scores[f"{jur}:{sec}"] = ([round(sc, 2) for sc, _ in same], [round(sc, 2) for sc, _, _ in chosen])
 
