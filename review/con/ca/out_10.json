@@ -1,0 +1,1420 @@
+{
+ "a10b-s8": {
+  "review": {
+   "title": "Marine Resources Protection Account and stamps",
+   "plain": "Creates the Marine Resources Protection Account; the Department of Fish and Game collects fees under this article for compensating permit holders and administration. Sport and commercial passenger fishing south of Point Arguello require a $3 stamp. This section becomes inoperative January 1, 1995.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may be expended for the administration of this article",
+    "may accept contributions or donations from any person"
+   ],
+   "limits": [
+    "shall be used only for those purposes",
+    "may only be expended for the purposes authorized by this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "There is hereby created the Marine Resources Protection Account in the Fish and Game Preservation Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "On and after January 1, 1991, the Department of Fish and Game shall collect any and all fees required by this article",
+     "holder": null,
+     "binds": "The Department of Fish and Game",
+     "requires": [
+      "collect any and all fees required by this article"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "All fees received by the department pursuant to this article shall be deposited in the account and shall be expended or encumbered to compensate persons who surrender permits pursuant to Section 7 or to provide for administration of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be deposited in the account",
+      "shall be expended or encumbered to compensate persons who surrender permits pursuant to Section 7 or to provide for administration of this article"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "All funds received by the department during any fiscal year pursuant to this article which are not expended during that fiscal year shall be carried over into the following fiscal year and shall be used only for those purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be carried over into the following fiscal year"
+     ],
+     "forbids": [
+      "use for other than those purposes"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "All interest accrued from the department’s retention of fees received pursuant to this article shall be credited to the account. The accrued interest may only be expended for the purposes authorized by this article",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be credited to the account"
+     ],
+     "forbids": [
+      "expending the accrued interest for purposes not authorized by this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The account shall continue in existence, and the requirement to pay fees under this article shall remain in effect, until the compensation provided in Section 7 has been fully funded or until January 1, 1995, whichever occurs first",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "An amount, not to exceed 15 percent of the total annual revenues deposited in the account excluding any interest accrued or any funds carried over from a prior fiscal year may be expended for the administration of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not to exceed 15 percent of the total annual revenues deposited in the account excluding any interest accrued or any funds carried over from a prior fiscal year"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "A person taking fish from ocean waters south of a line extending due west from Point Arguello for sport purposes shall have permanently affixed to that person’s sportfishing license a marine resources protection stamp which may be obtained from the department upon payment of a fee of three dollars ($3)",
+     "holder": null,
+     "binds": "A person taking fish from ocean waters south of a line extending due west from Point Arguello for sport purposes",
+     "requires": [
+      "In addition to a valid California sportfishing license and any applicable sport license stamp, a marine resources protection stamp permanently affixed to that person’s sportfishing license"
+     ],
+     "forbids": [],
+     "conditions": [
+      "upon payment of a fee of three dollars ($3)"
+     ],
+     "exceptions": [
+      "This subdivision does not apply to any one-day fishing license"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The owner of any boat or vessel who, for profit, permits any person to fish from the boat or vessel in ocean waters south of a line extending due west from Point Arguello, shall obtain and permanently affix to the license a commercial marine resources protection stamp which may be obtained from the department upon payment of a fee of three dollars ($3)",
+     "holder": null,
+     "binds": "The owner of any boat or vessel who, for profit, permits any person to fish from the boat or vessel in ocean waters south of a line extending due west from Point Arguello",
+     "requires": [
+      "In addition to a valid California commercial passenger fishing boat license, obtain and permanently affix to the license a commercial marine resources protection stamp"
+     ],
+     "forbids": [],
+     "conditions": [
+      "upon payment of a fee of three dollars ($3)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "The department may accept contributions or donations from any person who wishes to donate money to be used for the compensation of commercial gill net and trammel net fishermen who surrender permits under this article",
+     "holder": "The Department of Fish and Game",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "This section shall become inoperative on January 1, 1995",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s9": {
+  "review": {
+   "title": "Leftover account funds for marine research",
+   "plain": "Funds remaining in the Marine Resources Protection Account on or after January 1, 1995, shall, with the Fish and Game Commission's approval, be used for grants to colleges, universities and other scientific research groups for marine research within the ecological reserves.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Any funds remaining in the Marine Resources Protection Account in the Fish and Game Preservation Fund on or after January 1, 1995, shall, with the approval of the Fish and Game Commission, be used to provide grants to colleges, universities and other bonafide scientific research groups to fund marine resource related scientific research within the ecological reserves established by Section 14 of this act",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "be used to provide grants to colleges, universities and other bonafide scientific research groups to fund marine resource related scientific research within the ecological reserves established by Section 14 of this act"
+     ],
+     "forbids": [],
+     "conditions": [
+      "with the approval of the Fish and Game Commission"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s10": {
+  "review": {
+   "title": "Annual report to the Legislature",
+   "plain": "By December 31 each year, the Director of Fish and Game shall prepare and submit a report to the Legislature on carrying out this article, including an accounting of all funds.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "On or before December 31 of each year, the Director of Fish and Game shall prepare and submit a report to the Legislature regarding the implementation of this article including an accounting of all funds",
+     "holder": null,
+     "binds": "The Director of Fish and Game",
+     "requires": [
+      "prepare and submit a report to the Legislature regarding the implementation of this article including an accounting of all funds"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s11": {
+  "review": {
+   "title": "No dealing in illegally taken fish",
+   "plain": "It is unlawful for any person to take, possess, receive, transport, purchase, sell, barter or process any fish obtained in violation of this article.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "unlawful for any person to take, possess, receive, transport, purchase, sell, barter, or process any fish obtained in violation of this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "It is unlawful for any person to take, possess, receive, transport, purchase, sell, barter, or process any fish obtained in violation of this article",
+     "holder": null,
+     "binds": "Any person",
+     "requires": [],
+     "forbids": [
+      "take, possess, receive, transport, purchase, sell, barter, or process any fish obtained in violation of this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s12": {
+  "review": {
+   "title": "Monitoring commercial fish landings",
+   "plain": "To increase scientific information on ocean fisheries, the Department of Fish and Game shall set up a program to monitor and evaluate daily landings by permitted commercial fishermen. The commercial fishing industry shall bear the cost.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "To increase the State’s scientific and biological information on the ocean fisheries of this State, the Department of Fish and Game shall establish a program whereby it can monitor and evaluate the daily landings of fish by commercial fishermen who are permitted under this article to take these fish",
+     "holder": null,
+     "binds": "The Department of Fish and Game",
+     "requires": [
+      "establish a program whereby it can monitor and evaluate the daily landings of fish by commercial fishermen who are permitted under this article to take these fish"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The cost of implementing this monitoring program shall be borne by the commercial fishing industry",
+     "holder": null,
+     "binds": "The commercial fishing industry",
+     "requires": [
+      "The cost of implementing this monitoring program shall be borne by the commercial fishing industry"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s13": {
+  "review": {
+   "title": "Penalties for marine net violations",
+   "plain": "Violating Sections 3 and 4 brings a fine and mandatory suspension of commercial fishing licenses, permits or stamps, larger for repeat violations. A Section 8 violation is treated as a Fish and Game Code violation. Probation must require paying at least the minimum fine.",
+   "category": "Criminal Justice",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The penalty for a first violation of the provisions of Sections 3 and 4 of this article is a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000) and a mandatory suspension of any license, permit or stamp to take, receive, transport, purchase, sell, barter or process fish for commercial purposes for six months",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The penalty for a second or subsequent violation of the provisions of Sections 3 and 4 of this article is a fine of not less than two thousand five hundred dollars ($2,500) and not more than ten thousand dollars ($10,000) and a mandatory suspension of any license, permit or stamp to take, receive, transport, purchase, sell, barter, or process fish for commercial purposes for one year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Notwithstanding any other provisions of law, a violation of Section 8 of this article shall be deemed a violation of the provisions of Section 7145 of the Fish and Game Code and the penalty for such violation shall be consistent with the provisions of Section 12002.2 of said code",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "If a person convicted of a violation of Section 3, 4, or 8 of this article is granted probation, the court shall impose as a term or condition of probation, in addition to any other term or condition of probation, that the person pay at least the minimum fine prescribed in this section",
+     "holder": null,
+     "binds": "The court",
+     "requires": [
+      "impose as a term or condition of probation that the person pay at least the minimum fine prescribed in this section"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If a person convicted of a violation of Section 3, 4, or 8 of this article is granted probation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s14": {
+  "review": {
+   "title": "Four new ocean ecological reserves",
+   "plain": "Before January 1, 1994, the Fish and Game Commission shall establish four new ecological reserves of at least two square miles each in ocean waters along the mainland coast, and restrict their use to scientific research on managing and enhancing marine resources.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Prior to January 1, 1994, the Fish and Game Commission shall establish four new ecological reserves in ocean waters along the mainland coast",
+     "holder": null,
+     "binds": "The Fish and Game Commission",
+     "requires": [
+      "establish four new ecological reserves in ocean waters along the mainland coast"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Each ecological reserve shall have a surface area of at least two square miles",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The commission shall restrict the use of these ecological reserves to scientific research relating to the management and enhancement of marine resources",
+     "holder": null,
+     "binds": "The Fish and Game Commission",
+     "requires": [
+      "restrict the use of these ecological reserves to scientific research relating to the management and enhancement of marine resources"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s15": {
+  "review": {
+   "title": "Other wildlife closures not preempted",
+   "plain": "This article does not preempt or supersede any other closures to protect any other wildlife, including sea otters, whales and shorebirds.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article does not preempt or supersede any other closures to protect any other wildlife, including sea otters, whales, and shorebirds",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s16": {
+  "review": {
+   "title": "Severability of the article",
+   "plain": "If any provision of this article or its application is held invalid, the invalidity does not affect other provisions or applications that can be given effect without it; the provisions of this article are severable.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If any provision of this article or the application thereof to any person or circumstances is held invalid, that invalidity shall not affect other provisions or applications of this article which can be given effect without the invalid provision or application, and to this end the provisions of this article are severable",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any provision of this article or the application thereof to any person or circumstances is held invalid"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s1": {
+  "review": {
+   "title": "Counties",
+   "plain": "The State is divided into counties. The Legislature shall prescribe procedure for county formation, consolidation and boundary changes, and provide for county powers and elected county officers. A county seat may be removed only by a two-thirds vote of the county's electors.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may provide for other officers"
+   ],
+   "limits": [
+    "No county seat shall be removed",
+    "shall not be submitted in the same county more than once in four years"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The State is divided into counties which are legal subdivisions of the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall prescribe uniform procedure for county formation, consolidation, and boundary change",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "prescribe uniform procedure for county formation, consolidation, and boundary change"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Formation or consolidation requires approval by a majority of electors voting on the question in each affected county. A boundary change requires approval by the governing body of each affected county",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Formation or consolidation requires approval by a majority of electors voting on the question in each affected county",
+      "A boundary change requires approval by the governing body of each affected county"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No county seat shall be removed unless two-thirds of the qualified electors of the county, voting on the proposition at a general election, shall vote in favor of such removal",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "removing a county seat"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless two-thirds of the qualified electors of the county, voting on the proposition at a general election, shall vote in favor of such removal"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "A proposition of removal shall not be submitted in the same county more than once in four years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "submitting a proposition of removal in the same county more than once in four years"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The Legislature shall provide for county powers, an elected county sheriff, an elected district attorney, an elected assessor, and an elected governing body in each county",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "provide for county powers, an elected county sheriff, an elected district attorney, an elected assessor, and an elected governing body in each county"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Each governing body shall prescribe by ordinance the compensation of its members, but the ordinance prescribing such compensation shall be subject to referendum",
+     "holder": null,
+     "binds": "Each governing body",
+     "requires": [
+      "prescribe by ordinance the compensation of its members",
+      "the ordinance prescribing such compensation shall be subject to referendum"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (b) of Section 4 of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature or the governing body may provide for other officers whose compensation shall be prescribed by the governing body",
+     "holder": "The Legislature or the governing body",
+     "binds": null,
+     "requires": [
+      "compensation shall be prescribed by the governing body"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The governing body shall provide for the number, compensation, tenure, and appointment of employees",
+     "holder": null,
+     "binds": "The governing body",
+     "requires": [
+      "provide for the number, compensation, tenure, and appointment of employees"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s2": {
+  "review": {
+   "title": "Cities",
+   "plain": "The Legislature shall prescribe uniform procedure for forming cities and provide for city powers. A city may not be annexed to or consolidated into another without approval by a majority of its electors voting on the question.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "a city may not be annexed to or consolidated into another"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall prescribe uniform procedure for city formation and provide for city powers",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "prescribe uniform procedure for city formation",
+      "provide for city powers"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A city may not be annexed to or consolidated into another",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "annexing a city to another",
+      "consolidating a city into another"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "with approval by a majority of its electors voting on the question"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s3": {
+  "review": {
+   "title": "County and city charters",
+   "plain": "A county or city may adopt a charter for its own government by majority vote of its electors. A charter takes effect when filed with the Secretary of State and has the force of legislative enactments. Charters may be proposed, amended or repealed by the governing body or by initiative.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may adopt a charter",
+    "may propose a charter or revision",
+    "may be proposed by initiative or by the governing body",
+    "may be required by initiative or by the governing body"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "For its own government, a county or city may adopt a charter by majority vote of its electors voting on the question",
+     "holder": "A county or city",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by majority vote of its electors voting on the question"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The charter is effective when filed with the Secretary of State. A charter may be amended, revised, or repealed in the same manner",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when filed with the Secretary of State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "A charter, amendment, revision, or repeal thereof shall be published in the official state statutes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be published in the official state statutes"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "County charters adopted pursuant to this section shall supersede any existing charter and all laws inconsistent therewith. The provisions of a charter are the law of the State and have the force and effect of legislative enactments",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The governing body or charter commission of a county or city may propose a charter or revision",
+     "holder": "The governing body or charter commission of a county or city",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Amendment or repeal may be proposed by initiative or by the governing body",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "An election to determine whether to draft or revise a charter and elect a charter commission may be required by initiative or by the governing body",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "If provisions of 2 or more measures approved at the same election conflict, those of the measure receiving the highest affirmative vote shall prevail",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If provisions of 2 or more measures approved at the same election conflict"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s4": {
+  "review": {
+   "title": "What county charters must provide",
+   "plain": "County charters shall provide for an elected governing body of 5 or more members, elected county officers, compensation, terms and removal, county functions, officers' powers and duties, and employees. Charters supersede general laws on those matters, and charter counties have all powers provided for counties.",
+   "category": "Local Government",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "shall have all the powers that are provided by this Constitution or by statute for counties"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "County charters shall provide for a governing body of 5 or more members, elected (1) by district or, (2) at large, or (3) at large, with a requirement that they reside in a district",
+     "holder": null,
+     "binds": "County charters",
+     "requires": [
+      "A governing body of 5 or more members, elected (1) by district or, (2) at large, or (3) at large, with a requirement that they reside in a district"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Charter counties are subject to statutes that relate to apportioning population of governing body districts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "County charters shall provide for the compensation, terms, and removal of members of the governing body",
+     "holder": null,
+     "binds": "County charters",
+     "requires": [
+      "The compensation, terms, and removal of members of the governing body"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "If a county charter provides for the Legislature to prescribe the salary of the governing body, such compensation shall be prescribed by the governing body by ordinance",
+     "holder": null,
+     "binds": "The governing body",
+     "requires": [
+      "such compensation shall be prescribed by the governing body by ordinance"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If a county charter provides for the Legislature to prescribe the salary of the governing body"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "County charters shall provide for an elected sheriff, an elected district attorney, an elected assessor, other officers, their election or appointment, compensation, terms and removal",
+     "holder": null,
+     "binds": "County charters",
+     "requires": [
+      "An elected sheriff, an elected district attorney, an elected assessor, other officers, their election or appointment, compensation, terms and removal"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "County charters shall provide for the performance of functions required by statute",
+     "holder": null,
+     "binds": "County charters",
+     "requires": [
+      "The performance of functions required by statute"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "County charters shall provide for the powers and duties of governing bodies and all other county officers, and for consolidation and segregation of county officers, and for the manner of filling all vacancies occurring therein",
+     "holder": null,
+     "binds": "County charters",
+     "requires": [
+      "The powers and duties of governing bodies and all other county officers",
+      "consolidation and segregation of county officers",
+      "the manner of filling all vacancies occurring therein"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "County charters shall provide for the fixing and regulation by governing bodies, by ordinance, of the appointment and number of assistants, deputies, clerks, attachés, and other persons to be employed, and for the prescribing and regulating by such bodies of the powers, duties, qualifications, and compensation of such persons, the times at which, and terms for which they shall be appointed, and the manner of their appointment and removal",
+     "holder": null,
+     "binds": "County charters",
+     "requires": [
+      "The fixing and regulation by governing bodies, by ordinance, of the appointment and number of assistants, deputies, clerks, attachés, and other persons to be employed",
+      "the prescribing and regulating by such bodies of the powers, duties, qualifications, and compensation of such persons, the times at which, and terms for which they shall be appointed, and the manner of their appointment and removal"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "Whenever any county has framed and adopted a charter, and the same shall have been approved by the Legislature as herein provided, the general laws adopted by the Legislature in pursuance of Section 1(b) of this article, shall, as to such county, be superseded by said charter as to matters for which, under this section it is competent to make provision in such charter, and for which provision is made therein",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever any county has framed and adopted a charter, and the same shall have been approved by the Legislature as herein provided"
+     ],
+     "exceptions": [
+      "except as herein otherwise expressly provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "power",
+     "what": "Charter counties shall have all the powers that are provided by this Constitution or by statute for counties",
+     "holder": "Charter counties",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s5": {
+  "review": {
+   "title": "City charters and municipal affairs",
+   "plain": "A city charter may provide that the city may make and enforce all ordinances and regulations on municipal affairs, subject only to its charter; on other matters cities are subject to general laws. City charters supersede inconsistent laws on municipal affairs and may provide for police, subgovernment, elections and municipal officers and employees.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may make and enforce all ordinances and regulations in respect to municipal affairs",
+    "It shall be competent in all city charters to provide",
+    "plenary authority is hereby granted"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "It shall be competent in any city charter to provide that the city governed thereunder may make and enforce all ordinances and regulations in respect to municipal affairs, subject only to restrictions and limitations provided in their several charters",
+     "holder": "The city governed thereunder",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject only to restrictions and limitations provided in their several charters"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "In respect to other matters they shall be subject to general laws",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "in respect to other matters they shall be subject to general laws"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "City charters adopted pursuant to this Constitution shall supersede any existing charter, and with respect to municipal affairs shall supersede all laws inconsistent therewith",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "It shall be competent in all city charters to provide, in addition to those provisions allowable by this Constitution, and by the laws of the State for: (1) the constitution, regulation, and government of the city police force (2) subgovernment in all or part of a city (3) conduct of city elections",
+     "holder": "City charters",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "power",
+     "what": "Plenary authority is hereby granted, subject only to the restrictions of this article, to provide therein or by amendment thereto, the manner in which, the method by which, the times at which, and the terms for which the several municipal officers and employees whose compensation is paid by the city shall be elected or appointed, and for their removal, and for their compensation, and for the number of deputies, clerks and other employees that each shall have, and for the compensation, method of appointment, qualifications, tenure of office and removal of such deputies, clerks and other employees",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject only to the restrictions of this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s6": {
+  "review": {
+   "title": "Consolidated charter city and county",
+   "plain": "A county and all cities within it may consolidate as a charter city and county as provided by statute. A charter city and county is both a charter city and a charter county, and its charter city powers supersede conflicting charter county powers.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may consolidate as a charter city and county"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "A county and all cities within it may consolidate as a charter city and county as provided by statute",
+     "holder": "A county and all cities within it",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as provided by statute"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "A charter city and county is a charter city and a charter county. Its charter city powers supersede conflicting charter county powers",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s7": {
+  "review": {
+   "title": "Local ordinances and regulations",
+   "plain": "A county or city may make and enforce within its limits all local, police, sanitary and other ordinances and regulations not in conflict with general laws.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may make and enforce within its limits all local, police, sanitary, and other ordinances and regulations"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "A county or city may make and enforce within its limits all local, police, sanitary, and other ordinances and regulations not in conflict with general laws",
+     "holder": "A county or city",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not in conflict with general laws"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s7.5": {
+  "review": {
+   "title": "Limits on local ballot measures",
+   "plain": "A city or county measure proposed by a local legislative body and submitted to voters may not include or exclude areas based on the vote, or contain alternative provisions that take effect depending on the percentage of votes cast. The section defines \"city or county measure.\"",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not do either of the following"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "limit",
+     "what": "A city or county measure proposed by the legislative body of a city, charter city, county, or charter county and submitted to the voters for approval may not include or exclude any part of the city, charter city, county, or charter county from the application or effect of its provisions based upon approval or disapproval of the city or county measure, or based upon the casting of a specified percentage of votes in favor of the measure",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Include or exclude any part of the city, charter city, county, or charter county from the application or effect of its provisions based upon approval or disapproval of the city or county measure, or based upon the casting of a specified percentage of votes in favor of the measure, by the electors of the city, charter city, county, charter county, or any part thereof"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "limit",
+     "what": "A city or county measure proposed by the legislative body and submitted to the voters for approval may not contain alternative or cumulative provisions wherein one or more of those provisions would become law depending upon the casting of a specified percentage of votes for or against the measure",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Contain alternative or cumulative provisions wherein one or more of those provisions would become law depending upon the casting of a specified percentage of votes for or against the measure"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Defines \"city or county measure\" as used in this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"City or county measure\": an advisory question, proposed charter or charter amendment, ordinance, proposition for the issuance of bonds, or other question or proposition submitted to the voters of a city, or to the voters of a county at an election held throughout an entire single county"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s8": {
+  "review": {
+   "title": "Counties performing city functions",
+   "plain": "The Legislature may provide that counties perform municipal functions at the request of cities within them. If their charters provide, a county may agree with a city within it to assume and discharge specified municipal functions.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may provide that counties perform municipal functions",
+    "may agree with a city within it to assume and discharge specified municipal functions"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may provide that counties perform municipal functions at the request of cities within them",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "at the request of cities within them"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "A county may agree with a city within it to assume and discharge specified municipal functions",
+     "holder": "A county",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If provided by their respective charters"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s9": {
+  "review": {
+   "title": "Municipal public utilities",
+   "plain": "A municipal corporation may establish, purchase and operate public works furnishing light, water, power, heat, transportation or communication, and may serve outside its boundaries except within another municipal corporation that furnishes the same service and does not consent. Persons or corporations may operate such works under city regulations.",
+   "category": "Housing & Public Utilities",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may establish, purchase, and operate public works",
+    "may furnish those services outside its boundaries",
+    "may establish and operate works for supplying those services"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "A municipal corporation may establish, purchase, and operate public works to furnish its inhabitants with light, water, power, heat, transportation, or means of communication",
+     "holder": "A municipal corporation",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "It may furnish those services outside its boundaries",
+     "holder": "A municipal corporation",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except within another municipal corporation which furnishes the same service and does not consent"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Persons or corporations may establish and operate works for supplying those services upon conditions and under regulations that the city may prescribe under its organic law",
+     "holder": "Persons or corporations",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon conditions and under regulations that the city may prescribe under its organic law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s10": {
+  "review": {
+   "title": "Extra pay and residency limits for local employees",
+   "plain": "A local government body may not grant extra compensation or allowance after service is rendered or a contract performed, or pay a claim under an agreement made without authority of law. Cities, counties and public districts may not require employees to be residents, but may require them to live within a reasonable and specific distance.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not grant extra compensation or extra allowance",
+    "pay a claim under an agreement made without authority of law",
+    "may not require that its employees be residents of such city, county, or district"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "A local government body may not grant extra compensation or extra allowance to a public officer, public employee, or contractor after service has been rendered or a contract has been entered into and performed in whole or in part, or pay a claim under an agreement made without authority of law",
+     "holder": null,
+     "binds": "A local government body",
+     "requires": [],
+     "forbids": [
+      "grant extra compensation or extra allowance to a public officer, public employee, or contractor after service has been rendered or a contract has been entered into and performed in whole or in part",
+      "pay a claim under an agreement made without authority of law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A city or county, including any chartered city or chartered county, or public district, may not require that its employees be residents of such city, county, or district",
+     "holder": null,
+     "binds": "A city or county, including any chartered city or chartered county, or public district",
+     "requires": [],
+     "forbids": [
+      "require that its employees be residents of such city, county, or district"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "such employees may be required to reside within a reasonable and specific distance of their place of employment or other designated location"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

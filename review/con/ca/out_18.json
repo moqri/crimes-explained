@@ -1,0 +1,1790 @@
+{
+ "a19b-s2": {
+  "review": {
+   "title": "Motor vehicle fuel sales tax revenues for transportation",
+   "plain": "Sales and use tax revenues on motor vehicle fuel must be deposited into the Transportation Investment Fund, a trust fund, and used only for public transit, transportation capital projects, and city and county street and highway work, in set shares. The Legislature may not divert or borrow them.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may provide by statute for the issuance of bonds"
+   ],
+   "limits": [
+    "The Legislature may not change the status of the Transportation Investment Fund as a trust fund",
+    "The Legislature may not enact a statute that modifies the percentage shares set forth in subdivision (c)",
+    "The Legislature may not enact a statute or take any other action"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "For the 2003–04 fiscal year and each fiscal year thereafter, all revenues that are collected during the fiscal year from taxes under the Sales and Use Tax Law, or any successor to that law, upon the sale, storage, use, or other consumption in this State of motor vehicle fuel shall be deposited into the Transportation Investment Fund or its successor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The Transportation Investment Fund is hereby created in the State Treasury and is hereby declared to be a trust fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The Legislature may not change the status of the Transportation Investment Fund as a trust fund",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Changing the status of the Transportation Investment Fund as a trust fund"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "duty",
+     "what": "For the 2003–04 to 2007–08 fiscal years, inclusive, moneys in the Transportation Investment Fund shall be allocated, upon appropriation by the Legislature, in accordance with Section 7104 of the Revenue and Taxation Code as that section read on March 6, 2002",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "limit",
+     "what": "For the 2008–09 fiscal year and each fiscal year thereafter, moneys in the Transportation Investment Fund shall be allocated solely for: public transit and mass transportation; transportation capital improvement projects; and street and highway maintenance, rehabilitation, reconstruction, or storm damage repair conducted by cities and by counties, including a city and county",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Transportation capital improvement projects subject to the laws governing the State Transportation Improvement Program, or any successor to that program"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)(A)",
+     "kind": "duty",
+     "what": "Moneys appropriated for public transit and mass transportation shall be allocated: twenty-five percent pursuant to subdivision (b) of Section 99312 of the Public Utilities Code; twenty-five percent pursuant to subdivision (c) of Section 99312; and fifty percent for the purposes of subdivisions (a) and (b) of Section 99315 of the Public Utilities Code, as those sections read on July 30, 2009",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "For the 2008–09 fiscal year and each fiscal year thereafter, moneys in the Transportation Investment Fund are hereby continuously appropriated to the Controller without regard to fiscal years, and shall be allocated twenty percent for public transit and mass transportation, forty percent for transportation capital improvement projects, twenty percent for city street and highway work, and twenty percent for county street and highway work",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "The Legislature may not enact a statute that modifies the percentage shares set forth in subdivision (c) until all of the following have occurred",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "The California Transportation Commission has held no less than four public hearings in different parts of the State to receive public input",
+      "The California Transportation Commission has published a report describing the input received at the public hearings and how the modification to the statutory allocation is consistent with the orderly achievement of local, regional and statewide goals",
+      "Ninety days have passed since the publication of the report by the California Transportation Commission",
+      "The statute must be by a bill passed in each house of the Legislature by rollcall vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "forbids": [
+      "Enacting a statute that modifies the percentage shares set forth in subdivision (c) before the listed steps have occurred"
+     ],
+     "conditions": [
+      "provided that the bill does not contain any other unrelated provision and that the revenues described in subdivision (a) are expended solely for the purposes set forth in paragraph (2) of subdivision (b)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(1)",
+     "kind": "duty",
+     "what": "An amount equivalent to the total amount of revenues that were not transferred from the General Fund to the Transportation Investment Fund, as of July 1, 2007, because of a suspension of transfer of revenues, shall be transferred from the General Fund to the Transportation Investment Fund no later than June 30, 2016",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Until this total amount has been transferred, the amount of transfer payments to be made in each fiscal year shall not be less than one-tenth of the total amount required to be transferred by June 30, 2016",
+      "The transferred revenues shall be allocated solely for the purposes set forth in this section as if they had been received in the absence of a suspension of transfer of revenues"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "excluding the amount to be paid to the Transportation Deferred Investment Fund pursuant to Section 63048.65 of the Government Code"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)",
+     "kind": "power",
+     "what": "The Legislature may provide by statute for the issuance of bonds by the state or local agencies, as applicable, that are secured by the minimum transfer payments required by paragraph (1)",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "Proceeds from the sale of those bonds shall be allocated solely for the purposes set forth in this section as if they were revenues subject to allocation pursuant to paragraph (2) of subdivision (b)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "This section constitutes the sole method of allocating, distributing, and using the revenues described in subdivision (a); the purposes described in paragraph (2) of subdivision (b) are the sole purposes for which those revenues may be used. The Legislature may not enact a statute or take any other action which, permanently or temporarily, does any of the following",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Transfers, diverts, or appropriates the revenues described in subdivision (a) for any other purposes than those described in paragraph (2) of subdivision (b)",
+      "Authorizes the expenditures of the revenues described in subdivision (a) for any other purposes than those described in paragraph (2) of subdivision (b)",
+      "Borrows or loans the revenues described in subdivision (a), regardless of whether these revenues remain in the Transportation Investment Fund or are transferred to another fund or account"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "For purposes of this article, “mass transportation,” “public transit” and “mass transit” have the same meanings as “public transportation”",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"mass transportation,\" \"public transit\" and \"mass transit\": have the same meanings as \"public transportation\"",
+      "\"Public transportation\": (1) surface transportation service provided to the general public, complementary paratransit service provided to persons with disabilities as required by 42 U.S.C. 12143, or similar transportation provided to people with disabilities or the elderly, operated by bus, rail, ferry, or other conveyance on a fixed route, demand response, or otherwise regularly available basis, generally for which a fare is charged, and provided by any of the listed transit providers; (2) surface transportation service provided by the Department of Transportation pursuant to subdivision (a) of Section 99315 of the Public Utilities Code; (3) public transit capital improvement projects"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "duty",
+     "what": "If the Legislature reduces or repeals the taxes described in subdivision (a) and adopts an alternative source of revenue to replace the moneys derived from those taxes, the replacement revenue shall be deposited into the Transportation Investment Fund, dedicated to the purposes listed in paragraph (2) of subdivision (b), and allocated pursuant to subdivision (c)",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "All other provisions of this article shall apply to any revenues adopted by the Legislature to replace the moneys derived from the taxes described in subdivision (a)"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If the Legislature reduces or repeals the taxes described in subdivision (a) and adopts an alternative source of revenue to replace the moneys derived from those taxes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19c-s1": {
+  "review": {
+   "title": "Restoring unlawfully diverted transportation funds",
+   "plain": "If a challenge to an action that violates Article XIX, XIX A, or XIX B succeeds, enough General Fund revenue is continuously appropriated to the Controller to restore the fund or account from which revenues were unlawfully taken or diverted.",
+   "category": "Transportation",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There is hereby continuously appropriated from the General Fund to the Controller, without regard to fiscal years, that amount of revenue necessary to restore the fund or account from which the revenues were unlawfully taken or diverted to its financial status had the unlawful action not been taken",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any challenge to invalidate an action that violates Article XIX, XIX A, or XIX B is successful either by way of a final judgment, settlement, or resolution by administrative or legislative action"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19c-s2": {
+  "review": {
+   "title": "Restoring unlawfully diverted local revenues",
+   "plain": "If a challenge to an action that violates Section 24 or Section 25.5 of Article XIII succeeds, an amount equal to the revenue unlawfully taken or diverted is continuously appropriated from the General Fund to the local government.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There is hereby continuously appropriated from the General Fund to the local government an amount of revenue equal to the amount of revenue unlawfully taken or diverted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any challenge to invalidate an action that violates Section 24 or Section 25.5 of Article XIII is successful either by way of a final judgment, settlement, or resolution by administrative or legislative action"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19c-s3": {
+  "review": {
+   "title": "Interest and timing of restored funds",
+   "plain": "Interest at the Pooled Money Investment Fund rate accrues on amounts to be restored. Within 30 days after a challenge succeeds, the Controller must make the transfer and notify the parties it is complete.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Interest calculated at the Pooled Money Investment Fund rate from the date or dates the revenues were unlawfully taken or diverted shall accrue to the amounts required to be restored pursuant to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Within 30 days from the date a challenge is successful, the Controller shall make the transfer required by the continuous appropriation and issue a notice to the parties that the transfer has been completed",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19c-s4": {
+  "review": {
+   "title": "No bond required for injunctions in challenges",
+   "plain": "In a challenge brought under this section, if a restraining order or preliminary injunction is issued, the plaintiffs or petitioners do not have to post a bond to indemnify the government defendants or the State for any damage it may cause.",
+   "category": "Transportation",
+   "kind": "Right",
+   "rights": [
+    "the plaintiffs or petitioners shall not be required to post a bond"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "If in any challenge brought pursuant to this section a restraining order or preliminary injunction is issued, the plaintiffs or petitioners shall not be required to post a bond obligating the plaintiffs or petitioners to indemnify the government defendants or the State of California for any damage the restraining order or preliminary injunction may cause",
+     "holder": "The plaintiffs or petitioners",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring the plaintiffs or petitioners to post a bond obligating them to indemnify the government defendants or the State of California"
+     ],
+     "conditions": [
+      "If in any challenge brought pursuant to this section a restraining order or preliminary injunction is issued"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19d-s1": {
+  "review": {
+   "title": "Vehicle license fee revenues for transportation",
+   "plain": "Vehicle license fee revenues, beyond collection costs and refunds, must be used only for transportation purposes, not to pay certain state transportation bonds. Except as allowed by two Government Code sections, the Legislature may not borrow these revenues or use them otherwise.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be used for the payment of principal and interest on state transportation general obligation bonds",
+    "the Legislature shall not borrow the revenues described in subdivision (a)",
+    "shall not use these revenues for purposes, or in ways, other than as authorized in subdivisions (a) or (b)"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Notwithstanding Section 8 of Article XIX, revenues derived from vehicle fees imposed under the Vehicle License Fee Law, or its successor, over and above the costs of collection and any refunds authorized by law, shall be used solely for transportation purposes, as defined by Section 11050 of the Revenue and Taxation Code, as that section read upon enactment of the Road Repair and Accountability Act of 2017",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The revenues described in subdivision (a) shall not be used for the payment of principal and interest on state transportation general obligation bonds that were authorized by the voters on or before November 8, 2016, nor for payment of principal and interest on state transportation general obligation bond acts approved by the voters after that date",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Using the revenues for payment of principal and interest on state transportation general obligation bonds authorized by the voters on or before November 8, 2016",
+      "Using the revenues for payment of principal and interest on state transportation general obligation bond acts approved by the voters after that date"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless the bond act expressly authorizes that use"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The Legislature shall not borrow the revenues described in subdivision (a), and shall not use these revenues for purposes, or in ways, other than as authorized in subdivisions (a) or (b)",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Borrowing the revenues described in subdivision (a)",
+      "Using these revenues for purposes, or in ways, other than as authorized in subdivisions (a) or (b)"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in Sections 16310 and 16381 of the Government Code, as those sections read on January 1, 2018"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s1": {
+  "review": {
+   "title": "Consolidation of Sacramento city and county",
+   "plain": "The County of Sacramento and any of its cities may be consolidated by statute as a charter city and county, with approval of a majority of the county's voters on the question. The resulting City and County is both a charter city and a charter county.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be consolidated as a charter city and county as provided by statute"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Notwithstanding the provisions of Section 6 of Article XI, the County of Sacramento and all or any of the cities within the County of Sacramento may be consolidated as a charter city and county as provided by statute",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "with the approval of a majority of the electors of the county voting on the question of such consolidation",
+      "upon such other vote as the Legislature may prescribe in such statute"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The charter City and County of Sacramento shall be a charter city and a charter county. Its charter city powers supersede conflicting charter county powers",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s1.5": {
+  "review": {
+   "title": "Homestead protection from forced sale",
+   "plain": "The Legislature must protect by law a certain portion of the homestead and other property of all heads of families from forced sale.",
+   "category": "Housing & Public Utilities",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall protect, by law, from forced sale a certain portion of the homestead and other property of all heads of families",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s2": {
+  "review": {
+   "title": "Stanford University and Huntington Library",
+   "plain": "Except for tax exemptions provided in Article XIII, the rights, powers, privileges, and confirmations given by Sections 10 and 15 of Article IX, as in effect on January 1, 1973, relating to Stanford University and the Huntington Library and Art Gallery, continue in effect.",
+   "category": "Education",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The rights, powers, privileges, and confirmations conferred by Sections 10 and 15 of Article IX in effect on January 1, 1973, relating to Stanford University and the Huntington Library and Art Gallery, are continued in effect",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except for tax exemptions provided in Article XIII"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s3": {
+  "review": {
+   "title": "Oath of office for public officers",
+   "plain": "Members of the Legislature and all public officers and employees, except inferior ones exempted by law, must take the stated oath or affirmation before entering office. No other oath, declaration, or test may be required as a qualification for public office or employment.",
+   "category": "Public Officers & Employees",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no other oath, declaration, or test, shall be required as a qualification for any public office or employment"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Members of the Legislature, and all public officers and employees, executive, legislative, and judicial, shall, before they enter upon the duties of their respective offices, take and subscribe the following oath or affirmation",
+     "holder": null,
+     "binds": "Members of the Legislature, and all public officers and employees",
+     "requires": [
+      "support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic",
+      "bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California",
+      "take this obligation freely, without any mental reservation or purpose of evasion",
+      "well and faithfully discharge the duties upon which I am about to enter",
+      "swear (or affirm) that I do not advocate, nor am I a member of any party or organization, political or otherwise, that now advocates the overthrow of the Government of the United States or of the State of California by force or violence or other unlawful means",
+      "swear (or affirm) that within the five years immediately preceding the taking of this oath I have not been a member of any such party or organization, except as listed",
+      "swear (or affirm) that during such time as I hold the office I will not advocate nor become a member of any such party or organization"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except such inferior officers and employees as may be by law exempted"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No other oath, declaration, or test, shall be required as a qualification for any public office or employment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring any other oath, declaration, or test as a qualification for any public office or employment"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Defines “public officer and employee”",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Public officer and employee\": includes every officer and employee of the State, including the University of California, every county, city, city and county, district, and authority, including any department, division, bureau, board, commission, agency, or instrumentality of any of the foregoing"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s4": {
+  "review": {
+   "title": "Franchise leasing cannot avoid liabilities",
+   "plain": "The Legislature may not pass laws permitting the leasing or alienation of a franchise so as to relieve the franchise or property held under it from liabilities incurred in operating, using, or enjoying the franchise or its privileges.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "The Legislature shall not pass any laws permitting the leasing or alienation of any franchise"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature shall not pass any laws permitting the leasing or alienation of any franchise, so as to relieve the franchise or property held thereunder from the liabilities of the lessor or grantor, lessee, or grantee, contracted or incurred in the operation, use, or enjoyment of such franchise, or any of its privileges",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Passing laws permitting the leasing or alienation of any franchise so as to relieve the franchise or property held thereunder from the liabilities of the lessor or grantor, lessee, or grantee"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s5": {
+  "review": {
+   "title": "Corporation laws may be changed",
+   "plain": "All laws in force concerning corporations, and all laws later passed under this section, may be altered from time to time or repealed.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be altered from time to time or repealed"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All laws now in force in this State concerning corporations and all laws that may be hereafter passed pursuant to this section may be altered from time to time or repealed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s6": {
+  "review": {
+   "title": "Benefits for legislators with shortened terms",
+   "plain": "A legislator whose term was reduced by the 1972 amendment to subdivision (a) of Section 2 of Article IV is entitled to retirement benefits and compensation as if the term had not been reduced.",
+   "category": "The Legislature",
+   "kind": "Right",
+   "rights": [
+    "be entitled to retirement benefits and compensation as if the term of office had not been so reduced"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Any legislator whose term of office is reduced by operation of the amendment to subdivision (a) of Section 2 of Article IV adopted by the people in 1972 shall, notwithstanding any other provision of this Constitution, be entitled to retirement benefits and compensation as if the term of office had not been so reduced",
+     "holder": "Any legislator whose term of office is reduced by operation of the amendment to subdivision (a) of Section 2 of Article IV adopted by the people in 1972",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s7": {
+  "review": {
+   "title": "When term limits apply",
+   "plain": "The term limits in Articles IV, V, IX, and XIII apply only to terms beginning by election or appointment on or after November 6, 1990, with an extra term for certain incumbent Senators. They do not apply to an unexpired term of less than half a full term.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Those limitations shall not apply to any unexpired term"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The limitations on the number of terms prescribed by Section 2 of Article IV, Sections 2 and 11 of Article V, Section 2 of Article IX, and Section 17 of Article XIII apply only to terms to which persons are elected or appointed on or after November 6, 1990",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except that an incumbent Senator whose office is not on the ballot for the general election on that date may serve only one additional term"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Those limitations shall not apply to any unexpired term to which a person is elected or appointed if the remainder of the term is less than half of the full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the remainder of the term is less than half of the full term"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s22": {
+  "review": {
+   "title": "Alcoholic beverage control",
+   "plain": "The State has the exclusive right and power to license and regulate alcoholic beverages. The section sets up licensing, bars sales to and purchases by persons under 21, creates the Director and Department of Alcoholic Beverage Control and an Appeals Board, and sets their powers.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall have the exclusive right and power to license and regulate the manufacture, sale, purchase, possession and transportation of alcoholic beverages",
+    "shall have the exclusive right and power to regulate the importation into and exportation from the State, of alcoholic beverages",
+    "the Legislature may provide for the issuance of, among other licenses, licenses for the following types of premises",
+    "shall be appointed by the Governor",
+    "The director may be removed from office by the Governor",
+    "the Legislature shall have the power, by a majority vote of all members elected to each house, to remove the director from office",
+    "The director may appoint three persons who shall be exempt from civil service",
+    "shall have the exclusive power, except as herein provided and in accordance with laws enacted by the Legislature, to license the manufacture, importation and sale of alcoholic beverages in this State",
+    "shall have the power, in its discretion, to deny, suspend or revoke any specific alcoholic beverages license",
+    "The members of the board may be removed from office by the Governor",
+    "the Legislature shall have the power, by a majority vote of all members elected to each house, to remove any member from office",
+    "it may enter an order remanding the matter to the department for reconsideration",
+    "the board may direct the reconsideration of the matter in the light of its order",
+    "The Legislature may authorize, subject to reasonable restrictions, the sale in retail stores of alcoholic beverages contained in the original packages",
+    "may provide for the issuance of all types of licenses necessary to carry on the activities referred to in the first paragraph of this section"
+   ],
+   "limits": [
+    "the Legislature shall not constitute the State or any agency thereof a manufacturer or seller of alcoholic beverages",
+    "No person under the age of 21 years shall be permitted to enter and remain in any such premises without lawful business therein",
+    "no person shall sell, furnish, give, or cause to be sold, furnished, or given away any alcoholic beverage to any person under the age of 21 years",
+    "no person under the age of 21 years shall purchase any alcoholic beverage",
+    "the board shall not receive evidence in addition to that considered by the department",
+    "the order shall not limit or control in any way the discretion vested by law in the department",
+    "It shall be unlawful for any person other than a licensee of said department to manufacture, import or sell alcoholic beverages in this State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The State of California shall have the exclusive right and power to license and regulate the manufacture, sale, purchase, possession and transportation of alcoholic beverages within the State, and shall have the exclusive right and power to regulate the importation into and exportation from the State, of alcoholic beverages",
+     "holder": "The State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to the internal revenue laws of the United States",
+      "subject to the laws of the United States regulating commerce between foreign nations and among the states"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "In the exercise of these rights and powers, the Legislature shall not constitute the State or any agency thereof a manufacturer or seller of alcoholic beverages",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Constituting the State or any agency thereof a manufacturer or seller of alcoholic beverages"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All alcoholic beverages may be bought, sold, served, consumed and otherwise disposed of in premises which shall be licensed as provided by the Legislature. The Legislature may provide for the issuance of, among other licenses, licenses for premises where the alcoholic beverages specified in the licenses may be sold and served for consumption upon the premises",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Licenses for bona fide public eating places, as defined by the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Licenses for public premises in which food shall not be sold or served as in a bona fide public eating place, but upon which the Legislature may permit the sale or service of food products incidental to the sale and service of alcoholic beverages",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No person under the age of 21 years shall be permitted to enter and remain in any such premises without lawful business therein",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Permitting a person under the age of 21 years to enter and remain in such premises without lawful business therein"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Licenses for public premises for the sale and service of beers alone",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Licenses, under such conditions as the Legislature may impose, for railroad dining or club cars, passenger ships, common carriers by air, and bona fide clubs after such clubs have been lawfully operated for not less than one year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The sale, furnishing, giving, or causing to be sold, furnished, or giving away of any alcoholic beverage to any person under the age of 21 years is hereby prohibited, and no person under the age of 21 years shall purchase any alcoholic beverage",
+     "holder": null,
+     "binds": "No person",
+     "requires": [],
+     "forbids": [
+      "Selling, furnishing, giving, or causing to be sold, furnished, or given away any alcoholic beverage to any person under the age of 21 years",
+      "Purchase of any alcoholic beverage by any person under the age of 21 years"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Director of Alcoholic Beverage Control shall be the head of the Department of Alcoholic Beverage Control and shall serve at the pleasure of the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Director shall be appointed by the Governor subject to confirmation by a majority vote of all of the members elected to the Senate, and may be removed from office by the Governor",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [
+      "confirmation by a majority vote of all of the members elected to the Senate"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature shall have the power, by a majority vote of all members elected to each house, to remove the director from office for dereliction of duty or corruption or incompetency",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "a majority vote of all members elected to each house"
+     ],
+     "forbids": [],
+     "conditions": [
+      "for dereliction of duty or corruption or incompetency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The director may appoint three persons who shall be exempt from civil service, in addition to the person he is authorized to appoint by Section 4 of Article XXIV",
+     "holder": "The director",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Department of Alcoholic Beverage Control shall have the exclusive power, except as herein provided and in accordance with laws enacted by the Legislature, to license the manufacture, importation and sale of alcoholic beverages in this State, and to collect license fees or occupation taxes on account thereof",
+     "holder": "The Department of Alcoholic Beverage Control",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The department shall have the power, in its discretion, to deny, suspend or revoke any specific alcoholic beverages license",
+     "holder": "The Department of Alcoholic Beverage Control",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if it shall determine for good cause that the granting or continuance of such license would be contrary to public welfare or morals, or that a person seeking or holding a license has violated any law prohibiting conduct involving moral turpitude"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "It shall be unlawful for any person other than a licensee of said department to manufacture, import or sell alcoholic beverages in this State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Manufacturing, importing or selling alcoholic beverages in this State by any person other than a licensee of the department"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Alcoholic Beverage Control Appeals Board shall consist of three members appointed by the Governor, subject to confirmation by a majority vote of all of the members elected to the Senate",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Each member, at the time of his initial appointment, shall be a resident of a different county from the one in which either of the other members resides"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The members of the board may be removed from office by the Governor",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature shall have the power, by a majority vote of all members elected to each house, to remove any member of the board from office for dereliction of duty or corruption or incompetency",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "a majority vote of all members elected to each house"
+     ],
+     "forbids": [],
+     "conditions": [
+      "for dereliction of duty or corruption or incompetency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "When any person aggrieved thereby appeals from a decision of the department ordering any penalty assessment, issuing, denying, transferring, suspending or revoking any license, the board shall review the decision subject to such limitations as may be imposed by the Legislature",
+     "holder": null,
+     "binds": "The board",
+     "requires": [
+      "Review shall be limited to the questions whether the department has proceeded without or in excess of its jurisdiction, whether the department has proceeded in the manner required by law, whether the decision is supported by the findings, and whether the findings are supported by substantial evidence in the light of the whole record",
+      "In all other appeals the board shall enter an order either affirming or reversing the decision of the department"
+     ],
+     "forbids": [
+      "Receiving evidence in addition to that considered by the department"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In appeals where the board finds that there is relevant evidence which, in the exercise of reasonable diligence, could not have been produced or which was improperly excluded at the hearing before the department it may enter an order remanding the matter to the department for reconsideration in the light of such evidence",
+     "holder": "The board",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "When the order reverses the decision of the department, the board may direct the reconsideration of the matter in the light of its order and may direct the department to take such further action as is specially enjoined upon it by law",
+     "holder": "The board",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "the order shall not limit or control in any way the discretion vested by law in the department"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Orders of the board shall be subject to judicial review upon petition of the director or any party aggrieved by such order",
+     "holder": "The director or any party aggrieved by such order",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A concurrent resolution for the removal of either the director or any member of the board may be introduced in the Legislature only if five Members of the Senate, or 10 Members of the Assembly, join as authors",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "only if five Members of the Senate, or 10 Members of the Assembly, join as authors"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Until the Legislature shall otherwise provide, the privilege of keeping, buying, selling, serving, and otherwise disposing of alcoholic beverages in bona fide hotels, restaurants, cafes, cafeterias, railroad dining or club cars, passenger ships, and other public eating places, and in bona fide clubs, and of beers on any premises open to the general public, shall be licensed and regulated under the applicable provisions of the Alcoholic Beverage Control Act, insofar as the same are not inconsistent with the provisions hereof",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the license fee to be charged those places for the privilege of keeping, buying, selling, or otherwise disposing of alcoholic beverages shall be the amounts prescribed as of the operative date hereof, subject to the power of the Legislature to change such fees"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The State Board of Equalization shall assess and collect such excise taxes as are or may be imposed by the Legislature on account of the manufacture, importation and sale of alcoholic beverages in this State",
+     "holder": null,
+     "binds": "The State Board of Equalization",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may authorize, subject to reasonable restrictions, the sale in retail stores of alcoholic beverages contained in the original packages, where such alcoholic beverages are not to be consumed on the premises where sold; and may provide for the issuance of all types of licenses necessary to carry on the activities referred to in the first paragraph of this section",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to reasonable restrictions",
+      "where such alcoholic beverages are not to be consumed on the premises where sold"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide for apportioning the amounts collected for license fees or occupation taxes under the provisions hereof between the State and the cities, counties and cities and counties of the State, in such manner as the Legislature may deem proper",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All constitutional provisions and laws inconsistent with the provisions hereof are hereby repealed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this section shall be self-executing, but nothing herein shall prohibit the Legislature from enacting laws implementing and not inconsistent with such provisions",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This amendment shall become operative on January 1, 1957",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s23": {
+  "review": {
+   "title": "Speaker on the State College governing agency",
+   "plain": "Notwithstanding any other provision of this Constitution, the Speaker of the Assembly is an ex officio member, with equal rights and duties, of any state agency created by the Legislature to manage and control the State College System of California.",
+   "category": "Education",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Notwithstanding any other provision of this Constitution, the Speaker of the Assembly shall be an ex officio member, having equal rights and duties with the nonlegislative members, of any state agency created by the Legislature in the field of public higher education which is charged with the management, administration, and control of the State College System of California",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a21-s1": {
+  "review": {
+   "title": "Redistricting after each census",
+   "plain": "In the year after each national census, the Citizens Redistricting Commission must adjust the boundary lines of congressional, State Senate, Assembly, and Board of Equalization districts, following the standards and process in Section 2.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In the year following the year in which the national census is taken under the direction of Congress at the beginning of each decade, the Citizens Redistricting Commission described in Section 2 shall adjust the boundary lines of the congressional, State Senatorial, Assembly, and Board of Equalization districts (also known as “redistricting”) in conformance with the standards and process set forth in Section 2",
+     "holder": null,
+     "binds": "The Citizens Redistricting Commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"redistricting\": adjusting the boundary lines of the congressional, State Senatorial, Assembly, and Board of Equalization districts"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a21-s2": {
+  "review": {
+   "title": "Citizens Redistricting Commission and district criteria",
+   "plain": "Sets up the 14-member Citizens Redistricting Commission, its membership, voting and ethics rules, and the ranked criteria for drawing districts. The commission approves and certifies four final maps, subject to referendum; if a map fails, the Supreme Court has special masters draw it.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "The place of residence of any incumbent or political candidate shall not be considered in the creation of a map",
+    "Districts shall not be drawn for the purpose of favoring or discriminating against an incumbent, political candidate, or political party",
+    "Communities of interest shall not include relationships with political parties, incumbents, or political candidates"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Citizens Redistricting Commission shall be created no later than December 31 in 2010, and in each year ending in the number zero thereafter",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The commission shall: (1) conduct an open and transparent process enabling full public consideration of and comment on the drawing of district lines; (2) draw district lines according to the redistricting criteria specified in this article; and (3) conduct themselves with integrity and fairness",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "structure",
+     "what": "The selection process is designed to produce a commission that is independent from legislative influence and reasonably representative of this State’s diversity",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "structure",
+     "what": "The commission shall consist of 14 members: five who are registered with the largest political party in California, five who are registered with the second largest political party, and four who are not registered with either of the two largest political parties, based on registration",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "structure",
+     "what": "Each commission member shall be a voter who has been continuously registered in California with the same political party or unaffiliated with a political party and who has not changed political party affiliation for five or more years immediately preceding the date of his or her appointment",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Each commission member shall have voted in two of the last three statewide general elections immediately preceding his or her application"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "structure",
+     "what": "The term of office of each member of the commission expires upon the appointment of the first member of the succeeding commission",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)",
+     "kind": "structure",
+     "what": "Nine members of the commission shall constitute a quorum. Nine or more affirmative votes shall be required for any official action",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The four final redistricting maps must be approved by at least nine affirmative votes which must include at least three votes of members registered from each of the two largest political parties in California based on registration and three votes from members who are not registered with either of these two political parties"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "duty",
+     "what": "Each commission member shall apply this article in a manner that is impartial and that reinforces public confidence in the integrity of the redistricting process",
+     "holder": null,
+     "binds": "Each commission member",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "limit",
+     "what": "A commission member shall be ineligible for a period of 10 years beginning from the date of appointment to hold elective public office at the federal, state, county, or city level in this State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Holding elective public office at the federal, state, county, or city level in this State within 10 years from the date of appointment"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "limit",
+     "what": "A member of the commission shall be ineligible for a period of five years beginning from the date of appointment to hold appointive federal, state, or local public office, to serve as paid staff for, or as a paid consultant to, the Board of Equalization, the Congress, the Legislature, or any individual legislator, or to register as a federal, state or local lobbyist in this State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Holding appointive federal, state, or local public office within five years from the date of appointment",
+      "Serving as paid staff for, or as a paid consultant to, the Board of Equalization, the Congress, the Legislature, or any individual legislator within five years",
+      "Registering as a federal, state or local lobbyist in this State within five years"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The commission shall establish single-member districts for the Senate, Assembly, Congress, and State Board of Equalization pursuant to a mapping process using the following criteria as set forth in the following order of priority",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [
+      "Districts shall comply with the United States Constitution. Congressional districts shall achieve population equality as nearly as is practicable, and Senatorial, Assembly, and State Board of Equalization districts shall have reasonably equal population with other districts for the same office",
+      "Districts shall comply with the federal Voting Rights Act (42 U.S.C. Sec. 1971 and following)",
+      "Districts shall be geographically contiguous",
+      "The geographic integrity of any city, county, city and county, local neighborhood, or local community of interest shall be respected in a manner that minimizes their division to the extent possible without violating the requirements of any of the preceding subdivisions",
+      "To the extent practicable, and where this does not conflict with the criteria above, districts shall be drawn to encourage geographical compactness such that nearby areas of population are not bypassed for more distant population",
+      "To the extent practicable, and where this does not conflict with the criteria above, each Senate district shall be comprised of two whole, complete, and adjacent Assembly districts, and each Board of Equalization district shall be comprised of 10 whole, complete, and adjacent Senate districts"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except where deviation is required to comply with the federal Voting Rights Act or allowable by law"
+     ],
+     "terms": [
+      "\"community of interest\": a contiguous population which shares common social and economic interests that should be included within a single district for purposes of its effective and fair representation; communities of interest shall not include relationships with political parties, incumbents, or political candidates"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "The place of residence of any incumbent or political candidate shall not be considered in the creation of a map. Districts shall not be drawn for the purpose of favoring or discriminating against an incumbent, political candidate, or political party",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Considering the place of residence of any incumbent or political candidate in the creation of a map",
+      "Drawing districts for the purpose of favoring or discriminating against an incumbent, political candidate, or political party"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "Districts for the Congress, Senate, Assembly, and State Board of Equalization shall be numbered consecutively commencing at the northern boundary of the State and ending at the southern boundary",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "By August 15 in 2011, and in each year ending in the number one thereafter, the commission shall approve four final maps that separately set forth the district boundary lines for the congressional, Senatorial, Assembly, and State Board of Equalization districts, and upon approval shall certify the four final maps to the Secretary of State",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "duty",
+     "what": "The commission shall issue, with each of the four final maps, a report that explains the basis on which the commission made its decisions in achieving compliance with the criteria listed in subdivision (d) and shall include definitions of the terms and standards used in drawing each final map",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "structure",
+     "what": "Each certified final map shall be subject to referendum in the same manner that a statute is subject to referendum pursuant to Section 9 of Article II. The date of certification of a final map to the Secretary of State shall be deemed the enactment date for purposes of Section 9 of Article II",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "duty",
+     "what": "The Secretary of State shall immediately petition the California Supreme Court for an order directing the appointment of special masters to adjust the boundary lines of that map in accordance with the redistricting criteria and requirements set forth in subdivisions (d), (e), and (f)",
+     "holder": null,
+     "binds": "The Secretary of State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the commission does not approve a final map by at least the requisite votes or if voters disapprove a certified final map in a referendum"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "duty",
+     "what": "Upon its approval of the masters’ map, the court shall certify the resulting map to the Secretary of State, which map shall constitute the certified final map for the subject type of district",
+     "holder": null,
+     "binds": "The court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a21-s3": {
+  "review": {
+   "title": "Defending and challenging redistricting maps",
+   "plain": "The commission alone may defend a certified final map, and the Legislature must fund that defense. The California Supreme Court has original and exclusive jurisdiction over challenges, and any registered voter may petition for a writ within 45 days of certification.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [
+    "Any registered voter in this state may file a petition for a writ of mandate or writ of prohibition",
+    "Any registered voter in this state may also file a petition for a writ of mandate or writ of prohibition to seek relief"
+   ],
+   "powers": [
+    "The commission has the sole legal standing to defend any action regarding a certified final map",
+    "The commission has sole authority to determine whether the Attorney General or other legal counsel retained by the commission shall assist",
+    "The California Supreme Court has original and exclusive jurisdiction"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The commission has the sole legal standing to defend any action regarding a certified final map",
+     "holder": "The commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The commission shall inform the Legislature if it determines that funds or other resources provided for the operation of the commission are not adequate",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if it determines that funds or other resources provided for the operation of the commission are not adequate"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall provide adequate funding to defend any action regarding a certified map",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The commission has sole authority to determine whether the Attorney General or other legal counsel retained by the commission shall assist in the defense of a certified final map",
+     "holder": "The commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "power",
+     "what": "The California Supreme Court has original and exclusive jurisdiction in all proceedings in which a certified final map is challenged or is claimed not to have taken timely effect",
+     "holder": "The California Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "right",
+     "what": "Any registered voter in this state may file a petition for a writ of mandate or writ of prohibition, within 45 days after the commission has certified a final map to the Secretary of State, to bar the Secretary of State from implementing the plan on the grounds that the filed plan violates this Constitution, the United States Constitution, or any federal or state statute",
+     "holder": "Any registered voter in this state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "within 45 days after the commission has certified a final map to the Secretary of State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "right",
+     "what": "Any registered voter in this state may also file a petition for a writ of mandate or writ of prohibition to seek relief where a certified final map is subject to a referendum measure that is likely to qualify and stay the timely implementation of the map",
+     "holder": "Any registered voter in this state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "where a certified final map is subject to a referendum measure that is likely to qualify and stay the timely implementation of the map"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "duty",
+     "what": "The California Supreme Court shall give priority to ruling on a petition for a writ of mandate or a writ of prohibition filed pursuant to paragraph (2)",
+     "holder": null,
+     "binds": "The California Supreme Court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "duty",
+     "what": "If the court determines that a final certified map violates this Constitution, the United States Constitution, or any federal or state statute, the court shall fashion the relief that it deems appropriate, including, but not limited to, the relief set forth in subdivision (j) of Section 2",
+     "holder": null,
+     "binds": "The court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the court determines that a final certified map violates this Constitution, the United States Constitution, or any federal or state statute"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a21-s4": {
+  "review": {
+   "title": "Temporary 2025 congressional districts",
+   "plain": "States California's policy supporting independent redistricting commissions nationwide. In response to Texas's 2025 redistricting, congressional districts in Assembly Bill 604 are used temporarily until the Citizens Redistricting Commission certifies new lines; the commission resumes in 2031.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The Attorney General has the sole legal standing to defend any action regarding a congressional district map",
+    "The California Supreme Court has original and exclusive jurisdiction"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "It is the policy of the State of California to support the use of fair, independent, and nonpartisan redistricting commissions nationwide. The people of the State of California call on the Congress of the United States to pass federal legislation and propose an amendment of the United States Constitution to require the use of fair, independent, and nonpartisan redistricting commissions nationwide",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Notwithstanding any other provision of this Constitution or existing law, the single-member districts for Congress reflected in Assembly Bill 604 of the 2025–26 Regular Session shall temporarily be used for every congressional election for a term of office commencing on or after the date this subdivision becomes operative and before the certification of new congressional boundary lines drawn by the Citizens Redistricting Commission pursuant to subdivision (d)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In response to the congressional redistricting in Texas in 2025"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "power",
+     "what": "The Attorney General has the sole legal standing to defend any action regarding a congressional district map adopted pursuant to subdivision (b)",
+     "holder": "The Attorney General",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "power",
+     "what": "The California Supreme Court has original and exclusive jurisdiction in all proceedings in which a congressional district map adopted pursuant to subdivision (b) is challenged",
+     "holder": "The California Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The Citizens Redistricting Commission established pursuant to Section 1 shall continue to adjust the boundary lines of the congressional, State Senatorial, Assembly, and Board of Equalization districts in conformance with the standards and process set forth in Section 2 in 2031, and every 10 years thereafter as provided in Section 1",
+     "holder": null,
+     "binds": "The Citizens Redistricting Commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

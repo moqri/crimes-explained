@@ -1,0 +1,1436 @@
+{
+ "a7-s10": {
+  "review": {
+   "title": "Office lost for libel or slander of an opponent",
+   "plain": "A person found civilly liable for libel or slander of an opposing candidate that was a major contributing cause of that candidate's defeat shall not retain the seat won. The trier of fact makes a separate written finding, and the office becomes vacant.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be disqualified from or shall forfeit that office",
+    "shall have no authority to exercise the powers or perform the duties of the office"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No person who is found liable in a civil action for making libelous or slanderous statements against an opposing candidate during the course of an election campaign for any federal, statewide, Board of Equalization, or legislative office or for any county, city and county, city, district, or any other local elective office shall retain the seat to which he or she is elected",
+     "holder": null,
+     "binds": "No person found liable for libelous or slanderous statements against an opposing candidate",
+     "requires": [],
+     "forbids": [
+      "retain the seat to which he or she is elected"
+     ],
+     "conditions": [
+      "where it is established that the libel or slander was a major contributing cause in the defeat of an opposing candidate"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A libelous or slanderous statement shall be deemed to have been made by a person if that person actually made the statement or if the person actually or constructively assented to, authorized, or ratified the statement",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"made by a person\": that person actually made the statement or actually or constructively assented to, authorized, or ratified the statement"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“Federal office” means the office of United States Senator and Member of the House of Representatives; it is intended that candidates seeking those offices comply with this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "to the extent that the provisions of this section do not conflict with any provision of federal law"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"Federal office\": the office of United States Senator and Member of the House of Representatives"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The trier of fact shall make a separate, distinct finding on whether libelous or slanderous statements were a major contributing cause in the defeat of an opposing candidate",
+     "holder": null,
+     "binds": "The trier of fact",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The person holding office shall be disqualified from or shall forfeit that office as provided in subdivision (d)",
+     "holder": null,
+     "binds": "The person holding office",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the trier of fact finds that libel or slander was a major contributing cause in the defeat of an opposing candidate and that the libelous or slanderous statement was made with knowledge that it was false or with reckless disregard of whether it was false or true"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The findings required by this section shall be in writing and shall be incorporated as part of the judgment",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "in writing",
+      "incorporated as part of the judgment"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Disqualification or forfeiture shall create a vacancy in office, which shall be filled in the manner provided by law for the filling of a vacancy in that particular office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "The person shall be disqualified from or shall forfeit the office involved in that election and shall have no authority to exercise the powers or perform the duties of the office",
+     "holder": null,
+     "binds": "The person",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Once the judgment of liability is entered by the trial court and the time for filing a notice of appeal has expired, or all possibility of direct attack in the courts of this State has been finally exhausted"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "This section shall apply to libelous or slanderous statements made on or after the effective date of this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s11": {
+  "review": {
+   "title": "Limits on legislators' and judges' retirement pay",
+   "plain": "For people who first entered a covered state or judicial office on or after January 1, 1987, the Legislators’ and Judges’ Retirement Systems shall not pay a retirement allowance above the higher of the current salary for that office or the retiree's highest salary in it.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may define the terms used in this section"
+   ],
+   "limits": [
+    "The Legislators’ Retirement System shall not pay any unmodified retirement allowance",
+    "The Judges’ Retirement System shall not pay any unmodified retirement allowance"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The Legislators’ Retirement System shall not pay any unmodified retirement allowance or its actuarial equivalent to any person who on or after January 1, 1987, entered for the first time any state office for which membership in the Legislators’ Retirement System was elective or to any beneficiary or survivor of such a person, which exceeds the higher of (1) the salary receivable by the person currently serving in the office or (2) the highest salary received by the retired person while serving in that office",
+     "holder": null,
+     "binds": "The Legislators’ Retirement System",
+     "requires": [],
+     "forbids": [
+      "pay any unmodified retirement allowance or its actuarial equivalent which exceeds the higher of (1) the salary receivable by the person currently serving in the office in which the retired person served or (2) the highest salary that was received by the retired person while serving in that office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Judges’ Retirement System shall not pay any unmodified retirement allowance or its actuarial equivalent to any person who on or after January 1, 1987, entered for the first time any judicial office subject to the Judges’ Retirement System or to any beneficiary or survivor of such a person, which exceeds the higher of (1) the salary receivable by the person currently serving in the judicial office or (2) the highest salary received by the retired person while serving in that judicial office",
+     "holder": null,
+     "binds": "The Judges’ Retirement System",
+     "requires": [],
+     "forbids": [
+      "pay any unmodified retirement allowance or its actuarial equivalent which exceeds the higher of (1) the salary receivable by the person currently serving in the judicial office in which the retired person served or (2) the highest salary that was received by the retired person while serving in that judicial office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The Legislature may define the terms used in this section",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "If any part of this measure or the application to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications which reasonably can be given effect without the invalid provision or application",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s1": {
+  "review": {
+   "title": "Promotion of knowledge",
+   "plain": "Because a general diffusion of knowledge and intelligence is essential to preserving the people's rights and liberties, the Legislature shall encourage by all suitable means intellectual, scientific, moral, and agricultural improvement.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall encourage by all suitable means the promotion of intellectual, scientific, moral, and agricultural improvement",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s2": {
+  "review": {
+   "title": "Superintendent of Public Instruction",
+   "plain": "The Superintendent of Public Instruction is elected by the State's voters at each gubernatorial election and takes office the first Monday after January 1 following the election. No Superintendent may serve more than 2 terms.",
+   "category": "Education",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No Superintendent of Public Instruction may serve more than 2 terms"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A Superintendent of Public Instruction shall be elected by the qualified electors of the State at each gubernatorial election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Superintendent of Public Instruction shall enter upon the duties of the office on the first Monday after the first day of January next succeeding each gubernatorial election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No Superintendent of Public Instruction may serve more than 2 terms",
+     "holder": null,
+     "binds": "No Superintendent of Public Instruction",
+     "requires": [],
+     "forbids": [
+      "serve more than 2 terms"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s2.1": {
+  "review": {
+   "title": "Deputy and Associate Superintendents",
+   "plain": "On the Superintendent of Public Instruction's nomination, the State Board of Education appoints one Deputy and three Associate Superintendents, exempt from state civil service, for four-year terms. Additional civil-service Associate Superintendents may still be appointed in accordance with law.",
+   "category": "Education",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall appoint one Deputy Superintendent of Public Instruction and three Associate Superintendents of Public Instruction"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The State Board of Education shall appoint one Deputy Superintendent of Public Instruction and three Associate Superintendents of Public Instruction",
+     "holder": "The State Board of Education",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on nomination of the Superintendent of Public Instruction"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Deputy and Associate Superintendents shall be exempt from state civil service and their terms of office shall be four years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This section shall not be construed as prohibiting the appointment, in accordance with law, of additional Associate Superintendents of Public Instruction subject to state civil service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s3": {
+  "review": {
+   "title": "County superintendents of schools",
+   "plain": "A county superintendent of schools may be elected by the county's voters or appointed by the county board of education, as a majority of the county's voters decide. Two or more counties may unite to elect or appoint one joint superintendent.",
+   "category": "Education",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may be appointed by the county board of education",
+    "unite for the purpose of electing or appointing one joint superintendent"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A Superintendent of Schools for each county may be elected by the qualified electors thereof at each gubernatorial election or may be appointed by the county board of education",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The manner of the selection shall be determined by a majority vote of the electors of the county voting on the question",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Two or more counties may unite for the purpose of electing or appointing one joint superintendent for the counties so uniting",
+     "holder": "Two or more counties",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by an election conducted pursuant to Section 3.2 of this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s3.1": {
+  "review": {
+   "title": "County superintendent qualifications and salary",
+   "plain": "The Legislature shall prescribe the qualifications of county superintendents of schools and classify the counties for that purpose. The county board of education, or joint county board, fixes the superintendent's salary.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "shall fix the salary of the county superintendent of schools or the joint county superintendent of schools"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall prescribe the qualifications required of county superintendents of schools, and for these purposes shall classify the several counties in the State",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this Constitution to the contrary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The county board of education or joint county board of education shall fix the salary of the county superintendent of schools or the joint county superintendent of schools",
+     "holder": "The county board of education or joint county board of education",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this Constitution to the contrary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s3.2": {
+  "review": {
+   "title": "Joint county boards and superintendents",
+   "plain": "Two or more counties may, by a majority vote of each county's voters, establish one joint board of education and one joint county superintendent of schools. These are governed by the general statutes, not by any county charter.",
+   "category": "Education",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "establish one joint board of education and one joint county superintendent of schools"
+   ],
+   "limits": [
+    "shall not be governed by the provisions of any county charter"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any two or more chartered counties, or nonchartered counties, or any combination thereof, may establish one joint board of education and one joint county superintendent of schools for the counties so uniting",
+     "holder": "Any two or more chartered counties, or nonchartered counties, or any combination thereof",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by a majority vote of the electors of each such county voting on the proposition at an election called for that purpose in each such county",
+      "Notwithstanding any provision of this Constitution to the contrary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A joint county board of education and a joint county superintendent of schools shall be governed by the general statutes and shall not be governed by the provisions of any county charter",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "governed by the general statutes"
+     ],
+     "forbids": [
+      "governed by the provisions of any county charter"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s3.3": {
+  "review": {
+   "title": "County boards of education under county charters",
+   "plain": "Except as provided in Section 3.2 of this article, a county charter, or an amendment to it, may provide for the election of the members of the county board of education and for their qualifications and terms of office.",
+   "category": "Education",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "it shall be competent to provide in any charter framed for a county"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "It shall be competent to provide in any charter framed for a county, or by the amendment of any such charter, for the election of the members of the county board of education of such county and for their qualifications and terms of office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in Section 3.2 of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s5": {
+  "review": {
+   "title": "System of common schools",
+   "plain": "The Legislature shall provide for a system of common schools under which a free school is kept up and supported in each district at least six months every year after a school's first year there.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide for a system of common schools by which a free school shall be kept up and supported in each district at least six months in every year",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "a free school shall be kept up and supported in each district at least six months in every year"
+     ],
+     "forbids": [],
+     "conditions": [
+      "after the first year in which a school has been established"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s6": {
+  "review": {
+   "title": "Teacher pay, Public School System and School Fund",
+   "plain": "Sets a minimum $2,400 annual salary for full-time certificated school employees, defines the Public School System and bars transferring any part of it out, and requires minimum per-pupil and per-district amounts from the State School Fund.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [
+    "shall be paid a salary which shall be at the rate of an annual salary of not less than twenty-four hundred dollars ($2,400)"
+   ],
+   "powers": [],
+   "limits": [
+    "No school or college or any other part of the Public School System shall be, directly or indirectly, transferred from the Public School System"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Each person employed by a school district as a teacher or in any other position requiring certification qualifications shall be paid a salary at the rate of an annual salary of not less than twenty-four hundred dollars ($2,400) for a person serving full time, as defined by law",
+     "holder": "Each person employed by a school district as a teacher or in any other position requiring certification qualifications",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than a substitute employee"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Public School System shall include all kindergarten schools, elementary schools, secondary schools, technical schools, and state colleges, established in accordance with law and the school districts and the other agencies authorized to maintain them",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No school or college or any other part of the Public School System shall be, directly or indirectly, transferred from the Public School System or placed under the jurisdiction of any authority other than one included within the Public School System",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "transferred from the Public School System",
+      "placed under the jurisdiction of any authority other than one included within the Public School System"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall add to the State School Fund such other means from the revenues of the State as shall provide for apportionment in each fiscal year an amount not less than one hundred eighty dollars ($180) per pupil in average daily attendance in the kindergarten, elementary, secondary, and technical schools during the next preceding fiscal year",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The entire State School Fund shall be apportioned in each fiscal year in such manner as the Legislature may provide, through the school districts and other agencies maintaining such schools, for the support of, and aid to, kindergarten schools, elementary schools, secondary schools, and technical schools",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "there shall be apportioned to each school district in each fiscal year not less than one hundred twenty dollars ($120) per pupil in average daily attendance in the district during the next preceding fiscal year",
+      "the amount apportioned to each school district in each fiscal year shall be not less than twenty-four hundred dollars ($2,400)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Solely with respect to any county or city and county charter retirement system in which certificated school employees' contributions and benefits are based on the proportion of their salaries contributed by the county or city and county, all amounts apportioned under this section shall be considered as though derived from county or city and county school taxes and not money provided by the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s6½": {
+  "review": {
+   "title": "School districts in more than one county",
+   "plain": "The Constitution does not forbid school districts lying in more than one county, or their issuing bonds under general laws. Officers named in those laws may levy taxes to pay the bonds, which are subject to section eighteen of article eleven.",
+   "category": "Education",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall be authorized to levy and assess such taxes and perform all such other acts"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing in this constitution shall forbid the formation of districts for school purposes situate in more than one county or the issuance of bonds by such districts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "under such general laws as have been or may hereafter be prescribed by the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The officers mentioned in such laws shall be authorized to levy and assess such taxes and perform all such other acts as may be prescribed therein for the purpose of paying such bonds and carrying out the other powers conferred upon such districts",
+     "holder": "The officers mentioned in such laws",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All such bonds shall be issued subject to the limitations prescribed in section eighteen of article eleven",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "subject to the limitations prescribed in section eighteen of article eleven hereof"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s7": {
+  "review": {
+   "title": "State and county boards of education",
+   "plain": "The Legislature shall provide for appointing or electing the State Board of Education and a board of education in each county, or for electing a joint county board of education for two or more counties.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide for the appointment or election of the State Board of Education and a board of education in each county or for the election of a joint county board of education for two or more counties",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s7.5": {
+  "review": {
+   "title": "Textbooks for grades one through eight",
+   "plain": "The State Board of Education shall adopt textbooks for grades one through eight throughout the State, to be furnished without cost as provided by statute.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The State Board of Education shall adopt textbooks for use in grades one through eight throughout the State, to be furnished without cost as provided by statute",
+     "holder": null,
+     "binds": "The State Board of Education",
+     "requires": [
+      "to be furnished without cost as provided by statute"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s8": {
+  "review": {
+   "title": "No public money for sectarian schools",
+   "plain": "No public money may ever be appropriated to support any sectarian or denominational school, or any school not under the exclusive control of public school officers. No sectarian or denominational doctrine may be taught, or instruction on it permitted, in the common schools.",
+   "category": "Education",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No public money shall ever be appropriated for the support of any sectarian or denominational school",
+    "nor shall any sectarian or denominational doctrine be taught"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No public money shall ever be appropriated for the support of any sectarian or denominational school, or any school not under the exclusive control of the officers of the public schools",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "appropriating public money for the support of any sectarian or denominational school, or any school not under the exclusive control of the officers of the public schools"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nor shall any sectarian or denominational doctrine be taught, or instruction thereon be permitted, directly or indirectly, in any of the common schools of this State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "teaching sectarian or denominational doctrine in the common schools",
+      "permitting instruction thereon, directly or indirectly"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s9": {
+  "review": {
+   "title": "University of California and its Regents",
+   "plain": "The University of California is a public trust administered by the Regents, with full powers of organization and government subject only to limited legislative control. The section sets the board's membership, terms and selection, its property powers, open meetings, and nondiscrimination in admission.",
+   "category": "Education",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "with full powers of organization and government",
+    "18 appointive members appointed by the Governor and approved by the Senate",
+    "who shall be appointed by the Governor and approved by the Senate",
+    "appoint to the board either or both of the following persons as members with all rights of participation",
+    "shall be vested with the legal title and the management and disposition of the property of the university",
+    "shall have the power to take and hold",
+    "shall also have all the powers necessary or convenient for the effective administration of its trust"
+   ],
+   "limits": [
+    "subject only to such legislative control",
+    "no such appointments shall be made",
+    "may not be regents of the university at the time of their service on the advisory committee",
+    "shall be entirely independent of all political or sectarian influence",
+    "no person shall be debarred admission to any department of the university on account of race, religion, ethnic heritage, or sex"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The University of California shall constitute a public trust, to be administered by the existing corporation known as “The Regents of the University of California,” with full powers of organization and government",
+     "holder": "The Regents of the University of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "subject only to such legislative control as may be necessary to insure the security of its funds and compliance with the terms of the endowments of the university and such competitive bidding procedures as may be made applicable to the university by statute for the letting of construction contracts, sales of real property, and purchasing of materials, goods, and services"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Said corporation shall be in form a board composed of seven ex officio members: the Governor, the Lieutenant Governor, the Speaker of the Assembly, the Superintendent of Public Instruction, the president and the vice president of the alumni association of the university and the acting president of the university, and 18 appointive members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the present appointive members shall hold office until the expiration of their present terms"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The 18 appointive members are appointed by the Governor and approved by the Senate",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "approved by the Senate, a majority of the membership concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The terms of the members appointed prior to November 5, 1974, shall be 16 years; the terms of members appointed for terms commencing on and after March 1, 1976, shall be 12 years; two members shall be appointed for terms commencing on March 1, 1976, and on March 1 of each year thereafter",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No such appointments shall be made for terms to commence on March 1, 1979, or on March 1 of each fourth year thereafter, to the end that no appointment to the regents for a newly commencing term shall be made during the first year of any gubernatorial term of office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "appointments for terms to commence on March 1, 1979, or on March 1 of each fourth year thereafter"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "During the period of transition until the appointive membership is comprised exclusively of persons serving for terms of 12 years, the total number of appointive members may exceed the numbers specified in the preceeding paragraph",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In case of any vacancy, the appointee to fill such vacancy shall be appointed by the Governor and approved by the Senate, for the balance of the term for which such vacancy exists",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "approved by the Senate, a majority of the membership concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The members of the board may, in their discretion, appoint to the board either or both of the following persons as members with all rights of participation: a member of the faculty at a campus of the university or of another institution of higher education; a person enrolled as a student at a campus of the university for each regular academic term during his service as a member of the board",
+     "holder": "The members of the board",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "following procedures established by them and after consultation with representatives of faculty and students of the university, including appropriate officers of the academic senate and student governments"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Any person so appointed shall serve for not less than one year commencing on July 1",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Regents shall be able persons broadly reflective of the economic, cultural, and social diversity of the State, including ethnic minorities and women; it is not intended that formulas or specific ratios be applied in the selection of regents",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "In the selection of the Regents, the Governor shall consult an advisory committee composed of the Speaker of the Assembly and two public members appointed by the Speaker, the President Pro Tempore of the Senate and two public members appointed by the Rules Committee of the Senate, two public members appointed by the Governor, the chairman of the regents, an alumnus chosen by the alumni association, a student chosen by the Council of Student Body Presidents, and a faculty member chosen by the academic senate",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Public members shall serve for four years, except that one each of the initially appointed members selected by the Speaker of the Assembly, the President Pro Tempore of the Senate, and the Governor shall be appointed to serve for two years; student, alumni, and faculty members shall serve for one year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "Student, alumni, and faculty members may not be regents of the university at the time of their service on the advisory committee",
+     "holder": null,
+     "binds": "Student, alumni, and faculty members of the advisory committee",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The Regents shall be vested with the legal title and the management and disposition of the property of the university and of property held for its benefit and shall have the power to take and hold, either by purchase or by donation, or gift, testamentary or otherwise, or in any other manner, without restriction, all real and personal property for the benefit of the university or incidentally to its conduct",
+     "holder": "The Regents of the University of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "sales of university real property shall be subject to such competitive bidding procedures as may be provided by statute"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "Said corporation shall also have all the powers necessary or convenient for the effective administration of its trust, including the power to sue and to be sued, to use a seal, and to delegate to its committees or to the faculty of the university, or to others, such authority or functions as it may deem wise",
+     "holder": "The Regents of the University of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "The Regents shall receive all funds derived from the sale of lands pursuant to the act of Congress of July 2, 1862, and any subsequent acts amendatory thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "The university shall be entirely independent of all political or sectarian influence and kept free therefrom in the appointment of its regents and in the administration of its affairs",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "political or sectarian influence in the appointment of its regents and in the administration of its affairs"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "No person shall be debarred admission to any department of the university on account of race, religion, ethnic heritage, or sex",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "debarring admission on account of race, religion, ethnic heritage, or sex"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "Meetings of the Regents of the University of California shall be public",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "with exceptions and notice requirements as may be provided by statute"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s14": {
+  "review": {
+   "title": "School district organization",
+   "plain": "The Legislature has power, by general law, to provide for incorporating and organizing school, high school, and community college districts, and may classify them. It may authorize school district boards to carry on any programs or activities not in conflict with the laws and purposes of school districts.",
+   "category": "Education",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall have power, by general law, to provide for the incorporation and organization of school districts, high school districts, and community college districts",
+    "may classify such districts",
+    "The Legislature may authorize the governing boards of all school districts to initiate and carry on any programs, activities"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature shall have power, by general law, to provide for the incorporation and organization of school districts, high school districts, and community college districts, of every kind and class",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may classify such districts",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may authorize the governing boards of all school districts to initiate and carry on any programs, activities, or to otherwise act in any manner which is not in conflict with the laws and purposes for which school districts are established",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not in conflict with the laws and purposes for which school districts are established"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s16": {
+  "review": {
+   "title": "City charters and boards of education",
+   "plain": "City charters may provide how, when and for what terms members of boards of education are elected or appointed, and for their qualifications, pay, removal and number. Where a district extends beyond the city, changes need approval of the district's voters.",
+   "category": "Education",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "It shall be competent, in all charters framed under the authority given by Section 5 of Article XI, to provide"
+   ],
+   "limits": [
+    "no charter amendment effecting a change in the manner in which, the times at which, or the terms for which the members of the board of education shall be elected or appointed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "It shall be competent, in all charters framed under the authority given by Section 5 of Article XI, to provide for the manner in which, the times at which, and the terms for which the members of boards of education shall be elected or appointed, for their qualifications, compensation and removal, and for the number which shall constitute any one of such boards",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in addition to those provisions allowable by this Constitution, and by the laws of the State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No charter amendment effecting a change in the manner in which, the times at which, or the terms for which the members of the board of education shall be elected or appointed, for their qualifications, compensation, or removal, or for the number which shall constitute such board, shall be adopted unless it is submitted to and approved by a majority of all the qualified electors of the school district or community college district voting on the question",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "submitted to and approved by a majority of all the qualified electors of the school district or community college district voting on the question"
+     ],
+     "forbids": [],
+     "conditions": [
+      "when the boundaries of a school district or community college district extend beyond the limits of a city whose charter provides for any or all of the foregoing with respect to the members of its board of education",
+      "Notwithstanding Section 3 of Article XI"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Any such amendment, and any portion of a proposed charter or a revised charter which would establish or change any of the foregoing provisions respecting a board of education, shall be submitted to the electors of the school district or community college district as one or more separate questions",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The failure of any such separate question to be approved shall have the result of continuing in effect the applicable existing law with respect to that board of education",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s1": {
+  "review": {
+   "title": "Eminent domain over navigable water frontages",
+   "plain": "The right of eminent domain is declared to exist in the State to all frontages on the navigable waters of this State.",
+   "category": "Water & Natural Resources",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The right of eminent domain is hereby declared to exist in the State"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The right of eminent domain is hereby declared to exist in the State to all frontages on the navigable waters of this State",
+     "holder": "The State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s2": {
+  "review": {
+   "title": "Reasonable and beneficial use of water",
+   "plain": "Water must be put to beneficial use to the fullest extent possible and waste prevented. Any right to water is limited to what is reasonably required for the beneficial use served, without depriving riparian owners or appropriators of what they are entitled to. The section is self-executing.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [
+    "the reasonable use of water of the stream to which the owner’s land is riparian under reasonable methods of diversion and use"
+   ],
+   "powers": [
+    "the Legislature may also enact laws in the furtherance of the policy in this section contained"
+   ],
+   "limits": [
+    "is and shall be limited to such water as shall be reasonably required for the beneficial use to be served",
+    "does not and shall not extend to the waste or unreasonable use or unreasonable method of use or unreasonable method of diversion of water"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The general welfare requires that the water resources of the State be put to beneficial use to the fullest extent of which they are capable, that the waste or unreasonable use or unreasonable method of use of water be prevented, and that the conservation of such waters is to be exercised with a view to the reasonable and beneficial use thereof in the interest of the people and for the public welfare",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "because of the conditions prevailing in this State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The right to water or to the use or flow of water in or from any natural stream or water course in this State is and shall be limited to such water as shall be reasonably required for the beneficial use to be served, and such right does not and shall not extend to the waste or unreasonable use or unreasonable method of use or unreasonable method of diversion of water",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "the waste or unreasonable use or unreasonable method of use or unreasonable method of diversion of water"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Riparian rights in a stream or water course attach to, but to no more than so much of the flow thereof as may be required or used consistently with this section, for the purposes for which such lands are, or may be made adaptable, in view of such reasonable and beneficial uses",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Nothing herein shall be construed as depriving any riparian owner of the reasonable use of water of the stream to which the owner’s land is riparian under reasonable methods of diversion and use, or as depriving any appropriator of water to which the appropriator is lawfully entitled",
+     "holder": "Any riparian owner; any appropriator",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This section shall be self-executing",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may also enact laws in the furtherance of the policy in this section contained",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

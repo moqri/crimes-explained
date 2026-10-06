@@ -9,4 +9,4 @@ Follow review/con/INSTRUCTIONS.md in full, with these changes for the California
 - `category`: exactly one of "Founding & Purposes", "Individual Rights", "Criminal Justice", "Voting & Elections", "Equality & Citizenship", "The Legislature", "The Governor & Executive", "The Courts", "Local Government", "Taxes, Money & Commerce", "Education", "Water & Natural Resources", "Transportation", "Public Officers & Employees", "Labor", "Housing & Public Utilities", "Amending & Ratifying".
 - No `status` field.
 - Validate with: python3 review/con/validate.py --jur ca <input> <output>
-- A duty ("The Legislature shall provide …") is not a power: never put a duty's phrase in `powers` or any highlight list; leave it unhighlighted.
+- A duty is an obligation to do something ("The Legislature shall provide by law for …", "shall publish", "shall be presented"): never put a duty's phrase in `powers` or any highlight list. But a grant of authority is a power even when written with "shall": "shall be vested in", "shall have jurisdiction", "shall exercise … jurisdiction", "shall appoint", "shall fill vacancies by appointment", "may remove". Highlight those as powers.

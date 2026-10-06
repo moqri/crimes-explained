@@ -1,0 +1,584 @@
+{
+ "a22-s1": {
+  "review": {
+   "title": "Contracting for architectural and engineering services",
+   "plain": "The State and all other governmental entities may contract with qualified private entities for architectural and engineering services for all public works, in all phases of project development, without regard to funding source.",
+   "category": "Public Officers & Employees",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall be allowed to contract with qualified private entities for architectural and engineering services"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The State of California and all other governmental entities shall be allowed to contract with qualified private entities for architectural and engineering services for all public works of improvement",
+     "holder": "The State of California and all other governmental entities",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The choice and authority to contract shall extend to all phases of project development including permitting and environmental studies, rights-of-way services, design phase services and construction phase services",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The choice and authority shall exist without regard to funding sources whether federal, state, regional, local or private, whether or not the project is programmed by a state, regional or local governmental entity, and whether or not the completed project is a part of any state owned or state operated system or facility",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a22-s2": {
+  "review": {
+   "title": "Article VII does not bar private contracting",
+   "plain": "Nothing in Article VII may be construed to limit, restrict or prohibit the State or other governmental entities from contracting with private entities for architectural and engineering services.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "contracting with private entities for the performance of architectural and engineering services"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing contained in Article VII of this Constitution shall be construed to limit, restrict or prohibit the State or any other governmental entities from contracting with private entities for the performance of architectural and engineering services",
+     "holder": "The State or any other governmental entities",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a34-s1": {
+  "review": {
+   "title": "Voter approval of low rent housing projects",
+   "plain": "No state public body may develop, construct or acquire a low rent housing project until a majority of the qualified electors of the city, town or county voting on it approve it at an election. Defines \"low rent housing project\", \"persons of low income\", \"state public body\" and \"Federal Government\".",
+   "category": "Housing & Public Utilities",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No low rent housing project shall hereafter be developed, constructed, or acquired in any manner by any state public body"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No low rent housing project shall hereafter be developed, constructed, or acquired in any manner by any state public body until a majority of the qualified electors of the city, town or county voting upon such issue approve such project",
+     "holder": null,
+     "binds": "Any state public body",
+     "requires": [],
+     "forbids": [
+      "developing, constructing, or acquiring a low rent housing project before voter approval"
+     ],
+     "conditions": [
+      "until, a majority of the qualified electors of the city, town or county, as the case may be, in which it is proposed to develop, construct, or acquire the same, voting upon such issue, approve such project by voting in favor thereof at an election to be held for that purpose, or at any general or special election"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "For the purposes of this Article the term “low rent housing project” shall mean any development composed of urban or rural dwellings, apartments or other living accommodations for persons of low income, financed in whole or in part by the Federal Government or a state public body or to which the Federal Government or a state public body extends assistance",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "there shall be excluded from the term “low rent housing project” any such project where there shall be in existence on the effective date hereof, a contract for financial assistance between any state public body and the Federal Government in respect to such project"
+     ],
+     "terms": [
+      "\"low rent housing project\": any development composed of urban or rural dwellings, apartments or other living accommodations for persons of low income, financed in whole or in part by the Federal Government or a state public body or to which the Federal Government or a state public body extends assistance by supplying all or part of the labor, by guaranteeing the payment of liens, or otherwise"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“persons of low income” shall mean persons or families who lack the amount of income which is necessary to enable them, without financial assistance, to live in decent, safe and sanitary dwellings, without overcrowding",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"persons of low income\": persons or families who lack the amount of income which is necessary (as determined by the state public body developing, constructing, or acquiring the housing project) to enable them, without financial assistance, to live in decent, safe and sanitary dwellings, without overcrowding"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the term “state public body” shall mean this State, or any city, city and county, county, district, authority, agency, or any other subdivision or public body of this State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"state public body\": this State, or any city, city and county, county, district, authority, agency, or any other subdivision or public body of this State"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the term “Federal Government” shall mean the United States of America, or any agency or instrumentality, corporate or otherwise, of the United States of America",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Federal Government\": the United States of America, or any agency or instrumentality, corporate or otherwise, of the United States of America"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a34-s2": {
+  "review": {
+   "title": "Article XXXIV is self-executing",
+   "plain": "The provisions of Article XXXIV are self-executing, but legislation not in conflict with it may be enacted to help it operate.",
+   "category": "Housing & Public Utilities",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "legislation not in conflict herewith may be enacted to facilitate its operation"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this Article shall be self-executing",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "legislation not in conflict herewith may be enacted to facilitate its operation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not in conflict herewith"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a34-s3": {
+  "review": {
+   "title": "Severability of Article XXXIV",
+   "plain": "If any part of Article XXXIV, or its application to any person or circumstance, is declared unconstitutional or held invalid, the rest of the Article and its other applications are not affected.",
+   "category": "Housing & Public Utilities",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If any portion, section or clause of this article, or the application thereof to any person or circumstance, shall for any reason be declared unconstitutional or held invalid, the remainder of this Article, or the application of such portion, section or clause to other persons or circumstances, shall not be affected thereby",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any portion, section or clause of this article, or the application thereof to any person or circumstance, shall for any reason be declared unconstitutional or held invalid"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a34-s4": {
+  "review": {
+   "title": "Article XXXIV supersedes conflicting provisions",
+   "plain": "Article XXXIV supersedes all provisions of the Constitution, and laws enacted under it, that conflict with it.",
+   "category": "Housing & Public Utilities",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this Article shall supersede all provisions of this Constitution and laws enacted thereunder in conflict therewith",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s1": {
+  "review": {
+   "title": "California Institute for Regenerative Medicine",
+   "plain": "Establishes the California Institute for Regenerative Medicine.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There is hereby established the California Institute for Regenerative Medicine",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s2": {
+  "review": {
+   "title": "Purposes of the stem cell institute",
+   "plain": "The institute's purposes are to make grants and loans for stem cell and other vital research and facilities, to support all stages of developing cures through clinical trials, and to establish regulatory standards and oversight bodies.",
+   "category": "Founding & Purposes",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "To make grants and loans for stem cell research, for research facilities, and for other vital research opportunities",
+    "To support all stages of the process of developing cures",
+    "To establish the appropriate regulatory standards and oversight bodies for research and facilities development"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "To make grants and loans for stem cell research, for research facilities, and for other vital research opportunities to realize therapies, protocols, and/or medical procedures that will result in, as speedily as possible, the cure for, and/or substantial mitigation of, major diseases, injuries, and orphan diseases",
+     "holder": "The institute",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "To support all stages of the process of developing cures, from laboratory research through successful clinical trials",
+     "holder": "The institute",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "To establish the appropriate regulatory standards and oversight bodies for research and facilities development",
+     "holder": "The institute",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s3": {
+  "review": {
+   "title": "No funds for human reproductive cloning",
+   "plain": "No funds authorized for, or made available to, the institute may be used for research involving human reproductive cloning.",
+   "category": "Founding & Purposes",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No funds authorized for, or made available to, the institute shall be used for research involving human reproductive cloning"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No funds authorized for, or made available to, the institute shall be used for research involving human reproductive cloning",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Using funds authorized for, or made available to, the institute for research involving human reproductive cloning"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s4": {
+  "review": {
+   "title": "Institute funds continuously appropriated",
+   "plain": "Funds for the institute are continuously appropriated without regard to fiscal year, may be used only for this article's purposes, and are not subject to appropriation or transfer by the Legislature or the Governor for any other purpose.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be subject to appropriation or transfer by the Legislature or the Governor for any other purpose"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Funds authorized for, or made available to, the institute shall be continuously appropriated without regard to fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Funds authorized for, or made available to, the institute shall be available and used only for the purposes provided in this article",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "be available and used only for the purposes provided in this article"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Funds authorized for, or made available to, the institute shall not be subject to appropriation or transfer by the Legislature or the Governor for any other purpose",
+     "holder": null,
+     "binds": "The Legislature or the Governor",
+     "requires": [],
+     "forbids": [
+      "appropriation or transfer by the Legislature or the Governor for any other purpose"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s5": {
+  "review": {
+   "title": "Right to conduct stem cell research",
+   "plain": "Establishes a right to conduct stem cell research, including research involving adult, cord blood and pluripotent stem cells and progenitor cells, and defines pluripotent stem cells and progenitor cells.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "a right to conduct stem cell research"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "There is hereby established a right to conduct stem cell research which includes research involving adult stem cells, cord blood stem cells, pluripotent stem cells, and/or progenitor cells",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Pluripotent stem cells\": cells that are capable of self-renewal, and have broad potential to differentiate into multiple adult cell types",
+      "\"Progenitor cells\": multipotent or precursor cells that are partially differentiated, but retain the ability to divide and give rise to differentiated cells"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Pluripotent stem cells may be derived from somatic cell nuclear transfer or from surplus products of in vitro fertilization treatments when such products are donated under appropriate informed consent procedures",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when such products are donated under appropriate informed consent procedures"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s6": {
+  "review": {
+   "title": "Bond funding for the institute",
+   "plain": "Notwithstanding any other provision of the Constitution or any law, the institute, established in state government, may use state issued tax-exempt and taxable bonds to fund its operations, research and facilities.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may utilize state issued tax-exempt and taxable bonds"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the institute, which is established in state government",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Notwithstanding any other provision of this Constitution or any law, the institute may utilize state issued tax-exempt and taxable bonds to fund its operations, medical and scientific research, including therapy development through clinical trials, and facilities",
+     "holder": "The institute",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a35-s7": {
+  "review": {
+   "title": "Institute exempt from civil service",
+   "plain": "Notwithstanding any other provision of the Constitution, including Article VII, or any law, the institute and its employees are exempt from civil service.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Notwithstanding any other provision of this Constitution, including Article VII, or any law, the institute and its employees are exempt from civil service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

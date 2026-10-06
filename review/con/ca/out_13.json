@@ -1,0 +1,2775 @@
+{
+ "a13-s25": {
+  "review": {
+   "title": "Reimbursing local revenue lost under Section 3(k)",
+   "plain": "The Legislature must reimburse each local government, in the same fiscal year, for revenue lost because of Section 3(k).",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide, in the same fiscal year, reimbursements to each local government for revenue lost because of Section 3(k)",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "reimbursements to each local government for revenue lost because of Section 3(k)",
+      "in the same fiscal year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s25.5": {
+  "review": {
+   "title": "Protecting local tax revenues from state statutes",
+   "plain": "On or after November 3, 2004, the Legislature may not enact statutes that reduce local shares of property tax, restrict local sales and transactions taxes, or take redevelopment agency taxes, except as allowed here; it may change some use tax distributions and authorize revenue exchanges.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may change by statute the method of distributing the revenues",
+    "The Legislature may authorize by statute two or more specifically identified local agencies"
+   ],
+   "limits": [
+    "the Legislature shall not enact a statute to do any of the following",
+    "shall not result in a total ad valorem property tax revenue loss",
+    "The Legislature shall not change the pro rata shares of ad valorem property tax"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)(A)",
+     "kind": "limit",
+     "what": "On or after November 3, 2004, the Legislature shall not enact a statute to modify the manner in which ad valorem property tax revenues are allocated in accordance with subdivision (a) of Section 1 of Article XIII A so as to reduce for any fiscal year the percentage of the total amount of ad valorem property tax revenues in a county that is allocated among all of the local agencies in that county below the percentage that would be allocated among those agencies for the same fiscal year under the statutes in effect on November 3, 2004",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Enacting a statute to modify the allocation of ad valorem property tax revenues so as to reduce the percentage allocated among all of the local agencies in a county below the percentage under the statutes in effect on November 3, 2004"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided in subparagraph (B)"
+     ],
+     "terms": [
+      "\"percentage\": does not include any property tax revenues referenced in paragraph (2)"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)(B)",
+     "kind": "structure",
+     "what": "In the 2009–10 fiscal year only, subparagraph (A) may be suspended for that fiscal year if all of the following conditions are met",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "This full repayment shall be made not later than the end of the third fiscal year immediately following the fiscal year to which the modification applies"
+     ],
+     "forbids": [],
+     "conditions": [
+      "The Governor issues a proclamation that declares that, due to a severe state fiscal hardship, the suspension of subparagraph (A) is necessary",
+      "The Legislature enacts an urgency statute, pursuant to a bill passed in each house of the Legislature by rollcall vote entered in the journal, two-thirds of the membership concurring, that contains a suspension of subparagraph (A) for that fiscal year and does not contain any other provision",
+      "No later than the effective date of the statute described in clause (ii), a statute is enacted that provides for the full repayment to local agencies of the total amount of revenue losses, including interest as provided by law, resulting from the modification of ad valorem property tax revenue allocations to local agencies"
+     ],
+     "exceptions": [
+      "except as otherwise provided in subparagraph (C)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)(C)",
+     "kind": "limit",
+     "what": "A suspension of subparagraph (A) shall not result in a total ad valorem property tax revenue loss to all local agencies within a county that exceeds 8 percent of the total amount of ad valorem property tax revenues that were allocated among all local agencies within that county for the fiscal year immediately preceding the fiscal year for which subparagraph (A) is suspended",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "A total ad valorem property tax revenue loss to all local agencies within a county that exceeds 8 percent"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(A)",
+     "kind": "limit",
+     "what": "The Legislature shall not enact a statute to restrict the authority of a city, county, or city and county to impose a tax rate under, or change the method of distributing revenues derived under, the Bradley-Burns Uniform Local Sales and Use Tax Law, as that law read on November 3, 2004; the restriction also applies to the entitlement of a city, county, or city and county to the change in tax rate resulting from the end of the revenue exchange period",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Restricting the authority of a city, county, or city and county to impose a tax rate under the Bradley-Burns Uniform Local Sales and Use Tax Law",
+      "Changing the method of distributing revenues derived under the Bradley-Burns Uniform Local Sales and Use Tax Law"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided in subparagraphs (B) and (C)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(B)",
+     "kind": "power",
+     "what": "The Legislature may change by statute the method of distributing the revenues derived under a use tax imposed pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law to allow the State to participate in an interstate compact or to comply with federal law",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "to allow the State to participate in an interstate compact or to comply with federal law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(C)",
+     "kind": "power",
+     "what": "The Legislature may authorize by statute two or more specifically identified local agencies within a county to enter into a contract to exchange allocations of ad valorem property tax revenues for revenues derived from a tax rate imposed under the Bradley-Burns Uniform Local Sales and Use Tax Law",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "with the approval of the governing body of each of those agencies"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(C)",
+     "kind": "structure",
+     "what": "The exchange under this subparagraph of revenues derived from a tax rate imposed under that law shall not require voter approval for the continued imposition of any portion of an existing tax rate from which those revenues are derived",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "limit",
+     "what": "The Legislature shall not enact a statute to change for any fiscal year the pro rata shares in which ad valorem property tax revenues are allocated among local agencies in a county other than pursuant to a bill passed in each house of the Legislature by rollcall vote entered in the journal, two-thirds of the membership concurring",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Changing the pro rata shares in which ad valorem property tax revenues are allocated among local agencies in a county"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided in subparagraph (C) of paragraph (2)",
+      "pursuant to a bill passed in each house of the Legislature by rollcall vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "limit",
+     "what": "The Legislature shall not change the pro rata shares of ad valorem property tax pursuant to this paragraph, nor change the allocation of the revenues described in Section 15 of Article XI, to reimburse a local government when the Legislature or any state agency mandates a new program or higher level of service on that local government",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Changing the pro rata shares of ad valorem property tax, or the allocation of the revenues described in Section 15 of Article XI, to reimburse a local government for a mandated new program or higher level of service"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(4)",
+     "kind": "limit",
+     "what": "The Legislature shall not enact a statute to extend beyond the revenue exchange period the suspension of the authority of a city, county, or city and county to impose a sales and use tax rate under the Bradley-Burns Uniform Local Sales and Use Tax Law",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Extending beyond the revenue exchange period the suspension of the authority of a city, county, or city and county to impose a sales and use tax rate"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(5)",
+     "kind": "limit",
+     "what": "The Legislature shall not enact a statute to reduce, during any period in which the rate authority suspension described in paragraph (4) is operative, the payments to a city, county, or city and county that are required by Section 97.68 of the Revenue and Taxation Code, as that section read on November 3, 2004",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Reducing the payments to a city, county, or city and county that are required by Section 97.68 of the Revenue and Taxation Code"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(6)",
+     "kind": "limit",
+     "what": "The Legislature shall not enact a statute to restrict the authority of a local entity to impose a transactions and use tax rate in accordance with the Transactions and Use Tax Law, or change the method for distributing revenues derived under a transaction and use tax rate imposed under that law, as it read on November 3, 2004",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Restricting the authority of a local entity to impose a transactions and use tax rate",
+      "Changing the method for distributing revenues derived under a transaction and use tax rate"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(7)",
+     "kind": "limit",
+     "what": "The Legislature shall not enact a statute to require a community redevelopment agency (A) to pay, remit, loan, or otherwise transfer, directly or indirectly, taxes on ad valorem real property and tangible personal property allocated to the agency pursuant to Section 16 of Article XVI to or for the benefit of the State, any agency of the State, or any jurisdiction; or (B) to use, restrict, or assign a particular purpose for such taxes for the benefit of the State, any agency of the State, or any jurisdiction",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Requiring a community redevelopment agency to pay, remit, loan, or otherwise transfer such taxes to or for the benefit of the State, any agency of the State, or any jurisdiction",
+      "Requiring a community redevelopment agency to use, restrict, or assign a particular purpose for such taxes for the benefit of the State, any agency of the State, or any jurisdiction"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "for making payments to affected taxing agencies pursuant to Sections 33607.5 and 33607.7 of the Health and Safety Code or similar statutes requiring such payments, as those statutes read on January 1, 2008",
+      "for the purpose of increasing, improving, and preserving the supply of low and moderate income housing available at affordable housing cost"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "For purposes of this section, the following definitions apply",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Ad valorem property tax revenues\": all revenues derived from the tax collected by a county under subdivision (a) of Section 1 of Article XIII A, regardless of any of this revenue being otherwise classified by statute",
+      "\"Local agency\": has the same meaning as specified in Section 95 of the Revenue and Taxation Code as that section read on November 3, 2004",
+      "\"Jurisdiction\": has the same meaning as specified in Section 95 of the Revenue and Taxation Code as that section read on November 3, 2004"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s26": {
+  "review": {
+   "title": "Income taxes and income tax exemptions",
+   "plain": "Taxes on or measured by income may be imposed as prescribed by law. Interest on state and local government bonds, certain income of nonprofit colleges, and certain nonprofit organizations are exempt from the taxes described.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "Taxes on or measured by income may be imposed"
+   ],
+   "limits": [
+    "is exempt from taxes on income",
+    "is exempt from taxes on or measured by income",
+    "is exempt from any business license tax or fee measured by income or gross receipts"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "Taxes on or measured by income may be imposed on persons, corporations, or other entities as prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as prescribed by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Interest on bonds issued by the State or a local government in the State is exempt from taxes on income",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "Income of a nonprofit educational institution of collegiate grade within the State of California is exempt from taxes on or measured by income if both of the following conditions are met",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "The income is not unrelated business income as defined by the Legislature",
+      "The income is used exclusively for educational purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "A nonprofit organization that is exempted from taxation by Chapter 4 (commencing with Section 23701) of Part 11 of Division 2 of the Revenue and Taxation Code or Subchapter F (commencing with Section 501) of Chapter 1 of Subtitle A of the Internal Revenue Code of 1986, or the successor of either, is exempt from any business license tax or fee measured by income or gross receipts that is levied by a county or city, whether charter or general law, a city and county, a school district, a special district, or any other local agency",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s27": {
+  "review": {
+   "title": "Taxing corporations and banks",
+   "plain": "By a majority of each house, the Legislature may tax corporations, including banks, and their franchises by any method not prohibited. Unless the Legislature provides otherwise, the bank tax is measured by net income and replaces other taxes and fees on banks, with exceptions.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may tax corporations, including state and national banks, and their franchises"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature, a majority of the membership of each house concurring, may tax corporations, including state and national banks, and their franchises by any method not prohibited by this Constitution or the Constitution or laws of the United States",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "a majority of the membership of each house concurring",
+      "by any method not prohibited by this Constitution or the Constitution or laws of the United States"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The tax on state and national banks shall be according to or measured by their net income and shall be in lieu of all other taxes and license fees upon banks or their shares",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Unless otherwise provided by the Legislature"
+     ],
+     "exceptions": [
+      "except taxes upon real property and vehicle registration and license fees"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s28": {
+  "review": {
+   "title": "Tax on insurers",
+   "plain": "Imposes an annual 2.35 percent tax on insurers doing business in California, measured by premiums or, for title insurers, income, in lieu of most other taxes, with retaliatory taxes on out-of-state insurers and a separate ocean marine tax. The Legislature may change the rates.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may by law change the rate or rates of taxes herein imposed upon insurers"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "\"Insurer,\" as used in this section, includes insurance companies or associations and reciprocal or interinsurance exchanges together with their corporate or other attorneys in fact considered as a single unit, and the State Compensation Insurance Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Insurer\": includes insurance companies or associations and reciprocal or interinsurance exchanges together with their corporate or other attorneys in fact considered as a single unit, and the State Compensation Insurance Fund",
+      "\"companies\": includes persons, partnerships, joint stock associations, companies and corporations"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "An annual tax is hereby imposed on each insurer doing business in this State on the base, at the rates, and subject to the deductions from the tax hereinafter specified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "The basis of the annual tax for an insurer not transacting title insurance is the amount of gross premiums, less return premiums, received in such year upon its business done in this State, other than premiums received for reinsurance and for ocean marine insurance; for an insurer transacting title insurance it is all income upon business done in this State, with exceptions",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Interest and dividends",
+      "Rents from real property",
+      "Profits from the sale or other disposition of investments",
+      "Income from investments",
+      "there shall be excluded from the basis of the annual tax imposed by this section, the income of, and from the assets of, such trust department and such trust business, if such income is taxed by this State or included in the measure of any tax imposed by this State"
+     ],
+     "terms": [
+      "\"basis of the annual tax\": for an insurer not transacting title insurance, the amount of gross premiums, less return premiums, received in such year by such insurer upon its business done in this State, other than premiums received for reinsurance and for ocean marine insurance; for an insurer transacting title insurance, all income upon business done in this State, except as listed",
+      "\"Investments\": includes property acquired by such insurer in the settlement or adjustment of claims against it but excludes investments in title plants and title records"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The rate of the tax to be applied to the basis of the annual tax in respect to each year is 2.35 percent",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "The tax imposed on insurers by this section is in lieu of all other taxes and licenses, state, county, and municipal, upon such insurers and their property",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Taxes upon their real estate",
+      "That an insurer transacting title insurance in this State which has a trust department or does a trust business under the banking laws of this State is subject to taxation with respect to such trust department or trust business to the same extent and in the same manner as trust companies and the trust departments of banks doing business in this State",
+      "The retaliatory taxes, licenses, fees, fines, penalties, deposit requirements or other obligations described in paragraph (3)",
+      "The tax on ocean marine insurance",
+      "Motor vehicle and other vehicle registration license fees and any other tax or license fee imposed by the State upon vehicles, motor vehicles or the operation thereof",
+      "That each corporate or other attorney in fact of a reciprocal or interinsurance exchange shall be subject to all taxes imposed upon corporations or others doing business in the State, other than taxes on income derived from its principal business as attorney in fact"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "duty",
+     "what": "When by or pursuant to the laws of any other state or foreign country any taxes, licenses and other fees, fines, penalties, deposit requirements or other material obligations, prohibitions or restrictions are or would be imposed upon California insurers in excess of those directly imposed upon similar insurers of such other state or country under the statutes of this State, the same taxes, licenses and other fees, fines, penalties or deposit requirements or other material obligations, prohibitions, or restrictions shall be imposed upon the insurers of such other state or country doing business or seeking to do business in California",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "deductions, from premium taxes or other taxes otherwise payable, allowed on account of real estate or personal property taxes paid shall be taken into consideration in determining the propriety and extent of retaliatory action under this paragraph (3) of subdivision (f)",
+      "The provisions of this paragraph (3) of subdivision (f) shall also be applicable to reciprocals or interinsurance exchanges and fraternal benefit societies"
+     ],
+     "forbids": [],
+     "conditions": [
+      "so long as such laws of such other state or country continue in force or are so applied"
+     ],
+     "exceptions": [
+      "The provisions of this paragraph (3) of subdivision (f) shall not apply as to personal income taxes, nor as to ad valorem taxes on real or personal property nor as to special purpose obligations or assessments heretofore imposed by another state or foreign country in connection with particular kinds of insurance, other than property insurance"
+     ],
+     "terms": [
+      "\"imposed by such state or country\": includes any tax, license or other fee or other obligation imposed by any city, county, or other political subdivision or agency of such other state or country on California insurers or their agents or representatives",
+      "\"domicile\": of an alien insurer, other than insurers formed under the laws of Canada, the state in which is located its principal place of business in the United States; of an insurer formed under the laws of Canada or a province thereof, the province in which its head office is situated"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "A corporate or other attorney in fact of each exchange shall annually compute the amount of tax that would be payable by it under prevailing law except for the provisions of this section, and any management fee due from each exchange to its corporate or other attorney in fact shall be reduced pro tanto by a sum equivalent to the amount so computed",
+     "holder": null,
+     "binds": "A corporate or other attorney in fact of each exchange",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "Every insurer transacting the business of ocean marine insurance in this State shall annually pay to the State a tax measured by that proportion of the underwriting profit of such insurer from such insurance written in the United States, which the gross premiums of the insurer from such insurance written in this State bear to the gross premiums of the insurer from such insurance written within the United States, at the rate of 5 per centum, which tax shall be in lieu of all other taxes and licenses, state, county and municipal, upon such insurer",
+     "holder": null,
+     "binds": "Every insurer transacting the business of ocean marine insurance in this State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except taxes upon real estate, and such other taxes as may be assessed or levied against such insurer on account of any other class of insurance written by it"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "The Legislature shall define the terms \"ocean marine insurance\" and \"underwriting profit,\" and shall provide for the assessment, levy, collection and enforcement of the ocean marine tax",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "duty",
+     "what": "The taxes provided for by this section shall be assessed by the State Board of Equalization",
+     "holder": null,
+     "binds": "The State Board of Equalization",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "power",
+     "what": "The Legislature, a majority of all the members elected to each of the two houses voting in favor thereof, may by law change the rate or rates of taxes herein imposed upon insurers",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "a majority of all the members elected to each of the two houses voting in favor thereof"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "structure",
+     "what": "This section is not intended to and does not change the law as it has previously existed with respect to the meaning of the words \"gross premiums, less return premiums, received\" as used in this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s29": {
+  "review": {
+   "title": "Local sales tax sharing contracts",
+   "plain": "The Legislature may authorize counties and cities to contract to share sales or use tax revenue, with voter approval in each jurisdiction. They may also contract to share Bradley-Burns sales and use tax revenue if two-thirds of each governing body approves.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may authorize counties, cities and counties, and cities to enter into contracts",
+    "may enter into contracts to apportion between them the revenue"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may authorize counties, cities and counties, and cities to enter into contracts to apportion between them the revenue derived from any sales or use tax imposed by them that is collected for them by the State",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "Before the contract becomes operative, it shall be authorized by a majority of those voting on the question in each jurisdiction at a general or direct primary election"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Notwithstanding subdivision (a), on and after the operative date of this subdivision, counties, cities and counties, and cities may enter into contracts to apportion between them the revenue derived from any sales or use tax imposed by them pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law, or any successor provisions, that is collected for them by the State",
+     "holder": "Counties, cities and counties, and cities",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the ordinance or resolution proposing each contract is approved by a two-thirds vote of the governing body of each jurisdiction that is a party to the contract"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s30": {
+  "review": {
+   "title": "Old tax liens presumed paid",
+   "plain": "A tax is conclusively presumed paid 30 years after it became a lien, unless the property has been sold for the tax in the manner the Legislature provides.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Every tax shall be conclusively presumed to have been paid after 30 years from the time it became a lien",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the property subject to the lien has been sold in the manner provided by the Legislature for the payment of the tax"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s31": {
+  "review": {
+   "title": "Power to tax cannot be surrendered",
+   "plain": "The power to tax may not be surrendered or suspended by grant or contract.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not be surrendered or suspended by grant or contract"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The power to tax may not be surrendered or suspended by grant or contract",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Surrendering or suspending the power to tax by grant or contract"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s32": {
+  "review": {
+   "title": "No court orders stopping tax collection",
+   "plain": "No court process may issue against the State or its officers to prevent or enjoin collecting a tax. After paying a tax claimed to be illegal, a taxpayer may sue to recover it with interest as the Legislature provides.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [
+    "an action may be maintained to recover the tax paid, with interest"
+   ],
+   "powers": [],
+   "limits": [
+    "No legal or equitable process shall issue"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No legal or equitable process shall issue in any proceeding in any court against this State or any officer thereof to prevent or enjoin the collection of any tax",
+     "holder": null,
+     "binds": "Any court",
+     "requires": [],
+     "forbids": [
+      "Legal or equitable process against this State or any officer thereof to prevent or enjoin the collection of any tax"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "After payment of a tax claimed to be illegal, an action may be maintained to recover the tax paid, with interest, in such manner as may be provided by the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "After payment of a tax claimed to be illegal",
+      "in such manner as may be provided by the Legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s33": {
+  "review": {
+   "title": "Legislature to carry out the taxation article",
+   "plain": "The Legislature must pass all laws necessary to carry out this article.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall pass all laws necessary to carry out the provisions of this article",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s34": {
+  "review": {
+   "title": "No sales tax on food",
+   "plain": "Neither the State nor its political subdivisions may levy or collect a sales or use tax on food products for human consumption, except as provided by statute as of the effective date of this section.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Neither the State of California nor any of its political subdivisions shall levy or collect a sales or use tax"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the State of California nor any of its political subdivisions shall levy or collect a sales or use tax on the sale of, or the storage, use or other consumption in this State of food products for human consumption",
+     "holder": null,
+     "binds": "The State of California and its political subdivisions",
+     "requires": [],
+     "forbids": [
+      "Levying or collecting a sales or use tax on the sale of, or the storage, use or other consumption in this State of food products for human consumption"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as provided by statute as of the effective date of this section"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s35": {
+  "review": {
+   "title": "Sales tax for local public safety",
+   "plain": "Imposes an added one-half percent sales and use tax from January 1, 1994, whose revenues go to the Local Public Safety Fund for counties that request or approve it, to be used exclusively for local public safety services.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The people of the State of California find and declare that public safety services are critically important; that the protection of the public safety is the first responsibility of local government and local officials have an obligation to give priority to the provision of adequate public safety services; and that the proceeds of the tax enacted pursuant to this section shall be designated exclusively for public safety",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "In addition to any sales and use taxes imposed by the Legislature, a tax is hereby imposed upon all retailers at the rate of 1/2 percent of the gross receipts from the sale of all tangible personal property sold at retail in this State on and after January 1, 1994, and an excise tax is hereby imposed on the storage, use, or other consumption in this State of tangible personal property purchased from any retailer on and after January 1, 1994, at the rate of 1/2 percent of the sales price of the property",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "The Sales and Use Tax Law, including any amendments made thereto on or after the effective date of this section, shall be applicable to the taxes imposed by subdivision (b)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(1)",
+     "kind": "duty",
+     "what": "All revenues, less refunds, derived from the taxes imposed pursuant to subdivision (b) shall be transferred to the Local Public Safety Fund for allocation by the Legislature, as prescribed by statute, to counties in which either of the following occurs",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "The board of supervisors, by a majority vote of its membership, requests an allocation from the Local Public Safety Fund in a manner prescribed by statute",
+      "A majority of the county’s voters voting thereon approve the addition of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(2)",
+     "kind": "limit",
+     "what": "Moneys in the Local Public Safety Fund shall be allocated for use exclusively for public safety services of local agencies",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "use exclusively for public safety services of local agencies"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Revenues derived from the taxes imposed pursuant to subdivision (b) shall not be considered proceeds of taxes for purposes of Article XIII B or State General Fund proceeds of taxes within the meaning of Article XVI",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "This section shall supersede any other provisions of this Constitution that are in conflict with the provisions of this section, including, but not limited to, Section 9 of Article II",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except for the provisions of Section 34"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s36": {
+  "review": {
+   "title": "Public safety realignment and Education Protection Account",
+   "plain": "Dedicates certain tax and fee revenues to local Public Safety Services under the 2011 Realignment Legislation, limits new unfunded costs on local agencies, creates the Education Protection Account funded by temporary tax increases, and sets how its money is estimated, transferred, spent and audited.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [
+    "an appropriate party may seek judicial relief"
+   ],
+   "powers": [
+    "shall have sole authority to determine how the moneys received from the Education Protection Account are spent",
+    "may perform audits of expenditures from the Local Revenue Fund 2011",
+    "may seek civil or criminal penalties"
+   ],
+   "limits": [
+    "2011 Realignment Legislation shall include no new programs assigned to local agencies after January 1, 2012",
+    "The State shall not submit to the federal government any plans or waivers",
+    "shall not be used by local agencies to supplant other funding for Public Safety Services",
+    "shall not be used to pay any costs incurred by the Legislature, the Governor, or any agency of state government"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "structure",
+     "what": "For purposes of this section, \"Public Safety Services\" includes the listed services",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Public Safety Services\": includes employing and training public safety officials; managing local jails and providing housing, treatment, and services for, and supervision of, juvenile and adult offenders; preventing child abuse, neglect, or exploitation and providing related services, adoption services, and adult protective services; providing mental health services to children and adults; and preventing, treating, and providing recovery services for substance abuse"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "structure",
+     "what": "\"2011 Realignment Legislation\" means legislation enacted on or before September 30, 2012, to implement the state budget plan, that is entitled 2011 Realignment and provides for the assignment of Public Safety Services responsibilities to local agencies",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"2011 Realignment Legislation\": legislation enacted on or before September 30, 2012, to implement the state budget plan, that is entitled 2011 Realignment and provides for the assignment of Public Safety Services responsibilities to local agencies, including related reporting responsibilities"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "duty",
+     "what": "The legislation shall provide local agencies with maximum flexibility and control over the design, administration, and delivery of Public Safety Services consistent with federal law and funding requirements, as determined by the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "limit",
+     "what": "2011 Realignment Legislation shall include no new programs assigned to local agencies after January 1, 2012",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for the early periodic screening, diagnosis, and treatment (EPSDT) program and mental health managed care"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "duty",
+     "what": "Commencing in the 2011–12 fiscal year and continuing thereafter, all revenues, less refunds, derived from the taxes described in Sections 6051.15 and 6201.15 of the Revenue and Taxation Code and from the vehicle license fees described in Section 11005 of the Revenue and Taxation Code, as those sections read on July 1, 2011, shall be deposited into the Local Revenue Fund 2011",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (d)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "On and after July 1, 2011, the revenues deposited pursuant to paragraph (1) shall not be considered General Fund revenues or proceeds of taxes for purposes of Section 8 of Article XVI of the California Constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "structure",
+     "what": "Funds deposited in the Local Revenue Fund 2011 are continuously appropriated exclusively to fund the provision of Public Safety Services by local agencies; pending full implementation of the 2011 Realignment Legislation, funds may also be used to reimburse the State for program costs incurred in providing Public Safety Services on behalf of local agencies",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The methodology for allocating funds shall be as specified in the 2011 Realignment Legislation"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "duty",
+     "what": "The county treasurer, city and county treasurer, or other appropriate official shall create a County Local Revenue Fund 2011 within the treasury of each county or city and county",
+     "holder": null,
+     "binds": "The county treasurer, city and county treasurer, or other appropriate official",
+     "requires": [
+      "The money in each County Local Revenue Fund 2011 shall be exclusively used to fund the provision of Public Safety Services by local agencies as specified by the 2011 Realignment Legislation"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "structure",
+     "what": "A mandate of a new program or higher level of service on a local agency imposed by the 2011 Realignment Legislation, or by any regulation, executive order or administrative directive issued to implement that legislation, shall not constitute a mandate requiring the State to provide a subvention of funds; any requirement that a local agency comply with Chapter 9 (commencing with Section 54950) of Part 1 of Division 2 of Title 5 of the Government Code shall not be a reimbursable mandate under Section 6 of Article XIII B",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Notwithstanding Section 6 of Article XIII B, or any other constitutional provision"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)(A)",
+     "kind": "limit",
+     "what": "Legislation enacted after September 30, 2012, that has an overall effect of increasing the costs already borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation shall apply to local agencies only to the extent that the State provides annual funding for the cost increase; local agencies shall not be obligated to provide programs or levels of service required by such legislation above the level for which funding has been provided",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)(B)",
+     "kind": "limit",
+     "what": "Regulations, executive orders, or administrative directives, implemented after October 9, 2011, that are not necessary to implement the 2011 Realignment Legislation, and that have an overall effect of increasing the costs already borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation, shall apply to local agencies only to the extent that the State provides annual funding for the cost increase; local agencies shall not be obligated to provide such programs or levels of service above the level for which funding has been provided",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)(C)",
+     "kind": "structure",
+     "what": "Any new program or higher level of service provided by local agencies, as described in subparagraphs (A) and (B), above the level for which funding has been provided, shall not require a subvention of funds by the State nor otherwise be subject to Section 6 of Article XIII B",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "This paragraph shall not apply to legislation currently exempt from subvention under paragraph (2) of subdivision (a) of Section 6 of Article XIII B as that paragraph read on January 2, 2011"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)(D)",
+     "kind": "limit",
+     "what": "The State shall not submit to the federal government any plans or waivers, or amendments to those plans or waivers, that have an overall effect of increasing the cost borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [
+      "Submitting to the federal government plans or waivers, or amendments to them, that increase the cost borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except to the extent that the plans, waivers, or amendments are required by federal law, or the State provides annual funding for the cost increase"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)(E)",
+     "kind": "structure",
+     "what": "The State shall not be required to provide a subvention of funds pursuant to this paragraph for a mandate that is imposed by the State at the request of a local agency or to comply with federal law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "State funds required by this paragraph shall be from a source other than those described in subdivisions (b) and (d), ad valorem property taxes, or the Social Services Subaccount of the Sales Tax Account of the Local Revenue Fund"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)(A)",
+     "kind": "duty",
+     "what": "If there are subsequent changes in federal statutes or regulations that alter the conditions under which federal matching funds are obtained, and have the overall effect of increasing the costs incurred by a local agency, the State shall annually provide at least 50 percent of the nonfederal share of those costs as determined by the State",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "For programs described in subparagraphs (C) to (E), inclusive, of paragraph (1) of subdivision (a) and included in the 2011 Realignment Legislation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)(B)",
+     "kind": "duty",
+     "what": "When the State is a party to any complaint brought in a federal judicial or administrative proceeding that involves one or more of those programs, and there is a settlement or judicial or administrative order that imposes a cost in the form of a monetary penalty or has the overall effect of increasing the costs already borne by a local agency for programs or levels of service mandated by the 2011 Realignment Legislation, the State shall annually provide at least 50 percent of the nonfederal share of those costs as determined by the State",
+     "holder": null,
+     "binds": "The State",
+     "requires": [
+      "The state funds provided in this paragraph shall be from funding sources other than those described in subdivisions (b) and (d), ad valorem property taxes, or the Social Services Subaccount of the Sales Tax Account of the Local Revenue Fund"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Payment by the State is not required if the State determines that the settlement or order relates to one or more local agencies failing to perform a ministerial duty, failing to perform a legal obligation in good faith, or acting in a negligent or reckless manner"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "right",
+     "what": "If the State or a local agency fails to perform a duty or obligation under this section or under the 2011 Realignment Legislation, an appropriate party may seek judicial relief",
+     "holder": "An appropriate party",
+     "binds": null,
+     "requires": [
+      "These proceedings shall have priority over all other civil matters"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If the State or a local agency fails to perform a duty or obligation under this section or under the 2011 Realignment Legislation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(7)",
+     "kind": "duty",
+     "what": "The funds deposited into a County Local Revenue Fund 2011 shall be spent in a manner designed to maintain the State’s eligibility for federal matching funds, and to ensure compliance by the State with applicable federal standards governing the State’s provision of Public Safety Services",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(8)",
+     "kind": "limit",
+     "what": "The funds deposited into a County Local Revenue Fund 2011 shall not be used by local agencies to supplant other funding for Public Safety Services",
+     "holder": null,
+     "binds": "Local agencies",
+     "requires": [],
+     "forbids": [
+      "Using the funds to supplant other funding for Public Safety Services"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "If the taxes described in subdivision (b) are reduced or cease to be operative, the State shall annually provide moneys to the Local Revenue Fund 2011 in an amount equal to or greater than the aggregate amount that otherwise would have been provided by the taxes described in subdivision (b)",
+     "holder": null,
+     "binds": "The State",
+     "requires": [
+      "The method for determining that amount shall be described in the 2011 Realignment Legislation",
+      "the State shall be obligated to provide that amount for so long as the local agencies are required to perform the Public Safety Services responsibilities assigned by the 2011 Realignment Legislation"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If the taxes described in subdivision (b) are reduced or cease to be operative"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "If the State fails to annually appropriate that amount, the Controller shall transfer that amount from the General Fund in pro rata monthly shares to the Local Revenue Fund 2011, and shall disburse these amounts to local agencies in the manner directed by the 2011 Realignment Legislation",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the State fails to annually appropriate that amount"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The state obligations under this subdivision shall have a lower priority claim to General Fund money than the first priority for money to be set apart under Section 8 of Article XVI and the second priority to pay voter-approved debts and liabilities described in Section 1 of Article XVI",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(1)",
+     "kind": "structure",
+     "what": "The Education Protection Account is hereby created in the General Fund to receive and disburse the revenues derived from the incremental increases in taxes imposed by this section, as specified in subdivision (f)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(A)",
+     "kind": "duty",
+     "what": "Before June 30, 2013, and before June 30 of each year from 2014 to 2030, inclusive, the Director of Finance shall estimate the total amount of additional revenues, less refunds, that will be derived from the incremental increases in tax rates made in subdivision (f) that will be available for transfer into the Education Protection Account during the next fiscal year; and shall make the same estimate by January 10, 2013, for revenues to be received by the end of the 2012–13 fiscal year",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(B)",
+     "kind": "duty",
+     "what": "During the last 10 days of the quarter of each of the first three quarters of each fiscal year from 2013–14 to 2030–31, inclusive, the Controller shall transfer into the Education Protection Account one-fourth of the total amount estimated pursuant to subparagraph (A) for that fiscal year",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as this amount may be adjusted pursuant to subparagraph (D)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(C)",
+     "kind": "duty",
+     "what": "In each of the fiscal years from 2012–13 to 2032–33, inclusive, the Director of Finance shall calculate an adjustment to the Education Protection Account by adding together the recalculated estimate, less amounts previously transferred, and the final determination of revenues for the fiscal year ending two years prior, less the updated estimate for that year",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [
+      "In the last quarter of each fiscal year from 2012–13 to 2030–31, inclusive, the Director of Finance shall recalculate the estimate made for the fiscal year pursuant to subparagraph (A), and shall subtract from this updated estimate the amounts previously transferred to the Education Protection Account for that fiscal year",
+      "In June 2015 and in every June from 2016 to 2033, inclusive, the Director of Finance shall make a final determination of the amount of additional revenues, less refunds, derived from the incremental increases in tax rates made in subdivision (f) for the fiscal year ending two years prior"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(D)",
+     "kind": "duty",
+     "what": "If the sum determined pursuant to subparagraph (C) is positive, the Controller shall transfer an amount equal to that sum into the Education Protection Account within 10 days preceding the end of the fiscal year; if that amount is negative, the Controller shall suspend or reduce subsequent quarterly transfers, if any, until the total reduction equals the negative amount",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [
+      "For purposes of any calculation made pursuant to clause (i) of subparagraph (C), the amount of a quarterly transfer shall not be modified to reflect any suspension or reduction made pursuant to this subparagraph"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(E)",
+     "kind": "duty",
+     "what": "Before June 30, 2018, and before June 30 of each year from 2019 to 2030, inclusive, the Director of Finance shall estimate the amount of the additional revenues, less refunds, to be derived in the following fiscal year from the incremental increases in tax rates made in subdivision (f), that, when combined with all other available General Fund revenues, will be required to meet the minimum funding guarantee of Section 8 of Article XVI and the workload budget for that following fiscal year",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"workload budget\": has the meaning set forth in Section 13308.05 of the Government Code, as that section read and was interpreted by the Department of Finance on January 1, 2016",
+      "\"currently authorized services\": only those services that would have been considered \"currently authorized services\" under Section 13308.05 of the Government Code as of January 1, 2016"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(F)",
+     "kind": "duty",
+     "what": "Whenever the Director of Finance estimates that the amount available for transfer into the Education Protection Account during the following fiscal year exceeds the amount of revenues required from that account pursuant to subparagraph (E), the director shall identify the remaining amount; fifty percent of that remainder, up to a maximum of two billion dollars in any single fiscal year, shall be allocated by the Controller from the Education Protection Account to the California Department of Health Care Services on a quarterly basis to increase funding for the existing health care programs and services described",
+     "holder": null,
+     "binds": "The Director of Finance and the Controller",
+     "requires": [
+      "The funding shall be used only for critical, emergency, acute, and preventive health care services to children and their families, provided by health care professionals and health facilities that are licensed pursuant to Section 1250 of the Health and Safety Code, and to health plans or others that manage the provision of health care for Medi-Cal beneficiaries that are contracting with the California Department of Health Care Services to provide health benefits pursuant to this section"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(G)",
+     "kind": "structure",
+     "what": "The allocation provided for in subparagraph (F) may be suspended by statute during a fiscal year in which a budget emergency has been declared",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the allocation shall not be reduced beyond the proportional reduction in overall General Fund expenditures for that year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"budget emergency\": has the same meaning as in paragraph (2) of subdivision (b) of Section 22 of Article XVI"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)(H)",
+     "kind": "limit",
+     "what": "The funding provided pursuant to subparagraph (F) shall not be used to supplant existing state General Funds for the nonfederal share of payments for those programs and, consistent with federal law, shall be used to obtain federal matching Medicaid funds",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "consistent with federal law, shall be used to obtain federal matching Medicaid funds"
+     ],
+     "forbids": [
+      "Using the funding to supplant existing state General Funds for the nonfederal share of payments for those programs"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(3)",
+     "kind": "structure",
+     "what": "All moneys in the Education Protection Account are hereby continuously appropriated for the support of school districts, county offices of education, charter schools, and community college districts as set forth in this paragraph, and for health care as set forth in subparagraph (F) of paragraph (2)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(3)(A)",
+     "kind": "duty",
+     "what": "Eleven percent of the moneys appropriated for education pursuant to this paragraph shall be allocated quarterly by the Board of Governors of the California Community Colleges to community college districts to provide general purpose funding in proportion to the amounts determined pursuant to Section 84750.5 of the Education Code, as that code section read on November 6, 2012",
+     "holder": null,
+     "binds": "The Board of Governors of the California Community Colleges",
+     "requires": [
+      "The allocations shall be offset by the amounts specified in subdivisions (a), (c), and (d) of Section 84751 of the Education Code that are in excess of the amounts calculated pursuant to Section 84750.5",
+      "no community college district shall receive less than one hundred dollars ($100) per full time equivalent student"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(3)(B)",
+     "kind": "duty",
+     "what": "Eighty-nine percent of the moneys appropriated for education pursuant to this paragraph shall be allocated quarterly by the Superintendent of Public Instruction to provide general purpose funding to school districts, county offices of education, and state general-purpose funding to charter schools in proportion to the revenue limits and amounts calculated pursuant to Sections 2558, 42238 and 47633 of the Education Code, as those sections read on November 6, 2012",
+     "holder": null,
+     "binds": "The Superintendent of Public Instruction",
+     "requires": [
+      "The amounts so calculated shall be offset by the amounts specified in the listed sections of the Education Code that are in excess of the amounts calculated pursuant to Sections 2558, 42238, and 47633",
+      "no school district, county office of education, or charter school shall receive less than two hundred dollars ($200) per unit of average daily attendance"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(4)",
+     "kind": "limit",
+     "what": "This subdivision is self-executing and requires no legislative action to take effect. Distribution of the moneys in the Education Protection Account by the Board of Governors of the California Community Colleges and Superintendent of Public Instruction shall not be delayed or otherwise affected by failure of the Legislature and Governor to enact an annual budget bill pursuant to Section 12 of Article IV, by invocation of subdivision (h) of Section 8 of Article XVI, or by any other action or failure to act by the Legislature or Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(5)",
+     "kind": "limit",
+     "what": "The moneys deposited in the Education Protection Account for education shall not be used to pay any costs incurred by the Legislature, the Governor, or any agency of state government",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Using the moneys to pay any costs incurred by the Legislature, the Governor, or any agency of state government"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Notwithstanding any other provision of law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(6)",
+     "kind": "power",
+     "what": "A community college district, county office of education, school district, or charter school shall have sole authority to determine how the moneys received from the Education Protection Account are spent in the school or schools within its jurisdiction",
+     "holder": "A community college district, county office of education, school district, or charter school",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Using any of the funds from the Education Protection Account for salaries or benefits of administrators or any other administrative costs"
+     ],
+     "conditions": [
+      "the appropriate governing board or body shall make these spending determinations in open session of a public meeting of the governing board or body"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(6)",
+     "kind": "duty",
+     "what": "Each community college district, county office of education, school district, and charter school shall annually publish on its Internet Web site an accounting of how much money was received from the Education Protection Account and how that money was spent",
+     "holder": null,
+     "binds": "Each community college district, county office of education, school district, and charter school",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(7)",
+     "kind": "duty",
+     "what": "The annual independent financial and compliance audit required of community college districts, county offices of education, school districts, and charter schools shall, in addition to all other requirements of law, ascertain and verify whether the funds provided from the Education Protection Account have been properly disbursed and expended as required by this section",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Expenses incurred by those entities to comply with the additional audit requirement of this section may be paid with funding from the Education Protection Account and shall not be considered administrative costs for purposes of this section"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(8)",
+     "kind": "structure",
+     "what": "Revenues, less refunds, derived pursuant to subdivision (f) for deposit in the Education Protection Account shall be deemed \"General Fund revenues,\" \"General Fund proceeds of taxes,\" and \"moneys to be applied by the State for the support of school districts and community college districts\" for purposes of Section 8 of Article XVI",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(1)(A)",
+     "kind": "structure",
+     "what": "In addition to the taxes imposed by Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code, a tax is hereby imposed upon all retailers at the rate of 1/4 percent of the gross receipts from the sale of all tangible personal property sold at retail in this State on and after January 1, 2013, and before January 1, 2017, and an excise tax is hereby imposed on the storage, use, or other consumption in this State of such property at the rate of 1/4 percent of the sales price of the property",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The Sales and Use Tax Law, including any amendments enacted on or after the effective date of this section, shall apply to the taxes imposed pursuant to this paragraph"
+     ],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall become inoperative on January 1, 2017"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(2)",
+     "kind": "structure",
+     "what": "For any taxable year beginning on or after January 1, 2012, and before January 1, 2031, the income tax bracket and the rate of 9.3 percent set forth in paragraph (1) of subdivision (a) of Section 17041 of the Revenue and Taxation Code shall be modified so that the tax rate is 10.3 percent of taxable income over $250,000 but not over $300,000, 11.3 percent over $300,000 but not over $500,000, and 12.3 percent over $500,000, of the excess over each amount",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The income tax brackets shall be recomputed, as otherwise provided in subdivision (h) of Section 17041 of the Revenue and Taxation Code, only for taxable years beginning on and after January 1, 2013",
+      "For purposes of subdivision (g) of Section 19136 of the Revenue and Taxation Code, this paragraph shall be considered to be chaptered on November 6, 2012",
+      "the modified tax brackets and tax rates established and imposed by this paragraph shall be deemed to be established and imposed under Section 17041 of the Revenue and Taxation Code"
+     ],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall become inoperative on December 1, 2031"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "structure",
+     "what": "For any taxable year beginning on or after January 1, 2012, and before January 1, 2031, the income tax bracket and the rate of 9.3 percent set forth in paragraph (1) of subdivision (c) of Section 17041 of the Revenue and Taxation Code shall be modified so that the tax rate is 10.3 percent of taxable income over $340,000 but not over $408,000, 11.3 percent over $408,000 but not over $680,000, and 12.3 percent over $680,000, of the excess over each amount",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The income tax brackets shall be recomputed, as otherwise provided in subdivision (h) of Section 17041 of the Revenue and Taxation Code, only for taxable years beginning on and after January 1, 2013",
+      "For purposes of subdivision (g) of Section 19136 of the Revenue and Taxation Code, this paragraph shall be considered to be chaptered on November 6, 2012",
+      "the modified tax brackets and tax rates established and imposed by this paragraph shall be deemed to be established and imposed under Section 17041 of the Revenue and Taxation Code"
+     ],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall become inoperative on December 1, 2031"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)(1)",
+     "kind": "power",
+     "what": "The Controller, pursuant to his or her statutory authority, may perform audits of expenditures from the Local Revenue Fund 2011 and any County Local Revenue Fund 2011",
+     "holder": "The Controller",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)(1)",
+     "kind": "duty",
+     "what": "The Controller shall audit the Education Protection Account to ensure that those funds are used and accounted for in a manner consistent with this section",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)(2)",
+     "kind": "duty",
+     "what": "The Attorney General or local district attorney shall expeditiously investigate any misuse of moneys from the County Local Revenue Fund 2011 or the Education Protection Account",
+     "holder": null,
+     "binds": "The Attorney General or local district attorney",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)(2)",
+     "kind": "power",
+     "what": "The Attorney General or local district attorney may seek civil or criminal penalties for any misuse of moneys from the County Local Revenue Fund 2011 or the Education Protection Account",
+     "holder": "The Attorney General or local district attorney",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s1": {
+  "review": {
+   "title": "One percent cap on property tax",
+   "plain": "Ad valorem tax on real property may not exceed 1 percent of full cash value, except for taxes to pay certain voter-approved debts, including school bonds approved by 55 percent of voters that meet listed accountability requirements.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may levy a 55 percent vote ad valorem tax"
+   ],
+   "limits": [
+    "shall not exceed One percent (1%) of the full cash value of such property"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The maximum amount of any ad valorem tax on real property shall not exceed One percent (1%) of the full cash value of such property",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Any ad valorem tax on real property exceeding One percent (1%) of the full cash value of such property"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The one percent (1%) tax to be collected by the counties and apportioned according to law to the districts within the counties",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The limitation provided for in subdivision (a) shall not apply to ad valorem taxes or special assessments to pay the interest and redemption charges on any of the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Indebtedness approved by the voters prior to July 1, 1978",
+      "Bonded indebtedness for the acquisition or improvement of real property approved on or after July 1, 1978, by two-thirds of the votes cast by the voters voting on the proposition",
+      "Bonded indebtedness incurred by a school district, community college district, or county office of education for the construction, reconstruction, rehabilitation, or replacement of school facilities, including the furnishing and equipping of school facilities, or the acquisition or lease of real property for school facilities, approved by 55 percent of the voters of the district or county, as appropriate, voting on the proposition on or after the effective date of the measure adding this paragraph"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "structure",
+     "what": "This paragraph shall apply only if the proposition approved by the voters and resulting in the bonded indebtedness includes all of the following accountability requirements",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "A requirement that the proceeds from the sale of the bonds be used only for the purposes specified in Article XIII A, Section 1(b)(3), and not for any other purpose, including teacher and administrator salaries and other school operating expenses",
+      "A list of the specific school facilities projects to be funded and certification that the school district board, community college board, or county office of education has evaluated safety, class size reduction, and information technology needs in developing that list",
+      "A requirement that the school district board, community college board, or county office of education conduct an annual, independent performance audit to ensure that the funds have been expended only on the specific projects listed",
+      "A requirement that the school district board, community college board, or county office of education conduct an annual, independent financial audit of the proceeds from the sale of the bonds until all of those proceeds have been expended for the school facilities projects"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "Notwithstanding any other provisions of law or of this Constitution, school districts, community college districts, and county offices of education may levy a 55 percent vote ad valorem tax pursuant to subdivision (b)",
+     "holder": "School districts, community college districts, and county offices of education",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s2": {
+  "review": {
+   "title": "Full cash value and reassessment of real property",
+   "plain": "Defines full cash value as the 1975–76 assessed value or the value when later purchased, newly constructed or changed in ownership, allows yearly increases up to 2 percent, and lets or requires the Legislature to provide exclusions and base year value transfers for listed situations.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the Legislature may provide that, under appropriate circumstances",
+    "the Legislature may authorize each county board of supervisors, after consultation",
+    "The Legislature may extend the provisions of this subdivision",
+    "the Legislature may provide that the term",
+    "the Legislature may authorize each county board of supervisors to adopt"
+   ],
+   "limits": [
+    "shall not exceed the scope and amount of the benefit",
+    "the owner shall not receive the relief"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The full cash value means the county assessor’s valuation of real property as shown on the 1975–76 tax bill under full cash value or, thereafter, the appraised value of real property when purchased, newly constructed, or a change in ownership has occurred after the 1975 assessment. All real property not already assessed up to the 1975–76 full cash value may be reassessed to reflect that valuation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"full cash value\": the county assessor’s valuation of real property as shown on the 1975–76 tax bill under \"full cash value\" or, thereafter, the appraised value of real property when purchased, newly constructed, or a change in ownership has occurred after the 1975 assessment",
+      "\"newly constructed\": does not include real property that is reconstructed after a disaster, as declared by the Governor, where the fair market value of the real property, as reconstructed, is comparable to its fair market value prior to the disaster; and does not include that portion of an existing structure that consists of the construction or reconstruction of seismic retrofitting components, as defined by the Legislature"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may provide that, under appropriate circumstances and pursuant to definitions and procedures established by the Legislature, any person over the age of 55 years who resides in property that is eligible for the homeowner’s exemption may transfer the base year value of the property entitled to exemption, with the adjustments authorized by subdivision (b), to any replacement dwelling of equal or lesser value located within the same county and purchased or newly constructed by that person as his or her principal residence within two years of the sale of the original property",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall apply to any replacement dwelling that was purchased or newly constructed on or after November 5, 1986"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"any person over the age of 55 years\": includes a married couple one member of which is over the age of 55 years",
+      "\"replacement dwelling\": a building, structure, or other shelter constituting a place of abode, whether real property or personal property, and any land on which it may be situated",
+      "\"two-dwelling unit\": shall be considered as two separate single-family dwellings"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may authorize each county board of supervisors, after consultation with the local affected agencies within the county’s boundaries, to adopt an ordinance making the provisions of this subdivision relating to transfer of base year value also applicable to situations in which the replacement dwellings are located in that county and the original properties are located in another county within this State",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This paragraph applies to any replacement dwelling that was purchased or newly constructed on or after the date the county adopted the provisions of this subdivision relating to transfer of base year value, but does not apply to any replacement dwelling that was purchased or newly constructed before November 9, 1988"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"local affected agency\": any city, special district, school district, or community college district that receives an annual property tax revenue allocation"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may extend the provisions of this subdivision relating to the transfer of base year values from original properties to replacement dwellings of homeowners over the age of 55 years to severely disabled homeowners",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "but only with respect to those replacement dwellings purchased or newly constructed on or after the effective date of this paragraph"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The full cash value base may reflect from year to year the inflationary rate not to exceed 2 percent for any given year or reduction as shown in the consumer price index or comparable data for the area under taxing jurisdiction, or may be reduced to reflect substantial damage, destruction, or other factors causing a decline in value",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "For purposes of subdivision (a), the Legislature may provide that the term newly constructed does not include any of the following: the construction or addition of any active solar energy system; certain fire sprinkler, fire extinguishing, fire detection systems or fire-related egress improvements; certain construction to make a dwelling more accessible to a severely disabled person; certain construction to make a building more accessible to, or more usable by, a disabled person; and the construction or addition, completed on or after January 1, 2019, of a rain water capture system",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "For purposes of this section, the term change in ownership does not include the acquisition of real property as a replacement for comparable property if the person acquiring the real property has been displaced from the property replaced by eminent domain proceedings, by acquisition by a public entity, or governmental action that has resulted in a judgment of inverse condemnation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This subdivision applies to any property acquired after March 1, 1975, but affects only those assessments of that property that occur after the provisions of this subdivision take effect"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"comparable\": the real property acquired shall be deemed comparable to the property replaced if it is similar in size, utility, and function, or if it conforms to state regulations defined by the Legislature governing the relocation of persons displaced by governmental actions"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(1)",
+     "kind": "duty",
+     "what": "Notwithstanding any other provision of this section, the Legislature shall provide that the base year value of property that is substantially damaged or destroyed by a disaster, as declared by the Governor, may be transferred to comparable property within the same county that is acquired or newly constructed as a replacement for the substantially damaged or destroyed property",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Except as provided in paragraph (3), this subdivision applies to any comparable replacement property acquired or newly constructed on or after July 1, 1985, and to the determination of base year values for the 1985–86 fiscal year and fiscal years thereafter"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(3)",
+     "kind": "power",
+     "what": "The Legislature may authorize each county board of supervisors to adopt, after consultation with affected local agencies within the county, an ordinance allowing the transfer of the base year value of property that is located within another county in the State and is substantially damaged or destroyed by a disaster, as declared by the Governor, to comparable replacement property of equal or lesser value that is located within the adopting county and is acquired or newly constructed within three years of the substantial damage or destruction of the original property",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "The scope and amount of the benefit provided by the transfer of base year value under this paragraph exceeding the scope and amount of the benefit provided pursuant to subdivision (a)"
+     ],
+     "conditions": [
+      "This paragraph applies to any comparable replacement property that is acquired or newly constructed as a replacement for property substantially damaged or destroyed by a disaster, as declared by the Governor, occurring on or after October 20, 1991, and to the determination of base year values for the 1991–92 fiscal year and fiscal years thereafter"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"affected local agency\": any city, special district, school district, or community college district that receives an annual allocation of ad valorem property tax revenues"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "For the purposes of subdivision (e), substantially damaged or destroyed and comparable replacement property are defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"substantially damaged or destroyed\": property that sustains physical damage amounting to more than 50 percent of its value immediately before the disaster; damage includes a diminution in the value of property as a result of restricted access caused by the disaster",
+      "\"comparable\": replacement property that is similar in size, utility, and function to the property that it replaces, and whose fair market value is comparable to the fair market value of the replaced property prior to the disaster"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "For purposes of subdivision (a), the terms purchased and change in ownership do not include the purchase or transfer of real property between spouses since March 1, 1975, including, but not limited to, transfers to a trustee for a spouse, transfers that take effect upon death, transfers in connection with a property settlement agreement or decree of dissolution or legal separation, the creation, transfer, or termination of a coowner’s interest solely between spouses, and certain distributions of a legal entity’s property to a spouse or former spouse",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)",
+     "kind": "structure",
+     "what": "For purposes of subdivision (a), the terms purchased and change in ownership do not include the purchase or transfer of the principal residence of the transferor in the case of a purchase or transfer between parents and their children, as defined by the Legislature, and the purchase or transfer of the first one million dollars ($1,000,000) of the full cash value of all other real property between parents and their children",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This subdivision applies to both voluntary transfers and transfers resulting from a court order or judicial decree"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(2)(A)",
+     "kind": "structure",
+     "what": "Commencing with purchases or transfers that occur on or after the date upon which the measure adding this paragraph becomes effective, the exclusion established by paragraph (1) also applies to a purchase or transfer of real property between grandparents and their grandchild or grandchildren, as defined by the Legislature, that otherwise qualifies under paragraph (1)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if all of the parents of that grandchild or those grandchildren, who qualify as the children of the grandparents, are deceased as of the date of the purchase or transfer",
+      "Subject to subparagraph (B)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(2)(B)",
+     "kind": "limit",
+     "what": "A purchase or transfer of a principal residence shall not be excluded pursuant to subparagraph (A) if the transferee grandchild or grandchildren also received a principal residence, or interest therein, through another purchase or transfer that was excludable pursuant to paragraph (1)",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The full cash value of any real property, other than a principal residence, that was transferred to the grandchild or grandchildren pursuant to a purchase or transfer that was excludable pursuant to paragraph (1), and the full cash value of a principal residence that fails to qualify for exclusion as a result of the preceding sentence, shall be included in applying the one-million-dollar ($1,000,000) full cash value limit specified in paragraph (1)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(1)",
+     "kind": "duty",
+     "what": "Notwithstanding any other provision of this section, the Legislature shall provide with respect to a qualified contaminated property that either, but not both, of the following apply: the base year value of the qualified contaminated property may be transferred to a replacement property; or the term new construction does not include the repair or replacement of a structure substantially damaged or destroyed by the remediation of the environmental problems on that property",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "the replacement real property has a fair market value that is equal to or less than the fair market value of the qualified contaminated property if that property were not contaminated and, except as otherwise provided by this clause, is located within the same county",
+      "The base year value of the qualified contaminated property may be transferred to a replacement real property located within another county if the board of supervisors of that other county has, after consultation with the affected local agencies within that county, adopted a resolution authorizing an intercounty transfer of base year value",
+      "This subparagraph applies only to replacement property that is acquired or newly constructed within five years after ownership in the qualified contaminated property is sold or otherwise transferred",
+      "provided that the repaired or replacement structure is similar in size, utility, and function to the original structure"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(2)",
+     "kind": "structure",
+     "what": "For purposes of this subdivision, qualified contaminated property means residential or nonresidential real property that is all of the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"qualified contaminated property\": residential or nonresidential real property that is rendered uninhabitable or unusable as the result of environmental problems or their remediation, except where the existence of the environmental problems was known to the owner, or to a related individual or entity, at the time the real property was acquired or constructed; located on a site designated as a toxic or environmental hazard or as an environmental cleanup site by an agency of the State of California or the federal government; containing a structure substantially damaged or destroyed as a result of environmental cleanup activities; and stipulated by the lead governmental agency not to have been rendered uninhabitable or unusable by any act or omission in which an owner of that real property participated or acquiesced",
+      "\"uninhabitable\": residential real property that, as a result of health hazards caused by or associated with the environmental problems, is unfit for human habitation",
+      "\"unusable\": nonresidential real property that, as a result of health hazards caused by or associated with the environmental problems, is unhealthy and unsuitable for occupancy"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(3)",
+     "kind": "structure",
+     "what": "It shall be rebuttably presumed that an owner of the real property participated or acquiesced in any act or omission that rendered the real property uninhabitable or unusable, as applicable, if that owner is related to any individual or entity that committed that act or omission in any of the listed ways",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Is a spouse, parent, child, grandparent, grandchild, or sibling of that individual",
+      "Is a corporate parent, subsidiary, or affiliate of that entity",
+      "Is an owner of, or has control of, that entity",
+      "Is owned or controlled by that entity"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(3)",
+     "kind": "limit",
+     "what": "If this presumption is not overcome, the owner shall not receive the relief provided for in subparagraph (A) or (B) of paragraph (1)",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The presumption may be overcome by presentation of satisfactory evidence to the assessor, who shall not be bound by the findings of the lead governmental agency in determining whether the presumption has been overcome"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If this presumption is not overcome"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(4)",
+     "kind": "structure",
+     "what": "This subdivision applies only to replacement property that is acquired or constructed on or after January 1, 1995, and to property repairs performed on or after that date",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "structure",
+     "what": "Unless specifically provided otherwise, amendments to this section adopted prior to November 1, 1988, are effective for changes in ownership that occur, and new construction that is completed, after the effective date of the amendment; amendments adopted after November 1, 1988, are effective for changes in ownership that occur, and new construction that is completed, on or after the effective date of the amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s2.1": {
+  "review": {
+   "title": "Moving and inheriting taxable value of homes",
+   "plain": "From April 1, 2021, owners over 55, severely disabled, or wildfire or disaster victims may transfer their home's taxable value to a replacement home anywhere in the state. From February 16, 2021, parent-child and some grandparent transfers of a family home or farm keep its taxable value up to a limit.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Right",
+   "rights": [
+    "may transfer the taxable value of their primary residence to a replacement primary residence located anywhere in this state",
+    "shall be entitled to a refund of taxes previously owed or paid"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be allowed to transfer the taxable value of a primary residence more than three times"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "It is the intent of the Legislature in proposing, and the people in adopting, this section to limit property tax increases on primary residences by removing unfair location restrictions on homeowners who are severely disabled, victims of wildfires or other natural disasters, or seniors over 55 years of age, and to limit property tax increases on family homes used as a primary residence by protecting the right of parents and grandparents to pass on their family home to their children and grandchildren, while eliminating unfair tax loopholes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "right",
+     "what": "Beginning on and after April 1, 2021, an owner of a primary residence who is over 55 years of age, severely disabled, or a victim of a wildfire or natural disaster may transfer the taxable value of their primary residence to a replacement primary residence located anywhere in this state, regardless of the location or value of the replacement primary residence, that is purchased or newly constructed as that person’s principal residence within two years of the sale of the original primary residence",
+     "holder": "An owner of a primary residence who is over 55 years of age, severely disabled, or a victim of a wildfire or natural disaster",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to applicable procedures and definitions as provided by statute",
+      "Notwithstanding any other provision of this Constitution or any other law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "For any transfer of taxable value to a replacement primary residence of equal or lesser value than the original primary residence, the taxable value of the replacement primary residence shall be deemed to be the taxable value of the original primary residence; for a replacement of greater value, it shall be calculated by adding the difference between the full cash value of the original primary residence and the full cash value of the replacement primary residence to the taxable value of the original primary residence",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "limit",
+     "what": "An owner of a primary residence who is over 55 years of age or severely disabled shall not be allowed to transfer the taxable value of a primary residence more than three times pursuant to this subdivision",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Transferring the taxable value of a primary residence more than three times"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "duty",
+     "what": "Any person who seeks to transfer the taxable value of their primary residence pursuant to this subdivision shall file an application with the assessor of the county in which the replacement primary residence is located",
+     "holder": null,
+     "binds": "Any person who seeks to transfer the taxable value of their primary residence",
+     "requires": [
+      "The application shall, at minimum, include information comparable to that identified in paragraph (1) of subdivision (f) of Section 69.5 of the Revenue and Taxation Code, as that section read on January 1, 2020"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "structure",
+     "what": "Beginning on and after February 16, 2021, for purposes of subdivision (a) of Section 2, the terms purchased and change in ownership do not include the purchase or transfer of a family home of the transferor in the case of a transfer between parents and their children, as defined by the Legislature, if the property continues as the family home of the transferee. The new taxable value of the family home of the transferee shall be the sum of the taxable value of the family home determined as of the date immediately prior to the purchase or transfer, plus zero dollars if the assessed value is less than that taxable value plus one million dollars ($1,000,000), or else the assessed value minus the sum of that taxable value and one million dollars ($1,000,000)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the property continues as the family home of the transferee",
+      "This subdivision shall apply to both voluntary transfers and transfers resulting from a court order or judicial decree"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "structure",
+     "what": "Paragraph (1) shall also apply to a purchase or transfer of the family home between grandparents and their grandchildren",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if all of the parents of those grandchildren, who qualify as children of the grandparents, are deceased as of the date of the purchase or transfer"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "structure",
+     "what": "Paragraphs (1) and (2) shall also apply to the purchase or transfer of a family farm; any reference to a family home in paragraph (1) or (2) shall be deemed to instead refer to a family farm",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "duty",
+     "what": "Beginning on February 16, 2023, and every other February 16 thereafter, the State Board of Equalization shall adjust the one million dollar ($1,000,000) amount described in paragraph (1) for inflation to reflect the percentage change in the House Price Index for California for the prior calendar year, as determined by the Federal Housing Finance Agency, and shall calculate and publish the adjustments",
+     "holder": null,
+     "binds": "The State Board of Equalization",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)(A)",
+     "kind": "duty",
+     "what": "In order to receive the property tax benefit provided by this section for the purchase or transfer of a family home, the transferee shall claim the homeowner’s exemption or disabled veteran’s exemption at the time of the purchase or transfer of the family home",
+     "holder": null,
+     "binds": "The transferee",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to subparagraph (B)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)(B)",
+     "kind": "right",
+     "what": "A transferee who fails to claim the homeowner’s exemption or disabled veteran’s exemption at the time of the purchase or transfer of the family home may receive the property tax benefit provided by this section by claiming the exemption within one year of the purchase or transfer of the family home and shall be entitled to a refund of taxes previously owed or paid between the date of the transfer and the date the transferee claims the exemption",
+     "holder": "A transferee who fails to claim the homeowner’s exemption or disabled veteran’s exemption at the time of the purchase or transfer",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Subdivision (h) of Section 2 shall apply to any purchase or transfer that occurs on or before February 15, 2021, but shall not apply to any purchase or transfer occurring after that date. Subdivision (h) of Section 2 shall be inoperative as of February 16, 2021",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "For purposes of this section, the listed terms are defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Disabled veteran’s exemption\": the exemption authorized by subdivision (a) of Section 4 of Article XIII",
+      "\"Family farm\": any real property which is under cultivation or which is being used for pasture or grazing, or that is used to produce any agricultural commodity, as that term is defined in Section 51201 of the Government Code as that section read on January 1, 2020",
+      "\"Family home\": has the same meaning as \"principal residence,\" as that term is used in subdivision (k) of Section 3 of Article XIII",
+      "\"Full cash value\": has the same meaning as defined in subdivision (a) of Section 2",
+      "\"Homeowner’s exemption\": the exemption provided by subdivision (k) of Section 3 of Article XIII",
+      "\"Natural disaster\": the existence, as declared by the Governor, of conditions of disaster or extreme peril to the safety of persons or property within the affected area caused by conditions such as fire, flood, drought, storm, mudslide, earthquake, civil disorder, foreign invasion, or volcanic eruption",
+      "\"Primary residence\": a residence eligible for either the homeowner’s exemption or the disabled veteran’s exemption",
+      "\"Principal residence\": as used in subdivision (b), has the same meaning as that term is used in subdivision (a) of Section 2",
+      "\"Replacement primary residence\": has the same meaning as \"replacement dwelling,\" as that term is defined in subdivision (a) of Section 2",
+      "\"Taxable value\": the base year value determined in accordance with subdivision (a) of Section 2 plus any adjustment authorized by subdivision (b) of Section 2",
+      "\"Victim of a wildfire or natural disaster\": the owner of a primary residence that has been substantially damaged as a result of a wildfire or natural disaster that amounts to more than 50 percent of the improvement value of the primary residence immediately before the wildfire or natural disaster; \"damage\" includes a diminution in the value of the primary residence as a result of restricted access caused by the wildfire or natural disaster",
+      "\"Wildfire\": has the same meaning as defined in subdivision (j) of Section 51177 of the Government Code, as that section read on January 1, 2020"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s2.2": {
+  "review": {
+   "title": "Fire response and county revenue funds",
+   "plain": "Creates the California Fire Response Fund and County Revenue Protection Fund. The Director of Finance calculates the state's yearly gains from Section 2.1, the Controller transfers 75 and 15 percent of them to those funds, and fire fund money goes to expand fire suppression staffing.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be appropriated for any other purpose",
+    "the Controller shall not transfer the amount in excess of that 10 percent"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "It is the intent of the Legislature in proposing, and the people in adopting, this section and Section 2.3 to dedicate revenue for fire protection and emergency response, address inequities in underfunded fire districts, ensure all communities are protected from wildfires, safeguard the lives of millions of Californians, and protect county revenues and other vital local services",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "structure",
+     "what": "The California Fire Response Fund is hereby created within the State Treasury",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "The County Revenue Protection Fund is hereby created within the State Treasury. Moneys in the County Revenue Protection Fund are continuously appropriated, without regard to fiscal year, for the purpose of reimbursing eligible local agencies that incur a negative gain, and paying the administrative costs of the California Department of Tax and Fee Administration, in accordance with Section 2.3",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Moneys in the fund shall only be expended as provided in Section 2.3"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "For purposes of the calculations required by Section 8 of Article XVI, moneys in the California Fire Response Fund and the County Revenue Protection Fund shall be deemed to be General Fund revenues which may be appropriated pursuant to Article XIII B",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(1)",
+     "kind": "duty",
+     "what": "On or before September 1, 2022, and on or before each subsequent September 1 through September 1, 2027, the Director of Finance shall calculate the additional revenues and savings that accrued to the state from the implementation of Section 2.1 during the immediately preceding fiscal year ending on June 30, and shall certify the results to the Legislature and the Controller no later than September 1 of each year",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [
+      "the Director of Finance shall use actual data or best available estimates where actual data is not available",
+      "The calculation shall be final and shall not be adjusted for any subsequent changes in the underlying data"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(2)",
+     "kind": "duty",
+     "what": "On or before September 1, 2028, and each subsequent September 1 thereafter, the Director of Finance shall calculate the additional revenues and savings that accrued to the state from the implementation of Section 2.1 during the immediately preceding fiscal year by multiplying the amount from the immediately preceding fiscal year by the rate of increase in property tax revenues allocated to local agencies in that fiscal year, and shall certify the results to the Legislature and the Controller no later than September 1 of each fiscal year",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [
+      "the Director of Finance shall use actual data or best available estimates where actual data is not available",
+      "The calculation shall be final and shall not be adjusted for any subsequent changes in the underlying data"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "No later than September 15, 2022, and each subsequent September 15 thereafter, the Controller shall transfer from the General Fund to the California Fire Response Fund an amount equal to 75 percent, and to the County Revenue Protection Fund an amount equal to 15 percent, of the amount calculated by the Director of Finance pursuant to subdivision (d) for the applicable year",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [
+      "Moneys transferred to the County Revenue Protection Fund pursuant to this paragraph shall be used to reimburse eligible local agencies with a negative gain, as provided in Section 2.3"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "Moneys in the California Fire Response Fund shall be appropriated by the Legislature in each fiscal year exclusively for the purposes of this section and shall not be appropriated for any other purpose; they may be used upon appropriation without regard to fiscal year and shall be used to expand fire suppression staffing, and not to supplant existing state or local funds utilized for those purposes",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Appropriating moneys in the California Fire Response Fund for any other purpose",
+      "Supplanting existing state or local funds utilized for those purposes"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as otherwise provided in subdivision (g)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(1)",
+     "kind": "duty",
+     "what": "Twenty percent of the moneys in the California Fire Response Fund shall be appropriated to the Department of Forestry and Fire Protection to fund fire suppression staffing",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(2)",
+     "kind": "duty",
+     "what": "Eighty percent of the moneys in the California Fire Response Fund shall be deposited in the Special District Fire Response Fund, which is hereby created as a subaccount within the California Fire Response Fund, and appropriated to special districts that provide fire protection services in accordance with the listed criteria",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Fifty percent of the amount shall be used to fund fire suppression staffing in underfunded special districts that provide fire protection services, were formed after July 1, 1978, and employ full-time or full-time-equivalent station-based personnel who are immediately available to comprise at least 50 percent of an initial full alarm assignment",
+      "Twenty-five percent of the amount shall be used to fund fire suppression staffing in special districts that provide fire protection services, were formed before July 1, 1978, are underfunded due to a disproportionately low share of property tax revenue and an increase in service level demands since July 1, 1978, and employ full-time or full-time-equivalent station-based personnel who are immediately available to comprise at least 50 percent of an initial full alarm assignment",
+      "Twenty-five percent of the amount shall be used to fund fire suppression staffing in underfunded special districts that provide fire protection services and employ full-time or full-time-equivalent station-based personnel who are immediately available to comprise at least 30 percent but less than 50 percent of an initial full alarm assignment"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "duty",
+     "what": "In determining whether a special district that provides fire protection services is underfunded for purposes of paragraph (2), the Legislature shall take into account the following factors, in order of priority",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "The degree to which the special district’s property tax revenue is insufficient to sustain adequate fire suppression, as measured against the population density, size of the service area, and number of taxpayers within the boundaries of the special district",
+      "Whether the special district, upon formation, received a property tax allocation in accordance with Chapter 282 of the Statutes of 1979",
+      "Geographic diversity"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(4)",
+     "kind": "structure",
+     "what": "The allocation of moneys to a special district that qualifies pursuant to paragraph (2) shall be in the form of grants, with a term of not less than 10 years, in order to ensure that the special district can engage in responsible budgeting and sustain adequate fire suppression services over the long term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "If in any fiscal year after the first fiscal year for which moneys are transferred from the General Fund to the California Fire Response Fund the amount transferred exceeds the amount transferred in the previous fiscal year by more than 10 percent, the Controller shall not transfer the amount in excess of that 10 percent, which shall be available for appropriation from the General Fund for any purpose",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [
+      "Transferring the amount in excess of that 10 percent"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Notwithstanding subdivision (f)"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s2.3": {
+  "review": {
+   "title": "Reimbursing local agencies for Section 2.1 losses",
+   "plain": "Each county determines yearly the revenue gain or loss for itself and its local agencies from Section 2.1. Those with a negative gain are reimbursed every three years by the California Department of Tax and Fee Administration from the County Revenue Protection Fund.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Each county shall annually, no later than the date specified by the California Department of Tax and Fee Administration by regulations, determine the gain for the county and for each local agency in the county resulting from implementation of Section 2.1 by adding the following amounts",
+     "holder": null,
+     "binds": "Each county",
+     "requires": [
+      "The revenue increase resulting from the sale and reassessment of original primary residences for outbound intercounty transfers pursuant to subdivision (b) of Section 2.1",
+      "The revenue decrease, which shall be expressed as a negative number, resulting from the transfer of taxable values of original primary residences located in other counties to replacement primary residences located within the county for inbound intercounty transfers pursuant to subdivision (b) of Section 2.1",
+      "The revenue increase resulting from subdivision (c) of Section 2.1"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "A county or any local agency in the county that has a positive gain shall not be eligible to receive reimbursement from the County Revenue Protection Fund; one that has a negative gain shall be deemed to be an eligible local agency entitled to a reimbursement from the County Revenue Protection Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The California Department of Tax and Fee Administration shall determine each eligible local agency’s aggregate gain every three years, based on the amounts determined pursuant to subdivision (a) for each of those three years, and provide reimbursement to each eligible local agency with a negative gain from the moneys in the County Revenue Protection Fund equal to that amount",
+     "holder": null,
+     "binds": "The California Department of Tax and Fee Administration",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If there are insufficient moneys in that fund to cover the total amount of reimbursements under this section, the California Department of Tax and Fee Administration shall allocate a pro rata share of the moneys in the fund to each eligible local agency based on the amount of the eligible local agency’s reimbursement relative to the total amount of reimbursements under this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "At the end of each three-year period described in subdivision (c), after the California Department of Tax and Fee Administration has reimbursed each eligible local agency that has experienced a negative gain during that three-year period, the Controller shall transfer the remaining balance, if any, in the County Revenue Protection Fund to the General Fund, to be available for appropriation for any purpose",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The California Department of Tax and Fee Administration shall promulgate regulations to implement this section pursuant to the rulemaking provisions of the Administrative Procedure Act, as may be amended from time to time by the Legislature, or any successor to those provisions",
+     "holder": null,
+     "binds": "The California Department of Tax and Fee Administration",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "For purposes of this section and Section 2.2, an eligible local agency is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"eligible local agency\": a county, a city, a city and county, a special district, or a school district as determined pursuant to subdivision (o) of Section 42238.02 of the Education Code as it read on January 8, 2020, that has a negative gain as determined pursuant to this section"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s3": {
+  "review": {
+   "title": "Two-thirds vote for state tax increases",
+   "plain": "A change in state statute that makes any taxpayer pay a higher tax must pass by two-thirds of all members of each house, and no new ad valorem taxes on real property or taxes on its sale may be imposed. The State bears the burden of proof.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "must be imposed by an act passed by not less than two-thirds of all members elected to each of the two houses of the Legislature",
+    "no new ad valorem taxes on real property, or sales or transaction taxes on the sales of real property may be imposed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Any change in state statute which results in any taxpayer paying a higher tax must be imposed by an act passed by not less than two-thirds of all members elected to each of the two houses of the Legislature",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "an act passed by not less than two-thirds of all members elected to each of the two houses of the Legislature"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No new ad valorem taxes on real property, or sales or transaction taxes on the sales of real property may be imposed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "New ad valorem taxes on real property, or sales or transaction taxes on the sales of real property"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "As used in this section, tax means any levy, charge, or exaction of any kind imposed by the State, except the listed charges",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"tax\": any levy, charge, or exaction of any kind imposed by the State, except a charge imposed for a specific benefit conferred or privilege granted directly to the payor that is not provided to those not charged and does not exceed the reasonable costs to the State of conferring it; a charge imposed for a specific government service or product provided directly to the payor that is not provided to those not charged and does not exceed the reasonable costs to the State of providing it; a charge imposed for the reasonable regulatory costs to the State incident to issuing licenses and permits, performing investigations, inspections, and audits, enforcing agricultural marketing orders, and the administrative enforcement and adjudication thereof; a charge imposed for entrance to or use of state property, or the purchase, rental, or lease of state property, except charges governed by Section 15 of Article XI; and a fine, penalty, or other monetary charge imposed by the judicial branch of government or the State, as a result of a violation of law"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Any tax adopted after January 1, 2010, but prior to the effective date of this act, that was not adopted in compliance with the requirements of this section is void 12 months after the effective date of this act",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the tax is reenacted by the Legislature and signed into law by the Governor in compliance with the requirements of this section"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The State bears the burden of proving by a preponderance of the evidence that a levy, charge, or other exaction is not a tax, that the amount is no more than necessary to cover the reasonable costs of the governmental activity, and that the manner in which those costs are allocated to a payor bear a fair or reasonable relationship to the payor’s burdens on, or benefits received from, the governmental activity",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s4": {
+  "review": {
+   "title": "Local special taxes by two-thirds vote",
+   "plain": "Cities, counties and special districts may impose special taxes by a two-thirds vote of their qualified electors, except ad valorem taxes on real property or transaction or sales taxes on the sale of real property.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may impose special taxes on such district"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Cities, Counties and special districts, by a two-thirds vote of the qualified electors of such district, may impose special taxes on such district",
+     "holder": "Cities, Counties and special districts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by a two-thirds vote of the qualified electors of such district"
+     ],
+     "exceptions": [
+      "except ad valorem taxes on real property or a transaction tax or sales tax on the sale of real property within such City, County or special district"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

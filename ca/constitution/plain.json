@@ -1245,5 +1245,3204 @@
    "the Governor may fill a vacancy in office by appointment"
   ],
   "limits": []
+ },
+ "a5-s6": {
+  "title": "Reorganizing executive functions",
+  "plain": "A statute may give the Governor authority to assign and reorganize functions among executive officers and agencies and their employees, other than elective officers and agencies they administer.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "Authority may be provided by statute for the Governor to assign and reorganize functions among executive officers and agencies and their employees"
+  ],
+  "limits": []
+ },
+ "a5-s7": {
+  "title": "Governor as commander in chief of the militia",
+  "plain": "The Governor is commander in chief of a militia that shall be provided by statute, and may call it forth to execute the law.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Governor is commander in chief of a militia",
+   "The Governor may call it forth to execute the law"
+  ],
+  "limits": []
+ },
+ "a5-s8": {
+  "title": "Pardons, reprieves and review of parole",
+  "plain": "The Governor may grant reprieves, pardons and commutations after sentence, except in impeachment, and must report each to the Legislature. Parole decisions for murder sentences wait 30 days so the Governor may affirm, modify or reverse them.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may grant a reprieve, pardon, and commutation, after sentence",
+   "the Governor may review the decision"
+  ],
+  "limits": [
+   "The Governor may not grant a pardon or commutation to a person twice convicted of a felony",
+   "may only affirm, modify, or reverse the decision of the parole authority on the basis of the same factors"
+  ]
+ },
+ "a5-s9": {
+  "title": "Lieutenant Governor's qualifications and Senate role",
+  "plain": "The Lieutenant Governor must have the same qualifications as the Governor, and is President of the Senate but has only a casting vote.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "has only a casting vote"
+  ]
+ },
+ "a5-s10": {
+  "title": "Succession to the office of Governor",
+  "plain": "The Lieutenant Governor becomes Governor when the office is vacant and acts as Governor during the Governor's impeachment, absence or temporary disability. The Legislature sets the further order of succession, and the Supreme Court decides all questions under this section.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The Supreme Court has exclusive jurisdiction to determine all questions arising under this section",
+   "Standing to raise questions of vacancy or temporary disability is vested exclusively in a body provided by statute"
+  ],
+  "limits": []
+ },
+ "a5-s11": {
+  "title": "Election and term limits of statewide officers",
+  "plain": "The Lieutenant Governor, Attorney General, Controller, Secretary of State and Treasurer are elected at the same time and places and for the same term as the Governor, and none may serve in the same office for more than 2 terms.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may serve in the same office for more than 2 terms"
+  ]
+ },
+ "a5-s13": {
+  "title": "Attorney General as chief law officer",
+  "plain": "Subject to the Governor, the Attorney General is the State's chief law officer, must see that the laws are uniformly and adequately enforced, supervises district attorneys and sheriffs, and may prosecute violations in a county where a law is not adequately enforced.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "shall have direct supervision over every district attorney and sheriff",
+   "may require any of said officers to make reports",
+   "the Attorney General shall have all the powers of a district attorney"
+  ],
+  "limits": []
+ },
+ "a5-s14": {
+  "title": "Limits on state officers' income, honoraria and gifts",
+  "plain": "State officers may not knowingly take earned income from lobbyists or certain state contractors, accept honoraria, or accept pay to appear before state boards or agencies. The Legislature must enact laws on gifts and post-office lobbying.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no state officer may knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm",
+   "No state officer may accept any honorarium",
+   "No state officer may knowingly accept any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any state government board or agency"
+  ]
+ },
+ "a6-s1": {
+  "title": "Judicial power of the State",
+  "plain": "The judicial power of the State is vested in the Supreme Court, courts of appeal and superior courts, all of which are courts of record.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The judicial power of this State is vested in the Supreme Court, courts of appeal, and superior courts"
+  ],
+  "limits": []
+ },
+ "a6-s2": {
+  "title": "The Supreme Court",
+  "plain": "The Supreme Court has the Chief Justice and 6 associate justices; the Chief Justice may convene it at any time, and a judgment needs 4 judges concurring. An acting Chief Justice serves when the Chief Justice is absent or unable to act.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The Chief Justice may convene the court at any time"
+  ],
+  "limits": []
+ },
+ "a6-s3": {
+  "title": "Courts of appeal",
+  "plain": "The Legislature shall divide the State into court of appeal districts. Each division has a presiding justice and 2 or more associate justices, sits as a 3-judge court, and needs 2 judges concurring for a judgment.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "It has the power of a court of appeal"
+  ],
+  "limits": []
+ },
+ "a6-s4": {
+  "title": "Superior courts and appellate divisions",
+  "plain": "Each county has a superior court of one or more judges, with an appellate division. The Legislature sets the number of judges and may, if each affected county concurs, have judges serve more than one superior court.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the Legislature may provide that one or more judges serve more than one superior court"
+  ],
+  "limits": []
+ },
+ "a6-s6": {
+  "title": "The Judicial Council",
+  "plain": "Sets the membership of the Judicial Council, which surveys judicial business, makes recommendations and adopts rules of court consistent with statute. The Chief Justice seeks to expedite and equalize judges' work and may assign judges to other courts.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The council may appoint an Administrative Director of the Courts",
+   "The Chief Justice may provide for the assignment of any judge to another court"
+  ],
+  "limits": [
+   "The rules adopted shall not be inconsistent with statute"
+  ]
+ },
+ "a6-s7": {
+  "title": "Commission on Judicial Appointments",
+  "plain": "The Commission on Judicial Appointments consists of the Chief Justice, the Attorney General, and the presiding justice of the affected court of appeal district who has presided longest, or for the Supreme Court, the longest-serving presiding justice of any court of appeal.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s8": {
+  "title": "Commission on Judicial Performance",
+  "plain": "The Commission on Judicial Performance has judges, State Bar members and citizens appointed by the Supreme Court, Governor, Senate Committee on Rules and Speaker. Terms are four years, no member serves more than two terms, and staggered first terms began March 1, 1995.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No member shall serve more than two four-year terms",
+   "may not appoint them to an additional term thereafter"
+  ]
+ },
+ "a6-s9": {
+  "title": "The State Bar of California",
+  "plain": "The State Bar of California is a public corporation. Every person admitted and licensed to practice law in the State is a member, except while serving as a judge of a court of record.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s10": {
+  "title": "Original jurisdiction of the courts",
+  "plain": "The Supreme Court, courts of appeal, superior courts and their judges have original jurisdiction in habeas corpus and in mandamus, certiorari and prohibition proceedings. Superior courts have original jurisdiction in all other causes, and a court may comment on the evidence and witnesses.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "have original jurisdiction in habeas corpus proceedings",
+   "Those courts also have original jurisdiction in proceedings for extraordinary relief",
+   "The appellate division of the superior court has original jurisdiction",
+   "Superior courts have original jurisdiction in all other causes",
+   "The court may make any comment on the evidence and the testimony and credibility of any witness"
+  ],
+  "limits": []
+ },
+ "a6-s11": {
+  "title": "Appellate jurisdiction",
+  "plain": "The Supreme Court has appellate jurisdiction when a death judgment is pronounced; courts of appeal and the superior court's appellate division hear other appeals as the text and statute provide. The Legislature may change the jurisdictional amount and let appellate courts take evidence.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Supreme Court has appellate jurisdiction",
+   "courts of appeal have appellate jurisdiction",
+   "the Legislature may change the appellate jurisdiction of the courts of appeal",
+   "the appellate division of the superior court has appellate jurisdiction in causes prescribed by statute",
+   "The Legislature may permit courts exercising appellate jurisdiction to take evidence and make findings of fact"
+  ],
+  "limits": []
+ },
+ "a6-s12": {
+  "title": "Supreme Court transfer and review",
+  "plain": "Before decision, the Supreme Court may transfer a cause from a court of appeal to itself, or from itself or one court of appeal to another, and may review any court of appeal decision. This section does not apply to death-judgment appeals.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may, before decision, transfer to itself a cause in a court of appeal",
+   "transfer a cause from itself to a court of appeal or from one court of appeal or division to another",
+   "The Supreme Court may review the decision of a court of appeal in any cause"
+  ],
+  "limits": []
+ },
+ "a6-s13": {
+  "title": "Judgments not set aside for harmless error",
+  "plain": "No judgment may be set aside or new trial granted for jury misdirection, evidence rulings, or errors of pleading or procedure unless, after examining the entire cause, the court finds the error resulted in a miscarriage of justice.",
+  "category": "The Courts",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No judgment shall be set aside, or new trial granted"
+  ]
+ },
+ "a6-s14": {
+  "title": "Publication and written decisions",
+  "plain": "The Legislature must provide for prompt publication of the Supreme Court and courts of appeal opinions the Supreme Court deems appropriate, which any person may publish. Decisions that determine causes must be in writing with reasons stated.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [
+   "those opinions shall be available for publication by any person"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s15": {
+  "title": "Qualifications of judges",
+  "plain": "A person cannot be a judge of a court of record unless, for the 10 years just before selection, the person was a State Bar member or a judge of a court of record in California.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s16": {
+  "title": "Election and terms of judges",
+  "plain": "Supreme Court and court of appeal judges are elected for 12-year terms, and superior court judges for six-year terms. Appellate judges run unopposed in yes-or-no retention elections, the Governor fills appellate vacancies subject to confirmation, and county electors may adopt that system for superior courts.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may provide for their election by the system prescribed in subdivision (d), or by any other arrangement",
+   "The Legislature may provide that an unopposed incumbent’s name not appear on the ballot",
+   "may file a declaration of candidacy to succeed to the office presently held by the judge",
+   "may make this system of selection applicable to judges of superior courts"
+  ],
+  "limits": [
+   "only the candidate so declared or nominated may appear on the ballot",
+   "A candidate not elected may not be appointed to that court"
+  ]
+ },
+ "a6-s17": {
+  "title": "Judges barred from other work and office",
+  "plain": "A judge of a court of record may not practice law or, during the term, hold other public office or employment except part-time teaching; a trial judge may run for other office after taking unpaid leave. Judicial officers may not keep fines or fees or earn teaching retirement credit.",
+  "category": "The Courts",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not practice law",
+   "is ineligible for public employment or public office other than judicial employment or judicial office",
+   "may not receive fines or fees for personal use",
+   "may not earn retirement service credit from a public teaching position"
+  ]
+ },
+ "a6-s18": {
+  "title": "Discipline and removal of judges",
+  "plain": "Judges are disqualified while facing felony charges or review of their removal. The Commission on Judicial Performance may disqualify, retire, censure, remove or admonish judges, must suspend and remove judges convicted of serious crimes, and the Supreme Court may review its decisions.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [
+   "shall be absolutely immune from suit"
+  ],
+  "powers": [
+   "may disqualify a judge from acting as a judge",
+   "retire a judge for disability",
+   "censure a judge or former judge or remove a judge",
+   "publicly or privately admonish a judge or former judge",
+   "The commission may also bar a former judge who has been censured from receiving an assignment, appointment, or reference of work",
+   "the Supreme Court may, in its discretion, grant review",
+   "it may make an independent review of the record",
+   "The State Bar may institute appropriate attorney disciplinary proceedings",
+   "The commission may provide for the confidentiality of complaints",
+   "The commission may make explanatory statements"
+  ],
+  "limits": [
+   "A judge is disqualified from acting as a judge",
+   "No court, except the Supreme Court, shall have jurisdiction",
+   "No civil action may be maintained against a person"
+  ]
+ },
+ "a6-s18.1": {
+  "title": "Discipline of subordinate judicial officers",
+  "plain": "The Commission on Judicial Performance oversees and disciplines subordinate judicial officers under the same standards and review as Section 18. A person found unfit after a commission hearing cannot serve as one, and courts keep initial authority to discipline or dismiss them.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall have the requisite status to serve as a subordinate judicial officer"
+  ]
+ },
+ "a6-s18.5": {
+  "title": "Sharing judicial discipline records",
+  "plain": "On request, the Commission on Judicial Performance must give a state governor, the President or the Commission on Judicial Appointments its disciplinary records on a judicial applicant. The information stays confidential but is also given to the applicant.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [
+   "shall also be provided to the applicant about whom the information was requested"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s19": {
+  "title": "Judges' pay and undecided cases",
+  "plain": "The Legislature must set the pay of judges of courts of record. A judge may not receive salary while any cause before the judge stays undecided for 90 days after submission.",
+  "category": "The Courts",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not receive the salary for the judicial office held by the judge"
+  ]
+ },
+ "a6-s20": {
+  "title": "Retirement of judges",
+  "plain": "The Legislature must provide for the retirement of judges of courts of record, with reasonable allowance, for age or disability.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s21": {
+  "title": "Temporary judges",
+  "plain": "If the parties agree, the court may order a cause tried by a temporary judge who is a State Bar member, sworn and empowered to act until the cause is finally determined.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may order a cause to be tried by a temporary judge"
+  ],
+  "limits": []
+ },
+ "a6-s22": {
+  "title": "Court commissioners",
+  "plain": "The Legislature may provide for trial courts of record to appoint officers such as commissioners to perform subordinate judicial duties.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Legislature may provide for the appointment by trial courts of record of officers such as commissioners"
+  ],
+  "limits": []
+ },
+ "a7-s1": {
+  "title": "The civil service",
+  "plain": "The civil service includes every state officer and employee unless the Constitution provides otherwise. Permanent appointments and promotions are made under a merit system based on competitive examination.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a7-s2": {
+  "title": "The State Personnel Board",
+  "plain": "A 5-member Personnel Board is appointed by the Governor and approved by the Senate for 10-year terms, and members may be removed by a two-thirds vote of each house. The board elects a presiding officer and appoints an executive officer.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "A member may be removed by concurrent resolution adopted by each house"
+  ],
+  "limits": []
+ },
+ "a7-s3": {
+  "title": "Duties of the Personnel Board",
+  "plain": "The board must enforce the civil service statutes and, by majority vote of all members, set probationary periods and classifications, adopt rules authorized by statute, and review disciplinary actions. The executive officer administers the statutes under board rules.",
+  "category": "Public Officers & Employees",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a7-s4": {
+  "title": "Positions exempt from civil service",
+  "plain": "Lists positions exempt from civil service, including legislative and judicial branch staff, elected officers and their deputies, board members, Governor's appointees, university staff, teachers and militia members. The Attorney General, Public Utilities Commission and Legislative Counsel may also appoint a few exempt deputies or employees.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the Attorney General may appoint or employ six deputies or employees",
+   "the Public Utilities Commission may appoint or employ one deputy or employee",
+   "the Legislative Counsel may appoint or employ two deputies or employees"
+  ],
+  "limits": []
+ },
+ "a7-s5": {
+  "title": "Temporary appointments",
+  "plain": "A temporary appointment may be made to a position with no employment list, but no one may serve under temporary appointment longer than 9 months in 12 consecutive months.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may serve in one or more positions under temporary appointment longer than 9 months in 12 consecutive months"
+  ]
+ },
+ "a7-s6": {
+  "title": "Veterans' preference and continuing employees",
+  "plain": "The Legislature may provide preferences for veterans and their surviving spouses. The board may let people in positions newly brought under civil service qualify to stay, and must do so for workers whose work the State takes over.",
+  "category": "Public Officers & Employees",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Legislature may provide preferences for veterans and their surviving spouses",
+   "may permit persons in exempt positions, brought under civil service by constitutional provision, to qualify to continue in their positions"
+  ],
+  "limits": []
+ },
+ "a7-s7": {
+  "title": "No dual lucrative offices",
+  "plain": "A person holding a lucrative office under the United States or other power may not hold a civil office of profit. Low-paid local officers and postmasters, militia officers and most military reservists do not hold lucrative offices for this purpose.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not hold a civil office of profit"
+  ]
+ },
+ "a7-s8": {
+  "title": "Disqualification for bribery and other crimes",
+  "plain": "A person convicted of giving or offering a bribe to get elected or appointed is disqualified from any office of profit. Laws must exclude those convicted of bribery, perjury and other high crimes from office and juries, and protect free suffrage against undue influence.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [
+   "The privilege of free suffrage"
+  ],
+  "powers": [],
+  "limits": [
+   "shall be disqualified from holding any office of profit in this State"
+  ]
+ },
+ "a7-s9": {
+  "title": "Advocates of violent overthrow barred",
+  "plain": "Notwithstanding the rest of the Constitution, no person or organization advocating the violent or unlawful overthrow of the U.S. or state government, or support of a foreign enemy in hostilities, may hold public office or employment or receive a tax exemption. The Legislature must enforce this.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Hold any office or employment under this State",
+   "Receive any exemption from any tax imposed by this State"
+  ]
+ },
+ "a7-s10": {
+  "title": "Office lost for libel or slander of an opponent",
+  "plain": "A person found civilly liable for libel or slander of an opposing candidate that was a major contributing cause of that candidate's defeat shall not retain the seat won. The trier of fact makes a separate written finding, and the office becomes vacant.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be disqualified from or shall forfeit that office",
+   "shall have no authority to exercise the powers or perform the duties of the office"
+  ]
+ },
+ "a7-s11": {
+  "title": "Limits on legislators' and judges' retirement pay",
+  "plain": "For people who first entered a covered state or judicial office on or after January 1, 1987, the Legislators’ and Judges’ Retirement Systems shall not pay a retirement allowance above the higher of the current salary for that office or the retiree's highest salary in it.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may define the terms used in this section"
+  ],
+  "limits": [
+   "The Legislators’ Retirement System shall not pay any unmodified retirement allowance",
+   "The Judges’ Retirement System shall not pay any unmodified retirement allowance"
+  ]
+ },
+ "a9-s1": {
+  "title": "Promotion of knowledge",
+  "plain": "Because a general diffusion of knowledge and intelligence is essential to preserving the people's rights and liberties, the Legislature shall encourage by all suitable means intellectual, scientific, moral, and agricultural improvement.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a9-s2": {
+  "title": "Superintendent of Public Instruction",
+  "plain": "The Superintendent of Public Instruction is elected by the State's voters at each gubernatorial election and takes office the first Monday after January 1 following the election. No Superintendent may serve more than 2 terms.",
+  "category": "Education",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No Superintendent of Public Instruction may serve more than 2 terms"
+  ]
+ },
+ "a9-s2.1": {
+  "title": "Deputy and Associate Superintendents",
+  "plain": "On the Superintendent of Public Instruction's nomination, the State Board of Education appoints one Deputy and three Associate Superintendents, exempt from state civil service, for four-year terms. Additional civil-service Associate Superintendents may still be appointed in accordance with law.",
+  "category": "Education",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall appoint one Deputy Superintendent of Public Instruction and three Associate Superintendents of Public Instruction"
+  ],
+  "limits": []
+ },
+ "a9-s3": {
+  "title": "County superintendents of schools",
+  "plain": "A county superintendent of schools may be elected by the county's voters or appointed by the county board of education, as a majority of the county's voters decide. Two or more counties may unite to elect or appoint one joint superintendent.",
+  "category": "Education",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may be appointed by the county board of education",
+   "unite for the purpose of electing or appointing one joint superintendent"
+  ],
+  "limits": []
+ },
+ "a9-s3.1": {
+  "title": "County superintendent qualifications and salary",
+  "plain": "The Legislature shall prescribe the qualifications of county superintendents of schools and classify the counties for that purpose. The county board of education, or joint county board, fixes the superintendent's salary.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "shall fix the salary of the county superintendent of schools or the joint county superintendent of schools"
+  ],
+  "limits": []
+ },
+ "a9-s3.2": {
+  "title": "Joint county boards and superintendents",
+  "plain": "Two or more counties may, by a majority vote of each county's voters, establish one joint board of education and one joint county superintendent of schools. These are governed by the general statutes, not by any county charter.",
+  "category": "Education",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "establish one joint board of education and one joint county superintendent of schools"
+  ],
+  "limits": [
+   "shall not be governed by the provisions of any county charter"
+  ]
+ },
+ "a9-s3.3": {
+  "title": "County boards of education under county charters",
+  "plain": "Except as provided in Section 3.2 of this article, a county charter, or an amendment to it, may provide for the election of the members of the county board of education and for their qualifications and terms of office.",
+  "category": "Education",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "it shall be competent to provide in any charter framed for a county"
+  ],
+  "limits": []
+ },
+ "a9-s5": {
+  "title": "System of common schools",
+  "plain": "The Legislature shall provide for a system of common schools under which a free school is kept up and supported in each district at least six months every year after a school's first year there.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a9-s6": {
+  "title": "Teacher pay, Public School System and School Fund",
+  "plain": "Sets a minimum $2,400 annual salary for full-time certificated school employees, defines the Public School System and bars transferring any part of it out, and requires minimum per-pupil and per-district amounts from the State School Fund.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [
+   "shall be paid a salary which shall be at the rate of an annual salary of not less than twenty-four hundred dollars ($2,400)"
+  ],
+  "powers": [],
+  "limits": [
+   "No school or college or any other part of the Public School System shall be, directly or indirectly, transferred from the Public School System"
+  ]
+ },
+ "a9-s6½": {
+  "title": "School districts in more than one county",
+  "plain": "The Constitution does not forbid school districts lying in more than one county, or their issuing bonds under general laws. Officers named in those laws may levy taxes to pay the bonds, which are subject to section eighteen of article eleven.",
+  "category": "Education",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall be authorized to levy and assess such taxes and perform all such other acts"
+  ],
+  "limits": []
+ },
+ "a9-s7": {
+  "title": "State and county boards of education",
+  "plain": "The Legislature shall provide for appointing or electing the State Board of Education and a board of education in each county, or for electing a joint county board of education for two or more counties.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a9-s7.5": {
+  "title": "Textbooks for grades one through eight",
+  "plain": "The State Board of Education shall adopt textbooks for grades one through eight throughout the State, to be furnished without cost as provided by statute.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a9-s8": {
+  "title": "No public money for sectarian schools",
+  "plain": "No public money may ever be appropriated to support any sectarian or denominational school, or any school not under the exclusive control of public school officers. No sectarian or denominational doctrine may be taught, or instruction on it permitted, in the common schools.",
+  "category": "Education",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No public money shall ever be appropriated for the support of any sectarian or denominational school",
+   "nor shall any sectarian or denominational doctrine be taught"
+  ]
+ },
+ "a9-s9": {
+  "title": "University of California and its Regents",
+  "plain": "The University of California is a public trust administered by the Regents, with full powers of organization and government subject only to limited legislative control. The section sets the board's membership, terms and selection, its property powers, open meetings, and nondiscrimination in admission.",
+  "category": "Education",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "with full powers of organization and government",
+   "18 appointive members appointed by the Governor and approved by the Senate",
+   "who shall be appointed by the Governor and approved by the Senate",
+   "appoint to the board either or both of the following persons as members with all rights of participation",
+   "shall be vested with the legal title and the management and disposition of the property of the university",
+   "shall have the power to take and hold",
+   "shall also have all the powers necessary or convenient for the effective administration of its trust"
+  ],
+  "limits": [
+   "subject only to such legislative control",
+   "no such appointments shall be made",
+   "may not be regents of the university at the time of their service on the advisory committee",
+   "shall be entirely independent of all political or sectarian influence",
+   "no person shall be debarred admission to any department of the university on account of race, religion, ethnic heritage, or sex"
+  ]
+ },
+ "a9-s14": {
+  "title": "School district organization",
+  "plain": "The Legislature has power, by general law, to provide for incorporating and organizing school, high school, and community college districts, and may classify them. It may authorize school district boards to carry on any programs or activities not in conflict with the laws and purposes of school districts.",
+  "category": "Education",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall have power, by general law, to provide for the incorporation and organization of school districts, high school districts, and community college districts",
+   "may classify such districts",
+   "The Legislature may authorize the governing boards of all school districts to initiate and carry on any programs, activities"
+  ],
+  "limits": []
+ },
+ "a9-s16": {
+  "title": "City charters and boards of education",
+  "plain": "City charters may provide how, when and for what terms members of boards of education are elected or appointed, and for their qualifications, pay, removal and number. Where a district extends beyond the city, changes need approval of the district's voters.",
+  "category": "Education",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "It shall be competent, in all charters framed under the authority given by Section 5 of Article XI, to provide"
+  ],
+  "limits": [
+   "no charter amendment effecting a change in the manner in which, the times at which, or the terms for which the members of the board of education shall be elected or appointed"
+  ]
+ },
+ "a10-s1": {
+  "title": "Eminent domain over navigable water frontages",
+  "plain": "The right of eminent domain is declared to exist in the State to all frontages on the navigable waters of this State.",
+  "category": "Water & Natural Resources",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The right of eminent domain is hereby declared to exist in the State"
+  ],
+  "limits": []
+ },
+ "a10-s2": {
+  "title": "Reasonable and beneficial use of water",
+  "plain": "Water must be put to beneficial use to the fullest extent possible and waste prevented. Any right to water is limited to what is reasonably required for the beneficial use served, without depriving riparian owners or appropriators of what they are entitled to. The section is self-executing.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [
+   "the reasonable use of water of the stream to which the owner’s land is riparian under reasonable methods of diversion and use"
+  ],
+  "powers": [
+   "the Legislature may also enact laws in the furtherance of the policy in this section contained"
+  ],
+  "limits": [
+   "is and shall be limited to such water as shall be reasonably required for the beneficial use to be served",
+   "does not and shall not extend to the waste or unreasonable use or unreasonable method of use or unreasonable method of diversion of water"
+  ]
+ },
+ "a10-s3": {
+  "title": "Tidelands near cities withheld from sale",
+  "plain": "Tidelands within two miles of any incorporated city, city and county, or town and fronting on navigable harbors, estuaries, bays or inlets shall be withheld from grant or sale to private persons, partnerships or corporations, except certain tidelands reserved solely for street purposes.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may be sold to any town, city, county, city and county, municipal corporations, private persons, partnerships or corporations"
+  ],
+  "limits": [
+   "shall be withheld from grant or sale to private persons, partnerships, or corporations"
+  ]
+ },
+ "a10-s4": {
+  "title": "Public access to navigable waters",
+  "plain": "No individual, partnership or corporation holding frontage or tidal lands on navigable water may exclude the right of way to that water when required for a public purpose, or obstruct free navigation. The Legislature shall enact laws so access stays always attainable for the people.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [
+   "access to the navigable waters of this State shall be always attainable for the people thereof"
+  ],
+  "powers": [],
+  "limits": [
+   "shall be permitted to exclude the right of way to such water",
+   "nor to destroy or obstruct the free navigation of such water"
+  ]
+ },
+ "a10-s5": {
+  "title": "Water for sale is a public use",
+  "plain": "The use of water appropriated for sale, rental or distribution is declared a public use, subject to the regulation and control of the State in the manner prescribed by law.",
+  "category": "Water & Natural Resources",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "subject to the regulation and control of the State"
+  ],
+  "limits": []
+ },
+ "a10-s6": {
+  "title": "Collecting water rates is a franchise",
+  "plain": "The right to collect rates or compensation for water supplied to any county, city and county, or town, or their inhabitants, is a franchise and cannot be exercised except by authority of and in the manner prescribed by law.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "cannot be exercised except by authority of and in the manner prescribed by law"
+  ]
+ },
+ "a10-s7": {
+  "title": "Government land acquisitions follow state water law",
+  "plain": "When any local, state or federal government agency acquires an interest in real property in California, accepting the interest is an agreement by the agency to conform to California laws on the acquisition, control, use and distribution of water for that land.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10a-s1": {
+  "title": "Purpose of water protections",
+  "plain": "The people of the State provide the guarantees and protections in this article for water rights, water quality, and fish and wildlife resources.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10a-s2": {
+  "title": "Changes to Senate Bill 200 water protections",
+  "plain": "No statute changing the Senate Bill No. 200 provisions on protecting Delta fish and wildlife, existing Delta water rights, and water quality compliance takes effect unless approved by the electors, except a two-thirds legislative statute that does not reduce protection of the delta or fish and wildlife.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "amend or repeal, or add to, these provisions"
+  ],
+  "limits": [
+   "shall become effective unless approved by the electors"
+  ]
+ },
+ "a10a-s3": {
+  "title": "No export from wild and scenic rivers",
+  "plain": "No water from any component of the California Wild and Scenic Rivers System, as it existed on January 1, 1981, may be appropriated for export into another major hydrologic basin unless expressly authorized first by an initiative statute or a two-thirds vote of each house.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No water shall be available for appropriation by storage in, or by direct diversion from, any of the components of the California Wild and Scenic Rivers System"
+  ]
+ },
+ "a10a-s4": {
+  "title": "Changes to the Delta Protection Act",
+  "plain": "No statute changing the Delta Protection Act in the Water Code takes effect unless approved by the electors, except a statute passed by two-thirds of each house that does not reduce the protection of the delta or fish and wildlife.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "amend or repeal, or add to, these provisions"
+  ],
+  "limits": [
+   "shall become effective unless approved by the electors"
+  ]
+ },
+ "a10a-s5": {
+  "title": "No eminent domain over Delta water rights for export",
+  "plain": "No public agency may use eminent domain to acquire Delta water rights or Delta water contract rights in order to export the water. Eminent domain may still be used to acquire land or other rights needed to build water facilities.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No public agency may utilize eminent domain proceedings to acquire water rights"
+  ]
+ },
+ "a10a-s6": {
+  "title": "Venue and speedy handling of water lawsuits",
+  "plain": "Listed lawsuits over Senate Bill No. 200, the peripheral canal and related water agreements must be brought in Sacramento County within set time limits, get preference and prompt hearings, and may be transferred to the Supreme Court on any party's request.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may apply to the State Board of Control for actual costs imposed by the requirements of this section upon the county",
+   "exercising the transfer authority contained in Article VI, Section 12 of the Constitution"
+  ],
+  "limits": []
+ },
+ "a10a-s7": {
+  "title": "State agencies must honor water protections",
+  "plain": "State agencies shall exercise their authorized powers in a manner consistent with the protections provided by this article.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10a-s8": {
+  "title": "Article depends on Senate Bill 200",
+  "plain": "This article has no force or effect unless Senate Bill No. 200 of the 1979–80 Regular Session of the Legislature is enacted and takes effect.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s1": {
+  "title": "Name of the article",
+  "plain": "This article may be cited as the Marine Resources Protection Act of 1990.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s2": {
+  "title": "Definitions for marine resources protection",
+  "plain": "Defines \"District\", \"Ocean waters\" and the Marine Resources Protection \"Zone\" (waters around the Channel Islands and near the southern mainland coast), and says Fish and Game Code references mean the statutes in effect on January 1, 1990.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s3": {
+  "title": "Gill and trammel nets banned in the zone",
+  "plain": "From 1991 through 1993, gill nets or trammel nets may be used in the zone only under a nontransferable Department of Fish and Game permit. On and after January 1, 1994, they shall not be used in the zone.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may only be used in the zone pursuant to a nontransferable permit",
+   "shall not be used in the zone"
+  ]
+ },
+ "a10b-s4": {
+  "title": "Gill net limits for rockfish and northern waters",
+  "plain": "Gill and trammel nets may not be used to take any rockfish. North of Point Arguello, their use is governed by the Fish and Game Code provisions in effect in 1990 or 1989. The Legislature may add restrictions; the Director may not authorize use where it is not permitted.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "imposing more restrictions on the use and/or possession of gill nets or trammel nets"
+  ],
+  "limits": [
+   "may not be used to take any species of rockfish",
+   "shall not authorize the use of gill nets or trammel nets in any area where the use is not permitted"
+  ]
+ },
+ "a10b-s5": {
+  "title": "Gill net permits during the phase-out",
+  "plain": "For 1991 through 1993, the Department of Fish and Game shall issue a gill net or trammel net permit for the zone to any applicant with a commercial fishing license and a Section 8681 permit who owns or operates a vessel equipped with such a net.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s6": {
+  "title": "Gill net permit fees",
+  "plain": "The Department of Fish and Game shall charge fees for Section 5 permits of $250 in 1991, 500 in 1992, and 1,000 in 1993.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s7": {
+  "title": "Compensation for giving up gill net permits",
+  "plain": "Permit holders who timely notified the Department of Fish and Game could surrender their permits and stop gill or trammel net fishing in the zone for a one time compensation based on past landings, subject to verification, appeal, and enabling legislation by July 1, 1993.",
+  "category": "Water & Natural Resources",
+  "kind": "Right",
+  "rights": [
+   "a one time compensation",
+   "may appeal that decision to the Fish and Game Commission"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not be compensated pursuant to subdivision (b)",
+   "no compensation shall be paid under this article"
+  ]
+ },
+ "a10b-s8": {
+  "title": "Marine Resources Protection Account and stamps",
+  "plain": "Creates the Marine Resources Protection Account; the Department of Fish and Game collects fees under this article for compensating permit holders and administration. Sport and commercial passenger fishing south of Point Arguello require a $3 stamp. This section becomes inoperative January 1, 1995.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may be expended for the administration of this article",
+   "may accept contributions or donations from any person"
+  ],
+  "limits": [
+   "shall be used only for those purposes",
+   "may only be expended for the purposes authorized by this article"
+  ]
+ },
+ "a10b-s9": {
+  "title": "Leftover account funds for marine research",
+  "plain": "Funds remaining in the Marine Resources Protection Account on or after January 1, 1995, shall, with the Fish and Game Commission's approval, be used for grants to colleges, universities and other scientific research groups for marine research within the ecological reserves.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s10": {
+  "title": "Annual report to the Legislature",
+  "plain": "By December 31 each year, the Director of Fish and Game shall prepare and submit a report to the Legislature on carrying out this article, including an accounting of all funds.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s11": {
+  "title": "No dealing in illegally taken fish",
+  "plain": "It is unlawful for any person to take, possess, receive, transport, purchase, sell, barter or process any fish obtained in violation of this article.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "unlawful for any person to take, possess, receive, transport, purchase, sell, barter, or process any fish obtained in violation of this article"
+  ]
+ },
+ "a10b-s12": {
+  "title": "Monitoring commercial fish landings",
+  "plain": "To increase scientific information on ocean fisheries, the Department of Fish and Game shall set up a program to monitor and evaluate daily landings by permitted commercial fishermen. The commercial fishing industry shall bear the cost.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s13": {
+  "title": "Penalties for marine net violations",
+  "plain": "Violating Sections 3 and 4 brings a fine and mandatory suspension of commercial fishing licenses, permits or stamps, larger for repeat violations. A Section 8 violation is treated as a Fish and Game Code violation. Probation must require paying at least the minimum fine.",
+  "category": "Criminal Justice",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s14": {
+  "title": "Four new ocean ecological reserves",
+  "plain": "Before January 1, 1994, the Fish and Game Commission shall establish four new ecological reserves of at least two square miles each in ocean waters along the mainland coast, and restrict their use to scientific research on managing and enhancing marine resources.",
+  "category": "Water & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s15": {
+  "title": "Other wildlife closures not preempted",
+  "plain": "This article does not preempt or supersede any other closures to protect any other wildlife, including sea otters, whales and shorebirds.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10b-s16": {
+  "title": "Severability of the article",
+  "plain": "If any provision of this article or its application is held invalid, the invalidity does not affect other provisions or applications that can be given effect without it; the provisions of this article are severable.",
+  "category": "Water & Natural Resources",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a11-s1": {
+  "title": "Counties",
+  "plain": "The State is divided into counties. The Legislature shall prescribe procedure for county formation, consolidation and boundary changes, and provide for county powers and elected county officers. A county seat may be removed only by a two-thirds vote of the county's electors.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may provide for other officers"
+  ],
+  "limits": [
+   "No county seat shall be removed",
+   "shall not be submitted in the same county more than once in four years"
+  ]
+ },
+ "a11-s2": {
+  "title": "Cities",
+  "plain": "The Legislature shall prescribe uniform procedure for forming cities and provide for city powers. A city may not be annexed to or consolidated into another without approval by a majority of its electors voting on the question.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "a city may not be annexed to or consolidated into another"
+  ]
+ },
+ "a11-s3": {
+  "title": "County and city charters",
+  "plain": "A county or city may adopt a charter for its own government by majority vote of its electors. A charter takes effect when filed with the Secretary of State and has the force of legislative enactments. Charters may be proposed, amended or repealed by the governing body or by initiative.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may adopt a charter",
+   "may propose a charter or revision",
+   "may be proposed by initiative or by the governing body",
+   "may be required by initiative or by the governing body"
+  ],
+  "limits": []
+ },
+ "a11-s4": {
+  "title": "What county charters must provide",
+  "plain": "County charters shall provide for an elected governing body of 5 or more members, elected county officers, compensation, terms and removal, county functions, officers' powers and duties, and employees. Charters supersede general laws on those matters, and charter counties have all powers provided for counties.",
+  "category": "Local Government",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "shall have all the powers that are provided by this Constitution or by statute for counties"
+  ],
+  "limits": []
+ },
+ "a11-s5": {
+  "title": "City charters and municipal affairs",
+  "plain": "A city charter may provide that the city may make and enforce all ordinances and regulations on municipal affairs, subject only to its charter; on other matters cities are subject to general laws. City charters supersede inconsistent laws on municipal affairs and may provide for police, subgovernment, elections and municipal officers and employees.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may make and enforce all ordinances and regulations in respect to municipal affairs",
+   "It shall be competent in all city charters to provide",
+   "plenary authority is hereby granted"
+  ],
+  "limits": []
+ },
+ "a11-s6": {
+  "title": "Consolidated charter city and county",
+  "plain": "A county and all cities within it may consolidate as a charter city and county as provided by statute. A charter city and county is both a charter city and a charter county, and its charter city powers supersede conflicting charter county powers.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may consolidate as a charter city and county"
+  ],
+  "limits": []
+ },
+ "a11-s7": {
+  "title": "Local ordinances and regulations",
+  "plain": "A county or city may make and enforce within its limits all local, police, sanitary and other ordinances and regulations not in conflict with general laws.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may make and enforce within its limits all local, police, sanitary, and other ordinances and regulations"
+  ],
+  "limits": []
+ },
+ "a11-s7.5": {
+  "title": "Limits on local ballot measures",
+  "plain": "A city or county measure proposed by a local legislative body and submitted to voters may not include or exclude areas based on the vote, or contain alternative provisions that take effect depending on the percentage of votes cast. The section defines \"city or county measure.\"",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not do either of the following"
+  ]
+ },
+ "a11-s8": {
+  "title": "Counties performing city functions",
+  "plain": "The Legislature may provide that counties perform municipal functions at the request of cities within them. If their charters provide, a county may agree with a city within it to assume and discharge specified municipal functions.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide that counties perform municipal functions",
+   "may agree with a city within it to assume and discharge specified municipal functions"
+  ],
+  "limits": []
+ },
+ "a11-s9": {
+  "title": "Municipal public utilities",
+  "plain": "A municipal corporation may establish, purchase and operate public works furnishing light, water, power, heat, transportation or communication, and may serve outside its boundaries except within another municipal corporation that furnishes the same service and does not consent. Persons or corporations may operate such works under city regulations.",
+  "category": "Housing & Public Utilities",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may establish, purchase, and operate public works",
+   "may furnish those services outside its boundaries",
+   "may establish and operate works for supplying those services"
+  ],
+  "limits": []
+ },
+ "a11-s10": {
+  "title": "Extra pay and residency limits for local employees",
+  "plain": "A local government body may not grant extra compensation or allowance after service is rendered or a contract performed, or pay a claim under an agreement made without authority of law. Cities, counties and public districts may not require employees to be residents, but may require them to live within a reasonable and specific distance.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not grant extra compensation or extra allowance",
+   "pay a claim under an agreement made without authority of law",
+   "may not require that its employees be residents of such city, county, or district"
+  ]
+ },
+ "a11-s11": {
+  "title": "No delegation of local powers to private bodies",
+  "plain": "The Legislature may not delegate to a private person or body power over county or municipal improvements, money, or property, to levy taxes or assessments, or to perform municipal functions. It may provide for deposit and investment of public moneys and for bond payment and registration.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may, however, provide for the deposit of public moneys",
+   "may also provide for investment of public moneys in securities"
+  ],
+  "limits": [
+   "may not delegate to a private person or body power"
+  ]
+ },
+ "a11-s12": {
+  "title": "Claims against counties and cities",
+  "plain": "The Legislature may prescribe procedure for presenting, considering, and enforcing claims against counties, cities, and their officers, agents, or employees.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may prescribe procedure for presentation, consideration, and enforcement of claims"
+  ],
+  "limits": []
+ },
+ "a11-s13": {
+  "title": "Article XI restates earlier provisions",
+  "plain": "Sections 1(b) (except its second sentence), 3(a), 4, and 5 of Article XI, on powers between the Legislature and cities and counties, restate the earlier Constitution with no substantive change. \"General law,\" \"general laws,\" and \"laws\" continue their earlier meaning.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a11-s14": {
+  "title": "Voter approval for multi-county property taxes",
+  "plain": "A local government formed after this section took effect, whose boundaries include all or part of two or more counties, may not levy a property tax unless a majority of its qualified voters voting on the tax approve it.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not levy a property tax"
+  ]
+ },
+ "a11-s15": {
+  "title": "Vehicle license fee revenues for local governments",
+  "plain": "Vehicle license fee revenues from the rate up to 0.65 percent of a vehicle's market value go to the Local Revenue Fund and to cities and counties. If the Legislature lowers the fee below that, it must provide an equal replacement amount for them.",
+  "category": "Local Government",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a12-s1": {
+  "title": "Public Utilities Commission members",
+  "plain": "The Public Utilities Commission has 5 members appointed by the Governor and approved by a Senate majority, for staggered 6-year terms. The Legislature may remove a member for incompetence, neglect of duty, or corruption by a two-thirds vote of each house.",
+  "category": "Housing & Public Utilities",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The Legislature may remove a member for incompetence, neglect of duty, or corruption"
+  ],
+  "limits": []
+ },
+ "a12-s2": {
+  "title": "Commission procedures and hearings",
+  "plain": "Subject to statute and due process, the commission may set its own procedures. A commissioner designated by the commission may hold a hearing or investigation or issue an order, subject to commission approval.",
+  "category": "Housing & Public Utilities",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the commission may establish its own procedures",
+   "may hold a hearing or investigation or issue an order"
+  ],
+  "limits": []
+ },
+ "a12-s3": {
+  "title": "What are public utilities",
+  "plain": "Private corporations and persons that run transportation, telephone and telegraph, or heat, light, water, power, storage, or wharfage systems for the public, and common carriers, are public utilities subject to control by the Legislature, which may add further classes.",
+  "category": "Housing & Public Utilities",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "are public utilities subject to control by the Legislature",
+   "may prescribe that additional classes of private corporations or other persons are public utilities"
+  ],
+  "limits": []
+ },
+ "a12-s4": {
+  "title": "Transportation rates and charges",
+  "plain": "The commission may fix rates and rules for transportation companies, prohibit discrimination, and award reparation for unreasonable charges. A transportation company may not raise a rate without a commission decision that it is justified, reviewable only as to confiscation.",
+  "category": "Housing & Public Utilities",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The commission may fix rates and establish rules for the transportation of passengers and property",
+   "prohibit discrimination",
+   "award reparation for the exaction of unreasonable, excessive, or discriminatory charges"
+  ],
+  "limits": [
+   "A transportation company may not raise a rate or incidental charge",
+   "shall not be subject to judicial review"
+  ]
+ },
+ "a12-s5": {
+  "title": "Legislature's plenary power over the commission",
+  "plain": "The Legislature has plenary power, unlimited by the rest of the constitution but consistent with this article, to give the commission more authority and jurisdiction, set how courts review its actions, and enable it to fix just compensation for utility property taken by eminent domain.",
+  "category": "Housing & Public Utilities",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Legislature has plenary power",
+   "to confer additional authority and jurisdiction upon the commission",
+   "to establish the manner and scope of review of commission action in a court of record",
+   "to enable it to fix just compensation for utility property taken by eminent domain"
+  ],
+  "limits": []
+ },
+ "a12-s6": {
+  "title": "Commission powers over public utilities",
+  "plain": "The commission may fix rates, establish rules, examine records, issue subpenas, administer oaths, take testimony, punish for contempt, and prescribe a uniform system of accounts for all public utilities subject to its jurisdiction.",
+  "category": "Housing & Public Utilities",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The commission may fix rates, establish rules, examine records, issue subpenas, administer oaths, take testimony, punish for contempt",
+   "prescribe a uniform system of accounts"
+  ],
+  "limits": []
+ },
+ "a12-s7": {
+  "title": "Free passes and commissioner conflicts",
+  "plain": "A transportation company may not give free passes or discounts to state officeholders; a public officer, other than a Public Utilities Commissioner, who accepts one forfeits the office. A commissioner may not hold an official relation to or financial interest in anyone the commission regulates.",
+  "category": "Housing & Public Utilities",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "A transportation company may not grant free passes or discounts to anyone holding an office in this State",
+   "shall work a forfeiture of that office",
+   "may not hold an official relation to nor have a financial interest in a person or corporation subject to regulation by the commission"
+  ]
+ },
+ "a12-s8": {
+  "title": "Local regulation of commission matters",
+  "plain": "A city, county, or other public body may not regulate matters over which the Legislature gives the Commission regulatory power. This does not affect certain powers under city charters existing on October 10, 1911, or any city's right to grant franchises as prescribed by law.",
+  "category": "Housing & Public Utilities",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not regulate matters over which the Legislature grants regulatory power to the Commission"
+  ]
+ },
+ "a12-s9": {
+  "title": "Article XII restates earlier provisions",
+  "plain": "The provisions of this article restate all related provisions of the earlier Constitution and make no substantive change.",
+  "category": "Housing & Public Utilities",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s1": {
+  "title": "All property taxable at uniform value",
+  "plain": "Unless this Constitution or federal law provides otherwise, all property is taxable, assessed at the same percentage of fair market value, and taxed in proportion to its full value.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s2": {
+  "title": "Taxation of personal property",
+  "plain": "The Legislature may provide for property taxation of tangible personal property, stock, evidences of indebtedness, and interests in them, and by two-thirds vote may classify such property for differential taxation or exemption. Taxes on notes, stock, bonds, and similar interests may not exceed 0.4 percent of full value.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide for property taxation of all forms of tangible personal property",
+   "may classify such personal property for differential taxation or for exemption"
+  ],
+  "limits": [
+   "shall not exceed four-tenths of one percent of full value",
+   "shall not be higher on personal property than on real property in the same taxing jurisdiction"
+  ]
+ },
+ "a13-s3": {
+  "title": "Property exempt from taxation",
+  "plain": "Lists property exempt from property taxation, including state and local government property, public bonds, schools, libraries, religious worship, cemeteries, growing crops, young trees, a $7,000 homeowners' exemption, ships, household goods, debts secured by land, and $1,000 for certain veterans and their families.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may supersede the foregoing provisions with an alternative system or systems of taxing or exempting forest trees or timber",
+   "The Legislature may increase this exemption and may deny it"
+  ],
+  "limits": [
+   "are exempt from property taxation",
+   "This property is also exempt from special assessment",
+   "is ineligible for this exemption",
+   "shall lose eligibility for the exemption"
+  ]
+ },
+ "a13-s3.5": {
+  "title": "Adjusting veterans' exemption values",
+  "plain": "In any year the assessment ratio changes, the Legislature must adjust the valuation of property described in subdivisions (o), (p) and (q) of Section 3 to keep the same proportionate values.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s4": {
+  "title": "Exemptions the Legislature may grant",
+  "plain": "The Legislature may exempt from property taxation, wholly or partly, the homes of certain disabled or deceased veterans and their spouses, nonprofit religious, hospital, or charitable property, property of certain named institutions, and parking for places of worship.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Legislature may exempt from property taxation in whole or in part"
+  ],
+  "limits": []
+ },
+ "a13-s5": {
+  "title": "Exemptions cover property under construction",
+  "plain": "Exemptions under Sections 3(e), 3(f), and 4(b) apply to buildings under construction, land required for their convenient use, and equipment in them, if the intended use would qualify the property for exemption.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s6": {
+  "title": "Failure to claim a property tax exemption",
+  "plain": "Failing in any year to claim, in the manner required by law at the time, an exemption or classification that reduces a property tax is deemed a waiver of it for that year.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s7": {
+  "title": "Exempting low-value real property",
+  "plain": "With two-thirds of each house concurring, the Legislature may authorize county boards of supervisors to exempt real property worth so little that its taxes and subventions would be less than the cost of assessing and collecting them.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize county boards of supervisors to exempt real property"
+  ],
+  "limits": []
+ },
+ "a13-s8": {
+  "title": "Open space and historical property valuation",
+  "plain": "The Legislature may define open space land and property of historical significance, and must provide that when such land or property is enforceably restricted, it is valued for property tax purposes only on a basis consistent with its restrictions and uses.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may define open space land",
+   "may define such property"
+  ],
+  "limits": []
+ },
+ "a13-s8.5": {
+  "title": "Property tax postponement for seniors and disabled",
+  "plain": "The Legislature may provide for low or moderate income persons 62 or older, and disabled persons, to postpone property taxes on their principal residence, and must provide subventions to local governments for the revenue lost.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide by law for the manner in which a person of low or moderate income",
+   "may also provide by law for the manner in which a disabled person",
+   "shall have plenary power to define all terms in this section"
+  ],
+  "limits": []
+ },
+ "a13-s9": {
+  "title": "Assessing single-family homes by use",
+  "plain": "The Legislature may provide for assessing an owner-occupied single-family dwelling, and the land needed for its use, only on the basis of use, when it is on land zoned exclusively for single-family dwellings or agriculture.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide for the assessment for taxation only on the basis of use of a single-family dwelling"
+  ],
+  "limits": []
+ },
+ "a13-s10": {
+  "title": "Assessment of nonprofit golf courses",
+  "plain": "Real property of 10 or more acres used only for nonprofit golf course purposes for at least 2 years before the lien date is assessed on the basis of that use, plus any value from minerals or hydrocarbons.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s11": {
+  "title": "Taxing local government land outside its boundaries",
+  "plain": "Land, water rights and improvements a local government owns outside its boundaries are taxable in stated cases, chiefly in Inyo and Mono Counties, under set assessment formulas. Water-based levies between local governments are barred, and the State Board of Equalization may review these assessments.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "shall be subject to review, equalization, and adjustment by the State Board of Equalization"
+  ],
+  "limits": [
+   "shall not diminish the quantity of water rights assessable and taxable",
+   "the assessed value shall not exceed the product of",
+   "No tax, charge, assessment, or levy of any character",
+   "shall not exceed the value of all interests in the land"
+  ]
+ },
+ "a13-s12": {
+  "title": "Tax rates on unsecured property",
+  "plain": "Taxes on personal property, possessory interests, and improvements on exempt land that are not secured by a lien on land are levied at the prior year's secured rates; the Legislature must adjust that rate when the assessment ratio changes.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s13": {
+  "title": "Separate assessment of land and improvements",
+  "plain": "Land and improvements must be assessed separately.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s14": {
+  "title": "Where local property is assessed",
+  "plain": "All property taxed by local government must be assessed in the county, city, and district where it is located.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s15": {
+  "title": "Reassessing damaged or destroyed property",
+  "plain": "The Legislature may authorize local government to provide for assessing or reassessing taxable property physically damaged or destroyed after the lien date.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize local government to provide for the assessment or reassessment of taxable property"
+  ],
+  "limits": []
+ },
+ "a13-s16": {
+  "title": "County boards of equalization",
+  "plain": "The county board of supervisors, or assessment appeals boards it creates, is the county board of equalization, which equalizes values on the local assessment roll. Supervisors support those boards, and the Legislature provides for their members and joint creation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may jointly create one or more assessment appeals boards",
+   "may provide for their discontinuance"
+  ],
+  "limits": []
+ },
+ "a13-s17": {
+  "title": "State Board of Equalization membership",
+  "plain": "The Board of Equalization has 5 voting members: the Controller and 4 members elected from four districts for 4-year terms at gubernatorial elections. No member may serve more than 2 terms.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No member may serve more than 2 terms"
+  ]
+ },
+ "a13-s18": {
+  "title": "Equalizing county assessment levels",
+  "plain": "The Board must measure county assessment levels each year and bring them into conformity by adjusting entire secured local rolls. If the State levies a property tax, remaining unequal levels are corrected for distributing that tax.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s19": {
+  "title": "State assessment of utility property",
+  "plain": "The Board must assess each year multi-county pipelines, canals and aqueducts and the property of regulated railway, telegraph, telephone, gas and electric companies. Those companies may not face differing taxes or license charges; the Board may delegate some assessment to local assessors.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may authorize Board assessment of property owned or used by other public utilities",
+   "may delegate to a local assessor the duty to assess a property"
+  ],
+  "limits": [
+   "No other tax or license charge may be imposed on these companies"
+  ]
+ },
+ "a13-s20": {
+  "title": "Local tax rate and bonding limits",
+  "plain": "The Legislature may provide maximum property tax rates and bonding limits for local governments.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide maximum property tax rates and bonding limits for local governments"
+  ],
+  "limits": []
+ },
+ "a13-s21": {
+  "title": "School district tax levies",
+  "plain": "Within any limits under Section 20, the Legislature must provide for county governing bodies to levy each year school district taxes sufficient to produce the revenues each district’s board determines its schools and functions require.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s22": {
+  "title": "Cap on state property tax revenue",
+  "plain": "Not more than 25 percent of the State's total appropriations from all funds may be raised by taxes on real and personal property according to its value.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Not more than 25 percent of the total appropriations from all funds of the State"
+  ]
+ },
+ "a13-s23": {
+  "title": "Taxing property after boundary changes",
+  "plain": "If the state's boundaries change, the Legislature must determine how the affected property is taxed.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s24": {
+  "title": "Local taxes and local tax proceeds",
+  "plain": "The Legislature may not impose taxes for local purposes but may authorize local governments to impose them, and may not take or redirect proceeds of local taxes levied solely for local purposes. State money given to local governments may be used as provided.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may authorize local governments to impose them"
+  ],
+  "limits": [
+   "may not impose taxes for local purposes",
+   "may not reallocate, transfer, borrow, appropriate, restrict the use of, or otherwise use the proceeds"
+  ]
+ },
+ "a13-s25": {
+  "title": "Reimbursing local revenue lost under Section 3(k)",
+  "plain": "The Legislature must reimburse each local government, in the same fiscal year, for revenue lost because of Section 3(k).",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s25.5": {
+  "title": "Protecting local tax revenues from state statutes",
+  "plain": "On or after November 3, 2004, the Legislature may not enact statutes that reduce local shares of property tax, restrict local sales and transactions taxes, or take redevelopment agency taxes, except as allowed here; it may change some use tax distributions and authorize revenue exchanges.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may change by statute the method of distributing the revenues",
+   "The Legislature may authorize by statute two or more specifically identified local agencies"
+  ],
+  "limits": [
+   "the Legislature shall not enact a statute to do any of the following",
+   "shall not result in a total ad valorem property tax revenue loss",
+   "The Legislature shall not change the pro rata shares of ad valorem property tax"
+  ]
+ },
+ "a13-s26": {
+  "title": "Income taxes and income tax exemptions",
+  "plain": "Taxes on or measured by income may be imposed as prescribed by law. Interest on state and local government bonds, certain income of nonprofit colleges, and certain nonprofit organizations are exempt from the taxes described.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "Taxes on or measured by income may be imposed"
+  ],
+  "limits": [
+   "is exempt from taxes on income",
+   "is exempt from taxes on or measured by income",
+   "is exempt from any business license tax or fee measured by income or gross receipts"
+  ]
+ },
+ "a13-s27": {
+  "title": "Taxing corporations and banks",
+  "plain": "By a majority of each house, the Legislature may tax corporations, including banks, and their franchises by any method not prohibited. Unless the Legislature provides otherwise, the bank tax is measured by net income and replaces other taxes and fees on banks, with exceptions.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may tax corporations, including state and national banks, and their franchises"
+  ],
+  "limits": []
+ },
+ "a13-s28": {
+  "title": "Tax on insurers",
+  "plain": "Imposes an annual 2.35 percent tax on insurers doing business in California, measured by premiums or, for title insurers, income, in lieu of most other taxes, with retaliatory taxes on out-of-state insurers and a separate ocean marine tax. The Legislature may change the rates.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may by law change the rate or rates of taxes herein imposed upon insurers"
+  ],
+  "limits": []
+ },
+ "a13-s29": {
+  "title": "Local sales tax sharing contracts",
+  "plain": "The Legislature may authorize counties and cities to contract to share sales or use tax revenue, with voter approval in each jurisdiction. They may also contract to share Bradley-Burns sales and use tax revenue if two-thirds of each governing body approves.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize counties, cities and counties, and cities to enter into contracts",
+   "may enter into contracts to apportion between them the revenue"
+  ],
+  "limits": []
+ },
+ "a13-s30": {
+  "title": "Old tax liens presumed paid",
+  "plain": "A tax is conclusively presumed paid 30 years after it became a lien, unless the property has been sold for the tax in the manner the Legislature provides.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s31": {
+  "title": "Power to tax cannot be surrendered",
+  "plain": "The power to tax may not be surrendered or suspended by grant or contract.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not be surrendered or suspended by grant or contract"
+  ]
+ },
+ "a13-s32": {
+  "title": "No court orders stopping tax collection",
+  "plain": "No court process may issue against the State or its officers to prevent or enjoin collecting a tax. After paying a tax claimed to be illegal, a taxpayer may sue to recover it with interest as the Legislature provides.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [
+   "an action may be maintained to recover the tax paid, with interest"
+  ],
+  "powers": [],
+  "limits": [
+   "No legal or equitable process shall issue"
+  ]
+ },
+ "a13-s33": {
+  "title": "Legislature to carry out the taxation article",
+  "plain": "The Legislature must pass all laws necessary to carry out this article.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s34": {
+  "title": "No sales tax on food",
+  "plain": "Neither the State nor its political subdivisions may levy or collect a sales or use tax on food products for human consumption, except as provided by statute as of the effective date of this section.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Neither the State of California nor any of its political subdivisions shall levy or collect a sales or use tax"
+  ]
+ },
+ "a13-s35": {
+  "title": "Sales tax for local public safety",
+  "plain": "Imposes an added one-half percent sales and use tax from January 1, 1994, whose revenues go to the Local Public Safety Fund for counties that request or approve it, to be used exclusively for local public safety services.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s36": {
+  "title": "Public safety realignment and Education Protection Account",
+  "plain": "Dedicates certain tax and fee revenues to local Public Safety Services under the 2011 Realignment Legislation, limits new unfunded costs on local agencies, creates the Education Protection Account funded by temporary tax increases, and sets how its money is estimated, transferred, spent and audited.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [
+   "an appropriate party may seek judicial relief"
+  ],
+  "powers": [
+   "shall have sole authority to determine how the moneys received from the Education Protection Account are spent",
+   "may perform audits of expenditures from the Local Revenue Fund 2011",
+   "may seek civil or criminal penalties"
+  ],
+  "limits": [
+   "2011 Realignment Legislation shall include no new programs assigned to local agencies after January 1, 2012",
+   "The State shall not submit to the federal government any plans or waivers",
+   "shall not be used by local agencies to supplant other funding for Public Safety Services",
+   "shall not be used to pay any costs incurred by the Legislature, the Governor, or any agency of state government"
+  ]
+ },
+ "a13a-s1": {
+  "title": "One percent cap on property tax",
+  "plain": "Ad valorem tax on real property may not exceed 1 percent of full cash value, except for taxes to pay certain voter-approved debts, including school bonds approved by 55 percent of voters that meet listed accountability requirements.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may levy a 55 percent vote ad valorem tax"
+  ],
+  "limits": [
+   "shall not exceed One percent (1%) of the full cash value of such property"
+  ]
+ },
+ "a13a-s2": {
+  "title": "Full cash value and reassessment of real property",
+  "plain": "Defines full cash value as the 1975–76 assessed value or the value when later purchased, newly constructed or changed in ownership, allows yearly increases up to 2 percent, and lets or requires the Legislature to provide exclusions and base year value transfers for listed situations.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the Legislature may provide that, under appropriate circumstances",
+   "the Legislature may authorize each county board of supervisors, after consultation",
+   "The Legislature may extend the provisions of this subdivision",
+   "the Legislature may provide that the term",
+   "the Legislature may authorize each county board of supervisors to adopt"
+  ],
+  "limits": [
+   "shall not exceed the scope and amount of the benefit",
+   "the owner shall not receive the relief"
+  ]
+ },
+ "a13a-s2.1": {
+  "title": "Moving and inheriting taxable value of homes",
+  "plain": "From April 1, 2021, owners over 55, severely disabled, or wildfire or disaster victims may transfer their home's taxable value to a replacement home anywhere in the state. From February 16, 2021, parent-child and some grandparent transfers of a family home or farm keep its taxable value up to a limit.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Right",
+  "rights": [
+   "may transfer the taxable value of their primary residence to a replacement primary residence located anywhere in this state",
+   "shall be entitled to a refund of taxes previously owed or paid"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not be allowed to transfer the taxable value of a primary residence more than three times"
+  ]
+ },
+ "a13a-s2.2": {
+  "title": "Fire response and county revenue funds",
+  "plain": "Creates the California Fire Response Fund and County Revenue Protection Fund. The Director of Finance calculates the state's yearly gains from Section 2.1, the Controller transfers 75 and 15 percent of them to those funds, and fire fund money goes to expand fire suppression staffing.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be appropriated for any other purpose",
+   "the Controller shall not transfer the amount in excess of that 10 percent"
+  ]
+ },
+ "a13a-s2.3": {
+  "title": "Reimbursing local agencies for Section 2.1 losses",
+  "plain": "Each county determines yearly the revenue gain or loss for itself and its local agencies from Section 2.1. Those with a negative gain are reimbursed every three years by the California Department of Tax and Fee Administration from the County Revenue Protection Fund.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13a-s3": {
+  "title": "Two-thirds vote for state tax increases",
+  "plain": "A change in state statute that makes any taxpayer pay a higher tax must pass by two-thirds of all members of each house, and no new ad valorem taxes on real property or taxes on its sale may be imposed. The State bears the burden of proof.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "must be imposed by an act passed by not less than two-thirds of all members elected to each of the two houses of the Legislature",
+   "no new ad valorem taxes on real property, or sales or transaction taxes on the sales of real property may be imposed"
+  ]
+ },
+ "a13a-s4": {
+  "title": "Local special taxes by two-thirds vote",
+  "plain": "Cities, counties and special districts may impose special taxes by a two-thirds vote of their qualified electors, except ad valorem taxes on real property or transaction or sales taxes on the sale of real property.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may impose special taxes on such district"
+  ],
+  "limits": []
+ },
+ "a13a-s5": {
+  "title": "When the tax limitation article takes effect",
+  "plain": "This article takes effect for the tax year beginning on July 1 following its passage, except Section 3, which becomes effective upon the passage of the article.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13a-s6": {
+  "title": "Severability of the tax limitation article",
+  "plain": "If any section, part, clause or phrase of this article is held invalid or unconstitutional, the remaining sections are not affected and remain in full force and effect.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13a-s7": {
+  "title": "Children and Families First Act exempt from Section 3",
+  "plain": "Section 3 of this article, on the vote needed for state tax increases, does not apply to the California Children and Families First Act of 1998.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s1": {
+  "title": "Annual appropriations limit",
+  "plain": "The total annual appropriations subject to limitation of the State and of each local government may not exceed its limit for the prior year, adjusted for changes in the cost of living and population, except as this article otherwise provides.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not exceed the appropriations limit of the entity of government for the prior year"
+  ]
+ },
+ "a13b-s1.5": {
+  "title": "Audit of local appropriations limits",
+  "plain": "Each local government's annual calculation of its appropriations limit must be reviewed as part of an annual financial audit.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s2": {
+  "title": "Returning excess revenues",
+  "plain": "State revenues over two years above what may be appropriated under this article are split: half is transferred under Section 8.5 of Article XVI and half returned by revising tax rates or fees. Other entities return all such excess revenues.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s3": {
+  "title": "Adjusting the appropriations limit",
+  "plain": "The appropriations limit is adjusted when responsibility for services moves between governments or to private entities or fees, and may be exceeded in a declared emergency if later limits are reduced. Emergency appropriations approved by two-thirds after a Governor's declaration are not subject to limitation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s4": {
+  "title": "Voters may change an appropriations limit",
+  "plain": "The electors of an entity of government may establish or change its appropriations limit, following constitutional and statutory voting requirements. Such a change lasts as the electors decide, but never more than four years from their most recent vote.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be established or changed by the electors of such entity"
+  ],
+  "limits": [
+   "shall in no event exceed four years from the most recent vote of said electors"
+  ]
+ },
+ "a13b-s5": {
+  "title": "Contingency, reserve and similar funds",
+  "plain": "Each entity of government may set up reserve and similar funds it deems reasonable and proper. Contributions from tax proceeds count as appropriations subject to limitation; withdrawals, their spending, and transfers between funds do not.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may establish such contingency, emergency, unemployment, reserve, retirement, sinking fund, trust, or similar funds"
+  ],
+  "limits": []
+ },
+ "a13b-s5.5": {
+  "title": "Prudent state reserve fund",
+  "plain": "The Legislature must establish a prudent state reserve fund in the amount it deems reasonable and necessary. Contributions to and withdrawals from the fund are subject to Section 5 of this article.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s6": {
+  "title": "State reimbursement for local mandates",
+  "plain": "When the Legislature or a state agency mandates a new program or higher level of service on local government, the State must reimburse the costs, with listed exceptions. The Legislature must pay or suspend mandates found payable, and property tax revenues may not be used.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "the Legislature may, but need not, provide a subvention of funds"
+  ],
+  "limits": [
+   "Ad valorem property tax revenues shall not be used to reimburse a local government"
+  ]
+ },
+ "a13b-s7": {
+  "title": "Bonded debt obligations protected",
+  "plain": "Nothing in this article is to be construed to impair the ability of the State or any local government to meet its obligations on existing or future bonded indebtedness.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s8": {
+  "title": "Definitions for the spending limitation",
+  "plain": "Defines terms used in this article, including appropriations subject to limitation, proceeds of taxes, local government, change in the cost of living, change in population, debt service and appropriations limit. Each local entity selects its cost-of-living measure annually by recorded vote.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s9": {
+  "title": "Appropriations excluded from the limit",
+  "plain": "Appropriations subject to limitation do not include appropriations for debt service, court or federal mandates, certain special districts, qualified capital outlay projects, or revenue from certain motor vehicle fuel taxes, related sales and use taxes, and commercial vehicle weight fees.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s10": {
+  "title": "When the spending limitation takes effect",
+  "plain": "This article is effective beginning with the first day of the fiscal year following its adoption.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s10.5": {
+  "title": "Appropriations limit from 1990 onward",
+  "plain": "For fiscal years beginning on or after July 1, 1990, each entity's appropriations limit is its 1986–87 limit adjusted for the changes made under this article as amended, and for the changes required by Section 3.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s11": {
+  "title": "Court judgments and severability",
+  "plain": "If a final court judgment adds or removes an appropriation category from those subject to limitation, the appropriations limit is adjusted accordingly. If any part of this article is held invalid, the rest remains in full force.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s12": {
+  "title": "Tobacco surtax fund outside the limit",
+  "plain": "Appropriations of revenue from the Cigarette and Tobacco Products Surtax Fund are not appropriations subject to limitation, and depositing or appropriating that revenue requires no adjustment in any appropriations limit under Section 3.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s13": {
+  "title": "Children and Families trust fund outside the limit",
+  "plain": "Appropriations from the California Children and Families First Trust Fund are not subject to limitation and need no Section 3 adjustment. The Act's surtax is not General Fund revenue for purposes of Section 8 of Article XVI.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s14": {
+  "title": "2016 tobacco tax fund outside the limit",
+  "plain": "Appropriations of revenue from the California Healthcare, Research and Prevention Tobacco Tax Act of 2016 Fund are not subject to limitation, and depositing or appropriating that revenue requires no adjustment in any appropriations limit under Section 3.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13b-s15": {
+  "title": "Road repair revenues excluded from spending limit",
+  "plain": "Appropriations of revenues from the Road Maintenance and Rehabilitation Account, or other revenues deposited under the Road Repair and Accountability Act of 2017, are not appropriations subject to limitation, and no adjustment of any appropriations limit is required because of them.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13c-s1": {
+  "title": "Definitions for local tax voter approval",
+  "plain": "Defines general tax, local government, special district, special tax and tax for this article, lists seven kinds of charges that are not taxes, and puts on the local government the burden of proving that a levy is not a tax.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13c-s2": {
+  "title": "Voter approval of local general and special taxes",
+  "plain": "Every local tax is either general or special. Special purpose districts may not levy general taxes. A local government may not impose, extend or increase a general tax without majority voter approval, or a special tax without two-thirds voter approval.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall have no power to levy general taxes",
+   "No local government may impose, extend, or increase any general tax",
+   "No local government may impose, extend, or increase any special tax"
+  ]
+ },
+ "a13c-s3": {
+  "title": "Initiative power over local taxes and fees",
+  "plain": "The initiative power may not be prohibited or limited in reducing or repealing any local tax, assessment, fee or charge. It applies to all local governments, and neither the Legislature nor a local charter may require more signatures than for statewide statutory initiatives.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The power of initiative to affect local taxes, assessments, fees and charges shall be applicable to all local governments"
+  ],
+  "limits": [
+   "the initiative power shall not be prohibited or otherwise limited",
+   "neither the Legislature nor any local government charter shall impose a signature requirement higher than that applicable to statewide statutory initiatives"
+  ]
+ },
+ "a13d-s1": {
+  "title": "Scope of the assessment and fee article",
+  "plain": "This article applies to all assessments, fees and charges, whether imposed under state statute or local charter authority. Nothing in it or in Article XIII C gives any agency new authority to tax, or affects existing laws on development fees or timber yield taxes.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13d-s2": {
+  "title": "Definitions for assessments and property fees",
+  "plain": "Defines the terms used in this article: agency, assessment, capital cost, district, fee or charge, maintenance and operation expenses, property ownership, property-related service and special benefit.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13d-s3": {
+  "title": "Limits on property taxes, assessments and fees",
+  "plain": "No agency may levy a tax, assessment, fee or charge on a parcel or on a person as an incident of property ownership except the ad valorem property tax, a special tax approved by two-thirds vote, and assessments and property-related fees as this article provides.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No tax, assessment, fee, or charge shall be assessed by any agency upon any parcel of property or upon any person as an incident of property ownership"
+  ]
+ },
+ "a13d-s4": {
+  "title": "Procedures and requirements for assessments",
+  "plain": "An agency proposing an assessment must identify benefited parcels, limit each assessment to the parcel's proportional special benefit, support it with an engineer's report, mail notice and a ballot to owners, and hold a hearing; it may not impose the assessment if there is a majority protest.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No assessment shall be imposed on any parcel which exceeds the reasonable cost of the proportional special benefit conferred on that parcel",
+   "shall not be exempt from assessment",
+   "The agency shall not impose an assessment if there is a majority protest",
+   "the assessment shall not be imposed unless approved by a two-thirds vote of the electorate in the district"
+  ]
+ },
+ "a13d-s5": {
+  "title": "Effective date of the assessment and fee article",
+  "plain": "This article takes effect the day after the election unless otherwise provided. From July 1, 1997, all assessments must comply with it, but four kinds of existing assessments are exempt from Section 4's procedures, though later increases in three of them are not.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13d-s6": {
+  "title": "Property-related fees and charges",
+  "plain": "An agency must give mailed notice and hold a hearing before imposing or increasing a property-related fee, and may not impose it over a majority written protest. Fees may not exceed the cost of the service or be used for other purposes, and most need voter approval.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "An agency may adopt procedures similar to those for increases in assessments"
+  ],
+  "limits": [
+   "the agency shall not impose the fee or charge",
+   "A fee or charge shall not be extended, imposed, or increased by any agency",
+   "shall not exceed the funds required to provide the property related service",
+   "shall not be used for any purpose other than that for which the fee or charge was imposed",
+   "shall not exceed the proportional cost of the service attributable to the parcel",
+   "No fee or charge may be imposed for a service unless that service is actually used by, or immediately available to, the owner of the property in question",
+   "Fees or charges based on potential or future use of a service are not permitted",
+   "No fee or charge may be imposed for general governmental services",
+   "no property related fee or charge shall be imposed or increased unless and until that fee or charge is submitted and approved"
+  ]
+ },
+ "a14-s1": {
+  "title": "Minimum wages and employee welfare",
+  "plain": "The Legislature may provide for minimum wages and for the general welfare of employees, and for those purposes may give a commission legislative, executive and judicial powers.",
+  "category": "Labor",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide for minimum wages and for the general welfare of employees",
+   "may confer on a commission legislative, executive, and judicial powers"
+  ],
+  "limits": []
+ },
+ "a14-s2": {
+  "title": "Eight-hour day on public works",
+  "plain": "Mechanics and workers on public works may not work more than eight hours a day, except in wartime or extraordinary emergencies that endanger life or property. The Legislature must provide for enforcement.",
+  "category": "Labor",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not exceed eight hours a day"
+  ]
+ },
+ "a14-s3": {
+  "title": "Mechanics' and laborers' liens",
+  "plain": "Mechanics, material suppliers, artisans and laborers have a lien on the property they worked on or supplied, for the value of the labor and material. The Legislature must provide by law for speedy and efficient enforcement of these liens.",
+  "category": "Labor",
+  "kind": "Right",
+  "rights": [
+   "shall have a lien upon the property upon which they have bestowed labor or furnished material"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a14-s4": {
+  "title": "Workers' compensation system",
+  "plain": "The Legislature has plenary power, unlimited by any provision of this Constitution, to create and enforce a complete system of workers' compensation, regardless of fault, and to provide how disputes are settled, subject to review by the appellate courts.",
+  "category": "Labor",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "is hereby expressly vested with plenary power, unlimited by any provision of this Constitution, to create, and enforce a complete system of workers’ compensation",
+   "to create and enforce a liability on the part of any or all persons to compensate any or all of their workers",
+   "is vested with plenary powers, to provide for the settlement of any disputes arising under such legislation",
+   "may fix and control the method and manner of trial of any such dispute",
+   "may combine in one statute all the provisions for a complete system of workers’ compensation",
+   "shall have power to provide for the payment of an award to the State"
+  ],
+  "limits": []
+ },
+ "a14-s5": {
+  "title": "Contracts for inmate labor programs",
+  "plain": "The Director of Corrections, a county sheriff or other jail official may contract with public entities and organizations for programs that use inmate labor, but not with an employer to replace striking or locked-out workers. This section creates no right of inmates to work.",
+  "category": "Labor",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may enter into contracts with public entities, nonprofit or for profit organizations, entities, or businesses for the purpose of conducting programs which use inmate labor"
+  ],
+  "limits": [
+   "No contract shall be executed with an employer that will initiate employment by inmates in the same job classification as non-inmate employees of the same employer who are on strike",
+   "shall not exceed, for the duration of the strike, the average daily hours worked for the preceding six months"
+  ]
+ },
+ "a15-s1": {
+  "title": "Interest rates and usury",
+  "plain": "Sets the legal interest rate at 7 percent a year, but parties may contract in writing for up to 10 percent on personal loans, or a market-based rate on others. Fees may not exceed the authorized interest. Listed lenders are exempt. Judgment interest is capped at 10 percent.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [
+   "it shall be competent for the parties to any loan or forbearance of any money, goods or things in action to contract in writing for a rate of interest"
+  ],
+  "powers": [
+   "The Legislature may from time to time prescribe the maximum rate per annum of, or provide for the supervision, or the filing of a schedule of, or in any manner fix, regulate or limit, the fees"
+  ],
+  "limits": [
+   "at a rate not exceeding 10 percent per annum",
+   "at a rate not exceeding the higher of (a) 10 percent per annum or (b) 5 percent per annum plus the rate prevailing",
+   "No person, association, copartnership or corporation shall by charging any fee, bonus, commission, discount or other compensation receive from a borrower more than the interest authorized by this section",
+   "at not more than 10 percent per annum"
+  ]
+ },
+ "a16-s1": {
+  "title": "Limit on state debt",
+  "plain": "The Legislature may not create debts over $300,000, except for war, unless a law for a single specified object provides for repayment within 50 years, passes by two-thirds of each house, and is approved by a majority of voters. The Legislature may raise interest rates on unsold bonds.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may, at any time after the approval of such law by the people, reduce the amount of the indebtedness authorized by the law",
+   "may repeal the law if no debt shall have been contracted in pursuance thereof",
+   "may raise the maximum rate of interest payable on all general obligation bonds authorized but not sold"
+  ],
+  "limits": [
+   "shall not, in any manner create any debt or debts, liability or liabilities",
+   "no such law shall take effect unless it has been passed by a two-thirds vote of all the members elected to each house of the Legislature",
+   "shall be applied only to the specific object therein stated or to the payment of the debt thereby created"
+  ]
+ },
+ "a16-s1.3": {
+  "title": "Borrowing for the accumulated budget deficit",
+  "plain": "Funding the accumulated state budget deficit, as authorized by the March 2, 2004 measure, counts as a single object or work under Section 1. After those bonds issue, the State may not borrow in the listed ways to fund a year-end budget deficit.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "the State may not obtain moneys to fund a year-end state budget deficit"
+  ]
+ },
+ "a16-s1.5": {
+  "title": "General Obligation Bond Proceeds Fund",
+  "plain": "The Legislature may create a General Obligation Bond Proceeds Fund in the State Treasury and route bond proceeds into it, with a separate account for each bond issue paid out only as its bond law allows. It may abolish and later re-establish separate bond proceeds funds.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may create and establish a “General Obligation Bond Proceeds Fund” in the State Treasury",
+   "may provide for the proceeds of the sale of general obligation bonds of the State",
+   "may abolish, subject to the conditions of this section, any fund in the State Treasury",
+   "re-establishing any bond proceeds fund so abolished"
+  ],
+  "limits": [
+   "shall be paid out only in accordance with the law authorizing the issuance of the particular bonds from which the proceeds were derived"
+  ]
+ },
+ "a16-s2": {
+  "title": "State bonds by statute, not constitutional amendment",
+  "plain": "No constitutional amendment providing for state bonds may be submitted to the voters or take effect; bond measures must be submitted as a bond act or statute. Listed bond sections of Article XVI are repealed and continued as statutes the Legislature may later amend or repeal.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may amend or repeal such provisions when the bonds issued thereunder have been fully retired"
+  ],
+  "limits": [
+   "No amendment to this Constitution which provides for the preparation, issuance and sale of bonds of the State of California shall hereafter be submitted to the electors"
+  ]
+ },
+ "a16-s3": {
+  "title": "No state money for private institutions, with exceptions",
+  "plain": "No state money or property may go to any institution not under the State's exclusive management and control, except that the Legislature may fund certain hospital construction and aid institutions for orphans and the aged, and needy blind and physically handicapped persons.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "nothing in this Constitution shall prevent the Legislature from making state money available for that purpose",
+   "shall have the power to grant aid to the institutions conducted for the support and maintenance of minor orphans",
+   "shall have the power to grant aid to needy blind persons",
+   "shall have power to grant aid to needy physically handicapped persons",
+   "shall have at any time the right to inquire into the management of such institutions"
+  ],
+  "limits": [
+   "No money shall ever be appropriated or drawn from the State Treasury",
+   "nor shall any grant or donation of property ever be made thereto by the State",
+   "no person concerned with the administration of aid to needy blind persons shall dictate how any applicant or recipient shall expend such aid granted him"
+  ]
+ },
+ "a16-s3.5": {
+  "title": "Protection of the Medi-Cal hospital fee act",
+  "plain": "Statutes amending the Medi-Cal Hospital Reimbursement Improvement Act of 2013 need voter approval, except that the Legislature may, by a two-thirds vote, amend it to further its purposes or repeal it entirely. Fee proceeds are not counted as revenues for school funding and spending limits.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "amend or add provisions that further the purposes of the act",
+   "Nothing in this section shall prohibit the Legislature from repealing the act in its entirety"
+  ],
+  "limits": [
+   "No statute amending or adding to the provisions of the Medi-Cal Hospital Reimbursement Improvement Act of 2013 shall become effective",
+   "the Legislature shall not be permitted to repeal the act and replace it with a similar statute imposing a tax, fee, or assessment"
+  ]
+ },
+ "a16-s4": {
+  "title": "Loan guarantees for hospital construction",
+  "plain": "The Legislature may insure or guarantee loans to nonprofit corporations and public agencies for building, expanding or repairing public or nonprofit hospitals and related facilities. No provision of the Constitution limits this authority.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall have the power to insure or guarantee loans made by private or public lenders to nonprofit corporations and public agencies"
+  ],
+  "limits": []
+ },
+ "a16-s5": {
+  "title": "No public money for religious purposes",
+  "plain": "Neither the Legislature nor any local government may appropriate, pay or grant anything to aid any religious sect, church, creed or sectarian purpose, or support any institution controlled by one. Aid under Section 3 of Article XVI is still allowed.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall ever make an appropriation, or pay from any public fund whatever, or grant anything to or in aid of any religious sect, church, creed, or sectarian purpose",
+   "nor shall any grant or donation of personal property or real estate ever be made by the State"
+  ]
+ },
+ "a16-s6": {
+  "title": "No gift or loan of public credit or money",
+  "plain": "The Legislature may not give or lend public credit, make gifts of public money, or let the State or local bodies buy corporate stock. Exceptions cover irrigation district stock, local insurance pools, aid to war veterans, disaster debris clearing, and temporary treasurer transfers.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may in the manner authorized by law, acquire the stock of any foreign corporation",
+   "may acquire and hold the stock of corporations, domestic or foreign",
+   "the treasurer of any city, county, or city and county shall have power"
+  ],
+  "limits": [
+   "shall have no power to give or to lend, or to authorize the giving or lending, of the credit of the State",
+   "nor shall it have power to make any gift or authorize the making of any gift, of any public money or thing of value",
+   "it shall not have power to authorize the State, or any political subdivision thereof, to subscribe for stock",
+   "shall not exceed 85 percent of the anticipated revenues accruing to such political subdivision"
+  ]
+ },
+ "a16-s7": {
+  "title": "Money drawn only by appropriation and warrant",
+  "plain": "Money may be drawn from the Treasury only through an appropriation made by law and upon a warrant duly drawn by the Controller.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Money may be drawn from the Treasury only through an appropriation made by law"
+  ]
+ },
+ "a16-s8": {
+  "title": "Minimum state funding for schools",
+  "plain": "State revenues must first set apart money for public schools and higher education. From 1990–91, state support for school and community college districts must be at least the greatest of the listed amounts, with a maintenance factor in some years.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may be suspended for one year by the enactment of an urgency statute pursuant to Section 8 of Article IV"
+  ],
+  "limits": [
+   "the urgency statute may not be made part of or included within any bill enacted pursuant to Section 12 of Article IV"
+  ]
+ },
+ "a16-s8.5": {
+  "title": "Extra revenues transferred to the State School Fund",
+  "plain": "The Controller must each year transfer revenues available under Article XIII B to the State School Fund, by enrollment, unless spending and class size reach the listed levels. The money is for instructional improvement and accountability; school districts must prepare audits and School Accountability Report Cards.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be expended solely for the purposes of instructional improvement and accountability"
+  ]
+ },
+ "a16-s9": {
+  "title": "Fish and game money",
+  "plain": "Money collected under any state law relating to the protection or propagation of fish and game must be used for activities relating to fish and game.",
+  "category": "Water & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be used for activities relating thereto"
+  ]
+ },
+ "a16-s10": {
+  "title": "State cooperation in federal aid for the aged",
+  "plain": "When the United States provides pensions or other aid for the aged, the State may cooperate as provided by law. Local money spent under this section is not counted in the base for the spending limit under Section 20 of Article XI.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "co-operation by the State therewith and therein is hereby authorized"
+  ],
+  "limits": []
+ },
+ "a16-s11": {
+  "title": "Legislative power over relief of hardship",
+  "plain": "The Legislature has plenary power to provide for administering relief and may reshape the powers of relief agencies. The Legislature, or the people by initiative, may amend or repeal relief laws, administer relief directly or through counties, and aid or reimburse the counties.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "has plenary power to provide for the administration of any constitutional provisions or laws",
+   "may modify, transfer, or enlarge the powers vested in any state agency or officer",
+   "shall have power to amend, alter, or repeal any law relating to the relief of hardship and destitution"
+  ],
+  "limits": []
+ },
+ "a16-s13": {
+  "title": "Release of liens for aid to the aged",
+  "plain": "The Legislature may release, cancel or nullify, in whole or in part, any lien, obligation or other security it imposed to secure repayment to the State or counties of aid lawfully granted to aged persons.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall have power to release, rescind, cancel, or otherwise nullify in whole or in part any encumbrance on property"
+  ],
+  "limits": []
+ },
+ "a16-s14": {
+  "title": "Revenue bonds for pollution control facilities",
+  "plain": "The Legislature may provide for revenue bonds to finance pollution control facilities and their lease or sale. The bonds may not be secured by the State's taxing power, and either house may block or limit an issue by resolution.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of environmental pollution control facilities",
+   "may, by resolution adopted by either house, prohibit or limit any proposed issuance of such revenue bonds"
+  ],
+  "limits": [
+   "such revenue bonds shall not be secured by the taxing power of the State",
+   "Nothing herein contained shall authorize any public agency to operate any industrial or commercial enterprise"
+  ]
+ },
+ "a16-s14.5": {
+  "title": "Revenue bonds for alternative energy facilities",
+  "plain": "The Legislature may provide for revenue bonds to finance cogeneration, solar, biomass or other alternative energy facilities and their lease or sale. The bonds may not be secured by the State's taxing power, and both houses may block or limit an issue.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of facilities utilizing cogeneration technology, solar power, biomass, or any other alternative source",
+   "may, by resolution adopted by both houses, prohibit or limit any proposed issuance of such revenue bonds"
+  ],
+  "limits": [
+   "such revenue bonds shall not be secured by the taxing power of the State",
+   "Nothing contained herein shall authorize any public agency to operate any industrial or commercial enterprise"
+  ]
+ },
+ "a16-s15": {
+  "title": "Parking meter revenue as security for parking bonds",
+  "plain": "A public body authorized to issue securities for public parking facilities, and any other public body whose area includes those facilities, may make street parking meter revenues available as additional security.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "are authorized to make revenues from street parking meters available as additional security"
+  ],
+  "limits": []
+ },
+ "a16-s16": {
+  "title": "Tax increment financing for redevelopment",
+  "plain": "Redevelopment project property is taxed like other property. The Legislature may let a redevelopment plan divide those taxes: the base amount goes to the taxing agencies and the increase to the redevelopment agency to repay its debts, and may be pledged.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Legislature may provide that any redevelopment plan may contain a provision",
+   "The Legislature may also provide that in any redevelopment plan"
+  ],
+  "limits": []
+ },
+ "a16-s17": {
+  "title": "State stock limits and public pension board authority",
+  "plain": "The State may not loan its credit or hold corporate stock, except mutual water company stock held to supply water. Public pension retirement boards have plenary authority and fiduciary responsibility over investments and administration, and must act solely for participants and beneficiaries.",
+  "category": "Public Officers & Employees",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "is hereby authorized to acquire and hold shares of the capital stock of any mutual water company or corporation",
+   "shall have plenary authority",
+   "shall have the sole and exclusive power to provide for actuarial services",
+   "may by statute continue to prohibit certain investments by a retirement board"
+  ],
+  "limits": [
+   "The State shall not in any manner loan its credit",
+   "shall not be changed, amended, or modified by the Legislature"
+  ]
+ },
+ "a16-s18": {
+  "title": "Local debt limit and school bond votes",
+  "plain": "Local governments and school bodies may not incur debt beyond a year's income without two-thirds voter approval and a tax to repay it, except that bonds to fix unsafe school buildings need a majority, and certain school facility bonds need 55 percent. Each proposition is counted separately.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year"
+  ]
+ },
+ "a16-s19": {
+  "title": "Special assessment limits for charter cities and counties",
+  "plain": "Charter cities and counties paying for public improvements or acquisitions by special assessment must follow the laws on cost limits, valuation, excess costs and majority protest, unless the legislative body, after notice and hearing, finds by a four-fifths vote that public convenience and necessity require the work.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be undertaken only in accordance with the provisions of law governing"
+  ]
+ },
+ "a16-s20": {
+  "title": "Budget Stabilization Account",
+  "plain": "Creates the Budget Stabilization Account. The Controller must transfer 1.5 percent of General Fund revenues, plus certain capital gains revenues, to it each year, with half used through 2029–30 for listed debts. The balance is capped at 10 percent of tax proceeds.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "the Legislature may appropriate up to 50 percent",
+   "may utilize funds in the Budget Stabilization Account"
+  ],
+  "limits": [
+   "shall not exceed an amount that would result in a balance in the account that, when the transfer is made, exceeds 10 percent",
+   "may be expended only for infrastructure",
+   "shall not interfere with the purposes of the Budget Stabilization Account"
+  ]
+ },
+ "a16-s21": {
+  "title": "Public School System Stabilization Account",
+  "plain": "Creates the Public School System Stabilization Account. The Controller must transfer certain General Fund amounts to it each year, subject to listed limits, and the State must appropriate money from it for school districts and community college districts when funding falls short.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may utilize funds in the Public School System Stabilization Account"
+  ],
+  "limits": [
+   "no amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) for a fiscal year for which a maintenance factor is determined",
+   "No transfer shall be made for a year for which it was determined, based on the Budget Act for that fiscal year, that this condition would not be met",
+   "no amount shall be transferred to the Public School System Stabilization Account for any fiscal year for which any of the provisions of subdivision (b) of Section 8 are suspended",
+   "shall not exceed an amount that would result in a balance in the account that is in excess of 10 percent",
+   "shall not interfere with the purposes of the Public School System Stabilization Account"
+  ]
+ },
+ "a16-s22": {
+  "title": "Budget emergencies and reserve withdrawals",
+  "plain": "After the Governor proclaims a budget emergency, the Legislature may pass a bill suspending or reducing transfers to the Budget Stabilization Account or the Public School System Stabilization Account, or using their funds. The section defines \"budget emergency\" and limits how much may be withdrawn.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the Legislature may pass a bill that does any of the following"
+  ],
+  "limits": [
+   "Not more than 50 percent of the balance in the Budget Stabilization Account may be returned to the General Fund",
+   "shall not exceed either an amount that would result in a total General Fund expenditure level for a fiscal year that is greater than the highest amount of total General Fund expenditures"
+  ]
+ },
+ "a16-s23": {
+  "title": "Tobacco tax revenue excluded from school funding base",
+  "plain": "The tax imposed by the California Healthcare, Research and Prevention Tobacco Tax Act of 2016, and its revenue, are not considered General Fund revenues, state revenues, or General Fund proceeds of taxes for purposes of Section 8 and its implementing statutes.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a18-s1": {
+  "title": "Legislature may propose amendments or revision",
+  "plain": "By a two-thirds rollcall vote of each house, the Legislature may propose an amendment or revision of the Constitution, and in the same manner amend or withdraw its proposal. Each amendment must be prepared and submitted so it can be voted on separately.",
+  "category": "Amending & Ratifying",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may propose an amendment or revision of the Constitution",
+   "may amend or withdraw its proposal"
+  ],
+  "limits": []
+ },
+ "a18-s2": {
+  "title": "Constitutional convention",
+  "plain": "By a two-thirds rollcall vote of each house, the Legislature may ask voters at a general election whether to call a convention to revise the Constitution. If the majority vote yes, the Legislature must provide for the convention within 6 months; delegates are voters elected from districts.",
+  "category": "Amending & Ratifying",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may submit at a general election the question whether to call a convention to revise the Constitution"
+  ],
+  "limits": []
+ },
+ "a18-s3": {
+  "title": "Amendment by initiative",
+  "plain": "The electors may amend the Constitution by initiative.",
+  "category": "Amending & Ratifying",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may amend the Constitution by initiative"
+  ],
+  "limits": []
+ },
+ "a18-s4": {
+  "title": "Voter approval and effective date of amendments",
+  "plain": "A proposed amendment or revision must be submitted to the electors. If a majority approve, it takes effect on the fifth day after the Secretary of State files the statement of the vote, unless it provides a later operative date. Among conflicting measures, the one with most affirmative votes prevails.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19-s1": {
+  "title": "No borrowing from the Highway Users Tax Account",
+  "plain": "The Legislature may not borrow revenue from the Highway Users Tax Account, or its successor, or use these revenues for purposes or in ways other than those specifically permitted by this article.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not borrow revenue from the Highway Users Tax Account",
+   "shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article"
+  ]
+ },
+ "a19-s2": {
+  "title": "Uses of motor vehicle fuel tax revenues",
+  "plain": "State motor vehicle fuel tax revenues, after collection costs and refunds, go into the Highway Users Tax Account, a trust fund, are allocated monthly under Section 4, and may be used solely for public streets and highways and for exclusive public mass transit guideways.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be used solely for the following purposes"
+  ]
+ },
+ "a19-s3": {
+  "title": "Uses of vehicle fee and tax revenues",
+  "plain": "State revenues from fees and taxes on vehicles or their use or operation, after collection costs and refunds, are to be used for state administration and enforcement of vehicle laws and related emissions mitigation, and for the purposes in Section 2.",
+  "category": "Transportation",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19-s4": {
+  "title": "Allocation of highway revenues to local areas",
+  "plain": "The statutory formulas in effect on June 30, 2009, for allocating fuel tax revenues to cities, counties and areas stay in effect. The Legislature may change them only after set findings, hearings and a report, by a two-thirds vote, and may not divert or delay these revenues.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not modify the statutory allocations in effect on June 30, 2009",
+   "shall not modify the statutory allocation pursuant to subdivision (b)",
+   "may be used solely by the entity to which they are allocated",
+   "may not take any action which permanently or temporarily does any of the following"
+  ]
+ },
+ "a19-s5": {
+  "title": "Local voter approval for mass transit use",
+  "plain": "Revenues allocated under Section 4 may not be spent on mass transit guideways, except for research and planning, until approved by a majority of voters in the area where they are to be spent. The Legislature may authorize these revenues to pay voter-approved guideway bonds.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may authorize the revenues approved for allocation or expenditure under this section to be pledged or used for the payment of principal and interest on voter-approved bonds"
+  ],
+  "limits": [
+   "may not be expended for the purposes specified in subdivision (b) of Section 2"
+  ]
+ },
+ "a19-s6": {
+  "title": "Highway revenues pledged for bonds",
+  "plain": "Up to 25 percent of highway revenues allocated to the State may be pledged or used, with voter approval and legislative appropriation, to pay voter-approved state highway bonds. Up to 25 percent of a city's or county's allocation may be pledged or used only by it for its voter-approved bonds.",
+  "category": "Transportation",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be pledged or used by the State",
+   "may be pledged or used only by any city or county"
+  ],
+  "limits": []
+ },
+ "a19-s7": {
+  "title": "Replacement revenue for highway taxes",
+  "plain": "If the Legislature reduces or repeals the fuel taxes in Section 2 and adopts a replacement revenue source, the replacement revenue goes into the Highway Users Tax Account, is dedicated to Section 2 purposes and allocated under Section 4, and is subject to all of this article.",
+  "category": "Transportation",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19-s8": {
+  "title": "Sales tax and vehicle license fees excluded",
+  "plain": "This article does not affect or apply to fees or taxes imposed under the Sales and Use Tax Law or the Vehicle License Fee Law, including all amendments and additions to them.",
+  "category": "Transportation",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19-s9": {
+  "title": "Surplus local property used for parks",
+  "plain": "Real property bought with these designated tax revenues by an entity other than the State, and no longer required for those purposes, may be used for local public park and recreational purposes.",
+  "category": "Transportation",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be used for local public park and recreational purposes"
+  ],
+  "limits": []
+ },
+ "a19-s10": {
+  "title": "Transfer of surplus coastal property",
+  "plain": "The Legislature may by statute authorize transferring surplus state property in the coastal zone, bought with these tax revenues, for at least its acquisition cost, to listed state park, fish and wildlife, wildlife conservation and coastal conservancy agencies for their purposes. The section defines \"coastal zone.\"",
+  "category": "Transportation",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize the transfer of such property"
+  ],
+  "limits": []
+ },
+ "a19a-s1": {
+  "title": "Public Transportation Account protected",
+  "plain": "The Public Transportation Account is a trust fund. The Legislature may not borrow from it, change its status, or divert or delay its revenues, which may be used only for transportation planning and mass transportation and are continuously appropriated to the Controller for allocation. Key terms are defined.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not borrow revenues from the Public Transportation Account",
+   "shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article",
+   "may not change the status of the Public Transportation Account as a trust fund",
+   "may not be loaned or otherwise transferred to the General Fund or any other fund or account in the State Treasury",
+   "may not take any action which temporarily or permanently diverts or appropriates these revenues",
+   "may only be used for transportation planning and mass transportation purposes",
+   "may not take any action that temporarily or permanently diverts or appropriates these revenues"
+  ]
+ },
+ "a19a-s2": {
+  "title": "Local transportation funds protected",
+  "plain": "Local transportation funds are trust funds that may not be abolished. Their money may be allocated only by the local government that created the fund and only for set purposes, and the Legislature may not divert, borrow or reduce these revenues.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not change the status of local transportation funds as trust funds",
+   "may not be abolished",
+   "shall be allocated only by the local government that created the fund",
+   "Neither the county nor the Legislature may authorize the expenditure of money in a local transportation fund for purposes other than those specified in this subdivision",
+   "may not enact a statute or take any other action which, permanently or temporarily, does any of the following",
+   "shall not be reduced below the percentage that was transmitted to such funds during the 2008 calendar year"
+  ]
+ },
+ "a19b-s1": {
+  "title": "No borrowing from the Transportation Investment Fund",
+  "plain": "The Legislature may not borrow revenues from the Transportation Investment Fund, or its successor, or use these revenues for purposes or in ways other than those specifically permitted by this article.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not borrow revenues from the Transportation Investment Fund",
+   "shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article"
+  ]
+ },
+ "a19b-s2": {
+  "title": "Motor vehicle fuel sales tax revenues for transportation",
+  "plain": "Sales and use tax revenues on motor vehicle fuel must be deposited into the Transportation Investment Fund, a trust fund, and used only for public transit, transportation capital projects, and city and county street and highway work, in set shares. The Legislature may not divert or borrow them.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may provide by statute for the issuance of bonds"
+  ],
+  "limits": [
+   "The Legislature may not change the status of the Transportation Investment Fund as a trust fund",
+   "The Legislature may not enact a statute that modifies the percentage shares set forth in subdivision (c)",
+   "The Legislature may not enact a statute or take any other action"
+  ]
+ },
+ "a19c-s1": {
+  "title": "Restoring unlawfully diverted transportation funds",
+  "plain": "If a challenge to an action that violates Article XIX, XIX A, or XIX B succeeds, enough General Fund revenue is continuously appropriated to the Controller to restore the fund or account from which revenues were unlawfully taken or diverted.",
+  "category": "Transportation",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19c-s2": {
+  "title": "Restoring unlawfully diverted local revenues",
+  "plain": "If a challenge to an action that violates Section 24 or Section 25.5 of Article XIII succeeds, an amount equal to the revenue unlawfully taken or diverted is continuously appropriated from the General Fund to the local government.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19c-s3": {
+  "title": "Interest and timing of restored funds",
+  "plain": "Interest at the Pooled Money Investment Fund rate accrues on amounts to be restored. Within 30 days after a challenge succeeds, the Controller must make the transfer and notify the parties it is complete.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a19c-s4": {
+  "title": "No bond required for injunctions in challenges",
+  "plain": "In a challenge brought under this section, if a restraining order or preliminary injunction is issued, the plaintiffs or petitioners do not have to post a bond to indemnify the government defendants or the State for any damage it may cause.",
+  "category": "Transportation",
+  "kind": "Right",
+  "rights": [
+   "the plaintiffs or petitioners shall not be required to post a bond"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a19d-s1": {
+  "title": "Vehicle license fee revenues for transportation",
+  "plain": "Vehicle license fee revenues, beyond collection costs and refunds, must be used only for transportation purposes, not to pay certain state transportation bonds. Except as allowed by two Government Code sections, the Legislature may not borrow these revenues or use them otherwise.",
+  "category": "Transportation",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be used for the payment of principal and interest on state transportation general obligation bonds",
+   "the Legislature shall not borrow the revenues described in subdivision (a)",
+   "shall not use these revenues for purposes, or in ways, other than as authorized in subdivisions (a) or (b)"
+  ]
+ },
+ "a20-s1": {
+  "title": "Consolidation of Sacramento city and county",
+  "plain": "The County of Sacramento and any of its cities may be consolidated by statute as a charter city and county, with approval of a majority of the county's voters on the question. The resulting City and County is both a charter city and a charter county.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be consolidated as a charter city and county as provided by statute"
+  ],
+  "limits": []
+ },
+ "a20-s1.5": {
+  "title": "Homestead protection from forced sale",
+  "plain": "The Legislature must protect by law a certain portion of the homestead and other property of all heads of families from forced sale.",
+  "category": "Housing & Public Utilities",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a20-s2": {
+  "title": "Stanford University and Huntington Library",
+  "plain": "Except for tax exemptions provided in Article XIII, the rights, powers, privileges, and confirmations given by Sections 10 and 15 of Article IX, as in effect on January 1, 1973, relating to Stanford University and the Huntington Library and Art Gallery, continue in effect.",
+  "category": "Education",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a20-s3": {
+  "title": "Oath of office for public officers",
+  "plain": "Members of the Legislature and all public officers and employees, except inferior ones exempted by law, must take the stated oath or affirmation before entering office. No other oath, declaration, or test may be required as a qualification for public office or employment.",
+  "category": "Public Officers & Employees",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no other oath, declaration, or test, shall be required as a qualification for any public office or employment"
+  ]
+ },
+ "a20-s4": {
+  "title": "Franchise leasing cannot avoid liabilities",
+  "plain": "The Legislature may not pass laws permitting the leasing or alienation of a franchise so as to relieve the franchise or property held under it from liabilities incurred in operating, using, or enjoying the franchise or its privileges.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "The Legislature shall not pass any laws permitting the leasing or alienation of any franchise"
+  ]
+ },
+ "a20-s5": {
+  "title": "Corporation laws may be changed",
+  "plain": "All laws in force concerning corporations, and all laws later passed under this section, may be altered from time to time or repealed.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be altered from time to time or repealed"
+  ],
+  "limits": []
+ },
+ "a20-s6": {
+  "title": "Benefits for legislators with shortened terms",
+  "plain": "A legislator whose term was reduced by the 1972 amendment to subdivision (a) of Section 2 of Article IV is entitled to retirement benefits and compensation as if the term had not been reduced.",
+  "category": "The Legislature",
+  "kind": "Right",
+  "rights": [
+   "be entitled to retirement benefits and compensation as if the term of office had not been so reduced"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a20-s7": {
+  "title": "When term limits apply",
+  "plain": "The term limits in Articles IV, V, IX, and XIII apply only to terms beginning by election or appointment on or after November 6, 1990, with an extra term for certain incumbent Senators. They do not apply to an unexpired term of less than half a full term.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Those limitations shall not apply to any unexpired term"
+  ]
+ },
+ "a20-s22": {
+  "title": "Alcoholic beverage control",
+  "plain": "The State has the exclusive right and power to license and regulate alcoholic beverages. The section sets up licensing, bars sales to and purchases by persons under 21, creates the Director and Department of Alcoholic Beverage Control and an Appeals Board, and sets their powers.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall have the exclusive right and power to license and regulate the manufacture, sale, purchase, possession and transportation of alcoholic beverages",
+   "shall have the exclusive right and power to regulate the importation into and exportation from the State, of alcoholic beverages",
+   "the Legislature may provide for the issuance of, among other licenses, licenses for the following types of premises",
+   "shall be appointed by the Governor",
+   "The director may be removed from office by the Governor",
+   "the Legislature shall have the power, by a majority vote of all members elected to each house, to remove the director from office",
+   "The director may appoint three persons who shall be exempt from civil service",
+   "shall have the exclusive power, except as herein provided and in accordance with laws enacted by the Legislature, to license the manufacture, importation and sale of alcoholic beverages in this State",
+   "shall have the power, in its discretion, to deny, suspend or revoke any specific alcoholic beverages license",
+   "The members of the board may be removed from office by the Governor",
+   "the Legislature shall have the power, by a majority vote of all members elected to each house, to remove any member from office",
+   "it may enter an order remanding the matter to the department for reconsideration",
+   "the board may direct the reconsideration of the matter in the light of its order",
+   "The Legislature may authorize, subject to reasonable restrictions, the sale in retail stores of alcoholic beverages contained in the original packages",
+   "may provide for the issuance of all types of licenses necessary to carry on the activities referred to in the first paragraph of this section"
+  ],
+  "limits": [
+   "the Legislature shall not constitute the State or any agency thereof a manufacturer or seller of alcoholic beverages",
+   "No person under the age of 21 years shall be permitted to enter and remain in any such premises without lawful business therein",
+   "no person shall sell, furnish, give, or cause to be sold, furnished, or given away any alcoholic beverage to any person under the age of 21 years",
+   "no person under the age of 21 years shall purchase any alcoholic beverage",
+   "the board shall not receive evidence in addition to that considered by the department",
+   "the order shall not limit or control in any way the discretion vested by law in the department",
+   "It shall be unlawful for any person other than a licensee of said department to manufacture, import or sell alcoholic beverages in this State"
+  ]
+ },
+ "a20-s23": {
+  "title": "Speaker on the State College governing agency",
+  "plain": "Notwithstanding any other provision of this Constitution, the Speaker of the Assembly is an ex officio member, with equal rights and duties, of any state agency created by the Legislature to manage and control the State College System of California.",
+  "category": "Education",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a21-s1": {
+  "title": "Redistricting after each census",
+  "plain": "In the year after each national census, the Citizens Redistricting Commission must adjust the boundary lines of congressional, State Senate, Assembly, and Board of Equalization districts, following the standards and process in Section 2.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a21-s2": {
+  "title": "Citizens Redistricting Commission and district criteria",
+  "plain": "Sets up the 14-member Citizens Redistricting Commission, its membership, voting and ethics rules, and the ranked criteria for drawing districts. The commission approves and certifies four final maps, subject to referendum; if a map fails, the Supreme Court has special masters draw it.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "The place of residence of any incumbent or political candidate shall not be considered in the creation of a map",
+   "Districts shall not be drawn for the purpose of favoring or discriminating against an incumbent, political candidate, or political party",
+   "Communities of interest shall not include relationships with political parties, incumbents, or political candidates"
+  ]
+ },
+ "a21-s3": {
+  "title": "Defending and challenging redistricting maps",
+  "plain": "The commission alone may defend a certified final map, and the Legislature must fund that defense. The California Supreme Court has original and exclusive jurisdiction over challenges, and any registered voter may petition for a writ within 45 days of certification.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [
+   "Any registered voter in this state may file a petition for a writ of mandate or writ of prohibition",
+   "Any registered voter in this state may also file a petition for a writ of mandate or writ of prohibition to seek relief"
+  ],
+  "powers": [
+   "The commission has the sole legal standing to defend any action regarding a certified final map",
+   "The commission has sole authority to determine whether the Attorney General or other legal counsel retained by the commission shall assist",
+   "The California Supreme Court has original and exclusive jurisdiction"
+  ],
+  "limits": []
+ },
+ "a21-s4": {
+  "title": "Temporary 2025 congressional districts",
+  "plain": "States California's policy supporting independent redistricting commissions nationwide. In response to Texas's 2025 redistricting, congressional districts in Assembly Bill 604 are used temporarily until the Citizens Redistricting Commission certifies new lines; the commission resumes in 2031.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The Attorney General has the sole legal standing to defend any action regarding a congressional district map",
+   "The California Supreme Court has original and exclusive jurisdiction"
+  ],
+  "limits": []
+ },
+ "a22-s1": {
+  "title": "Contracting for architectural and engineering services",
+  "plain": "The State and all other governmental entities may contract with qualified private entities for architectural and engineering services for all public works, in all phases of project development, without regard to funding source.",
+  "category": "Public Officers & Employees",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall be allowed to contract with qualified private entities for architectural and engineering services"
+  ],
+  "limits": []
+ },
+ "a22-s2": {
+  "title": "Article VII does not bar private contracting",
+  "plain": "Nothing in Article VII may be construed to limit, restrict or prohibit the State or other governmental entities from contracting with private entities for architectural and engineering services.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "contracting with private entities for the performance of architectural and engineering services"
+  ],
+  "limits": []
+ },
+ "a34-s1": {
+  "title": "Voter approval of low rent housing projects",
+  "plain": "No state public body may develop, construct or acquire a low rent housing project until a majority of the qualified electors of the city, town or county voting on it approve it at an election. Defines \"low rent housing project\", \"persons of low income\", \"state public body\" and \"Federal Government\".",
+  "category": "Housing & Public Utilities",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No low rent housing project shall hereafter be developed, constructed, or acquired in any manner by any state public body"
+  ]
+ },
+ "a34-s2": {
+  "title": "Article XXXIV is self-executing",
+  "plain": "The provisions of Article XXXIV are self-executing, but legislation not in conflict with it may be enacted to help it operate.",
+  "category": "Housing & Public Utilities",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "legislation not in conflict herewith may be enacted to facilitate its operation"
+  ],
+  "limits": []
+ },
+ "a34-s3": {
+  "title": "Severability of Article XXXIV",
+  "plain": "If any part of Article XXXIV, or its application to any person or circumstance, is declared unconstitutional or held invalid, the rest of the Article and its other applications are not affected.",
+  "category": "Housing & Public Utilities",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a34-s4": {
+  "title": "Article XXXIV supersedes conflicting provisions",
+  "plain": "Article XXXIV supersedes all provisions of the Constitution, and laws enacted under it, that conflict with it.",
+  "category": "Housing & Public Utilities",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a35-s1": {
+  "title": "California Institute for Regenerative Medicine",
+  "plain": "Establishes the California Institute for Regenerative Medicine.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a35-s2": {
+  "title": "Purposes of the stem cell institute",
+  "plain": "The institute's purposes are to make grants and loans for stem cell and other vital research and facilities, to support all stages of developing cures through clinical trials, and to establish regulatory standards and oversight bodies.",
+  "category": "Founding & Purposes",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "To make grants and loans for stem cell research, for research facilities, and for other vital research opportunities",
+   "To support all stages of the process of developing cures",
+   "To establish the appropriate regulatory standards and oversight bodies for research and facilities development"
+  ],
+  "limits": []
+ },
+ "a35-s3": {
+  "title": "No funds for human reproductive cloning",
+  "plain": "No funds authorized for, or made available to, the institute may be used for research involving human reproductive cloning.",
+  "category": "Founding & Purposes",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No funds authorized for, or made available to, the institute shall be used for research involving human reproductive cloning"
+  ]
+ },
+ "a35-s4": {
+  "title": "Institute funds continuously appropriated",
+  "plain": "Funds for the institute are continuously appropriated without regard to fiscal year, may be used only for this article's purposes, and are not subject to appropriation or transfer by the Legislature or the Governor for any other purpose.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be subject to appropriation or transfer by the Legislature or the Governor for any other purpose"
+  ]
+ },
+ "a35-s5": {
+  "title": "Right to conduct stem cell research",
+  "plain": "Establishes a right to conduct stem cell research, including research involving adult, cord blood and pluripotent stem cells and progenitor cells, and defines pluripotent stem cells and progenitor cells.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "a right to conduct stem cell research"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a35-s6": {
+  "title": "Bond funding for the institute",
+  "plain": "Notwithstanding any other provision of the Constitution or any law, the institute, established in state government, may use state issued tax-exempt and taxable bonds to fund its operations, research and facilities.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may utilize state issued tax-exempt and taxable bonds"
+  ],
+  "limits": []
+ },
+ "a35-s7": {
+  "title": "Institute exempt from civil service",
+  "plain": "Notwithstanding any other provision of the Constitution, including Article VII, or any law, the institute and its employees are exempt from civil service.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
  }
 }

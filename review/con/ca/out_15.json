@@ -1,0 +1,2127 @@
+{
+ "a13b-s15": {
+  "review": {
+   "title": "Road repair revenues excluded from spending limit",
+   "plain": "Appropriations of revenues from the Road Maintenance and Rehabilitation Account, or other revenues deposited under the Road Repair and Accountability Act of 2017, are not appropriations subject to limitation, and no adjustment of any appropriations limit is required because of them.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” of each entity of government shall not include appropriations of revenues from the Road Maintenance and Rehabilitation Account created by the Road Repair and Accountability Act of 2017, or any other revenues deposited into any other funds pursuant to the act",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No adjustment in the appropriations limit of any entity of government shall be required pursuant to Section 3 as a result of revenues being deposited in or appropriated from the Road Maintenance and Rehabilitation Account or any other account pursuant to the act",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13c-s1": {
+  "review": {
+   "title": "Definitions for local tax voter approval",
+   "plain": "Defines general tax, local government, special district, special tax and tax for this article, lists seven kinds of charges that are not taxes, and puts on the local government the burden of proving that a levy is not a tax.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "“General tax” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"General tax\": any tax imposed for general governmental purposes"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "“Local government” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Local government\": any county, city, city and county, including a charter city or county, any special district, or any other local or regional governmental entity"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "“Special district” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Special district\": an agency of the State, formed pursuant to general law or a special act, for the local performance of governmental or proprietary functions with limited geographic boundaries including, but not limited to, school districts and redevelopment agencies"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "“Special tax” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Special tax\": any tax imposed for specific purposes, including a tax imposed for specific purposes, which is placed into a general fund"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "“Tax” means any levy, charge, or exaction of any kind imposed by a local government, except the listed charges",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "(1) A charge imposed for a specific benefit conferred or privilege granted directly to the payor that is not provided to those not charged, and which does not exceed the reasonable costs to the local government of conferring the benefit or granting the privilege",
+      "(2) A charge imposed for a specific government service or product provided directly to the payor that is not provided to those not charged, and which does not exceed the reasonable costs to the local government of providing the service or product",
+      "(3) A charge imposed for the reasonable regulatory costs to a local government for issuing licenses and permits, performing investigations, inspections, and audits, enforcing agricultural marketing orders, and the administrative enforcement and adjudication thereof",
+      "(4) A charge imposed for entrance to or use of local government property, or the purchase, rental, or lease of local government property",
+      "(5) A fine, penalty, or other monetary charge imposed by the judicial branch of government or a local government, as a result of a violation of law",
+      "(6) A charge imposed as a condition of property development",
+      "(7) Assessments and property-related fees imposed in accordance with the provisions of Article XIII D"
+     ],
+     "terms": [
+      "\"tax\": any levy, charge, or exaction of any kind imposed by a local government, except the charges listed in paragraphs (1) to (7)"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The local government bears the burden of proving by a preponderance of the evidence that a levy, charge, or other exaction is not a tax, that the amount is no more than necessary to cover the reasonable costs of the governmental activity, and that the manner in which those costs are allocated to a payor bear a fair or reasonable relationship to the payor’s burdens on, or benefits received from, the governmental activity",
+     "holder": null,
+     "binds": "The local government",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13c-s2": {
+  "review": {
+   "title": "Voter approval of local general and special taxes",
+   "plain": "Every local tax is either general or special. Special purpose districts may not levy general taxes. A local government may not impose, extend or increase a general tax without majority voter approval, or a special tax without two-thirds voter approval.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall have no power to levy general taxes",
+    "No local government may impose, extend, or increase any general tax",
+    "No local government may impose, extend, or increase any special tax"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "All taxes imposed by any local government shall be deemed to be either general taxes or special taxes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this Constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Special purpose districts or agencies, including school districts, shall have no power to levy general taxes",
+     "holder": null,
+     "binds": "Special purpose districts or agencies, including school districts",
+     "requires": [],
+     "forbids": [
+      "Levying general taxes"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No local government may impose, extend, or increase any general tax unless and until that tax is submitted to the electorate and approved by a majority vote",
+     "holder": null,
+     "binds": "No local government",
+     "requires": [],
+     "forbids": [
+      "Imposing, extending, or increasing any general tax without approval by a majority vote of the electorate"
+     ],
+     "conditions": [
+      "unless and until that tax is submitted to the electorate and approved by a majority vote"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "A general tax shall not be deemed to have been increased if it is imposed at a rate not higher than the maximum rate so approved",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The election required by this subdivision shall be consolidated with a regularly scheduled general election for members of the governing body of the local government",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except in cases of emergency declared by a unanimous vote of the governing body"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "Any general tax imposed, extended, or increased, without voter approval, by any local government on or after January 1, 1995, and prior to the effective date of this article, shall continue to be imposed only if approved by a majority vote of the voters voting in an election on the issue of the imposition",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The election shall be held within two years of the effective date of this article and in compliance with subdivision (b)"
+     ],
+     "forbids": [],
+     "conditions": [
+      "only if approved by a majority vote of the voters voting in an election on the issue of the imposition"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "No local government may impose, extend, or increase any special tax unless and until that tax is submitted to the electorate and approved by a two-thirds vote",
+     "holder": null,
+     "binds": "No local government",
+     "requires": [],
+     "forbids": [
+      "Imposing, extending, or increasing any special tax without approval by a two-thirds vote of the electorate"
+     ],
+     "conditions": [
+      "unless and until that tax is submitted to the electorate and approved by a two-thirds vote"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "A special tax shall not be deemed to have been increased if it is imposed at a rate not higher than the maximum rate so approved",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13c-s3": {
+  "review": {
+   "title": "Initiative power over local taxes and fees",
+   "plain": "The initiative power may not be prohibited or limited in reducing or repealing any local tax, assessment, fee or charge. It applies to all local governments, and neither the Legislature nor a local charter may require more signatures than for statewide statutory initiatives.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The power of initiative to affect local taxes, assessments, fees and charges shall be applicable to all local governments"
+   ],
+   "limits": [
+    "the initiative power shall not be prohibited or otherwise limited",
+    "neither the Legislature nor any local government charter shall impose a signature requirement higher than that applicable to statewide statutory initiatives"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The initiative power shall not be prohibited or otherwise limited in matters of reducing or repealing any local tax, assessment, fee or charge",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Prohibiting or otherwise limiting the initiative power in matters of reducing or repealing any local tax, assessment, fee or charge"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this Constitution, including, but not limited to, Sections 8 and 9 of Article II"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The power of initiative to affect local taxes, assessments, fees and charges shall be applicable to all local governments",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the Legislature nor any local government charter shall impose a signature requirement higher than that applicable to statewide statutory initiatives",
+     "holder": null,
+     "binds": "The Legislature and any local government charter",
+     "requires": [],
+     "forbids": [
+      "Imposing a signature requirement higher than that applicable to statewide statutory initiatives"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13d-s1": {
+  "review": {
+   "title": "Scope of the assessment and fee article",
+   "plain": "This article applies to all assessments, fees and charges, whether imposed under state statute or local charter authority. Nothing in it or in Article XIII C gives any agency new authority to tax, or affects existing laws on development fees or timber yield taxes.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this article shall apply to all assessments, fees and charges, whether imposed pursuant to state statute or local government charter authority",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Nothing in this article or Article XIII C shall be construed to provide any new authority to any agency to impose a tax, assessment, fee, or charge",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Nothing in this article or Article XIII C shall be construed to affect existing laws relating to the imposition of fees or charges as a condition of property development",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Nothing in this article or Article XIII C shall be construed to affect existing laws relating to the imposition of timber yield taxes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13d-s2": {
+  "review": {
+   "title": "Definitions for assessments and property fees",
+   "plain": "Defines the terms used in this article: agency, assessment, capital cost, district, fee or charge, maintenance and operation expenses, property ownership, property-related service and special benefit.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "“Agency” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Agency\": any local government as defined in subdivision (b) of Section 1 of Article XIII C"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "“Assessment” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Assessment\": any levy or charge upon real property by an agency for a special benefit conferred upon the real property; includes, but is not limited to, \"special assessment,\" \"benefit assessment,\" \"maintenance assessment\" and \"special assessment tax\""
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "“Capital cost” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Capital cost\": the cost of acquisition, installation, construction, reconstruction, or replacement of a permanent public improvement by an agency"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "“District” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"District\": an area determined by an agency to contain all parcels which will receive a special benefit from a proposed public improvement or property-related service"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "“Fee” or “charge” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Fee\" or \"charge\": any levy other than an ad valorem tax, a special tax, or an assessment, imposed by an agency upon a parcel or upon a person as an incident of property ownership, including a user fee or charge for a property related service"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "“Maintenance and operation expenses” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Maintenance and operation expenses\": the cost of rent, repair, replacement, rehabilitation, fuel, power, electrical current, care, and supervision necessary to properly operate and maintain a permanent public improvement"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "“Property ownership” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Property ownership\": shall be deemed to include tenancies of real property where tenants are directly liable to pay the assessment, fee, or charge in question"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "structure",
+     "what": "“Property-related service” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Property-related service\": a public service having a direct relationship to property ownership"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "structure",
+     "what": "“Special benefit” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Special benefit\": a particular and distinct benefit over and above general benefits conferred on real property located in the district or to the public at large; general enhancement of property value does not constitute \"special benefit\""
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13d-s3": {
+  "review": {
+   "title": "Limits on property taxes, assessments and fees",
+   "plain": "No agency may levy a tax, assessment, fee or charge on a parcel or on a person as an incident of property ownership except the ad valorem property tax, a special tax approved by two-thirds vote, and assessments and property-related fees as this article provides.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No tax, assessment, fee, or charge shall be assessed by any agency upon any parcel of property or upon any person as an incident of property ownership"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No tax, assessment, fee, or charge shall be assessed by any agency upon any parcel of property or upon any person as an incident of property ownership",
+     "holder": null,
+     "binds": "Any agency",
+     "requires": [],
+     "forbids": [
+      "Assessing any tax, assessment, fee, or charge upon any parcel of property or upon any person as an incident of property ownership"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "(1) The ad valorem property tax imposed pursuant to Article XIII and Article XIII A",
+      "(2) Any special tax receiving a two-thirds vote pursuant to Section 4 of Article XIII A",
+      "(3) Assessments as provided by this article",
+      "(4) Fees or charges for property related services as provided by this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "For purposes of this article, fees for the provision of electrical or gas service shall not be deemed charges or fees imposed as an incident of property ownership",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13d-s4": {
+  "review": {
+   "title": "Procedures and requirements for assessments",
+   "plain": "An agency proposing an assessment must identify benefited parcels, limit each assessment to the parcel's proportional special benefit, support it with an engineer's report, mail notice and a ballot to owners, and hold a hearing; it may not impose the assessment if there is a majority protest.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No assessment shall be imposed on any parcel which exceeds the reasonable cost of the proportional special benefit conferred on that parcel",
+    "shall not be exempt from assessment",
+    "The agency shall not impose an assessment if there is a majority protest",
+    "the assessment shall not be imposed unless approved by a two-thirds vote of the electorate in the district"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "An agency which proposes to levy an assessment shall identify all parcels which will have a special benefit conferred upon them and upon which an assessment will be imposed",
+     "holder": null,
+     "binds": "An agency which proposes to levy an assessment",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The proportionate special benefit derived by each identified parcel shall be determined in relationship to the entirety of the capital cost of a public improvement, the maintenance and operation expenses of a public improvement, or the cost of the property related service being provided",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No assessment shall be imposed on any parcel which exceeds the reasonable cost of the proportional special benefit conferred on that parcel",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Imposing an assessment on any parcel which exceeds the reasonable cost of the proportional special benefit conferred on that parcel"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Only special benefits are assessable, and an agency shall separate the general benefits from the special benefits conferred on a parcel",
+     "holder": null,
+     "binds": "An agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Parcels within a district that are owned or used by any agency, the State of California or the United States shall not be exempt from assessment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the agency can demonstrate by clear and convincing evidence that those publicly owned parcels in fact receive no special benefit"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "All assessments shall be supported by a detailed engineer’s report prepared by a registered professional engineer certified by the State of California",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The amount of the proposed assessment for each identified parcel shall be calculated and the record owner of each parcel shall be given written notice by mail of the proposed assessment, the total amount thereof chargeable to the entire district, the amount chargeable to the owner’s particular parcel, the duration of the payments, the reason for the assessment and the basis upon which the amount was calculated, together with the date, time, and location of a public hearing",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Each notice shall also include, in a conspicuous place thereon, a summary of the procedures applicable to the completion, return, and tabulation of the ballots required pursuant to subdivision (d), including a disclosure statement that the existence of a majority protest, as defined in subdivision (e), will result in the assessment not being imposed"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "Each notice mailed to owners of identified parcels within the district pursuant to subdivision (c) shall contain a ballot which includes the agency’s address for receipt of the ballot once completed by any owner receiving the notice whereby the owner may indicate his or her name, reasonable identification of the parcel, and his or her support or opposition to the proposed assessment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The agency shall conduct a public hearing upon the proposed assessment not less than 45 days after mailing the notice of the proposed assessment to record owners of each identified parcel; at the public hearing, the agency shall consider all protests against the proposed assessment and tabulate the ballots",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "The agency shall not impose an assessment if there is a majority protest",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [
+      "Imposing an assessment if there is a majority protest"
+     ],
+     "conditions": [
+      "if there is a majority protest"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"majority protest\": exists if, upon the conclusion of the hearing, ballots submitted in opposition to the assessment exceed the ballots submitted in favor of the assessment"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "In tabulating the ballots, the ballots shall be weighted according to the proportional financial obligation of the affected property",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "In any legal action contesting the validity of any assessment, the burden shall be on the agency to demonstrate that the property or properties in question receive a special benefit over and above the benefits conferred on the public at large and that the amount of any contested assessment is proportional to, and no greater than, the benefits conferred on the property or properties in question",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "Because only special benefits are assessable, electors residing within the district who do not own property within the district shall not be deemed under this Constitution to have been deprived of the right to vote for any assessment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "The assessment shall not be imposed unless approved by a two-thirds vote of the electorate in the district in addition to being approved by the property owners as required by subdivision (e)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If a court determines that the Constitution of the United States or other federal law requires otherwise"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13d-s5": {
+  "review": {
+   "title": "Effective date of the assessment and fee article",
+   "plain": "This article takes effect the day after the election unless otherwise provided. From July 1, 1997, all assessments must comply with it, but four kinds of existing assessments are exempt from Section 4's procedures, though later increases in three of them are not.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Pursuant to subdivision (a) of Section 10 of Article II, the provisions of this article shall become effective the day after the election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless otherwise provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Beginning July 1, 1997, all existing, new, or increased assessments shall comply with this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Any assessment existing on the effective date of this article imposed exclusively to finance the capital costs or maintenance and operation expenses for sidewalks, streets, sewers, water, flood control, drainage systems or vector control shall be exempt from the procedures and approval process set forth in Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Subsequent increases in such assessments shall be subject to the procedures and approval process set forth in Section 4"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Any assessment existing on the effective date of this article imposed pursuant to a petition signed by the persons owning all of the parcels subject to the assessment at the time the assessment is initially imposed shall be exempt from the procedures and approval process set forth in Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Subsequent increases in such assessments shall be subject to the procedures and approval process set forth in Section 4"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Any assessment existing on the effective date of this article the proceeds of which are exclusively used to repay bonded indebtedness of which the failure to pay would violate the Contract Impairment Clause of the Constitution of the United States shall be exempt from the procedures and approval process set forth in Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Any assessment existing on the effective date of this article which previously received majority voter approval from the voters voting in an election on the issue of the assessment shall be exempt from the procedures and approval process set forth in Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Subsequent increases in those assessments shall be subject to the procedures and approval process set forth in Section 4"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13d-s6": {
+  "review": {
+   "title": "Property-related fees and charges",
+   "plain": "An agency must give mailed notice and hold a hearing before imposing or increasing a property-related fee, and may not impose it over a majority written protest. Fees may not exceed the cost of the service or be used for other purposes, and most need voter approval.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "An agency may adopt procedures similar to those for increases in assessments"
+   ],
+   "limits": [
+    "the agency shall not impose the fee or charge",
+    "A fee or charge shall not be extended, imposed, or increased by any agency",
+    "shall not exceed the funds required to provide the property related service",
+    "shall not be used for any purpose other than that for which the fee or charge was imposed",
+    "shall not exceed the proportional cost of the service attributable to the parcel",
+    "No fee or charge may be imposed for a service unless that service is actually used by, or immediately available to, the owner of the property in question",
+    "Fees or charges based on potential or future use of a service are not permitted",
+    "No fee or charge may be imposed for general governmental services",
+    "no property related fee or charge shall be imposed or increased unless and until that fee or charge is submitted and approved"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "An agency shall follow the procedures pursuant to this section in imposing or increasing any fee or charge as defined pursuant to this article",
+     "holder": null,
+     "binds": "An agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)",
+     "kind": "duty",
+     "what": "The parcels upon which a fee or charge is proposed for imposition shall be identified; the amount of the fee or charge proposed to be imposed upon each parcel shall be calculated; the agency shall provide written notice by mail of the proposed fee or charge to the record owner of each identified parcel, the amount proposed to be imposed upon each, the basis upon which the amount was calculated, the reason for the fee or charge, together with the date, time, and location of a public hearing",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "duty",
+     "what": "The agency shall conduct a public hearing upon the proposed fee or charge not less than 45 days after mailing the notice to the record owners of each identified parcel; at the public hearing, the agency shall consider all protests against the proposed fee or charge",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "limit",
+     "what": "If written protests against the proposed fee or charge are presented by a majority of owners of the identified parcels, the agency shall not impose the fee or charge",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [
+      "Imposing the fee or charge"
+     ],
+     "conditions": [
+      "If written protests against the proposed fee or charge are presented by a majority of owners of the identified parcels"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A fee or charge shall not be extended, imposed, or increased by any agency unless it meets all of the following requirements",
+     "holder": null,
+     "binds": "Any agency",
+     "requires": [],
+     "forbids": [
+      "Extending, imposing, or increasing a fee or charge that does not meet all of the requirements of paragraphs (1) to (5)"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "limit",
+     "what": "Revenues derived from the fee or charge shall not exceed the funds required to provide the property related service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Revenues derived from the fee or charge exceeding the funds required to provide the property related service"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "limit",
+     "what": "Revenues derived from the fee or charge shall not be used for any purpose other than that for which the fee or charge was imposed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Using revenues derived from the fee or charge for any purpose other than that for which the fee or charge was imposed"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "limit",
+     "what": "The amount of a fee or charge imposed upon any parcel or person as an incident of property ownership shall not exceed the proportional cost of the service attributable to the parcel",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "limit",
+     "what": "No fee or charge may be imposed for a service unless that service is actually used by, or immediately available to, the owner of the property in question; fees or charges based on potential or future use of a service are not permitted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Fees or charges based on potential or future use of a service"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "limit",
+     "what": "Standby charges, whether characterized as charges or assessments, shall be classified as assessments and shall not be imposed without compliance with Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Imposing standby charges without compliance with Section 4"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "limit",
+     "what": "No fee or charge may be imposed for general governmental services including, but not limited to, police, fire, ambulance or library services, where the service is available to the public at large in substantially the same manner as it is to property owners",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "where the service is available to the public at large in substantially the same manner as it is to property owners"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "structure",
+     "what": "Reliance by an agency on any parcel map, including, but not limited to, an assessor’s parcel map, may be considered a significant factor in determining whether a fee or charge is imposed as an incident of property ownership for purposes of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "structure",
+     "what": "In any legal action contesting the validity of a fee or charge, the burden shall be on the agency to demonstrate compliance with this article",
+     "holder": null,
+     "binds": "The agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "No property related fee or charge shall be imposed or increased unless and until that fee or charge is submitted and approved by a majority vote of the property owners of the property subject to the fee or charge or, at the option of the agency, by a two-thirds vote of the electorate residing in the affected area",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The election shall be conducted not less than 45 days after the public hearing"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except for fees or charges for sewer, water, and refuse collection services"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "An agency may adopt procedures similar to those for increases in assessments in the conduct of elections under this subdivision",
+     "holder": "An agency",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "Beginning July 1, 1997, all fees or charges shall comply with this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s1": {
+  "review": {
+   "title": "Minimum wages and employee welfare",
+   "plain": "The Legislature may provide for minimum wages and for the general welfare of employees, and for those purposes may give a commission legislative, executive and judicial powers.",
+   "category": "Labor",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may provide for minimum wages and for the general welfare of employees",
+    "may confer on a commission legislative, executive, and judicial powers"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide for minimum wages and for the general welfare of employees",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "For those purposes the Legislature may confer on a commission legislative, executive, and judicial powers",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s2": {
+  "review": {
+   "title": "Eight-hour day on public works",
+   "plain": "Mechanics and workers on public works may not work more than eight hours a day, except in wartime or extraordinary emergencies that endanger life or property. The Legislature must provide for enforcement.",
+   "category": "Labor",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not exceed eight hours a day"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Worktime of mechanics or workers on public works may not exceed eight hours a day",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Worktime of mechanics or workers on public works exceeding eight hours a day"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except in wartime or extraordinary emergencies that endanger life or property"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide for enforcement of this section",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s3": {
+  "review": {
+   "title": "Mechanics' and laborers' liens",
+   "plain": "Mechanics, material suppliers, artisans and laborers have a lien on the property they worked on or supplied, for the value of the labor and material. The Legislature must provide by law for speedy and efficient enforcement of these liens.",
+   "category": "Labor",
+   "kind": "Right",
+   "rights": [
+    "shall have a lien upon the property upon which they have bestowed labor or furnished material"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Mechanics, persons furnishing materials, artisans, and laborers of every class, shall have a lien upon the property upon which they have bestowed labor or furnished material for the value of such labor done and material furnished",
+     "holder": "Mechanics, persons furnishing materials, artisans, and laborers of every class",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide, by law, for the speedy and efficient enforcement of such liens",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s4": {
+  "review": {
+   "title": "Workers' compensation system",
+   "plain": "The Legislature has plenary power, unlimited by any provision of this Constitution, to create and enforce a complete system of workers' compensation, regardless of fault, and to provide how disputes are settled, subject to review by the appellate courts.",
+   "category": "Labor",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "is hereby expressly vested with plenary power, unlimited by any provision of this Constitution, to create, and enforce a complete system of workers’ compensation",
+    "to create and enforce a liability on the part of any or all persons to compensate any or all of their workers",
+    "is vested with plenary powers, to provide for the settlement of any disputes arising under such legislation",
+    "may fix and control the method and manner of trial of any such dispute",
+    "may combine in one statute all the provisions for a complete system of workers’ compensation",
+    "shall have power to provide for the payment of an award to the State"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature is hereby expressly vested with plenary power, unlimited by any provision of this Constitution, to create, and enforce a complete system of workers’ compensation, by appropriate legislation, and in that behalf to create and enforce a liability on the part of any or all persons to compensate any or all of their workers for injury or disability, and their dependents for death incurred or sustained by the said workers in the course of their employment, irrespective of the fault of any party",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"A complete system of workers’ compensation\": includes adequate provisions for the comfort, health and safety and general welfare of any and all workers and those dependent upon them for support to the extent of relieving from the consequences of any injury or death incurred or sustained by workers in the course of their employment, irrespective of the fault of any party; also full provision for securing safety in places of employment; full provision for such medical, surgical, hospital and other remedial treatment as is requisite to cure and relieve from the effects of such injury; full provision for adequate insurance coverage against liability to pay or furnish compensation; full provision for regulating such insurance coverage in all its aspects, including the establishment and management of a state compensation insurance fund; full provision for otherwise securing the payment of compensation; and full provision for vesting power, authority and jurisdiction in an administrative body with all the requisite governmental functions to determine any dispute or matter arising under such legislation"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The administration of such legislation shall accomplish substantial justice in all cases expeditiously, inexpensively, and without incumbrance of any character; all of which matters are expressly declared to be the social public policy of this State, binding upon all departments of the state government",
+     "holder": null,
+     "binds": "All departments of the state government",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature is vested with plenary powers, to provide for the settlement of any disputes arising under such legislation by arbitration, or by an industrial accident commission, by the courts, or by either, any, or all of these agencies, either separately or in combination, and may fix and control the method and manner of trial of any such dispute, the rules of evidence and the manner of review of decisions rendered by the tribunal or tribunals designated by it",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "all decisions of any such tribunal shall be subject to review by the appellate courts of this State"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may combine in one statute all the provisions for a complete system of workers’ compensation, as herein defined",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature shall have power to provide for the payment of an award to the State in the case of the death, arising out of and in the course of the employment, of an employee without dependents, and such awards may be used for the payment of extra compensation for subsequent injuries beyond the liability of a single employer for awards to employees of the employer",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing contained herein shall be taken or construed to impair or render ineffectual in any measure the creation and existence of the industrial accident commission of this State or the state compensation insurance fund, the creation and existence of which, with all the functions vested in them, are hereby ratified and confirmed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s5": {
+  "review": {
+   "title": "Contracts for inmate labor programs",
+   "plain": "The Director of Corrections, a county sheriff or other jail official may contract with public entities and organizations for programs that use inmate labor, but not with an employer to replace striking or locked-out workers. This section creates no right of inmates to work.",
+   "category": "Labor",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may enter into contracts with public entities, nonprofit or for profit organizations, entities, or businesses for the purpose of conducting programs which use inmate labor"
+   ],
+   "limits": [
+    "No contract shall be executed with an employer that will initiate employment by inmates in the same job classification as non-inmate employees of the same employer who are on strike",
+    "shall not exceed, for the duration of the strike, the average daily hours worked for the preceding six months"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Director of Corrections or any county Sheriff or other local government official charged with jail operations, may enter into contracts with public entities, nonprofit or for profit organizations, entities, or businesses for the purpose of conducting programs which use inmate labor",
+     "holder": "The Director of Corrections or any county Sheriff or other local government official charged with jail operations",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Such programs shall be operated and implemented pursuant to statutes enacted by or in accordance with the provisions of the Prison Inmate Labor Initiative of 1990, and by rules and regulations prescribed by the Director of Corrections and, for county jail programs, by local ordinances",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No contract shall be executed with an employer that will initiate employment by inmates in the same job classification as non-inmate employees of the same employer who are on strike, as defined in Section 1132.6 of the Labor Code, as it reads on January 1, 1990, or who are subject to lockout, as defined in Section 1132.8 of the Labor Code, as it reads on January 1, 1990",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Executing a contract with an employer that will initiate employment by inmates in the same job classification as non-inmate employees of the same employer who are on strike or who are subject to lockout"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Total daily hours worked by inmates employed in the same job classification as non-inmate employees of the same employer who are on strike or who are subject to lockout shall not exceed, for the duration of the strike, the average daily hours worked for the preceding six months, or if the program has been in operation for less than six months, the average for the period of operation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Nothing in this section shall be interpreted as creating a right of inmates to work",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a15-s1": {
+  "review": {
+   "title": "Interest rates and usury",
+   "plain": "Sets the legal interest rate at 7 percent a year, but parties may contract in writing for up to 10 percent on personal loans, or a market-based rate on others. Fees may not exceed the authorized interest. Listed lenders are exempt. Judgment interest is capped at 10 percent.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [
+    "it shall be competent for the parties to any loan or forbearance of any money, goods or things in action to contract in writing for a rate of interest"
+   ],
+   "powers": [
+    "The Legislature may from time to time prescribe the maximum rate per annum of, or provide for the supervision, or the filing of a schedule of, or in any manner fix, regulate or limit, the fees"
+   ],
+   "limits": [
+    "at a rate not exceeding 10 percent per annum",
+    "at a rate not exceeding the higher of (a) 10 percent per annum or (b) 5 percent per annum plus the rate prevailing",
+    "No person, association, copartnership or corporation shall by charging any fee, bonus, commission, discount or other compensation receive from a borrower more than the interest authorized by this section",
+    "at not more than 10 percent per annum"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The rate of interest upon the loan or forbearance of any money, goods, or things in action, or on accounts after demand, shall be 7 percent per annum",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "It shall be competent for the parties to any loan or forbearance of any money, goods or things in action to contract in writing for a rate of interest within the limits of paragraphs (1) and (2)",
+     "holder": "The parties to any loan or forbearance of any money, goods or things in action",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(1)",
+     "kind": "limit",
+     "what": "For any loan or forbearance of any money, goods, or things in action, if the money, goods, or things in action are for use primarily for personal, family, or household purposes, at a rate not exceeding 10 percent per annum",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the money, goods, or things in action are for use primarily for personal, family, or household purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(1)",
+     "kind": "structure",
+     "what": "Any loan or forbearance of any money, goods or things in action the proceeds of which are used primarily for the purchase, construction or improvement of real property shall not be deemed to be a use primarily for personal, family or household purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(2)",
+     "kind": "limit",
+     "what": "For any loan or forbearance of any money, goods, or things in action for any use other than specified in paragraph (1), at a rate not exceeding the higher of (a) 10 percent per annum or (b) 5 percent per annum plus the rate prevailing on the 25th day of the month preceding the earlier of (i) the date of execution of the contract to make the loan or forbearance, or (ii) the date of making the loan or forbearance established by the Federal Reserve Bank of San Francisco on advances to member banks under Sections 13 and 13a of the Federal Reserve Act as now in effect or hereafter from time to time amended",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if there is no such single determinable rate of advances, the closest counterpart of such rate as shall be designated by the Superintendent of Banks of the State of California unless some other person or agency is delegated such authority by the Legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person, association, copartnership or corporation shall by charging any fee, bonus, commission, discount or other compensation receive from a borrower more than the interest authorized by this section upon any loan or forbearance of any money, goods or things in action",
+     "holder": null,
+     "binds": "No person, association, copartnership or corporation",
+     "requires": [],
+     "forbids": [
+      "Receiving from a borrower, by charging any fee, bonus, commission, discount or other compensation, more than the interest authorized by this section"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "None of the above restrictions shall apply to the exempted classes of persons listed, nor shall any such charge of any said exempted classes of persons be considered in any action or for any purpose as increasing or affecting or as connected with the rate of interest hereinbefore fixed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "any building and loan association as defined in and which is operated under the “Building and Loan Association Act,” approved May 5, 1931, as amended",
+      "any corporation operating under “An act defining industrial loan companies, providing for their incorporation, powers and supervision,” approved May 18, 1917, as amended",
+      "any corporation operating under “An act defining credit unions, providing for their incorporation, powers, management and supervision,” approved March 31, 1927, as amended",
+      "any duly licensed pawnbroker or personal property broker",
+      "any loans made or arranged by any person licensed as a real estate broker by the State of California and secured in whole or in part by liens on real property",
+      "any bank as defined in and operating under the “Bank Act,” approved March 1, 1909, as amended, or any bank created and operating under and pursuant to any laws of this State or of the United States of America",
+      "any nonprofit cooperative association organized under Chapter 1 (commencing with Section 54001) of Division 20 of the Food and Agricultural Code in loaning or advancing money in connection with any activity mentioned in said title",
+      "any corporation, association, syndicate, joint stock company, or partnership engaged exclusively in the business of marketing agricultural, horticultural, viticultural, dairy, live stock, poultry and bee products on a cooperative nonprofit basis in loaning or advancing money to the members thereof or in connection with any such business",
+      "any corporation securing money or credit from any federal intermediate credit bank, organized and existing pursuant to the “Agricultural Credits Act of 1923,” as amended in loaning or advancing credit so secured",
+      "any other class of persons authorized by statute",
+      "any successor in interest to any loan or forbearance exempted under this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may from time to time prescribe the maximum rate per annum of, or provide for the supervision, or the filing of a schedule of, or in any manner fix, regulate or limit, the fees, bonuses, commissions, discounts or other compensation which all or any of the said exempted classes of persons may charge or receive from a borrower in connection with any loan or forbearance of any money, goods or things in action",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The rate of interest upon a judgment rendered in any court of this State shall be set by the Legislature at not more than 10 percent per annum; such rate may be variable and based upon interest rates charged by federal agencies or economic indicators, or both",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Setting the rate of interest upon a judgment at more than 10 percent per annum"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In the absence of the setting of such rate by the Legislature, the rate of interest on any judgment rendered in any court of the State shall be 7 percent per annum",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the absence of the setting of such rate by the Legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this section shall supersede all provisions of this Constitution and laws enacted thereunder in conflict therewith",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s1": {
+  "review": {
+   "title": "Limit on state debt",
+   "plain": "The Legislature may not create debts over $300,000, except for war, unless a law for a single specified object provides for repayment within 50 years, passes by two-thirds of each house, and is approved by a majority of voters. The Legislature may raise interest rates on unsold bonds.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may, at any time after the approval of such law by the people, reduce the amount of the indebtedness authorized by the law",
+    "may repeal the law if no debt shall have been contracted in pursuance thereof",
+    "may raise the maximum rate of interest payable on all general obligation bonds authorized but not sold"
+   ],
+   "limits": [
+    "shall not, in any manner create any debt or debts, liability or liabilities",
+    "no such law shall take effect unless it has been passed by a two-thirds vote of all the members elected to each house of the Legislature",
+    "shall be applied only to the specific object therein stated or to the payment of the debt thereby created"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature shall not, in any manner create any debt or debts, liability or liabilities, which shall, singly or in the aggregate with any previous debts or liabilities, exceed the sum of three hundred thousand dollars ($300,000)",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "The law shall provide ways and means, exclusive of loans, for the payment of the interest of such debt or liability as it falls due, and also to pay and discharge the principal within 50 years of the time of the contracting thereof",
+      "The law shall be irrepealable until the principal and interest thereon shall be paid and discharged"
+     ],
+     "forbids": [
+      "Creating any debt or liability which, singly or in the aggregate with any previous debts or liabilities, exceeds three hundred thousand dollars ($300,000)"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except in case of war to repel invasion or suppress insurrection",
+      "unless the same shall be authorized by law for some single object or work to be distinctly specified therein"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such law may make provision for a sinking fund to pay the principal of such debt or liability to commence at a time after the incurring of such debt or liability of not more than a period of one-fourth of the time of maturity of such debt or liability",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No such law shall take effect unless it has been passed by a two-thirds vote of all the members elected to each house of the Legislature and until, at a general election or at a direct primary, it shall have been submitted to the people and shall have received a majority of all the votes cast for and against it at such election",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Passage by a two-thirds vote of all the members elected to each house of the Legislature",
+      "Submission to the people at a general election or at a direct primary and a majority of all the votes cast for and against it"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "All moneys raised by authority of such law shall be applied only to the specific object therein stated or to the payment of the debt thereby created",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The only requirement for publication of such law shall be that it be set out at length in ballot pamphlets which the Secretary of State shall cause to be printed",
+     "holder": null,
+     "binds": "The Secretary of State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may, at any time after the approval of such law by the people, reduce the amount of the indebtedness authorized by the law to an amount not less than the amount contracted at the time of the reduction, or it may repeal the law if no debt shall have been contracted in pursuance thereof",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "it may repeal the law if no debt shall have been contracted in pursuance thereof"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Members of the Legislature who are required to meet with the State Allocation Board shall have equal rights and duties with the nonlegislative members to vote and act upon matters pending or coming before such board for the allocation and apportionment of funds to school districts for school construction purposes or purposes related thereto",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this Constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "If any general obligation bonds of the State authorized by vote of the people have been offered for sale and not sold, the Legislature may raise the maximum rate of interest payable on all general obligation bonds authorized but not sold, whether or not such bonds have been offered for sale, by a statute passed by a two-thirds vote of all members elected to each house thereof",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by a statute passed by a two-thirds vote of all members elected to each house thereof"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if any general obligation bonds of the State heretofore or hereafter authorized by vote of the people have been offered for sale and not sold"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of Senate Bill No. 763 of the 1969 Regular Session, which authorize an increase of the state general obligation bond maximum interest rate from 5 percent to an amount not in excess of 7 percent and eliminate the maximum rate of interest payable on notes given in anticipation of the sale of such bonds, are hereby ratified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s1.3": {
+  "review": {
+   "title": "Borrowing for the accumulated budget deficit",
+   "plain": "Funding the accumulated state budget deficit, as authorized by the March 2, 2004 measure, counts as a single object or work under Section 1. After those bonds issue, the State may not borrow in the listed ways to fund a year-end budget deficit.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "the State may not obtain moneys to fund a year-end state budget deficit"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "For the purposes of Section 1, a “single object or work,” for which the Legislature may create a debt or liability in excess of three hundred thousand dollars ($300,000) subject to the requirements set forth in Section 1, includes the funding of an accumulated state budget deficit to the extent, and in the amount, that funding is authorized in a measure submitted to the voters at the March 2, 2004, statewide primary election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "“Accumulated state budget deficit” is defined, as certified by the Director of Finance",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"accumulated state budget deficit\": the aggregate of both of the following, as certified by the Director of Finance: (1) The estimated negative balance of the Special Fund for Economic Uncertainties arising on or before June 30, 2004, not including the effect of the estimated amount of net proceeds of any bonds issued or to be issued pursuant to the California Fiscal Recovery Financing Act (Title 17 (commencing with Section 99000) of the Government Code) and any bonds issued or to be issued pursuant to the measure submitted to the voters at the March 2, 2004, statewide primary election as described in subdivision (a); (2) Other General Fund obligations incurred by the State prior to June 30, 2004, to the extent not included in that negative balance"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "Subsequent to the issuance of any state bonds described in subdivision (a), the State may not obtain moneys to fund a year-end state budget deficit, as may be defined by statute, pursuant to any of the following: (1) indebtedness incurred pursuant to Section 1 of this article, (2) a debt obligation under which funds to repay that obligation are derived solely from a designated source of revenue, or (3) a bond or similar instrument for the borrowing of moneys for which there is no legal obligation of repayment",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subsequent to the issuance of any state bonds described in subdivision (a)"
+     ],
+     "exceptions": [
+      "This subdivision does not apply to funding obtained through a short-term obligation incurred in anticipation of the receipt of tax proceeds or other revenues that may be applied to the payment of that obligation, for the purposes and not exceeding the amounts of existing appropriations to which the resulting proceeds are to be applied"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "For purposes of this subdivision, “year-end state budget deficit” does not include an obligation within the accumulated state budget deficit as defined by subdivision (b)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s1.5": {
+  "review": {
+   "title": "General Obligation Bond Proceeds Fund",
+   "plain": "The Legislature may create a General Obligation Bond Proceeds Fund in the State Treasury and route bond proceeds into it, with a separate account for each bond issue paid out only as its bond law allows. It may abolish and later re-establish separate bond proceeds funds.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may create and establish a “General Obligation Bond Proceeds Fund” in the State Treasury",
+    "may provide for the proceeds of the sale of general obligation bonds of the State",
+    "may abolish, subject to the conditions of this section, any fund in the State Treasury",
+    "re-establishing any bond proceeds fund so abolished"
+   ],
+   "limits": [
+    "shall be paid out only in accordance with the law authorizing the issuance of the particular bonds from which the proceeds were derived"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may create and establish a “General Obligation Bond Proceeds Fund” in the State Treasury, and may provide for the proceeds of the sale of general obligation bonds of the State heretofore or hereafter issued, including any sums paid as accrued interest thereon, under any or all acts authorizing the issuance of such bonds, to be paid into or transferred to the “General Obligation Bond Proceeds Fund”",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Accounts shall be maintained in the “General Obligation Bond Proceeds Fund” of all moneys deposited in the State Treasury to the credit of that fund and the proceeds of each bond issue shall be maintained as a separate and distinct account",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The proceeds of each bond issue shall be paid out only in accordance with the law authorizing the issuance of the particular bonds from which the proceeds were derived",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may abolish, subject to the conditions of this section, any fund in the State Treasury heretofore or hereafter created by any act for the purpose of having deposited therein the proceeds from the issuance of bonds",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if such proceeds are transferred to or paid into the “General Obligation Bond Proceeds Fund” pursuant to the authority granted in this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing in this section shall prevent the Legislature from re-establishing any bond proceeds fund so abolished and transferring back to its credit all proceeds in the “General Obligation Bond Proceeds Fund” which constitute the proceeds of the particular bond fund being re-established",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s2": {
+  "review": {
+   "title": "State bonds by statute, not constitutional amendment",
+   "plain": "No constitutional amendment providing for state bonds may be submitted to the voters or take effect; bond measures must be submitted as a bond act or statute. Listed bond sections of Article XVI are repealed and continued as statutes the Legislature may later amend or repeal.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may amend or repeal such provisions when the bonds issued thereunder have been fully retired"
+   ],
+   "limits": [
+    "No amendment to this Constitution which provides for the preparation, issuance and sale of bonds of the State of California shall hereafter be submitted to the electors"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No amendment to this Constitution which provides for the preparation, issuance and sale of bonds of the State of California shall hereafter be submitted to the electors, nor shall any such amendment to the Constitution hereafter submitted to or approved by the electors become effective for any purpose",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Submitting to the electors an amendment to this Constitution which provides for the preparation, issuance and sale of bonds of the State of California",
+      "Any such amendment becoming effective for any purpose"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Each measure providing for the preparation, issuance and sale of bonds of the State of California shall hereafter be submitted to the electors in the form of a bond act or statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The provisions of this Constitution enumerated in subdivision (c) of this section are repealed and such provisions are continued as statutes which have been approved, adopted, legalized, ratified, validated, and made fully and completely effective, by means of the adoption by the electorate of a ratifying constitutional amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature, in addition to whatever powers it possessed under such provisions, may amend or repeal such provisions when the bonds issued thereunder have been fully retired and when no rights thereunder will be damaged",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the bonds issued thereunder have been fully retired and when no rights thereunder will be damaged"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "The enumerated provisions of this Constitution are: Article XVI, Sections 2, 3, 4, 41/2, 5, 6, 8, 81/2, 15, 16, 16.5, 17, 18, 19, 19.5, 20 and 21",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

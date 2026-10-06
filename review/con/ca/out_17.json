@@ -1,0 +1,1624 @@
+{
+ "a16-s21": {
+  "review": {
+   "title": "Public School System Stabilization Account",
+   "plain": "Creates the Public School System Stabilization Account. The Controller must transfer certain General Fund amounts to it each year, subject to listed limits, and the State must appropriate money from it for school districts and community college districts when funding falls short.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "may utilize funds in the Public School System Stabilization Account"
+   ],
+   "limits": [
+    "no amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) for a fiscal year for which a maintenance factor is determined",
+    "No transfer shall be made for a year for which it was determined, based on the Budget Act for that fiscal year, that this condition would not be met",
+    "no amount shall be transferred to the Public School System Stabilization Account for any fiscal year for which any of the provisions of subdivision (b) of Section 8 are suspended",
+    "shall not exceed an amount that would result in a balance in the account that is in excess of 10 percent",
+    "shall not interfere with the purposes of the Public School System Stabilization Account"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The Public School System Stabilization Account is hereby created in the General Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "On or before October 1 of each fiscal year, commencing with the 2015–16 fiscal year, based on the amounts identified in the annual Budget Act pursuant to subdivision (b) of Section 20, the Controller shall transfer, pursuant to a schedule provided by the Director of Finance, amounts from the General Fund to the Public School System Stabilization Account",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [
+      "pursuant to a schedule provided by the Director of Finance"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)(A)",
+     "kind": "duty",
+     "what": "For the 2015–16 fiscal year, and for each fiscal year thereafter, any positive amount identified in subparagraph (C) of paragraph (1) of subdivision (b) of Section 20 shall be transferred from the General Fund to the Public School System Stabilization Account in the amount calculated under subparagraph (B)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to any reduction or suspension of this transfer pursuant to any other provision of this section or paragraph (3) of subdivision (a) of Section 22"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)(B)",
+     "kind": "duty",
+     "what": "The Director of Finance shall calculate the amount by which the positive amount identified in subparagraph (C) of paragraph (1) of subdivision (b) of Section 20, in combination with all other moneys required to be applied by the State for the support of school districts and community college districts for that fiscal year pursuant to Section 8, exceeds the sum of the total allocations to school districts and community college districts from General Fund proceeds of taxes and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the account in the prior fiscal year, less any transfers to the account in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and for the higher of the change in the cost of living or the cost of living adjustment applied to school district and community college district general purpose apportionments",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)(A)",
+     "kind": "duty",
+     "what": "Commencing with the 2016–17 fiscal year, and for each fiscal year thereafter, any positive amount calculated pursuant to subparagraph (C) of paragraph (2) of subdivision (b) of Section 20 for that fiscal year shall be transferred from the General Fund to the Public School System Stabilization Account in the amount calculated under subparagraph (B)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "to the extent the amount calculated under this paragraph exceeds the amounts previously transferred by the Controller from the General Fund to the Public School System Stabilization Account for a preceding fiscal year",
+      "subject to any reduction or suspension of this transfer pursuant to any other provision of this section or paragraph (3) of subdivision (a) of Section 22"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)(B)",
+     "kind": "duty",
+     "what": "The Director of Finance shall calculate the amount by which the positive amount identified in subparagraph (C) of paragraph (2) of subdivision (b) of Section 20, in combination with all other moneys required to be applied by the State for the support of school districts and community college districts for that fiscal year pursuant to Section 8, exceeds the sum of the total allocations to school districts and community college districts from General Fund proceeds of taxes and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the account in the prior fiscal year, less any transfers to the account in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for the percentage change in average daily attendance and for the higher of the change in the cost of living or the cost of living adjustment applied to school district and community college district general purpose apportionments",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The amount of this difference shall be appropriated and allocated by the State from the Public School System Stabilization Account for the support of school districts and community college districts",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Commencing with the 2016–17 fiscal year, and for each fiscal year thereafter, if the amount calculated pursuant to subparagraph (C) of paragraph (2) of subdivision (b) of Section 20 for a fiscal year is less than the amounts previously transferred by the Controller from the General Fund to the Public School System Stabilization Account for that fiscal year"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "The amount transferred to the Public School System Stabilization Account pursuant to subdivision (b) for a fiscal year shall not exceed the amount by which the amount of state support calculated pursuant to paragraph (1) of subdivision (b) of Section 8 exceeds the amount of state support calculated pursuant to paragraph (2) of subdivision (b) of Section 8 for that fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Transferring more than the amount by which the state support calculated under paragraph (1) of subdivision (b) of Section 8 exceeds that calculated under paragraph (2)",
+      "Any transfer pursuant to subdivision (b) for a fiscal year in which the amount under paragraph (1) of subdivision (b) of Section 8 does not exceed the amount under paragraph (2)"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "No amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) for a fiscal year for which a maintenance factor is determined pursuant to subdivision (d) of Section 8",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Transfers for a fiscal year for which a maintenance factor is determined pursuant to subdivision (d) of Section 8"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "No amount shall be transferred to the Public School System Stabilization Account pursuant to subdivision (b) until the maintenance factor determined pursuant to subdivisions (d) and (e) of Section 8 for fiscal years prior to the 2014–15 fiscal year has been fully allocated. No transfer shall be made for a year for which it was determined, based on the Budget Act for that fiscal year, that this condition would not be met but was subsequently determined to have been met in that year or a prior fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Transfers until the maintenance factor for fiscal years prior to the 2014–15 fiscal year has been fully allocated",
+      "A transfer for a year for which it was determined, based on the Budget Act, that this condition would not be met but was subsequently determined to have been met"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this section",
+      "Transfers may be made beginning in the fiscal year following the fiscal year in which it is determined, based on the Budget Act for that fiscal year, that this condition will be met"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "If a transfer is made for a fiscal year for which it is later determined that this condition has not been met, the amount of the transfer shall be appropriated and allocated from the Public School System Stabilization Account for the support of school districts and community college districts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If a transfer is made for a fiscal year for which it is later determined that this condition has not been met"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "No amount shall be transferred to the Public School System Stabilization Account for any fiscal year for which any of the provisions of subdivision (b) of Section 8 are suspended pursuant to subdivision (h) of Section 8",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Transfers for any fiscal year for which any of the provisions of subdivision (b) of Section 8 are suspended"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "limit",
+     "what": "For any fiscal year, the amount of a transfer to the Public School System Stabilization Account pursuant to subdivision (b) shall not exceed an amount that would result in a balance in the account that is in excess of 10 percent of the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIII B and allocated local proceeds of taxes for that fiscal year pursuant to Section 8",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "A transfer that would result in a balance in the account in excess of 10 percent of the total allocations to school districts and community college districts"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "duty",
+     "what": "General Fund proceeds of taxes that, but for this subdivision, would have been transferred to the Public School System Stabilization Account shall be applied by the State for the support of school districts and community colleges",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "duty",
+     "what": "The amount of the deficiency shall be appropriated and allocated by the State from the Public School System Stabilization Account for the support of school districts and community college districts",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In any fiscal year in which the amount required to be applied by the State for the support of school districts and community college districts for that fiscal year pursuant to Section 8 is less than the total allocations to school districts and community college districts from General Fund proceeds of taxes and allocated local proceeds of taxes in the prior fiscal year, plus any allocations from the account in the prior fiscal year, less any transfers to the account in the prior fiscal year and any revenues allocated pursuant to subdivision (a) of Section 8.5, as adjusted"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "structure",
+     "what": "Funds transferred to the Public School System Stabilization Account shall be deemed, for purposes of Section 8, to be moneys applied by the State for the support of school districts and community college districts in the fiscal year for which the transfer is made, and not in the fiscal year in which moneys are appropriated from the account",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "structure",
+     "what": "Nothing in this section shall be construed to reduce the amount of the moneys required to be applied by the State for the support of school districts and community college districts pursuant to Sections 8 and 8.5",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(l)",
+     "kind": "power",
+     "what": "The Controller may utilize funds in the Public School System Stabilization Account, that he or she determines to currently be unnecessary for the purposes of this section, to help manage General Fund daily cashflow needs",
+     "holder": "The Controller",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "that he or she determines to currently be unnecessary for the purposes of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(l)",
+     "kind": "limit",
+     "what": "Any use of funds by the Controller pursuant to this subdivision shall not interfere with the purposes of the Public School System Stabilization Account",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [
+      "Use of funds that interferes with the purposes of the Public School System Stabilization Account"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s22": {
+  "review": {
+   "title": "Budget emergencies and reserve withdrawals",
+   "plain": "After the Governor proclaims a budget emergency, the Legislature may pass a bill suspending or reducing transfers to the Budget Stabilization Account or the Public School System Stabilization Account, or using their funds. The section defines \"budget emergency\" and limits how much may be withdrawn.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the Legislature may pass a bill that does any of the following"
+   ],
+   "limits": [
+    "Not more than 50 percent of the balance in the Budget Stabilization Account may be returned to the General Fund",
+    "shall not exceed either an amount that would result in a total General Fund expenditure level for a fiscal year that is greater than the highest amount of total General Fund expenditures"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "power",
+     "what": "The Legislature may pass a bill that suspends or reduces by a specified dollar amount for one fiscal year the transfer of moneys from the General Fund to the Budget Stabilization Account required by Section 20",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon the Governor’s proclamation declaring a budget emergency and identifying the conditions constituting the emergency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(A)",
+     "kind": "power",
+     "what": "The Legislature may pass a bill that returns funds that have been transferred to the Budget Stabilization Account pursuant to Section 20 to the General Fund for appropriation to address the budget emergency",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon the Governor’s proclamation declaring a budget emergency and identifying the conditions constituting the emergency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(B)",
+     "kind": "limit",
+     "what": "Not more than 50 percent of the balance in the Budget Stabilization Account may be returned to the General Fund for appropriation pursuant to subparagraph (A) in any fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Returning more than 50 percent of the balance in the Budget Stabilization Account to the General Fund in any fiscal year"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless funds in the Budget Stabilization Account have been returned to the General Fund for appropriation in the immediately preceding fiscal year"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "power",
+     "what": "The Legislature may pass a bill that suspends or reduces by a specified dollar amount for one fiscal year the transfer of moneys from the General Fund to the Public School System Stabilization Account required by Section 21",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon the Governor’s proclamation declaring a budget emergency and identifying the conditions constituting the emergency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(4)",
+     "kind": "power",
+     "what": "The Legislature may pass a bill that appropriates funds transferred to the Public School System Stabilization Account pursuant to Section 21 and allocates those funds for the support of school districts and community college districts",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon the Governor’s proclamation declaring a budget emergency and identifying the conditions constituting the emergency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "For purposes of this section, “budget emergency” means any of the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"budget emergency\": (1) An emergency declared by the Governor, within the meaning of paragraph (2) of subdivision (c) of Section 3 of Article XIII B; or (2) a determination by the Governor that estimated resources are inadequate to fund General Fund expenditures for the current or ensuing fiscal year, after setting aside funds for the reserve for liquidation of encumbrances, at a level equal to the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, adjusted for the annual percentage change in the cost of living for the State, as measured by the California Consumer Price Index, and the annual percentage growth in the civilian population of the State"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)(B)",
+     "kind": "limit",
+     "what": "The maximum amount that may be withdrawn for a budget emergency determined under this paragraph shall not exceed either an amount that would result in a total General Fund expenditure level for a fiscal year that is greater than the highest amount of total General Fund expenditures estimated at the time of enactment of any of the three most recent Budget Acts, as calculated pursuant to subparagraph (A), or any limit imposed by subparagraph (B) of paragraph (2) of subdivision (a)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Withdrawing an amount that would result in a total General Fund expenditure level greater than the highest amount estimated at the time of enactment of any of the three most recent Budget Acts",
+      "Withdrawing more than any limit imposed by subparagraph (B) of paragraph (2) of subdivision (a)"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s23": {
+  "review": {
+   "title": "Tobacco tax revenue excluded from school funding base",
+   "plain": "The tax imposed by the California Healthcare, Research and Prevention Tobacco Tax Act of 2016, and its revenue, are not considered General Fund revenues, state revenues, or General Fund proceeds of taxes for purposes of Section 8 and its implementing statutes.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The tax imposed by the California Healthcare, Research and Prevention Tobacco Tax Act of 2016 and the revenue derived therefrom, including investment interest, shall not be considered General Fund revenues for purposes of Section 8 and its implementing statutes, and shall not be considered “General Fund revenues,” “state revenues,” or “General Fund proceeds of taxes” for purposes of subdivisions (a) and (b) of Section 8 and its implementing statutes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s1": {
+  "review": {
+   "title": "Legislature may propose amendments or revision",
+   "plain": "By a two-thirds rollcall vote of each house, the Legislature may propose an amendment or revision of the Constitution, and in the same manner amend or withdraw its proposal. Each amendment must be prepared and submitted so it can be voted on separately.",
+   "category": "Amending & Ratifying",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may propose an amendment or revision of the Constitution",
+    "may amend or withdraw its proposal"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature by rollcall vote entered in the journal, two-thirds of the membership of each house concurring, may propose an amendment or revision of the Constitution",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by rollcall vote entered in the journal, two-thirds of the membership of each house concurring"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In the same manner may amend or withdraw its proposal",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "in the same manner"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Each amendment shall be so prepared and submitted that it can be voted on separately",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "that it can be voted on separately"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s2": {
+  "review": {
+   "title": "Constitutional convention",
+   "plain": "By a two-thirds rollcall vote of each house, the Legislature may ask voters at a general election whether to call a convention to revise the Constitution. If the majority vote yes, the Legislature must provide for the convention within 6 months; delegates are voters elected from districts.",
+   "category": "Amending & Ratifying",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may submit at a general election the question whether to call a convention to revise the Constitution"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature by rollcall vote entered in the journal, two-thirds of the membership of each house concurring, may submit at a general election the question whether to call a convention to revise the Constitution",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by rollcall vote entered in the journal, two-thirds of the membership of each house concurring"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Within 6 months the Legislature shall provide for the convention",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the majority vote yes on that question"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Delegates to a constitutional convention shall be voters elected from districts as nearly equal in population as may be practicable",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be voters",
+      "elected from districts as nearly equal in population as may be practicable"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s3": {
+  "review": {
+   "title": "Amendment by initiative",
+   "plain": "The electors may amend the Constitution by initiative.",
+   "category": "Amending & Ratifying",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may amend the Constitution by initiative"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The electors may amend the Constitution by initiative",
+     "holder": "The electors",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s4": {
+  "review": {
+   "title": "Voter approval and effective date of amendments",
+   "plain": "A proposed amendment or revision must be submitted to the electors. If a majority approve, it takes effect on the fifth day after the Secretary of State files the statement of the vote, unless it provides a later operative date. Among conflicting measures, the one with most affirmative votes prevails.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "A proposed amendment or revision shall be submitted to the electors",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If approved by a majority of votes cast thereon, takes effect on the fifth day after the Secretary of State files the statement of the vote for the election at which the measure is voted on, but the measure may provide that it becomes operative after its effective date",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if approved by a majority of votes cast thereon"
+     ],
+     "exceptions": [
+      "but the measure may provide that it becomes operative after its effective date"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If provisions of two or more measures approved at the same election conflict, the provisions of the measure receiving the highest number of affirmative votes shall prevail",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If provisions of two or more measures approved at the same election conflict"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s1": {
+  "review": {
+   "title": "No borrowing from the Highway Users Tax Account",
+   "plain": "The Legislature may not borrow revenue from the Highway Users Tax Account, or its successor, or use these revenues for purposes or in ways other than those specifically permitted by this article.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not borrow revenue from the Highway Users Tax Account",
+    "shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature shall not borrow revenue from the Highway Users Tax Account, or its successor, and shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Borrowing revenue from the Highway Users Tax Account, or its successor",
+      "Using these revenues for purposes, or in ways, other than those specifically permitted by this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s2": {
+  "review": {
+   "title": "Uses of motor vehicle fuel tax revenues",
+   "plain": "State motor vehicle fuel tax revenues, after collection costs and refunds, go into the Highway Users Tax Account, a trust fund, are allocated monthly under Section 4, and may be used solely for public streets and highways and for exclusive public mass transit guideways.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be used solely for the following purposes"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Revenues from taxes imposed by the State on motor vehicle fuels for use in motor vehicles upon public streets and highways, over and above the costs of collection and any refunds authorized by law, shall be deposited into the Highway Users Tax Account (Section 2100 of the Streets and Highways Code) or its successor, and shall be allocated monthly in accordance with Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Highway Users Tax Account or its successor is hereby declared to be a trust fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such revenues shall be used solely for the following purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "(a) The research, planning, construction, improvement, maintenance, and operation of public streets and highways (and their related public facilities for nonmotorized traffic), including the mitigation of their environmental effects, the payment for property taken or damaged for such purposes, and the administrative costs necessarily incurred in the foregoing purposes",
+      "(b) The research, planning, construction, and improvement of exclusive public mass transit guideways (and their related fixed facilities), including the mitigation of their environmental effects, the payment for property taken or damaged for such purposes, the administrative costs necessarily incurred in the foregoing purposes, and the maintenance of the structures and the immediate right-of-way for the public mass transit guideways"
+     ],
+     "forbids": [
+      "Use for any other purposes"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The mass transit guideway purpose excludes the maintenance and operating costs for mass transit power systems and mass transit passenger facilities, vehicles, equipment, and services",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "but excluding the maintenance and operating costs for mass transit power systems and mass transit passenger facilities, vehicles, equipment, and services"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s3": {
+  "review": {
+   "title": "Uses of vehicle fee and tax revenues",
+   "plain": "State revenues from fees and taxes on vehicles or their use or operation, after collection costs and refunds, are to be used for state administration and enforcement of vehicle laws and related emissions mitigation, and for the purposes in Section 2.",
+   "category": "Transportation",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Revenues from fees and taxes imposed by the State upon vehicles or their use or operation, over and above the costs of collection and any refunds authorized by law, shall be used for the following purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "(a) The state administration and enforcement of laws regulating the use, operation, or registration of vehicles used upon the public streets and highways of this State, including the enforcement of traffic and vehicle laws by state agencies and the mitigation of the environmental effects of motor vehicle operation due to air and sound emissions",
+      "(b) The purposes specified in Section 2 of this article"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s4": {
+  "review": {
+   "title": "Allocation of highway revenues to local areas",
+   "plain": "The statutory formulas in effect on June 30, 2009, for allocating fuel tax revenues to cities, counties and areas stay in effect. The Legislature may change them only after set findings, hearings and a report, by a two-thirds vote, and may not divert or delay these revenues.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not modify the statutory allocations in effect on June 30, 2009",
+    "shall not modify the statutory allocation pursuant to subdivision (b)",
+    "may be used solely by the entity to which they are allocated",
+    "may not take any action which permanently or temporarily does any of the following"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The statutory formulas in effect on June 30, 2009, which allocate the revenues described in Section 2 to cities, counties, and areas of the State shall remain in effect",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (b)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Legislature shall not modify the statutory allocations in effect on June 30, 2009, unless and until both of the following have occurred",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Modifying the statutory allocations in effect on June 30, 2009"
+     ],
+     "conditions": [
+      "(1) The Legislature determines in accordance with this subdivision that another basis for an equitable, geographical, and jurisdictional distribution exists",
+      "(2) The process described in subdivision (c) has been completed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "duty",
+     "what": "Any future statutory revisions shall (A) provide for the allocation of these revenues, together with other similar revenues, in a manner which gives equal consideration to the transportation needs of all areas of the State and all segments of the population; and (B) be consistent with the orderly achievement of the adopted local, regional, and statewide goals for ground transportation in local general plans, regional transportation plans, and the California Transportation Plan",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Provide for the allocation of these revenues, together with other similar revenues, in a manner which gives equal consideration to the transportation needs of all areas of the State and all segments of the population",
+      "Be consistent with the orderly achievement of the adopted local, regional, and statewide goals for ground transportation in local general plans, regional transportation plans, and the California Transportation Plan"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The Legislature shall not modify the statutory allocation pursuant to subdivision (b) until all of the following have occurred",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Modifying the statutory allocation before the listed steps have occurred"
+     ],
+     "conditions": [
+      "(1) The California Transportation Commission has held no less than four public hearings in different parts of the State to receive public input about the local and regional goals for ground transportation in that part of the State",
+      "(2) The California Transportation Commission has published a report describing the input received at the public hearings and how the modification to the statutory allocation is consistent with the orderly achievement of local, regional, and statewide goals for ground transportation",
+      "(3) Ninety days have passed since the publication of the report by the California Transportation Commission"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "A statute enacted by the Legislature modifying the statutory allocations must be by a bill passed in each house of the Legislature by rollcall vote entered in the journal, two-thirds of the membership concurring, provided that the bill does not contain any other unrelated provision",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "by a bill passed in each house of the Legislature by rollcall vote entered in the journal, two-thirds of the membership concurring",
+      "the bill does not contain any other unrelated provision"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "The revenues allocated by statute to cities, counties, and areas of the State pursuant to this article may be used solely by the entity to which they are allocated, and solely for the purposes described in Sections 2, 5, or 6 of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Use by any entity other than the one to which they are allocated",
+      "Use for purposes other than those described in Sections 2, 5, or 6 of this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "The Legislature may not take any action which permanently or temporarily does any of the following",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "(1) changes the status of the Highway Users Tax Account as a trust fund",
+      "(2) borrows, diverts, or appropriates these revenues for purposes other than those described in subdivision (e)",
+      "(3) delays, defers, suspends, or otherwise interrupts the payment, allocation, distribution, disbursal, or transfer of revenues from taxes described in Section 2 to cities, counties, and areas of the State pursuant to the procedures in effect on June 30, 2009"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s5": {
+  "review": {
+   "title": "Local voter approval for mass transit use",
+   "plain": "Revenues allocated under Section 4 may not be spent on mass transit guideways, except for research and planning, until approved by a majority of voters in the area where they are to be spent. The Legislature may authorize these revenues to pay voter-approved guideway bonds.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may authorize the revenues approved for allocation or expenditure under this section to be pledged or used for the payment of principal and interest on voter-approved bonds"
+   ],
+   "limits": [
+    "may not be expended for the purposes specified in subdivision (b) of Section 2"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Revenues allocated pursuant to Section 4 may not be expended for the purposes specified in subdivision (b) of Section 2, until such use is approved by a majority of the votes cast on the proposition authorizing such use of such revenues in an election held throughout the county or counties, or a specified area of a county or counties, within which the revenues are to be expended",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Expending the revenues for the purposes specified in subdivision (b) of Section 2 without voter approval"
+     ],
+     "conditions": [
+      "until such use is approved by a majority of the votes cast on the proposition authorizing such use of such revenues in an election held throughout the county or counties, or a specified area of a county or counties, within which the revenues are to be expended"
+     ],
+     "exceptions": [
+      "except for research and planning"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may authorize the revenues approved for allocation or expenditure under this section to be pledged or used for the payment of principal and interest on voter-approved bonds issued for the purposes specified in subdivision (b) of Section 2",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s6": {
+  "review": {
+   "title": "Highway revenues pledged for bonds",
+   "plain": "Up to 25 percent of highway revenues allocated to the State may be pledged or used, with voter approval and legislative appropriation, to pay voter-approved state highway bonds. Up to 25 percent of a city's or county's allocation may be pledged or used only by it for its voter-approved bonds.",
+   "category": "Transportation",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be pledged or used by the State",
+    "may be pledged or used only by any city or county"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "Up to 25 percent of the revenues allocated to the State pursuant to Section 4 for the purposes specified in subdivision (a) of Section 2 of this article may be pledged or used by the State, upon approval by the voters and appropriation by the Legislature, for the payment of principal and interest on voter-approved bonds for such purposes issued by the State on and after November 2, 2010",
+     "holder": "The State",
+     "binds": null,
+     "requires": [
+      "upon approval by the voters and appropriation by the Legislature"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Up to 25 percent of the revenues allocated to any city or county pursuant to Section 4 for the purposes specified in subdivision (a) of Section 2 of this article may be pledged or used only by any city or county for the payment of principal and interest on voter-approved bonds issued by that city or county for such purposes",
+     "holder": "Any city or county",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s7": {
+  "review": {
+   "title": "Replacement revenue for highway taxes",
+   "plain": "If the Legislature reduces or repeals the fuel taxes in Section 2 and adopts a replacement revenue source, the replacement revenue goes into the Highway Users Tax Account, is dedicated to Section 2 purposes and allocated under Section 4, and is subject to all of this article.",
+   "category": "Transportation",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The replacement revenue shall be deposited into the Highway Users Tax Account, dedicated to the purposes listed in Section 2, and allocated to cities, counties, and areas of the State pursuant to Section 4",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the Legislature reduces or repeals the taxes described in Section 2 and adopts an alternative source of revenue to replace the moneys derived from those taxes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All other provisions of this article shall apply to any revenues adopted by the Legislature to replace the moneys derived from the taxes described in Section 2",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s8": {
+  "review": {
+   "title": "Sales tax and vehicle license fees excluded",
+   "plain": "This article does not affect or apply to fees or taxes imposed under the Sales and Use Tax Law or the Vehicle License Fee Law, including all amendments and additions to them.",
+   "category": "Transportation",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall not affect or apply to fees or taxes imposed pursuant to the Sales and Use Tax Law or the Vehicle License Fee Law, and all amendments and additions now or hereafter made to such statutes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s9": {
+  "review": {
+   "title": "Surplus local property used for parks",
+   "plain": "Real property bought with these designated tax revenues by an entity other than the State, and no longer required for those purposes, may be used for local public park and recreational purposes.",
+   "category": "Transportation",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be used for local public park and recreational purposes"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any real property acquired by the expenditure of the designated tax revenues by an entity other than the State for the purposes authorized in those sections, but no longer required for such purposes, may be used for local public park and recreational purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding Sections 2 and 3 of this article",
+      "acquired by the expenditure of the designated tax revenues by an entity other than the State",
+      "no longer required for such purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s10": {
+  "review": {
+   "title": "Transfer of surplus coastal property",
+   "plain": "The Legislature may by statute authorize transferring surplus state property in the coastal zone, bought with these tax revenues, for at least its acquisition cost, to listed state park, fish and wildlife, wildlife conservation and coastal conservancy agencies for their purposes. The section defines \"coastal zone.\"",
+   "category": "Transportation",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may authorize the transfer of such property"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Notwithstanding any other provision of this Constitution, the Legislature, by statute, with respect to surplus state property acquired by the expenditure of tax revenues designated in Sections 2 and 3 and located in the coastal zone, may authorize the transfer of such property to the Department of Parks and Recreation for state park purposes, or to the Department of Fish and Game for the protection and preservation of fish and wildlife habitat, or to the Wildlife Conservation Board for purposes of the Wildlife Conservation Law of 1947, or to the State Coastal Conservancy for the preservation of agricultural lands",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by statute",
+      "for a consideration at least equal to the acquisition cost paid by the State to acquire the property"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "As used in this section, “coastal zone” means “coastal zone” as defined by Section 30103 of the Public Resources Code as such zone is described on January 1, 1977",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"coastal zone\": “coastal zone” as defined by Section 30103 of the Public Resources Code as such zone is described on January 1, 1977"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19a-s1": {
+  "review": {
+   "title": "Public Transportation Account protected",
+   "plain": "The Public Transportation Account is a trust fund. The Legislature may not borrow from it, change its status, or divert or delay its revenues, which may be used only for transportation planning and mass transportation and are continuously appropriated to the Controller for allocation. Key terms are defined.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not borrow revenues from the Public Transportation Account",
+    "shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article",
+    "may not change the status of the Public Transportation Account as a trust fund",
+    "may not be loaned or otherwise transferred to the General Fund or any other fund or account in the State Treasury",
+    "may not take any action which temporarily or permanently diverts or appropriates these revenues",
+    "may only be used for transportation planning and mass transportation purposes",
+    "may not take any action that temporarily or permanently diverts or appropriates these revenues"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The Legislature shall not borrow revenues from the Public Transportation Account, or any successor account, and shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Borrowing revenues from the Public Transportation Account, or any successor account",
+      "Using these revenues for purposes, or in ways, other than those specifically permitted by this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The Public Transportation Account in the State Transportation Fund, or any successor account, is a trust fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Legislature may not change the status of the Public Transportation Account as a trust fund",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Changing the status of the Public Transportation Account as a trust fund"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Funds in the Public Transportation Account may not be loaned or otherwise transferred to the General Fund or any other fund or account in the State Treasury",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Loaning or otherwise transferring funds to the General Fund or any other fund or account in the State Treasury"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "All revenues specified in paragraphs (1) through (3), inclusive, of subdivision (a) of Section 7102 of the Revenue and Taxation Code, as that section read on June 1, 2001, shall be deposited no less than quarterly into the Public Transportation Account (Section 99310 of the Public Utilities Code), or its successor",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "no less than quarterly"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The Legislature may not take any action which temporarily or permanently diverts or appropriates these revenues for purposes other than those described in subdivision (d), or delays, defers, suspends, or otherwise interrupts the quarterly deposit of these funds into the Public Transportation Account",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Diverting or appropriating these revenues for purposes other than those described in subdivision (d)",
+      "Delaying, deferring, suspending, or otherwise interrupting the quarterly deposit of these funds into the Public Transportation Account"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "Funds in the Public Transportation Account may only be used for transportation planning and mass transportation purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Use for purposes other than transportation planning and mass transportation"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The revenues described in subdivision (c) are hereby continuously appropriated to the Controller without regard to fiscal years for allocation as follows",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "(1) Fifty percent pursuant to subdivisions (a) through (f), inclusive, of Section 99315 of the Public Utilities Code, as that section read on July 30, 2009",
+      "(2) Twenty-five percent pursuant to subdivision (b) of Section 99312 of the Public Utilities Code, as that section read on July 30, 2009",
+      "(3) Twenty-five percent pursuant to subdivision (c) of Section 99312 of the Public Utilities Code, as that section read on July 30, 2009"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "For purposes of paragraph (1) of subdivision (d), “transportation planning” means only the purposes described in subdivisions (c) through (f), inclusive, of Section 99315 of the Public Utilities Code, as that section read on July 30, 2009",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"transportation planning\": only the purposes described in subdivisions (c) through (f), inclusive, of Section 99315 of the Public Utilities Code, as that section read on July 30, 2009"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "For purposes of this article, “mass transportation,” “public transit,” and “mass transit” have the same meaning as “public transportation”",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"mass transportation,\" \"public transit,\" and \"mass transit\": the same meaning as \"public transportation\"",
+      "\"public transportation\": (1) surface transportation service provided to the general public, complementary paratransit service provided to persons with disabilities as required by 42 U.S.C. 12143, or similar transportation provided to people with disabilities or the elderly, operated by bus, rail, ferry, or other conveyance on a fixed route, demand response, or otherwise regularly available basis, generally for which a fare is charged, and provided by any of the transit districts, municipal operators, transit development boards, joint powers authorities, agencies, fund recipients, or consolidated agencies listed in paragraph (1); (2) surface transportation service provided by the Department of Transportation pursuant to subdivision (a) of Section 99315 of the Public Utilities Code, as that section read on July 30, 2009; (3) public transit capital improvement projects, including those identified in subdivision (b) of Section 99315 of the Public Utilities Code, as that section read on July 30, 2009"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "All revenues specified in Sections 6051.8 and 6201.8 of the Revenue and Taxation Code, as those sections read on January 1, 2018, shall be deposited no less than quarterly into the Public Transportation Account, or its successor",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "no less than quarterly"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "The Legislature may not take any action that temporarily or permanently diverts or appropriates these revenues for purposes other than those described in subdivision (d), or delays, defers, suspends, or otherwise interrupts the quarterly deposit of these revenues into the Public Transportation Account",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Diverting or appropriating these revenues for purposes other than those described in subdivision (d)",
+      "Delaying, deferring, suspending, or otherwise interrupting the quarterly deposit of these revenues into the Public Transportation Account"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in Sections 16310 and 16381 of the Government Code, as those sections read on January 1, 2018"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19a-s2": {
+  "review": {
+   "title": "Local transportation funds protected",
+   "plain": "Local transportation funds are trust funds that may not be abolished. Their money may be allocated only by the local government that created the fund and only for set purposes, and the Legislature may not divert, borrow or reduce these revenues.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not change the status of local transportation funds as trust funds",
+    "may not be abolished",
+    "shall be allocated only by the local government that created the fund",
+    "Neither the county nor the Legislature may authorize the expenditure of money in a local transportation fund for purposes other than those specified in this subdivision",
+    "may not enact a statute or take any other action which, permanently or temporarily, does any of the following",
+    "shall not be reduced below the percentage that was transmitted to such funds during the 2008 calendar year"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "As used in this section, a “local transportation fund” is a fund created under Section 29530 of the Government Code, or any successor to that statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"local transportation fund\": a fund created under Section 29530 of the Government Code, or any successor to that statute"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "All local transportation funds are hereby designated trust funds",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Legislature may not change the status of local transportation funds as trust funds",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Changing the status of local transportation funds as trust funds"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "A local transportation fund that has been created pursuant to law may not be abolished",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Abolishing a local transportation fund that has been created pursuant to law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "Money in a local transportation fund shall be allocated only by the local government that created the fund, and only for the purposes authorized under Article 11 (commencing with Section 29530) of Chapter 2 of Division 3 of Title 3 of the Government Code and Chapter 4 (commencing with Section 99200) of Part 11 of Division 10 of the Public Utilities Code, as those provisions existed on October 1, 1997",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Allocation by anyone other than the local government that created the fund",
+      "Allocation for purposes other than those authorized under the listed provisions as they existed on October 1, 1997"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "Neither the county nor the Legislature may authorize the expenditure of money in a local transportation fund for purposes other than those specified in this subdivision",
+     "holder": null,
+     "binds": "Neither the county nor the Legislature",
+     "requires": [],
+     "forbids": [
+      "Authorizing the expenditure of money in a local transportation fund for purposes other than those specified in this subdivision"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "This section constitutes the sole method of allocating, distributing, and using the revenues in a local transportation fund. The purposes described in subdivision (d) are the sole purposes for which the revenues in a local transportation fund may be used",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "The Legislature may not enact a statute or take any other action which, permanently or temporarily, does any of the following",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "(1) Transfers, diverts, or appropriates the revenues in a local transportation fund for any other purpose than those described in subdivision (d)",
+      "(2) Authorizes the expenditures of the revenue in a local transportation fund for any other purpose than those described in subdivision (d)",
+      "(3) Borrows or loans the revenues in a local transportation fund, regardless of whether these revenues remain in the Retail Sales Tax Fund in the State Treasury or are transferred to another fund or account"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "The percentage of the tax imposed pursuant to Section 7202 of the Revenue and Taxation Code allocated to local transportation funds shall not be reduced below the percentage that was transmitted to such funds during the 2008 calendar year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Reducing the percentage allocated to local transportation funds below the percentage transmitted during the 2008 calendar year"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "Revenues allocated to local transportation funds shall be transmitted in accordance with Section 7204 of the Revenue and Taxation Code and deposited into local transportation funds in accordance with Section 29530 of the Government Code, as those sections read on June 30, 2009",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19b-s1": {
+  "review": {
+   "title": "No borrowing from the Transportation Investment Fund",
+   "plain": "The Legislature may not borrow revenues from the Transportation Investment Fund, or its successor, or use these revenues for purposes or in ways other than those specifically permitted by this article.",
+   "category": "Transportation",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not borrow revenues from the Transportation Investment Fund",
+    "shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature shall not borrow revenues from the Transportation Investment Fund, or its successor, and shall not use these revenues for purposes, or in ways, other than those specifically permitted by this article",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Borrowing revenues from the Transportation Investment Fund, or its successor",
+      "Using these revenues for purposes, or in ways, other than those specifically permitted by this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

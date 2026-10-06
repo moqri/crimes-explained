@@ -1,0 +1,2106 @@
+{
+ "a16-s3": {
+  "review": {
+   "title": "No state money for private institutions, with exceptions",
+   "plain": "No state money or property may go to any institution not under the State's exclusive management and control, except that the Legislature may fund certain hospital construction and aid institutions for orphans and the aged, and needy blind and physically handicapped persons.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "nothing in this Constitution shall prevent the Legislature from making state money available for that purpose",
+    "shall have the power to grant aid to the institutions conducted for the support and maintenance of minor orphans",
+    "shall have the power to grant aid to needy blind persons",
+    "shall have power to grant aid to needy physically handicapped persons",
+    "shall have at any time the right to inquire into the management of such institutions"
+   ],
+   "limits": [
+    "No money shall ever be appropriated or drawn from the State Treasury",
+    "nor shall any grant or donation of property ever be made thereto by the State",
+    "no person concerned with the administration of aid to needy blind persons shall dictate how any applicant or recipient shall expend such aid granted him"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No money shall ever be appropriated or drawn from the State Treasury for the purpose or benefit of any corporation, association, asylum, hospital, or any other institution not under the exclusive management and control of the State as a state institution, nor shall any grant or donation of property ever be made thereto by the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Appropriating or drawing money from the State Treasury for the purpose or benefit of any institution not under the exclusive management and control of the State as a state institution",
+      "Any grant or donation of property thereto by the State"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except that notwithstanding anything contained in this or any other section of the Constitution: paragraphs (1) to (6)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(1)",
+     "kind": "power",
+     "what": "Nothing in this Constitution shall prevent the Legislature from making state money available for the construction of hospital facilities, or from authorizing the use of such money for the construction of hospital facilities by nonprofit corporations organized to construct and maintain such facilities",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever federal funds are made available for the construction of hospital facilities by public agencies and nonprofit corporations organized to construct and maintain such facilities"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(2)",
+     "kind": "power",
+     "what": "The Legislature shall have the power to grant aid to the institutions conducted for the support and maintenance of minor orphans, or half-orphans, or abandoned children, or children of a father who is incapacitated for gainful work by permanent physical disability or is suffering from tuberculosis in such a stage that he cannot pursue a gainful occupation, or aged persons in indigent circumstances",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "such aid to be granted by a uniform rule, and proportioned to the number of inmates of such respective institutions"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(3)",
+     "kind": "power",
+     "what": "The Legislature shall have the power to grant aid to needy blind persons not inmates of any institution supported in whole or in part by the State or by any of its political subdivisions",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(3)",
+     "kind": "limit",
+     "what": "No person concerned with the administration of aid to needy blind persons shall dictate how any applicant or recipient shall expend such aid granted him",
+     "holder": null,
+     "binds": "No person concerned with the administration of aid to needy blind persons",
+     "requires": [],
+     "forbids": [
+      "Dictating how any applicant or recipient shall expend such aid granted him"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(3)",
+     "kind": "structure",
+     "what": "All money paid to a recipient of such aid shall be intended to help him meet his individual needs and is not for the benefit of any other person, and such aid when granted shall not be construed as income to any person other than the blind recipient of such aid",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(3)",
+     "kind": "duty",
+     "what": "The State Department of Social Welfare shall take all necessary action to enforce the provisions relating to aid to needy blind persons as heretofore stated",
+     "holder": null,
+     "binds": "The State Department of Social Welfare",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(4)",
+     "kind": "power",
+     "what": "The Legislature shall have power to grant aid to needy physically handicapped persons not inmates of any institution under the supervision of the Department of Mental Hygiene and supported in whole or in part by the State or by any institution supported in whole or part by any political subdivision of the State",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(5)",
+     "kind": "power",
+     "what": "The State shall have at any time the right to inquire into the management of such institutions",
+     "holder": "The State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(6)",
+     "kind": "structure",
+     "what": "Such county, city and county, city, or town shall be entitled to receive the same pro rata appropriations as may be granted to such institutions under church, or other control",
+     "holder": "Any county, or city and county, or city, or town",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever any county, or city and county, or city, or town, shall provide for the support of minor orphans, or half-orphans, or abandoned children, or children of a father who is incapacitated for gainful work, or aged persons in indigent circumstances, or needy blind persons, or needy physically handicapped persons, as described"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "An accurate statement of the receipts and expenditures of public moneys shall be attached to and published with the laws at every regular session of the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s3.5": {
+  "review": {
+   "title": "Protection of the Medi-Cal hospital fee act",
+   "plain": "Statutes amending the Medi-Cal Hospital Reimbursement Improvement Act of 2013 need voter approval, except that the Legislature may, by a two-thirds vote, amend it to further its purposes or repeal it entirely. Fee proceeds are not counted as revenues for school funding and spending limits.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "amend or add provisions that further the purposes of the act",
+    "Nothing in this section shall prohibit the Legislature from repealing the act in its entirety"
+   ],
+   "limits": [
+    "No statute amending or adding to the provisions of the Medi-Cal Hospital Reimbursement Improvement Act of 2013 shall become effective",
+    "the Legislature shall not be permitted to repeal the act and replace it with a similar statute imposing a tax, fee, or assessment"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No statute amending or adding to the provisions of the Medi-Cal Hospital Reimbursement Improvement Act of 2013 shall become effective unless approved by the electors in the same manner as statutes amending initiative statutes pursuant to subdivision (c) of Section 10 of Article II",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless approved by the electors in the same manner as statutes amending initiative statutes pursuant to subdivision (c) of Section 10 of Article II"
+     ],
+     "exceptions": [
+      "except that the Legislature may, by statute passed in each house by roll call vote entered into the journal, two-thirds of the membership concurring, amend or add provisions that further the purposes of the act"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may, by statute passed in each house by roll call vote entered into the journal, two-thirds of the membership concurring, amend or add provisions that further the purposes of the act",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by statute passed in each house by roll call vote entered into the journal, two-thirds of the membership concurring"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Terms used in this section are defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Act\": the Medi-Cal Hospital Reimbursement Improvement Act of 2013 (enacted by Senate Bill 239 of the 2013–14 Regular Session of the Legislature, and any nonsubstantive amendments to the act enacted by a later bill in the same session of the Legislature)",
+      "\"Nonsubstantive amendments\": only minor, technical, grammatical, or clarifying amendments",
+      "\"Provisions that further the purposes of the act\": only (A) amendments or additions necessary to obtain or maintain federal approval of the implementation of the act, including the fee imposed and related quality assurance payments to hospitals made pursuant to the act; (B) amendments or additions to the methodology used for the development of the fee and quality assurance payments to hospitals made pursuant to the act"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "Nothing in this section shall prohibit the Legislature from repealing the act in its entirety by statute passed in each house by roll call vote entered into the journal, two-thirds of the membership concurring",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by statute passed in each house by roll call vote entered into the journal, two-thirds of the membership concurring"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The Legislature shall not be permitted to repeal the act and replace it with a similar statute imposing a tax, fee, or assessment unless that similar statute is either a provision that furthers the purposes of the act or is approved by the electors",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Repealing the act and replacing it with a similar statute imposing a tax, fee, or assessment"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "(1) A provision that furthers the purposes of the act as defined herein",
+      "(2) Is approved by the electors in the same manner as statutes amending initiative statutes pursuant to subdivision (c) of Section 10 of Article II"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The proceeds of the fee imposed by the act and all interest earned on such proceeds shall not be considered revenues, General Fund revenues, General Fund proceeds of taxes, or allocated local proceeds of taxes, for purposes of Sections 8 and 8.5 of this article or for the purposes of Article XIII B",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The appropriation of the proceeds in the trust fund referred to in the act for hospital services to Medi-Cal beneficiaries or other beneficiaries in any other similar federal program shall not be subject to the prohibitions or restrictions in Sections 3 or 5 of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s4": {
+  "review": {
+   "title": "Loan guarantees for hospital construction",
+   "plain": "The Legislature may insure or guarantee loans to nonprofit corporations and public agencies for building, expanding or repairing public or nonprofit hospitals and related facilities. No provision of the Constitution limits this authority.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall have the power to insure or guarantee loans made by private or public lenders to nonprofit corporations and public agencies"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature shall have the power to insure or guarantee loans made by private or public lenders to nonprofit corporations and public agencies, the proceeds of which are to be used for the construction, expansion, enlargement, improvement, renovation or repair of any public or nonprofit hospital, hospital facility, or extended care facility, facility for the treatment of mental illness, or all of them, including any outpatient facility and any other facility useful and convenient in the operation of the hospital and any original equipment for any such hospital or facility",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No provision of this Constitution, including but not limited to, Section 1 of Article XVI and Section 14 of Article XI, shall be construed as a limitation upon the authority granted to the Legislature by this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s5": {
+  "review": {
+   "title": "No public money for religious purposes",
+   "plain": "Neither the Legislature nor any local government may appropriate, pay or grant anything to aid any religious sect, church, creed or sectarian purpose, or support any institution controlled by one. Aid under Section 3 of Article XVI is still allowed.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall ever make an appropriation, or pay from any public fund whatever, or grant anything to or in aid of any religious sect, church, creed, or sectarian purpose",
+    "nor shall any grant or donation of personal property or real estate ever be made by the State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the Legislature, nor any county, city and county, township, school district, or other municipal corporation, shall ever make an appropriation, or pay from any public fund whatever, or grant anything to or in aid of any religious sect, church, creed, or sectarian purpose, or help to support or sustain any school, college, university, hospital, or other institution controlled by any religious creed, church, or sectarian denomination whatever",
+     "holder": null,
+     "binds": "Neither the Legislature, nor any county, city and county, township, school district, or other municipal corporation",
+     "requires": [],
+     "forbids": [
+      "Making an appropriation, or paying from any public fund, or granting anything to or in aid of any religious sect, church, creed, or sectarian purpose",
+      "Helping to support or sustain any school, college, university, hospital, or other institution controlled by any religious creed, church, or sectarian denomination"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nor shall any grant or donation of personal property or real estate ever be made by the State, or any city, city and county, town, or other municipal corporation for any religious creed, church, or sectarian purpose whatever",
+     "holder": null,
+     "binds": "The State, or any city, city and county, town, or other municipal corporation",
+     "requires": [],
+     "forbids": [
+      "Any grant or donation of personal property or real estate for any religious creed, church, or sectarian purpose"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s6": {
+  "review": {
+   "title": "No gift or loan of public credit or money",
+   "plain": "The Legislature may not give or lend public credit, make gifts of public money, or let the State or local bodies buy corporate stock. Exceptions cover irrigation district stock, local insurance pools, aid to war veterans, disaster debris clearing, and temporary treasurer transfers.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may in the manner authorized by law, acquire the stock of any foreign corporation",
+    "may acquire and hold the stock of corporations, domestic or foreign",
+    "the treasurer of any city, county, or city and county shall have power"
+   ],
+   "limits": [
+    "shall have no power to give or to lend, or to authorize the giving or lending, of the credit of the State",
+    "nor shall it have power to make any gift or authorize the making of any gift, of any public money or thing of value",
+    "it shall not have power to authorize the State, or any political subdivision thereof, to subscribe for stock",
+    "shall not exceed 85 percent of the anticipated revenues accruing to such political subdivision"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature shall have no power to give or to lend, or to authorize the giving or lending, of the credit of the State, or of any county, city and county, city, township or other political corporation or subdivision of the State, in aid of or to any person, association, or corporation, whether municipal or otherwise, or to pledge the credit thereof, in any manner whatever, for the payment of the liabilities of any individual, association, municipal or other corporation whatever",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Giving or lending, or authorizing the giving or lending, of the credit of the State or of any political corporation or subdivision of the State, in aid of or to any person, association, or corporation",
+      "Pledging the credit thereof for the payment of the liabilities of any individual, association, municipal or other corporation"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nor shall it have power to make any gift or authorize the making of any gift, of any public money or thing of value to any individual, municipal or other corporation whatever",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Making or authorizing the making of any gift of any public money or thing of value to any individual, municipal or other corporation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "provided, that nothing in this section shall prevent the Legislature granting aid pursuant to Section 3 of Article XVI"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "It shall not have power to authorize the State, or any political subdivision thereof, to subscribe for stock, or to become a stockholder in any corporation whatever",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Authorizing the State, or any political subdivision thereof, to subscribe for stock, or to become a stockholder in any corporation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "irrigation districts may acquire the stock of a foreign corporation holding part of an international water system",
+      "irrigation districts may acquire and hold the stock of corporations owning waters, water rights, canals, waterworks, franchises or concessions"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Irrigation districts for the purpose of acquiring the control of any entire international water system necessary for its use and purposes, a part of which is situated in the United States, and a part thereof in a foreign country, may in the manner authorized by law, acquire the stock of any foreign corporation which is the owner of, or which holds the title to the part of such system situated in a foreign country",
+     "holder": "Irrigation districts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in the manner authorized by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Irrigation districts for the purpose of acquiring water and water rights and other property necessary for their uses and purposes, may acquire and hold the stock of corporations, domestic or foreign, owning waters, water rights, canals, waterworks, franchises or concessions",
+     "holder": "Irrigation districts",
+     "binds": null,
+     "requires": [
+      "subject to the same obligations and liabilities as are imposed by law upon all other stockholders in such corporation"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "This section shall not prohibit any county, city and county, city, township, or other political corporation or subdivision of the State from joining with other such agencies in providing for the payment of workers’ compensation, unemployment compensation, tort liability, or public liability losses incurred by such agencies, by entry into an insurance pooling arrangement under a joint exercise of powers agreement, or by membership in such publicly-owned nonprofit corporation or other public agency as may be authorized by the Legislature",
+     "holder": "Any county, city and county, city, township, or other political corporation or subdivision of the State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing contained in this Constitution shall prohibit the use of state money or credit, in aiding veterans who served in the military or naval service of the United States during the time of war, in the acquisition of, or payments for, (1) farms or homes, or in projects of land settlement or in the development of such farms or homes or land settlement projects for the benefit of such veterans, or (2) any business, land or any interest therein, buildings, supplies, equipment, machinery, or tools, to be used by the veteran in pursuing a gainful occupation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing contained in this Constitution shall prohibit the State, or any county, city and county, city, township, or other political corporation or subdivision of the State from providing aid or assistance to persons for the purpose of clearing debris, natural materials, and wreckage from privately owned lands and waters deposited thereon or therein during a period of a major disaster or emergency, in either case declared by the President",
+     "holder": "The State, or any county, city and county, city, township, or other political corporation or subdivision of the State",
+     "binds": null,
+     "requires": [
+      "The public entity shall be indemnified by the recipient from the award of any claim against the public entity arising from the rendering of such aid or assistance",
+      "Such aid or assistance must be eligible for federal reimbursement for the cost thereof"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if found to be in the public interest"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Notwithstanding the restrictions contained in this Constitution, the treasurer of any city, county, or city and county shall have power and the duty to make such temporary transfers from the funds in custody as may be necessary to provide funds for meeting the obligations incurred for maintenance purposes by any city, county, city and county, district, or other political subdivision whose funds are in custody and are paid out solely through the treasurer’s office",
+     "holder": "The treasurer of any city, county, or city and county",
+     "binds": "The treasurer of any city, county, or city and county",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such temporary transfer of funds to any political subdivision shall be made only upon resolution adopted by the governing body of the city, county, or city and county directing the treasurer to make such temporary transfer, shall not exceed 85 percent of the anticipated revenues accruing to such political subdivision, shall not be made prior to the first day of the fiscal year nor after the last Monday in April of the current fiscal year, and shall be replaced from the revenues accruing to such political subdivision before any other obligation of such political subdivision is met from such revenue",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Made only upon resolution adopted by the governing body of the city, county, or city and county directing the treasurer to make such temporary transfer",
+      "Replaced from the revenues accruing to such political subdivision before any other obligation of such political subdivision is met from such revenue"
+     ],
+     "forbids": [
+      "Exceeding 85 percent of the anticipated revenues accruing to such political subdivision",
+      "Making a transfer prior to the first day of the fiscal year or after the last Monday in April of the current fiscal year"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s7": {
+  "review": {
+   "title": "Money drawn only by appropriation and warrant",
+   "plain": "Money may be drawn from the Treasury only through an appropriation made by law and upon a warrant duly drawn by the Controller.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Money may be drawn from the Treasury only through an appropriation made by law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Money may be drawn from the Treasury only through an appropriation made by law and upon a Controller’s duly drawn warrant",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "An appropriation made by law",
+      "A Controller’s duly drawn warrant"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s8": {
+  "review": {
+   "title": "Minimum state funding for schools",
+   "plain": "State revenues must first set apart money for public schools and higher education. From 1990–91, state support for school and community college districts must be at least the greatest of the listed amounts, with a maintenance factor in some years.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "may be suspended for one year by the enactment of an urgency statute pursuant to Section 8 of Article IV"
+   ],
+   "limits": [
+    "the urgency statute may not be made part of or included within any bill enacted pursuant to Section 12 of Article IV"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "From all state revenues there shall first be set apart the moneys to be applied by the State for support of the public school system and public institutions of higher education",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Commencing with the 1990–91 fiscal year, the moneys to be applied by the State for the support of school districts and community college districts shall be not less than the greater of the following amounts",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Not less than the greater of the amounts in paragraphs (1), (2) and (3)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "structure",
+     "what": "The amount which, as a percentage of General Fund revenues which may be appropriated pursuant to Article XIII B, equals the percentage of General Fund revenues appropriated for school districts and community college districts, respectively, in fiscal year 1986–87",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "The amount required to ensure that the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIII B and allocated local proceeds of taxes shall not be less than the total amount from these sources in the prior fiscal year, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment and for the change in the cost of living",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall be operative only in a fiscal year in which the percentage growth in California per capita personal income is less than or equal to the percentage growth in per capita General Fund revenues plus one half of one percent"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)(A)",
+     "kind": "structure",
+     "what": "The amount required to ensure that the total allocations to school districts and community college districts from General Fund proceeds of taxes appropriated pursuant to Article XIII B and allocated local proceeds of taxes shall equal the total amount from these sources in the prior fiscal year, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment and for the change in per capita General Fund revenues",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This paragraph (3) shall be operative only in a fiscal year in which the percentage growth in California per capita personal income in a fiscal year is greater than the percentage growth in per capita General Fund revenues plus one half of one percent"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)(B)",
+     "kind": "structure",
+     "what": "In addition, an amount equal to one-half of one percent times the prior year total allocations to school districts and community colleges from General Fund proceeds of taxes appropriated pursuant to Article XIII B and allocated local proceeds of taxes, excluding any revenues allocated pursuant to subdivision (a) of Section 8.5, adjusted for changes in enrollment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "If the amount computed pursuant to paragraph (1) of subdivision (b) exceeds the amount computed pursuant to paragraph (2) of subdivision (b) by a difference that exceeds one and one-half percent of General Fund revenues, the amount in excess of one and one-half percent of General Fund revenues shall not be considered allocations to school districts and community colleges for purposes of computing the amount of state aid pursuant to paragraph (2) or 3 of subdivision (b) in the subsequent fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "In any fiscal year in which school districts and community college districts are allocated funding pursuant to paragraph (3) of subdivision (b) or pursuant to subdivision (h), they shall be entitled to a maintenance factor, equal to the difference between (1) the amount of General Fund moneys which would have been appropriated pursuant to paragraph (2) of subdivision (b) if that paragraph had been operative or pursuant to subdivision (b) had subdivision (b) not been suspended, and (2) the amount of General Fund moneys actually appropriated to school districts and community college districts in that fiscal year",
+     "holder": "School districts and community college districts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The maintenance factor shall be adjusted annually for changes in enrollment, and adjusted for the change in the cost of living, until it has been allocated in full, and shall be allocated in a manner determined by the Legislature in each fiscal year in which the percentage growth in per capita General Fund revenues exceeds the percentage growth in California per capita personal income",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The maintenance factor shall be reduced each year by the amount allocated by the Legislature in that fiscal year",
+      "The minimum maintenance factor amount to be allocated in a fiscal year shall be equal to the product of General Fund revenues from proceeds of taxes and one-half of the difference between the percentage growth in per capita General Fund revenues from proceeds of taxes and in California per capita personal income, not to exceed the total dollar amount of the maintenance factor"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "There shall be no adjustment for decreases in enrollment between the prior fiscal year and the current fiscal year unless there have been decreases in enrollment between the second prior fiscal year and the prior fiscal year and between the third prior fiscal year and the second prior fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"changes in enrollment\": measured by the percentage change in average daily attendance"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "power",
+     "what": "Subparagraph (B) of paragraph (3) of subdivision (b) may be suspended for one year only when made part of or included within any bill enacted pursuant to Section 12 of Article IV. All other provisions of subdivision (b) may be suspended for one year by the enactment of an urgency statute pursuant to Section 8 of Article IV",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "only when made part of or included within any bill enacted pursuant to Section 12 of Article IV"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "limit",
+     "what": "The urgency statute may not be made part of or included within any bill enacted pursuant to Section 12 of Article IV",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Making the urgency statute part of or including it within any bill enacted pursuant to Section 12 of Article IV"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s8.5": {
+  "review": {
+   "title": "Extra revenues transferred to the State School Fund",
+   "plain": "The Controller must each year transfer revenues available under Article XIII B to the State School Fund, by enrollment, unless spending and class size reach the listed levels. The money is for instructional improvement and accountability; school districts must prepare audits and School Accountability Report Cards.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be expended solely for the purposes of instructional improvement and accountability"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Controller shall during each fiscal year transfer and allocate all revenues available pursuant to paragraph 1 of subdivision (a) of Section 2 of Article XIII B to that portion of the State School Fund restricted for elementary and high school purposes, and to that portion of the State School Fund restricted for community college purposes, respectively, in proportion to the enrollment in school districts and community college districts respectively",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In addition to the amount required to be applied for the support of school districts and community college districts pursuant to Section 8"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)",
+     "kind": "structure",
+     "what": "With respect to funds allocated to that portion of the State School Fund restricted for elementary and high school purposes, no transfer or allocation of funds pursuant to this section shall be required at any time that the Director of Finance and the Superintendent of Public Instruction mutually determine that current annual expenditures per student equal or exceed the average annual expenditure per student of the 10 states with the highest annual expenditures per student for elementary and high schools, and that average class size equals or is less than the average class size of the 10 states with the lowest class size for elementary and high schools",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "structure",
+     "what": "With respect to funds allocated to that portion of the State School Fund restricted for community college purposes, no transfer or allocation of funds pursuant to this section shall be required at any time that the Director of Finance and the Chancellor of the California Community Colleges mutually determine that current annual expenditures per student for community colleges in this State equal or exceed the average annual expenditure per student of the 10 states with the highest annual expenditures per student for community colleges",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Notwithstanding the provisions of Article XIII B, funds allocated pursuant to this section shall not constitute appropriations subject to limitation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "From any funds transferred to the State School Fund pursuant to subdivision (a), the Controller shall each year allocate to each school district and community college district an equal amount per enrollment in school districts from the portion restricted for elementary and high school purposes and an equal amount per enrollment in community college districts from the portion restricted for community college purposes",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "All revenues allocated pursuant to subdivision (a) shall be expended solely for the purposes of instructional improvement and accountability as required by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "Any school district maintaining an elementary or secondary school shall develop and cause to be prepared an annual audit accounting for such funds and shall adopt a School Accountability Report Card for each school",
+     "holder": null,
+     "binds": "Any school district maintaining an elementary or secondary school",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s9": {
+  "review": {
+   "title": "Fish and game money",
+   "plain": "Money collected under any state law relating to the protection or propagation of fish and game must be used for activities relating to fish and game.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be used for activities relating thereto"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Money collected under any state law relating to the protection or propagation of fish and game shall be used for activities relating thereto",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s10": {
+  "review": {
+   "title": "State cooperation in federal aid for the aged",
+   "plain": "When the United States provides pensions or other aid for the aged, the State may cooperate as provided by law. Local money spent under this section is not counted in the base for the spending limit under Section 20 of Article XI.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "co-operation by the State therewith and therein is hereby authorized"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Co-operation by the State therewith and therein is hereby authorized in such manner and to such extent as may be provided by law",
+     "holder": "The State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever the United States government or any officer or agency thereof shall provide pensions or other aid for the aged",
+      "in such manner and to such extent as may be provided by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The money expended by any county, city and county, municipality, district or other political subdivision of this State made available under the provisions of this section shall not be considered as a part of the base for determining the maximum expenditure for any given year permissible under Section 20 of Article XI of this Constitution independent of the vote of the electors or authorization by the State Board of Equalization",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s11": {
+  "review": {
+   "title": "Legislative power over relief of hardship",
+   "plain": "The Legislature has plenary power to provide for administering relief and may reshape the powers of relief agencies. The Legislature, or the people by initiative, may amend or repeal relief laws, administer relief directly or through counties, and aid or reimburse the counties.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "has plenary power to provide for the administration of any constitutional provisions or laws",
+    "may modify, transfer, or enlarge the powers vested in any state agency or officer",
+    "shall have power to amend, alter, or repeal any law relating to the relief of hardship and destitution"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature has plenary power to provide for the administration of any constitutional provisions or laws heretofore or hereafter enacted concerning the administration of relief",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "To that end the Legislature may modify, transfer, or enlarge the powers vested in any state agency or officer concerned with the administration of relief or laws appertaining thereto",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature, or the people by initiative, shall have power to amend, alter, or repeal any law relating to the relief of hardship and destitution, whether such hardship and destitution results from unemployment or from other causes, or to provide for the administration of the relief of hardship and destitution, either directly by the State or through the counties of the State, and to grant such aid to the counties therefor, or make such provision for reimbursement of the counties by the State, as the Legislature deems proper",
+     "holder": "The Legislature, or the people by initiative",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s13": {
+  "review": {
+   "title": "Release of liens for aid to the aged",
+   "plain": "The Legislature may release, cancel or nullify, in whole or in part, any lien, obligation or other security it imposed to secure repayment to the State or counties of aid lawfully granted to aged persons.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall have power to release, rescind, cancel, or otherwise nullify in whole or in part any encumbrance on property"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature shall have power to release, rescind, cancel, or otherwise nullify in whole or in part any encumbrance on property, personal obligation, or other form of security heretofore or hereafter exacted or imposed by the Legislature to secure the repayment to, or reimbursement of, the State, and the counties or other agencies of the state government, of aid lawfully granted to and received by aged persons",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this Constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s14": {
+  "review": {
+   "title": "Revenue bonds for pollution control facilities",
+   "plain": "The Legislature may provide for revenue bonds to finance pollution control facilities and their lease or sale. The bonds may not be secured by the State's taxing power, and either house may block or limit an issue by resolution.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of environmental pollution control facilities",
+    "may, by resolution adopted by either house, prohibit or limit any proposed issuance of such revenue bonds"
+   ],
+   "limits": [
+    "such revenue bonds shall not be secured by the taxing power of the State",
+    "Nothing herein contained shall authorize any public agency to operate any industrial or commercial enterprise"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of environmental pollution control facilities, including the acquisition of all technological facilities necessary or convenient for pollution control, and for the lease or sale of such facilities to persons, associations, or corporations, other than municipal corporations",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such revenue bonds shall not be secured by the taxing power of the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Securing such revenue bonds by the taxing power of the State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may, by resolution adopted by either house, prohibit or limit any proposed issuance of such revenue bonds",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by resolution adopted by either house"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No provision of this Constitution, including, but not limited to, Section 25 of Article XIII and Sections 1 and 2 of Article XVI, shall be construed as a limitation upon the authority granted to the Legislature pursuant to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nothing herein contained shall authorize any public agency to operate any industrial or commercial enterprise",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s14.5": {
+  "review": {
+   "title": "Revenue bonds for alternative energy facilities",
+   "plain": "The Legislature may provide for revenue bonds to finance cogeneration, solar, biomass or other alternative energy facilities and their lease or sale. The bonds may not be secured by the State's taxing power, and both houses may block or limit an issue.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of facilities utilizing cogeneration technology, solar power, biomass, or any other alternative source",
+    "may, by resolution adopted by both houses, prohibit or limit any proposed issuance of such revenue bonds"
+   ],
+   "limits": [
+    "such revenue bonds shall not be secured by the taxing power of the State",
+    "Nothing contained herein shall authorize any public agency to operate any industrial or commercial enterprise"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide for the issuance of revenue bonds to finance the acquisition, construction, and installation of facilities utilizing cogeneration technology, solar power, biomass, or any other alternative source the Legislature may deem appropriate, including the acquisition of all technological facilities necessary or convenient for the use of alternative sources, and for the lease or sale of such facilities to persons, associations, or corporations, other than municipal corporations",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such revenue bonds shall not be secured by the taxing power of the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Securing such revenue bonds by the taxing power of the State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may, by resolution adopted by both houses, prohibit or limit any proposed issuance of such revenue bonds",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "by resolution adopted by both houses"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No provision of this Constitution, including, but not limited to, Sections 1, 2, and 6, of this article, shall be construed as a limitation upon the authority granted to the Legislature pursuant to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nothing contained herein shall authorize any public agency to operate any industrial or commercial enterprise",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s15": {
+  "review": {
+   "title": "Parking meter revenue as security for parking bonds",
+   "plain": "A public body authorized to issue securities for public parking facilities, and any other public body whose area includes those facilities, may make street parking meter revenues available as additional security.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "are authorized to make revenues from street parking meters available as additional security"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "A public body authorized to issue securities to provide public parking facilities and any other public body whose territorial area includes such facilities are authorized to make revenues from street parking meters available as additional security",
+     "holder": "A public body authorized to issue securities to provide public parking facilities and any other public body whose territorial area includes such facilities",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s16": {
+  "review": {
+   "title": "Tax increment financing for redevelopment",
+   "plain": "Redevelopment project property is taxed like other property. The Legislature may let a redevelopment plan divide those taxes: the base amount goes to the taxing agencies and the increase to the redevelopment agency to repay its debts, and may be pledged.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Legislature may provide that any redevelopment plan may contain a provision",
+    "The Legislature may also provide that in any redevelopment plan"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "All property in a redevelopment project established under the Community Redevelopment Law, except publicly owned property not subject to taxation by reason of that ownership, shall be taxed in proportion to its value as provided in Section 1 of this article, and those taxes shall be levied and collected as other taxes are levied and collected by the respective taxing agencies",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except publicly owned property not subject to taxation by reason of that ownership"
+     ],
+     "terms": [
+      "\"taxes\": includes, but is not limited to, all levies on an ad valorem basis upon land or real property"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide that any redevelopment plan may contain a provision that the taxes, if any, so levied upon the taxable property in a redevelopment project each year by or for the benefit of the taxing agencies after the effective date of the ordinance approving the redevelopment plan, shall be divided as follows",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"taxing agencies\": the State of California, any city, county, city and county, district, or other public corporation"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "That portion of the taxes which would be produced by the rate upon which the tax is levied each year by or for each of those taxing agencies upon the total sum of the assessed value of the taxable property in the redevelopment project as shown upon the assessment roll last equalized prior to the effective date of the ordinance, shall be allocated to, and when collected shall be paid into, the funds of the respective taxing agencies as taxes by or for those taxing agencies on all other property are paid",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "That portion of the levied taxes each year in excess of that amount shall be allocated to and when collected shall be paid into a special fund of the redevelopment agency to pay the principal of and interest on loans, moneys advanced to, or indebtedness incurred by the redevelopment agency to finance or refinance, in whole or in part, the redevelopment project",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (c)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Unless and until the total assessed valuation of the taxable property in a redevelopment project exceeds the total assessed value of the taxable property in the project as shown by the last equalized assessment roll referred to in subdivision (a), all of the taxes levied and collected upon the taxable property in the redevelopment project shall be paid into the funds of the respective taxing agencies",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "When the loans, advances, and indebtedness, if any, and interest thereon, have been paid, then all moneys thereafter received from taxes upon the taxable property in the redevelopment project shall be paid into the funds of the respective taxing agencies as taxes on all other property are paid",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "That portion of the taxes identified in subdivision (b) which are attributable to a tax rate levied by a taxing agency for the purpose of producing revenues in an amount sufficient to make annual repayments of the principal of, and the interest on, any bonded indebtedness for the acquisition or improvement of real property shall be allocated to, and when collected shall be paid into, the fund of that taxing agency",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall only apply to taxes levied to repay bonded indebtedness approved by the voters of the taxing agency on or after January 1, 1989"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may also provide that in any redevelopment plan or in the proceedings for the advance of moneys, or making of loans, or the incurring of any indebtedness by the redevelopment agency to finance or refinance the redevelopment project, the portion of taxes identified in subdivision (b), exclusive of that portion identified in subdivision (c), may be irrevocably pledged for the payment of the principal of and interest on those loans, advances, or indebtedness",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "It is intended by this section to empower any redevelopment agency, city, county, or city and county under any law authorized by this section to exercise the provisions hereof separately or in combination with powers granted by the same or any other law relative to redevelopment agencies. This section shall not affect any other law or laws relating to the same or a similar subject but is intended to authorize an alternative method of procedure governing the subject to which it refers",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall enact those laws as may be necessary to enforce the provisions of this section",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s17": {
+  "review": {
+   "title": "State stock limits and public pension board authority",
+   "plain": "The State may not loan its credit or hold corporate stock, except mutual water company stock held to supply water. Public pension retirement boards have plenary authority and fiduciary responsibility over investments and administration, and must act solely for participants and beneficiaries.",
+   "category": "Public Officers & Employees",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "is hereby authorized to acquire and hold shares of the capital stock of any mutual water company or corporation",
+    "shall have plenary authority",
+    "shall have the sole and exclusive power to provide for actuarial services",
+    "may by statute continue to prohibit certain investments by a retirement board"
+   ],
+   "limits": [
+    "The State shall not in any manner loan its credit",
+    "shall not be changed, amended, or modified by the Legislature"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The State shall not in any manner loan its credit, nor shall it subscribe to, or be interested in the stock of any company, association, or corporation",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [
+      "Loaning its credit in any manner",
+      "Subscribing to, or being interested in the stock of any company, association, or corporation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except that the State and each political subdivision, district, municipality, and public agency thereof is hereby authorized to acquire and hold shares of the capital stock of any mutual water company or corporation when the stock is so acquired or held for the purpose of furnishing a supply of water for public, municipal or governmental purposes"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The State and each political subdivision, district, municipality, and public agency thereof is hereby authorized to acquire and hold shares of the capital stock of any mutual water company or corporation",
+     "holder": "The State and each political subdivision, district, municipality, and public agency thereof",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the stock is so acquired or held for the purpose of furnishing a supply of water for public, municipal or governmental purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The holding of the stock shall entitle the holder thereof to all of the rights, powers and privileges, and shall subject the holder to the obligations and liabilities conferred or imposed by law upon other holders of stock in the mutual water company or corporation in which the stock is so held",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The retirement board of a public pension or retirement system shall have plenary authority and fiduciary responsibility for investment of moneys and administration of the system",
+     "holder": "The retirement board of a public pension or retirement system",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provisions of law or this Constitution to the contrary",
+      "subject to all of the following: subdivisions (a) to (h)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The retirement board shall have the sole and exclusive fiduciary responsibility over the assets of the public pension or retirement system, and sole and exclusive responsibility to administer the system in a manner that will assure prompt delivery of benefits and related services to the participants and their beneficiaries",
+     "holder": null,
+     "binds": "The retirement board of a public pension or retirement system",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The assets of a public pension or retirement system are trust funds and shall be held for the exclusive purposes of providing benefits to participants in the pension or retirement system and their beneficiaries and defraying reasonable expenses of administering the system",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The members of the retirement board shall discharge their duties with respect to the system solely in the interest of, and for the exclusive purposes of providing benefits to, participants and their beneficiaries, minimizing employer contributions thereto, and defraying reasonable expenses of administering the system",
+     "holder": null,
+     "binds": "The members of the retirement board of a public pension or retirement system",
+     "requires": [
+      "A retirement board’s duty to its participants and their beneficiaries shall take precedence over any other duty"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The members of the retirement board shall discharge their duties with respect to the system with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with these matters would use in the conduct of an enterprise of a like character and with like aims",
+     "holder": null,
+     "binds": "The members of the retirement board of a public pension or retirement system",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The members of the retirement board shall diversify the investments of the system so as to minimize the risk of loss and to maximize the rate of return",
+     "holder": null,
+     "binds": "The members of the retirement board of a public pension or retirement system",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless under the circumstances it is clearly not prudent to do so"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "The retirement board, consistent with the exclusive fiduciary responsibilities vested in it, shall have the sole and exclusive power to provide for actuarial services in order to assure the competency of the assets of the public pension or retirement system",
+     "holder": "The retirement board of a public pension or retirement system",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "The number, terms, and method of selection or removal of members of the retirement board which were required by law or otherwise in effect on July 1, 1991, shall not be changed, amended, or modified by the Legislature unless the change, amendment, or modification enacted by the Legislature is ratified by a majority vote of the electors of the jurisdiction in which the participants of the system are or were, prior to retirement, employed",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "With regard to the retirement board of a public pension or retirement system which includes in its composition elected employee members",
+      "unless the change, amendment, or modification enacted by the Legislature is ratified by a majority vote of the electors of the jurisdiction in which the participants of the system are or were, prior to retirement, employed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "power",
+     "what": "The Legislature may by statute continue to prohibit certain investments by a retirement board where it is in the public interest to do so",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "where it is in the public interest to do so",
+      "provided that the prohibition satisfies the standards of fiduciary care and loyalty required of a retirement board pursuant to this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "structure",
+     "what": "The term “retirement board” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"retirement board\": the board of administration, board of trustees, board of directors, or other governing body or board of a public employees’ pension or retirement system; not a governing body or board created after July 1, 1991 which does not administer pension or retirement benefits, or the elected legislative body of a jurisdiction which employs participants in a public employees’ pension or retirement system"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s18": {
+  "review": {
+   "title": "Local debt limit and school bond votes",
+   "plain": "Local governments and school bodies may not incur debt beyond a year's income without two-thirds voter approval and a tax to repay it, except that bonds to fix unsafe school buildings need a majority, and certain school facility bonds need 55 percent. Each proposition is counted separately.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No county, city, town, township, board of education, or school district, shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year, without the assent of two-thirds of the voters of the public entity voting at an election to be held for that purpose",
+     "holder": null,
+     "binds": "No county, city, town, township, board of education, or school district",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "without the assent of two-thirds of the voters of the public entity voting at an election to be held for that purpose"
+     ],
+     "exceptions": [
+      "except that with respect to any such public entity which is authorized to incur indebtedness for public school purposes, any proposition for the incurrence of indebtedness in the form of general obligation bonds for the purpose of repairing, reconstructing or replacing public school buildings determined, in the manner prescribed by law, to be structurally unsafe for school use, shall be adopted upon the approval of a majority of the voters of the public entity voting on the proposition at such election"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Nor unless before or at the time of incurring such indebtedness provision shall be made for the collection of an annual tax sufficient to pay the interest on such indebtedness as it falls due, and to provide for a sinking fund for the payment of the principal thereof, on or before maturity, which shall not exceed forty years from the time of contracting the indebtedness",
+     "holder": null,
+     "binds": "No county, city, town, township, board of education, or school district",
+     "requires": [
+      "Provision for the collection of an annual tax sufficient to pay the interest on such indebtedness as it falls due, and to provide for a sinking fund for the payment of the principal thereof",
+      "Maturity shall not exceed forty years from the time of contracting the indebtedness"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "In the case of any school district, community college district, or county office of education, any proposition for the incurrence of indebtedness in the form of general obligation bonds for the construction, reconstruction, rehabilitation, or replacement of school facilities, including the furnishing and equipping of school facilities, or the acquisition or lease of real property for school facilities, shall be adopted upon the approval of 55 percent of the voters of the district or county, as appropriate, voting on the proposition at an election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding subdivision (a), on or after the effective date of the measure adding this subdivision",
+      "This subdivision shall apply only to a proposition for the incurrence of indebtedness in the form of general obligation bonds for the purposes specified in this subdivision if the proposition meets all of the accountability requirements of paragraph (3) of subdivision (b) of Section 1 of Article XIII A"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "When two or more propositions for incurring any indebtedness or liability are submitted at the same election, the votes cast for and against each proposition shall be counted separately, and when two-thirds or a majority or 55 percent of the voters, as the case may be, voting on any one of those propositions, vote in favor thereof, the proposition shall be deemed adopted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s19": {
+  "review": {
+   "title": "Special assessment limits for charter cities and counties",
+   "plain": "Charter cities and counties paying for public improvements or acquisitions by special assessment must follow the laws on cost limits, valuation, excess costs and majority protest, unless the legislative body, after notice and hearing, finds by a four-fifths vote that public convenience and necessity require the work.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be undertaken only in accordance with the provisions of law governing"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "All proceedings undertaken by any chartered city, or by any chartered county or by any chartered city and county for the construction of any public improvement, or the acquisition of any property for public use, or both, where the cost thereof is to be paid in whole or in part by special assessment or other special assessment taxes upon property, shall be undertaken only in accordance with the provisions of law governing: (a) limitations of costs of such proceedings or assessments in relation to the value of any property assessed therefor; (b) determination of a basis for the valuation of any such property; (c) payment of the cost in excess of such limitations; (d) avoidance of such limitations; (e) postponement or abandonment, or both, of such proceedings in whole or in part upon majority protest, and particularly in accordance with such provisions as contained in Sections 10, 11 and 13a of the Special Assessment Investigation, Limitation and Majority Protest Act of 1931",
+     "holder": null,
+     "binds": "Any chartered city, chartered county or chartered city and county",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "If such legislative body by no less than a four-fifths vote of all members thereof, finds and determines that the public convenience and necessity require such improvements or acquisitions, such debt limitation and majority protest provisions shall not apply",
+     "holder": "The legislative body of any such chartered county, chartered city or chartered city and county",
+     "binds": null,
+     "requires": [
+      "by no less than a four-fifths vote of all members thereof"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provisions for debt limitation or majority protest as in this section provided",
+      "after the giving of such reasonable notice by publication and posting and the holding of such public hearing as the legislative body shall have prescribed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing contained in this section shall require the legislative body of any such city, county, or city and county to prepare or to cause to be prepared, hear, notice for hearing or report the hearing of any report as to any such proposed construction or acquisition or both",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s20": {
+  "review": {
+   "title": "Budget Stabilization Account",
+   "plain": "Creates the Budget Stabilization Account. The Controller must transfer 1.5 percent of General Fund revenues, plus certain capital gains revenues, to it each year, with half used through 2029–30 for listed debts. The balance is capped at 10 percent of tax proceeds.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "the Legislature may appropriate up to 50 percent",
+    "may utilize funds in the Budget Stabilization Account"
+   ],
+   "limits": [
+    "shall not exceed an amount that would result in a balance in the account that, when the transfer is made, exceeds 10 percent",
+    "may be expended only for infrastructure",
+    "shall not interfere with the purposes of the Budget Stabilization Account"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "structure",
+     "what": "The Budget Stabilization Account is hereby created in the General Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "duty",
+     "what": "For the 2015–16 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Controller shall transfer from the General Fund to the Budget Stabilization Account, no later than October 1, a sum equal to 1.5 percent of the estimated amount of General Fund revenues for that fiscal year",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "duty",
+     "what": "For the 2015–16 fiscal year and each fiscal year thereafter, based on the Budget Act for the fiscal year, the Department of Finance shall provide to the Legislature all of the following information",
+     "holder": null,
+     "binds": "The Department of Finance",
+     "requires": [
+      "(A) An estimate of the amount of General Fund proceeds of taxes that may be appropriated pursuant to Article XIII B for that fiscal year",
+      "(B) An estimate of that portion derived from personal income taxes paid on net capital gains, and the portion of that estimate that exceeds 8 percent of the estimate made under subparagraph (A)",
+      "(C) That portion of the state’s funding obligation under Section 8 that results from including the amount calculated under clause (ii) of subparagraph (B), if any, as General Fund proceeds of taxes",
+      "(D) The amount of any appropriations described in subdivision (c) that are made from the revenues described in clause (ii) of subparagraph (B)",
+      "(E) The amount resulting from subtracting the combined values calculated under subparagraphs (C) and (D) from the value calculated under clause (ii) of subparagraph (B); if less than zero, the amount shall be considered zero",
+      "(F) The lesser of the amount calculated under subparagraph (E) or the amount of transfer resulting in the balance in the Budget Stabilization Account reaching the limit specified in subdivision (e)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "duty",
+     "what": "In the 2016–17 fiscal year, with respect to the 2015–16 fiscal year only, and in the 2017–18 fiscal year and each fiscal year thereafter, separately with respect to each of the two next preceding fiscal years, the Department of Finance shall calculate all of the following, using the same methodology used for the relevant fiscal year, and provide those calculations to the Legislature",
+     "holder": null,
+     "binds": "The Department of Finance",
+     "requires": [
+      "(A) An updated estimate of the amount of General Fund proceeds of taxes that may be appropriated pursuant to Article XIII B",
+      "(B) An updated estimate of that portion derived from personal income taxes paid on net capital gains, and the portion of that updated estimate that exceeds 8 percent of the updated estimate made under subparagraph (A)",
+      "(C) The updated calculation of that portion of the state’s funding obligation under Section 8 that results from including the updated amount calculated under clause (ii) of subparagraph (B), if any, as General Fund proceeds of taxes",
+      "(D) The amount of any appropriations described in subdivision (c) that are made from the revenues described in clause (ii) of subparagraph (B) of paragraph (1)",
+      "(E) The amount resulting from subtracting the combined values calculated under subparagraphs (C) and (D) from the value calculated under clause (ii) of subparagraph (B); if less than zero, the amount shall be considered zero",
+      "(F) The amount previously transferred for the fiscal year by the Controller from the General Fund to the Budget Stabilization Account pursuant to subdivisions (c) and (d)",
+      "(G) The lesser of (i) the amount, not less than zero, resulting from subtracting from the amount under subparagraph (E) any suspension or reduction of transfer under Section 22 previously approved by the Legislature and the amount previously transferred, or (ii) the amount of transfer resulting in the balance in the Budget Stabilization Account reaching the limit specified in subdivision (e)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)(A)",
+     "kind": "duty",
+     "what": "By October 1 of the 2015–16 fiscal year and each fiscal year thereafter to the 2029–30 fiscal year, inclusive, based on the estimates set forth in the annual Budget Act and the sum identified in paragraph (2) of subdivision (a), the Controller shall transfer amounts from the General Fund and the Budget Stabilization Account, pursuant to a schedule provided by the Director of Finance, as provided in subparagraph (B)",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)(B)(i)",
+     "kind": "duty",
+     "what": "Fifty percent of both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)(B)(ii)",
+     "kind": "duty",
+     "what": "The remaining 50 percent shall be appropriated by the Legislature for one or more of the following obligations and purposes",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "(I) Unfunded prior fiscal year General Fund obligations pursuant to Section 8 that existed on July 1, 2014",
+      "(II) Budgetary loans to the General Fund, from funds outside the General Fund, that had outstanding balances on January 1, 2014",
+      "(III) Payable claims for mandated costs incurred prior to the 2004–05 fiscal year that have not yet been paid, and that pursuant to paragraph (2) of subdivision (b) of Section 6 of Article XIII B are permitted to be paid over a term of years, as prescribed by law",
+      "(IV) Unfunded liabilities for state-level pension plans and prefunding other postemployment benefits, in excess of current base amounts as established for the fiscal year in which the funds would otherwise be transferred to the Budget Stabilization Account",
+      "To qualify under subclause (IV), the appropriation shall supplement and not supplant funding that would otherwise be made available to pay for the obligations described in that subclause for the fiscal year or the subsequent fiscal year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"current base amounts\" (subclause (IV)): those required to be paid pursuant to law, an approved memorandum of understanding, benefit schedules established by the employer or entity authorized to establish those contributions for employees excluded or exempted from collective bargaining, or any combination of these"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)(A)",
+     "kind": "duty",
+     "what": "By October 1 of the 2030–31 fiscal year and each fiscal year thereafter, based on the estimates set forth in the annual Budget Act, the Controller shall transfer amounts from the General Fund to the Budget Stabilization Account, pursuant to a schedule provided by the Director of Finance, as provided in subparagraph (B)",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)(B)",
+     "kind": "duty",
+     "what": "Both the amount identified in paragraph (2) of subdivision (a), and the amount resulting from subtracting the value calculated under subparagraph (C) of paragraph (1) of subdivision (b) from the value calculated under clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b), shall be transferred from the General Fund to the Budget Stabilization Account",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)(C)",
+     "kind": "power",
+     "what": "The Legislature may appropriate up to 50 percent of both the amount identified in paragraph (2) of subdivision (a), and of the amount resulting from that subtraction, for one or more of the obligations and purposes described in clause (ii) of subparagraph (B) of paragraph (1)",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "structure",
+     "what": "The transfers described in this subdivision are subject to suspension or reduction pursuant to paragraph (1) of subdivision (a) of Section 22",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "By October 1 of the 2016–17 fiscal year and each fiscal year thereafter, based on the estimates set forth in the annual Budget Act, the Controller shall transfer amounts between the General Fund and the Budget Stabilization Account pursuant to a schedule provided by the Director of Finance",
+     "holder": null,
+     "binds": "The Controller",
+     "requires": [
+      "(1) If the amount in subparagraph (G) of paragraph (2) of subdivision (b) is greater than zero, transfer that amount from the General Fund to the Budget Stabilization Account, subject to any suspension or reduction of this transfer pursuant to paragraph (1) of subdivision (a) of Section 22",
+      "(2) If the amount described in subparagraph (F) of paragraph (2) of subdivision (b) is greater than the amount calculated under subparagraph (E) of paragraph (2) of subdivision (b), transfer that excess amount from the Budget Stabilization Account back to the General Fund"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "The amount of a transfer to the Budget Stabilization Account pursuant to paragraph (2) of subdivision (a) and subdivisions (c) and (d) for any fiscal year shall not exceed an amount that would result in a balance in the account that, when the transfer is made, exceeds 10 percent of the amount of General Fund proceeds of taxes for the fiscal year estimated pursuant to subdivision (b)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "For any fiscal year, General Fund proceeds of taxes that, but for this paragraph, would have been transferred to the Budget Stabilization Account may be expended only for infrastructure, as defined by Section 13101 of the Government Code, as that section read on January 1, 2014, including deferred maintenance thereon",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "The funds described in subdivision (b) as General Fund proceeds of taxes are General Fund proceeds of taxes for purposes of Section 8 for the fiscal year to which those proceeds are attributed, but are not deemed to be additional General Fund proceeds of taxes on the basis that the funds are thereafter transferred from the Budget Stabilization Account to the General Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "power",
+     "what": "The Controller may utilize funds in the Budget Stabilization Account, that he or she determines to currently be unnecessary for the purposes of this section, to help manage General Fund daily cashflow needs",
+     "holder": "The Controller",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "Any use pursuant to this subdivision shall not interfere with the purposes of the Budget Stabilization Account",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Interfering with the purposes of the Budget Stabilization Account"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "duty",
+     "what": "The annual Budget Act shall include the estimates described in all of the following",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "(1) Paragraph (2) of subdivision (a)",
+      "(2) Clause (ii) of subparagraph (B) of paragraph (1) of subdivision (b)",
+      "(3) Subparagraph (F) of paragraph (1) of subdivision (b)",
+      "(4) Clause (ii) of subparagraph (B) of paragraph (2) of subdivision (b)",
+      "(5) Subparagraph (G) of paragraph (2) of subdivision (b)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

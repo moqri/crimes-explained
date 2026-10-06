@@ -1,0 +1,1893 @@
+{
+ "a6-s14": {
+  "review": {
+   "title": "Publication and written decisions",
+   "plain": "The Legislature must provide for prompt publication of the Supreme Court and courts of appeal opinions the Supreme Court deems appropriate, which any person may publish. Decisions that determine causes must be in writing with reasons stated.",
+   "category": "The Courts",
+   "kind": "Duty",
+   "rights": [
+    "those opinions shall be available for publication by any person"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide for the prompt publication of such opinions of the Supreme Court and courts of appeal as the Supreme Court deems appropriate",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Those opinions shall be available for publication by any person",
+     "holder": "Any person",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Decisions of the Supreme Court and courts of appeal that determine causes shall be in writing with reasons stated",
+     "holder": null,
+     "binds": "The Supreme Court and courts of appeal",
+     "requires": [
+      "in writing with reasons stated"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s15": {
+  "review": {
+   "title": "Qualifications of judges",
+   "plain": "A person cannot be a judge of a court of record unless, for the 10 years just before selection, the person was a State Bar member or a judge of a court of record in California.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A person is ineligible to be a judge of a court of record unless for 10 years immediately preceding selection, the person has been a member of the State Bar or served as a judge of a court of record in this State",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "for 10 years immediately preceding selection, the person has been a member of the State Bar or served as a judge of a court of record in this State"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s16": {
+  "review": {
+   "title": "Election and terms of judges",
+   "plain": "Supreme Court and court of appeal judges are elected for 12-year terms, and superior court judges for six-year terms. Appellate judges run unopposed in yes-or-no retention elections, the Governor fills appellate vacancies subject to confirmation, and county electors may adopt that system for superior courts.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may provide for their election by the system prescribed in subdivision (d), or by any other arrangement",
+    "The Legislature may provide that an unopposed incumbent’s name not appear on the ballot",
+    "may file a declaration of candidacy to succeed to the office presently held by the judge",
+    "may make this system of selection applicable to judges of superior courts"
+   ],
+   "limits": [
+    "only the candidate so declared or nominated may appear on the ballot",
+    "A candidate not elected may not be appointed to that court"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Judges of the Supreme Court shall be elected at large and judges of courts of appeal shall be elected in their districts at general elections at the same time and places as the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Their terms are 12 years beginning the Monday after January 1 following their election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except that a judge elected to an unexpired term serves the remainder of the term"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "In creating a new court of appeal district or division the Legislature shall provide that the first elective terms are 4, 8, and 12 years",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In creating a new court of appeal district or division"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Judges of superior courts shall be elected in their counties at general elections",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as otherwise necessary to meet the requirements of federal law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may provide for their election by the system prescribed in subdivision (d), or by any other arrangement",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the latter case",
+      "by two-thirds vote of the membership of each house thereof",
+      "with the advice of judges within the affected court"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may provide that an unopposed incumbent’s name not appear on the ballot",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Terms of judges of superior courts are six years beginning the Monday after January 1 following their election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "A vacancy shall be filled by election to a full term at the next general election after the second January 1 following the vacancy",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Governor shall appoint a person to fill the vacancy temporarily until the elected judge’s term begins",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(1)",
+     "kind": "power",
+     "what": "A judge of the Supreme Court or a court of appeal may file a declaration of candidacy to succeed to the office presently held by the judge",
+     "holder": "A judge of the Supreme Court or a court of appeal",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Within 30 days before August 16 preceding the expiration of the judge’s term"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(1)",
+     "kind": "duty",
+     "what": "The Governor before September 16 shall nominate a candidate",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the declaration is not filed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(1)",
+     "kind": "limit",
+     "what": "At the next general election, only the candidate so declared or nominated may appear on the ballot, which shall present the question whether the candidate shall be elected",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The candidate shall be elected upon receiving a majority of the votes on the question"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(1)",
+     "kind": "limit",
+     "what": "A candidate not elected may not be appointed to that court but later may be nominated and elected",
+     "holder": null,
+     "binds": "A candidate not elected",
+     "requires": [],
+     "forbids": [
+      "be appointed to that court"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(2)",
+     "kind": "duty",
+     "what": "The Governor shall fill vacancies in those courts by appointment",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(2)",
+     "kind": "structure",
+     "what": "An appointee holds office until the Monday after January 1 following the first general election at which the appointee had the right to become a candidate or until an elected judge qualifies",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(2)",
+     "kind": "structure",
+     "what": "A nomination or appointment by the Governor is effective when confirmed by the Commission on Judicial Appointments",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when confirmed by the Commission on Judicial Appointments"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)(3)",
+     "kind": "power",
+     "what": "Electors of a county may make this system of selection applicable to judges of superior courts",
+     "holder": "Electors of a county",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by majority of those voting",
+      "in a manner the Legislature shall provide"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s17": {
+  "review": {
+   "title": "Judges barred from other work and office",
+   "plain": "A judge of a court of record may not practice law or, during the term, hold other public office or employment except part-time teaching; a trial judge may run for other office after taking unpaid leave. Judicial officers may not keep fines or fees or earn teaching retirement credit.",
+   "category": "The Courts",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not practice law",
+    "is ineligible for public employment or public office other than judicial employment or judicial office",
+    "may not receive fines or fees for personal use",
+    "may not earn retirement service credit from a public teaching position"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A judge of a court of record may not practice law",
+     "holder": null,
+     "binds": "A judge of a court of record",
+     "requires": [],
+     "forbids": [
+      "practice law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "During the term for which the judge was selected a judge of a court of record is ineligible for public employment or public office other than judicial employment or judicial office",
+     "holder": null,
+     "binds": "A judge of a court of record",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except a judge of a court of record may accept a part-time teaching position that is outside the normal hours of his or her judicial position and that does not interfere with the regular performance of his or her judicial duties while holding office"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A judge of a trial court of record may become eligible for election to other public office by taking a leave of absence without pay prior to filing a declaration of candidacy",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "taking a leave of absence without pay prior to filing a declaration of candidacy"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Acceptance of the public office is a resignation from the office of judge",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A judicial officer may not receive fines or fees for personal use",
+     "holder": null,
+     "binds": "A judicial officer",
+     "requires": [],
+     "forbids": [
+      "receive fines or fees for personal use"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A judicial officer may not earn retirement service credit from a public teaching position while holding judicial office",
+     "holder": null,
+     "binds": "A judicial officer",
+     "requires": [],
+     "forbids": [
+      "earn retirement service credit from a public teaching position while holding judicial office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s18": {
+  "review": {
+   "title": "Discipline and removal of judges",
+   "plain": "Judges are disqualified while facing felony charges or review of their removal. The Commission on Judicial Performance may disqualify, retire, censure, remove or admonish judges, must suspend and remove judges convicted of serious crimes, and the Supreme Court may review its decisions.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [
+    "shall be absolutely immune from suit"
+   ],
+   "powers": [
+    "may disqualify a judge from acting as a judge",
+    "retire a judge for disability",
+    "censure a judge or former judge or remove a judge",
+    "publicly or privately admonish a judge or former judge",
+    "The commission may also bar a former judge who has been censured from receiving an assignment, appointment, or reference of work",
+    "the Supreme Court may, in its discretion, grant review",
+    "it may make an independent review of the record",
+    "The State Bar may institute appropriate attorney disciplinary proceedings",
+    "The commission may provide for the confidentiality of complaints",
+    "The commission may make explanatory statements"
+   ],
+   "limits": [
+    "A judge is disqualified from acting as a judge",
+    "No court, except the Supreme Court, shall have jurisdiction",
+    "No civil action may be maintained against a person"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "A judge is disqualified from acting as a judge, without loss of salary, while there is pending (1) an indictment or an information charging the judge in the United States with a crime punishable as a felony under California or federal law, or (2) a petition to the Supreme Court to review a determination by the Commission on Judicial Performance to remove or retire a judge",
+     "holder": null,
+     "binds": "A judge",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "while there is pending (1) an indictment or an information charging the judge in the United States with a crime punishable as a felony under California or federal law, or (2) a petition to the Supreme Court to review a determination by the Commission on Judicial Performance to remove or retire a judge"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Commission on Judicial Performance may disqualify a judge from acting as a judge, without loss of salary",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon notice of formal proceedings by the commission charging the judge with judicial misconduct or disability"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Commission on Judicial Performance shall suspend a judge from office without salary when in the United States the judge pleads guilty or no contest or is found guilty of a crime punishable as a felony under California or federal law or of any other crime that involves moral turpitude under that law",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when in the United States the judge pleads guilty or no contest or is found guilty of a crime punishable as a felony under California or federal law or of any other crime that involves moral turpitude under that law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "If the conviction is reversed, suspension terminates, and the judge shall be paid the salary for the judicial office held by the judge for the period of suspension",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the conviction is reversed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Commission on Judicial Performance shall remove the judge from office",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the judge is suspended and the conviction becomes final"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Commission on Judicial Performance may retire a judge for disability that seriously interferes with the performance of the judge’s duties and is or is likely to become permanent",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (f)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Commission on Judicial Performance may censure a judge or former judge or remove a judge for action occurring not more than 6 years prior to the commencement of the judge’s current term or of the former judge’s last term that constitutes willful misconduct in office, persistent failure or inability to perform the judge’s duties, habitual intemperance in the use of intoxicants or drugs, or conduct prejudicial to the administration of justice that brings the judicial office into disrepute",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (f)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Commission on Judicial Performance may publicly or privately admonish a judge or former judge found to have engaged in an improper action or dereliction of duty",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (f)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The commission may also bar a former judge who has been censured from receiving an assignment, appointment, or reference of work from any California state court",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Supreme Court may, in its discretion, grant review of a determination by the commission to retire, remove, censure, admonish, or disqualify pursuant to subdivision (b) a judge or former judge",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon petition by the judge or former judge"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "When the Supreme Court reviews a determination of the commission, it may make an independent review of the record",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "If the Supreme Court has not acted within 120 days after granting the petition, the decision of the commission shall be final",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the Supreme Court has not acted within 120 days after granting the petition"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "A judge retired by the commission shall be considered to have retired voluntarily",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "A judge removed by the commission is ineligible for judicial office, including receiving an assignment, appointment, or reference of work from any California state court, and pending further order of the court is suspended from practicing law in this State",
+     "holder": null,
+     "binds": "A judge removed by the commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "The State Bar may institute appropriate attorney disciplinary proceedings against any judge who retires or resigns from office with judicial disciplinary charges pending",
+     "holder": "The State Bar",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "A determination by the Commission on Judicial Performance to admonish or censure a judge or former judge of the Supreme Court or remove or retire a judge of the Supreme Court shall be reviewed by a tribunal of 7 court of appeal judges selected by lot",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "No court, except the Supreme Court, shall have jurisdiction in a civil action or other legal proceeding of any sort brought against the commission by a judge",
+     "holder": null,
+     "binds": "No court, except the Supreme Court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except the Supreme Court"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "Any request for injunctive relief or other provisional remedy shall be granted or denied within 90 days of the filing of the request for relief",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "A failure to comply with the time requirements of this section does not affect the validity of commission proceedings",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "right",
+     "what": "Members of the commission, the commission staff, and the examiners and investigators employed by the commission shall be absolutely immune from suit for all conduct at any time in the course of their official duties",
+     "holder": "Members of the commission, the commission staff, and the examiners and investigators employed by the commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "limit",
+     "what": "No civil action may be maintained against a person, or adverse employment action taken against a person, by any employer, public or private, based on statements presented by the person to the commission",
+     "holder": null,
+     "binds": "Any employer, public or private",
+     "requires": [],
+     "forbids": [
+      "civil action",
+      "adverse employment action"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "duty",
+     "what": "The Commission on Judicial Performance shall make rules implementing this section",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(1)",
+     "kind": "duty",
+     "what": "The commission shall make rules for the investigation of judges",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(1)",
+     "kind": "power",
+     "what": "The commission may provide for the confidentiality of complaints to and investigations by the commission",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)(2)",
+     "kind": "duty",
+     "what": "The commission shall make rules for formal proceedings against judges when there is cause to believe there is a disability or wrongdoing within the meaning of subdivision (d)",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "structure",
+     "what": "When the commission institutes formal proceedings, the notice of charges, the answer, and all subsequent papers and proceedings shall be open to the public",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "for all formal proceedings instituted after February 28, 1995"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "power",
+     "what": "The commission may make explanatory statements",
+     "holder": "The Commission on Judicial Performance",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(l)",
+     "kind": "structure",
+     "what": "The budget of the commission shall be separate from the budget of any other state agency or court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(m)",
+     "kind": "duty",
+     "what": "The Supreme Court shall make rules for the conduct of judges, both on and off the bench, and for judicial candidates in the conduct of their campaigns",
+     "holder": null,
+     "binds": "The Supreme Court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Code of Judicial Ethics\": the rules the Supreme Court makes for the conduct of judges, both on and off the bench, and for judicial candidates in the conduct of their campaigns"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s18.1": {
+  "review": {
+   "title": "Discipline of subordinate judicial officers",
+   "plain": "The Commission on Judicial Performance oversees and disciplines subordinate judicial officers under the same standards and review as Section 18. A person found unfit after a commission hearing cannot serve as one, and courts keep initial authority to discipline or dismiss them.",
+   "category": "The Courts",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall have the requisite status to serve as a subordinate judicial officer"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Commission on Judicial Performance shall exercise discretionary jurisdiction with regard to the oversight and discipline of subordinate judicial officers, according to the same standards, and subject to review upon petition to the Supreme Court, as specified in Section 18",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person who has been found unfit to serve as a subordinate judicial officer after a hearing before the Commission on Judicial Performance shall have the requisite status to serve as a subordinate judicial officer",
+     "holder": null,
+     "binds": "No person who has been found unfit to serve as a subordinate judicial officer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This section does not diminish or eliminate the responsibility of a court to exercise initial jurisdiction to discipline or dismiss a subordinate judicial officer as its employee",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s18.5": {
+  "review": {
+   "title": "Sharing judicial discipline records",
+   "plain": "On request, the Commission on Judicial Performance must give a state governor, the President or the Commission on Judicial Appointments its disciplinary records on a judicial applicant. The information stays confidential but is also given to the applicant.",
+   "category": "The Courts",
+   "kind": "Duty",
+   "rights": [
+    "shall also be provided to the applicant about whom the information was requested"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Upon request, the Commission on Judicial Performance shall provide to the Governor of any State of the Union the text of any private admonishment, advisory letter, or other disciplinary action together with any information that the Commission on Judicial Performance deems necessary to a full understanding of the commission’s action, with respect to any applicant whom the Governor of any State of the Union indicates is under consideration for any judicial appointment",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Upon request, the Commission on Judicial Performance shall provide the President of the United States the text of any private admonishment, advisory letter, or other disciplinary action together with any information that the Commission on Judicial Performance deems necessary to a full understanding of the commission’s action, with respect to any applicant whom the President indicates is under consideration for any federal judicial appointment",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "Upon request, the Commission on Judicial Performance shall provide the Commission on Judicial Appointments the text of any private admonishment, advisory letter, or other disciplinary action together with any information that the Commission on Judicial Performance deems necessary to a full understanding of the commission action, with respect to any applicant whom the Commission on Judicial Appointments indicates is under consideration for any judicial appointment",
+     "holder": null,
+     "binds": "The Commission on Judicial Performance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "All information released under this section shall remain confidential and privileged",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "right",
+     "what": "Any information released pursuant to this section shall also be provided to the applicant about whom the information was requested",
+     "holder": "The applicant about whom the information was requested",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Notwithstanding subdivision (d)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "“Private admonishment” refers to a disciplinary action against a judge by the Commission on Judicial Performance as authorized by subdivision (c) of Section 18 of Article VI, as amended November 8, 1988",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Private admonishment\": a disciplinary action against a judge by the Commission on Judicial Performance as authorized by subdivision (c) of Section 18 of Article VI, as amended November 8, 1988"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s19": {
+  "review": {
+   "title": "Judges' pay and undecided cases",
+   "plain": "The Legislature must set the pay of judges of courts of record. A judge may not receive salary while any cause before the judge stays undecided for 90 days after submission.",
+   "category": "The Courts",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not receive the salary for the judicial office held by the judge"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall prescribe compensation for judges of courts of record",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A judge of a court of record may not receive the salary for the judicial office held by the judge while any cause before the judge remains pending and undetermined for 90 days after it has been submitted for decision",
+     "holder": null,
+     "binds": "A judge of a court of record",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "while any cause before the judge remains pending and undetermined for 90 days after it has been submitted for decision"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s20": {
+  "review": {
+   "title": "Retirement of judges",
+   "plain": "The Legislature must provide for the retirement of judges of courts of record, with reasonable allowance, for age or disability.",
+   "category": "The Courts",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide for retirement, with reasonable allowance, of judges of courts of record for age or disability",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s21": {
+  "review": {
+   "title": "Temporary judges",
+   "plain": "If the parties agree, the court may order a cause tried by a temporary judge who is a State Bar member, sworn and empowered to act until the cause is finally determined.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may order a cause to be tried by a temporary judge"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The court may order a cause to be tried by a temporary judge who is a member of the State Bar, sworn and empowered to act until final determination of the cause",
+     "holder": "The court",
+     "binds": null,
+     "requires": [
+      "who is a member of the State Bar",
+      "sworn"
+     ],
+     "forbids": [],
+     "conditions": [
+      "On stipulation of the parties litigant"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s22": {
+  "review": {
+   "title": "Court commissioners",
+   "plain": "The Legislature may provide for trial courts of record to appoint officers such as commissioners to perform subordinate judicial duties.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Legislature may provide for the appointment by trial courts of record of officers such as commissioners"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide for the appointment by trial courts of record of officers such as commissioners to perform subordinate judicial duties",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s1": {
+  "review": {
+   "title": "The civil service",
+   "plain": "The civil service includes every state officer and employee unless the Constitution provides otherwise. Permanent appointments and promotions are made under a merit system based on competitive examination.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The civil service includes every officer and employee of the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as otherwise provided in this Constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "In the civil service permanent appointment and promotion shall be made under a general system based on merit ascertained by competitive examination",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "a general system based on merit ascertained by competitive examination"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s2": {
+  "review": {
+   "title": "The State Personnel Board",
+   "plain": "A 5-member Personnel Board is appointed by the Governor and approved by the Senate for 10-year terms, and members may be removed by a two-thirds vote of each house. The board elects a presiding officer and appoints an executive officer.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "A member may be removed by concurrent resolution adopted by each house"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "There is a Personnel Board of 5 members appointed by the Governor and approved by the Senate, a majority of the membership concurring, for 10-year terms and until their successors are appointed and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Appointment to fill a vacancy is for the unexpired portion of the term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "A member may be removed by concurrent resolution adopted by each house",
+     "holder": "Each house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "two-thirds of the membership of each house concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The board annually shall elect one of its members as presiding officer",
+     "holder": null,
+     "binds": "The board",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The board shall appoint and prescribe compensation for an executive officer who shall be a member of the civil service but not a member of the board",
+     "holder": null,
+     "binds": "The board",
+     "requires": [
+      "who shall be a member of the civil service but not a member of the board"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s3": {
+  "review": {
+   "title": "Duties of the Personnel Board",
+   "plain": "The board must enforce the civil service statutes and, by majority vote of all members, set probationary periods and classifications, adopt rules authorized by statute, and review disciplinary actions. The executive officer administers the statutes under board rules.",
+   "category": "Public Officers & Employees",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The board shall enforce the civil service statutes",
+     "holder": null,
+     "binds": "The board",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The board shall prescribe probationary periods and classifications, adopt other rules authorized by statute, and review disciplinary actions",
+     "holder": null,
+     "binds": "The board",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by majority vote of all its members"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The executive officer shall administer the civil service statutes under rules of the board",
+     "holder": null,
+     "binds": "The executive officer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s4": {
+  "review": {
+   "title": "Positions exempt from civil service",
+   "plain": "Lists positions exempt from civil service, including legislative and judicial branch staff, elected officers and their deputies, board members, Governor's appointees, university staff, teachers and militia members. The Attorney General, Public Utilities Commission and Legislative Counsel may also appoint a few exempt deputies or employees.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the Attorney General may appoint or employ six deputies or employees",
+    "the Public Utilities Commission may appoint or employ one deputy or employee",
+    "the Legislative Counsel may appoint or employ two deputies or employees"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Officers and employees appointed or employed by the Legislature, either house, or legislative committees",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Officers and employees appointed or employed by councils, commissions or public corporations in the judicial branch or by a court of record or officer thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Officers elected by the people and a deputy and an employee selected by each elected officer",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Members of boards and commissions",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Exempt from civil service: A deputy or employee selected by each board or commission either appointed by the Governor or authorized by statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "Exempt from civil service: State officers directly appointed by the Governor with or without the consent or confirmation of the Senate and the employees of the Governor’s office, and the employees of the Lieutenant Governor’s office directly appointed or employed by the Lieutenant Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "Exempt from civil service: A deputy or employee selected by each officer, except members of boards and commissions, exempted under Section 4(f)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Officers and employees of the University of California and the California State Colleges",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "structure",
+     "what": "Exempt from civil service: The teaching staff of schools under the jurisdiction of the Department of Education or the Superintendent of Public Instruction",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Member, inmate, and patient help in state homes, charitable or correctional institutions, and state facilities for mentally ill or retarded persons",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Members of the militia while engaged in military service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(l)",
+     "kind": "structure",
+     "what": "Exempt from civil service: Officers and employees of district agricultural associations employed less than 6 months in a calendar year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(m)",
+     "kind": "power",
+     "what": "The Attorney General may appoint or employ six deputies or employees",
+     "holder": "The Attorney General",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In addition to positions exempted by other provisions of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(m)",
+     "kind": "power",
+     "what": "The Public Utilities Commission may appoint or employ one deputy or employee",
+     "holder": "The Public Utilities Commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In addition to positions exempted by other provisions of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(m)",
+     "kind": "power",
+     "what": "The Legislative Counsel may appoint or employ two deputies or employees",
+     "holder": "The Legislative Counsel",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In addition to positions exempted by other provisions of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s5": {
+  "review": {
+   "title": "Temporary appointments",
+   "plain": "A temporary appointment may be made to a position with no employment list, but no one may serve under temporary appointment longer than 9 months in 12 consecutive months.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may serve in one or more positions under temporary appointment longer than 9 months in 12 consecutive months"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A temporary appointment may be made to a position for which there is no employment list",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "for which there is no employment list"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person may serve in one or more positions under temporary appointment longer than 9 months in 12 consecutive months",
+     "holder": null,
+     "binds": "No person",
+     "requires": [],
+     "forbids": [
+      "serve in one or more positions under temporary appointment longer than 9 months in 12 consecutive months"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s6": {
+  "review": {
+   "title": "Veterans' preference and continuing employees",
+   "plain": "The Legislature may provide preferences for veterans and their surviving spouses. The board may let people in positions newly brought under civil service qualify to stay, and must do so for workers whose work the State takes over.",
+   "category": "Public Officers & Employees",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Legislature may provide preferences for veterans and their surviving spouses",
+    "may permit persons in exempt positions, brought under civil service by constitutional provision, to qualify to continue in their positions"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may provide preferences for veterans and their surviving spouses",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The board by special rule may permit persons in exempt positions, brought under civil service by constitutional provision, to qualify to continue in their positions",
+     "holder": "The board",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by special rule"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The board by special rule shall provide for persons who previously performed this work to qualify to continue in their positions in the state civil service",
+     "holder": null,
+     "binds": "The board",
+     "requires": [
+      "subject to such minimum standards as may be established by statute"
+     ],
+     "forbids": [],
+     "conditions": [
+      "When the State undertakes work previously performed by a county, city, public district of this State or by a federal department or agency"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s7": {
+  "review": {
+   "title": "No dual lucrative offices",
+   "plain": "A person holding a lucrative office under the United States or other power may not hold a civil office of profit. Low-paid local officers and postmasters, militia officers and most military reservists do not hold lucrative offices for this purpose.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not hold a civil office of profit"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A person holding a lucrative office under the United States or other power may not hold a civil office of profit",
+     "holder": null,
+     "binds": "A person holding a lucrative office under the United States or other power",
+     "requires": [],
+     "forbids": [
+      "hold a civil office of profit"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A local officer or postmaster whose compensation does not exceed 500 dollars per year or an officer in the militia or a member of a reserve component of the armed forces of the United States is not a holder of a lucrative office, nor is the holding of a civil office of profit affected by this military service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except where on active federal duty for more than 30 days in any year"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s8": {
+  "review": {
+   "title": "Disqualification for bribery and other crimes",
+   "plain": "A person convicted of giving or offering a bribe to get elected or appointed is disqualified from any office of profit. Laws must exclude those convicted of bribery, perjury and other high crimes from office and juries, and protect free suffrage against undue influence.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [
+    "The privilege of free suffrage"
+   ],
+   "powers": [],
+   "limits": [
+    "shall be disqualified from holding any office of profit in this State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Every person shall be disqualified from holding any office of profit in this State who shall have been convicted of having given or offered a bribe to procure personal election or appointment",
+     "holder": null,
+     "binds": "Every person who shall have been convicted of having given or offered a bribe to procure personal election or appointment",
+     "requires": [],
+     "forbids": [
+      "holding any office of profit in this State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Laws shall be made to exclude persons convicted of bribery, perjury, forgery, malfeasance in office, or other high crimes from office or serving on juries",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "right",
+     "what": "The privilege of free suffrage shall be supported by laws regulating elections and prohibiting, under adequate penalties, all undue influence thereon from power, bribery, tumult, or other improper practice",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "laws regulating elections and prohibiting, under adequate penalties, all undue influence thereon from power, bribery, tumult, or other improper practice"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s9": {
+  "review": {
+   "title": "Advocates of violent overthrow barred",
+   "plain": "Notwithstanding the rest of the Constitution, no person or organization advocating the violent or unlawful overthrow of the U.S. or state government, or support of a foreign enemy in hostilities, may hold public office or employment or receive a tax exemption. The Legislature must enforce this.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Hold any office or employment under this State",
+    "Receive any exemption from any tax imposed by this State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No person or organization which advocates the overthrow of the Government of the United States or the State by force or violence or other unlawful means or who advocates the support of a foreign government against the United States in the event of hostilities shall hold any office or employment under this State, including but not limited to the University of California, or with any county, city or county, city, district, political subdivision, authority, board, bureau, commission or other public agency of this State",
+     "holder": null,
+     "binds": "No person or organization which advocates the overthrow of the Government of the United States or the State by force or violence or other unlawful means or who advocates the support of a foreign government against the United States in the event of hostilities",
+     "requires": [],
+     "forbids": [
+      "Hold any office or employment under this State"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this Constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No person or organization which advocates the overthrow of the Government of the United States or the State by force or violence or other unlawful means or who advocates the support of a foreign government against the United States in the event of hostilities shall receive any exemption from any tax imposed by this State or any county, city or county, city, district, political subdivision, authority, board, bureau, commission or other public agency of this State",
+     "holder": null,
+     "binds": "No person or organization which advocates the overthrow of the Government of the United States or the State by force or violence or other unlawful means or who advocates the support of a foreign government against the United States in the event of hostilities",
+     "requires": [],
+     "forbids": [
+      "Receive any exemption from any tax"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of this Constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall enact such laws as may be necessary to enforce the provisions of this section",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

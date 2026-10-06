@@ -1,0 +1,1373 @@
+{
+ "a11-s11": {
+  "review": {
+   "title": "No delegation of local powers to private bodies",
+   "plain": "The Legislature may not delegate to a private person or body power over county or municipal improvements, money, or property, to levy taxes or assessments, or to perform municipal functions. It may provide for deposit and investment of public moneys and for bond payment and registration.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may, however, provide for the deposit of public moneys",
+    "may also provide for investment of public moneys in securities"
+   ],
+   "limits": [
+    "may not delegate to a private person or body power"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The Legislature may not delegate to a private person or body power to make, control, appropriate, supervise, or interfere with county or municipal corporation improvements, money, or property, or to levy taxes or assessments, or perform municipal functions",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Delegating to a private person or body power to make, control, appropriate, supervise, or interfere with county or municipal corporation improvements, money, or property",
+      "Delegating to a private person or body power to levy taxes or assessments, or perform municipal functions"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may provide for the deposit of public moneys in any bank, savings and loan association, credit union, or federally insured industrial loan company in this State and for payment of interest, principal, and redemption premiums of public bonds and other evidence of public indebtedness by banks within or without this State",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "It may also provide for investment of public moneys in securities and the registration of bonds and other evidences of indebtedness by private persons or bodies, within or without this State, acting as trustees or fiscal agents",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s12": {
+  "review": {
+   "title": "Claims against counties and cities",
+   "plain": "The Legislature may prescribe procedure for presenting, considering, and enforcing claims against counties, cities, and their officers, agents, or employees.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may prescribe procedure for presentation, consideration, and enforcement of claims"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may prescribe procedure for presentation, consideration, and enforcement of claims against counties, cities, their officers, agents, or employees",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s13": {
+  "review": {
+   "title": "Article XI restates earlier provisions",
+   "plain": "Sections 1(b) (except its second sentence), 3(a), 4, and 5 of Article XI, on powers between the Legislature and cities and counties, restate the earlier Constitution with no substantive change. \"General law,\" \"general laws,\" and \"laws\" continue their earlier meaning.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of Sections 1(b) (except for the second sentence), 3(a), 4, and 5 of this Article relating to matters affecting the distribution of powers between the Legislature and cities and counties, including matters affecting supersession, shall be construed as a restatement of all related provisions of the Constitution in effect immediately prior to the effective date of this amendment, and as making no substantive change",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for the second sentence"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The terms general law, general laws, and laws, as used in this Article, shall be construed as a continuation and restatement of those terms as used in the Constitution in effect immediately prior to the effective date of this amendment, and not as effecting a change in meaning",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s14": {
+  "review": {
+   "title": "Voter approval for multi-county property taxes",
+   "plain": "A local government formed after this section took effect, whose boundaries include all or part of two or more counties, may not levy a property tax unless a majority of its qualified voters voting on the tax approve it.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not levy a property tax"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A local government formed after the effective date of this section, the boundaries of which include all or part of two or more counties, shall not levy a property tax unless such tax has been approved by a majority vote of the qualified voters of that local government voting on the issue of the tax",
+     "holder": null,
+     "binds": "A local government formed after the effective date of this section, the boundaries of which include all or part of two or more counties",
+     "requires": [],
+     "forbids": [
+      "Levying a property tax without approval by a majority vote of the qualified voters"
+     ],
+     "conditions": [
+      "formed after the effective date of this section",
+      "the boundaries of which include all or part of two or more counties"
+     ],
+     "exceptions": [
+      "unless such tax has been approved by a majority vote of the qualified voters of that local government voting on the issue of the tax"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s15": {
+  "review": {
+   "title": "Vehicle license fee revenues for local governments",
+   "plain": "Vehicle license fee revenues from the rate up to 0.65 percent of a vehicle's market value go to the Local Revenue Fund and to cities and counties. If the Legislature lowers the fee below that, it must provide an equal replacement amount for them.",
+   "category": "Local Government",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "duty",
+     "what": "From the revenues derived from taxes imposed pursuant to the Vehicle License Fee Law, from that portion of the vehicle license fee rate that does not exceed 0.65 percent of the market value of the vehicle, an amount shall be specified in the Vehicle License Fee Law for deposit in the State Treasury to the credit of the Local Revenue Fund, for allocation to cities, counties, and cities and counties as otherwise provided by law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "An amount shall be specified in the Vehicle License Fee Law, or the successor to that law, for deposit in the State Treasury to the credit of the Local Revenue Fund"
+     ],
+     "forbids": [],
+     "conditions": [
+      "over and above the costs of collection and any refunds authorized by law"
+     ],
+     "exceptions": [
+      "other than fees on trailer coaches and mobilehomes"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "duty",
+     "what": "The balance shall be allocated to cities, counties, and cities and counties as otherwise provided by law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The balance shall be allocated to cities, counties, and cities and counties"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "If a statute enacted by the Legislature reduces the annual vehicle license fee below 0.65 percent of the market value of a vehicle, the Legislature shall, for each fiscal year for which that reduced fee applies, provide by statute for the allocation of an additional amount of money that is equal to the decrease in the total amount of revenues otherwise required to be deposited and allocated under subdivision (a)",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "provide by statute for the allocation of an additional amount of money that is equal to the decrease",
+      "That amount shall be allocated to cities, counties, and cities and counties in the same pro rata amounts and for the same purposes as are revenues subject to subdivision (a)"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If a statute enacted by the Legislature reduces the annual vehicle license fee below 0.65 percent of the market value of a vehicle",
+      "for each fiscal year for which that reduced fee applies"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s1": {
+  "review": {
+   "title": "Public Utilities Commission members",
+   "plain": "The Public Utilities Commission has 5 members appointed by the Governor and approved by a Senate majority, for staggered 6-year terms. The Legislature may remove a member for incompetence, neglect of duty, or corruption by a two-thirds vote of each house.",
+   "category": "Housing & Public Utilities",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The Legislature may remove a member for incompetence, neglect of duty, or corruption"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Public Utilities Commission consists of 5 members appointed by the Governor and approved by the Senate, a majority of the membership concurring, for staggered 6-year terms",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "a majority of the membership concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A vacancy is filled for the remainder of the term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may remove a member for incompetence, neglect of duty, or corruption, two thirds of the membership of each house concurring",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "two thirds of the membership of each house concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s2": {
+  "review": {
+   "title": "Commission procedures and hearings",
+   "plain": "Subject to statute and due process, the commission may set its own procedures. A commissioner designated by the commission may hold a hearing or investigation or issue an order, subject to commission approval.",
+   "category": "Housing & Public Utilities",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the commission may establish its own procedures",
+    "may hold a hearing or investigation or issue an order"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Subject to statute and due process, the commission may establish its own procedures",
+     "holder": "The commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to statute and due process"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any commissioner as designated by the commission may hold a hearing or investigation or issue an order subject to commission approval",
+     "holder": "Any commissioner as designated by the commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as designated by the commission",
+      "subject to commission approval"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s3": {
+  "review": {
+   "title": "What are public utilities",
+   "plain": "Private corporations and persons that run transportation, telephone and telegraph, or heat, light, water, power, storage, or wharfage systems for the public, and common carriers, are public utilities subject to control by the Legislature, which may add further classes.",
+   "category": "Housing & Public Utilities",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "are public utilities subject to control by the Legislature",
+    "may prescribe that additional classes of private corporations or other persons are public utilities"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Private corporations and persons that own, operate, control, or manage a line, plant, or system for the transportation of people or property, the transmission of telephone and telegraph messages, or the production, generation, transmission, or furnishing of heat, light, water, power, storage, or wharfage directly or indirectly to or for the public, and common carriers, are public utilities subject to control by the Legislature",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"public utilities\": Private corporations and persons that own, operate, control, or manage a line, plant, or system for the transportation of people or property, the transmission of telephone and telegraph messages, or the production, generation, transmission, or furnishing of heat, light, water, power, storage, or wharfage directly or indirectly to or for the public, and common carriers"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may prescribe that additional classes of private corporations or other persons are public utilities",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s4": {
+  "review": {
+   "title": "Transportation rates and charges",
+   "plain": "The commission may fix rates and rules for transportation companies, prohibit discrimination, and award reparation for unreasonable charges. A transportation company may not raise a rate without a commission decision that it is justified, reviewable only as to confiscation.",
+   "category": "Housing & Public Utilities",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The commission may fix rates and establish rules for the transportation of passengers and property",
+    "prohibit discrimination",
+    "award reparation for the exaction of unreasonable, excessive, or discriminatory charges"
+   ],
+   "limits": [
+    "A transportation company may not raise a rate or incidental charge",
+    "shall not be subject to judicial review"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The commission may fix rates and establish rules for the transportation of passengers and property by transportation companies, prohibit discrimination, and award reparation for the exaction of unreasonable, excessive, or discriminatory charges",
+     "holder": "The commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A transportation company may not raise a rate or incidental charge except after a showing to and a decision by the commission that the increase is justified",
+     "holder": null,
+     "binds": "A transportation company",
+     "requires": [],
+     "forbids": [
+      "Raising a rate or incidental charge"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except after a showing to and a decision by the commission that the increase is justified"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "This decision shall not be subject to judicial review except as to whether confiscation of property will result",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Judicial review of this decision"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as to whether confiscation of property will result"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s5": {
+  "review": {
+   "title": "Legislature's plenary power over the commission",
+   "plain": "The Legislature has plenary power, unlimited by the rest of the constitution but consistent with this article, to give the commission more authority and jurisdiction, set how courts review its actions, and enable it to fix just compensation for utility property taken by eminent domain.",
+   "category": "Housing & Public Utilities",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Legislature has plenary power",
+    "to confer additional authority and jurisdiction upon the commission",
+    "to establish the manner and scope of review of commission action in a court of record",
+    "to enable it to fix just compensation for utility property taken by eminent domain"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature has plenary power, unlimited by the other provisions of this constitution but consistent with this article, to confer additional authority and jurisdiction upon the commission",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unlimited by the other provisions of this constitution but consistent with this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature has plenary power to establish the manner and scope of review of commission action in a court of record",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unlimited by the other provisions of this constitution but consistent with this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature has plenary power to enable it to fix just compensation for utility property taken by eminent domain",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unlimited by the other provisions of this constitution but consistent with this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s6": {
+  "review": {
+   "title": "Commission powers over public utilities",
+   "plain": "The commission may fix rates, establish rules, examine records, issue subpenas, administer oaths, take testimony, punish for contempt, and prescribe a uniform system of accounts for all public utilities subject to its jurisdiction.",
+   "category": "Housing & Public Utilities",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The commission may fix rates, establish rules, examine records, issue subpenas, administer oaths, take testimony, punish for contempt",
+    "prescribe a uniform system of accounts"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The commission may fix rates, establish rules, examine records, issue subpenas, administer oaths, take testimony, punish for contempt, and prescribe a uniform system of accounts for all public utilities subject to its jurisdiction",
+     "holder": "The commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "for all public utilities subject to its jurisdiction"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s7": {
+  "review": {
+   "title": "Free passes and commissioner conflicts",
+   "plain": "A transportation company may not give free passes or discounts to state officeholders; a public officer, other than a Public Utilities Commissioner, who accepts one forfeits the office. A commissioner may not hold an official relation to or financial interest in anyone the commission regulates.",
+   "category": "Housing & Public Utilities",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "A transportation company may not grant free passes or discounts to anyone holding an office in this State",
+    "shall work a forfeiture of that office",
+    "may not hold an official relation to nor have a financial interest in a person or corporation subject to regulation by the commission"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A transportation company may not grant free passes or discounts to anyone holding an office in this State",
+     "holder": null,
+     "binds": "A transportation company",
+     "requires": [],
+     "forbids": [
+      "Granting free passes or discounts to anyone holding an office in this State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The acceptance of a pass or discount by a public officer, other than a Public Utilities Commissioner, shall work a forfeiture of that office",
+     "holder": null,
+     "binds": "A public officer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than a Public Utilities Commissioner"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A Public Utilities Commissioner may not hold an official relation to nor have a financial interest in a person or corporation subject to regulation by the commission",
+     "holder": null,
+     "binds": "A Public Utilities Commissioner",
+     "requires": [],
+     "forbids": [
+      "Holding an official relation to a person or corporation subject to regulation by the commission",
+      "Having a financial interest in a person or corporation subject to regulation by the commission"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s8": {
+  "review": {
+   "title": "Local regulation of commission matters",
+   "plain": "A city, county, or other public body may not regulate matters over which the Legislature gives the Commission regulatory power. This does not affect certain powers under city charters existing on October 10, 1911, or any city's right to grant franchises as prescribed by law.",
+   "category": "Housing & Public Utilities",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not regulate matters over which the Legislature grants regulatory power to the Commission"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A city, county, or other public body may not regulate matters over which the Legislature grants regulatory power to the Commission",
+     "holder": null,
+     "binds": "A city, county, or other public body",
+     "requires": [],
+     "forbids": [
+      "Regulating matters over which the Legislature grants regulatory power to the Commission"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "This section does not affect power over public utilities relating to the making and enforcement of police, sanitary, and other regulations concerning municipal affairs pursuant to a city charter existing on October 10, 1911, unless that power has been revoked by the city’s electors",
+      "or the right of any city to grant franchises for public utilities or other businesses on terms, conditions, and in the manner prescribed by law"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s9": {
+  "review": {
+   "title": "Article XII restates earlier provisions",
+   "plain": "The provisions of this article restate all related provisions of the earlier Constitution and make no substantive change.",
+   "category": "Housing & Public Utilities",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this article restate all related provisions of the Constitution in effect immediately prior to the effective date of this amendment and make no substantive change",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s1": {
+  "review": {
+   "title": "All property taxable at uniform value",
+   "plain": "Unless this Constitution or federal law provides otherwise, all property is taxable, assessed at the same percentage of fair market value, and taxed in proportion to its full value.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "All property is taxable and shall be assessed at the same percentage of fair market value",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "All property is taxable",
+      "shall be assessed at the same percentage of fair market value"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless otherwise provided by this Constitution or the laws of the United States"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "When a value standard other than fair market value is prescribed by this Constitution or by statute authorized by this Constitution, the same percentage shall be applied to determine the assessed value. The value to which the percentage is applied shall be known for property tax purposes as the full value",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "When a value standard other than fair market value is prescribed by this Constitution or by statute authorized by this Constitution"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"full value\": The value to which the percentage is applied, whether it be the fair market value or not"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "All property so assessed shall be taxed in proportion to its full value",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "taxed in proportion to its full value"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless otherwise provided by this Constitution or the laws of the United States"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s2": {
+  "review": {
+   "title": "Taxation of personal property",
+   "plain": "The Legislature may provide for property taxation of tangible personal property, stock, evidences of indebtedness, and interests in them, and by two-thirds vote may classify such property for differential taxation or exemption. Taxes on notes, stock, bonds, and similar interests may not exceed 0.4 percent of full value.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may provide for property taxation of all forms of tangible personal property",
+    "may classify such personal property for differential taxation or for exemption"
+   ],
+   "limits": [
+    "shall not exceed four-tenths of one percent of full value",
+    "shall not be higher on personal property than on real property in the same taxing jurisdiction"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide for property taxation of all forms of tangible personal property, shares of capital stock, evidences of indebtedness, and any legal or equitable interest therein not exempt under any other provision of this article",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "not exempt under any other provision of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature, two-thirds of the membership of each house concurring, may classify such personal property for differential taxation or for exemption",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "two-thirds of the membership of each house concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The tax on any interest in notes, debentures, shares of capital stock, bonds, solvent credits, deeds of trust, or mortgages shall not exceed four-tenths of one percent of full value",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "A tax on any interest in notes, debentures, shares of capital stock, bonds, solvent credits, deeds of trust, or mortgages exceeding four-tenths of one percent of full value"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The tax per dollar of full value shall not be higher on personal property than on real property in the same taxing jurisdiction",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "A higher tax per dollar of full value on personal property than on real property in the same taxing jurisdiction"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s3": {
+  "review": {
+   "title": "Property exempt from taxation",
+   "plain": "Lists property exempt from property taxation, including state and local government property, public bonds, schools, libraries, religious worship, cemeteries, growing crops, young trees, a $7,000 homeowners' exemption, ships, household goods, debts secured by land, and $1,000 for certain veterans and their families.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may supersede the foregoing provisions with an alternative system or systems of taxing or exempting forest trees or timber",
+    "The Legislature may increase this exemption and may deny it"
+   ],
+   "limits": [
+    "are exempt from property taxation",
+    "This property is also exempt from special assessment",
+    "is ineligible for this exemption",
+    "shall lose eligibility for the exemption"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Property owned by the State is exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Property owned by a local government is exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as otherwise provided in Section 11(a)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "Bonds issued by the State or a local government in the State are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "Property used for libraries and museums that are free and open to the public and property used exclusively for public schools, community colleges, state colleges, and state universities are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "free and open to the public",
+      "used exclusively for public schools, community colleges, state colleges, and state universities"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "Buildings, land, equipment, and securities used exclusively for educational purposes by a nonprofit institution of higher education are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "used exclusively for educational purposes by a nonprofit institution of higher education"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "Buildings, land on which they are situated, and equipment used exclusively for religious worship are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "used exclusively for religious worship"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "Property used or held exclusively for the permanent deposit of human dead or for the care and maintenance of the property or the dead is exempt from property taxation and also exempt from special assessment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except when used or held for profit"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "limit",
+     "what": "Growing crops are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "limit",
+     "what": "Fruit and nut trees until 4 years after the season in which they were planted in orchard form and grape vines until 3 years after the season in which they were planted in vineyard form are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "limit",
+     "what": "Immature forest trees planted on lands not previously bearing merchantable timber or planted or of natural growth on lands from which the merchantable original growth timber stand to the extent of 70 percent of all trees over 16 inches in diameter has been removed are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"mature\" (forest trees or timber): at such time after 40 years from the time of planting or removal of the original timber when so declared by a majority vote of a board consisting of a representative from the State Board of Forestry, a representative from the State Board of Equalization, and the assessor of the county in which the trees are located"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "power",
+     "what": "The Legislature may supersede the foregoing provisions with an alternative system or systems of taxing or exempting forest trees or timber, including a taxation system not based on property valuation",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "duty",
+     "what": "Any alternative system or systems shall provide for exemption of unharvested immature trees, shall encourage the continued use of timberlands for the production of trees for timber products, and shall provide for restricting the use of timberland to the production of timber products and compatible uses with provisions for taxation of timberland based on the restrictions",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "provide for exemption of unharvested immature trees",
+      "encourage the continued use of timberlands for the production of trees for timber products",
+      "provide for restricting the use of timberland to the production of timber products and compatible uses with provisions for taxation of timberland based on the restrictions"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Nothing in this paragraph shall be construed to exclude timberland from the provisions of Section 8 of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "limit",
+     "what": "$7,000 of the full value of a dwelling, as defined by the Legislature, when occupied by an owner as his principal residence is exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when occupied by an owner as his principal residence"
+     ],
+     "exceptions": [
+      "unless the dwelling is receiving another real property exemption"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "power",
+     "what": "The Legislature may increase this exemption and may deny it if the owner received state or local aid to pay taxes either in whole or in part, and either directly or indirectly, on the dwelling",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the owner received state or local aid to pay taxes either in whole or in part, and either directly or indirectly, on the dwelling"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "limit",
+     "what": "No increase in this exemption above the amount of $7,000 shall be effective for any fiscal year unless the Legislature increases the rate of state taxes in an amount sufficient to provide the subventions required by Section 25",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the Legislature increases the rate of state taxes in an amount sufficient to provide the subventions required by Section 25"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "duty",
+     "what": "If the Legislature increases the homeowners’ property tax exemption, it shall provide increases in benefits to qualified renters, as defined by law, comparable to the average increase in benefits to homeowners, as calculated by the Legislature",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "provide increases in benefits to qualified renters, as defined by law, comparable to the average increase in benefits to homeowners"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If the Legislature increases the homeowners’ property tax exemption"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(l)",
+     "kind": "limit",
+     "what": "Vessels of more than 50 tons burden in this State and engaged in the transportation of freight or passengers are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(m)",
+     "kind": "limit",
+     "what": "Household furnishings and personal effects not held or used in connection with a trade, profession, or business are exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(n)",
+     "kind": "limit",
+     "what": "Any debt secured by land is exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(o)",
+     "kind": "limit",
+     "what": "Property in the amount of $1,000 of a claimant who is serving in or has served in and has been discharged under honorable conditions from service in the United States Army, Navy, Air Force, Marine Corps, Coast Guard, or Revenue Marine (Revenue Cutter) Service, served in time of war or in certain times of peace, and resides in the State on the current lien date is exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "is serving in or has served in and has been discharged under honorable conditions from service in the United States Army, Navy, Air Force, Marine Corps, Coast Guard, or Revenue Marine (Revenue Cutter) Service",
+      "served either in time of war, or in time of peace in a campaign or expedition for which a medal has been issued by Congress, or in time of peace and because of a service-connected disability was released from active duty",
+      "resides in the State on the current lien date"
+     ],
+     "exceptions": [
+      "An unmarried person who owns property valued at $5,000 or more, or a married person, who, together with the spouse, owns property valued at $10,000 or more, is ineligible for this exemption"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(o)",
+     "kind": "structure",
+     "what": "If the claimant is married and does not own property eligible for the full amount of the exemption, property of the spouse shall be eligible for the unused balance of the exemption",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the claimant is married and does not own property eligible for the full amount of the exemption"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(p)",
+     "kind": "limit",
+     "what": "Property in the amount of $1,000 of a claimant who is the unmarried spouse of a deceased veteran who met the service requirement stated in paragraphs (1) and (2) of subsection 3(o), does not own property in excess of $10,000, and is a resident of the State on the current lien date is exempt from property taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "is the unmarried spouse of a deceased veteran who met the service requirement stated in paragraphs (1) and (2) of subsection 3(o)",
+      "does not own property in excess of $10,000",
+      "is a resident of the State on the current lien date"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(q)",
+     "kind": "limit",
+     "what": "Property in the amount of $1,000 of a claimant who is the parent of a deceased veteran who met the service requirement stated in paragraphs (1) and (2) of subsection 3(o), receives a pension because of the veteran’s service, and is a resident of the State on the current lien date is exempt from property taxation. Either parent of a deceased veteran may claim this exemption",
+     "holder": "Either parent of a deceased veteran",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "is the parent of a deceased veteran who met the service requirement stated in paragraphs (1) and (2) of subsection 3(o)",
+      "receives a pension because of the veteran’s service",
+      "is a resident of the State on the current lien date"
+     ],
+     "exceptions": [
+      "An unmarried person who owns property valued at $5,000 or more, or a married person, who, together with the spouse, owns property valued at $10,000 or more, is ineligible for this exemption"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(r)",
+     "kind": "limit",
+     "what": "No individual residing in the State on the effective date of this amendment who would have been eligible for the exemption provided by the previous section 11/4 of this article had it not been repealed shall lose eligibility for the exemption as a result of this amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Loss of eligibility for the exemption as a result of this amendment"
+     ],
+     "conditions": [
+      "residing in the State on the effective date of this amendment",
+      "would have been eligible for the exemption provided by the previous section 11/4 of this article had it not been repealed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s3.5": {
+  "review": {
+   "title": "Adjusting veterans' exemption values",
+   "plain": "In any year the assessment ratio changes, the Legislature must adjust the valuation of property described in subdivisions (o), (p) and (q) of Section 3 to keep the same proportionate values.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In any year in which the assessment ratio is changed, the Legislature shall adjust the valuation of assessable property described in subdivisions (o), (p) and (q) of Section 3 of this article to maintain the same proportionate values of such property",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "adjust the valuation of assessable property described in subdivisions (o), (p) and (q) of Section 3 of this article to maintain the same proportionate values of such property"
+     ],
+     "forbids": [],
+     "conditions": [
+      "In any year in which the assessment ratio is changed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s4": {
+  "review": {
+   "title": "Exemptions the Legislature may grant",
+   "plain": "The Legislature may exempt from property taxation, wholly or partly, the homes of certain disabled or deceased veterans and their spouses, nonprofit religious, hospital, or charitable property, property of certain named institutions, and parking for places of worship.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Legislature may exempt from property taxation in whole or in part"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may exempt from property taxation in whole or in part the home of a person or a person’s spouse, including an unmarried surviving spouse, if the person, because of injury incurred in military service, is blind in both eyes, has lost the use of 2 or more limbs, or is totally disabled, or if the person has, as a result of a service-connected injury or disease, died while on active duty in military service",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the person, because of injury incurred in military service, is blind in both eyes, has lost the use of 2 or more limbs, or is totally disabled",
+      "if the person has, as a result of a service-connected injury or disease, died while on active duty in military service"
+     ],
+     "exceptions": [
+      "unless the home is receiving another real property exemption"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may exempt from property taxation in whole or in part property used exclusively for religious, hospital, or charitable purposes and owned or held in trust by corporations or other entities that are organized and operating for those purposes, that are nonprofit, and no part of whose net earnings inures to the benefit of any private shareholder or individual",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "used exclusively for religious, hospital, or charitable purposes",
+      "that are organized and operating for those purposes",
+      "that are nonprofit",
+      "no part of whose net earnings inures to the benefit of any private shareholder or individual"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The Legislature may exempt from property taxation in whole or in part property owned by the California School of Mechanical Arts, California Academy of Sciences, or Cogswell Polytechnical College, or held in trust for the Huntington Library and Art Gallery, or their successors",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Legislature may exempt from property taxation in whole or in part real property not used for commercial purposes that is reasonably and necessarily required for parking vehicles of persons worshipping on land exempt by Section 3(f)",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not used for commercial purposes",
+      "reasonably and necessarily required for parking vehicles of persons worshipping on land exempt by Section 3(f)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s5": {
+  "review": {
+   "title": "Exemptions cover property under construction",
+   "plain": "Exemptions under Sections 3(e), 3(f), and 4(b) apply to buildings under construction, land required for their convenient use, and equipment in them, if the intended use would qualify the property for exemption.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Exemptions granted or authorized by Sections 3(e), 3(f), and 4(b) apply to buildings under construction, land required for their convenient use, and equipment in them",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the intended use would qualify the property for exemption"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

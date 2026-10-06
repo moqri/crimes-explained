@@ -1,0 +1,1742 @@
+{
+ "a5-s6": {
+  "review": {
+   "title": "Reorganizing executive functions",
+   "plain": "A statute may give the Governor authority to assign and reorganize functions among executive officers and agencies and their employees, other than elective officers and agencies they administer.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "Authority may be provided by statute for the Governor to assign and reorganize functions among executive officers and agencies and their employees"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authority may be provided by statute for the Governor to assign and reorganize functions among executive officers and agencies and their employees",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Authority may be provided by statute"
+     ],
+     "exceptions": [
+      "other than elective officers and agencies administered by elective officers"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s7": {
+  "review": {
+   "title": "Governor as commander in chief of the militia",
+   "plain": "The Governor is commander in chief of a militia that shall be provided by statute, and may call it forth to execute the law.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Governor is commander in chief of a militia",
+    "The Governor may call it forth to execute the law"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Governor is commander in chief of a militia",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A militia shall be provided by statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Governor may call it forth to execute the law",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s8": {
+  "review": {
+   "title": "Pardons, reprieves and review of parole",
+   "plain": "The Governor may grant reprieves, pardons and commutations after sentence, except in impeachment, and must report each to the Legislature. Parole decisions for murder sentences wait 30 days so the Governor may affirm, modify or reverse them.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may grant a reprieve, pardon, and commutation, after sentence",
+    "the Governor may review the decision"
+   ],
+   "limits": [
+    "The Governor may not grant a pardon or commutation to a person twice convicted of a felony",
+    "may only affirm, modify, or reverse the decision of the parole authority on the basis of the same factors"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Governor, on conditions the Governor deems proper, may grant a reprieve, pardon, and commutation, after sentence",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to application procedures provided by statute",
+      "on conditions the Governor deems proper",
+      "after sentence"
+     ],
+     "exceptions": [
+      "except in case of impeachment"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Governor shall report to the Legislature each reprieve, pardon, and commutation granted, stating the pertinent facts and the reasons for granting it",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The Governor may not grant a pardon or commutation to a person twice convicted of a felony",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [
+      "grant a pardon or commutation to a person twice convicted of a felony"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except on recommendation of the Supreme Court, 4 judges concurring"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No decision of the parole authority with respect to the granting, denial, revocation, or suspension of parole of a person sentenced to an indeterminate term upon conviction of murder shall become effective for a period of 30 days",
+     "holder": null,
+     "binds": "The parole authority",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "During the 30 days the Governor may review the decision",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to procedures provided by statute"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Governor may only affirm, modify, or reverse the decision of the parole authority on the basis of the same factors which the parole authority is required to consider",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The Governor shall report to the Legislature each parole decision affirmed, modified, or reversed, stating the pertinent facts and reasons for the action",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s9": {
+  "review": {
+   "title": "Lieutenant Governor's qualifications and Senate role",
+   "plain": "The Lieutenant Governor must have the same qualifications as the Governor, and is President of the Senate but has only a casting vote.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "has only a casting vote"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Lieutenant Governor shall have the same qualifications as the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the same qualifications as the Governor"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Lieutenant Governor is President of the Senate",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Lieutenant Governor has only a casting vote",
+     "holder": null,
+     "binds": "The Lieutenant Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s10": {
+  "review": {
+   "title": "Succession to the office of Governor",
+   "plain": "The Lieutenant Governor becomes Governor when the office is vacant and acts as Governor during the Governor's impeachment, absence or temporary disability. The Legislature sets the further order of succession, and the Supreme Court decides all questions under this section.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The Supreme Court has exclusive jurisdiction to determine all questions arising under this section",
+    "Standing to raise questions of vacancy or temporary disability is vested exclusively in a body provided by statute"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Lieutenant Governor shall become Governor when a vacancy occurs in the office of Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when a vacancy occurs in the office of Governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Lieutenant Governor shall act as Governor during the impeachment, absence from the State, or other temporary disability of the Governor or of a Governor-elect who fails to take office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "during the impeachment, absence from the State, or other temporary disability of the Governor or of a Governor-elect who fails to take office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall provide an order of precedence after the Lieutenant Governor for succession to the office of Governor and for the temporary exercise of the Governor’s functions",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Supreme Court has exclusive jurisdiction to determine all questions arising under this section",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Standing to raise questions of vacancy or temporary disability is vested exclusively in a body provided by statute",
+     "holder": "A body provided by statute",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s11": {
+  "review": {
+   "title": "Election and term limits of statewide officers",
+   "plain": "The Lieutenant Governor, Attorney General, Controller, Secretary of State and Treasurer are elected at the same time and places and for the same term as the Governor, and none may serve in the same office for more than 2 terms.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may serve in the same office for more than 2 terms"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Lieutenant Governor, Attorney General, Controller, Secretary of State, and Treasurer shall be elected at the same time and places and for the same term as the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No Lieutenant Governor, Attorney General, Controller, Secretary of State, or Treasurer may serve in the same office for more than 2 terms",
+     "holder": null,
+     "binds": "No Lieutenant Governor, Attorney General, Controller, Secretary of State, or Treasurer",
+     "requires": [],
+     "forbids": [
+      "serve in the same office for more than 2 terms"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s13": {
+  "review": {
+   "title": "Attorney General as chief law officer",
+   "plain": "Subject to the Governor, the Attorney General is the State's chief law officer, must see that the laws are uniformly and adequately enforced, supervises district attorneys and sheriffs, and may prosecute violations in a county where a law is not adequately enforced.",
+   "category": "The Governor & Executive",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "shall have direct supervision over every district attorney and sheriff",
+    "may require any of said officers to make reports",
+    "the Attorney General shall have all the powers of a district attorney"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Attorney General shall be the chief law officer of the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the powers and duties of the Governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It shall be the duty of the Attorney General to see that the laws of the State are uniformly and adequately enforced",
+     "holder": null,
+     "binds": "The Attorney General",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Attorney General shall have direct supervision over every district attorney and sheriff and over such other law enforcement officers as may be designated by law, in all matters pertaining to the duties of their respective offices",
+     "holder": "The Attorney General",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Attorney General may require any of said officers to make reports concerning the investigation, detection, prosecution, and punishment of crime in their respective jurisdictions as to the Attorney General may seem advisable",
+     "holder": "The Attorney General",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It shall be the duty of the Attorney General to prosecute any violations of law of which the superior court shall have jurisdiction",
+     "holder": null,
+     "binds": "The Attorney General",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever in the opinion of the Attorney General any law of the State is not being adequately enforced in any county"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In such cases the Attorney General shall have all the powers of a district attorney",
+     "holder": "The Attorney General",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Attorney General shall assist any district attorney in the discharge of the duties of that office",
+     "holder": null,
+     "binds": "The Attorney General",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "When required by the public interest or directed by the Governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s14": {
+  "review": {
+   "title": "Limits on state officers' income, honoraria and gifts",
+   "plain": "State officers may not knowingly take earned income from lobbyists or certain state contractors, accept honoraria, or accept pay to appear before state boards or agencies. The Legislature must enact laws on gifts and post-office lobbying.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no state officer may knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm",
+    "No state officer may accept any honorarium",
+    "No state officer may knowingly accept any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any state government board or agency"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No state officer may knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm, as defined by the Political Reform Act of 1974, or from a person who, during the previous 12 months, has been under a contract with the state agency under the jurisdiction of the state officer",
+     "holder": null,
+     "binds": "No state officer",
+     "requires": [],
+     "forbids": [
+      "knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm",
+      "from a person who, during the previous 12 months, has been under a contract with the state agency under the jurisdiction of the state officer"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that define earned income",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "earned income does not include any community property interest in the income of a spouse"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Any state officer who knowingly receives any salary, wages, commissions, or other similar earned income from a lobbyist employer may not, for a period of one year following its receipt, vote upon or make, participate in making, or in any way attempt to use his or her official position to influence an action or decision before the agency for which the state officer serves which he or she knows, or has reason to know, would have a direct and significant financial impact on the lobbyist employer",
+     "holder": null,
+     "binds": "Any state officer who knowingly receives earned income from a lobbyist employer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "would not impact the public generally or a significant segment of the public in a similar manner"
+     ],
+     "exceptions": [
+      "other than an action or decision involving a bill described in subdivision (c) of Section 12 of Article IV"
+     ],
+     "terms": [
+      "“public generally” includes an industry, trade, or profession"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No state officer may accept any honorarium",
+     "holder": null,
+     "binds": "No state officer",
+     "requires": [],
+     "forbids": [
+      "accept any honorarium"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that implement this subdivision",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that ban or strictly limit the acceptance of a gift by a state officer from any source if the acceptance of the gift might create a conflict of interest",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "No state officer may knowingly accept any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any state government board or agency",
+     "holder": null,
+     "binds": "No state officer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "a state officer may engage in activities involving a board or agency which are strictly on his or her own behalf, appear in the capacity of an attorney before any court or the Workers’ Compensation Appeals Board, or act as an advocate without compensation or make an inquiry for information on behalf of a person before a board or agency",
+      "This subdivision does not prohibit any action of a partnership or firm of which the state officer is a member if the state officer does not share directly or indirectly in the fee, less any expenses attributable to that fee, resulting from that action"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "If a state officer knowingly accepts any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any local government board or agency, the state officer may not, for one year, make, participate in making, or in any way attempt to use his or her official position to influence an action or decision before the state agency for which the state officer serves which he or she knows, or has reason to know, would have a direct and significant financial impact on that person",
+     "holder": null,
+     "binds": "The state officer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If a state officer knowingly accepts any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any local government board or agency",
+      "would not impact the public generally or a significant segment of the public in a similar manner"
+     ],
+     "exceptions": [
+      "other than an action or decision involving a bill described in subdivision (c) of Section 12 of Article IV"
+     ],
+     "terms": [
+      "“public generally” includes an industry, trade, or profession"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that prohibit a state officer, or a secretary of an agency or director of a department appointed by the Governor, who has not resigned or retired from state service prior to January 7, 1991, from lobbying, for compensation, before the executive branch of state government for 12 months after leaving office",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "“State officer,” as used in this section, means the Governor, Lieutenant Governor, Attorney General, Controller, Insurance Commissioner, Secretary of State, Superintendent of Public Instruction, Treasurer, and member of the State Board of Equalization",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "“State officer”: the Governor, Lieutenant Governor, Attorney General, Controller, Insurance Commissioner, Secretary of State, Superintendent of Public Instruction, Treasurer, and member of the State Board of Equalization"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s1": {
+  "review": {
+   "title": "Judicial power of the State",
+   "plain": "The judicial power of the State is vested in the Supreme Court, courts of appeal and superior courts, all of which are courts of record.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The judicial power of this State is vested in the Supreme Court, courts of appeal, and superior courts"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The judicial power of this State is vested in the Supreme Court, courts of appeal, and superior courts, all of which are courts of record",
+     "holder": "The Supreme Court, courts of appeal, and superior courts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s2": {
+  "review": {
+   "title": "The Supreme Court",
+   "plain": "The Supreme Court has the Chief Justice and 6 associate justices; the Chief Justice may convene it at any time, and a judgment needs 4 judges concurring. An acting Chief Justice serves when the Chief Justice is absent or unable to act.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The Chief Justice may convene the court at any time"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Supreme Court consists of the Chief Justice of California and 6 associate justices",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Chief Justice may convene the court at any time",
+     "holder": "The Chief Justice",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Concurrence of 4 judges present at the argument is necessary for a judgment",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Concurrence of 4 judges present at the argument"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "An acting Chief Justice shall perform all functions of the Chief Justice when the Chief Justice is absent or unable to act",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the Chief Justice is absent or unable to act"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Chief Justice or, if the Chief Justice fails to do so, the court shall select an associate justice as acting Chief Justice",
+     "holder": null,
+     "binds": "The Chief Justice or the court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s3": {
+  "review": {
+   "title": "Courts of appeal",
+   "plain": "The Legislature shall divide the State into court of appeal districts. Each division has a presiding justice and 2 or more associate justices, sits as a 3-judge court, and needs 2 judges concurring for a judgment.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "It has the power of a court of appeal"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall divide the State into districts each containing a court of appeal with one or more divisions",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Each division consists of a presiding justice and 2 or more associate justices",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each division has the power of a court of appeal and shall conduct itself as a 3-judge court",
+     "holder": "Each division",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Concurrence of 2 judges present at the argument is necessary for a judgment",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Concurrence of 2 judges present at the argument"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "An acting presiding justice shall perform all functions of the presiding justice when the presiding justice is absent or unable to act",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the presiding justice is absent or unable to act"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The presiding justice or, if the presiding justice fails to do so, the Chief Justice shall select an associate justice of that division as acting presiding justice",
+     "holder": null,
+     "binds": "The presiding justice or the Chief Justice",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s4": {
+  "review": {
+   "title": "Superior courts and appellate divisions",
+   "plain": "Each county has a superior court of one or more judges, with an appellate division. The Legislature sets the number of judges and may, if each affected county concurs, have judges serve more than one superior court.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the Legislature may provide that one or more judges serve more than one superior court"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In each county there is a superior court of one or more judges",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall prescribe the number of judges and provide for the officers and employees of each superior court",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide that one or more judges serve more than one superior court",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the governing body of each affected county concurs"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In each superior court there is an appellate division",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Chief Justice shall assign judges to the appellate division for specified terms pursuant to rules adopted by the Judicial Council to promote the independence of the appellate division",
+     "holder": null,
+     "binds": "The Chief Justice",
+     "requires": [
+      "rules, not inconsistent with statute"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s6": {
+  "review": {
+   "title": "The Judicial Council",
+   "plain": "Sets the membership of the Judicial Council, which surveys judicial business, makes recommendations and adopts rules of court consistent with statute. The Chief Justice seeks to expedite and equalize judges' work and may assign judges to other courts.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The council may appoint an Administrative Director of the Courts",
+    "The Chief Justice may provide for the assignment of any judge to another court"
+   ],
+   "limits": [
+    "The rules adopted shall not be inconsistent with statute"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The Judicial Council consists of the Chief Justice and one other judge of the Supreme Court, three judges of courts of appeal, 10 judges of superior courts, two nonvoting court administrators, and any other nonvoting members as determined by the voting membership of the council, each appointed by the Chief Justice for a three-year term; four members of the State Bar appointed by its governing body for three-year terms; and one member of each house of the Legislature appointed as provided by the house",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Council membership terminates if a member ceases to hold the position that qualified the member for appointment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if a member ceases to hold the position that qualified the member for appointment"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "A vacancy shall be filled by the appointing power for the remainder of the term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The council may appoint an Administrative Director of the Courts, who serves at its pleasure and performs functions delegated by the council or the Chief Justice",
+     "holder": "The council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than adopting rules of court administration, practice and procedure"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The council shall survey judicial business and make recommendations to the courts, make recommendations annually to the Governor and Legislature, adopt rules for court administration, practice and procedure, and perform other functions prescribed by statute",
+     "holder": null,
+     "binds": "The council",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "The rules adopted shall not be inconsistent with statute",
+     "holder": null,
+     "binds": "The council",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The Chief Justice shall seek to expedite judicial business and to equalize the work of judges",
+     "holder": null,
+     "binds": "The Chief Justice",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "The Chief Justice may provide for the assignment of any judge to another court",
+     "holder": "The Chief Justice",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "only with the judge’s consent if the court is of lower jurisdiction"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "A retired judge who consents may be assigned to any court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "who consents"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "Judges shall report to the council as the Chief Justice directs concerning the condition of judicial business in their courts, cooperate with the council and hold court as assigned",
+     "holder": null,
+     "binds": "Judges",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s7": {
+  "review": {
+   "title": "Commission on Judicial Appointments",
+   "plain": "The Commission on Judicial Appointments consists of the Chief Justice, the Attorney General, and the presiding justice of the affected court of appeal district who has presided longest, or for the Supreme Court, the longest-serving presiding justice of any court of appeal.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Commission on Judicial Appointments consists of the Chief Justice, the Attorney General, and the presiding justice of the court of appeal of the affected district or, if there are 2 or more presiding justices, the one who has presided longest or, when a nomination or appointment to the Supreme Court is to be considered, the presiding justice who has presided longest on any court of appeal",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s8": {
+  "review": {
+   "title": "Commission on Judicial Performance",
+   "plain": "The Commission on Judicial Performance has judges, State Bar members and citizens appointed by the Supreme Court, Governor, Senate Committee on Rules and Speaker. Terms are four years, no member serves more than two terms, and staggered first terms began March 1, 1995.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No member shall serve more than two four-year terms",
+    "may not appoint them to an additional term thereafter"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The Commission on Judicial Performance consists of one judge of a court of appeal and two judges of superior courts, each appointed by the Supreme Court; two members of the State Bar of California who have practiced law in this State for 10 years, each appointed by the Governor; and six citizens who are not judges, retired judges, or members of the State Bar of California, two appointed by the Governor, two by the Senate Committee on Rules, and two by the Speaker of the Assembly",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "All terms are for four years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivisions (b) and (c)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No member shall serve more than two four-year terms, or for more than a total of 10 years if appointed to fill a vacancy",
+     "holder": null,
+     "binds": "No member",
+     "requires": [],
+     "forbids": [
+      "serve more than two four-year terms",
+      "for more than a total of 10 years if appointed to fill a vacancy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Commission membership terminates if a member ceases to hold the position that qualified the member for appointment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if a member ceases to hold the position that qualified the member for appointment"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "A vacancy shall be filled by the appointing power for the remainder of the term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "A member whose term has expired may continue to serve until the vacancy has been filled by the appointing power",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Appointing powers may appoint members who are already serving on the commission prior to March 1, 1995, to a single two-year term, but may not appoint them to an additional term thereafter",
+     "holder": "Appointing powers",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "appoint them to an additional term thereafter"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "structure",
+     "what": "Two members appointed by the Supreme Court to a term commencing March 1, 1995, shall each serve a term of two years and may be reappointed to one full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "structure",
+     "what": "One attorney appointed by the Governor to a term commencing March 1, 1995, shall serve a term of two years and may be reappointed to one full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "structure",
+     "what": "One citizen member appointed by the Governor to a term commencing March 1, 1995, shall serve a term of two years and may be reappointed to one full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "structure",
+     "what": "One member appointed by the Senate Committee on Rules to a term commencing March 1, 1995, shall serve a term of two years and may be reappointed to one full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)",
+     "kind": "structure",
+     "what": "One member appointed by the Speaker of the Assembly to a term commencing March 1, 1995, shall serve a term of two years and may be reappointed to one full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "structure",
+     "what": "All other members shall be appointed to full four-year terms commencing March 1, 1995",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s9": {
+  "review": {
+   "title": "The State Bar of California",
+   "plain": "The State Bar of California is a public corporation. Every person admitted and licensed to practice law in the State is a member, except while serving as a judge of a court of record.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The State Bar of California is a public corporation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Every person admitted and licensed to practice law in this State is and shall be a member of the State Bar",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except while holding office as a judge of a court of record"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s10": {
+  "review": {
+   "title": "Original jurisdiction of the courts",
+   "plain": "The Supreme Court, courts of appeal, superior courts and their judges have original jurisdiction in habeas corpus and in mandamus, certiorari and prohibition proceedings. Superior courts have original jurisdiction in all other causes, and a court may comment on the evidence and witnesses.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "have original jurisdiction in habeas corpus proceedings",
+    "Those courts also have original jurisdiction in proceedings for extraordinary relief",
+    "The appellate division of the superior court has original jurisdiction",
+    "Superior courts have original jurisdiction in all other causes",
+    "The court may make any comment on the evidence and the testimony and credibility of any witness"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Supreme Court, courts of appeal, superior courts, and their judges have original jurisdiction in habeas corpus proceedings",
+     "holder": "The Supreme Court, courts of appeal, superior courts, and their judges",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Those courts also have original jurisdiction in proceedings for extraordinary relief in the nature of mandamus, certiorari, and prohibition",
+     "holder": "The Supreme Court, courts of appeal, superior courts, and their judges",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The appellate division of the superior court has original jurisdiction in proceedings for extraordinary relief in the nature of mandamus, certiorari, and prohibition directed to the superior court in causes subject to its appellate jurisdiction",
+     "holder": "The appellate division of the superior court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Superior courts have original jurisdiction in all other causes",
+     "holder": "Superior courts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The court may make any comment on the evidence and the testimony and credibility of any witness as in its opinion is necessary for the proper determination of the cause",
+     "holder": "The court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as in its opinion is necessary for the proper determination of the cause"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s11": {
+  "review": {
+   "title": "Appellate jurisdiction",
+   "plain": "The Supreme Court has appellate jurisdiction when a death judgment is pronounced; courts of appeal and the superior court's appellate division hear other appeals as the text and statute provide. The Legislature may change the jurisdictional amount and let appellate courts take evidence.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Supreme Court has appellate jurisdiction",
+    "courts of appeal have appellate jurisdiction",
+    "the Legislature may change the appellate jurisdiction of the courts of appeal",
+    "the appellate division of the superior court has appellate jurisdiction in causes prescribed by statute",
+    "The Legislature may permit courts exercising appellate jurisdiction to take evidence and make findings of fact"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Supreme Court has appellate jurisdiction when judgment of death has been pronounced",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when judgment of death has been pronounced"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "Courts of appeal have appellate jurisdiction when superior courts have original jurisdiction in causes of a type within the appellate jurisdiction of the courts of appeal on June 30, 1995, and in other causes prescribed by statute",
+     "holder": "Courts of appeal",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "With that exception"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may change the appellate jurisdiction of the courts of appeal by changing the jurisdictional amount in controversy",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "When appellate jurisdiction in civil causes is determined by the amount in controversy"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The appellate division of the superior court has appellate jurisdiction in causes prescribed by statute",
+     "holder": "The appellate division of the superior court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (a)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The Legislature may permit courts exercising appellate jurisdiction to take evidence and make findings of fact when jury trial is waived or not a matter of right",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when jury trial is waived or not a matter of right"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s12": {
+  "review": {
+   "title": "Supreme Court transfer and review",
+   "plain": "Before decision, the Supreme Court may transfer a cause from a court of appeal to itself, or from itself or one court of appeal to another, and may review any court of appeal decision. This section does not apply to death-judgment appeals.",
+   "category": "The Courts",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may, before decision, transfer to itself a cause in a court of appeal",
+    "transfer a cause from itself to a court of appeal or from one court of appeal or division to another",
+    "The Supreme Court may review the decision of a court of appeal in any cause"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Supreme Court may, before decision, transfer to itself a cause in a court of appeal",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "before decision"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "It may, before decision, transfer a cause from itself to a court of appeal or from one court of appeal or division to another",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "before decision"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The court to which a cause is transferred has jurisdiction",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Supreme Court may review the decision of a court of appeal in any cause",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Judicial Council shall provide, by rules of court, for the time and procedure for transfer and for review, including provisions for the time and procedure for transfer with instructions, for review of all or part of a decision, and for remand as improvidently granted",
+     "holder": null,
+     "binds": "The Judicial Council",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "This section shall not apply to an appeal involving a judgment of death",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a6-s13": {
+  "review": {
+   "title": "Judgments not set aside for harmless error",
+   "plain": "No judgment may be set aside or new trial granted for jury misdirection, evidence rulings, or errors of pleading or procedure unless, after examining the entire cause, the court finds the error resulted in a miscarriage of justice.",
+   "category": "The Courts",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No judgment shall be set aside, or new trial granted"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No judgment shall be set aside, or new trial granted, in any cause, on the ground of misdirection of the jury, or of the improper admission or rejection of evidence, or for any error as to any matter of pleading, or for any error as to any matter of procedure",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "setting aside a judgment, or granting a new trial, on the ground of misdirection of the jury, or of the improper admission or rejection of evidence, or for any error as to any matter of pleading, or for any error as to any matter of procedure"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless, after an examination of the entire cause, including the evidence, the court shall be of the opinion that the error complained of has resulted in a miscarriage of justice"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

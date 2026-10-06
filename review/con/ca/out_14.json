@@ -1,0 +1,1080 @@
+{
+ "a13a-s5": {
+  "review": {
+   "title": "When the tax limitation article takes effect",
+   "plain": "This article takes effect for the tax year beginning on July 1 following its passage, except Section 3, which becomes effective upon the passage of the article.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall take effect for the tax year beginning on July 1 following the passage of this Amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except Section 3 which shall become effective upon the passage of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s6": {
+  "review": {
+   "title": "Severability of the tax limitation article",
+   "plain": "If any section, part, clause or phrase of this article is held invalid or unconstitutional, the remaining sections are not affected and remain in full force and effect.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If any section, part, clause, or phrase hereof is for any reason held to be invalid or unconstitutional, the remaining sections shall not be affected but will remain in full force and effect",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any section, part, clause, or phrase hereof is for any reason held to be invalid or unconstitutional"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13a-s7": {
+  "review": {
+   "title": "Children and Families First Act exempt from Section 3",
+   "plain": "Section 3 of this article, on the vote needed for state tax increases, does not apply to the California Children and Families First Act of 1998.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Section 3 of this article does not apply to the California Children and Families First Act of 1998",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s1": {
+  "review": {
+   "title": "Annual appropriations limit",
+   "plain": "The total annual appropriations subject to limitation of the State and of each local government may not exceed its limit for the prior year, adjusted for changes in the cost of living and population, except as this article otherwise provides.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not exceed the appropriations limit of the entity of government for the prior year"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The total annual appropriations subject to limitation of the State and of each local government shall not exceed the appropriations limit of the entity of government for the prior year adjusted for the change in the cost of living and the change in population",
+     "holder": null,
+     "binds": "The State and each local government",
+     "requires": [],
+     "forbids": [
+      "Total annual appropriations subject to limitation exceeding the appropriations limit of the entity of government for the prior year adjusted for the change in the cost of living and the change in population"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as otherwise provided in this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s1.5": {
+  "review": {
+   "title": "Audit of local appropriations limits",
+   "plain": "Each local government's annual calculation of its appropriations limit must be reviewed as part of an annual financial audit.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The annual calculation of the appropriations limit under this article for each entity of local government shall be reviewed as part of an annual financial audit",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s2": {
+  "review": {
+   "title": "Returning excess revenues",
+   "plain": "State revenues over two years above what may be appropriated under this article are split: half is transferred under Section 8.5 of Article XVI and half returned by revising tax rates or fees. Other entities return all such excess revenues.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "duty",
+     "what": "Fifty percent of all revenues received by the State in a fiscal year and in the fiscal year immediately following it in excess of the amount which may be appropriated by the State in compliance with this article during that fiscal year and the fiscal year immediately following it shall be transferred and allocated, from a fund established for that purpose, pursuant to Section 8.5 of Article XVI",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "duty",
+     "what": "Fifty percent of all revenues received by the State in a fiscal year and in the fiscal year immediately following it in excess of the amount which may be appropriated by the State in compliance with this article during that fiscal year and the fiscal year immediately following it shall be returned by a revision of tax rates or fee schedules within the next two subsequent fiscal years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "All revenues received by an entity of government, other than the State, in a fiscal year and in the fiscal year immediately following it in excess of the amount which may be appropriated by the entity in compliance with this article during that fiscal year and the fiscal year immediately following it shall be returned by a revision of tax rates or fee schedules within the next two subsequent fiscal years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s3": {
+  "review": {
+   "title": "Adjusting the appropriations limit",
+   "plain": "The appropriations limit is adjusted when responsibility for services moves between governments or to private entities or fees, and may be exceeded in a declared emergency if later limits are reduced. Emergency appropriations approved by two-thirds after a Governor's declaration are not subject to limitation.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "In the event that the financial responsibility of providing services is transferred from one entity of government to another, the appropriations limit of the transferee entity shall be increased by such reasonable amount as the said entities shall mutually agree and the appropriations limit of the transferor entity shall be decreased by the same amount",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the financial responsibility of providing services is transferred, in whole or in part, whether by annexation, incorporation or otherwise, from one entity of government to another"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "In the event that the financial responsibility of providing services is transferred from an entity of government to a private entity, or the financial source for the provision of services is transferred from other revenues of an entity of government to regulatory licenses, user charges or user fees, the appropriations limit of such entity of government shall be decreased accordingly",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the financial responsibility of providing services is transferred, in whole or in part, from an entity of government to a private entity, or the financial source for the provision of services is transferred, in whole or in part, from other revenues of an entity of government, to regulatory licenses, user charges or user fees"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "power",
+     "what": "The appropriations limit of the affected entity of government may be exceeded",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the appropriations limits in the following three years are reduced accordingly to prevent an aggregate increase in appropriations resulting from the emergency"
+     ],
+     "forbids": [],
+     "conditions": [
+      "In the event an emergency is declared by the legislative body of an entity of government"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "structure",
+     "what": "Appropriations approved by a two-thirds vote of the legislative body of an affected entity of government to an emergency account for expenditures relating to that emergency shall not constitute appropriations subject to limitation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event an emergency is declared by the Governor"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"emergency\": the existence, as declared by the Governor, of conditions of disaster or of extreme peril to the safety of persons and property within the State, or parts thereof, caused by such conditions as attack or probable or imminent attack by an enemy of the United States, fire, flood, drought, storm, civil disorder, earthquake, or volcanic eruption"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s4": {
+  "review": {
+   "title": "Voters may change an appropriations limit",
+   "plain": "The electors of an entity of government may establish or change its appropriations limit, following constitutional and statutory voting requirements. Such a change lasts as the electors decide, but never more than four years from their most recent vote.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be established or changed by the electors of such entity"
+   ],
+   "limits": [
+    "shall in no event exceed four years from the most recent vote of said electors"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The appropriations limit imposed on any new or existing entity of government by this Article may be established or changed by the electors of such entity",
+     "holder": "The electors of such entity",
+     "binds": null,
+     "requires": [
+      "subject to and in conformity with constitutional and statutory voting requirements"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The duration of any such change shall be as determined by said electors, but shall in no event exceed four years from the most recent vote of said electors creating or continuing such change",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "A change lasting more than four years from the most recent vote of said electors creating or continuing such change"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s5": {
+  "review": {
+   "title": "Contingency, reserve and similar funds",
+   "plain": "Each entity of government may set up reserve and similar funds it deems reasonable and proper. Contributions from tax proceeds count as appropriations subject to limitation; withdrawals, their spending, and transfers between funds do not.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may establish such contingency, emergency, unemployment, reserve, retirement, sinking fund, trust, or similar funds"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each entity of government may establish such contingency, emergency, unemployment, reserve, retirement, sinking fund, trust, or similar funds as it shall deem reasonable and proper",
+     "holder": "Each entity of government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Contributions to any such fund, to the extent that such contributions are derived from the proceeds of taxes, shall for purposes of this Article constitute appropriations subject to limitation in the year of contribution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Neither withdrawals from any such fund, nor expenditures of (or authorizations to expend) such withdrawals, nor transfers between or among such funds, shall for purposes of this Article constitute appropriations subject to limitation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s5.5": {
+  "review": {
+   "title": "Prudent state reserve fund",
+   "plain": "The Legislature must establish a prudent state reserve fund in the amount it deems reasonable and necessary. Contributions to and withdrawals from the fund are subject to Section 5 of this article.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall establish a prudent state reserve fund in such amount as it shall deem reasonable and necessary",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Contributions to, and withdrawals from, the fund shall be subject to the provisions of Section 5 of this Article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s6": {
+  "review": {
+   "title": "State reimbursement for local mandates",
+   "plain": "When the Legislature or a state agency mandates a new program or higher level of service on local government, the State must reimburse the costs, with listed exceptions. The Legislature must pay or suspend mandates found payable, and property tax revenues may not be used.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "the Legislature may, but need not, provide a subvention of funds"
+   ],
+   "limits": [
+    "Ad valorem property tax revenues shall not be used to reimburse a local government"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Whenever the Legislature or any state agency mandates a new program or higher level of service on any local government, the State shall provide a subvention of funds to reimburse that local government for the costs of the program or increased level of service",
+     "holder": null,
+     "binds": "The State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever the Legislature or any state agency mandates a new program or higher level of service on any local government"
+     ],
+     "exceptions": [
+      "except that the Legislature may, but need not, provide a subvention of funds for the following mandates"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may, but need not, provide a subvention of funds for: Legislative mandates requested by the local agency affected; Legislation defining a new crime or changing an existing definition of a crime; Legislative mandates enacted prior to January 1, 1975, or executive orders or regulations initially implementing legislation enacted prior to January 1, 1975; Legislative mandates contained in statutes within the scope of paragraph (7) of subdivision (b) of Section 3 of Article I",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "duty",
+     "what": "For the 2005–06 fiscal year and every subsequent fiscal year, for a mandate for which the costs of a local government claimant have been determined in a preceding fiscal year to be payable by the State pursuant to law, the Legislature shall either appropriate, in the annual Budget Act, the full payable amount that has not been previously paid, or suspend the operation of the mandate for the fiscal year for which the annual Budget Act is applicable in a manner prescribed by law",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in paragraph (2)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "power",
+     "what": "Payable claims for costs incurred prior to the 2004–05 fiscal year that have not been paid prior to the 2005–06 fiscal year may be paid over a term of years, as prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "limit",
+     "what": "Ad valorem property tax revenues shall not be used to reimburse a local government for the costs of a new program or higher level of service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Using ad valorem property tax revenues to reimburse a local government for the costs of a new program or higher level of service"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "structure",
+     "what": "This subdivision applies to a mandate only as it affects a city, county, city and county, or special district",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "structure",
+     "what": "This subdivision shall not apply to a requirement to provide or recognize any procedural or substantive protection, right, benefit, or employment status of any local government employee or retiree, or of any local government employee organization, that arises from, affects, or directly relates to future, current, or past local government employment and that constitutes a mandate subject to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "A mandated new program or higher level of service includes a transfer by the Legislature from the State to cities, counties, cities and counties, or special districts of complete or partial financial responsibility for a required program for which the State previously had complete or partial financial responsibility",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"mandated new program or higher level of service\": includes a transfer by the Legislature from the State to cities, counties, cities and counties, or special districts of complete or partial financial responsibility for a required program for which the State previously had complete or partial financial responsibility"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s7": {
+  "review": {
+   "title": "Bonded debt obligations protected",
+   "plain": "Nothing in this article is to be construed to impair the ability of the State or any local government to meet its obligations on existing or future bonded indebtedness.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing in this Article shall be construed to impair the ability of the State or of any local government to meet its obligations with respect to existing or future bonded indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s8": {
+  "review": {
+   "title": "Definitions for the spending limitation",
+   "plain": "Defines terms used in this article, including appropriations subject to limitation, proceeds of taxes, local government, change in the cost of living, change in population, debt service and appropriations limit. Each local entity selects its cost-of-living measure annually by recorded vote.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” of the State is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Appropriations subject to limitation\" of the State: any authorization to expend during a fiscal year the proceeds of taxes levied by or for the State, exclusive of state subventions for the use and operation of local government (other than subventions made pursuant to Section 6) and further exclusive of refunds of taxes, benefit payments from retirement, unemployment insurance, and disability insurance funds"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” of an entity of local government is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Appropriations subject to limitation\" of an entity of local government: any authorization to expend during a fiscal year the proceeds of taxes levied by or for that entity and the proceeds of state subventions to that entity (other than subventions made pursuant to Section 6) exclusive of refunds of taxes"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "“Proceeds of taxes” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Proceeds of taxes\": shall include, but not be restricted to, all tax revenues and the proceeds to an entity of government, from (1) regulatory licenses, user charges, and user fees to the extent that those proceeds exceed the costs reasonably borne by that entity in providing the regulation, product, or service, and (2) the investment of tax revenues; with respect to any local government, shall include subventions received from the State, other than pursuant to Section 6, and, with respect to the State, shall exclude such subventions"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "“Local government” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Local government\": any city, county, city and county, school district, special district, authority, or other political subdivision of or within the State"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(1)",
+     "kind": "structure",
+     "what": "“Change in the cost of living” for the State, a school district, or a community college district is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Change in the cost of living\" for the State, a school district, or a community college district: the percentage change in California per capita personal income from the preceding year"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)",
+     "kind": "structure",
+     "what": "“Change in the cost of living” for an entity of local government, other than a school district or a community college district, is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Change in the cost of living\" for an entity of local government, other than a school district or a community college district: either (A) the percentage change in California per capita personal income from the preceding year, or (B) the percentage change in the local assessment roll from the preceding year for the jurisdiction due to the addition of local nonresidential new construction"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)",
+     "kind": "duty",
+     "what": "Each entity of local government shall select its change in the cost of living pursuant to this paragraph annually by a recorded vote of the entity’s governing body",
+     "holder": null,
+     "binds": "Each entity of local government",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "“Change in population” of any entity of government, other than the State, a school district, or a community college district, shall be determined by a method prescribed by the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "“Change in population” of a school district or a community college district shall be the percentage change in the average daily attendance of the school district or community college district from the preceding fiscal year, as determined by a method prescribed by the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "“Change in population” of the State shall be determined by adding (1) the percentage change in the State’s population multiplied by the percentage of the State’s budget in the prior fiscal year that is expended for other than educational purposes for kindergarten and grades one to 12, inclusive, and the community colleges, and (2) the percentage change in the total statewide average daily attendance in kindergarten and grades one to 12, inclusive, and the community colleges, multiplied by the percentage of the State’s budget in the prior fiscal year that is expended for educational purposes for kindergarten and grades one to 12, inclusive, and the community colleges",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "Any determination of population pursuant to this subdivision, other than that measured by average daily attendance, shall be revised, as necessary, to reflect the periodic census conducted by the United States Department of Commerce, or successor department",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "“Debt service” is defined",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Debt service\": appropriations required to pay the cost of interest and redemption charges, including the funding of any reserve or sinking fund required in connection therewith, on indebtedness existing or legally authorized as of January 1, 1979, or on bonded indebtedness thereafter approved according to law by a vote of the electors of the issuing entity voting in an election for that purpose"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "structure",
+     "what": "The “appropriations limit” of each entity of government for fiscal year 1978–79 is the total of the appropriations subject to limitation of the entity for that fiscal year; for fiscal year 1978–79, state subventions to local governments, exclusive of federal grants, are deemed to have been derived from the proceeds of state taxes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"appropriations limit\": that amount which total annual appropriations subject to limitation may not exceed under Sections 1 and 3"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” do not include local agency loan funds or indebtedness funds, investment (or authorizations to invest) funds of the State, or of an entity of local government in accounts at banks or savings and loan associations or in liquid securities",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided in Section 5"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s9": {
+  "review": {
+   "title": "Appropriations excluded from the limit",
+   "plain": "Appropriations subject to limitation do not include appropriations for debt service, court or federal mandates, certain special districts, qualified capital outlay projects, or revenue from certain motor vehicle fuel taxes, related sales and use taxes, and commercial vehicle weight fees.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” for each entity of government do not include the listed appropriations",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Appropriations for debt service",
+      "Appropriations required to comply with mandates of the courts or the federal government which, without discretion, require an expenditure for additional services or which unavoidably make the provision of existing services more costly",
+      "Appropriations of any special district which existed on January 1, 1978, and which did not as of the 1977–78 fiscal year levy an ad valorem tax on property in excess of 121/2 cents per $100 of assessed value; or the appropriations of any special district then existing or thereafter created by a vote of the people, which is totally funded by other than the proceeds of taxes",
+      "Appropriations for all qualified capital outlay projects, as defined by the Legislature",
+      "Appropriations of revenue which are derived from that portion of the taxes imposed on motor vehicle fuels for use in motor vehicles upon public streets and highways at a rate of more than nine cents ($0.09) per gallon",
+      "Appropriations of revenue which are derived from sales and use taxes collected on that increment of the tax specified in paragraph (1)",
+      "Appropriations of revenue which are derived from that portion of the weight fee imposed on commercial vehicles which exceeds the weight fee imposed on those vehicles on January 1, 1990"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s10": {
+  "review": {
+   "title": "When the spending limitation takes effect",
+   "plain": "This article is effective beginning with the first day of the fiscal year following its adoption.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This Article shall be effective commencing with the first day of the fiscal year following its adoption",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s10.5": {
+  "review": {
+   "title": "Appropriations limit from 1990 onward",
+   "plain": "For fiscal years beginning on or after July 1, 1990, each entity's appropriations limit is its 1986–87 limit adjusted for the changes made under this article as amended, and for the changes required by Section 3.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "For fiscal years beginning on or after July 1, 1990, the appropriations limit of each entity of government shall be the appropriations limit for the 1986–87 fiscal year adjusted for the changes made from that fiscal year pursuant to this article, as amended by the measure adding this section, adjusted for the changes required by Section 3",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s11": {
+  "review": {
+   "title": "Court judgments and severability",
+   "plain": "If a final court judgment adds or removes an appropriation category from those subject to limitation, the appropriations limit is adjusted accordingly. If any part of this article is held invalid, the rest remains in full force.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If any appropriation category shall be added to or removed from appropriations subject to limitation, pursuant to final judgment of any court of competent jurisdiction and any appeal therefrom, the appropriations limit shall be adjusted accordingly",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any appropriation category shall be added to or removed from appropriations subject to limitation, pursuant to final judgment of any court of competent jurisdiction and any appeal therefrom"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If any section, part, clause or phrase in this Article is for any reason held invalid or unconstitutional, the remaining portions of this Article shall not be affected but shall remain in full force and effect",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any section, part, clause or phrase in this Article is for any reason held invalid or unconstitutional"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s12": {
+  "review": {
+   "title": "Tobacco surtax fund outside the limit",
+   "plain": "Appropriations of revenue from the Cigarette and Tobacco Products Surtax Fund are not appropriations subject to limitation, and depositing or appropriating that revenue requires no adjustment in any appropriations limit under Section 3.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” of each entity of government shall not include appropriations of revenue from the Cigarette and Tobacco Products Surtax Fund created by the Tobacco Tax and Health Protection Act of 1988",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No adjustment in the appropriations limit of any entity of government shall be required pursuant to Section 3 as a result of revenue being deposited in or appropriated from the Cigarette and Tobacco Products Surtax Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s13": {
+  "review": {
+   "title": "Children and Families trust fund outside the limit",
+   "plain": "Appropriations from the California Children and Families First Trust Fund are not subject to limitation and need no Section 3 adjustment. The Act's surtax is not General Fund revenue for purposes of Section 8 of Article XVI.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” of each entity of government shall not include appropriations of revenue from the California Children and Families First Trust Fund created by the California Children and Families First Act of 1998",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No adjustment in the appropriations limit of any entity of government shall be required pursuant to Section 3 as a result of revenue being deposited in or appropriated from the California Children and Families First Trust Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The surtax created by the California Children and Families First Act of 1998 shall not be considered General Fund revenues for the purposes of Section 8 of Article XVI",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13b-s14": {
+  "review": {
+   "title": "2016 tobacco tax fund outside the limit",
+   "plain": "Appropriations of revenue from the California Healthcare, Research and Prevention Tobacco Tax Act of 2016 Fund are not subject to limitation, and depositing or appropriating that revenue requires no adjustment in any appropriations limit under Section 3.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "“Appropriations subject to limitation” of each entity of government shall not include appropriations of revenue from the California Healthcare, Research and Prevention Tobacco Tax Act of 2016 Fund created by the California Healthcare, Research and Prevention Tobacco Tax Act of 2016",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No adjustment in the appropriations limit of any entity of government shall be required pursuant to Section 3 as a result of revenue being deposited in or appropriated from the California Healthcare, Research and Prevention Tobacco Tax Act of 2016 Fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

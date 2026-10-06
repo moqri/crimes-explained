@@ -1,0 +1,1059 @@
+{
+ "a10-s3": {
+  "review": {
+   "title": "Tidelands near cities withheld from sale",
+   "plain": "Tidelands within two miles of any incorporated city, city and county, or town and fronting on navigable harbors, estuaries, bays or inlets shall be withheld from grant or sale to private persons, partnerships or corporations, except certain tidelands reserved solely for street purposes.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may be sold to any town, city, county, city and county, municipal corporations, private persons, partnerships or corporations"
+   ],
+   "limits": [
+    "shall be withheld from grant or sale to private persons, partnerships, or corporations"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "All tidelands within two miles of any incorporated city, city and county, or town in this State, and fronting on the water of any harbor, estuary, bay, or inlet used for the purposes of navigation, shall be withheld from grant or sale to private persons, partnerships, or corporations",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "grant or sale to private persons, partnerships, or corporations"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "any such tidelands, reserved to the State solely for street purposes, which the Legislature finds and declares are not used for navigation purposes and are not necessary for such purposes may be sold"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any such tidelands, reserved to the State solely for street purposes, which the Legislature finds and declares are not used for navigation purposes and are not necessary for such purposes may be sold to any town, city, county, city and county, municipal corporations, private persons, partnerships or corporations",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "which the Legislature finds and declares are not used for navigation purposes and are not necessary for such purposes",
+      "subject to such conditions as the Legislature determines are necessary to be imposed in connection with any such sales in order to protect the public interest"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s4": {
+  "review": {
+   "title": "Public access to navigable waters",
+   "plain": "No individual, partnership or corporation holding frontage or tidal lands on navigable water may exclude the right of way to that water when required for a public purpose, or obstruct free navigation. The Legislature shall enact laws so access stays always attainable for the people.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [
+    "access to the navigable waters of this State shall be always attainable for the people thereof"
+   ],
+   "powers": [],
+   "limits": [
+    "shall be permitted to exclude the right of way to such water",
+    "nor to destroy or obstruct the free navigation of such water"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No individual, partnership, or corporation, claiming or possessing the frontage or tidal lands of a harbor, bay, inlet, estuary, or other navigable water in this State, shall be permitted to exclude the right of way to such water whenever it is required for any public purpose, nor to destroy or obstruct the free navigation of such water",
+     "holder": null,
+     "binds": "No individual, partnership, or corporation, claiming or possessing the frontage or tidal lands of a harbor, bay, inlet, estuary, or other navigable water in this State",
+     "requires": [],
+     "forbids": [
+      "exclude the right of way to such water whenever it is required for any public purpose",
+      "destroy or obstruct the free navigation of such water"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall enact such laws as will give the most liberal construction to this provision, so that access to the navigable waters of this State shall be always attainable for the people thereof",
+     "holder": "The people",
+     "binds": "The Legislature",
+     "requires": [
+      "enact such laws as will give the most liberal construction to this provision"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s5": {
+  "review": {
+   "title": "Water for sale is a public use",
+   "plain": "The use of water appropriated for sale, rental or distribution is declared a public use, subject to the regulation and control of the State in the manner prescribed by law.",
+   "category": "Water & Natural Resources",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "subject to the regulation and control of the State"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The use of all water now appropriated, or that may hereafter be appropriated, for sale, rental, or distribution, is hereby declared to be a public use",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The use of all water now appropriated, or that may hereafter be appropriated, for sale, rental, or distribution, is subject to the regulation and control of the State, in the manner to be prescribed by law",
+     "holder": "The State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in the manner to be prescribed by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s6": {
+  "review": {
+   "title": "Collecting water rates is a franchise",
+   "plain": "The right to collect rates or compensation for water supplied to any county, city and county, or town, or their inhabitants, is a franchise and cannot be exercised except by authority of and in the manner prescribed by law.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "cannot be exercised except by authority of and in the manner prescribed by law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The right to collect rates or compensation for the use of water supplied to any county, city and county, or town, or the inhabitants thereof, is a franchise, and cannot be exercised except by authority of and in the manner prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "by authority of and in the manner prescribed by law"
+     ],
+     "forbids": [
+      "exercising the right to collect rates or compensation for the use of water except by authority of and in the manner prescribed by law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s7": {
+  "review": {
+   "title": "Government land acquisitions follow state water law",
+   "plain": "When any local, state or federal government agency acquires an interest in real property in California, accepting the interest is an agreement by the agency to conform to California laws on the acquisition, control, use and distribution of water for that land.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The acceptance of the interest shall constitute an agreement by the agency to conform to the laws of California as to the acquisition, control, use, and distribution of water with respect to the land so acquired",
+     "holder": null,
+     "binds": "Any agency of government, local, state, or federal",
+     "requires": [
+      "conform to the laws of California as to the acquisition, control, use, and distribution of water with respect to the land so acquired"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Whenever any agency of government, local, state, or federal, hereafter acquires any interest in real property in this State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s1": {
+  "review": {
+   "title": "Purpose of water protections",
+   "plain": "The people of the State provide the guarantees and protections in this article for water rights, water quality, and fish and wildlife resources.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The people of the State hereby provide the following guarantees and protections in this article for water rights, water quality, and fish and wildlife resources",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s2": {
+  "review": {
+   "title": "Changes to Senate Bill 200 water protections",
+   "plain": "No statute changing the Senate Bill No. 200 provisions on protecting Delta fish and wildlife, existing Delta water rights, and water quality compliance takes effect unless approved by the electors, except a two-thirds legislative statute that does not reduce protection of the delta or fish and wildlife.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "amend or repeal, or add to, these provisions"
+   ],
+   "limits": [
+    "shall become effective unless approved by the electors"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No statute amending or repealing, or adding to, the provisions of the statute enacted by Senate Bill No. 200 of the 1979–80 Regular Session of the Legislature which specify (1) the manner in which the State will protect fish and wildlife resources in the Sacramento-San Joaquin Delta, Suisun Marsh, and San Francisco Bay system westerly of the delta; (2) the manner in which the State will protect existing water rights in the Sacramento-San Joaquin Delta; and (3) the manner in which the State will operate the State Water Resources Development System to comply with water quality standards and water quality control plans, shall become effective unless approved by the electors",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "approved by the electors in the same manner as statutes amending initiative statutes are approved"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the Legislature may, by statute passed in each house by roll call vote entered in the journal, two-thirds of the membership concurring, amend or repeal, or add to, these provisions if the statute does not in any manner reduce the protection of the delta or fish and wildlife"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may, by statute, amend or repeal, or add to, these provisions",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "statute passed in each house by roll call vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if the statute does not in any manner reduce the protection of the delta or fish and wildlife"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s3": {
+  "review": {
+   "title": "No export from wild and scenic rivers",
+   "plain": "No water from any component of the California Wild and Scenic Rivers System, as it existed on January 1, 1981, may be appropriated for export into another major hydrologic basin unless expressly authorized first by an initiative statute or a two-thirds vote of each house.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No water shall be available for appropriation by storage in, or by direct diversion from, any of the components of the California Wild and Scenic Rivers System"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No water shall be available for appropriation by storage in, or by direct diversion from, any of the components of the California Wild and Scenic Rivers System, as such system exists on January 1, 1981, where such appropriation is for export of water into another major hydrologic basin of the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "where such appropriation is for export of water into another major hydrologic basin of the State, as defined in the Department of Water Resources Bulletin 160-74"
+     ],
+     "exceptions": [
+      "unless such export is expressly authorized prior to such appropriation by: (a) an initiative statute approved by the electors, or (b) the Legislature, by statute passed in each house by roll call vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s4": {
+  "review": {
+   "title": "Changes to the Delta Protection Act",
+   "plain": "No statute changing the Delta Protection Act in the Water Code takes effect unless approved by the electors, except a statute passed by two-thirds of each house that does not reduce the protection of the delta or fish and wildlife.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "amend or repeal, or add to, these provisions"
+   ],
+   "limits": [
+    "shall become effective unless approved by the electors"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No statute amending or repealing, or adding to, the provisions of Part 4.5 (commencing with Section 12200) of Division 6 of the Water Code (the Delta Protection Act) shall become effective unless approved by the electors",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "approved by the electors in the same manner as statutes amending initiative statutes are approved"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the Legislature may, by statute passed in each house by roll call vote entered in the journal, two-thirds of the membership concurring, amend or repeal, or add to, these provisions if the statute does not in any manner reduce the protection of the delta or fish and wildlife"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may, by statute, amend or repeal, or add to, the provisions of the Delta Protection Act",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "statute passed in each house by roll call vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if the statute does not in any manner reduce the protection of the delta or fish and wildlife"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s5": {
+  "review": {
+   "title": "No eminent domain over Delta water rights for export",
+   "plain": "No public agency may use eminent domain to acquire Delta water rights or Delta water contract rights in order to export the water. Eminent domain may still be used to acquire land or other rights needed to build water facilities.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No public agency may utilize eminent domain proceedings to acquire water rights"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No public agency may utilize eminent domain proceedings to acquire water rights, which are held for uses within the Sacramento-San Joaquin Delta as defined in Section 12220 of the Water Code, or any contract rights for water or water quality maintenance in the Delta for the purpose of exporting such water from the Delta",
+     "holder": null,
+     "binds": "No public agency",
+     "requires": [],
+     "forbids": [
+      "utilize eminent domain proceedings to acquire water rights, which are held for uses within the Sacramento-San Joaquin Delta, or any contract rights for water or water quality maintenance in the Delta"
+     ],
+     "conditions": [
+      "for the purpose of exporting such water from the Delta"
+     ],
+     "exceptions": [
+      "This provision shall not be construed to prohibit the utilization of eminent domain proceedings for the purpose of acquiring land or any other rights necessary for the construction of water facilities, including, but not limited to, facilities authorized in Chapter 8 (commencing with Section 12930) of Part 6 of Division 6 of the Water Code"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s6": {
+  "review": {
+   "title": "Venue and speedy handling of water lawsuits",
+   "plain": "Listed lawsuits over Senate Bill No. 200, the peripheral canal and related water agreements must be brought in Sacramento County within set time limits, get preference and prompt hearings, and may be transferred to the Supreme Court on any party's request.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may apply to the State Board of Control for actual costs imposed by the requirements of this section upon the county",
+    "exercising the transfer authority contained in Article VI, Section 12 of the Constitution"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The venue of any of the following actions or proceedings brought in a superior court shall be Sacramento County: (1) an action or proceeding to attack, review, set aside, void, or annul any provision of the statute enacted by Senate Bill No. 200 of the 1979–80 Regular Session; (2) to attack, review, set aside, void, or annul the determination made by the Director of Water Resources and the Director of Fish and Game pursuant to subdivision (a) of Section 11255 of the Water Code; (3) which would have the effect of attacking, reviewing, preventing, or substantially delaying the construction, operation, or maintenance of the peripheral canal unit; (4) to require the State Water Resources Development System to comply with subdivision (b) of Section 11460 of the Water Code; (5) to require the Department of Water Resources or its successor agency to comply with the permanent agreement specified in subdivision (a) of Section 11256 of the Water Code; (6) to require the Department of Water Resources or its successor agency to comply with the provisions of the contracts entered into pursuant to Section 11456 of the Water Code",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "An action or proceeding described in paragraph (1) of subdivision (a) shall be commenced within one year after the effective date of the statute enacted by Senate Bill No. 200. Any other action or proceeding described in subdivision (a) shall be commenced within one year after the cause of action arises",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless a shorter period is otherwise provided by statute"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The superior court or a court of appeals shall give preference to the actions or proceedings described in this section over all civil actions or proceedings pending in the court. The superior court shall commence hearing any such action or proceeding within six months after the commencement of the action or proceeding",
+     "holder": null,
+     "binds": "The superior court or a court of appeals",
+     "requires": [
+      "give preference to the actions or proceedings described in this section over all civil actions or proceedings pending in the court",
+      "commence hearing any such action or proceeding within six months after the commencement of the action or proceeding"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "any such hearing may be delayed by joint stipulation of the parties or at the discretion of the court for good cause shown"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "The provisions of this section shall supersede any provisions of law requiring courts to give preference to other civil actions or proceedings. The provisions of this subdivision may be enforced by mandamus",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The Supreme Court shall, upon the request of any party, transfer to itself, before a decision in the court of appeal, any appeal or petition for extraordinary relief from an action or proceeding described in this section. The request for transfer shall receive preference on the Supreme Court’s calendar. If the action or proceeding is transferred to the Supreme Court, the Supreme Court shall commence to hear the matter within six months of the transfer",
+     "holder": null,
+     "binds": "The Supreme Court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon the request of any party"
+     ],
+     "exceptions": [
+      "unless the Supreme Court determines that the action or proceeding is unlikely to substantially affect (1) the construction, operation, or maintenance of the peripheral canal unit described in subdivision (a) of Section 11255 of the Water Code, (2) compliance with subdivision (b) of Section 11460 of the Water Code, (3) compliance with the permanent agreement specified in Section 11256 of the Water Code, or (4) compliance with the provisions of the contracts entered into pursuant to Section 11456 of the Water Code",
+      "unless the parties by joint stipulation request additional time or the court, for good cause shown, grants additional time"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The remedy prescribed by the court for an action or proceeding described in paragraph (4), (5), or (6) of subdivision (a) shall include, but need not be limited to, compliance with subdivision (b) of Section 11460 of the Water Code, the permanent agreement specified in Section 11256 of the Water Code, or the provisions of the contracts entered into pursuant to Section 11456 of the Water Code",
+     "holder": null,
+     "binds": "The court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The Board of Supervisors of the County of Sacramento may apply to the State Board of Control for actual costs imposed by the requirements of this section upon the county",
+     "holder": "The Board of Supervisors of the County of Sacramento",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "The State Board of Control shall pay such actual costs",
+     "holder": null,
+     "binds": "The State Board of Control",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "power",
+     "what": "Nothing in this Article shall be construed as prohibiting the Supreme Court from exercising the transfer authority contained in Article VI, Section 12 of the Constitution",
+     "holder": "The Supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s7": {
+  "review": {
+   "title": "State agencies must honor water protections",
+   "plain": "State agencies shall exercise their authorized powers in a manner consistent with the protections provided by this article.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "State agencies shall exercise their authorized powers in a manner consistent with the protections provided by this article",
+     "holder": null,
+     "binds": "State agencies",
+     "requires": [
+      "exercise their authorized powers in a manner consistent with the protections provided by this article"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10a-s8": {
+  "review": {
+   "title": "Article depends on Senate Bill 200",
+   "plain": "This article has no force or effect unless Senate Bill No. 200 of the 1979–80 Regular Session of the Legislature is enacted and takes effect.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall have no force or effect unless Senate Bill No. 200 of the 1979–80 Regular Session of the Legislature is enacted and takes effect",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless Senate Bill No. 200 of the 1979–80 Regular Session of the Legislature is enacted and takes effect"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s1": {
+  "review": {
+   "title": "Name of the article",
+   "plain": "This article may be cited as the Marine Resources Protection Act of 1990.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall be known and may be cited as the Marine Resources Protection Act of 1990",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s2": {
+  "review": {
+   "title": "Definitions for marine resources protection",
+   "plain": "Defines \"District\", \"Ocean waters\" and the Marine Resources Protection \"Zone\" (waters around the Channel Islands and near the southern mainland coast), and says Fish and Game Code references mean the statutes in effect on January 1, 1990.",
+   "category": "Water & Natural Resources",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "“District” means a fish and game district as defined in the Fish and Game Code by statute on January 1, 1990",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"District\": a fish and game district as defined in the Fish and Game Code by statute on January 1, 1990"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "All references to Fish and Game Code sections, articles, chapters, parts, and divisions are defined as those statutes in effect on January 1, 1990",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as specifically provided in this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "“Ocean waters” means the waters of the Pacific Ocean regulated by the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Ocean waters\": the waters of the Pacific Ocean regulated by the State"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "“Zone” means the Marine Resources Protection zone established pursuant to this article, consisting of: (1) waters less than 70 fathoms or within one mile, whichever is less, around the Channel Islands of San Miguel, Santa Rosa, Santa Cruz, Anacapa, San Nicolaus, Santa Barbara, Santa Catalina, and San Clemente; (2) the area within three nautical miles offshore of the mainland coast, and within three nautical miles off any manmade breakwater, between a line extending due west from Point Arguello and a line extending due west from the Mexican border; (3) waters less than 35 fathoms between a line running 180 degrees true from Point Fermin and a line running 270 degrees true from the south jetty of Newport Harbor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Zone\": the Marine Resources Protection zone established pursuant to this article, consisting of the waters around the Channel Islands, the area off the mainland coast between Point Arguello and the Mexican border, and the waters between Point Fermin and Newport Harbor described in paragraphs (1) to (3)"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s3": {
+  "review": {
+   "title": "Gill and trammel nets banned in the zone",
+   "plain": "From 1991 through 1993, gill nets or trammel nets may be used in the zone only under a nontransferable Department of Fish and Game permit. On and after January 1, 1994, they shall not be used in the zone.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may only be used in the zone pursuant to a nontransferable permit",
+    "shall not be used in the zone"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "From January 1, 1991, to December 31, 1993, inclusive, gill nets or trammel nets may only be used in the zone pursuant to a nontransferable permit issued by the Department of Fish and Game pursuant to Section 5",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "a nontransferable permit issued by the Department of Fish and Game pursuant to Section 5"
+     ],
+     "forbids": [],
+     "conditions": [
+      "From January 1, 1991, to December 31, 1993, inclusive"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "On and after January 1, 1994, gill nets and trammel nets shall not be used in the zone",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "using gill nets and trammel nets in the zone"
+     ],
+     "conditions": [
+      "On and after January 1, 1994"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s4": {
+  "review": {
+   "title": "Gill net limits for rockfish and northern waters",
+   "plain": "Gill and trammel nets may not be used to take any rockfish. North of Point Arguello, their use is governed by the Fish and Game Code provisions in effect in 1990 or 1989. The Legislature may add restrictions; the Director may not authorize use where it is not permitted.",
+   "category": "Water & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "imposing more restrictions on the use and/or possession of gill nets or trammel nets"
+   ],
+   "limits": [
+    "may not be used to take any species of rockfish",
+    "shall not authorize the use of gill nets or trammel nets in any area where the use is not permitted"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Gill nets and trammel nets may not be used to take any species of rockfish",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "using gill nets and trammel nets to take any species of rockfish"
+     ],
+     "conditions": [
+      "Notwithstanding any other provision of law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "In ocean waters north of Point Arguello on and after the effective date of this article, the use of gill nets and trammel nets shall be regulated by the provisions of Article 4, Article 5 and Article 6 of Chapter 3 of Part 3 of Division 6 of the Fish and Game Code, or any regulation or order issued pursuant to these articles, in effect on January 1, 1990",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "as to Sections 8680, 8681, 8681.7, and 8682, and subdivisions (a) through (f), inclusive of Section 8681.5 of the Fish and Game Code, or any regulation or order issued pursuant to these sections, the provisions in effect on January 1, 1989, shall control where not in conflict with other provisions of this article, and shall be applicable to all ocean waters"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature shall not be precluded from imposing more restrictions on the use and/or possession of gill nets or trammel nets",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Director of the Department of Fish and Game shall not authorize the use of gill nets or trammel nets in any area where the use is not permitted even if the director makes specified findings",
+     "holder": null,
+     "binds": "The Director of the Department of Fish and Game",
+     "requires": [],
+     "forbids": [
+      "authorize the use of gill nets or trammel nets in any area where the use is not permitted"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s5": {
+  "review": {
+   "title": "Gill net permits during the phase-out",
+   "plain": "For 1991 through 1993, the Department of Fish and Game shall issue a gill net or trammel net permit for the zone to any applicant with a commercial fishing license and a Section 8681 permit who owns or operates a vessel equipped with such a net.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Department of Fish and Game shall issue a permit to use a gill net or trammel net in the zone for the period specified in subdivision (a) of Section 3 to any applicant who meets both of the following requirements",
+     "holder": null,
+     "binds": "The Department of Fish and Game",
+     "requires": [
+      "(a) Has a commercial fishing license issued pursuant to Sections 7850–7852.3 of the Fish and Game Code",
+      "(b) Has a permit issued pursuant to Section 8681 of the Fish and Game Code and is presently the owner or operator of a vessel equipped with a gill net or trammel net"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s6": {
+  "review": {
+   "title": "Gill net permit fees",
+   "plain": "The Department of Fish and Game shall charge fees for Section 5 permits of $250 in 1991, 500 in 1992, and 1,000 in 1993.",
+   "category": "Water & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Department of Fish and Game shall charge the following fees for permits issued pursuant to Section 5: 1991, $250; 1992, 500; 1993, 1,000",
+     "holder": null,
+     "binds": "The Department of Fish and Game",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10b-s7": {
+  "review": {
+   "title": "Compensation for giving up gill net permits",
+   "plain": "Permit holders who timely notified the Department of Fish and Game could surrender their permits and stop gill or trammel net fishing in the zone for a one time compensation based on past landings, subject to verification, appeal, and enabling legislation by July 1, 1993.",
+   "category": "Water & Natural Resources",
+   "kind": "Right",
+   "rights": [
+    "a one time compensation",
+    "may appeal that decision to the Fish and Game Commission"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be compensated pursuant to subdivision (b)",
+    "no compensation shall be paid under this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Within 90 days after the effective date of this section, every person who intends to seek the compensation provided in subdivision (b) shall notify the Department of Fish and Game, on forms provided by the department, of that intent",
+     "holder": null,
+     "binds": "Every person who intends to seek the compensation provided in subdivision (b)",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Any person who does not submit the form within that 90-day period shall not be compensated pursuant to subdivision (b)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "does not submit the form within that 90-day period"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The department shall publish a list of all persons submitting the form within 120 days after the effective date of this section",
+     "holder": null,
+     "binds": "The Department of Fish and Game",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "right",
+     "what": "Any person who holds a permit issued pursuant to Section 5 and operates in the zone may surrender that permit to the department and agree to permanently discontinue fishing with gill or trammel nets in the zone, for which he or she shall receive a one time compensation which shall be based upon the average annual ex vessel value of the fish other than any species of rockfish landed by a fisherman, taken pursuant to a valid general gill net or trammel net permit within the zone during the years 1983 to 1987, inclusive",
+     "holder": "Any person who holds a permit issued pursuant to Section 5 and operates in the zone",
+     "binds": null,
+     "requires": [
+      "surrender that permit to the department",
+      "agree to permanently discontinue fishing with gill or trammel nets in the zone"
+     ],
+     "forbids": [],
+     "conditions": [
+      "After July 1, 1993, and before January 1, 1994"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The department shall verify those landings by reviewing logs and landing receipts submitted to it",
+     "holder": null,
+     "binds": "The Department of Fish and Game",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "right",
+     "what": "Any person who is denied compensation by the department as a result of the department’s failure to verify landings may appeal that decision to the Fish and Game Commission",
+     "holder": "Any person who is denied compensation by the department as a result of the department’s failure to verify landings",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The State Board of Control shall, prior to the disbursement of any funds, verify the eligibility of each person seeking compensation and the amount of the compensation to be provided in order to ensure compliance with this section",
+     "holder": null,
+     "binds": "The State Board of Control",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "No compensation shall be paid under this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Unless the Legislature enacts any required enabling legislation to implement this section on or before July 1, 1993"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}
