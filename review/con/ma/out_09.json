@@ -1,0 +1,1147 @@
+{
+ "amend48-gen-infoforvote4": {
+  "review": {
+   "title": "Information for voters on ballot measures",
+   "plain": "Annulled: It required the secretary of the commonwealth to print and send each registered voter the full text of every measure submitted to the people, with committee reports, the general court's votes and the ballot description, and other information and arguments. Notes in the text say it was superseded.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The secretary of the commonwealth shall cause to be printed and sent to each registered voter in the commonwealth the full text of every measure to be submitted to the people, together with a copy of the legislative committee's majority and minority reports, if there be such, with the names of the majority and minority members thereon, a statement of the votes of the general court on the measure, and a description of the measure as such description will appear on the ballot",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Subheadings III and IV superseded by section 4 of Amendments, Art. LXXIV.",
+      "Subheading IV superseded by Amendments,Art. CVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "and shall, in such manner as may be provided by law, cause to be prepared and sent to the voters other information and arguments for and against the measure",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Subheadings III and IV superseded by section 4 of Amendments, Art. LXXIV.",
+      "Subheading IV superseded by Amendments,Art. CVIII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend48-gen-thevetopowe5": {
+  "review": {
+   "title": "Veto power over amending laws approved by the people",
+   "plain": "The general court may amend or repeal a law approved by the people, subject to the veto power of the governor and to the right of referendum by petition.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the general court may amend or repeal a law approved by the people"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the general court may amend or repeal a law approved by the people",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the veto power of the governor and to the right of referendum by petition as herein provided"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-gen-thegenecour6": {
+  "review": {
+   "title": "General court's power to repeal laws approved by the people",
+   "plain": "The general court may amend or repeal a law approved by the people, subject to the veto power of the governor and to the right of referendum by petition.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the general court may amend or repeal a law approved by the people"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the general court may amend or repeal a law approved by the people",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the veto power of the governor and to the right of referendum by petition as herein provided"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-gen-amendeclto7": {
+  "review": {
+   "title": "Initiative and referendum amendment is self-executing",
+   "plain": "This article of amendment is self-executing, but legislation not inconsistent with it may be enacted to facilitate the operation of its provisions.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "legislation not inconsistent with anything herein contained may be enacted to facilitate the operation of its provisions"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article of amendment to the constitution is self-executing",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "legislation not inconsistent with anything herein contained may be enacted to facilitate the operation of its provisions",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "not inconsistent with anything herein contained"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-gen-artiixand8": {
+  "review": {
+   "title": "Articles IX and XLII of amendments annulled",
+   "plain": "Article IX and Article XLII of the amendments of the constitution are annulled.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article IX and Article XLII of the amendments of the constitution are hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend49": {
+  "review": {
+   "title": "Conservation of natural resources",
+   "plain": "Annulled: It declared the conservation, development and utilization of the commonwealth's natural resources public uses, and gave the general court power to provide for taking lands and interests, upon payment of just compensation, for that purpose. A note says it was superseded by Amendments, Art. XCVII.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The conservation, development and utilization of the agricultural, mineral, forest, water and other natural resources of the commonwealth are public uses",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XCVII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the general court shall have power to provide for the taking, upon payment of just compensation therefor, of lands and easements or interests therein, including water and mineral rights, for the purpose of securing and promoting the proper conservation, development, utilization and control thereof and to enact legislation necessary or expedient therefor",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "upon payment of just compensation therefor"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XCVII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend50": {
+  "review": {
+   "title": "Regulating advertising",
+   "plain": "Advertising on public ways, in public places and on private property within public view may be regulated and restricted by law.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "may be regulated and restricted by law"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Advertising on public ways, in public places and on private property within public view may be regulated and restricted by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend51": {
+  "review": {
+   "title": "Preserving historical landmarks",
+   "plain": "Preserving ancient landmarks and other property of historical or antiquarian interest is a public use, and the commonwealth and its cities and towns may take such property, upon payment of just compensation, under regulations the general court prescribes.",
+   "category": "Local Government",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the commonwealth and the cities and towns therein may, upon payment of just compensation, take such property or any interest therein"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The preservation and maintenance of ancient landmarks and other property of historical or antiquarian interest is a public use",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the commonwealth and the cities and towns therein may, upon payment of just compensation, take such property or any interest therein under such regulations as the general court may prescribe",
+     "holder": "The commonwealth and the cities and towns therein",
+     "binds": null,
+     "requires": [
+      "upon payment of just compensation",
+      "under such regulations as the general court may prescribe"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend52": {
+  "review": {
+   "title": "Recesses of the general court",
+   "plain": "Annulled: It let the general court, by concurrent vote of the two houses, take recesses amounting to not more than thirty days, none extending beyond the sixtieth day from their first assembling. A note says it was superseded by Amendments, Art. CII.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court, by concurrent vote of the two houses, may take a recess or recesses amounting to not more than thirty days",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "by concurrent vote of the two houses"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. CII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no such recess shall extend beyond the sixtieth day from the date of their first assembling",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [
+      "a recess extending beyond the sixtieth day from the date of their first assembling"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. CII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend53": {
+  "review": {
+   "title": "Appointing and removing military officers",
+   "plain": "Annuls earlier provisions and adopts a new Article X: military and naval officers are selected, appointed and removed as the general court prescribes by law, but none is appointed without passing an examination or serving one year; the governor commissions officers entitled to commissions.",
+   "category": "Military & Militia",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "may be removed in such manner as the general court may by law prescribe"
+   ],
+   "limits": [
+    "no such officer shall be appointed unless"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article X of Section I of Chapter II of the constitution , the last two paragraphs of Article IV of the articles of amendment, relating to the appointment of a commissary general and the removal of militia officers, and Article V of the articles of amendment are hereby annulled, and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All military and naval officers shall be selected and appointed and may be removed in such manner as the general court may by law prescribe",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no such officer shall be appointed unless he shall have passed an examination prepared by a competent commission or shall have served one year in either the federal or state militia or in military service",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "appointing an officer who has not passed an examination prepared by a competent commission or served one year in either the federal or state militia or in military service"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless he shall have passed an examination prepared by a competent commission or shall have served one year in either the federal or state militia or in military service"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "All such officers who are entitled by law to receive commissions shall be commissioned by the governor",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend54": {
+  "review": {
+   "title": "Military and naval forces and the commander-in-chief",
+   "plain": "Annuls an earlier article and adopts a new Article VII: the general court provides by law for the military and naval forces; the governor is commander-in-chief, may assemble and employ them, and may, as authorized by the general court, prescribe their organization and regulations.",
+   "category": "Military & Militia",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The governor shall be the commander-in-chief thereof",
+    "shall have power to assemble the whole or any part of them for training, instruction or parade",
+    "to employ them for the suppression of rebellion, the repelling of invasion, and the enforcement of the laws",
+    "prescribe from time to time the organization of the military and naval forces and make regulations for their government"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article VII of Section I of Chapter II of the constitution is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The general court shall provide by law for the recruitment, equipment, organization, training and discipline of the military and naval forces",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor shall be the commander-in-chief thereof, and shall have power to assemble the whole or any part of them for training, instruction or parade, and to employ them for the suppression of rebellion, the repelling of invasion, and the enforcement of the laws",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "He may, as authorized by the general court, prescribe from time to time the organization of the military and naval forces and make regulations for their government",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as authorized by the general court"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend55": {
+  "review": {
+   "title": "Succession when governor and lieutenant-governor are vacant",
+   "plain": "Annuls an earlier article and provides that when both the offices of governor and lieutenant-governor are vacant, the secretary, attorney-general, treasurer and receiver-general, and auditor, in that order, have full power to do what the governor or lieutenant-governor could lawfully do.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "have full power and authority to do and execute all and every such acts, matters and things as the governor or the lieutenant-governor might or could lawfully do or execute"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article VI of Section III of Chapter II of the constitution is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "one of the following officers, in the order of succession herein named, namely, the secretary, attorney-general, treasurer and receiver-general, and auditor, shall, during such vacancy, have full power and authority to do and execute all and every such acts, matters and things as the governor or the lieutenant-governor might or could lawfully do or execute, if they, or either of them, were personally present",
+     "holder": "The secretary, attorney-general, treasurer and receiver-general, and auditor, in the order of succession herein named",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever the offices of governor and lieutenant-governor shall both be vacant, by reason of death, absence from the commonwealth, or otherwise"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend56": {
+  "review": {
+   "title": "Governor returning bills with recommended amendments",
+   "plain": "Annulled: It gave the governor, within five days, the right to return a bill or resolve to its originating branch recommending amendments; if re-enacted in any form it went back to the governor, who could not return it a second time. A note says it was superseded.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor, within five days after any bill or resolve shall have been laid before him, shall have the right to return it to the branch of the general court in which it originated with a recommendation that any amendment or amendments specified by him be made therein",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "within five days after any bill or resolve shall have been laid before him"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XC, Sec. 3."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such bill or resolve shall thereupon be before the general court and subject to amendment and re-enactment. If such bill or resolve is re-enacted in any form it shall again be laid before the governor for his action",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XC, Sec. 3."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "he shall have no right to return the same a second time with a recommendation to amend",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [
+      "returning the same a second time with a recommendation to amend"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XC, Sec. 3."
+     ]
+    }
+   ]
+  }
+ },
+ "amend57": {
+  "review": {
+   "title": "Women eligible as notaries public",
+   "plain": "Amends Article IV of the articles of amendment by adding that women shall be eligible to appointment as notaries public. The bracketed sentence on change of name voiding the commission is printed as superseded.",
+   "category": "Equality & Citizenship",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [
+    "Women shall be eligible to appointment as notaries public"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article IV of the articles of amendment of the constitution of the commonwealth is hereby amended by adding thereto the following words",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Women shall be eligible to appointment as notaries public",
+     "holder": "Women",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Change of name shall render the commission void, but shall not prevent reappointment under the new name",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend58": {
+  "review": {
+   "title": "Retiring officers for age or disability",
+   "plain": "Annulled: It amended Article I of Chapter III of Part the Second to let the governor, with the consent of the council, after due notice and hearing, retire such officers because of advanced age or mental or physical disability. A note says it was superseded.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article I of Chapter III of Part the Second of the constitution is hereby amended by the addition of the following words",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XCVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the governor, with the consent of the council, may after due notice and hearing retire them because of advanced age or mental or physical disability",
+     "holder": "The governor, with the consent of the council",
+     "binds": null,
+     "requires": [
+      "after due notice and hearing"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XCVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such retirement shall be subject to any provisions made by law as to pensions or allowances payable to such officers upon their voluntary retirement",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XCVIII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend59": {
+  "review": {
+   "title": "Charters subject to revocation and amendment",
+   "plain": "Every charter, franchise or act of incorporation shall forever remain subject to revocation and amendment.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "shall forever remain subject to revocation and amendment"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Every charter, franchise or act of incorporation shall forever remain subject to revocation and amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend60": {
+  "review": {
+   "title": "Limiting buildings to districts",
+   "plain": "The general court has power to limit buildings, according to their use or construction, to specified districts of cities and towns.",
+   "category": "Local Government",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The general court shall have power to limit buildings according to their use or construction to specified districts of cities and towns"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have power to limit buildings according to their use or construction to specified districts of cities and towns",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend61": {
+  "review": {
+   "title": "Compulsory voting and secret voting",
+   "plain": "The general court has authority to provide for compulsory voting at elections, but the right of secret voting shall be preserved.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [
+    "the right of secret voting"
+   ],
+   "powers": [
+    "shall have authority to provide for compulsory voting at elections"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have authority to provide for compulsory voting at elections",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the right of secret voting shall be preserved",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the right of secret voting shall be preserved"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend62": {
+  "review": {
+   "title": "Credit and borrowing of the commonwealth",
+   "plain": "Annulled: It barred lending the commonwealth's credit to individuals, private associations or privately owned corporations; let it borrow to repel invasion, suppress insurrection, defend itself or assist the United States in war, or in anticipation of revenue; otherwise required a two-thirds vote; and limited use of borrowed money. A note says it was superseded.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "limit",
+     "what": "The credit of the commonwealth shall not in any manner be given or loaned to or in aid of any individual, or of any private association, or of any corporation which is privately owned and managed",
+     "holder": null,
+     "binds": "The commonwealth",
+     "requires": [],
+     "forbids": [
+      "giving or loaning the credit of the commonwealth to or in aid of any individual, or of any private association, or of any corporation which is privately owned and managed"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXXIV."
+     ]
+    },
+    {
+     "where": "Section 2",
+     "kind": "power",
+     "what": "The commonwealth may borrow money to repel invasion, suppress insurrection, defend the commonwealth, or to assist the United States in case of war, and may also borrow money in anticipation of receipts from taxes or other sources",
+     "holder": "The commonwealth",
+     "binds": null,
+     "requires": [
+      "such loan to be paid out of the revenue of the year in which it is created"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXXIV."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "limit",
+     "what": "In addition to the loans which may be contracted as before provided, the commonwealth may borrow money only by a vote, taken by the yeas and nays, of two-thirds of each house of the general court present and voting thereon",
+     "holder": null,
+     "binds": "The commonwealth",
+     "requires": [
+      "a vote, taken by the yeas and nays, of two-thirds of each house of the general court present and voting thereon"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXXIV."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "duty",
+     "what": "The governor shall recommend to the general court the term for which any loan shall be contracted",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXXIV."
+     ]
+    },
+    {
+     "where": "Section 4",
+     "kind": "limit",
+     "what": "Borrowed money shall not be expended for any other purpose than that for which it was borrowed or for the reduction or discharge of the principal of the loan",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "expending borrowed money for any other purpose than that for which it was borrowed or for the reduction or discharge of the principal of the loan"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXXIV."
+     ]
+    }
+   ]
+  }
+ },
+ "amend63": {
+  "review": {
+   "title": "Revenue, budget and appropriations",
+   "plain": "Annulled: It required all money received to be paid into the treasury, a budget from the governor within three weeks, a single general appropriation bill, and special appropriation bills only as provided, and let the governor disapprove or reduce items. A note says it was annulled by Amendments, Art. CVII.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "duty",
+     "what": "All money received on account of the commonwealth from any source whatsoever shall be paid into the treasury thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "Within three weeks after the convening of the general court the governor shall recommend to the general court a budget which shall contain a statement of all proposed expenditures of the commonwealth for the fiscal year, including those already authorized by law, and of all taxes, revenues, loans and other means by which such expenditures shall be defrayed",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 2",
+     "kind": "power",
+     "what": "For the purpose of preparing his budget, the governor shall have power to require any board, commission, officer, or department to furnish him with any information which he may deem necessary",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "All appropriations based upon the budget to be paid from taxes or revenues shall be incorporated in a single bill which shall be called the general appropriation bill",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "power",
+     "what": "The general court may increase, decrease, add or omit items in the budget. The general court may provide for its salaries, mileage, and expenses and for necessary expenditures in anticipation of appropriations",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "limit",
+     "what": "before final action on the general appropriation bill it shall not enact any other appropriation bill except on recommendation of the governor",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [
+      "enacting any other appropriation bill before final action on the general appropriation bill"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except on recommendation of the governor"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "power",
+     "what": "The governor may at any time recommend to the general court supplementary budgets which shall be subject to the same procedures as the original budget",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "After final action on the general appropriation bill or on recommendation of the governor, special appropriation bills may be enacted. Such bills shall provide the specific means for defraying the appropriations therein contained",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Such bills shall provide the specific means for defraying the appropriations therein contained"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 5",
+     "kind": "power",
+     "what": "The governor may disapprove or reduce items or parts of items in any bill appropriating money. So much of such bill as he approves shall upon his signing the same become law",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 5",
+     "kind": "duty",
+     "what": "As to each item disapproved or reduced, he shall transmit to the house in which the bill originated his reason for such disapproval or reduction, and the procedure shall then be the same as in the case of a bill disapproved as a whole",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    },
+    {
+     "where": "Section 5",
+     "kind": "structure",
+     "what": "In case he shall fail so to transmit his reasons for such disapproval or reduction within five days after the bill shall have been presented to him, such items shall have the force of law unless the general court by adjournment shall prevent such transmission, in which case they shall not be law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the general court by adjournment shall prevent such transmission, in which case they shall not be law"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVII."
+     ]
+    }
+   ]
+  }
+ }
+}

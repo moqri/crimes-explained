@@ -1,0 +1,1014 @@
+{
+ "p2-c3-a1": {
+  "review": {
+   "title": "Tenure and removal of judicial officers",
+   "plain": "Annulled: This article required each commission officer's tenure to be expressed in his commission, and let judicial officers hold office during good behavior, though the governor, with consent of the council, could remove them upon the address of both houses. A note says Amendments, Art. XCVIII annulled it.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The tenure, that all commission officers shall by law have in their offices, shall be expressed in their respective commissions",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XCVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All judicial officers, duly appointed, commissioned and sworn, shall hold their offices during good behavior",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "excepting such concerning whom there is different provision made in this constitution"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XCVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the governor, with consent of the council, may remove them upon the address of both houses of the legislature",
+     "holder": "The governor, with consent of the council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon the address of both houses of the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XCVIII."
+     ]
+    }
+   ]
+  }
+ },
+ "p2-c3-a2": {
+  "review": {
+   "title": "Opinions of the justices",
+   "plain": "Annulled: This article gave each branch of the legislature, and the governor and council, authority to require the opinions of the justices of the supreme judicial court upon important questions of law and upon solemn occasions. A note says Amendments, Art. LXXXV amended and superseded it.",
+   "category": "The Courts",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each branch of the legislature, as well as the governor and council, shall have authority to require the opinions of the justices of the supreme judicial court, upon important questions of law, and upon solemn occasions",
+     "holder": "Each branch of the legislature, and the governor and council",
+     "binds": "The justices of the supreme judicial court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Amended and superseded by Amendments, Art. LXXXV"
+     ]
+    }
+   ]
+  }
+ },
+ "p2-c3-a3": {
+  "review": {
+   "title": "Seven-year commissions for justices of the peace",
+   "plain": "So the people do not suffer from justices of the peace who fail in their duties staying long in place, all their commissions expire and become void seven years from their dates; an expired commission may be renewed, or another person appointed, as best serves the commonwealth.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "all commissions of justices of the peace shall expire and become void, in the term of seven years from their respective dates"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "all commissions of justices of the peace shall expire and become void, in the term of seven years from their respective dates",
+     "holder": null,
+     "binds": "Commissions of justices of the peace",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "upon the expiration of any commission, the same may, if necessary, be renewed, or another person appointed, as shall most conduce to the well-being of the commonwealth",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon the expiration of any commission",
+      "if necessary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c3-a4": {
+  "review": {
+   "title": "Times and places of probate courts",
+   "plain": "Judges of probate shall hold their courts at places and on fixed days as the people's convenience requires, and the legislature shall appoint those times and places; until it does, the courts are held where and when the judges direct.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the legislature shall, from time to time, hereafter appoint such times and places"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The judges of probate of wills, and for granting letters of administration, shall hold their courts at such place or places, on fixed days, as the convenience of the people shall require",
+     "holder": null,
+     "binds": "The judges of probate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature shall, from time to time, hereafter appoint such times and places",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "until which appointments, the said courts shall be holden at the times and places which the respective judges shall direct",
+     "holder": "The respective judges",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "until which appointments"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c3-a5": {
+  "review": {
+   "title": "Marriage, divorce and probate appeals",
+   "plain": "All causes of marriage, divorce and alimony, and all appeals from the judges of probate, shall be heard and determined by the governor and council until the legislature, by law, makes other provision.",
+   "category": "The Courts",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "shall be heard and determined by the governor and council"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All causes of marriage, divorce, and alimony, and all appeals from the judges of probate shall be heard and determined by the governor and council",
+     "holder": "The governor and council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "until the legislature shall, by law, make other provision"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature shall, by law, make other provision",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c4": {
+  "review": {
+   "title": "Delegates to Congress",
+   "plain": "Annulled: This chapter had the senate and house, by joint ballot in one room, elect the commonwealth's delegates to the congress of the United States each June for one-year terms, subject to recall. A note says the adoption of the Constitution of the United States annulled it.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The delegates of this commonwealth to the congress of the United States, shall, some time in the month of June annually, be elected by the joint ballot of the senate and house of representatives, assembled together in one room; to serve in congress for one year, to commence on the first Monday in November then next ensuing",
+     "holder": "The senate and house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by the adoption of the Constitution of the United States, July 26, 1788."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "They shall have commissions under the hand of the governor, and the great seal of the commonwealth",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by the adoption of the Constitution of the United States, July 26, 1788."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "may be recalled at any time within the year, and others chosen and commissioned, in the same manner, in their stead",
+     "holder": "The senate and house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by the adoption of the Constitution of the United States, July 26, 1788."
+     ]
+    }
+   ]
+  }
+ },
+ "p2-c5-s1-a1": {
+  "review": {
+   "title": "Rights of Harvard College confirmed",
+   "plain": "Citing Harvard College's founding and the value of arts, sciences and literature, it declares that the President and Fellows of Harvard College, their successors, officers and servants keep all their existing powers, rights, privileges, immunities and franchises, ratified and confirmed forever.",
+   "category": "Education & Religion",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "all the powers, authorities, rights, liberties, privileges, immunities and franchises, which they now have or are entitled to have"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the President and Fellows of Harvard College,in their corporate capacity, and their successors in that capacity, their officers and servants, shall have, hold, use, exercise and enjoy, all the powers, authorities, rights, liberties, privileges, immunities and franchises, which they now have or are entitled to have, hold, use, exercise and enjoy: and the same are hereby ratified and confirmed unto them",
+     "holder": "The President and Fellows of Harvard College, their successors, officers and servants",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c5-s1-a2": {
+  "review": {
+   "title": "Gifts to Harvard College confirmed",
+   "plain": "All past gifts, grants, devises, legacies and conveyances made to Harvard College, or to its president and fellows under any description, are forever confirmed to the president and fellows and their successors, according to the true intent of the donors, grantors and devisors.",
+   "category": "Education & Religion",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "are hereby forever confirmed unto the president and fellows of Harvard College"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "all the said gifts, grants, devises, legacies and conveyances, are hereby forever confirmed unto the president and fellows of Harvard College, and to their successors in the capacity aforesaid, according to the true intent and meaning of the donor or donors, grantor or grantors, devisor or devisors",
+     "holder": "The president and fellows of Harvard College and their successors",
+     "binds": null,
+     "requires": [
+      "according to the true intent and meaning of the donor or donors, grantor or grantors, devisor or devisors"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c5-s1-a3": {
+  "review": {
+   "title": "Legislature may alter Harvard's government",
+   "plain": "Nothing prevents the legislature from making alterations in the government of the university at Cambridge that are conducive to its advantage and the interest of the republic of letters. Bracketed wording naming the overseers of Harvard College is printed as superseded.",
+   "category": "Education & Religion",
+   "kind": "Power",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "making such alterations in the government of the said university"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "nothing herein shall be construed to prevent the legislature of this commonwealth from making such alterations in the government of the said university, as shall be conducive to its advantage and the interest of the republic of letters, in as full a manner as might have been done by the legislature of the late Province of the Massachusetts Bay",
+     "holder": "The legislature of this commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as shall be conducive to its advantage and the interest of the republic of letters"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c5-s2": {
+  "review": {
+   "title": "Duty to cherish literature and sciences",
+   "plain": "Because wisdom, knowledge and virtue spread among the people preserve their rights and liberties, legislatures and magistrates must cherish literature, the sciences and schools, especially the university at Cambridge, encourage institutions promoting agriculture, arts, sciences and commerce, and inculcate humanity, charity, industry and honesty.",
+   "category": "Education & Religion",
+   "kind": "Duty",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "it shall be the duty of legislatures and magistrates, in all future periods of this commonwealth, to cherish the interests of literature and the sciences, and all seminaries of them; especially the university at Cambridge, public schools and grammar schools in the towns",
+     "holder": null,
+     "binds": "Legislatures and magistrates",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "to encourage private societies and public institutions, rewards and immunities, for the promotion of agriculture, arts, sciences, commerce, trades, manufactures, and a natural history of the country",
+     "holder": null,
+     "binds": "Legislatures and magistrates",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "to countenance and inculcate the principles of humanity and general benevolence, public and private charity, industry and frugality, honesty and punctuality in their dealings; sincerity, good humor, and all social affections, and generous sentiments among the people",
+     "holder": null,
+     "binds": "Legislatures and magistrates",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a1": {
+  "review": {
+   "title": "Oaths of office",
+   "plain": "Every person chosen governor, lieutenant governor, councillor, senator or representative, and every appointed judicial, executive, military or other officer, must take and subscribe an oath or affirmation to faithfully discharge the office's duties. Quakers may affirm instead. Bracketed declarations and oaths are printed as superseded.",
+   "category": "The Governor & Executive",
+   "kind": "Duty",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "every person chosen to either of the places or offices aforesaid, as also any person appointed or commissioned to any judicial, executive, military, or other office under the government, shall, before he enters on the discharge of the business of his place or office, take and subscribe the following declaration, and oaths or affirmations",
+     "holder": null,
+     "binds": "Every person chosen or appointed to office",
+     "requires": [
+      "\"I, A. B., do solemnly swear and affirm, that I will faithfully and impartially discharge and perform all the duties incumbent on me as : according to the best of my abilities and understanding, agreeably, to the rules and regulations of the constitution, and the laws of this commonwealth -- So help me, God.\""
+     ],
+     "forbids": [],
+     "conditions": [
+      "before he enters on the discharge of the business of his place or office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "when any person chosen or appointed as aforesaid, shall be of the denomination of the people called Quakers, and shall decline taking the said oath, he shall make his affirmation in the foregoing form, and subscribe the same, omitting the words \"swear and,\" and the words \"So help me, God;\" subjoining instead thereof, \"This I do under the pains and penalties of perjury.\"",
+     "holder": "Persons of the denomination of the people called Quakers",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "shall be of the denomination of the people called Quakers, and shall decline taking the said oath"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the said oaths or affirmations shall be taken and subscribed by the governor, lieutenant governor, and councillors, before the president of the senate, in the presence of the two houses of assembly; and by the senators and representatives first elected under this constitution, before the president and five of the council of the former constitution; and forever afterwards before the governor and council for the time being",
+     "holder": null,
+     "binds": "The governor, lieutenant governor, councillors, senators and representatives",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "by the residue of the officers aforesaid, before such persons and in such manner as from time to time shall be prescribed by the legislature",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a2": {
+  "review": {
+   "title": "Offices that cannot be held together",
+   "plain": "The governor, lieutenant governor and supreme judicial court judges may hold no other office or take pay from another government; no one may hold more than one of certain offices or more than two appointed or elected offices; listed officers cannot sit in the legislature; those convicted of election bribery are barred.",
+   "category": "The Governor & Executive",
+   "kind": "Limit",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall hold any other office or place, under the authority of this commonwealth",
+    "nor shall they hold any other place or office, or receive any pension or salary from any other state or government or power whatever",
+    "No person shall be capable of holding or exercising at the same time, within this state more than one of the following offices",
+    "shall at the same time have a seat in the senate or house of representatives",
+    "no person shall ever be admitted to hold a seat in the legislature, or any office of trust or importance under the government of this commonwealth"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No governor, lieutenant governor, or judge of the supreme judicial court, shall hold any other office or place, under the authority of this commonwealth",
+     "holder": null,
+     "binds": "The governor, lieutenant governor, and judges of the supreme judicial court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except such as by this constitution they are admitted to hold",
+      "saving that the judges of the said court may hold the offices of justices of the peace through the state"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor shall they hold any other place or office, or receive any pension or salary from any other state or government or power whatever",
+     "holder": null,
+     "binds": "The governor, lieutenant governor, and judges of the supreme judicial court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person shall be capable of holding or exercising at the same time, within this state more than one of the following offices, viz. -- judge of probate -- sheriff -- register of probate -- or register of deeds",
+     "holder": null,
+     "binds": "No person",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "never more than any two offices which are to be held by appointment of the governor, or the governor and council, or the senate, or the house of representatives, or by the election of the people of the state at large, or of the people of any county, shall be held by one person",
+     "holder": null,
+     "binds": "No person",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "military offices and the offices of justices of the peace excepted"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person holding the office of judge of the supreme judicial court -- secretary -- attorney-general -- solicitor-general -- treasurer or receiver-general -- judge of probate -- commissary-general -- sheriff -- clerk of the house of representatives -- register of probate -- register of deeds -- clerk of the supreme judicial court -- clerk of the inferior court of common pleas -- or officer of the customs, including in this description naval officers -- shall at the same time have a seat in the senate or house of representatives",
+     "holder": null,
+     "binds": "Holders of the listed offices",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "their being chosen or appointed to, and accepting the same, shall operate as a resignation of their seat in the senate or house of representatives; and the place so vacated shall be filled up",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "the same rule shall take place in case any judge of the said supreme judicial court, or judge of probate, shall accept a seat in council; or any councillor shall accept of either of those offices or places",
+     "holder": null,
+     "binds": "Judges of the supreme judicial court, judges of probate, and councillors",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no person shall ever be admitted to hold a seat in the legislature, or any office of trust or importance under the government of this commonwealth, who shall, in the due course of law, have been convicted of bribery or corruption in obtaining an election or appointment",
+     "holder": null,
+     "binds": "No person",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "who shall, in the due course of law, have been convicted of bribery or corruption in obtaining an election or appointment"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a3": {
+  "review": {
+   "title": "Value of money and property qualifications",
+   "plain": "Superseded: It provided that sums of money mentioned in the constitution be computed in silver at six shillings and eight pence per ounce, and gave the legislature power to increase property qualifications for persons elected to office.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In all cases where sums of money are mentioned in this constitution, the value thereof shall be computed in silver at six shillings and eight pence per ounce",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "it shall be in the power of the legislature, from time to time, to increase such qualifications, as to property, of the persons to be elected to offices, as the circumstances of the commonwealth shall require",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a4": {
+  "review": {
+   "title": "Form of commissions",
+   "plain": "All commissions shall be in the name of the Commonwealth of Massachusetts, signed by the governor, attested by the secretary or his deputy, and have the great seal of the commonwealth affixed.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All commissions shall be in the name of the Commonwealth of Massachusetts, signed by the governor and attested by the secretary or his deputy, and have the great seal of the commonwealth affixed thereto",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "in the name of the Commonwealth of Massachusetts",
+      "signed by the governor",
+      "attested by the secretary or his deputy",
+      "have the great seal of the commonwealth affixed thereto"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a5": {
+  "review": {
+   "title": "Form of writs",
+   "plain": "All writs from the clerk's office of any court of law shall be in the name of the Commonwealth of Massachusetts, under the seal of the issuing court, bear test of the first justice of the returnable court who is not a party, and be signed by its clerk.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All writs issuing out of the clerk's office in any of the courts of law, shall be in the name of the Commonwealth of Massachusetts",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "in the name of the Commonwealth of Massachusetts",
+      "under the seal of the court from whence they issue",
+      "bear test of the first justice of the court to which they shall be returnable, who is not a party",
+      "be signed by the clerk of such court"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a6": {
+  "review": {
+   "title": "Earlier laws remain in force",
+   "plain": "Laws adopted, used and approved in the Province, Colony or State of Massachusetts Bay and practiced in the courts remain in full force until altered or repealed by the legislature, except parts repugnant to the rights and liberties in this constitution.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "altered or repealed by the legislature"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the laws which have heretofore been adopted, used and approved in the Province, Colony or State of Massachusetts Bay, and usually practiced on in the courts of law, shall still remain and be in full force, until altered or repealed by the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "such parts only excepted as are repugnant to the rights and liberties contained in this constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "altered or repealed by the legislature",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a7": {
+  "review": {
+   "title": "Writ of habeas corpus",
+   "plain": "The privilege and benefit of the writ of habeas corpus shall be enjoyed in the most free, easy, cheap, expeditious and ample manner, and the legislature may not suspend it except on the most urgent and pressing occasions, for no more than twelve months.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "The privilege and benefit of the writ of habeas corpus"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be suspended by the legislature"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The privilege and benefit of the writ of habeas corpus shall be enjoyed in this commonwealth in the most free, easy, cheap, expeditious and ample manner",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "shall not be suspended by the legislature",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Suspending the privilege and benefit of the writ of habeas corpus"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except upon the most urgent and pressing occasions, and for a limited time not exceeding twelve months"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a8": {
+  "review": {
+   "title": "Enacting style of laws",
+   "plain": "All acts, statutes and laws must use the enacting style: \"Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same.\"",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The enacting style, in making and passing all acts, statutes and laws, shall be -- \"Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same.\"",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a9": {
+  "review": {
+   "title": "Officers continue until replaced",
+   "plain": "Superseded: It provided that, when this constitution took effect, existing civil and military officers, courts and executive and legislative bodies would keep their powers and continue their business until replacements were appointed and the general court and officers under this constitution were invested with their powers.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all officers, civil and military, holding commissions under the government and people of Massachusetts Bay in New England, and all other officers of the said government and people, at the time this constitution shall take effect, shall have, hold, use, exercise and enjoy, all the powers and authority to them granted or committed, until other persons shall be appointed in their stead",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "until other persons shall be appointed in their stead"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all courts of law shall proceed in the execution of the business of their respective departments; and all the executive and legislative officers, bodies and powers shall continue in full force, in the enjoyment and exercise of all their trusts, employments and authority",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "until the general court and the supreme and executive officers under this constitution are designated and invested with their respective trusts powers and authority"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c6-a10": {
+  "review": {
+   "title": "Revising the constitution in 1795",
+   "plain": "Annulled: This article had the general court of 1795 direct towns and plantations to poll qualified voters on revising the constitution, and, if two thirds favored it, issue precepts for electing delegates to a convention, chosen like representatives. A note says Amendments, Art. XLVIII annulled it.",
+   "category": "Amending & Ratifying",
+   "kind": "Duty",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the general court which shall be in the year of our Lord one thousand seven hundred and ninety-five, shall issue precepts to the selectmen of the several towns, and to the assessors of the unincorporated plantations, directing them to convene the qualified voters of their respective towns and plantations, for the purpose of collecting their sentiments on the necessity or expediency of revising the constitution, in order to amendments",
+     "holder": null,
+     "binds": "The general court of 1795",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XLVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the general court shall issue precepts, or direct them to be issued from the secretary's office to the several towns to elect delegates to meet in convention for the purpose aforesaid",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if it shall appear by the returns made, that two thirds of the qualified voters throughout the state, who shall assemble and vote in consequence of the said precepts, are in favor of such revision or amendment"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XLVIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The said delegates to be chosen in the same manner and proportion as their representatives in the second branch of the legislature are by this constitution to be chosen",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XLVIII."
+     ]
+    }
+   ]
+  }
+ }
+}

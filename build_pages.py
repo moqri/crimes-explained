@@ -16,9 +16,10 @@ SERVER = "http://localhost:8000/"                         # a local server must 
 
 index = open(os.path.join(HERE, "index.html"), encoding="utf-8").read()
 JURSEL = sys.argv[sys.argv.index("--jur") + 1] if "--jur" in sys.argv else "us"
-MA, CA, NY, CON = JURSEL == "ma", JURSEL == "ca", JURSEL == "ny", JURSEL == "con"
-STATE = MA or CA or NY or CON                                   # a list page generated from index.html (a state, or the Constitution)
-DIR = "constitution" if CON else JURSEL                         # the folder its pages go in
+MA, CA, NY = JURSEL == "ma", JURSEL == "ca", JURSEL == "ny"
+CON, MACON = JURSEL in ("con", "macon"), JURSEL == "macon"      # a constitution: the U.S. ("con") or Massachusetts ("macon")
+STATE = MA or CA or NY or CON                                   # a list page generated from index.html (a state, or a constitution)
+DIR = "ma/constitution" if MACON else "constitution" if CON else JURSEL   # the folder its pages go in
 
 # Massachusetts list page: index.html with its own header, about text and footer (the regions marked <!-- jur:… -->).
 # The header names the chapters included so far, e.g. "Chapters 265 (Crimes Against the Person) and 266 (Crimes Against Property)".
@@ -29,7 +30,7 @@ if MA:
 chap_link = lambda n, t: f'<a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter{n}" target="_blank" rel="noopener" title="Chapter {n}: official text on malegislature.gov">{"Chapter" if len(ma_chapters) == 1 else ""} {n} ({t})</a>'.replace("> ", ">")
 chap_list = (lambda xs: xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1])([chap_link(n, t) for n, t in ma_chapters.items()]) if ma_chapters else ""
 MA_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="../constitution/">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="constitution/">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav>',
     "lede": f'<p class="lede">Every crime in {"" if len(ma_chapters) == 1 else "chapters "}{chap_list} of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
     "about": """
           <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
@@ -93,7 +94,7 @@ NY_REGIONS = {
 # The Constitution of the United States (--jur con): constitution/index.html and constitution/<provision>.html.
 CON_SRC = "https://www.govinfo.gov/content/pkg/CDOC-110hdoc50/html/CDOC-110hdoc50.htm"
 CON_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">United States</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">United States</a><a href="../ma/constitution/">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every provision of the <a href="{CON_SRC}" target="_blank" rel="noopener" title="The Constitution of the United States of America, As Amended (House Document 110-50): official text on GovInfo">Constitution of the United States</a> and its 27 amendments<span id="crimecount"></span></p>',
     "about": """
           <p>The Constitution of the United States in its official text, annotated. Each provision is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
@@ -110,14 +111,34 @@ CON_REGIONS = {
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer.</p>
   """,
 }
+# The Constitution of the Commonwealth of Massachusetts (--jur macon): ma/constitution/index.html and ma/constitution/<provision>.html.
+MACON_SRC = "https://malegislature.gov/Laws/Constitution"
+MACON_REGIONS = {
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="./" aria-current="page">Massachusetts</a></nav>',
+    "lede": f'<p class="lede">Every provision of the <a href="{MACON_SRC}" target="_blank" rel="noopener" title="The Constitution of the Commonwealth of Massachusetts: official text on malegislature.gov">Constitution of the Commonwealth of Massachusetts</a>: the Declaration of Rights, the Frame of Government and the Articles of Amendment<span id="crimecount"></span></p>',
+    "about": """
+          <p>The Massachusetts Constitution of 1780, the oldest written constitution still in use, in its official text and annotated. Each provision is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
+          <ul>
+      <li><b>Select any provision</b> to open its own page with the official text beside a breakdown: each right, power, limit or duty in it, who holds it, who is bound, what it requires or forbids, its conditions and exceptions, and any note of the Legislature that it was annulled, superseded or amended. Breakdowns use only the provision's own text.</li>
+      <li>In the official text, <span class="right">rights</span> are green, <span class="power">grants of power</span> are highlighted in orange, <span class="limit">limits</span> on government are red, and conditions by their <span class="condw">if</span> or <span class="condw">unless</span> are purple italics.</li>
+      <li>Words in [square brackets] are printed that way by the Legislature to show wording that was later superseded; the Legislature's own notes ("Annulled by Amendments, Art. CVI", "See Amendments, Arts. XLVI and XLVIII") appear under the text and link to the articles they name. Provisions marked <b>Annulled</b> or <b>Partly superseded</b> say so on their cards.</li>
+      <li><span class="term" tabindex="0" style="cursor:default">Dotted-underlined words</span> are legal terms. Tap or hover to see what they mean.</li>
+      <li>The colored bar on each card shows the provision's main kind: a right, a power, a limit, a duty, or structure (offices, terms, elections and procedures).</li>
+    </ul>
+        """,
+    "footer": f"""
+    <p>Text of the Constitution and the bracketed notes are from the <a id="srclink" href="{MACON_SRC}" target="_blank" rel="noopener">Massachusetts Legislature</a> (malegislature.gov), downloaded on the date shown under About. Captions, summaries, topics, statuses, highlighting and breakdowns were prepared with AI assistance and may contain errors, and they describe only the text itself, not how courts have interpreted it; the official text is what counts.</p>
+    <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer.</p>
+  """,
+}
 if STATE:
-    NAME, REGIONS = ("Massachusetts", MA_REGIONS) if MA else ("California", CA_REGIONS) if CA else ("U.S. Constitution", CON_REGIONS) if CON else ("New York", NY_REGIONS)
-    page_src = index.replace('<html lang="en">', '<html lang="en" data-jur="us" data-doc="con">' if CON else f'<html lang="en" data-jur="{JURSEL}">', 1).replace("<title>Crimes Explained: Federal</title>", f"<title>Crimes Explained: {NAME}</title>", 1).replace("<h1>Crimes Explained: Federal</h1>", f"<h1>Crimes Explained: {NAME}</h1>", 1)
-    page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “speech”, “jury”, or “amend14-s1”"' if CON else 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"' if MA else 'placeholder="Search, e.g. “great bodily injury”, “kidnapping”, or “245”"' if CA else 'placeholder="Search, e.g. “strangulation”, “serious physical injury”, or “125.25”"', 1)
+    NAME, REGIONS = ("Massachusetts", MA_REGIONS) if MA else ("California", CA_REGIONS) if CA else ("Massachusetts Constitution", MACON_REGIONS) if MACON else ("U.S. Constitution", CON_REGIONS) if CON else ("New York", NY_REGIONS)
+    page_src = index.replace('<html lang="en">', f'<html lang="en" data-jur="{"ma" if MACON else "us"}" data-doc="con">' if CON else f'<html lang="en" data-jur="{JURSEL}">', 1).replace("<title>Crimes Explained: Federal</title>", f"<title>Crimes Explained: {NAME}</title>", 1).replace("<h1>Crimes Explained: Federal</h1>", f"<h1>Crimes Explained: {NAME}</h1>", 1)
+    page_src = page_src.replace('placeholder="Search, e.g. “identity theft”, “firearm”, or “§ 1001”"', 'placeholder="Search, e.g. “religion”, “general court”, or “decl14”"' if MACON else 'placeholder="Search, e.g. “speech”, “jury”, or “amend14-s1”"' if CON else 'placeholder="Search, e.g. “dangerous weapon”, “strangulation”, or “13A”"' if MA else 'placeholder="Search, e.g. “great bodily injury”, “kidnapping”, or “245”"' if CA else 'placeholder="Search, e.g. “strangulation”, “serious physical injury”, or “125.25”"', 1)
     for name, body in REGIONS.items():
         page_src, n = re.subn(rf"<!-- jur:{name} -->.*?<!-- /jur:{name} -->", lambda m: f"<!-- jur:{name} -->{body}<!-- /jur:{name} -->", page_src, flags=re.S)
         assert n == 1, name
-    page_src = page_src.replace('href="feedback.html"', 'href="../feedback.html"')
+    page_src = page_src.replace('href="feedback.html"', 'href="../../feedback.html"' if MACON else 'href="../feedback.html"')
     os.makedirs(os.path.join(HERE, DIR), exist_ok=True)
     open(os.path.join(HERE, DIR, "index.html"), "w", encoding="utf-8").write(page_src)
 OUT = os.path.join(HERE, DIR) if STATE else os.path.join(HERE, "18")
@@ -211,7 +232,7 @@ if not m or not m.group(1).strip():
 pages = json.loads(html.unescape(m.group(1)))
 
 # 4. Write the pages.
-UP = "../../" if MA else "../"                 # from a section page to the site root
+UP = "../../" if MA or MACON else "../"                 # from a section page to the site root
 LIST = "index.html" if (CA or NY or CON) else "../index.html"  # from a section page to its list page
 # Related crimes (related.py): titles, labels and addresses of every section in every jurisdiction.
 RELATED = json.load(open(os.path.join(HERE, "related.json"))) if os.path.exists(os.path.join(HERE, "related.json")) else {}
@@ -239,12 +260,13 @@ def page(i, p):
     href = lambda q: f'../{q["section"]}.html' if MA else f'{q["section"]}.html'
     short = lambda q: q["label"].split(", ")[-1] if MA else q["label"] if CON else "§ " + q["section"]
     nav = lambda q, label: f'<a href="{href(q)}" rel="{label}">{"‹ " + short(q) if label == "prev" else short(q) + " ›"}</a>' if q else ""
-    law = "U.S. Const. " + p["label"] if CON else "M.G.L. " + p["label"] if MA else f'Cal. Penal Code § {p["section"]}' if CA else f'N.Y. Penal Law § {p["section"]}' if NY else f'18 U.S.C. § {p["section"]}'
+    law = "Mass. Const. " + p["label"] if MACON else "U.S. Const. " + p["label"] if CON else "M.G.L. " + p["label"] if MA else f'Cal. Penal Code § {p["section"]}' if CA else f'N.Y. Penal Law § {p["section"]}' if NY else f'18 U.S.C. § {p["section"]}'
     desc = p["plain"] or (f'{law}, {p["title"]}: official text, color-coded, with each right, power and limit broken out.' if CON else f'{law}, {p["title"]}: official text, color-coded, with each crime broken into its elements.')
     desc = (desc[:157] + "…") if len(desc) > 160 else desc
     title = f'{law}: {p["title"]} · Crimes Explained'
-    back = "Crimes Explained: U.S. Constitution, all" if CON else "Crimes Explained: Massachusetts, all" if MA else "Crimes Explained: California, all" if CA else "Crimes Explained: New York, all" if NY else "Crimes Explained: Federal, all"
-    source = ("Official text from The Constitution of the United States of America, As Amended (House Document 110-50), via GovInfo. Captions are descriptions written for this site; the Constitution has no section headings, and the breakdowns describe only the text, not court interpretations." if CON else
+    back = "Crimes Explained: Massachusetts Constitution, all" if MACON else "Crimes Explained: U.S. Constitution, all" if CON else "Crimes Explained: Massachusetts, all" if MA else "Crimes Explained: California, all" if CA else "Crimes Explained: New York, all" if NY else "Crimes Explained: Federal, all"
+    source = (f'Official text of the Constitution of the Commonwealth of Massachusetts from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}. Captions are descriptions written for this site, and the breakdowns describe only the text, not court interpretations.' if MACON else
+              "Official text from The Constitution of the United States of America, As Amended (House Document 110-50), via GovInfo. Captions are descriptions written for this site; the Constitution has no section headings, and the breakdowns describe only the text, not court interpretations." if CON else
               f'Official text of the Massachusetts General Laws from the Massachusetts Legislature (<a href="{html.escape(p["url"])}">malegislature.gov</a>), downloaded {EDITION_DATE}.'
               if MA else f'Official text of the California Penal Code from the California Legislative Information site (<a href="{html.escape(p["url"])}">leginfo.legislature.ca.gov</a>), downloaded {EDITION_DATE}. Section names are descriptions written for this site; the Penal Code has no official section headings.'
               if CA else f'Official text of the New York Penal Law from the New York State Senate Open Legislation API (<a href="{html.escape(p["url"])}">nysenate.gov</a>), downloaded {EDITION_DATE}. Section names are the official titles.' if NY else "Official text from the United States Code, 2024 edition (current through Jan. 6, 2025), via GovInfo.")
@@ -294,18 +316,18 @@ def page(i, p):
 </html>
 """
 
-EDITION_DATE = re.search(r"downloaded ([\d-]+)", json.load(open(os.path.join(OUT, "crimes.json")))["edition"]).group(1) if STATE and not CON else ""
+EDITION_DATE = re.search(r"downloaded ([\d-]+)", json.load(open(os.path.join(OUT, "crimes.json")))["edition"]).group(1) if STATE and JURSEL != "con" else ""
 for i, p in enumerate(pages):
     path = os.path.join(OUT, f'{p["section"]}.html')
     os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w", encoding="utf-8").write(page(i, p))
 
 # 5. Sitemap (every section page of both jurisdictions) and robots.txt for search engines.
-rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18", "*.html")) + glob.glob(os.path.join(HERE, "ma", "*", "*.html"))
+rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18", "*.html")) + [f for f in glob.glob(os.path.join(HERE, "ma", "*", "*.html")) if os.sep + "constitution" + os.sep not in f]
              + [f for f in glob.glob(os.path.join(HERE, "ca", "*.html")) if not f.endswith("index.html")]
              + [f for f in glob.glob(os.path.join(HERE, "ny", "*.html")) if not f.endswith("index.html")]
-             + [f for f in glob.glob(os.path.join(HERE, "constitution", "*.html")) if not f.endswith("index.html")])
-urls = [BASE_URL, BASE_URL + "feedback.html", BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + ([BASE_URL + "ny/"] if os.path.exists(os.path.join(HERE, "ny", "index.html")) else []) + ([BASE_URL + "constitution/"] if os.path.exists(os.path.join(HERE, "constitution", "index.html")) else []) + [BASE_URL + r for r in rel]
+             + [f for f in glob.glob(os.path.join(HERE, "constitution", "*.html")) + glob.glob(os.path.join(HERE, "ma", "constitution", "*.html")) if not f.endswith("index.html")])
+urls = [BASE_URL, BASE_URL + "feedback.html", BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + ([BASE_URL + "ny/"] if os.path.exists(os.path.join(HERE, "ny", "index.html")) else []) + ([BASE_URL + "constitution/"] if os.path.exists(os.path.join(HERE, "constitution", "index.html")) else []) + ([BASE_URL + "ma/constitution/"] if os.path.exists(os.path.join(HERE, "ma", "constitution", "index.html")) else []) + [BASE_URL + r for r in rel]
 open(os.path.join(HERE, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                                    + "".join(f"  <url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
 open(os.path.join(HERE, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n")

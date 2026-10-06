@@ -1,0 +1,1193 @@
+{
+ "preamble": {
+  "review": {
+   "title": "Preamble: purposes of government",
+   "plain": "Government exists to secure the body politic and let individuals enjoy their natural rights in safety; when it fails, the people have a right to alter it. The people of Massachusetts establish this Declaration of Rights and Frame of Government.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [
+    "the people have a right to alter the government"
+   ],
+   "powers": [
+    "do agree upon, ordain and establish the following Declaration of Rights, and Frame of Government"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The end of the institution, maintenance, and administration of government, is to secure the existence of the body politic, to protect it, and to furnish the individuals who compose it with the power of enjoying in safety and tranquility their natural rights, and the blessings of life",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "whenever these great objects are not obtained, the people have a right to alter the government, and to take measures necessary for their safety, prosperity and happiness",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "whenever these great objects are not obtained"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The body politic is formed by a voluntary association of individuals: it is a social compact, by which the whole people covenants with each citizen, and each citizen with the whole people, that all shall be governed by certain laws for the common good",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It is the duty of the people, in framing a constitution of government, to provide for an equitable mode of making laws, as well as for an impartial interpretation, and a faithful execution of them",
+     "holder": null,
+     "binds": "The people",
+     "requires": [
+      "to provide for an equitable mode of making laws, as well as for an impartial interpretation, and a faithful execution of them"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "We, the people of Massachusetts, do agree upon, ordain and establish the following Declaration of Rights, and Frame of Government, as the Constitution of the Commonwealth of Massachusetts",
+     "holder": "The people of Massachusetts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl1": {
+  "review": {
+   "title": "Natural rights of all people",
+   "plain": "Annulled: This article said all men are born free and equal and have natural, essential and unalienable rights, including enjoying and defending their lives and liberties, acquiring and protecting property, and seeking safety and happiness. A note says it was annulled by Amendments, Art. CVI.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "annulled",
+   "rights": [
+    "the right of enjoying and defending their lives and liberties",
+    "that of acquiring, possessing, and protecting property",
+    "that of seeking and obtaining their safety and happiness"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All men are born free and equal",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVI"
+     ]
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "All men have certain natural, essential, and unalienable rights; among which may be reckoned the right of enjoying and defending their lives and liberties; that of acquiring, possessing, and protecting property; in fine, that of seeking and obtaining their safety and happiness",
+     "holder": "All men",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CVI"
+     ]
+    }
+   ]
+  }
+ },
+ "decl2": {
+  "review": {
+   "title": "Freedom of worship",
+   "plain": "Worshipping the Supreme Being publicly and at stated seasons is the right and duty of all men in society. No subject shall be hurt, molested or restrained for worshipping God as his conscience dictates, or for his religious profession or sentiments, if he does not disturb the public peace or others' worship.",
+   "category": "Education & Religion",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "for worshipping God in the manner and season most agreeable to the dictates of his own conscience",
+    "for his religious profession or sentiments"
+   ],
+   "powers": [],
+   "limits": [
+    "no subject shall be hurt, molested, or restrained, in his person, liberty, or estate"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "It is the right as well as the duty of all men in society, publicly, and at stated seasons to worship the Supreme Being, the great Creator and Preserver of the universe",
+     "holder": "All men in society",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It is the duty of all men in society, publicly, and at stated seasons to worship the Supreme Being",
+     "holder": null,
+     "binds": "All men in society",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no subject shall be hurt, molested, or restrained, in his person, liberty, or estate, for worshipping God in the manner and season most agreeable to the dictates of his own conscience; or for his religious profession or sentiments",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "hurting, molesting, or restraining a subject in his person, liberty, or estate, for worshipping God in the manner and season most agreeable to the dictates of his own conscience",
+      "or for his religious profession or sentiments"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "provided he doth not disturb the public peace, or obstruct others in their religious worship"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl3": {
+  "review": {
+   "title": "Public worship and religious teachers",
+   "plain": "Annulled: A bracketed note says Article XI of the Amendments was substituted for this article. It provided that the legislature shall require towns, parishes and religious societies to provide for public worship and Protestant teachers, could enjoin attendance on their instruction, and that no sect shall be subordinated to another by law.",
+   "category": "Education & Religion",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the people of this commonwealth have a right to invest their legislature with power to authorize and require the several towns, parishes, precincts, and other bodies politic, or religious societies, to make suitable provision, at their own expense, for the institution of the public worship of God, and for the support and maintenance of public Protestant teachers of piety, religion and morality",
+     "holder": "The people of this commonwealth; their legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in all cases where such provision shall not be made voluntarily"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the legislature shall, from time to time, authorize and require, the several towns, parishes, precincts, and other bodies politic, or religious societies, to make suitable provision, at their own expense, for the institution of the public worship of God, and for the support and maintenance of public Protestant teachers of piety, religion and morality",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in all cases where such provision shall not be made voluntarily"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the people of this commonwealth do invest their legislature with authority to enjoin upon all the subjects an attendance upon the instructions of the public teachers aforesaid, at stated times and seasons",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if there be any on whose instructions they can conscientiously and conveniently attend"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the several towns, parishes, precincts, and other bodies politic, or religious societies, shall, at all times, have the exclusive right of electing their public teachers, and of contracting with them for their support and maintenance",
+     "holder": "The several towns, parishes, precincts, and other bodies politic, or religious societies",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "all moneys paid by the subject to the support of public worship, and of the public teachers aforesaid, shall, if he require it, be uniformly applied to the support of the public teacher or teachers of his own religious sect or denomination",
+     "holder": "The subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if he require it",
+      "provided there be any on whose instructions he attends"
+     ],
+     "exceptions": [
+      "otherwise it may be paid towards the support of the teacher or teachers of the parish or precinct in which the said moneys are raised"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "every denomination of Christians, demeaning themselves peaceably, and as good subjects of the commonwealth, shall be equally under the protection of the law",
+     "holder": "Every denomination of Christians",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "demeaning themselves peaceably, and as good subjects of the commonwealth"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no subordination of any one sect or denomination to another shall ever be established by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "establishing by law the subordination of any one sect or denomination to another"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Art. XI of the Amendments substituted for this."
+     ]
+    }
+   ]
+  }
+ },
+ "decl4": {
+  "review": {
+   "title": "Right of self-government",
+   "plain": "The people of the commonwealth have the sole and exclusive right to govern themselves as a free, sovereign and independent state, and keep every power, jurisdiction and right not expressly delegated by them to the United States of America in Congress assembled.",
+   "category": "Founding & Purposes",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "the sole and exclusive right of governing themselves, as a free, sovereign, and independent state",
+    "exercise and enjoy every power, jurisdiction, and right"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The people of this commonwealth have the sole and exclusive right of governing themselves, as a free, sovereign, and independent state",
+     "holder": "The people of this commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The people of this commonwealth do, and forever hereafter shall, exercise and enjoy every power, jurisdiction, and right, which is not, or may not hereafter, be by them expressly delegated to the United States of America in Congress assembled",
+     "holder": "The people of this commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "which is not, or may not hereafter, be by them expressly delegated to the United States of America in Congress assembled"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl5": {
+  "review": {
+   "title": "Officials accountable to the people",
+   "plain": "All power resides originally in the people and is derived from them, so the magistrates and officers of government, whether legislative, executive or judicial, are their substitutes and agents and are at all times accountable to them.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "All power residing originally in the people"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All power residing originally in the people, and being derived from them, the several magistrates and officers of government, vested with authority, whether legislative, executive, or judicial, are their substitutes and agents",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the several magistrates and officers of government are at all times accountable to them",
+     "holder": null,
+     "binds": "The several magistrates and officers of government, whether legislative, executive, or judicial",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl6": {
+  "review": {
+   "title": "No hereditary privileges",
+   "plain": "No man, corporation or association has any title to advantages or exclusive privileges apart from the community except from services rendered to the public. That title is not hereditary, so a man born a magistrate, lawgiver or judge is absurd and unnatural.",
+   "category": "Equality & Citizenship",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "have any other title to obtain advantages, or particular and exclusive privileges, distinct from those of the community",
+    "neither hereditary, nor transmissible to children, or descendants, or relations by blood"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No man, nor corporation, or association of men, have any other title to obtain advantages, or particular and exclusive privileges, distinct from those of the community, than what arises from the consideration of services rendered to the public",
+     "holder": null,
+     "binds": "No man, nor corporation, or association of men",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "what arises from the consideration of services rendered to the public"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "this title being in nature neither hereditary, nor transmissible to children, or descendants, or relations by blood, the idea of a man born a magistrate, lawgiver, or judge, is absurd and unnatural",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl7": {
+  "review": {
+   "title": "Purpose of government; right to change it",
+   "plain": "Government is instituted for the common good and the protection, safety, prosperity and happiness of the people, not for the profit of any one man, family or class. The people alone have an unalienable right to institute government and to reform, alter or totally change it.",
+   "category": "Founding & Purposes",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "an incontestable, unalienable, and indefeasible right to institute government",
+    "to reform, alter, or totally change the same"
+   ],
+   "powers": [],
+   "limits": [
+    "not for the profit, honor, or private interest of any one man, family, or class of men"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Government is instituted for the common good; for the protection, safety, prosperity and happiness of the people; and not for the profit, honor, or private interest of any one man, family, or class of men",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the people alone have an incontestable, unalienable, and indefeasible right to institute government; and to reform, alter, or totally change the same",
+     "holder": "The people alone",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when their protection, safety, prosperity and happiness require it"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl8": {
+  "review": {
+   "title": "Right to remove officers by election",
+   "plain": "To keep those in authority from becoming oppressors, the people have a right, at periods and in a manner set by their frame of government, to return public officers to private life and to fill vacancies by regular elections and appointments.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "to cause their public officers to return to private life",
+    "to fill up vacant places by certain and regular elections and appointments"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the people have a right to cause their public officers to return to private life; and to fill up vacant places by certain and regular elections and appointments",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "at such periods and in such manner as they shall establish by their frame of government"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl9": {
+  "review": {
+   "title": "Free elections and equal right to vote",
+   "plain": "All elections ought to be free, and all inhabitants of the commonwealth who have the qualifications set by the frame of government have an equal right to elect officers and to be elected to public employments.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "an equal right to elect officers, and to be elected, for public employments"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All elections ought to be free",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "All elections ought to be free"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "all the inhabitants of this commonwealth have an equal right to elect officers, and to be elected, for public employments",
+     "holder": "All the inhabitants of this commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "having such qualifications as they shall establish by their frame of government"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl10": {
+  "review": {
+   "title": "Protection of life, liberty and property",
+   "plain": "Each individual has a right to be protected in life, liberty and property under standing laws, and must contribute his share to that protection. No property may be taken or applied to public uses without his consent or that of the representative body, and property appropriated to public uses requires reasonable compensation.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "a right to be protected by it in the enjoyment of his life, liberty and property",
+    "he shall receive a reasonable compensation therefor"
+   ],
+   "powers": [],
+   "limits": [
+    "no part of the property of any individual can, with justice, be taken from him, or applied to public uses",
+    "are not controllable by any other laws"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Each individual of the society has a right to be protected by it in the enjoyment of his life, liberty and property, according to standing laws",
+     "holder": "Each individual of the society",
+     "binds": "The society",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "He is obliged to contribute his share to the expense of this protection; to give his personal service, or an equivalent, when necessary",
+     "holder": null,
+     "binds": "Each individual of the society",
+     "requires": [
+      "to contribute his share to the expense of this protection",
+      "to give his personal service, or an equivalent, when necessary"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no part of the property of any individual can, with justice, be taken from him, or applied to public uses, without his own consent, or that of the representative body of the people",
+     "holder": "Each individual",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "taking the property of any individual from him, or applying it to public uses, without his own consent, or that of the representative body of the people"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "the people of this commonwealth are not controllable by any other laws than those to which their constitutional representative body have given their consent",
+     "holder": "The people of this commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "those to which their constitutional representative body have given their consent"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "whenever the public exigencies require that the property of any individual should be appropriated to public uses, he shall receive a reasonable compensation therefor",
+     "holder": "The individual whose property is appropriated",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "whenever the public exigencies require that the property of any individual should be appropriated to public uses"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl11": {
+  "review": {
+   "title": "Right to a remedy in the laws",
+   "plain": "Every subject ought to find a certain remedy in the laws for injuries to his person, property or character, and to obtain right and justice freely, completely, promptly and without delay, conformably to the laws.",
+   "category": "The Courts",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "ought to find a certain remedy, by having recourse to the laws",
+    "obtain right and justice freely, and without being obliged to purchase it"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Every subject of the commonwealth ought to find a certain remedy, by having recourse to the laws, for all injuries or wrongs which he may receive in his person, property, or character",
+     "holder": "Every subject of the commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "He ought to obtain right and justice freely, and without being obliged to purchase it; completely, and without any denial; promptly, and without delay; conformably to the laws",
+     "holder": "Every subject of the commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl12": {
+  "review": {
+   "title": "Rights of the accused; trial by jury",
+   "plain": "No subject shall answer for a crime until it is fully described to him, or be compelled to accuse himself. He may produce favorable proofs, meet witnesses face to face and be fully heard. No one may be deprived of life, liberty or property but by judgment of his peers or the law of the land.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "a right to produce all proofs, that may be favorable to him",
+    "to meet the witnesses against him face to face",
+    "to be fully heard in his defense by himself, or his council at his election"
+   ],
+   "powers": [],
+   "limits": [
+    "No subject shall be held to answer for any crimes or offence",
+    "be compelled to accuse, or furnish evidence against himself",
+    "no subject shall be arrested, imprisoned, despoiled, or deprived of his property, immunities, or privileges",
+    "the legislature shall not make any law, that shall subject any person to a capital or infamous punishment"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No subject shall be held to answer for any crimes or offence, until the same is fully and plainly, substantially and formally, described to him",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "holding a subject to answer for any crimes or offence until the same is fully and plainly, substantially and formally, described to him"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No subject shall be compelled to accuse, or furnish evidence against himself",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "compelling a subject to accuse, or furnish evidence against himself"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "every subject shall have a right to produce all proofs, that may be favorable to him; to meet the witnesses against him face to face, and to be fully heard in his defense by himself, or his council at his election",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no subject shall be arrested, imprisoned, despoiled, or deprived of his property, immunities, or privileges, put out of the protection of the law, exiled, or deprived of his life, liberty, or estate, but by the judgment of his peers, or the law of the land",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "arresting, imprisoning, despoiling, or depriving a subject of his property, immunities, or privileges, putting him out of the protection of the law, exiling him, or depriving him of his life, liberty, or estate"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "but by the judgment of his peers, or the law of the land"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "the legislature shall not make any law, that shall subject any person to a capital or infamous punishment, without trial by jury",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "making any law that shall subject any person to a capital or infamous punishment without trial by jury"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "excepting for the government of the army and navy"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl13": {
+  "review": {
+   "title": "Facts tried in the vicinity",
+   "plain": "In criminal prosecutions, verifying the facts in the vicinity where they happen is one of the greatest securities of the citizen's life, liberty and property.",
+   "category": "Criminal Justice",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In criminal prosecutions, the verification of facts in the vicinity where they happen, is one of the greatest securities of the life, liberty, and property of the citizen",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In criminal prosecutions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl14": {
+  "review": {
+   "title": "Searches, seizures and warrants",
+   "plain": "Every subject has a right to be secure from unreasonable searches and seizures. Warrants are contrary to this right unless supported by oath or affirmation and specially designating the persons or objects, and no warrant ought to be issued except in cases and with formalities the laws prescribe.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "a right to be secure from all unreasonable searches, and seizures, of his person, his houses, his papers, and all his possessions"
+   ],
+   "powers": [],
+   "limits": [
+    "All warrants, therefore, are contrary to this right",
+    "no warrant ought to be issued"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Every subject has a right to be secure from all unreasonable searches, and seizures, of his person, his houses, his papers, and all his possessions",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "All warrants are contrary to this right, if the cause or foundation of them be not previously supported by oath or affirmation; and if the order in the warrant to a civil officer, to make search in suspected places, or to arrest one or more suspected persons, or to seize their property, be not accompanied with a special designation of the persons or objects of search, arrest, or seizure",
+     "holder": "Every subject",
+     "binds": null,
+     "requires": [
+      "the cause or foundation of them be previously supported by oath or affirmation",
+      "the order in the warrant be accompanied with a special designation of the persons or objects of search, arrest, or seizure"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no warrant ought to be issued but in cases, and with the formalities prescribed by the laws",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "in cases, and with the formalities prescribed by the laws"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl15": {
+  "review": {
+   "title": "Right to a jury in civil cases",
+   "plain": "In controversies about property and suits between persons, the parties have a right to a jury trial, which shall be held sacred, except where other practice was used before, and unless the legislature finds it necessary to alter it in high-seas and mariners' wages cases.",
+   "category": "The Courts",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "the parties have a right to a trial by jury"
+   ],
+   "powers": [],
+   "limits": [
+    "this method of procedure shall be held sacred"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "In all controversies concerning property, and in all suits between two or more persons, the parties have a right to a trial by jury",
+     "holder": "The parties",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In all controversies concerning property, and in all suits between two or more persons"
+     ],
+     "exceptions": [
+      "except in cases in which it has heretofore been otherways used and practiced"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "this method of procedure shall be held sacred",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless, in causes arising on the high seas, and such as relate to mariners' wages, the legislature shall hereafter find it necessary to alter it"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl16": {
+  "review": {
+   "title": "Liberty of the press",
+   "plain": "Annulled: This article, printed in brackets as superseded, said the liberty of the press is essential to the security of freedom and ought not to be restrained in this commonwealth. A bracketed note in the text says it was annulled and superseded by Amendments, Art. LXXVII.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The liberty of the press is essential to the security of freedom in a state: it ought not, therefore, to be restrained in this commonwealth",
+     "holder": "The press",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "restraining the liberty of the press in this commonwealth"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art. LXXVII."
+     ]
+    }
+   ]
+  }
+ },
+ "decl17": {
+  "review": {
+   "title": "Right to bear arms; civilian control of military",
+   "plain": "The people have a right to keep and bear arms for the common defence. Because armies in peacetime are dangerous to liberty, they ought not to be maintained without the legislature's consent, and the military shall always be subordinate to and governed by the civil authority.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "The people have a right to keep and to bear arms for the common defence"
+   ],
+   "powers": [],
+   "limits": [
+    "ought not to be maintained without the consent of the legislature",
+    "the military power shall always be held in an exact subordination to the civil authority"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The people have a right to keep and to bear arms for the common defence",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "in time of peace, armies ought not to be maintained without the consent of the legislature",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "maintaining armies in time of peace without the consent of the legislature"
+     ],
+     "conditions": [
+      "in time of peace"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the military power shall always be held in an exact subordination to the civil authority, and be governed by it",
+     "holder": null,
+     "binds": "The military power",
+     "requires": [
+      "the military power shall always be held in an exact subordination to the civil authority, and be governed by it"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl18": {
+  "review": {
+   "title": "Adherence to fundamental principles",
+   "plain": "Frequent recurrence to the constitution's fundamental principles and to piety, justice, moderation, temperance, industry and frugality is necessary to a free government. The people ought to heed these in choosing officers and have a right to require lawgivers and magistrates to observe them.",
+   "category": "Founding & Purposes",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "a right to require of their lawgivers and magistrates, an exact and constant observance of them"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A frequent recurrence to the fundamental principles of the constitution, and a constant adherence to those of piety, justice, moderation, temperance, industry, and frugality, are absolutely necessary to preserve the advantages of liberty, and to maintain a free government",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The people ought to have a particular attention to all those principles, in the choice of their officers and representatives",
+     "holder": null,
+     "binds": "The people",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "they have a right to require of their lawgivers and magistrates, an exact and constant observance of them, in the formation and execution of the laws necessary for the good administration of the commonwealth",
+     "holder": "The people",
+     "binds": "Their lawgivers and magistrates",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl19": {
+  "review": {
+   "title": "Right to assemble, instruct and petition",
+   "plain": "The people have a right, in an orderly and peaceable manner, to assemble to consult on the common good, to give instructions to their representatives, and to ask the legislative body, by addresses, petitions or remonstrances, for redress of wrongs and grievances.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "to assemble to consult upon the common good",
+    "give instructions to their representatives",
+    "to request of the legislative body, by the way of addresses, petitions, or remonstrances, redress of the wrongs done them"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The people have a right to assemble to consult upon the common good; give instructions to their representatives, and to request of the legislative body, by the way of addresses, petitions, or remonstrances, redress of the wrongs done them, and of the grievances they suffer",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in an orderly and peaceable manner"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

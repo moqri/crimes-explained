@@ -1,0 +1,860 @@
+{
+ "p2": {
+  "review": {
+   "title": "The people form the Commonwealth",
+   "plain": "The people living in the territory formerly called the Province of Massachusetts Bay agree with each other to form a free, sovereign and independent body politic, or state, named The Commonwealth of Massachusetts.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The people, inhabiting the territory formerly called the Province of Massachusetts Bay, do hereby solemnly and mutually agree with each other, to form themselves into a free, sovereign, and independent body politic, or state by the name of \" THE COMMONWEALTH OF MASSACHUSETTS \"",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a6": {
+  "review": {
+   "title": "Senate may adjourn itself",
+   "plain": "The senate has power to adjourn itself, but such adjournments may not exceed two days at a time.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The senate shall have power to adjourn themselves"
+   ],
+   "limits": [
+    "provided such adjournments do not exceed two days at a time"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The senate shall have power to adjourn themselves, provided such adjournments do not exceed two days at a time",
+     "holder": "The senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided such adjournments do not exceed two days at a time"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a7": {
+  "review": {
+   "title": "Senate chooses its president and rules",
+   "plain": "The senate chooses its own president, appoints its own officers and determines its own rules of proceedings.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The senate shall choose its own president, appoint its own officers, and determine its own rules of proceedings"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The senate shall choose its own president, appoint its own officers, and determine its own rules of proceedings",
+     "holder": "The senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a8": {
+  "review": {
+   "title": "Senate tries impeachments",
+   "plain": "The senate is a court to hear and determine impeachments made by the house against officers of the commonwealth for misconduct and mal-administration. Senators are sworn first. Judgment extends only to removal and disqualification from office; the person convicted may still be indicted, tried and punished under the laws.",
+   "category": "The Courts",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The senate shall be a court with full authority to hear and determine all impeachments made by the house of representatives"
+   ],
+   "limits": [
+    "Their judgment, however shall not extend further than to removal from office and disqualification to hold or enjoy any place of honor, trust, or profit, under this commonwealth"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The senate shall be a court with full authority to hear and determine all impeachments made by the house of representatives, against any officer or officers of the commonwealth, for misconduct and mal-administration in their offices",
+     "holder": "The senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "previous to the trial of every impeachment the members of the senate shall respectively be sworn, truly and impartially to try and determine the charge in question, according to evidence",
+     "holder": null,
+     "binds": "The members of the senate",
+     "requires": [
+      "shall respectively be sworn, truly and impartially to try and determine the charge in question, according to evidence"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Their judgment, however shall not extend further than to removal from office and disqualification to hold or enjoy any place of honor, trust, or profit, under this commonwealth",
+     "holder": null,
+     "binds": "The senate",
+     "requires": [],
+     "forbids": [
+      "judgment extending further than to removal from office and disqualification to hold or enjoy any place of honor, trust, or profit, under this commonwealth"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the party so convicted, shall be, nevertheless, liable to indictment, trial, judgment, and punishment, according to the laws of the land",
+     "holder": null,
+     "binds": "The party so convicted",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a9": {
+  "review": {
+   "title": "Senate quorum",
+   "plain": "Superseded: It provided that not less than sixteen members of the senate would constitute a quorum for doing business.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Not less than sixteen members of the senate shall constitute a quorum for doing business",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a1": {
+  "review": {
+   "title": "Representation of the people",
+   "plain": "The legislature shall include a representation of the people, elected and founded upon the principle of equality. The bracketed word \"annually\" is printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There shall be, in the legislature of this commonwealth, a representation of the people, elected, and founded upon the principle of equality",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "founded upon the principle of equality"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a2": {
+  "review": {
+   "title": "Town representatives and fines",
+   "plain": "The house of representatives may fine towns that neglect to choose and return members. Bracketed paragraphs on how many representatives towns could elect by ratable polls, and on paying members' travel expenses, are printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "the house of representatives shall have power from time to time to impose fines upon such towns as shall neglect to choose and return members to the same"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the house of representatives shall have power from time to time to impose fines upon such towns as shall neglect to choose and return members to the same, agreeably to this constitution",
+     "holder": "The house of representatives",
+     "binds": "Towns that neglect to choose and return members",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "such towns as shall neglect to choose and return members to the same"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a3": {
+  "review": {
+   "title": "Choosing representatives by written votes",
+   "plain": "Every member of the house of representatives shall be chosen by written votes. Bracketed residence and property qualifications for representatives are printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Every member of the house of representatives shall be chosen by written votes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be chosen by written votes"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a4": {
+  "review": {
+   "title": "Who could vote for representatives",
+   "plain": "Superseded: It gave every male person aged twenty-one, resident in a town for one year and holding a freehold of three pounds annual income or any estate worth sixty pounds, a right to vote for the town's representatives.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Every male person, being twenty-one years of age, and resident in any particular town in this commonwealth for the space of one year next preceding, having a freehold estate within the same town, of the annual income of three pounds, or any estate of the value of sixty pounds, shall have a right to vote in the choice of a representative, or representatives for the said town",
+     "holder": "Every male person, being twenty-one years of age",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "resident in any particular town in this commonwealth for the space of one year next preceding",
+      "having a freehold estate within the same town, of the annual income of three pounds, or any estate of the value of sixty pounds"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a5": {
+  "review": {
+   "title": "When representatives are chosen",
+   "plain": "Superseded: It provided that members of the house of representatives would be chosen annually in May, at least ten days before the last Wednesday of that month.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The members of the house of representatives shall be chosen annually in the month of May, ten days at least before the last Wednesday of that month",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a6": {
+  "review": {
+   "title": "House impeaches; senate tries",
+   "plain": "The house of representatives is the grand inquest of the commonwealth, and all impeachments it makes shall be heard and tried by the senate.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The house of representatives shall be the grand inquest of this commonwealth"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The house of representatives shall be the grand inquest of this commonwealth",
+     "holder": "The house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all impeachments made by them, shall be heard and tried by the senate",
+     "holder": null,
+     "binds": "The senate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a7": {
+  "review": {
+   "title": "Money bills start in the house",
+   "plain": "All money bills must originate in the house of representatives, but the senate may propose or concur with amendments as on other bills.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the senate may propose or concur with amendments"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All money bills shall originate in the house of representatives",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "All money bills shall originate in the house of representatives"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the senate may propose or concur with amendments, as on other bills",
+     "holder": "The senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a8": {
+  "review": {
+   "title": "House may adjourn itself",
+   "plain": "The house of representatives has power to adjourn itself, but such adjournment may not exceed two days at a time.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The house of representatives shall have power to adjourn themselves"
+   ],
+   "limits": [
+    "provided such adjournment shall not exceed two days at a time"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The house of representatives shall have power to adjourn themselves; provided such adjournment shall not exceed two days at a time",
+     "holder": "The house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided such adjournment shall not exceed two days at a time"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a9": {
+  "review": {
+   "title": "House quorum",
+   "plain": "Superseded: It provided that not less than sixty members of the house of representatives would constitute a quorum for doing business.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Not less than sixty members of the house of representatives, shall constitute a quorum for doing business",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a10": {
+  "review": {
+   "title": "House powers, contempt and member privilege",
+   "plain": "The house judges its members' elections and qualifications, chooses its speaker and officers, and sets its rules. It may imprison non-members for disrespect, threats, assaults on members or witnesses, or rescuing persons it arrested. Members may not be arrested or held to bail on mesne process while going to, returning from or attending the general assembly.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [
+    "no member of the house of representatives shall be arrested, or held to bail on mesne process"
+   ],
+   "powers": [
+    "shall be the judge of the returns, elections, and qualifications of its own members",
+    "shall choose their own speaker",
+    "They shall have authority to punish by imprisonment"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The house of representatives shall be the judge of the returns, elections, and qualifications of its own members, as pointed out in the constitution; shall choose their own speaker; appoint their own officers, and settle the rules and orders of proceeding in their own house",
+     "holder": "The house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "They shall have authority to punish by imprisonment, every person, not a member, who shall be guilty of disrespect to the house, by any disorderly, or contemptuous behavior, in its presence",
+     "holder": "The house of representatives",
+     "binds": "Every person, not a member",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "who shall be guilty of disrespect to the house, by any disorderly, or contemptuous behavior, in its presence",
+      "who, in the town where the general court is sitting, and during the time of its sitting, shall threaten harm to the body or estate of any of its members, for any thing said or done in the house",
+      "who shall assault any of them therefor",
+      "who shall assault, or arrest, any witness, or other person, ordered to attend the house, in his way in going or returning",
+      "who shall rescue any person arrested by the order of the house"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "no member of the house of representatives shall be arrested, or held to bail on mesne process, during his going unto, returning from, or his attending the general assembly",
+     "holder": "Members of the house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "arresting, or holding to bail on mesne process, any member of the house of representatives during his going unto, returning from, or his attending the general assembly"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s3-a11": {
+  "review": {
+   "title": "Senate and governor may punish contempt",
+   "plain": "The senate has the same powers in like cases, and the governor and council the same authority to punish. No such imprisonment may exceed thirty days. Each house may try cases concerning its rights and privileges by committees or as it thinks best.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The senate shall have the same powers in the like cases",
+    "the governor and council shall have the same authority to punish in like cases",
+    "the senate and house of representatives may try, and determine, all cases where their rights and privileges are concerned"
+   ],
+   "limits": [
+    "no imprisonment on the warrant or order of the governor, council, senate, or house of representatives, for either of the above described offences, be for a term exceeding thirty days"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The senate shall have the same powers in the like cases",
+     "holder": "The senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the governor and council shall have the same authority to punish in like cases",
+     "holder": "The governor and council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no imprisonment on the warrant or order of the governor, council, senate, or house of representatives, for either of the above described offences, be for a term exceeding thirty days",
+     "holder": null,
+     "binds": "The governor, council, senate, or house of representatives",
+     "requires": [],
+     "forbids": [
+      "imprisonment for either of the above described offences for a term exceeding thirty days"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the senate and house of representatives may try, and determine, all cases where their rights and privileges are concerned, and which, by the constitution, they have authority to try and determine, by committees of their own members, or in such other way as they may respectively think best",
+     "holder": "The senate and house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c2-s1-a1": {
+  "review": {
+   "title": "The Governor",
+   "plain": "There shall be a supreme executive magistrate styled The Governor of the Commonwealth of Massachusetts, whose title shall be His Excellency.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There shall be a supreme executive magistrate, who shall be styled, The Governor of the Commonwealth of Massachusetts ; and whose title shall be -- His Excellency",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c2-s1-a2": {
+  "review": {
+   "title": "Choosing the governor; qualifications",
+   "plain": "The governor shall be chosen, and no person is eligible unless he has been an inhabitant of the commonwealth for the seven years before his election. Bracketed wording on annual election, property and religion requirements is printed as superseded.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no person shall be eligible to this office"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The governor shall be chosen",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no person shall be eligible to this office, unless at the time of his election, he shall have been an inhabitant of this commonwealth for seven years next preceding",
+     "holder": null,
+     "binds": "Candidates for governor",
+     "requires": [
+      "at the time of his election, he shall have been an inhabitant of this commonwealth for seven years next preceding"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c2-s1-a3": {
+  "review": {
+   "title": "How the governor is elected",
+   "plain": "Voters for senators and representatives vote for governor at town meetings; the town clerk and selectmen count, record and send sealed lists to the secretary, who lays them before the legislature. If no one wins, the house picks two of the top four and the senate elects one. Bracketed dates and \"majority\" are printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Those persons who shall be qualified to vote for senators and representatives within the several towns of this commonwealth, shall, at a meeting to be called for that purpose, give in their votes for a governor, to the selectmen, who shall preside at such meetings",
+     "holder": "Those persons who shall be qualified to vote for senators and representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the town clerk, in the presence and with the assistance of the selectmen, shall, in open town meeting, sort and count the votes, and form a list of the persons voted for, with the number of votes for each person against his name; and shall make a fair record of the same in the town books, and a public declaration thereof in the said meeting; and shall, in the presence of the inhabitants, seal up copies of the said list, attested by him and the selectmen, and transmit the same to the sheriff of the county thirty days at least before",
+     "holder": null,
+     "binds": "The town clerk",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the sheriff shall transmit the same to the secretary's office, seventeen days at least before; or the selectmen may cause returns of the same to be made to the office of the secretary of the commonwealth, seventeen days at least before the said day",
+     "holder": null,
+     "binds": "The sheriff",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the secretary shall lay the same before the senate and the house of representatives, to be by them examined: and in case of an election, the choice shall be by them declared and published",
+     "holder": null,
+     "binds": "The secretary; the senate and the house of representatives",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "if no person shall have votes, the house of representatives shall, by ballot, elect two out of four persons who had the highest number of votes, if so many shall have been voted for, but, if otherwise, out of the number voted for; and make return to the senate of the two persons so elected; on which the senate shall proceed, by ballot, to elect one, who shall be declared governor",
+     "holder": "The house of representatives and the senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c2-s1-a4": {
+  "review": {
+   "title": "Governor and council",
+   "plain": "The governor may at his discretion assemble the councillors. The governor with the councillors, or at least five of them, shall hold a council to order and direct the affairs of the commonwealth under the constitution and the laws.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The governor shall have authority from time to time, at his discretion, to assemble and call together the councillors of this commonwealth",
+    "for the ordering and directing the affairs of the commonwealth"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor shall have authority from time to time, at his discretion, to assemble and call together the councillors of this commonwealth for the time being",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the governor with the said councillors, or five of them at least, shall, and may, from time to time, hold and keep a council, for the ordering and directing the affairs of the commonwealth, agreeably to the constitution and the laws of the land",
+     "holder": "The governor with the said councillors, or five of them at least",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "agreeably to the constitution and the laws of the land"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

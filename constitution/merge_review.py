@@ -1,10 +1,12 @@
 """Merge review-agent outputs ({provision: {"review": {...}, "elements": {...}}}) into constitution/plain.json and
-constitution/elements.json. Usage: python3 constitution/merge_review.py review/con/us/out_*.json
+constitution/elements.json. Usage: python3 constitution/merge_review.py [--into ma/constitution] review/con/us/out_*.json
 Keys are provision ids ("art1-s8", "amend14-s1"). Entries already present are replaced.
 """
 import json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+if "--into" in sys.argv:                          # e.g. ma/constitution for the Massachusetts Constitution
+    i = sys.argv.index("--into"); HERE = os.path.join(os.path.dirname(HERE), sys.argv[i + 1]); del sys.argv[i:i + 2]
 plain_path, el_path = os.path.join(HERE, "plain.json"), os.path.join(HERE, "elements.json")
 plain = json.load(open(plain_path, encoding="utf-8")) if os.path.exists(plain_path) else {}
 elements = json.load(open(el_path, encoding="utf-8")) if os.path.exists(el_path) else {}

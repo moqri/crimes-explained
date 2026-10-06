@@ -1,0 +1,878 @@
+{
+ "amend104": {
+  "review": {
+   "title": "Highway revenue only for highways and mass transportation",
+   "plain": "Replaces Article LXXVIII: revenue from vehicle fees, duties, excises or license taxes and from vehicle fuels shall be spent only for listed highway and mass transportation purposes, except revenue from an excise tax imposed in lieu of local property taxes.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be expended for other than cost of administration of laws providing for such revenue",
+    "shall be expended by the commonwealth or its counties, cities and towns for said highway and mass transportation purposes only"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article LXXVIII of the Amendments to the Constitution is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No revenue from fees, duties, excises or license taxes relating to registration, operation or use of vehicle on public highways, or to fuels used for propelling such vehicles, shall be expended for other than cost of administration of laws providing for such revenue, making of refunds and adjustments in relation thereto, payment of highway obligations, or cost of construction, reconstruction, maintenance and repair of public highways and bridges, and mass transportation lines and of the enforcement of state traffic laws, and for other mass transportation purposes",
+     "holder": null,
+     "binds": "The commonwealth or its counties, cities and towns",
+     "requires": [
+      "such revenue shall be expended by the commonwealth or its counties, cities and towns for said highway and mass transportation purposes only and in such manner as the general court may direct"
+     ],
+     "forbids": [
+      "Expending such revenue for other than said highway and mass transportation purposes"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "this amendment shall not apply to revenue from any excise tax imposed in lieu of local property taxes for the privilege of registering such vehicles"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend105": {
+  "review": {
+   "title": "Absentee voting",
+   "plain": "Replaces Article XLV: the general court may provide by law for voting by qualified voters who at the time of an election are absent from their city or town, unable by physical disability to vote in person at the polling places, or hold religious beliefs in conflict with voting that day.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The general court shall have power to provide by law for voting"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XLV of the articles of amendment to the constitution, as amended by Article LXXVI of said articles of amendment, is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have power to provide by law for voting, in the choice of any officer to be elected or upon any question submitted at an election, by qualified voters of the commonwealth who, at the time of such an election, are absent from the city or town of which they are inhabitants or are unable by reason of physical disability to cast their votes in person at the polling places or who hold religious beliefs in conflict with the act of voting on the day on which such an election is to be held",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "are absent from the city or town of which they are inhabitants",
+      "are unable by reason of physical disability to cast their votes in person at the polling places",
+      "hold religious beliefs in conflict with the act of voting on the day on which such an election is to be held"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend106": {
+  "review": {
+   "title": "Natural rights and equality under the law",
+   "plain": "Replaces Article I of Part the First: all people are born free and equal with natural, essential and unalienable rights, including life, liberty, property, safety and happiness; equality under the law shall not be denied or abridged because of sex, race, color, creed or national origin.",
+   "category": "Equality & Citizenship",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "All people are born free and equal",
+    "the right of enjoying and defending their lives and liberties",
+    "that of acquiring, possessing and protecting property",
+    "that of seeking and obtaining their safety and happiness",
+    "Equality under the law"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be denied or abridged because of sex, race, color, creed or national origin"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article I of Part the First of the Constitution is hereby annulled and the following is adopted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "All people are born free and equal and have certain natural, essential and unalienable rights; among which may be reckoned the right of enjoying and defending their lives and liberties; that of acquiring, possessing and protecting property; in fine, that of seeking and obtaining their safety and happiness",
+     "holder": "All people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Equality under the law shall not be denied or abridged because of sex, race, color, creed or national origin",
+     "holder": "All people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Denying or abridging equality under the law because of sex, race, color, creed or national origin"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend107": {
+  "review": {
+   "title": "The governor's budget",
+   "plain": "Replaces Section 2 of Article LXIII: within three weeks after the general court convenes (eight weeks in a new governor's first year), the governor shall recommend a budget of all proposed expenditures and the means to pay them, and may require information from any board, commission, officer or department.",
+   "category": "The Governor & Executive",
+   "kind": "Duty",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the governor shall have the power to require any board, commission, officer or department to furnish him with any information"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Section 2 of Article LXIII of the Articles of Amendment to the Constitution of the Commonwealth is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "Within three weeks after the convening of the general court the governor shall recommend to the general court a budget which shall contain a statement of all proposed expenditures of the commonwealth for the fiscal year, including those already authorized by law, and of all taxes, revenues, loans and other means by which such expenditures shall be defrayed",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [
+      "Within three weeks after the convening of the general court"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "In the first year of the term of office of a governor who has not served in the preceding year said governor shall recommend such budget within eight weeks after the convening of the general court"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "The budget shall be arranged in such form as the general court may by law prescribe, or, in default thereof, as the governor shall determine",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "power",
+     "what": "For the purpose of preparing his budget, the governor shall have the power to require any board, commission, officer or department to furnish him with any information which he may deem necessary",
+     "holder": "The governor",
+     "binds": "Any board, commission, officer or department",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend108": {
+  "review": {
+   "title": "Information for voters on ballot measures",
+   "plain": "Replaces subheading IV of Article XLVIII: the secretary of the commonwealth shall print and send to each eligible voter or residence the full text of every measure, committee reports, the general court's votes and a ballot summary, and other information and arguments as provided by law.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XLVIII of the Amendments to the Constitution of the Commonwealth is hereby amended by striking out, under the heading \"GENERAL PROVISION\", all of subheading \"IV. Information for Voters.\" , as amended by section 4 of Article LXXIV of said Amendments, and inserting in place thereof the following subheading",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The secretary of the commonwealth shall cause to be printed and sent to each person eligible to vote in the commonwealth or to each residence of one or more persons eligible to vote in the commonwealth the full text of every measure to be submitted to the people, together with a copy of the legislative committee's majority reports, if there be such, with the names of the majority and minority members thereon, a statement of the votes of the general court on the measure, and a fair, concise summary of the measure as such summary will appear on the ballot",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "shall, in such manner as may be provided by law, cause to be prepared and sent other information and arguments for and against the measure",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend109": {
+  "review": {
+   "title": "Who counts as an inhabitant in the census",
+   "plain": "Amends the first paragraph of Section 1 of Article CI: for the census, every person is an inhabitant of the city or town of his usual place of residence under federal census standards, subject to exceptions the general court may provide, and the census shall specify inhabitants of each precinct and ward.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The first paragraph of Section 1 oF Article CI of the Amendments to the Constitution of the Commonwealth is hereby amended by striking out the second sentence and inserting in place thereof the following two sentences",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "For purposes of said census every person shall be considered an inhabitant of the city or town of his usual place of residence in accordance with standards used by the United States from time to time in conducting the federal census required by Section 2 of Article I of the Constitution of the United States",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "subject to such exceptions as the general court may provide by law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Said census shall specify the number of inhabitants of each precinct of each town and of each precinct and ward of each city",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend110": {
+  "review": {
+   "title": "Taxing forest, wildlife and recreational lands",
+   "plain": "Replaces Article XLI: the general court has full power to prescribe methods of taxation for wild or forest lands kept natural for wildlife and natural resources, and for recreational lands, that will develop and conserve those resources and benefits.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "Full power and authority are hereby given and granted to the general court to prescribe"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XLI of the Amendments to the Constitution is hereby annulled and the following Article is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Full power and authority are hereby given and granted to the general court to prescribe for wild or forest lands retained in a natural state for the preservation of wildlife and other natural resources and lands for recreational uses, such methods of taxation as will develop and conserve the forest resources, wildlife and other natural resources and the environmental benefits of recreational lands within the commonwealth",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend111": {
+  "review": {
+   "title": "No school assignment by race",
+   "plain": "No student shall be assigned to or denied admittance to a public school on the basis of race, color, national origin or creed.",
+   "category": "Education & Religion",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No student shall be assigned to or denied admittance to a public school on the basis of race, color, national origin or creed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No student shall be assigned to or denied admittance to a public school on the basis of race, color, national origin or creed",
+     "holder": "Students",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Assigning a student to or denying admittance to a public school on the basis of race, color, national origin or creed"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend112": {
+  "review": {
+   "title": "Classifying real property for taxes",
+   "plain": "Amends Article IV of Chapter I of Part the Second: the general court may classify real property by use in no more than four classes and tax the classes differently, but proportionately within a class, and reasonable exemptions may be granted.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article IV of chapter 1 of Part the Second of the Constitution is hereby amended by inserting after the words \"and to impose and levy proportional and reasonable assessments, rates and taxes, upon all the inhabitants of, and persons resident, and estates lying, within said Commonwealth\" the words",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the general court may classify real property according to its use in no more than four classes and to assess, rate and tax such property differently in the classes so established",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "but proportionately in the same class"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "reasonable exemptions may be granted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend113": {
+  "review": {
+   "title": "Changing \"ten months\" to \"eighteen months\"",
+   "plain": "Amends the first sentence of the sixth paragraph of Section 3 of Article II of the Amendments, as appearing in Article LXXXIX, by striking out the words \"ten months\" and inserting the words \"eighteen months\".",
+   "category": "Local Government",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The first sentence of the sixth paragraph of Section 3 of Article II of the Amendments to the Constitution of the Commonwealth, as appearing in Article LXXXIX of said Amendments, is hereby amended by striking out the words \"ten months\" and inserting in place thereof the words: -- eighteen months",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend114": {
+  "review": {
+   "title": "No discrimination against handicapped individuals",
+   "plain": "No otherwise qualified handicapped individual shall, solely by reason of his handicap, be excluded from, denied the benefits of, or be subject to discrimination under any program or activity within the commonwealth.",
+   "category": "Equality & Citizenship",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "be excluded from the participation in, denied the benefits of, or be subject to discrimination under any program or activity within the commonwealth"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No otherwise qualified handicapped individual shall, solely by reason of his handicap, be excluded from the participation in, denied the benefits of, or be subject to discrimination under any program or activity within the commonwealth",
+     "holder": "Otherwise qualified handicapped individuals",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Excluding from the participation in, denying the benefits of, or subjecting to discrimination under any program or activity, solely by reason of his handicap"
+     ],
+     "conditions": [
+      "otherwise qualified"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend115": {
+  "review": {
+   "title": "State-mandated costs of municipal employment",
+   "plain": "A law imposing additional costs on two or more cities or towns by regulating municipal employment is not effective in a city or town until accepted there, unless enacted by a two-thirds vote of each house or the general court provides for the commonwealth to assume the cost.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be effective in any city or town until such law is accepted"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No law imposing additional costs upon two or more cities or towns by the regulation of the compensation, hours, status, conditions or benefits of municipal employment shall be effective in any city or town until such law is accepted by vote or by the appropriation of money for such purposes, in the case of a city, by the city council in accordance with its charter, and in the case of a town, by a town meeting or town council",
+     "holder": "Cities and towns",
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless such law has been enacted by a two-thirds vote of each house of the general court present and voting thereon",
+      "unless the general court, at the same session in which such law is enacted, has provided for the assumption by the commonwealth of such additional cost"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend116": {
+  "review": {
+   "title": "Punishment of death",
+   "plain": "Adds two sentences to Article XXVI of Part the First: no provision of the Constitution shall be construed as prohibiting the punishment of death, and the general court may authorize its imposition by courts having jurisdiction of crimes subject to it.",
+   "category": "Criminal Justice",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XXVI of part 1 of the Constitution of the Commonwealth is hereby amended by adding the following two sentences",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No provision of the Constitution, however, shall be construed as prohibiting the imposition of the punishment of death",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court may, for the purpose of protecting the general welfare of the citizens, authorize the imposition of the punishment of death by the courts of law having jurisdiction of crimes subject to the punishment of death",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend117": {
+  "review": {
+   "title": "Census as basis for districts",
+   "plain": "Amends Sections 1 and 2 of Article CI so that the federal census is the basis for representative, senatorial and councillor districts for the ten year period from the first Wednesday in a set January after the census. The bracketed word \"fifth\" was superseded; notes say both sections were amended by Article CXIX.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "Section 1 of Article CI of the Articles of Amendment to the Constitution is hereby amended by striking out the first paragraph, as amended by Article CIX of said Articles of Amendment, and inserting in place thereof the following paragraph: - The federal census shall be the basis for determining the representative districts for the ten year period beginning with the first Wednesday in the [fifth] January following the taking of said census",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "[Amended by Amendments, Art. CXIX, sect. 1.]"
+     ]
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "Section 2 of said Article CI of said Articles of Amendment is hereby amended by striking out the first sentence and inserting in place thereof the following sentence: - Said federal census shall likewise be the basis for determining the senatorial districts and also the councillor districts for the ten year period beginning with the first Wednesday in the [fifth] January following the taking of such census",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "[Amended by Amendments, Art. CXIX, sect. 2.]"
+     ]
+    }
+   ]
+  }
+ },
+ "amend118": {
+  "review": {
+   "title": "Pay of members of the general court",
+   "plain": "The base compensation of members of the general court as of January 1, 1996 shall not be changed except as this article provides: from January 2001 and every second year, it rises or falls at the same rate as the commonwealth's median household income, as ascertained by the governor.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be changed except as provided in this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The base compensation as of January first, nineteen hundred and ninety-six, of members of the general court shall not be changed except as provided in this article",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [
+      "Changing the base compensation of members of the general court except as provided in this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "As of the first Wednesday in January of the year two thousand and one and every second year thereafter, such base compensation shall be increased or decreased at the same rate as increases or decreases in the median household income for the commonwealth for the preceding two year period, as ascertained by the governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend119": {
+  "review": {
+   "title": "Census districts begin the third January",
+   "plain": "Amends Sections 1 and 2 of Article CI, as appearing in Article CXVII: the federal census is the basis for representative, senatorial and councillor districts for the ten year period beginning with the first Wednesday in the third January following the census.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "Section 1 of Article CI of the Articles of Amendment to the Constitution is hereby amended by striking out the first paragraph, as appearing in section 1 of CXVII of said Articles of Amendment, and inserting in place thereof the following paragraph",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The federal census shall be the basis for determining the representative districts for the ten year period beginning with the first Wednesday in the third January following the taking of said census",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "Section 2 of said Article CI is hereby amended by striking out the first sentence, as appearing in section 2 of said Article CXVII, and inserting in place thereof the following sentence:-- Said federal census shall likewise be the basis for determining the senatorial districts and also the councillor districts for the ten year period beginning with the first Wednesday in the third January following the taking of said census",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend120": {
+  "review": {
+   "title": "Excluding incarcerated felons from voting",
+   "plain": "Further amends Article III of the Amendments by inserting after the word \"upwards\" the words \"excepting persons who are incarcerated in a correctional facility due to a felony conviction, and\".",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article III of the Amendments to the Constitution, as amended, is hereby further amended by inserting after the word \"upwards\" the following words:-- , excepting persons who are incarcerated in a correctional facility due to a felony conviction, and",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend121": {
+  "review": {
+   "title": "Additional income tax on income over $1,000,000",
+   "plain": "Adds a paragraph to Article XLIV: an additional 4 percent tax applies to annual taxable income over $1,000,000, adjusted yearly for cost of living, and its revenues shall be spent, subject to appropriation, only for public education, public colleges and universities, and roads, bridges and public transportation.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be expended, subject to appropriation, only for these purposes"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XLIV of the Massachusetts Constitution is hereby amended by adding the following paragraph at the end thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In addition to the taxes on income otherwise authorized under this Article, there shall be an additional tax of 4 percent on that portion of annual taxable income in excess of $1,000,000 (one million dollars) reported on any return related to those taxes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "this $1,000,000 (one million dollars) income level shall be adjusted annually to reflect any increases in the cost of living by the same method used for federal income tax brackets"
+     ],
+     "forbids": [],
+     "conditions": [
+      "This paragraph shall apply to all tax years beginning on or after January 1, 2023"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "To provide the resources for quality public education and affordable public colleges and universities, and for the repair and maintenance of roads, bridges and public transportation, all revenues received in accordance with this paragraph shall be expended, subject to appropriation, only for these purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Expending revenues received in accordance with this paragraph for other purposes"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

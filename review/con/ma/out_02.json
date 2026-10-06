@@ -1,0 +1,1106 @@
+{
+ "decl20": {
+  "review": {
+   "title": "Only the legislature may suspend laws",
+   "plain": "The power of suspending the laws, or their execution, ought never to be exercised except by the legislature or by authority derived from it, and only in the particular cases the legislature expressly provides for.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "ought never to be exercised but by the legislature, or by authority derived from it"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The power of suspending the laws, or the execution of the laws, ought never to be exercised but by the legislature, or by authority derived from it, to be exercised in such particular cases only as the legislature shall expressly provide for",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "exercising the power of suspending the laws, or the execution of the laws, but by the legislature, or by authority derived from it"
+     ],
+     "conditions": [
+      "in such particular cases only as the legislature shall expressly provide for"
+     ],
+     "exceptions": [
+      "but by the legislature, or by authority derived from it"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl21": {
+  "review": {
+   "title": "Freedom of debate in the legislature",
+   "plain": "The freedom of deliberation, speech and debate in either house of the legislature is so essential to the rights of the people that it cannot be the foundation of any accusation, prosecution, action or complaint in any other court or place.",
+   "category": "The Legislature",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "The freedom of deliberation, speech and debate, in either house of the legislature"
+   ],
+   "powers": [],
+   "limits": [
+    "it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The freedom of deliberation, speech and debate, in either house of the legislature, is so essential to the rights of the people, that it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever",
+     "holder": "Either house of the legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "making the freedom of deliberation, speech and debate, in either house of the legislature the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl22": {
+  "review": {
+   "title": "Frequent meetings of the legislature",
+   "plain": "The legislature ought to assemble frequently to redress grievances, to correct, strengthen and confirm the laws, and to make new laws, as the common good may require.",
+   "category": "The Legislature",
+   "kind": "Duty",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature ought frequently to assemble for the redress of grievances, for correcting, strengthening and confirming the laws, and for making new laws, as the common good may require",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "The legislature ought frequently to assemble"
+     ],
+     "forbids": [],
+     "conditions": [
+      "as the common good may require"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl23": {
+  "review": {
+   "title": "No taxes without consent",
+   "plain": "No subsidy, charge, tax, impost or duties ought to be established, fixed, laid or levied, under any pretext, without the consent of the people or their representatives in the legislature.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No subsidy, charge, tax, impost, or duties, ought to be established, fixed, laid, or levied, under any pretext whatsoever"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No subsidy, charge, tax, impost, or duties, ought to be established, fixed, laid, or levied, under any pretext whatsoever, without the consent of the people or their representatives in the legislature",
+     "holder": "The people or their representatives in the legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "establishing, fixing, laying, or levying any subsidy, charge, tax, impost, or duties without the consent of the people or their representatives in the legislature"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl24": {
+  "review": {
+   "title": "No ex post facto laws",
+   "plain": "Laws that punish actions done before those laws existed, and that were not declared crimes by earlier laws, are unjust, oppressive and inconsistent with the fundamental principles of a free government.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "are unjust, oppressive, and inconsistent with the fundamental principles of a free government"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Laws made to punish for actions done before the existence of such laws, and which have not been declared crimes by preceding laws, are unjust, oppressive, and inconsistent with the fundamental principles of a free government",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl25": {
+  "review": {
+   "title": "No legislative convictions for treason or felony",
+   "plain": "No subject ought, in any case or at any time, to be declared guilty of treason or felony by the legislature.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No subject ought, in any case, or in any time, to be declared guilty of treason or felony by the legislature"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No subject ought, in any case, or in any time, to be declared guilty of treason or felony by the legislature",
+     "holder": "Every subject",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "declaring any subject guilty of treason or felony by the legislature"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl26": {
+  "review": {
+   "title": "No excessive bail or cruel punishment",
+   "plain": "No magistrate or court of law shall demand excessive bail or sureties, impose excessive fines, or inflict cruel or unusual punishments.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall demand excessive bail or sureties",
+    "impose excessive fines",
+    "inflict cruel or unusual punishments"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No magistrate or court of law, shall demand excessive bail or sureties, impose excessive fines, or inflict cruel or unusual punishments",
+     "holder": null,
+     "binds": "No magistrate or court of law",
+     "requires": [],
+     "forbids": [
+      "demanding excessive bail or sureties",
+      "imposing excessive fines",
+      "inflicting cruel or unusual punishments"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl27": {
+  "review": {
+   "title": "Quartering of soldiers",
+   "plain": "In peacetime no soldier ought to be quartered in any house without the owner's consent. In wartime, quarters ought to be made only by the civil magistrate, in a manner ordained by the legislature.",
+   "category": "Military & Militia",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no soldier ought to be quartered in any house without the consent of the owner",
+    "such quarters ought not to be made but by the civil magistrate"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "In time of peace, no soldier ought to be quartered in any house without the consent of the owner",
+     "holder": "The owner",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "quartering a soldier in any house without the consent of the owner"
+     ],
+     "conditions": [
+      "In time of peace"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "in time of war, such quarters ought not to be made but by the civil magistrate, in a manner ordained by the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "in a manner ordained by the legislature"
+     ],
+     "forbids": [
+      "making quarters in time of war but by the civil magistrate"
+     ],
+     "conditions": [
+      "in time of war"
+     ],
+     "exceptions": [
+      "but by the civil magistrate, in a manner ordained by the legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl28": {
+  "review": {
+   "title": "Limits on martial law",
+   "plain": "No person can be subject to law-martial, or to its penalties or pains, except those employed in the army or navy and the militia in actual service, unless by authority of the legislature.",
+   "category": "Military & Militia",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person can in any case be subject to law-martial, or to any penalties or pains, by virtue of that law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person can in any case be subject to law-martial, or to any penalties or pains, by virtue of that law, except those employed in the army or navy, and except the militia in actual service, but by authority of the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "subjecting any person to law-martial, or to any penalties or pains, by virtue of that law"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except those employed in the army or navy",
+      "except the militia in actual service",
+      "but by authority of the legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl29": {
+  "review": {
+   "title": "Independent judges",
+   "plain": "An impartial interpretation of the laws and administration of justice is essential to every individual's rights. Every citizen has a right to be tried by judges as free, impartial and independent as possible, so supreme judicial court judges should hold office during good behavior with honorable salaries set by standing laws.",
+   "category": "The Courts",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "the right of every citizen to be tried by judges as free, impartial and independent as the lot of humanity will admit"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "It is essential to the preservation of the rights of every individual, his life, liberty, property, and character, that there be an impartial interpretation of the laws, and administration of justice",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "that there be an impartial interpretation of the laws, and administration of justice"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "It is the right of every citizen to be tried by judges as free, impartial and independent as the lot of humanity will admit",
+     "holder": "Every citizen",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the judges of the supreme judicial court should hold their offices as long as they behave themselves well; and they should have honorable salaries ascertained and established by standing laws",
+     "holder": "The judges of the supreme judicial court",
+     "binds": null,
+     "requires": [
+      "the judges of the supreme judicial court should hold their offices as long as they behave themselves well",
+      "they should have honorable salaries ascertained and established by standing laws"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "decl30": {
+  "review": {
+   "title": "Separation of powers",
+   "plain": "The legislative, executive and judicial departments shall never exercise each other's powers, so that the commonwealth may be a government of laws and not of men.",
+   "category": "Founding & Purposes",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "the legislative department shall never exercise the executive and judicial powers, or either of them",
+    "the executive shall never exercise the legislative and judicial powers, or either of them",
+    "the judicial shall never exercise the legislative and executive powers, or either of them"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "In the government of this commonwealth, the legislative department shall never exercise the executive and judicial powers, or either of them",
+     "holder": null,
+     "binds": "The legislative department",
+     "requires": [],
+     "forbids": [
+      "exercising the executive and judicial powers, or either of them"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "the executive shall never exercise the legislative and judicial powers, or either of them",
+     "holder": null,
+     "binds": "The executive",
+     "requires": [],
+     "forbids": [
+      "exercising the legislative and judicial powers, or either of them"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "the judicial shall never exercise the legislative and executive powers, or either of them: to the end it may be a government of laws and not of men",
+     "holder": null,
+     "binds": "The judicial",
+     "requires": [],
+     "forbids": [
+      "exercising the legislative and executive powers, or either of them"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s1-a1": {
+  "review": {
+   "title": "Two branches: the General Court",
+   "plain": "The legislature has two branches, a Senate and House of Representatives, each with a negative on the other. It shall assemble every year and be styled The General Court of Massachusetts. Bracketed wording on the meeting and dissolving dates is printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "each of which shall have a negative on the other"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The department of legislation shall be formed by two branches, a Senate and House of Representatives",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "each of which shall have a negative on the other",
+     "holder": "The Senate and the House of Representatives, each",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislative body shall assemble every year",
+     "holder": null,
+     "binds": "The legislative body",
+     "requires": [
+      "The legislative body shall assemble every year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The legislative body shall be stiled, The General Court of Massachusetts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s1-a2": {
+  "review": {
+   "title": "Governor's approval and veto of bills",
+   "plain": "No bill or resolve becomes law until laid before the governor. He signs it if he approves, or returns it with written objections. Two thirds of each house, voting by yeas and nays, may pass it anyway. A bracketed sentence on bills not returned within five days is printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "he shall return the same, together with his objections thereto, in writing",
+    "if approved by two thirds of the members present, shall have the force of a law"
+   ],
+   "limits": [
+    "No bill or resolve of the senate or house of representatives shall become a law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No bill or resolve of the senate or house of representatives shall become a law, and have force as such, until it shall have been laid before the governor for his revisal",
+     "holder": null,
+     "binds": "The senate and house of representatives",
+     "requires": [],
+     "forbids": [
+      "a bill or resolve becoming a law before it has been laid before the governor for his revisal"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "if he, upon such revision, approve thereof, he shall signify his approbation by signing the same",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if he, upon such revision, approve thereof"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if he have any objection to the passing of such bill or resolve, he shall return the same, together with his objections thereto, in writing, to the senate or house of representatives, in whichsoever the same shall have originated",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if he have any objection to the passing of such bill or resolve"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "who shall enter the objections sent down by the governor, at large, on their records, and proceed to reconsider the said bill or resolve",
+     "holder": null,
+     "binds": "The senate or house of representatives, in whichsoever the same shall have originated",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if after such reconsideration, two thirds of the said senate or house of representatives, shall, notwithstanding the said objections, agree to pass the same, it shall be sent to the other branch, where it shall also be reconsidered, and if approved by two thirds of the members present, shall have the force of a law",
+     "holder": "The senate and house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "two thirds of the said senate or house of representatives agree to pass the same",
+      "approved by two thirds of the members present"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "in all such cases, the votes of both houses shall be determined by yeas and nays; and the names of the persons voting for, or against, the said bill or resolve, shall be entered upon the public records of the commonwealth",
+     "holder": null,
+     "binds": "Both houses",
+     "requires": [
+      "the votes of both houses shall be determined by yeas and nays",
+      "the names of the persons voting for, or against, the said bill or resolve, shall be entered upon the public records of the commonwealth"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s1-a3": {
+  "review": {
+   "title": "Power to create courts",
+   "plain": "The general court has full power to set up courts of record and other courts, held in the commonwealth's name, to hear and decide all criminal and civil matters arising within it and to award execution. Those courts may administer oaths or affirmations.",
+   "category": "The Courts",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "shall forever have full power and authority to erect and constitute judicatories and courts of record, or other courts",
+    "full power and authority, from time to time, to administer oaths or affirmations"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall forever have full power and authority to erect and constitute judicatories and courts of record, or other courts, to be held in the name of the commonwealth, for the hearing, trying, and determining of all manner of crimes, offences, pleas, processes, plaints, actions, matters, causes and things, whatsoever, arising or happening within the commonwealth, or between or concerning persons inhabiting, or residing, or brought within the same; and for the awarding and making out of execution thereupon",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "To which courts and judicatories are hereby given and granted full power and authority, from time to time, to administer oaths or affirmations, for the better discovery of truth in any matter in controversy or depending before them",
+     "holder": "The courts and judicatories",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s1-a4": {
+  "review": {
+   "title": "Lawmaking and taxing powers of the general court",
+   "plain": "The general court may make all wholesome and reasonable laws not contrary to this constitution for the commonwealth's good, provide for civil officers and set their duties, and levy reasonable taxes, duties and excises, spent by the governor's warrant with the council's consent. Estates are to be revalued at least every ten years.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "to make, ordain, and establish, all manner of wholesome and reasonable orders, laws, statutes, and ordinances",
+    "to name and settle annually, or provide by fixed laws, for the naming and settling all civil officers",
+    "to set forth the several duties, powers, and limits, of the several civil and military officers of this commonwealth",
+    "to impose and levy proportional and reasonable assessments, rates, and taxes",
+    "to impose and levy, reasonable duties and excises"
+   ],
+   "limits": [
+    "so as the same be not repugnant or contrary to this constitution"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "full power and authority are hereby given and granted to the said general court, from time to time, to make, ordain, and establish, all manner of wholesome and reasonable orders, laws, statutes, and ordinances, directions and instructions, either with penalties or without, as they shall judge to be for the good and welfare of this commonwealth",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "so as the same be not repugnant or contrary to this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "to name and settle annually, or provide by fixed laws, for the naming and settling all civil officers within the said commonwealth; the election and constitution of whom are not hereafter in this form of government otherwise provided for",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the election and constitution of whom are not hereafter in this form of government otherwise provided for"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "to set forth the several duties, powers, and limits, of the several civil and military officers of this commonwealth, and the forms of such oaths or affirmations as shall be respectively administered unto them",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "so as the same be not repugnant or contrary to this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "to impose and levy proportional and reasonable assessments, rates, and taxes, upon all the inhabitants of, and persons resident, and estates lying, within the said commonwealth",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "to impose and levy, reasonable duties and excises, upon any produce, goods, wares, merchandise, and commodities, whatsoever, brought into, produced, manufactured, or being within the same",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "to be issued and disposed of by warrant, under the hand of the governor of this commonwealth for the time being, with the advice and consent of the council, for the public service, in the necessary defence and support of the government of the said commonwealth, and the protection and preservation of the subjects thereof"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "there shall be a valuation of estates within the commonwealth taken anew once in every ten years at least, and as much oftener as the general court shall order",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "a valuation of estates within the commonwealth taken anew once in every ten years at least"
+     ],
+     "forbids": [],
+     "conditions": [
+      "while the public charges of government, or any part thereof, shall be assessed on polls and estates, in the manner that has hitherto been practiced"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a1": {
+  "review": {
+   "title": "Senate districts and number of senators",
+   "plain": "Superseded: It provided for forty councillors and senators elected yearly from districts set by the general court in proportion to public taxes paid, with the counties as districts until altered.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There shall be annually elected forty persons to be councillors and senators for the year ensuing their election; to be chosen by the inhabitants of the districts, into which the commonwealth may from time to time be divided by the general court for that purpose",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the number of such districts shall never be less than thirteen",
+      "no district be so large as to entitle the same to choose more than six senators"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the general court in assigning the numbers to be elected by the respective districts, shall govern themselves by the proportion of the public taxes paid by the said districts; and timely make known to the inhabitants of the commonwealth, the limits of each district, and the number of councillors and senators to be chosen therein",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the several counties in this commonwealth shall, until the general court shall determine it necessary to alter the said districts, be districts for the choice of councillors and senators, and shall elect the following number for councillors and senators",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "until the general court shall determine it necessary to alter the said districts"
+     ],
+     "exceptions": [
+      "except that the counties of Dukes County and Nantucket shall form one district for that purpose"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a2": {
+  "review": {
+   "title": "Election of senators at town meetings",
+   "plain": "The senate is the first branch of the legislature. Senators are elected at town meetings called by the selectmen, who count the votes and send attested records to the secretary of the commonwealth. Voters in plantations and other places outside the towns may also vote. Bracketed dates and voter qualifications are printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [
+    "shall have the same privilege of voting for councillors and senators in the plantations where they reside",
+    "shall have the privilege of giving in their votes for councillors and senators in the town where they shall be assessed"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The senate shall be the first branch of the legislature; and the senators shall be chosen in the following manner, viz. there shall be a meeting forever, of the inhabitants of each town in the several counties of this commonwealth; to be called by the selectmen, and warned in due course of law, at least seven days before, for the purpose of electing persons to be senators and councillors",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "to be called by the selectmen, and warned in due course of law, at least seven days before"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "to remove all doubts concerning the meaning of the word \"inhabitant\" in this constitution, every person shall be considered as an inhabitant, for the purpose of electing and being elected into any office, or place within this state, in that town, district or plantation where he dwelleth, or hath his home",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"inhabitant\": every person shall be considered as an inhabitant, for the purpose of electing and being elected into any office, or place within this state, in that town, district or plantation where he dwelleth, or hath his home"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The selectmen of the several towns shall preside at such meetings impartially; and shall receive the votes of all the inhabitants of such towns present and qualified to vote for senators, and shall sort and count them in open town meeting, and in presence of the town clerk, who shall make a fair record of the name of every person voted for, and of the number of votes against his name",
+     "holder": null,
+     "binds": "The selectmen and the town clerk",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "a fair copy of this record shall be attested by the selectmen and the town clerk, and shall be sealed up, directed to the secretary of the commonwealth, and delivered by the town clerk to the sheriff of the county thirty days at least before; or delivered into the secretary's office seventeen days at least before; and the sheriff of each county shall deliver all such certificates into the secretary's office, seventeen days before",
+     "holder": null,
+     "binds": "The selectmen, the town clerk and the sheriff of each county",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the inhabitants of plantations, qualified as this constitution provides, shall have the same privilege of voting for councillors and senators in the plantations where they reside, as town inhabitants have in their respective towns",
+     "holder": "The inhabitants of plantations outside the towns",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "who are or shall be empowered and required to assess taxes upon themselves toward the support of government"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the assessors thereof shall have like authority for notifying the electors, collecting and returning the votes, as the selectmen and town clerks have in their several towns",
+     "holder": "The assessors of the plantations",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "all other persons living in such places (qualified as aforesaid) who shall be assessed to the support of government by the assessors of an adjacent town, shall have the privilege of giving in their votes for councillors and senators in the town where they shall be assessed, and be notified of the place of meeting by the selectmen of the town",
+     "holder": "Other persons living in places outside the towns",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "who shall be assessed to the support of government by the assessors of an adjacent town"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a3": {
+  "review": {
+   "title": "Examining returns and summoning senators",
+   "plain": "The governor with five of the council shall examine the returned copies of the election records and, fourteen days before the senate convenes, summon those who appear chosen to take their seats. For the first year the former president and council did this. Bracketed dates are printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Duty",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the governor with five of the council, for the time being, shall, as soon as may be, examine the returned copies of such records; and fourteen days before the said day he shall issue his summons to such persons as shall appear to be chosen by voters, to attend on that day, and take their seats accordingly",
+     "holder": null,
+     "binds": "The governor with five of the council",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "for the first year the said returned copies shall be examined by the president and five of the council of the former constitution of government; and the said president shall, in like manner, issue his summons to the persons so elected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "for the first year"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a4": {
+  "review": {
+   "title": "Senate judges its own elections",
+   "plain": "The senate is the final judge of the elections, returns and qualifications of its own members, and shall determine and declare who is elected by each district. The bracketed wording on dates, majority votes and filling vacancies is printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "The senate shall be the final judge of the elections, returns and qualifications of their own members"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The senate shall be the final judge of the elections, returns and qualifications of their own members, as pointed out in the constitution",
+     "holder": "The senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The senate shall determine and declare who are elected by each district, to be senators",
+     "holder": null,
+     "binds": "The senate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "p2-c1-s2-a5": {
+  "review": {
+   "title": "Qualifications of senators",
+   "plain": "No person can be elected a senator who has not been an inhabitant of the commonwealth for the five years immediately before the election, and he must live in his district when elected. Bracketed property requirements are printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no person shall be capable of being elected as a senator"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no person shall be capable of being elected as a senator, who has not been an inhabitant of this commonwealth for the space of five years immediately preceding his election, and at the time of his election, he shall be an inhabitant in the district for which he shall be chosen",
+     "holder": null,
+     "binds": "Candidates for senator",
+     "requires": [
+      "an inhabitant of this commonwealth for the space of five years immediately preceding his election",
+      "at the time of his election, he shall be an inhabitant in the district for which he shall be chosen"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

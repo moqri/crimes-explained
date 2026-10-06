@@ -269,7 +269,7 @@
 <body>
 <main>
   <header>
-    <!-- jur:nav --><nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="../constitution/">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav><!-- /jur:nav -->
+    <!-- jur:nav --><nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="constitution/">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav><!-- /jur:nav -->
     <h1>Crimes Explained: Massachusetts</h1>
     <!-- jur:lede --><p class="lede">Every crime in chapters <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">265 (Crimes Against the Person)</a>, <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266" target="_blank" rel="noopener" title="Chapter 266: official text on malegislature.gov">266 (Crimes Against Property)</a> and <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268" target="_blank" rel="noopener" title="Chapter 268: official text on malegislature.gov">268 (Crimes Against Public Justice)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
@@ -482,6 +482,10 @@
     ['affirmation', 'Affirmation', 'A solemn declaration made instead of an oath, for those who object to swearing.'],
     ['high crimes and misdemeanors', 'High crimes and misdemeanors', 'Grounds for removing an official by impeachment, together with treason and bribery; the Constitution does not list them.'],
     ['ratification', 'Ratification', 'Formal approval, such as a State\'s approval of the Constitution or of an amendment.'],
+    ['general court', 'General court', 'The legislature of Massachusetts: the Senate and the House of Representatives.'],
+    ['initiative petition', 'Initiative petition', 'A petition signed by a set number of voters to put a proposed constitutional amendment or law to a vote of the people.'],
+    ['referendum petition', 'Referendum petition', 'A petition signed by a set number of voters asking that a law passed by the legislature be put to a vote of the people.'],
+    ['writ', 'Writ', 'A written order issued by a court or by a public authority.'],
     ['appellate jurisdiction', 'Appellate jurisdiction', 'The power of a court to review decisions of lower courts.'],
     ['original jurisdiction', 'Original jurisdiction', 'The power of a court to hear a case first, before any other court.'],
   );
@@ -493,6 +497,8 @@
     'Organized Crime & Racketeering', 'Gambling & Obscenity', 'Family & Children', 'Transportation & Aviation', 'Animals & Wildlife'];
   if (CON) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections',
     'Equality & Citizenship', 'Congress', 'The Presidency', 'The Courts', 'States & Federalism', 'Taxes, Money & Commerce', 'War & Military', 'Amending & Ratifying');
+  if (CON && MA) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections', 'Equality & Citizenship',
+    'The Legislature', 'The Governor & Executive', 'The Courts', 'Local Government', 'Taxes, Money & Commerce', 'Education & Religion', 'Military & Militia', 'Amending & Ratifying');
 
   // Severity tiers by maximum prison term (maxYears: 1000 = death possible, 999 = life, null = set elsewhere).
   const TIERS = [
@@ -714,7 +720,8 @@
   }
   const RX = new RegExp([
     String.raw`(?<uscT>\d+)\s+U\.S\.C\.\s+(?<uscS>\d+[a-zA-Z]*(?:[–-]\d+)?)(?<uscP>(?:\([A-Za-z0-9]+\))*)`,
-    ...(CON ? [String.raw`(?<conAm>(?:(?<conPartW>clause|section)\s+(?<conPart>\d+)\s+of\s+)?(?:the\s+)?amendment\s+(?<conAmN>[IVX]+)\b)`]
+    ...(CON && MA ? [String.raw`(?<maAm>Amendments?,\s+Arts?\.\s*(?<maAmList>[IVXLC]+(?:(?:,\s*(?:and\s+)?|\s+and\s+)[IVXLC]+)*))`]
+      : CON ? [String.raw`(?<conAm>(?:(?<conPartW>clause|section)\s+(?<conPart>\d+)\s+of\s+)?(?:the\s+)?amendment\s+(?<conAmN>[IVX]+)\b)`]
       : MA ? MA_CITES : CA ? CA_CITES : NY ? NY_CITES : [
       String.raw`(?<![A-Za-z])(?<stW>[Ss]ection)\s+(?<stS>\d+[A-Za-z]*)(?<stP>(?:\([A-Za-z0-9]+\))*)\s+of\s+title\s+(?<stT>\d+)`,
       String.raw`\b(?<thisCh>[Tt]his chapter)\b`,
@@ -768,6 +775,7 @@
       const g = m.groups, raw = esc(m[0]);
       if (g.uscT) out += xref(g.uscT, g.uscS, raw);
       else if (g.conAm) out += conLink(g.conAmN, g.conPartW, g.conPart, raw);
+      else if (g.maAm) out += esc(m[0]).replace(/\b[IVXLC]+\b/g, rn => maAmLink(rn));
       else if (g.caChS) {   // "Chapter 1 (commencing with Section 187) of …": the chapter's first section, in whichever code owns it
         const ahead2 = ahead(last, 300), own = caOwner(ahead2.slice(ahead2.match(CA_CHAIN)[0].length));
         out += !own ? raw : own.fed ? raw : caLink(own.code, g.caChS, raw);
@@ -831,11 +839,16 @@
     return out + esc(text.slice(last));
   }
   // Constitution: "amendment XVII", "section 2 of amendment XIV" link to that provision's page on this site.
-  const ROMAN_VAL = r => [...r.toUpperCase()].reduce((n, ch, i, a) => { const v = { I: 1, V: 5, X: 10 }[ch], nx = { I: 1, V: 5, X: 10 }[a[i + 1]] || 0; return n + (v < nx ? -v : v); }, 0);
+  const ROMAN_VAL = r => [...r.toUpperCase()].reduce((n, ch, i, a) => { const V = { I: 1, V: 5, X: 10, L: 50, C: 100 }, v = V[ch], nx = V[a[i + 1]] || 0; return n + (v < nx ? -v : v); }, 0);
   function conLink(roman, partW, part, raw) {
     const n = ROMAN_VAL(roman), base = `amend${n}`;
     const id = partW && /section/i.test(partW) && bySection.has(`${base}-s${part}`) ? `${base}-s${part}` : bySection.has(base) ? base : `${base}-s1`;
     return bySection.has(id) || !bySection.size ? `<a class="xref" href="${PAGE_DIR}${id}.html" title="Amendment ${roman}">${raw}</a>` : raw;
+  }
+  // Massachusetts: Article N of Amendments → its page (Article XLVIII → its first part).
+  function maAmLink(rn) {
+    const n = ROMAN_VAL(rn), id = bySection.has(`amend${n}`) ? `amend${n}` : [...bySection.keys()].find(k => k.startsWith(`amend${n}-`));
+    return id ? `<a class="xref" href="${PAGE_DIR}${id}.html" title="Articles of Amendment, Article ${rn}">${rn}</a>` : rn;
   }
   // "110 Stat. 3488": open the Public Law's HTML at that page when we have it (text fragment scrolls to "[[Page 110 STAT. 3488]]"),
   // otherwise the whole-law PDF directly at the page, labeled with its size when large.
@@ -920,7 +933,7 @@
   // Wrap text (a suffix of p.t starting at `from`) in act / condition spans; ranges are absolute offsets into p.t.
   function enrichActs(p, from, text) {
     const end = from + text.length;
-    const ranges = [...(p.a || []).map(([s, e]) => [s, e, 'act']), ...(p.m || []), ...condRanges(p.t)].filter(([s, e]) => e > from && s < end);
+    const ranges = [...(p.a || []).map(([s, e]) => [s, e, 'act']), ...(p.m || []), ...(p.l || []).map(([s, e, id]) => [s, e, 'lnk:' + id]), ...condRanges(p.t)].filter(([s, e]) => e > from && s < end);
     if (!ranges.length) return enrich(text);
     const cuts = [...new Set([from, end, ...ranges.flatMap(([s, e]) => [Math.max(s, from), Math.min(e, end)])])].sort((a, b) => a - b);
     let out = '';
@@ -928,7 +941,10 @@
       const a = cuts[i], b = cuts[i + 1];
       let cls = [...new Set(ranges.filter(([s, e]) => s <= a && e >= b).map(r => r[2]))];
       if (cls.includes('cond') || cls.includes('condw')) cls = cls.filter(c => c !== 'act');   // a condition is never part of the act
-      const seg = enrich(p.t.slice(a, b), p.t.slice(b, b + 250));
+      const lnk = cls.find(c => c.startsWith('lnk:'));
+      cls = cls.filter(c => !c.startsWith('lnk:'));
+      let seg = lnk ? esc(p.t.slice(a, b)) : enrich(p.t.slice(a, b), p.t.slice(b, b + 250));
+      if (lnk) seg = `<a class="xref" href="${PAGE_DIR}${esc(lnk.slice(4))}.html">${seg}</a>`;
       out += cls.length ? `<span class="${cls.join(' ')}">${seg}</span>` : seg;
     }
     return out;
@@ -966,6 +982,7 @@
     ART_IDS = data.articleIds || {}; PEN_SECS = new Set(data.penSections || []);
     if (NY) { chapterSel.options[0].text = 'All articles'; chapterSel.setAttribute('aria-label', 'Filter by article'); }
     if (CON) {
+      Object.assign(CON_PARTS, data.partNames || {});
       chapterSel.options[0].text = 'All parts'; chapterSel.setAttribute('aria-label', 'Filter by article or amendment');
       catSel.options[0].text = 'All topics'; catSel.setAttribute('aria-label', 'Filter by topic');
       sevSel.options[0].text = 'Any kind'; sevSel.setAttribute('aria-label', 'Filter by kind of provision');
@@ -991,7 +1008,8 @@
       const n = crimes.filter(c => c.tier === t).length;
       if (n) sevSel.add(new Option(`${t.label} (${n})`, t.id));
     }
-    $('gloss').innerHTML = GLOSSARY.filter(([k]) => !GLOSS_HIDDEN.has(k))
+    const allText = CON ? crimes.map(c => c.body).join(' ') : '';
+    $('gloss').innerHTML = GLOSSARY.filter(([k]) => !GLOSS_HIDDEN.has(k) && (!CON || allText.includes(k.toLowerCase())))
       .map(([, label, def]) => `<dt>${esc(label)}</dt><dd>${esc(def)}</dd>`).join('');
     restoreFilters();
     render();
@@ -1132,7 +1150,7 @@
               <h3>Official text <span class="legend">${CON ? CON_LEGEND : `<span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span>`}</span></h3>
               <div class="stat">${statGroups(c.text)}</div>
               ${c.source ? `<p class="src"><b>${CON ? 'Proposal and ratification' : 'History'}:</b> ${enrich(c.source)}</p>` : ''}
-              ${c.footnotes.map(f => `<p class="fn">${CON ? '<b>Note (Government Publishing Office):</b> ' : ''}${enrich(f)}</p>`).join('')}
+              ${c.footnotes.map(f => `<p class="fn">${CON ? `<b>Note (${MA ? 'Massachusetts Legislature' : 'Government Publishing Office'}):</b> ` : ''}${enrich(f)}</p>`).join('')}
             </div>
             ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(CON ? provisionsHTML(c) : elementsHTML(c))}
             </div>
@@ -1174,6 +1192,7 @@
   function chipsHTML(c) {
     return `<span class="chip sev"${c.maxPlus ? ' title="Some forms of this crime are punished under other sections and may carry more."' : NY && c.maxYears == null && c.penClass ? ' title="The sentence for this class is set in Penal Law Articles 70 and 80, outside this section."' : ''}>${esc(sevText(c))}</span>
       ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
+      ${CON && c.status && c.status !== 'in force' ? `<span class="chip" title="As the Legislature's notes and brackets show">${esc(c.status[0].toUpperCase() + c.status.slice(1))}</span>` : ''}
       ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
       ${FREQ ? `<span class="chip freq${c.sentenced ? '' : ' none'}" title="People sentenced in federal court in fiscal year ${FREQ.fiscalYear} with at least one conviction under this section (U.S. Sentencing Commission). Federal cases only.">${c.sentenced ? `${c.sentenced.toLocaleString()} sentenced` : 'None sentenced'} (FY${FREQ.fiscalYear})</span>` : ''}
       ${CON ? `<span class="chip">${esc(chapterName(c.chapter) === c.chapterTitle ? c.chapterTitle : `${chapterName(c.chapter)} · ${c.chapterTitle}`)}</span>`

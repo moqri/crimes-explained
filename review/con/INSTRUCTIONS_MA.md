@@ -1,0 +1,11 @@
+# Massachusetts Constitution: differences from the U.S. review
+
+Follow review/con/INSTRUCTIONS.md in full, with these changes for the Constitution of the Commonwealth of Massachusetts.
+
+- Input `section` ids: "preamble", "decl14" (Declaration of Rights, Article XIV), "p2-c1-s2-a7" (Part the Second, Chapter I, Section II, Article VII), "p2-c3-a1", "amend89" (Articles of Amendment, Article LXXXIX), "amend48-init-initpeti2" (a part of Article XLVIII). There are no clause numbers: `where` is "" unless a paragraph begins with "Section 2." (then "Section 2").
+- `notes` are the Legislature's own bracketed notes. "[Annulled by Amendments, Art. CVI.]", "[Superseded by …]", "[Amended by …]", "[This paragraph superseded by …]" say the text was changed: put their words in `changedBy`. "[See Amendments, Arts. XLVI and XLVIII.]" and "[For … see Amendments, Art. …]" are only cross-references: do NOT put them in `changedBy`.
+- Words in square brackets INSIDE the text ("shall be chosen [annually,] on the day in November") are wording the Legislature prints as superseded. Never highlight bracketed words, and do not describe them as current law; you may say in `plain` that the bracketed wording was superseded.
+- New `review` field `status`: "in force"; "partly superseded" (some wording is bracketed, or a note says part was changed); "superseded" (the whole text is in brackets, with no note saying it was annulled); or "annulled" (a note says the whole provision was annulled or superseded). Base it only on the notes and brackets. For an annulled or superseded provision, `plain` starts with "Annulled:" or "Superseded:" and still says what the text provided; leave its highlight lists empty.
+- `category`: exactly one of "Founding & Purposes", "Individual Rights", "Criminal Justice", "Voting & Elections", "Equality & Citizenship", "The Legislature", "The Governor & Executive", "The Courts", "Local Government", "Taxes, Money & Commerce", "Education & Religion", "Military & Militia", "Amending & Ratifying".
+- Use the text's own words ("general court", "governor and council", "commonwealth") as written; the general court is the legislature, and you may say so.
+- Validate with: python3 review/con/validate.py --jur ma <input> <output>

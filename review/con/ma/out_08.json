@@ -1,0 +1,1329 @@
+{
+ "amend40": {
+  "review": {
+   "title": "Disqualifying voters for corrupt election practices",
+   "plain": "Article three of the amendments is amended by inserting after the word \"guardianship\" the words \"and persons temporarily or permanently disqualified by law because of corrupt practices in respect to elections.\"",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article three of the amendments to the constitution is hereby amended by inserting after the word \"guardianship\", in line two, the following: -- and persons temporarily or permanently disqualified by law because of corrupt practices in respect to elections",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend41": {
+  "review": {
+   "title": "Taxing wild or forest lands",
+   "plain": "Annulled: It gave the general court full power and authority to prescribe for wild or forest lands such methods of taxation as will develop and conserve the forest resources of the commonwealth. A note says Amendments, Art. CX annulled it.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Full power and authority are hereby given and granted to the general court to prescribe for wild or forest lands such methods of taxation as will develop and conserve the forest resources of the commonwealth",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend42": {
+  "review": {
+   "title": "Referring acts of the general court to the people",
+   "plain": "Annulled: It gave the general court power to refer any act or resolve to the people by a majority yea and nay vote of each house; the act became law if approved by a majority of voters at the next regular state election. A note says it was annulled and superseded.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Full power and authority are hereby given and granted to the general court to refer to the people for their rejection or approval at the polls any act or resolve of the general court or any part or parts thereof",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art.XLVIII, General Provisions, VIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such reference shall be by a majority yea and nay vote of all members of each house present and voting",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art.XLVIII, General Provisions, VIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any act, resolve, or part thereof so referred shall be voted on at the regular state election next ensuing after such reference, shall become law if approved by a majority of the voters voting thereon, and shall take effect at the expiration of thirty days after the election at which it was approved or at such time after the expiration of the said thirty days as may be fixed in such act, resolve or part thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art.XLVIII, General Provisions, VIII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend43": {
+  "review": {
+   "title": "Taking land to relieve congestion and provide homes",
+   "plain": "The general court may authorize the commonwealth to take land and to hold, improve, sub-divide, build upon and sell it to relieve congestion of population and provide homes for citizens, but not to sell such land or buildings at less than cost.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The general court shall have power to authorize the commonwealth to take land"
+   ],
+   "limits": [
+    "shall not be deemed to authorize the sale of such land or buildings at less than the cost thereof"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have power to authorize the commonwealth to take land and to hold, improve, sub-divide, build upon and sell the same, for the purpose of relieving congestion of population and providing homes for citizens",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "this amendment shall not be deemed to authorize the sale of such land or buildings at less than the cost thereof",
+     "holder": null,
+     "binds": "The commonwealth",
+     "requires": [],
+     "forbids": [
+      "the sale of such land or buildings at less than the cost thereof"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend44": {
+  "review": {
+   "title": "Income tax",
+   "plain": "The general court may impose and levy a tax on income, at different rates for income from different classes of property but at a uniform rate throughout the commonwealth for the same class. It may tax income not derived from property at a lower rate and grant reasonable exemptions and abatements.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "to impose and levy a tax on income",
+    "may grant reasonable exemptions and abatements"
+   ],
+   "limits": [
+    "shall be levied at a uniform rate throughout the commonwealth upon incomes derived from the same class of property"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Full power and authority are hereby given and granted to the general court to impose and levy a tax on income",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "shall be levied at a uniform rate throughout the commonwealth upon incomes derived from the same class of property"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Such tax may be at different rates upon income derived from different classes of property"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court may tax income not derived from property at a lower rate than income derived from property, and may grant reasonable exemptions and abatements",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any class of property the income from which is taxed under the provisions of this article may be exempted from the imposition and levying of proportional and reasonable assessments, rates and taxes as at present authorized by the constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall not be construed to limit the power of the general court to impose and levy reasonable duties and excises",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend45": {
+  "review": {
+   "title": "Absent voting",
+   "plain": "Annulled: It gave the general court power to provide by law for voting by qualified voters who, at the time of an election, are absent from the city or town of which they are inhabitants. A note says it was annulled and superseded.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have power to provide by law for voting by qualified voters of the commonwealth who, at the time of an election, are absent from the city or town of which they are inhabitants in the choice of any officer to be elected or upon any question submitted at such election",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. LXXVI and CV."
+     ]
+    }
+   ]
+  }
+ },
+ "amend46": {
+  "review": {
+   "title": "Free exercise of religion and public money",
+   "plain": "No law shall prohibit the free exercise of religion. Public school money goes only to schools conducted according to law, and public money or credit may not aid private or denominational schools and institutions or any church, with listed exceptions. Inmates keep religious exercises and cannot be compelled to attend religious services.",
+   "category": "Education & Religion",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [
+    "the free exercise of religion",
+    "the opportunity of religious exercises therein of his own faith"
+   ],
+   "powers": [],
+   "limits": [
+    "No law shall be passed prohibiting",
+    "shall be applied to, and expended in, no other schools than those which are conducted according to law",
+    "no grant, appropriation or use of public money or property or loan of public credit shall be made or authorized by the commonwealth or any political division thereof",
+    "no inmate of such institution shall be compelled to attend religious services or receive religious instruction against his will"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In place of article XVIII of the articles of amendment of the constitution ratified and adopted April 9, 1821, the following article of amendment, submitted by the constitutional convention, was ratified and adopted November 6, 1917",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "limit",
+     "what": "No law shall be passed prohibiting the free exercise of religion",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Passing a law prohibiting the free exercise of religion"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "limit",
+     "what": "All moneys raised by taxation in the towns and cities for the support of public schools, and all moneys which may be appropriated by the commonwealth for the support of common schools shall be applied to, and expended in, no other schools than those which are conducted according to law, under the order and superintendence of the authorities of the town or city in which the money is expended",
+     "holder": null,
+     "binds": "The towns and cities and the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "limit",
+     "what": "no grant, appropriation or use of public money or property or loan of public credit shall be made or authorized by the commonwealth or any political division thereof for the purpose of founding, maintaining or aiding any other school or institution of learning, whether under public control or otherwise, wherein any denominational doctrine is inculcated, or any other school, or any college, infirmary, hospital, institution, or educational, charitable or religious undertaking which is not publicly owned and under the exclusive control, order and superintendence of public officers or public agents authorized by the commonwealth or federal authority or both",
+     "holder": null,
+     "binds": "The commonwealth or any political division thereof",
+     "requires": [],
+     "forbids": [
+      "founding, maintaining or aiding any other school or institution of learning, whether under public control or otherwise, wherein any denominational doctrine is inculcated",
+      "any other school, or any college, infirmary, hospital, institution, or educational, charitable or religious undertaking which is not publicly owned and under the exclusive control, order and superintendence of public officers or public agents"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "appropriations may be made for the maintenance and support of the Soldiers' Home in Massachusetts and for free public libraries in any city or town, and to carry out legal obligations, if any, already entered into"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "limit",
+     "what": "no such grant, appropriation or use of public money or property or loan of public credit shall be made or authorized for the purpose of founding, maintaining or aiding any church, religious denomination or society",
+     "holder": null,
+     "binds": "The commonwealth or any political division thereof",
+     "requires": [],
+     "forbids": [
+      "founding, maintaining or aiding any church, religious denomination or society"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "power",
+     "what": "Nothing herein contained shall be construed to prevent the commonwealth, or any political division thereof, from paying to privately controlled hospitals, infirmaries, or institutions for the deaf, dumb or blind not more than the ordinary and reasonable compensation for care or support actually rendered or furnished by such hospitals, infirmaries or institutions to such persons as may be in whole or in part unable to support or care for themselves",
+     "holder": "The commonwealth, or any political division thereof",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not more than the ordinary and reasonable compensation for care or support actually rendered or furnished"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "right",
+     "what": "Nothing herein contained shall be construed to deprive any inmate of a publicly controlled reformatory, penal or charitable institution of the opportunity of religious exercises therein of his own faith",
+     "holder": "Any inmate of a publicly controlled reformatory, penal or charitable institution",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "limit",
+     "what": "no inmate of such institution shall be compelled to attend religious services or receive religious instruction against his will, or, if a minor, without the consent of his parent or guardian",
+     "holder": "Any inmate of such institution",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "compelling an inmate to attend religious services or receive religious instruction against his will, or, if a minor, without the consent of his parent or guardian"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 5",
+     "kind": "structure",
+     "what": "This amendment shall not take effect until the October first next succeeding its ratification and adoption by the people",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend47": {
+  "review": {
+   "title": "Food, necessaries and shelter in emergencies",
+   "plain": "Maintaining and distributing at reasonable rates, during war, public exigency, emergency or distress, a sufficient supply of food and other common necessaries of life, and providing shelter, are public functions; the commonwealth and its cities and towns may take and provide them as the general court determines.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the commonwealth and the cities and towns therein may take and may provide the same for their inhabitants"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The maintenance and distribution at reasonable rates, during time of war, public exigency, emergency or distress, of a sufficient supply of food and other common necessaries of life and the providing of shelter, are public functions",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the commonwealth and the cities and towns therein may take and may provide the same for their inhabitants in such manner as the general court shall determine",
+     "holder": "The commonwealth and the cities and towns therein",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "during time of war, public exigency, emergency or distress"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-defi1": {
+  "review": {
+   "title": "Initiative and referendum reserved to the people",
+   "plain": "Legislative power stays vested in the general court, but the people reserve the popular initiative, the power of a specified number of voters to submit constitutional amendments and laws to the people, and the popular referendum, the power to submit laws enacted by the general court to the people.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "Legislative power shall continue to be vested in the general court",
+    "the people reserve to themselves the popular initiative",
+    "the popular referendum"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Legislative power shall continue to be vested in the general court",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the people reserve to themselves the popular initiative, which is the power of a specified number of voters to submit constitutional amendments and laws to the people for approval or rejection",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"popular initiative\": the power of a specified number of voters to submit constitutional amendments and laws to the people for approval or rejection"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the people reserve to themselves the popular referendum, which is the power of a specified number of voters to submit laws, enacted by the general court, to the people for their ratification or rejection",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"popular referendum\": the power of a specified number of voters to submit laws, enacted by the general court, to the people for their ratification or rejection"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-init-initpeti2": {
+  "review": {
+   "title": "What initiative petitions may contain",
+   "plain": "An initiative petition must set out the full text of the measure. Measures on religion, judges, courts, local matters or specific appropriations, and propositions inconsistent with listed individual rights, may not be proposed by initiative. Petitions go to the general court. Bracketed Section 3, on originating petitions, is printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "status": "partly superseded",
+   "rights": [
+    "The right to receive compensation for private property appropriated to public use",
+    "the right of access to and protection in courts of justice",
+    "the right of trial by jury",
+    "freedom of the press",
+    "freedom of speech",
+    "freedom of elections",
+    "the right of peaceable assembly"
+   ],
+   "powers": [],
+   "limits": [
+    "shall be proposed by an initiative petition",
+    "shall be the subject of an initiative amendment",
+    "shall be the subject of an initiative or referendum petition",
+    "shall be the subject of an initiative petition",
+    "shall extend to the legislative power of the people"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "An initiative petition shall set forth the full text of the constitutional amendment or law, hereinafter designated as the measure, which is proposed by the petition",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"the measure\": the constitutional amendment or law which is proposed by the petition"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "limit",
+     "what": "No measure that relates to religion, religious practices or religious institutions; or to the appointment, qualification, tenure, removal, recall or compensation of judges; or to the reversal of a judicial decision; or to the powers, creation or abolition of courts; or the operation of which is restricted to a particular town, city or other political division or to particular districts or localities of the commonwealth; or that makes a specific appropriation of money from the treasury of the commonwealth, shall be proposed by an initiative petition",
+     "holder": null,
+     "binds": "Initiative petitions",
+     "requires": [],
+     "forbids": [
+      "a measure that relates to religion, religious practices or religious institutions",
+      "a measure that relates to the appointment, qualification, tenure, removal, recall or compensation of judges",
+      "a measure that relates to the reversal of a judicial decision",
+      "a measure that relates to the powers, creation or abolition of courts",
+      "a measure the operation of which is restricted to a particular town, city or other political division or to particular districts or localities of the commonwealth",
+      "a measure that makes a specific appropriation of money from the treasury of the commonwealth"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "the general court shall raise by taxation or otherwise and shall appropriate such money as may be necessary to carry such law into effect",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if a law approved by the people is not repealed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the eighteenth amendment of the constitution, as approved and ratified to take effect on the first day of October in the year nineteen hundred and eighteen, nor this provision for its protection, shall be the subject of an initiative amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "making the eighteenth amendment of the constitution, or this provision for its protection, the subject of an initiative amendment"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No proposition inconsistent with any one of the following rights of the individual, as at present declared in the declaration of rights, shall be the subject of an initiative or referendum petition",
+     "holder": "The individual",
+     "binds": "Initiative and referendum petitions",
+     "requires": [],
+     "forbids": [
+      "The right to receive compensation for private property appropriated to public use",
+      "the right of access to and protection in courts of justice",
+      "the right of trial by jury",
+      "protection from unreasonable search, unreasonable bail and the law martial",
+      "freedom of the press",
+      "freedom of speech",
+      "freedom of elections",
+      "the right of peaceable assembly"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No part of the constitution specifically excluding any matter from the operation of the popular initiative and referendum shall be the subject of an initiative petition; nor shall this section be the subject of such a petition",
+     "holder": null,
+     "binds": "Initiative petitions",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The limitations on the legislative power of the general court in the constitution shall extend to the legislative power of the people as exercised hereunder",
+     "holder": null,
+     "binds": "The people",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "duty",
+     "what": "If an initiative petition, signed by the required number of qualified voters, has been filed as aforesaid, the secretary of the commonwealth shall, upon the assembling of the general court, transmit it to the clerk of the house of representatives, and the proposed measure shall then be deemed to be introduced and pending",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If an initiative petition, signed by the required number of qualified voters, has been filed as aforesaid"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-init-legiactigene3": {
+  "review": {
+   "title": "Committee hearings and legislative substitutes",
+   "plain": "A measure introduced by initiative petition shall be referred to a committee, which hears the petitioners and parties in interest and reports in writing with reasons. The general court may submit to the people a legislative substitute, grouped on the ballot as an alternative.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "submit to the people a substitute for any measure introduced by initiative petition"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "duty",
+     "what": "If a measure is introduced into the general court by initiative petition, it shall be referred to a committee thereof, and the petitioners and all parties in interest shall be heard, and the measure shall be considered and reported upon to the general court with the committee's recommendations, and the reasons therefor, in writing",
+     "holder": null,
+     "binds": "The general court and its committee",
+     "requires": [
+      "Majority and minority reports shall be signed by the members of said committee"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "power",
+     "what": "The general court may, by resolution passed by yea and nay vote, either by the two houses separately, or in the case of a constitutional amendment by a majority of those voting thereon in joint session in each of two years as hereinafter provided, submit to the people a substitute for any measure introduced by initiative petition",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "such substitute to be designated on the ballot as the legislative substitute for such an initiative measure and to be grouped with it as an alternative therefor"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-init-legiaction4": {
+  "review": {
+   "title": "Legislative action on proposed constitutional amendments",
+   "plain": "An initiative amendment is voted on as introduced unless amended by three-fourths in joint session. A legislative amendment needs a majority of all members elected, and an initiative amendment one-fourth, in two successive general courts; then the people vote. Bracketed Sections 1 and 2 are printed as superseded.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "A proposal for an amendment to the constitution introduced by initiative petition shall be voted upon in the form in which it was introduced, unless such amendment is amended by vote of three-fourths of the members voting thereon in joint session",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "which vote shall be taken by call of the yeas and nays if called for by any member"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless such amendment is amended by vote of three-fourths of the members voting thereon in joint session"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "Final legislative action in the joint session upon any amendment shall be taken only by call of the yeas and nays, which shall be entered upon the journals of the two houses",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "an unfavorable vote at any stage preceding final action shall be verified by call of the yeas and nays, to be entered in like manner"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "At such joint session a legislative amendment receiving the affirmative votes of a majority of all the members elected, or an initiative amendment receiving the affirmative votes of not less than one-fourth of all the members elected, shall be referred to the next general court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 5",
+     "kind": "duty",
+     "what": "If in the next general court a legislative amendment shall again be agreed to in joint session by a majority of all the members elected, or if an initiative amendment or a legislative substitute shall again receive the affirmative votes of a least one-fourth of all the members elected, such fact shall be certified by the clerk of such joint session to the secretary of the commonwealth, who shall submit the amendment to the people at the next state election",
+     "holder": null,
+     "binds": "The clerk of such joint session and the secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 5",
+     "kind": "structure",
+     "what": "Such amendment shall become part of the constitution if approved, in the case of a legislative amendment, by a majority of the voters voting thereon, or if approved, in the case of an initiative amendment or a legislative substitute, by voters equal in number to at least thirty per cent of the total number of ballots cast at such state election and also by a majority of the voters voting on such amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-init-legiaction5": {
+  "review": {
+   "title": "Legislative action on proposed initiative laws",
+   "plain": "Annulled: It required both houses to vote by June on an initiative law signed by twenty thousand voters; if not enacted and five thousand more signatures were filed, the people voted on it. A majority of the first ten signers could amend it. Notes in the text say both sections were superseded.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "If an initiative petition for a law is introduced into the general court, signed by not less than twenty thousand qualified voters, a vote shall be taken by yeas and nays in both houses before the first Wednesday of June upon the enactment of such law in the form in which it stands in such petition",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "If the general court fails to enact such law before the first Wednesday of June, and if such petition is completed by filing with the secretary of the commonwealth, not earlier than the first Wednesday of the following July nor later than the first Wednesday of the following August, not less than five thousand signatures of qualified voters, in addition to those signing such initiative petition, then the secretary of the commonwealth shall submit such proposed law to the people at the next state election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "If it shall be approved by voters equal in number to at least thirty per cent of the total number of ballots cast at such state election and also by a majority of the voters voting on such law, it shall become law, and shall take effect in thirty days after such state election or at such time after such election as may be provided in such law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "right",
+     "what": "If the general court fails to pass a proposed law before the first Wednesday of June, a majority of the first ten signers of the initiative petition therefor shall have the right, subject to certification by the attorney-general, to amend the measure which is the subject of such petition",
+     "holder": "A majority of the first ten signers of the initiative petition",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-init-confandalte6": {
+  "review": {
+   "title": "Conflicting and alternative measures",
+   "plain": "When measures approved at the same election conflict, the one with the most affirmative votes governs, and a constitutional amendment governs a law. The general court may group measures on the ballot as conflicting or alternative, but not an amendment with a law.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "may provide for grouping and designating upon the ballot as conflicting measures or as alternative measures"
+   ],
+   "limits": [
+    "a proposed constitutional amendment and a proposed law shall not be so grouped"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If in any judicial proceeding, provisions of constitutional amendments or of laws approved by the people at the same election are held to be in conflict, then the provisions contained in the measure that received the largest number of affirmative votes at such election shall govern",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A constitutional amendment approved at any election shall govern any law approved at the same election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court, by resolution passed as hereinbefore set forth, may provide for grouping and designating upon the ballot as conflicting measures or as alternative measures, only one of which is to be adopted, any two or more proposed constitutional amendments or laws which have been or may be passed or qualified for submission to the people at any one election",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "the ballot shall afford an opportunity to the voter to vote for each of the measures or for only one of the measures, as may be provided in said resolution, or against each of the measures so grouped as conflicting or as alternative"
+     ],
+     "forbids": [
+      "a proposed constitutional amendment and a proposed law shall not be so grouped"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In case more than one of the measures so grouped shall receive the vote required for its approval as herein provided, only that one for which the largest affirmative vote was cast shall be deemed to be approved",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-ref-whenstatshal1": {
+  "review": {
+   "title": "When laws take effect",
+   "plain": "No law passed by the general court shall take effect earlier than ninety days after it has become a law, except emergency laws and laws which may not be made the subject of a referendum petition.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No law passed by the general court shall take effect earlier than ninety days after it has become a law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No law passed by the general court shall take effect earlier than ninety days after it has become a law",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "excepting laws declared to be emergency laws and laws which may not be made the subject of a referendum petition"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-ref-emermeas2": {
+  "review": {
+   "title": "Emergency laws",
+   "plain": "An emergency law must contain a preamble stating the facts and that it is necessary for the immediate preservation of the public peace, health, safety or convenience. The governor may file a statement making a law take effect forthwith. Franchise grants cannot be emergency laws. Bracketed wording on a two-thirds vote is printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "files with the secretary of the commonwealth a statement declaring"
+   ],
+   "limits": [
+    "no grant of any franchise or amendment thereof, or renewal or extension thereof for more than one year shall be declared to be an emergency law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A law declared to be an emergency law shall contain a preamble setting forth the facts constituting the emergency, and shall contain the statement that such law is necessary for the immediate preservation of the public peace, health, safety or convenience",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "a preamble setting forth the facts constituting the emergency",
+      "the statement that such law is necessary for the immediate preservation of the public peace, health, safety or convenience"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if the governor, at any time before the election at which it is to be submitted to the people on referendum, files with the secretary of the commonwealth a statement declaring that in his opinion the immediate preservation of the public peace, health, safety or convenience requires that such law should take effect forthwith and that it is an emergency law and setting forth the facts constituting the emergency, then such law, if not previously suspended, shall take effect without suspension, or if such law has been so suspended such suspension shall thereupon terminate and such law shall thereupon take effect",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "at any time before the election at which it is to be submitted to the people on referendum"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no grant of any franchise or amendment thereof, or renewal or extension thereof for more than one year shall be declared to be an emergency law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "declaring a grant of any franchise or amendment thereof, or renewal or extension thereof for more than one year, to be an emergency law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-ref-refepeti3": {
+  "review": {
+   "title": "Referendum petitions",
+   "plain": "A referendum petition may ask for a referendum on any law not expressly excluded; laws on religion, judges, courts, local matters or ordinary appropriations are excluded. Petitions to suspend a law, or to repeal an emergency or unsuspended law, need ten signers and filing within thirty days. Bracketed wording is printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "A referendum petition may ask for a referendum to the people upon any law enacted by the general court",
+    "A referendum petition may ask for the repeal of an emergency law"
+   ],
+   "limits": [
+    "shall be the subject of a referendum petition"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "power",
+     "what": "A referendum petition may ask for a referendum to the people upon any law enacted by the general court which is not herein expressly excluded",
+     "holder": "The people, by referendum petition",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "limit",
+     "what": "No law that relates to religion, religious practices or religious institutions; or to the appointment, qualification, tenure, removal or compensation of judges; or to the powers, creation or abolition of courts; or the operation of which is restricted to a particular town, city or other political division or to particular districts or localities of the commonwealth; or that appropriates money for the current or ordinary expenses of the commonwealth or for any of its departments, boards, commissions or institutions shall be the subject of a referendum petition",
+     "holder": null,
+     "binds": "Referendum petitions",
+     "requires": [],
+     "forbids": [
+      "a law that relates to religion, religious practices or religious institutions",
+      "a law that relates to the appointment, qualification, tenure, removal or compensation of judges",
+      "a law that relates to the powers, creation or abolition of courts",
+      "a law the operation of which is restricted to a particular town, city or other political division or to particular districts or localities of the commonwealth",
+      "a law that appropriates money for the current or ordinary expenses of the commonwealth or for any of its departments, boards, commissions or institutions"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "A petition asking for a referendum on a law, and requesting that the operation of such law be suspended, shall first be signed by ten qualified voters and shall then be filed with the secretary of the commonwealth not later than thirty days after the law that is the subject of the petition has become law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "power",
+     "what": "A referendum petition may ask for the repeal of an emergency law or of a law which takes effect because the referendum petition does not contain a request for suspension",
+     "holder": "The people, by referendum petition",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "Such petition shall first be signed by ten qualified voters of the commonwealth, and shall then be filed with the secretary of the commonwealth not later than thirty days after the law which is the subject of the petition has become law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-gen-idenandcert1": {
+  "review": {
+   "title": "Identifying signatures and paid petition circulators",
+   "plain": "Provision shall be made by law for identifying and certifying petition signatures and for penalties for signing or refusing to sign for money and for forgery. The general court may bar co-partnerships or corporations from circulating petitions for hire, license paid circulators, and make other reasonable regulations.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "may require individuals who circulate petitions for hire or reward to be licensed",
+    "may make other reasonable regulations to prevent abuses arising from the circulation of petitions for hire or reward"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Provision shall be made by law for the proper identification and certification of signatures to the petitions hereinbefore referred to, and for penalties for signing any such petition, or refusing to sign it, for money or other valuable consideration, and for the forgery of signatures thereto",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Pending the passage of such legislation all provisions of law relating to the identification and certification of signatures to petitions for the nomination of candidates for state offices or to penalties for the forgery of such signatures shall apply to the signatures to the petitions herein referred to",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Pending the passage of such legislation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court may provide by law that no co-partnership or corporation shall undertake for hire or reward to circulate petitions, may require individuals who circulate petitions for hire or reward to be licensed, and may make other reasonable regulations to prevent abuses arising from the circulation of petitions for hire or reward",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-gen-limionsign2": {
+  "review": {
+   "title": "Limit on signatures from one county",
+   "plain": "Not more than one-fourth of the certified signatures on any petition shall be those of registered voters of any one county.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Not more than one-fourth of the certified signatures on any petition shall be those of registered voters of any one county"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Not more than one-fourth of the certified signatures on any petition shall be those of registered voters of any one county",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend48-gen-formofball3": {
+  "review": {
+   "title": "Form of the ballot question",
+   "plain": "Each proposed amendment and law submitted to the people is described on the ballot by a description determined by the attorney-general, and the secretary of the commonwealth numbers each question and prints it in the set form, stating whether and by what vote the general court approved it.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Each proposed amendment to the constitution, and each law submitted to the people, shall be described on the ballots by a description to be determined by the attorney-general, subject to such provision as may be made by law",
+     "holder": null,
+     "binds": "The attorney-general",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the secretary of the commonwealth shall give each question a number and cause such question, except as otherwise authorized herein, to be printed on the ballot in the following form",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In the case of an amendment to the constitution: Shall an amendment to the constitution (here insert description, and state, in distinctive type, whether approved or disapproved by the general court, and by what vote thereon) be approved?",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In the case of a law: Shall a law (here insert description, and state, in distinctive type, whether approved or disapproved by the general court, and by what vote thereon) be approved?",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

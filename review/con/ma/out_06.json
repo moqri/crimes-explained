@@ -1,0 +1,1307 @@
+{
+ "p2-c6-a11": {
+  "review": {
+   "title": "Enrolling and printing the constitution",
+   "plain": "This form of government shall be enrolled on parchment, deposited in the secretary's office and be part of the laws of the land, and printed copies shall be prefixed to all future editions of the commonwealth's laws.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This form of government shall be enrolled on parchment and deposited in the secretary's office, and be a part of the laws of the land",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "printed copies thereof shall be prefixed to the book containing the laws of this commonwealth, in all future editions of the said laws",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend1": {
+  "review": {
+   "title": "Bills not returned when the general court adjourns",
+   "plain": "Annulled: It provided that if the general court adjourned within five days after a bill or resolve was laid before the governor, preventing its return with objections, the bill or resolve would not become a law. A note says Amendments, Art. XC, Sec. 2 superseded it.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such bill or resolve shall not become a law, nor have force as such",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any bill or resolve shall be objected to, and not approved by the governor; and if the general court shall adjourn within five days after the same shall have been laid before the governor for his approbation, and thereby prevent his returning it with his objections"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. XC, Sec. 2."
+     ]
+    }
+   ]
+  }
+ },
+ "amend2": {
+  "review": {
+   "title": "City governments",
+   "plain": "Annulled: It gave the general court power to erect city governments in towns, only in towns of at least twelve thousand inhabitants and with the consent of a majority of the inhabitants, with their by-laws subject to annulment by the general court. A note says Amendments, Art. LXXXIX annulled it.",
+   "category": "Local Government",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have full power and authority to erect and constitute municipal or city governments, in any corporate town or towns in this commonwealth, and to grant to the inhabitants thereof such powers, privileges, and immunities, not repugnant to the constitution as the general court shall deem necessary or expedient for the regulation and government thereof",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "to prescribe the manner of calling and holding public meetings of the inhabitants, in wards or otherwise for the election of officers under the constitution, and the manner of returning the votes given at such meetings",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no such government shall be erected or constituted in any town not containing twelve thousand inhabitants, nor unless it be with the consent, and on the application of a majority of the inhabitants of such town, present and voting thereon",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [
+      "Erecting a city government in any town not containing twelve thousand inhabitants",
+      "Erecting a city government without the consent, and on the application of a majority of the inhabitants of such town"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all by-laws made by such municipal or city government shall be subject, at all times to be annulled by the general court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXIX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend3": {
+  "review": {
+   "title": "Who may vote for state officers",
+   "plain": "Every citizen who has resided six calendar months in the town or district where he claims a right to vote has a right to vote for governor, lieutenant governor, senators and representatives, except persons under guardianship; no other person may vote. Bracketed qualifications are printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "status": "partly superseded",
+   "rights": [
+    "shall have a right to vote in such election of governor, lieutenant governor, senators and representatives"
+   ],
+   "powers": [],
+   "limits": [
+    "no other person shall be entitled to vote in such election"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Every citizen who shall have resided within the town or district in which he may claim a right to vote, six calendar months next preceding any election of governor, lieutenant governor, senators, or representatives, shall have a right to vote in such election",
+     "holder": "Every citizen so qualified",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "who shall have resided within the town or district in which he may claim a right to vote, six calendar months next preceding any election"
+     ],
+     "exceptions": [
+      "excepting persons under guardianship"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no other person shall be entitled to vote in such election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Voting in such election by any other person"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend4": {
+  "review": {
+   "title": "Notaries public and other appointments",
+   "plain": "Notaries public shall be appointed by the governor like judicial officers and hold office for seven years unless sooner removed. Bracketed paragraphs on vacancies for secretary or treasurer, a commissary-general and militia officers are printed as superseded and annulled.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [
+    "Notaries public shall be appointed by the governor"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Notaries public shall be appointed by the governor in the same manner as judicial officers are appointed",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Notaries public shall hold their offices during seven years, unless sooner removed by the governor with the consent of the council, upon the address of both houses of the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless sooner removed by the governor with the consent of the council, upon the address of both houses of the legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In case the office of secretary or treasurer of the commonwealth shall become vacant during the recess of the general court, the governor, with the advice and consent of the council, shall nominate and appoint a competent and suitable person to such vacant office, who shall hold the same until a successor shall be appointed by the general court",
+     "holder": "The governor, with the advice and consent of the council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This paragraph superseded by Amendments, Art. XVII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Whenever the exigencies of the commonwealth shall require the appointment of a commissary-general, he shall be nominated, appointed and commissioned in such manner as the legislature may, by law, prescribe",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Last two paragraphs annulled and superseded by Amendments, Art. LIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All officers commissioned to command in the militia may be removed from office in such manner as the legislature may, by law, prescribe",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Last two paragraphs annulled and superseded by Amendments, Art. LIII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend5": {
+  "review": {
+   "title": "Militia companies vote for their officers",
+   "plain": "Annulled: It gave all members of militia companies, whether under or above twenty-one years of age, a right to vote in elections of their captains and subalterns. A note says Amendments, Art. LIII annulled it.",
+   "category": "Military & Militia",
+   "kind": "Right",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "In the elections of captains and subalterns of the militia, all the members of their respective companies, as well those under as those above the age of twenty-one years, shall have a right to vote",
+     "holder": "All the members of the militia companies",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LIII"
+     ]
+    }
+   ]
+  }
+ },
+ "amend6": {
+  "review": {
+   "title": "Oath of allegiance for officers",
+   "plain": "Every person chosen or appointed to any civil or military office must, before entering on its duties, swear to bear true faith and allegiance to the Commonwealth of Massachusetts and support its constitution. Quakers who decline the oath shall affirm instead.",
+   "category": "The Governor & Executive",
+   "kind": "Duty",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Instead of the oath of allegiance prescribed by the constitution, the following oath shall be taken and subscribed by every person chosen or appointed to any office, civil or military under the government of this commonwealth, before he shall enter on the duties of his office: \"I, A. B. do solemnly swear, that I will bear true faith and allegiance to the Commonwealth of Massachusetts, and will support the constitution thereof. So help me God.\"",
+     "holder": null,
+     "binds": "Every person chosen or appointed to any office, civil or military under the government of this commonwealth",
+     "requires": [
+      "the following oath shall be taken and subscribed by every person chosen or appointed to any office, civil or military under the government of this commonwealth, before he shall enter on the duties of his office"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "he shall make his affirmation in the foregoing form, omitting the word \"swear\" and inserting instead thereof the word \"affirm;\" and omitting the words \"So help me God,\" and subjoining, instead thereof, the words \"This I do under the pains and penalties of perjury.\"",
+     "holder": null,
+     "binds": "Any person of the denomination called Quakers who declines taking said oath",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when any person shall be of the denomination called Quakers, and shall decline taking said oath"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend7": {
+  "review": {
+   "title": "No other oaths for elected officers",
+   "plain": "No oath, declaration or subscription, except the oath in the preceding article and the oath of office, shall be required of the governor, lieutenant governor, councillors, senators or representatives to qualify them for their offices.",
+   "category": "The Governor & Executive",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No oath, declaration or subscription"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No oath, declaration or subscription shall be required of the governor, lieutenant governor, councillors, senators or representatives, to qualify them to perform the duties of their respective offices",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring any other oath, declaration or subscription of the governor, lieutenant governor, councillors, senators or representatives to qualify them"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "excepting the oath prescribed in the preceding article and the oath of office"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend8": {
+  "review": {
+   "title": "Offices that cannot be held together",
+   "plain": "Judges (except of the court of sessions) and federal officeholders (except postmasters) cannot also be governor, lieutenant governor, councillor or legislator; listed state officers who accept election to Congress resign their offices; and judges of the courts of common pleas hold no other state office.",
+   "category": "The Governor & Executive",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall, at the same time, hold the office of governor, lieutenant governor, or councillor, or have a seat in the senate or house of representatives of this commonwealth",
+    "shall continue to hold his said office after being elected a member of Congress of the United States, and accepting that trust",
+    "shall hold no other office under the government of this commonwealth"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No judge of any court of this commonwealth and no person holding any office under the authority of the United States shall, at the same time, hold the office of governor, lieutenant governor, or councillor, or have a seat in the senate or house of representatives of this commonwealth",
+     "holder": null,
+     "binds": "Judges of any court of this commonwealth and persons holding any office under the authority of the United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except the court of sessions",
+      "postmasters excepted"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no judge of any court in this commonwealth nor the attorney-general, solicitor-general, county attorney, clerk of any court, sheriff, treasurer and receiver-general, register of probate, nor register of deeds, shall continue to hold his said office after being elected a member of Congress of the United States, and accepting that trust",
+     "holder": null,
+     "binds": "Judges, the attorney-general, solicitor-general, county attorney, clerk of any court, sheriff, treasurer and receiver-general, register of probate, and register of deeds",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except the court of sessions"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the acceptance of such trust by any of the officers aforesaid shall be deemed and taken to be a resignation of his said office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "judges of the courts of common pleas shall hold no other office under the government of this commonwealth",
+     "holder": null,
+     "binds": "Judges of the courts of common pleas",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the office of justice of the peace and militia offices excepted"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend9": {
+  "review": {
+   "title": "Amending the constitution through the general court",
+   "plain": "Annulled: It let amendments agreed to by a majority of senators and two thirds of representatives in two successive general courts be submitted to the people, becoming part of the constitution if ratified by a majority of qualified voters voting. A note says Amendments, Art. XLVIII annulled it.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such proposed amendment or amendments shall be entered on the journals of the two houses, with the yeas and nays taken thereon, and referred to the general court then next to be chosen, and shall be published",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If any specific and particular amendment or amendments to the constitution be proposed in the general court, and agreed to by a majority of the senators and two thirds of the members of the house of representatives present and voting thereon"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XLVIII, General Provisions, VIII"
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "it shall be the duty of the general court to submit such proposed amendment or amendments to the people",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if, in the general court next chosen as aforesaid, such proposed amendment or amendments shall be agreed to by a majority of the senators and two thirds of the members of the house of representatives present and voting thereon"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XLVIII, General Provisions, VIII"
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "they shall become part of the constitution of this commonwealth",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if they shall be approved and ratified by a majority of the qualified voters voting thereon, at meetings legally warned and holden for that purpose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XLVIII, General Provisions, VIII"
+     ]
+    }
+   ]
+  }
+ },
+ "amend10": {
+  "review": {
+   "title": "Start of the political year",
+   "plain": "The political year begins on the first Wednesday of January; the general court assembles every year that day and is dissolved the day before, but may assemble at other times or when called by the governor. Provisions referring to the last Wednesday of May now refer to January. Bracketed wording is printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The political year shall begin on the first Wednesday of January instead of the last Wednesday of May, and the general court shall assemble every year on the said first Wednesday of January, and shall proceed at that session to make all the elections, and do all the other acts which are by the constitution required to be made and done at the session which has heretofore commenced on the last Wednesday of May",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the general court shall be dissolved on the next day preceding the first Wednesday of January, without any proclamation or other act of the governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "nothing herein contained shall prevent the general court from assembling at such other times as they shall judge necessary, or when called together by the governor",
+     "holder": "The general court; the governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The meeting for the choice of governor, lieutenant governor, senators and representatives shall be held on the second Monday of November in every year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This paragraph superseded by Amendments, Art. XV"
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the other provisions of the constitution, respecting the elections and proceedings of the members of the general court, or of any other officers or persons whatever, that have reference to the last Wednesday of May, as the commencement of the political year, shall be so far altered as to have like reference to the first Wednesday of January",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall go into operation on the first day of October next following the day when the same shall be duly ratified and adopted as an amendment of the constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the provisions of the existing constitution inconsistent with the provisions herein contained are hereby wholly annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend11": {
+  "review": {
+   "title": "Religious societies and equal protection of sects",
+   "plain": "Replacing the third article of the bill of rights, religious societies have the right to elect and support their pastors and raise money for worship; members may leave by written notice; all peaceable sects are equally protected by law, and none may be subordinated to another.",
+   "category": "Education & Religion",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "shall ever have the right to elect their pastors or religious teachers, to contract with them for their support, to raise money for erecting and repairing houses for public worship, for the maintenance of religious instruction, and for the payment of necessary expenses",
+    "shall be equally under the protection of the law"
+   ],
+   "powers": [],
+   "limits": [
+    "no subordination of any one sect or denomination to another shall ever be established by law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Instead of the third article of the bill of rights, the following modification and amendment thereof is substituted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the several religious societies of this commonwealth, whether corporate or unincorporate, at any meeting legally warned and holden for that purpose, shall ever have the right to elect their pastors or religious teachers, to contract with them for their support, to raise money for erecting and repairing houses for public worship, for the maintenance of religious instruction, and for the payment of necessary expenses",
+     "holder": "The several religious societies of this commonwealth, whether corporate or unincorporate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "at any meeting legally warned and holden for that purpose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all persons belonging to any religious society shall be taken and held to be members, until they shall file with the clerk of such society, a written notice, declaring the dissolution of their membership, and thenceforth shall not be liable for any grant or contract which may be thereafter made, or entered into by such society",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "all religious sects and denominations, demeaning themselves peaceably, and as good citizens of the commonwealth, shall be equally under the protection of the law",
+     "holder": "All religious sects and denominations, demeaning themselves peaceably, and as good citizens of the commonwealth",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "demeaning themselves peaceably, and as good citizens of the commonwealth"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no subordination of any one sect or denomination to another shall ever be established by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Establishing by law the subordination of any one sect or denomination to another"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend12": {
+  "review": {
+   "title": "Representation based on ratable polls",
+   "plain": "Annulled: It provided a decennial census of ratable polls from 1837, gave towns representatives by numbers of polls, let small towns elect one in some years, let towns form representative districts, and had the governor and council fix the numbers. A note says later amendments superseded it.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "a census of the ratable polls, in each city, town and district of the commonwealth, on the first day of May, shall be taken and returned into the secretary's office, in the year of our Lord one thousand eight hundred and thirty-seven, and in every tenth year thereafter, and each town or city having three hundred ratable polls at the last preceding decennial census of polls may elect one representative, and for every four hundred and fifty ratable polls in addition to the first three hundred, one representative more",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts. XIII, XXI, LXXI, XCII, CI and, XXI, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any town having less then three hundred ratable polls may elect one representative as many years within ten years, as three hundred is contained in the product of its ratable polls multiplied by ten",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts. XIII, XXI, LXXI, XCII, CI and, XXI, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any city or town having ratable polls enough to elect one or more representatives, with any number of polls beyond the necessary number, may elect one additional representative as many years within the ten years as four hundred and fifty is contained in the product of that surplus number multiplied by ten",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts. XIII, XXI, LXXI, XCII, CI and, XXI, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any two or more of the several towns and districts may, by consent of a majority of the legal voters present at a legal meeting in each of said towns and districts respectively called for that purpose, form themselves into a representative district, to continue until the next decennial census of polls",
+     "holder": "Any two or more of the several towns and districts",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts. XIII, XXI, LXXI, XCII, CI and, XXI, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The governor and council shall ascertain and determine the number of representatives, which each city, town and representative district is entitled to elect, and the same shall be done once in ten years thereafter; the governor shall cause the same to be published forthwith, and that number shall remain fixed and unalterable for the period of ten years",
+     "holder": null,
+     "binds": "The governor and council",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts. XIII, XXI, LXXI, XCII, CI and, XXI, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the provisions of the existing constitution inconsistent with the provisions herein contained, are hereby wholly annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts. XIII, XXI, LXXI, XCII, CI and, XXI, LXXI, XCII, CI and CIX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend13": {
+  "review": {
+   "title": "Census, apportionment and no property qualification",
+   "plain": "No possession of a freehold or other estate shall be required to hold a seat in either branch of the general court or in the executive council. Bracketed paragraphs on a decennial census, senators, representatives and councillors are printed as superseded.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No possession of a freehold or of any other estate shall be required as a qualification"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A census of the inhabitants of each city and town shall be taken every tenth year, which census shall determine the apportionment of senators and representatives for the term of ten years; the senate shall consist of forty members; the governor and council shall assign senators and apportion representatives; and nine councillors shall be annually chosen by the joint ballot of the senators and representatives",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No possession of a freehold or of any other estate shall be required as a qualification for holding a seat in either branch of the general court, or in the executive council",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring possession of a freehold or of any other estate as a qualification for holding a seat in either branch of the general court, or in the executive council"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend14": {
+  "review": {
+   "title": "Highest number of votes wins",
+   "plain": "In all elections of civil officers by the people that the constitution provides for, the person having the highest number of votes shall be deemed and declared elected.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In all elections of civil officers by the people of this commonwealth, whose election is provided for by the constitution, the person having the highest number of votes shall be deemed and declared to be elected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend15": {
+  "review": {
+   "title": "Day of the state election",
+   "plain": "Superseded: It provided that the meeting to choose the governor, lieutenant-governor, senators and representatives be held annually on the Tuesday next after the first Monday in November, with a second meeting on the fourth Monday of November if representatives were not elected.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The meeting for the choice of governor, lieutenant-governor, senators and representatives, shall be held on the Tuesday next after the first Monday in November, annually",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "a second meeting shall be holden for that purpose on the fourth Monday of the same month of November",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in case of a failure to elect representatives on that day"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend16": {
+  "review": {
+   "title": "Election of councillors by districts",
+   "plain": "Eight councillors shall be chosen annually by voters qualified to vote for governor, one from each of eight districts the legislature draws after each census. Councillors must have lived in the commonwealth five years. The governor and councillors examine election returns. Bracketed wording on vacancies is printed as superseded.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person shall be eligible to the office of councillor"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Eight councillors shall be annually chosen by the inhabitants of this commonwealth, qualified to vote for governor. The election of councillors shall be determined by the same rule that is required in the election of governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall divide the commonwealth into eight districts of contiguous territory, each containing a number of inhabitants as nearly equal as practicable, without dividing any town or ward of a city, and each entitled to elect one councillor",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "at its first session after this amendment shall have been adopted, and at its first session after the next state census shall have been taken, and at its first session after each decennial state census thereafterwards"
+     ],
+     "forbids": [
+      "dividing any town or ward of a city"
+     ],
+     "conditions": [
+      "if, at any time, the constitution shall provide for the division of the commonwealth into forty senatorial districts, then the legislature shall so arrange the councillor districts that each district shall consist of five contiguous senatorial districts"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person shall be eligible to the office of councillor who has not been an inhabitant of the commonwealth for the term of five years immediately preceding his election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The day and manner of the election, the return of the votes, and the declaration of the said elections, shall be the same as are required in the election of governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the governor, with at least five councillors for the time being, shall, as soon as may be, examine the returned copies of the records for the election of governor, lieutenant-governor, and councillors; and ten days before the said first Wednesday in January he shall issue his summons to such persons as appear to be chosen, to attend on that day to be qualified accordingly",
+     "holder": null,
+     "binds": "The governor, with at least five councillors",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the secretary shall lay the returns before the senate and house of representatives on the said first Wednesday in January, to be by them examined; and in case of the election of either of said officers, the choice shall be by them declared and published",
+     "holder": null,
+     "binds": "The secretary; the senate and house of representatives",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "in case there shall be no election of either of said officers, the legislature shall proceed to fill such vacancies in the manner provided in the constitution for the choice of such officers",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in case there shall be no election of either of said officers"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend17": {
+  "review": {
+   "title": "Election of secretary, treasurer, auditor, attorney-general",
+   "plain": "The secretary, treasurer and receiver-general, auditor and attorney-general shall be chosen on the November day for choosing the governor, with failures and session vacancies filled by joint ballot of the legislature and other vacancies by the governor's appointment. Each must have lived here five years. Bracketed wording is printed as superseded.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person shall be eligible to either of said offices"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The secretary, treasurer and receiver-general, auditor, and attorney-general, shall be chosen on the day in November prescribed for the choice of governor; and each person then chosen as such, duly qualified in other respects, shall hold his office from the third Wednesday in January next thereafter, and until another is chosen and qualified in his stead",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The qualification of the voters, the manner of the election, the return of the votes, and the declaration of the election, shall be such as are required in the election of governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such officer shall be chosen on or before the third Wednesday in January next thereafter by joint ballot of the senators and representatives in one room",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of a failure to elect either of said officers on the day in November aforesaid, or in case of the decease in the mean time of the person elected as such"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such vacancy shall in like manner be filled by choice from the people at large",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in case the office of secretary, or treasurer and receiver-general, or auditor, or attorney-general, shall become vacant from any cause during an annual or special session of the general court"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "it shall be supplied by the governor by appointment, with the advice and consent of the council",
+     "holder": "The governor, with the advice and consent of the council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if such vacancy shall occur at any other time"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The person so chosen or appointed, duly qualified in other respects, shall hold his office until his successor is chosen and duly qualified in his stead",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the office to which he has been elected or appointed shall be deemed vacant",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case any person chosen or appointed to either of the offices aforesaid, shall neglect, for the space of ten days after he could otherwise enter upon his duties, to qualify himself in all respects to enter upon the discharge of such duties"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person shall be eligible to either of said offices unless he shall have been an inhabitant of this commonwealth five years next preceding his election or appointment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend18": {
+  "review": {
+   "title": "School money only for public schools",
+   "plain": "Annulled: It required school moneys raised by towns and cities or appropriated by the state to be spent only on schools conducted under the town or city authorities, and never appropriated to any religious sect for its own schools. A note says later amendments superseded it.",
+   "category": "Education & Religion",
+   "kind": "Limit",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "All moneys raised by taxation in the towns and cities for the support of public schools, and all moneys which may be appropriated by the state for the support of common schools, shall be applied to, and expended in, no other schools than those which are conducted according to law, under the order and superintendence of the authorities of the town or city in which the money is to be expended",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XLVI, XCVI and CIII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "such moneys shall never be appropriated to any religious sect for the maintenance exclusively of its own schools",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Appropriating such moneys to any religious sect for the maintenance exclusively of its own schools"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XLVI, XCVI and CIII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend19": {
+  "review": {
+   "title": "Election of county officers and district-attorneys",
+   "plain": "The legislature shall provide by general law for the people of the counties to elect sheriffs, registers of probate and clerks of the courts, and for the people of the districts to choose district-attorneys, for terms the legislature prescribes. Bracketed wording is printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall prescribe, by general law, for the election of sheriffs, registers of probate, and clerks of the courts, by the people of the several counties, and that district-attorneys shall be chosen by the people of the several districts, for such term of office as the legislature shall prescribe",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

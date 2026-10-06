@@ -1,0 +1,900 @@
+{
+ "amend20": {
+  "review": {
+   "title": "Reading and writing test for office",
+   "plain": "No person shall be eligible to office who cannot read the constitution in English and write his name, except persons with a physical disability, persons then entitled to vote, and persons then sixty or older. Bracketed wording on voting is printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "be eligible to office under the constitution of this commonwealth, who shall not be able to read the constitution in the English language, and write his name"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person shall be eligible to office under the constitution of this commonwealth, who shall not be able to read the constitution in the English language, and write his name",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Being eligible to office without being able to read the constitution in the English language, and write his name"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "the provisions of this amendment shall not apply to any person prevented by a physical disability from complying with its requisitions",
+      "nor to any person who now has the right to vote",
+      "nor to any persons who shall be sixty years of age or upwards at the time this amendment shall take effect"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend21": {
+  "review": {
+   "title": "Census and apportionment of representatives",
+   "plain": "Annulled: It provided a census of legal voters, a house of two hundred and forty members apportioned to counties by legal voters, county boards dividing counties into representative districts, residence rules for representatives, and a quorum of one hundred members. A note says later amendments annulled and superseded it.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A census of the legal voters of each city and town shall be taken in the year one thousand eight hundred and fifty-seven; and a census of the inhabitants of each city and town, in the year one thousand eight hundred and sixty-five, and of every tenth year thereafter, with a special enumeration of the legal voters, which shall determine the apportionment of representatives",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The house of representatives shall consist of two hundred and forty members, which shall be apportioned, by the legislature, at its first session after the return of each enumeration, to the several counties of the commonwealth, equally, as nearly as may be, according to their relative numbers of legal voters",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "it shall be the duty of the secretary of the commonwealth, to certify the number of representatives to which each county shall be entitled, to the board authorized to divide each county into representative districts",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The mayor and aldermen of the city of Boston, the county commissioners of other counties than Suffolk, or such board of special commissioners as may be provided by law, shall divide each county into representative districts of contiguous territory, so as to apportion the representation assigned to each county equally, as nearly as may be, according to the relative number of legal voters",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "no town or ward of a city shall be divided therefor",
+      "nor shall any district be made which shall be entitled to elect more than three representatives"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Every representative, for one year at least next preceding his election, shall have been an inhabitant of the district for which he is chosen, and shall cease to represent such district when he shall cease to be an inhabitant of the commonwealth",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The districts in each county shall be numbered by the board creating the same, and a description of each shall be returned to the secretary of the commonwealth, the county treasurer of each county, and to the clerk of every town in each district",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The manner of calling and conducting the meetings for the choice of representatives, and of ascertaining their election, shall be prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Not less than one hundred members of the house of representatives shall constitute a quorum for doing business; but a less number may organize temporarily, adjourn from day to day, and compel the attendance of absent members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, CI, and CIX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend22": {
+  "review": {
+   "title": "Census and senate districts",
+   "plain": "Annulled: It provided a census of legal voters to apportion senators, a senate of forty members elected from forty districts of adjacent territory drawn by the general court, residence rules for senators, and a quorum of sixteen senators. A note says later amendments annulled and superseded it.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A census of the legal voters of each city and town shall be taken in the year one thousand eight hundred and fifty-seven; and a census of the inhabitants of each city and town, in the year one thousand eight hundred and sixty-five, and of every tenth year thereafter, with a special enumeration of the legal voters, which shall determine the apportionment of senators",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The senate shall consist of forty members. The general court shall, at its first session after each next preceding special enumeration, divide the commonwealth into forty districts of adjacent territory, each district to contain, as nearly as may be, an equal number of legal voters",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [
+      "such districts shall be formed, as nearly as may be, without uniting two counties, or parts of two or more counties, into one district"
+     ],
+     "forbids": [
+      "no town or ward of a city shall be divided therefor"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Each district shall elect one senator, who shall have been an inhabitant of this commonwealth five years at least immediately preceding his election, and at the time of his election shall be an inhabitant of the district for which he is chosen; and he shall cease to represent such senatorial district when he shall cease to be an inhabitant of the commonwealth",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Not less than sixteen senators shall constitute a quorum for doing business; but a less number may organize temporarily, adjourn from day to day, and compel the attendance of absent members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Arts. XXXIII, LXXI, XCII, CI and CIX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend23": {
+  "review": {
+   "title": "Waiting period for naturalized voters",
+   "plain": "Annulled: It provided that no person of foreign birth could vote or hold office unless he had resided within the United States for two years after naturalization, without affecting rights already held or children of citizens born abroad. A note says Amendments, Art. XXVI annulled it.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person of foreign birth shall be entitled to vote, or shall be eligible to office, unless he shall have resided within the jurisdiction of the United States for two years subsequent to his naturalization, and shall be otherwise qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "this amendment shall not affect the rights which any person of foreign birth possessed at the time of the adoption thereof",
+      "it shall not affect the rights of any child of a citizen of the United States, born during the temporary absence of the parent therefrom"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. XXVI"
+     ]
+    }
+   ]
+  }
+ },
+ "amend24": {
+  "review": {
+   "title": "Filling senate vacancies",
+   "plain": "Any vacancy in the senate shall be filled by election by the people of the unrepresented district, upon the order of a majority of senators elected.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any vacancy in the senate shall be filled by election by the people of the unrepresented district, upon the order of a majority of senators elected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend25": {
+  "review": {
+   "title": "Filling council vacancies",
+   "plain": "A vacancy in the council is filled by concurrent vote of the senate and house choosing an eligible person from the district; if the legislature is not in session, the governor, with the advice and consent of the council, may fill it by appointment.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "the senate and house of representatives shall, by concurrent vote, choose some eligible person",
+    "may fill the same by appointment of some eligible person"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the senate and house of representatives shall, by concurrent vote, choose some eligible person from the people of the district wherein such vacancy occurs, to fill that office",
+     "holder": "The senate and house of representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of a vacancy in the council, from a failure of election or other cause"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the governor, with the advice and consent of the council, may fill the same by appointment of some eligible person",
+     "holder": "The governor, with the advice and consent of the council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If such vacancy shall happen when the legislature is not in session"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend26": {
+  "review": {
+   "title": "Annulling Article XXIII",
+   "plain": "The twenty-third article of amendment, which barred persons of foreign birth from voting or holding office until two years after naturalization, is hereby wholly annulled.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The twenty-third article of the articles of amendment of the constitution of this commonwealth is hereby wholly annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend27": {
+  "review": {
+   "title": "Harvard College officers",
+   "plain": "So much of article two of chapter six of the constitution as relates to persons holding the office of president, professor or instructor of Harvard College is hereby annulled.",
+   "category": "Education & Religion",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "So much of article two of chapter six of the constitution of this commonwealth as relates to persons holding the office of president, professor or instructor of Harvard College is hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend28": {
+  "review": {
+   "title": "Voting by honorably discharged veterans",
+   "plain": "A person who served in the army or navy of the United States in time of war and was honorably discharged, if otherwise qualified to vote, shall not be disqualified because of the non-payment of a poll tax. Bracketed wording on paupers is printed as superseded.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "status": "partly superseded",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall be disqualified therefor on account of"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person having served in the army or navy of the United States in time of war, and having been honorably discharged from such service, if otherwise qualified to vote, shall be disqualified therefor because of the non-payment of a poll tax",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Disqualifying such a person from voting because of the non-payment of a poll tax"
+     ],
+     "conditions": [
+      "if otherwise qualified to vote"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Amended by Amendments, Art.XXXI."
+     ]
+    }
+   ]
+  }
+ },
+ "amend29": {
+  "review": {
+   "title": "More than one polling place in towns",
+   "plain": "The general court has full power to provide towns more than one place of public meeting for electing officers under the constitution and to prescribe how such meetings are called, held and conducted. Inconsistent provisions of the existing constitution are annulled.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The general court shall have full power and authority to provide for the inhabitants of the towns in this commonwealth more than one place of public meeting"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have full power and authority to provide for the inhabitants of the towns in this commonwealth more than one place of public meeting within the limits of each town for the election of officers under the constitution, and to prescribe the manner of calling, holding and conducting such meetings",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the provisions of the existing constitution inconsistent with the provisions herein contained are hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend30": {
+  "review": {
+   "title": "Voting after moving within the commonwealth",
+   "plain": "A person otherwise qualified to vote for governor, lieutenant-governor, senators and representatives shall not, because of a change of residence within the commonwealth, be disqualified from voting for them in the city or town he left until six calendar months after moving.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "be disqualified from voting for said officers in the city or town from which he has removed his residence"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person, otherwise qualified to vote in elections for governor, lieutenant-governor, senators, and representatives, shall, by reason of a change of residence within the commonwealth, be disqualified from voting for said officers in the city or town from which he has removed his residence, until the expiration of six calendar months from the time of such removal",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Disqualifying such a person from voting by reason of a change of residence within the commonwealth, until the expiration of six calendar months from the time of such removal"
+     ],
+     "conditions": [
+      "otherwise qualified to vote in elections for governor, lieutenant-governor, senators, and representatives"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend31": {
+  "review": {
+   "title": "Amending Article XXVIII on veterans' voting",
+   "plain": "Superseded: It amended article twenty-eight by striking out \"being a pauper\" and inserting \"receiving or having received aid from any city or town\", and by striking out \"if a pauper\". The whole text is printed in brackets.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "superseded",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article twenty-eight of the amendments of the constitution is hereby amended by striking out the words \"being a pauper\", and inserting in place thereof the words: receiving or having received aid from any city or town, and also by striking out the words \"if a pauper\"",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person having served in the army or navy of the United States in time of war, and having been honorably discharged from such service, if otherwise qualified to vote, shall be disqualified therefor on account of receiving or having received aid from any city or town, or because of the non-payment of a poll tax",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend32": {
+  "review": {
+   "title": "Removing the tax-paying voter qualification",
+   "plain": "So much of article three of the amendments as required voters to have paid, by themselves or a parent, master or guardian, a state or county tax assessed within two years, and as covered citizens exempted from taxation, is hereby annulled.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "So much of article three of the amendments of the constitution of the commonwealth as is contained in the following words: \"and who shall have paid, by himself, or his parent, master, or guardian, any state or county tax, which shall, within two years next preceding such election, have been assessed upon him, in any town or district of this commonwealth; and also every citizen who shall be, by law, exempted from taxation, and who shall be, in all other respects, qualified as above mentioned\", is hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend33": {
+  "review": {
+   "title": "Quorum of the general court",
+   "plain": "A majority of the members of each branch of the general court is a quorum for business, but a smaller number may adjourn from day to day and compel the attendance of absent members. Inconsistent provisions of the existing constitution are annulled.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "a less number may adjourn from day to day, and compel the attendance of absent members"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A majority of the members of each branch of the general court shall constitute a quorum for the transaction of business",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "a less number may adjourn from day to day, and compel the attendance of absent members",
+     "holder": "A less number than a quorum of each branch of the general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the provisions of the existing constitution inconsistent with the provisions herein contained are hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend34": {
+  "review": {
+   "title": "Removing the governor's property qualification",
+   "plain": "So much of article two of section one of chapter two of part the second as required the governor to be seised in his own right of a freehold within the commonwealth worth one thousand pounds is hereby annulled.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "So much of article two of section one of chapter two of part the second of the constitution of the commonwealth as is contained in the following words: \"and unless he shall at the same time, be seised in his own right, of a freehold within the commonwealth of the value of one thousand pounds\"; is hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend35": {
+  "review": {
+   "title": "Ending travel expense payments to representatives",
+   "plain": "So much of article two of section three of chapter one as provided that the government pay members their expenses of travelling to the general assembly and returning home once each session is hereby annulled.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "So much of article two of section three of chapter one of the constitution of the commonwealth as is contained in the following words: \"The expenses of travelling to the general assembly, and returning home, once in every session, and no more, shall be paid by the government, out of the public treasury, to every member who shall attend as seasonably as he can, in the judgment of the house, and does not depart without leave\", is hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend36": {
+  "review": {
+   "title": "Removing commissioners of insolvency",
+   "plain": "So much of article nineteen of the articles of amendment as is contained in the words \"commissioners of insolvency\" is hereby annulled.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "So much of article nineteen of the articles of amendment to the constitution of the commonwealth as is contained in the following words \"commissioners of insolvency\", is hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend37": {
+  "review": {
+   "title": "Removing justices of the peace and notaries",
+   "plain": "The governor, with the consent of the council, may remove justices of the peace and notaries public.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "may remove justices of the peace and notaries public"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor, with the consent of the council, may remove justices of the peace and notaries public",
+     "holder": "The governor, with the consent of the council",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend38": {
+  "review": {
+   "title": "Voting machines and secret voting",
+   "plain": "Voting machines or other mechanical devices for voting may be used at all elections under regulations prescribed by law, provided that the right of secret voting is preserved.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [
+    "the right of secret voting"
+   ],
+   "powers": [
+    "Voting machines or other mechanical devices for voting may be used at all elections"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Voting machines or other mechanical devices for voting may be used at all elections under such regulations as may be prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "the right of secret voting shall be preserved"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the right of secret voting shall be preserved",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the right of secret voting shall be preserved"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend39": {
+  "review": {
+   "title": "Taking extra land for highways",
+   "plain": "Adding to article ten of part one, the legislature may by special acts authorize taking more land than needed for highways or streets, limited to land specified in the act and sufficient for building lots on both sides, and may authorize selling the remainder.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The legislature may by special acts",
+    "may authorize the sale of the remainder for value"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article ten of part one of the constitution is hereby amended by adding to it the following words",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may by special acts for the purpose of laying out, widening or relocating highways or streets, authorize the taking in fee by the commonwealth, or by a county, city or town, of more land and property than are needed for the actual construction of such highway or street",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "the land and property authorized to be taken are specified in the act and are no more in extent than would be sufficient for suitable building lots on both sides of such highway or street"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "after so much of the land or property has been appropriated for such highway or street as is needed therefor, may authorize the sale of the remainder for value with or without suitable restrictions",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

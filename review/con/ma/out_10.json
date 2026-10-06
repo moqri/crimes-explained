@@ -1,0 +1,1720 @@
+{
+ "amend64": {
+  "review": {
+   "title": "Biennial elections and terms of state officers",
+   "plain": "Annulled: It provided for biennial election of the governor, other state officers, senators and representatives and set their terms, limited the treasurer to three successive terms, and had the general court assemble every year on the first Wednesday in January. Notes say it was annulled.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The governor, lieutenant-governor, councillors, secretary, treasurer and receiver-general, attorney-general, auditor, senators and representatives, shall be elected biennially",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXX.",
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The governor, lieutenant-governor and councillors shall hold their respective offices from the first Wednesday in January succeeding their election to and including the first Wednesday in January in the third year following their election and until their successors are chosen and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXX.",
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of senators and representatives shall begin with the first Wednesday in January succeeding their election and shall extend to the first Wednesday in January in the third year following their election and until their successors are chosen and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXX.",
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of the secretary, treasurer and receiver-general, attorney-general and auditor, shall begin with the third Wednesday in January succeeding their election and shall extend to the third Wednesday in January in the third year following their election and until their successors are chosen and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. LXXX.",
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 2",
+     "kind": "limit",
+     "what": "No person shall be eligible to election to the office of treasurer and receiver-general for more than three successive terms",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "election to the office of treasurer and receiver-general for more than three successive terms"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "duty",
+     "what": "The general court shall assemble every year on the first Wednesday in January",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "The first election to which this article shall apply shall be held on the Tuesday next after the first Monday in November in the year nineteen hundred and twenty, and thereafter elections for the choice of all the officers before-mentioned shall be held biennially on the Tuesday next after the first Monday in November",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art.LXXXII.",
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend65": {
+  "review": {
+   "title": "Legislators barred from new or better-paid offices",
+   "plain": "No person elected to the general court may, during the term for which he was elected, be appointed to any office created or whose emoluments are increased during that term, nor receive extra pay for service on a recess committee or commission, except a statutes-revision committee.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "be appointed to any office created or the emoluments whereof are increased during such term",
+    "nor receive additional salary or compensation for service upon any recess committee or commission"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person elected to the general court shall during the term for which he was elected be appointed to any office created or the emoluments whereof are increased during such term",
+     "holder": null,
+     "binds": "Persons elected to the general court",
+     "requires": [],
+     "forbids": [
+      "being appointed to any office created or the emoluments whereof are increased during such term"
+     ],
+     "conditions": [
+      "during the term for which he was elected"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor receive additional salary or compensation for service upon any recess committee or commission",
+     "holder": null,
+     "binds": "Persons elected to the general court",
+     "requires": [],
+     "forbids": [
+      "receiving additional salary or compensation for service upon any recess committee or commission"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except a committee appointed to examine a general revision of the statutes of the commonwealth when submitted to the general court for adoption"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend66": {
+  "review": {
+   "title": "Executive work organized in departments",
+   "plain": "Annulled: It required the executive and administrative work of the commonwealth to be organized, by January first, 1921, in not more than twenty departments, under such supervision and regulation as the general court prescribes by law. A note says it was annulled by Amendments, Art. LXXXVII.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "On or before January first, nineteen hundred twenty-one, the executive and administrative work of the commonwealth shall be organized in not more than twenty departments, in one of which every executive and administrative office, board and commission, except those officers serving directly under the governor or the council, shall be placed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except those officers serving directly under the governor or the council"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXVII."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Such departments shall be under such supervision and regulation as the general court may from time to time prescribe by law",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXVII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend67": {
+  "review": {
+   "title": "Recorded vote on emergency preamble",
+   "plain": "Amends Article XLVIII so that a separate recorded vote is taken on an emergency law's preamble, which must be adopted by two-thirds of the members of each House voting; on request of two senators or five representatives, that vote is by yeas and nays.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "unless the preamble is adopted by two-thirds of the members of each House voting thereon, the law shall not be an emergency law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XLVIII of the Amendments to the Constitution is hereby amended by striking out, in that part entitled \"II. Emergency Measures\", under the heading \"The Referendum\", the words \"A separate vote shall be taken on the preamble by call of the yeas and nays, which shall be recorded, and unless the preamble is adopted by two-thirds of the members of each House voting thereon, the law shall not be an emergency law; but\" and substituting the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A separate vote, which shall be recorded, shall be taken on the preamble, and unless the preamble is adopted by two-thirds of the members of each House voting thereon, the law shall not be an emergency law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "A separate vote, which shall be recorded, shall be taken on the preamble",
+      "adopted by two-thirds of the members of each House voting thereon"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Upon the request of two members of the Senate or of five members of the House of Representatives, the vote on the preamble in such branch shall be taken by call of the yeas and nays",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon the request of two members of the Senate or of five members of the House of Representatives"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend68": {
+  "review": {
+   "title": "Striking the word \"male\" from Article III",
+   "plain": "Amends Article III of the amendments to the constitution, as amended, by striking out the word \"male\" in its first line.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article III of the amendments to the constitution, as amended, is hereby further amended by striking out, in the first line, the word \"male\"",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend69": {
+  "review": {
+   "title": "Sex no bar to office; women re-registering after name change",
+   "plain": "No person shall be deemed ineligible to hold state, county or municipal office by reason of sex. It also amends Article IV so that a woman who changes her name shall re-register under her new name and pay a fee set by the general court.",
+   "category": "Equality & Citizenship",
+   "kind": "Limit",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person shall be deemed to be ineligible to hold state, county or municipal office by reason of sex"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "limit",
+     "what": "No person shall be deemed to be ineligible to hold state, county or municipal office by reason of sex",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "deeming a person ineligible to hold state, county or municipal office by reason of sex"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "Article IV of the articles of amendment of the constitution of the commonwealth, as amended by Article LVII of said amendments, is hereby further amended by striking out the words \"Change of name shall render the commission void, but shall not prevent reappointment under the new name\", and inserting in place thereof the following words",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "Upon the change of name of any woman, she shall re-register under her new name and shall pay such fee therefor as shall be established by the general court",
+     "holder": null,
+     "binds": "Any woman who changes her name",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon the change of name of any woman"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend70": {
+  "review": {
+   "title": "Limited town meetings in larger towns",
+   "plain": "Annulled: It added to Article II that the general court could establish, in towns of more than six thousand inhabitants, a town meeting limited to elected inhabitants, with the consent and on application of a majority of the inhabitants voting. A note says it was annulled by Amendments, Art. LXXXIX.",
+   "category": "Local Government",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article II of the articles of amendment to the constitution of the commonwealth is hereby amended by adding at the end thereof the following new paragraph",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing in this article shall prevent the general court from establishing in any corporate town or towns in this commonwealth containing more than six thousand inhabitants a form of town government providing for a town meeting limited to such inhabitants of the town as may be elected to meet, deliberate, act and vote in the exercise of the corporate powers of the town",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [
+      "subject to such restrictions and regulations as the general court may prescribe"
+     ],
+     "forbids": [],
+     "conditions": [
+      "provided, that such establishment be with the consent, and on the application of a majority of the inhabitants of such town, present and voting thereon, pursuant to a vote at a meeting duly warned and holden for that purpose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXXIX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend71": {
+  "review": {
+   "title": "Census and representative and senatorial districts",
+   "plain": "Annulled: It replaced Articles XXI and XXII, providing a census and special enumeration of legal voters every ten years from 1935 as the basis for apportioning two hundred and forty representatives and forty senators into districts. A note says it was superseded.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XXI of the articles of amendment is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In the year nineteen hundred and thirty-five and every tenth year thereafter a census of the inhabitants of each city and town shall be taken and a special enumeration shall be made of the legal voters therein",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Each special enumeration shall be the basis for determining the representative districts for the ten year period beginning with the first Wednesday in the fourth January following said special enumeration",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The house of representatives shall consist of two hundred and forty members, which shall be apportioned by the general court, at its first regular session after the return of each special enumeration, to the several counties of the commonwealth, equally, as nearly as may be, according to their relative numbers of legal voters",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "it shall be the duty of the secretary of the commonwealth to certify, as soon as may be after it is determined by the general court, the number of representatives to which each county shall be entitled, to the board authorized to divide such county into representative districts",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The county commissioners or other body acting as such or, in lieu thereof, such board of special commissioners in each county as may for that purpose be provided by law, shall ... divide the same into representative districts of contiguous territory and assign representatives thereto, so that each representative in such county will represent an equal number of legal voters, as nearly as may be",
+     "holder": null,
+     "binds": "The county commissioners or other body acting as such, or such board of special commissioners",
+     "requires": [],
+     "forbids": [
+      "dividing a town containing less than twelve thousand inhabitants, a precinct of any other town or a ward of a city",
+      "making any district entitled to elect more than three representatives"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court may by law limit the time within which judicial proceedings may be instituted calling in question any such apportionment, division or assignment",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Every representative, for one year at least immediately preceding his election, shall have been an inhabitant of the district for which he is chosen and shall cease to represent such district when he shall cease to be an inhabitant of the commonwealth",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XXII of the articles of amendment is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The senate shall consist of forty members. The general court shall, at its first regular session after the return of each special enumeration, divide the commonwealth into forty districts of contiguous territory, each district to contain, as nearly as may be, an equal number of legal voters",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "provided, however, that no town or ward of a city shall be divided therefor"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Each district shall elect one senator, who shall have been an inhabitant of this commonwealth five years at least immediately preceding his election, and at the time of his election shall be an inhabitant of the district for which he is chosen",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Arts.XCII, CI and CIX."
+     ]
+    }
+   ]
+  }
+ },
+ "amend72": {
+  "review": {
+   "title": "Biennial sessions and biennial budget",
+   "plain": "Annulled: It had the general court assemble in regular session biennially, made the budget cover two years, and annulled provisions requiring the general court to meet annually. A note says it was annulled by Amendments, Art. LXXV.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The general court shall assemble in regular session on the first Wednesday of January in the year following the approval of this article and biennially on said Wednesday thereafter",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXV."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "power",
+     "what": "Nothing herein contained shall prevent the general court from assembling at such other times as they shall judge necessary or when called together by the governor",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXV."
+     ]
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "The budget required by Section 2 of Article LXIII of the amendments to the constitution shall be for the year in which the same is adopted and for the ensuing year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXV."
+     ]
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "All provisions of this constitution and of the amendments thereto requiring the general court to meet annually are hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. LXXV."
+     ]
+    }
+   ]
+  }
+ },
+ "amend73": {
+  "review": {
+   "title": "Governor's power of pardoning",
+   "plain": "Replaces an earlier article: the governor, with the advice of council, has the power of pardoning offences except impeachment convictions; for a felony the general court may prescribe pardon terms and conditions; a pardon granted before conviction shall not avail the party pleading it.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The power of pardoning offences",
+    "shall be in the governor, by and with the advice of council",
+    "the general court shall have power to prescribe the terms and conditions upon which a pardon may be granted"
+   ],
+   "limits": [
+    "no charter of pardon, granted by the governor, with advice of the council before conviction, shall avail the party pleading the same"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article VIII of section I of chapter II of Part the Second of the Constitution of the Commonwealth is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The power of pardoning offences ... shall be in the governor, by and with the advice of council",
+     "holder": "The governor, by and with the advice of council",
+     "binds": null,
+     "requires": [
+      "by and with the advice of council"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except such as persons may be convicted of before the senate by an impeachment of the house"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if the offence is a felony the general court shall have power to prescribe the terms and conditions upon which a pardon may be granted",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the offence is a felony"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no charter of pardon, granted by the governor, with advice of the council before conviction, shall avail the party pleading the same, notwithstanding any general or particular expressions contained therein, descriptive of the offence or offences intended to be pardoned",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [
+      "a charter of pardon granted before conviction availing the party pleading the same"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend74": {
+  "review": {
+   "title": "Initiative petitions, ballot summaries and voter information",
+   "plain": "Amends Article XLVIII: initiative petitions are first signed by ten voters and certified by the attorney-general; petition blanks and ballots carry a fair, concise summary of each measure; and the secretary of the commonwealth sends voters the full text and information on every measure.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "Article XLVIII of the amendments to the constitution is hereby amended by striking out section three, under the heading \"THE INITIATIVE. III. Initiative Petitions. \", and inserting in place thereof the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "Such petition shall first be signed by ten qualified voters of the commonwealth and shall be submitted to the attorney-general not later than the first Wednesday of the August before the assembling of the general court into which it is to be introduced",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "if he shall certify that the measure and the title thereof are in proper form for submission to the people, and that the measure is not, either affirmatively or negatively, substantially the same as any measure which has been qualified for submission or submitted to the people at either of the two preceding biennial state elections, and that it contains only subjects not excluded from the popular initiative and which are related or which are mutually dependent, it may then be filed with the secretary of the commonwealth",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if he shall certify that the measure and the title thereof are in proper form for submission to the people",
+      "that the measure is not, either affirmatively or negatively, substantially the same as any measure which has been qualified for submission or submitted to the people at either of the two preceding biennial state elections",
+      "that it contains only subjects not excluded from the popular initiative and which are related or which are mutually dependent"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "duty",
+     "what": "The secretary of the commonwealth shall provide blanks for the use of subsequent signers, and shall print at the top of each blank a fair, concise summary, as determined by the attorney-general, of the proposed measure as such summary will appear on the ballot together with the names and residences of the first ten signers",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "All initiative petitions, with the first ten signatures attached, shall be filed with the secretary of the commonwealth not earlier than the first Wednesday of the September before the assembling of the general court into which they are to be introduced, and the remainder of the required signatures shall be filed not later than the first Wednesday of the following December",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "Section three of that part of said Article XLVIII, under the heading \"THE REFERENDUM. III. Referendum Petitions.\", is hereby amended by striking out the words \"... a description of the proposed law as such description will appear on the ballot ...\", and inserting in place thereof the words \"The secretary of the commonwealth shall provide blanks for the use of subsequent signers, and shall print at the top of each blank a fair, concise summary of the proposed law as such summary will appear on the ballot together with the names and residences of the first ten signers.\"",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "Section four of that part of said Article XLVIII under the heading \"THE REFERENDUM. III. Referendum Petitions.\", is hereby amended by striking out the words \"... a description of the proposed law as such description will appear on the ballot ...\", and inserting in place thereof the words \"The secretary of the commonwealth shall provide blanks for the use of subsequent signers, and shall print at the top of each blank a fair, concise summary of the proposed law as such summary will appear on the ballot together with the names and residences of the first ten signers.\"",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "Said Article XLVIII is hereby further amended by striking out, under the heading \"GENERAL PROVISIONS\", all of subheading \"III. Form of Ballot.\" and all of subheading \"IV. Information for Voters.\", and inserting in place thereof the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "A fair, concise summary, as determined by the attorney general, subject to such provision as may be made by law, of each proposed amendment to the constitution, and each law submitted to the people, shall be printed on the ballot, and the secretary of the commonwealth shall give each question a number and cause such question, except as otherwise authorized herein, to be printed on the ballot in the following form",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as otherwise authorized herein"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The secretary of the commonwealth shall cause to be printed and sent to each registered voter in the commonwealth the full text of every measure to be submitted to the people, together with a copy of the legislative committee's majority and minority reports, if there be such, with the names of the majority and minority members thereon, a statement of the votes of the general court on the measure, and a fair, concise summary of the measure as such summary will appear on the ballot",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "and shall, in such manner as may be provided by law, cause to be prepared and sent to the voters other information and arguments for and against the measure",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend75": {
+  "review": {
+   "title": "Article LXXII on biennial sessions annulled",
+   "plain": "Annuls Article LXXII, which provided for biennial sessions of the general court and a biennial budget; provisions annulled or affected by it shall have the same force and effect as though it had not been adopted.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article LXXII of the amendments to the constitution providing for biennial sessions of the general court and a biennial budget is hereby annulled",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all provisions of this constitution and of the amendments thereto which were annulled or affected by said Article shall have the same force and effect as though said Article had not been adopted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend76": {
+  "review": {
+   "title": "Absentee voting",
+   "plain": "Annulled: It replaced Article XLV, giving the general court power to provide by law for voting by qualified voters who at election time are absent from their city or town or unable by physical disability to vote in person. A note says it was superseded by Amendments, Art. CV.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XLV of the articles of amendment is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. CV."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have power to provide by law for voting, in the choice of any officer to be elected or upon any question submitted at an election, by qualified voters of the commonwealth who, at the time of such an election, are absent from the city or town of which they are inhabitants or are unable by reason of physical disability to cast their votes in person at the polling places",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Superseded by Amendments, Art. CV."
+     ]
+    }
+   ]
+  }
+ },
+ "amend77": {
+  "review": {
+   "title": "Liberty of the press and free speech",
+   "plain": "Replaces Article XVI of Part the First: the liberty of the press is essential to the security of freedom in a state and ought not to be restrained in this commonwealth, and the right of free speech shall not be abridged.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "status": "in force",
+   "rights": [
+    "The liberty of the press",
+    "The right of free speech"
+   ],
+   "powers": [],
+   "limits": [
+    "it ought not, therefore, to be restrained in this commonwealth",
+    "shall not be abridged"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XVI of Part the First is hereby annulled and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The liberty of the press is essential to the security of freedom in a state: it ought not, therefore, to be restrained in this commonwealth",
+     "holder": null,
+     "binds": "This commonwealth",
+     "requires": [],
+     "forbids": [
+      "restraining the liberty of the press"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The right of free speech shall not be abridged",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "abridging the right of free speech"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend78": {
+  "review": {
+   "title": "Highway revenue used only for highways",
+   "plain": "Annulled: It barred spending revenue from vehicle registration, operation or use, or from motor fuels, for anything other than listed highway purposes, to be spent as the general court directs, except an excise in lieu of local property taxes. A note says it was annulled by Amendments, Art. CIV.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No revenue from fees, duties, excises or license taxes relating to registration, operation or use of vehicles on public highways, or to fuels used for propelling such vehicles, shall be expended for other than cost of administration of laws providing for such revenue, making of refunds and adjustments in relation thereto, payment of highway obligations, or cost of construction, reconstruction, maintenance and repair of public highways and bridges and of the enforcement of state traffic laws",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "expending such revenue for other than the listed purposes"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "provided, that this amendment shall not apply to revenue from any excise tax imposed in lieu of local property taxes for the privilege of registering such vehicles"
+     ],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CIV."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such revenue shall be expended by the commonwealth or its counties, cities and towns for said highway purposes only and in such manner as the general court may direct",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled by Amendments, Art. CIV."
+     ]
+    }
+   ]
+  }
+ },
+ "amend79": {
+  "review": {
+   "title": "Filling vacancies in state offices from the people at large",
+   "plain": "Amends Article XVII so that, if an officer is not elected in November or the person elected dies, the senators and representatives choose by joint ballot from the people at large; vacancies arising outside a session are filled by the governor with the council's advice and consent.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article XVII of the amendments of the constitution, as amended, is hereby further amended by striking out, in the third sentence, the words \"two persons who had the highest number of votes for said offices on the day in November aforesaid\" and inserting in place thereof the words: - people at large",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In case of a failure to elect either of said officers on the day in November aforesaid, or in case of the decease, in the meantime, of the person elected as such, such officer shall be chosen on or before the third Wednesday in January next thereafter, from the people at large, by joint ballot of the senators and representatives, in one room",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of a failure to elect either of said officers on the day in November aforesaid, or in case of the decease, in the meantime, of the person elected as such"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "in case the office of secretary, or treasurer and receiver-general, or auditor, or attorney-general, shall become vacant, from any cause, during an annual or special session of the general court, such vacancy shall in like manner be filled by choice from the people at large",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "during an annual or special session of the general court"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if such vacancy shall occur at any other time, it shall be supplied by the governor by appointment, with the advice and consent of the council",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [
+      "with the advice and consent of the council"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if such vacancy shall occur at any other time"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend80": {
+  "review": {
+   "title": "Revised terms of state officers",
+   "plain": "Annulled: It replaced Section 1 of Article LXIV, keeping biennial elections, starting the governor's, lieutenant-governor's and councillors' terms at noon on a Thursday in January, and providing for deaths of the governor elect and lieutenant-governor elect. A note says it was annulled and superseded.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "annulled",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article LXIV of the Amendments to the Constitution is hereby amended by striking out section 1 and inserting in place thereof the following section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The governor, lieutenant-governor, councillors, secretary, treasurer and receiver-general, attorney-general, auditor, senators and representatives shall be elected biennially",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of the governor, lieutenant-governor and councillors shall begin at noon on the Thursday next following the first Wednesday in January succeeding their election and shall end at noon on the Thursday next following the first Wednesday in January in the third year following their election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "If the governor elect shall have died before the qualification of the lieutenant-governor elect, the lieutenant-governor elect upon qualification shall become governor. If both the governor elect and the lieutenant-governor elect shall have died both said offices shall be deemed to be vacant and the provisions of Article LV of the Amendments to the Constitution shall apply",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of senators and representatives shall begin with the first Wednesday in January succeeding their election and shall extend to the first Wednesday in January in the third year following their election and until their successors are chosen and qualified. The terms of the secretary, treasurer and receiver-general, attorney-general and auditor, shall begin with the third Wednesday in January succeeding their election and shall extend to the third Wednesday in January in the third year following their election and until their successors are chosen and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "Annulled and superseded by Amendments, Art. LXXXII."
+     ]
+    }
+   ]
+  }
+ },
+ "amend81": {
+  "review": {
+   "title": "Initiative and referendum signature thresholds",
+   "plain": "Amends Article XLVIII: initiative and referendum petitions need signatures equal to set percentages of the vote cast for governor; it revises joint sessions on proposed amendments, legislative action on initiative laws, amendment by petitioners, and changes thirty days to sixty days before submission.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "Article XLVIII of the Amendments to the Constitution is hereby amended by striking out section 2, under the heading \"THE INITIATIVE. IV. Legislative Action on Proposed Constitutional Amendments. \", and inserting in place thereof the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "If a proposal for a specific amendment of the constitution is introduced into the general court by initiative petition signed in the aggregate by not less than such number of voters as will equal three per cent of the entire vote cast for governor at the preceding biennial state election, or if in case of a proposal for amendment introduced into the general court by a member of either house, consideration thereof in joint session is called for by vote of either house, such proposal shall, not later than the second Wednesday in May, be laid before a joint session of the two houses, at which the president of the senate shall preside",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "if the two houses fail to agree upon a time for holding any joint session hereby required, or fail to continue the same from time to time until final action has been taken upon all amendments pending, the governor shall call such joint session or continuance thereof",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the two houses fail to agree upon a time for holding any joint session hereby required, or fail to continue the same from time to time until final action has been taken upon all amendments pending"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "Section 1 of that part of said Article XLVIII ... is hereby amended by striking out said section and inserting in place thereof the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "duty",
+     "what": "If an initiative petition for a law is introduced into the general court, signed in the aggregate by not less than such number of voters as will equal three per cent of the entire vote cast for governor at the preceding biennial state election, a vote shall be taken by yeas and nays in both houses before the first Wednesday of May upon the enactment of such law in the form in which it stands in such petition",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "duty",
+     "what": "If the general court fails to enact such law before the first Wednesday of May, and if such petition is completed by filing with the secretary of the commonwealth ... a number of signatures of qualified voters equal in number to not less than one half of one per cent of the entire vote cast for governor at the preceding biennial state election ... then the secretary of the commonwealth shall submit such proposed law to the people at the next state election",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not earlier than the first Wednesday of the following June nor later than the first Wednesday of the following July",
+      "which signatures must have been obtained after the first Wednesday of May aforesaid"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "If it shall be approved by voters equal in number to at least thirty per cent of the total number of ballots cast at such state election and also by a majority of the voters voting on such law, it shall become law, and shall take effect in thirty days after such state election or at such time after such election as may be provided in such law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "Section 2 of that part of said Article XLVIII ... is hereby amended by striking out said section and inserting in place thereof the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "right",
+     "what": "If the general court fails to pass a proposed law before the first Wednesday of May, a majority of the first ten signers of the initiative petition therefor shall have the right, subject to certification by the attorney-general filed as hereinafter provided , to amend the measure which is the subject of such petition",
+     "holder": "A majority of the first ten signers of the initiative petition",
+     "binds": null,
+     "requires": [
+      "subject to certification by the attorney-general filed as hereinafter provided"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "structure",
+     "what": "An amendment so made shall not invalidate any signature attached to the petition",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "If the measure so amended, signed by a majority of the first ten signers, is filed with the secretary of the commonwealth before the first Wednesday of the following June, together with a certificate signed by the attorney-general to the effect that the amendment made by such proposers is in his opinion perfecting in its nature and does not materially change the substance of the measure, and if such petition is completed ... then the secretary of the commonwealth shall submit the measure to the people in its amended form",
+     "holder": null,
+     "binds": "The secretary of the commonwealth",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "Section 3 of that part of said Article XLVIII, under the heading \"THE REFERENDUM. III. Referendum Petitions.\", is hereby amended by striking out the sentence ... and inserting in place thereof the following sentence",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 4",
+     "kind": "structure",
+     "what": "If such petition is completed by filing with the secretary of the commonwealth not later than ninety days after the law which is the subject of the petition has become law a number of signatures of qualified voters equal in number to not less than two per cent of the entire vote cast for governor at the preceding biennial state election, then the operation of such law shall be suspended, and the secretary of the commonwealth shall submit such law to the people at the next state election, if sixty days intervene",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless in the meantime it shall have been repealed"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 5",
+     "kind": "structure",
+     "what": "Section 4 of that part of said Article XLVIII, under the heading \"THE REFERENDUM. III. Referendum Petitions. is hereby amended by striking out the words ... and inserting in place thereof the following",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 5",
+     "kind": "structure",
+     "what": "If such petition filed as aforesaid is completed by filing with the secretary of the commonwealth not later than ninety days after the law which is the subject of the petition has become law a number of signatures of qualified voters equal in number to not less than one and one half per cent of the entire vote cast for governor at the preceding biennial state election protesting against such law and asking for a referendum thereon, then the secretary of the commonwealth shall submit such law to the people at the next state election, if sixty days intervene",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless in the meantime it shall have been repealed"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend82": {
+  "review": {
+   "title": "Four-year terms for governor and state officers",
+   "plain": "Replaces Article LXIV: the governor, lieutenant-governor, secretary, treasurer and receiver-general, attorney general and auditor are elected quadrennially, and councillors, senators and representatives biennially; it sets their terms, and the general court assembles every year on the first Wednesday in January.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "status": "in force",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Article LXIV of the Amendments to the Constitution, as amended by Article LXXX of said Amendments, is hereby annulled, and the following is adopted in place thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The governor, lieutenant-governor, secretary, treasurer and receiver-general, attorney general, and auditor shall be elected quadrennially and councillors, senators and representatives shall be elected biennially",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of the governor and lieutenant-governor shall begin at noon on the Thursday next following the first Wednesday in January succeeding their election and shall end at noon on the Thursday next following the first Wednesday in January in the fifth year following their election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "If the governor elect shall have died before the qualification of the lieutenant-governor elect, the lieutenant-governor elect upon qualification shall become governor. If both the governor elect and the lieutenant-governor elect shall have died both said offices shall be deemed to be vacant and the provisions of Article LV of the Amendments to the Constitution shall apply",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of the secretary, treasurer and receiver-general, attorney general, and auditor shall begin with the third Wednesday in January succeeding their election and shall extend to the third Wednesday in January in the fifth year following their election and until their successors are chosen and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of the councillors shall begin at noon on the Thursday next following the first Wednesday in January succeeding their election and shall end at noon on the Thursday next following the first Wednesday in January in the third year following their election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 1",
+     "kind": "structure",
+     "what": "The terms of senators and representatives shall begin with the first Wednesday in January succeeding their election and shall extend to the first Wednesday in January in the third year following their election and until their successors are chosen and qualified",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 2",
+     "kind": "duty",
+     "what": "The general court shall assemble every year on the first Wednesday in January",
+     "holder": null,
+     "binds": "The general court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "Section 3",
+     "kind": "structure",
+     "what": "The first election to which this article shall apply shall be held on the Tuesday next after the first Monday in November in the year nineteen hundred and sixty-six, and thereafter elections for the choice of a governor, lieutenant-governor, secretary, treasurer and receiver-general, attorney general, and auditor shall be held quadrennially on the Tuesday next after the first Monday in November and elections for the choice of councillors, senators and representatives shall be held biennially on the Tuesday next after the first Monday in November",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend83": {
+  "review": {
+   "title": "Continuity of government in emergencies",
+   "plain": "The general court has full power to provide for prompt and temporary succession to public offices whose incumbents become unavailable in emergencies resulting from disaster caused by enemy attack, and to adopt measures necessary and proper for continuity of government of the commonwealth and its political subdivisions.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "status": "in force",
+   "rights": [],
+   "powers": [
+    "The general court shall have full power and authority to provide for prompt and temporary succession to the powers and duties of public offices",
+    "to adopt such other measures as may be necessary and proper for insuring continuity of the government of the commonwealth and the governments of its political subdivisions"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The general court shall have full power and authority to provide for prompt and temporary succession to the powers and duties of public offices, of whatever nature and whether filled by election or appointment, the incumbents of which may become unavailable for carrying on the powers and duties of such offices in periods of emergency resulting from disaster caused by enemy attack",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in periods of emergency resulting from disaster caused by enemy attack"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "and to adopt such other measures as may be necessary and proper for insuring continuity of the government of the commonwealth and the governments of its political subdivisions",
+     "holder": "The general court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

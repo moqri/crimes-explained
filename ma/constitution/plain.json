@@ -1,0 +1,2837 @@
+{
+ "preamble": {
+  "title": "Preamble: purposes of government",
+  "plain": "Government exists to secure the body politic and let individuals enjoy their natural rights in safety; when it fails, the people have a right to alter it. The people of Massachusetts establish this Declaration of Rights and Frame of Government.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [
+   "the people have a right to alter the government"
+  ],
+  "powers": [
+   "do agree upon, ordain and establish the following Declaration of Rights, and Frame of Government"
+  ],
+  "limits": []
+ },
+ "decl1": {
+  "title": "Natural rights of all people",
+  "plain": "Annulled: This article said all men are born free and equal and have natural, essential and unalienable rights, including enjoying and defending their lives and liberties, acquiring and protecting property, and seeking safety and happiness. A note says it was annulled by Amendments, Art. CVI.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "annulled",
+  "rights": [
+   "the right of enjoying and defending their lives and liberties",
+   "that of acquiring, possessing, and protecting property",
+   "that of seeking and obtaining their safety and happiness"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl2": {
+  "title": "Freedom of worship",
+  "plain": "Worshipping the Supreme Being publicly and at stated seasons is the right and duty of all men in society. No subject shall be hurt, molested or restrained for worshipping God as his conscience dictates, or for his religious profession or sentiments, if he does not disturb the public peace or others' worship.",
+  "category": "Education & Religion",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "for worshipping God in the manner and season most agreeable to the dictates of his own conscience",
+   "for his religious profession or sentiments"
+  ],
+  "powers": [],
+  "limits": [
+   "no subject shall be hurt, molested, or restrained, in his person, liberty, or estate"
+  ]
+ },
+ "decl3": {
+  "title": "Public worship and religious teachers",
+  "plain": "Annulled: A bracketed note says Article XI of the Amendments was substituted for this article. It provided that the legislature shall require towns, parishes and religious societies to provide for public worship and Protestant teachers, could enjoin attendance on their instruction, and that no sect shall be subordinated to another by law.",
+  "category": "Education & Religion",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "decl4": {
+  "title": "Right of self-government",
+  "plain": "The people of the commonwealth have the sole and exclusive right to govern themselves as a free, sovereign and independent state, and keep every power, jurisdiction and right not expressly delegated by them to the United States of America in Congress assembled.",
+  "category": "Founding & Purposes",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "the sole and exclusive right of governing themselves, as a free, sovereign, and independent state",
+   "exercise and enjoy every power, jurisdiction, and right"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl5": {
+  "title": "Officials accountable to the people",
+  "plain": "All power resides originally in the people and is derived from them, so the magistrates and officers of government, whether legislative, executive or judicial, are their substitutes and agents and are at all times accountable to them.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "All power residing originally in the people"
+  ],
+  "limits": []
+ },
+ "decl6": {
+  "title": "No hereditary privileges",
+  "plain": "No man, corporation or association has any title to advantages or exclusive privileges apart from the community except from services rendered to the public. That title is not hereditary, so a man born a magistrate, lawgiver or judge is absurd and unnatural.",
+  "category": "Equality & Citizenship",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "have any other title to obtain advantages, or particular and exclusive privileges, distinct from those of the community",
+   "neither hereditary, nor transmissible to children, or descendants, or relations by blood"
+  ]
+ },
+ "decl7": {
+  "title": "Purpose of government; right to change it",
+  "plain": "Government is instituted for the common good and the protection, safety, prosperity and happiness of the people, not for the profit of any one man, family or class. The people alone have an unalienable right to institute government and to reform, alter or totally change it.",
+  "category": "Founding & Purposes",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "an incontestable, unalienable, and indefeasible right to institute government",
+   "to reform, alter, or totally change the same"
+  ],
+  "powers": [],
+  "limits": [
+   "not for the profit, honor, or private interest of any one man, family, or class of men"
+  ]
+ },
+ "decl8": {
+  "title": "Right to remove officers by election",
+  "plain": "To keep those in authority from becoming oppressors, the people have a right, at periods and in a manner set by their frame of government, to return public officers to private life and to fill vacancies by regular elections and appointments.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "to cause their public officers to return to private life",
+   "to fill up vacant places by certain and regular elections and appointments"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl9": {
+  "title": "Free elections and equal right to vote",
+  "plain": "All elections ought to be free, and all inhabitants of the commonwealth who have the qualifications set by the frame of government have an equal right to elect officers and to be elected to public employments.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "an equal right to elect officers, and to be elected, for public employments"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl10": {
+  "title": "Protection of life, liberty and property",
+  "plain": "Each individual has a right to be protected in life, liberty and property under standing laws, and must contribute his share to that protection. No property may be taken or applied to public uses without his consent or that of the representative body, and property appropriated to public uses requires reasonable compensation.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "a right to be protected by it in the enjoyment of his life, liberty and property",
+   "he shall receive a reasonable compensation therefor"
+  ],
+  "powers": [],
+  "limits": [
+   "no part of the property of any individual can, with justice, be taken from him, or applied to public uses",
+   "are not controllable by any other laws"
+  ]
+ },
+ "decl11": {
+  "title": "Right to a remedy in the laws",
+  "plain": "Every subject ought to find a certain remedy in the laws for injuries to his person, property or character, and to obtain right and justice freely, completely, promptly and without delay, conformably to the laws.",
+  "category": "The Courts",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "ought to find a certain remedy, by having recourse to the laws",
+   "obtain right and justice freely, and without being obliged to purchase it"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl12": {
+  "title": "Rights of the accused; trial by jury",
+  "plain": "No subject shall answer for a crime until it is fully described to him, or be compelled to accuse himself. He may produce favorable proofs, meet witnesses face to face and be fully heard. No one may be deprived of life, liberty or property but by judgment of his peers or the law of the land.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "a right to produce all proofs, that may be favorable to him",
+   "to meet the witnesses against him face to face",
+   "to be fully heard in his defense by himself, or his council at his election"
+  ],
+  "powers": [],
+  "limits": [
+   "No subject shall be held to answer for any crimes or offence",
+   "be compelled to accuse, or furnish evidence against himself",
+   "no subject shall be arrested, imprisoned, despoiled, or deprived of his property, immunities, or privileges",
+   "the legislature shall not make any law, that shall subject any person to a capital or infamous punishment"
+  ]
+ },
+ "decl13": {
+  "title": "Facts tried in the vicinity",
+  "plain": "In criminal prosecutions, verifying the facts in the vicinity where they happen is one of the greatest securities of the citizen's life, liberty and property.",
+  "category": "Criminal Justice",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "decl14": {
+  "title": "Searches, seizures and warrants",
+  "plain": "Every subject has a right to be secure from unreasonable searches and seizures. Warrants are contrary to this right unless supported by oath or affirmation and specially designating the persons or objects, and no warrant ought to be issued except in cases and with formalities the laws prescribe.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "a right to be secure from all unreasonable searches, and seizures, of his person, his houses, his papers, and all his possessions"
+  ],
+  "powers": [],
+  "limits": [
+   "All warrants, therefore, are contrary to this right",
+   "no warrant ought to be issued"
+  ]
+ },
+ "decl15": {
+  "title": "Right to a jury in civil cases",
+  "plain": "In controversies about property and suits between persons, the parties have a right to a jury trial, which shall be held sacred, except where other practice was used before, and unless the legislature finds it necessary to alter it in high-seas and mariners' wages cases.",
+  "category": "The Courts",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "the parties have a right to a trial by jury"
+  ],
+  "powers": [],
+  "limits": [
+   "this method of procedure shall be held sacred"
+  ]
+ },
+ "decl16": {
+  "title": "Liberty of the press",
+  "plain": "Annulled: This article, printed in brackets as superseded, said the liberty of the press is essential to the security of freedom and ought not to be restrained in this commonwealth. A bracketed note in the text says it was annulled and superseded by Amendments, Art. LXXVII.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "decl17": {
+  "title": "Right to bear arms; civilian control of military",
+  "plain": "The people have a right to keep and bear arms for the common defence. Because armies in peacetime are dangerous to liberty, they ought not to be maintained without the legislature's consent, and the military shall always be subordinate to and governed by the civil authority.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "The people have a right to keep and to bear arms for the common defence"
+  ],
+  "powers": [],
+  "limits": [
+   "ought not to be maintained without the consent of the legislature",
+   "the military power shall always be held in an exact subordination to the civil authority"
+  ]
+ },
+ "decl18": {
+  "title": "Adherence to fundamental principles",
+  "plain": "Frequent recurrence to the constitution's fundamental principles and to piety, justice, moderation, temperance, industry and frugality is necessary to a free government. The people ought to heed these in choosing officers and have a right to require lawgivers and magistrates to observe them.",
+  "category": "Founding & Purposes",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "a right to require of their lawgivers and magistrates, an exact and constant observance of them"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl19": {
+  "title": "Right to assemble, instruct and petition",
+  "plain": "The people have a right, in an orderly and peaceable manner, to assemble to consult on the common good, to give instructions to their representatives, and to ask the legislative body, by addresses, petitions or remonstrances, for redress of wrongs and grievances.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "to assemble to consult upon the common good",
+   "give instructions to their representatives",
+   "to request of the legislative body, by the way of addresses, petitions, or remonstrances, redress of the wrongs done them"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl20": {
+  "title": "Only the legislature may suspend laws",
+  "plain": "The power of suspending the laws, or their execution, ought never to be exercised except by the legislature or by authority derived from it, and only in the particular cases the legislature expressly provides for.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "ought never to be exercised but by the legislature, or by authority derived from it"
+  ]
+ },
+ "decl21": {
+  "title": "Freedom of debate in the legislature",
+  "plain": "The freedom of deliberation, speech and debate in either house of the legislature is so essential to the rights of the people that it cannot be the foundation of any accusation, prosecution, action or complaint in any other court or place.",
+  "category": "The Legislature",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "The freedom of deliberation, speech and debate, in either house of the legislature"
+  ],
+  "powers": [],
+  "limits": [
+   "it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever"
+  ]
+ },
+ "decl22": {
+  "title": "Frequent meetings of the legislature",
+  "plain": "The legislature ought to assemble frequently to redress grievances, to correct, strengthen and confirm the laws, and to make new laws, as the common good may require.",
+  "category": "The Legislature",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "decl23": {
+  "title": "No taxes without consent",
+  "plain": "No subsidy, charge, tax, impost or duties ought to be established, fixed, laid or levied, under any pretext, without the consent of the people or their representatives in the legislature.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No subsidy, charge, tax, impost, or duties, ought to be established, fixed, laid, or levied, under any pretext whatsoever"
+  ]
+ },
+ "decl24": {
+  "title": "No ex post facto laws",
+  "plain": "Laws that punish actions done before those laws existed, and that were not declared crimes by earlier laws, are unjust, oppressive and inconsistent with the fundamental principles of a free government.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "are unjust, oppressive, and inconsistent with the fundamental principles of a free government"
+  ]
+ },
+ "decl25": {
+  "title": "No legislative convictions for treason or felony",
+  "plain": "No subject ought, in any case or at any time, to be declared guilty of treason or felony by the legislature.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No subject ought, in any case, or in any time, to be declared guilty of treason or felony by the legislature"
+  ]
+ },
+ "decl26": {
+  "title": "No excessive bail or cruel punishment",
+  "plain": "No magistrate or court of law shall demand excessive bail or sureties, impose excessive fines, or inflict cruel or unusual punishments.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall demand excessive bail or sureties",
+   "impose excessive fines",
+   "inflict cruel or unusual punishments"
+  ]
+ },
+ "decl27": {
+  "title": "Quartering of soldiers",
+  "plain": "In peacetime no soldier ought to be quartered in any house without the owner's consent. In wartime, quarters ought to be made only by the civil magistrate, in a manner ordained by the legislature.",
+  "category": "Military & Militia",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no soldier ought to be quartered in any house without the consent of the owner",
+   "such quarters ought not to be made but by the civil magistrate"
+  ]
+ },
+ "decl28": {
+  "title": "Limits on martial law",
+  "plain": "No person can be subject to law-martial, or to its penalties or pains, except those employed in the army or navy and the militia in actual service, unless by authority of the legislature.",
+  "category": "Military & Militia",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No person can in any case be subject to law-martial, or to any penalties or pains, by virtue of that law"
+  ]
+ },
+ "decl29": {
+  "title": "Independent judges",
+  "plain": "An impartial interpretation of the laws and administration of justice is essential to every individual's rights. Every citizen has a right to be tried by judges as free, impartial and independent as possible, so supreme judicial court judges should hold office during good behavior with honorable salaries set by standing laws.",
+  "category": "The Courts",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "the right of every citizen to be tried by judges as free, impartial and independent as the lot of humanity will admit"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "decl30": {
+  "title": "Separation of powers",
+  "plain": "The legislative, executive and judicial departments shall never exercise each other's powers, so that the commonwealth may be a government of laws and not of men.",
+  "category": "Founding & Purposes",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "the legislative department shall never exercise the executive and judicial powers, or either of them",
+   "the executive shall never exercise the legislative and judicial powers, or either of them",
+   "the judicial shall never exercise the legislative and executive powers, or either of them"
+  ]
+ },
+ "p2-c1-s1-a1": {
+  "title": "Two branches: the General Court",
+  "plain": "The legislature has two branches, a Senate and House of Representatives, each with a negative on the other. It shall assemble every year and be styled The General Court of Massachusetts. Bracketed wording on the meeting and dissolving dates is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "each of which shall have a negative on the other"
+  ],
+  "limits": []
+ },
+ "p2-c1-s1-a2": {
+  "title": "Governor's approval and veto of bills",
+  "plain": "No bill or resolve becomes law until laid before the governor. He signs it if he approves, or returns it with written objections. Two thirds of each house, voting by yeas and nays, may pass it anyway. A bracketed sentence on bills not returned within five days is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "he shall return the same, together with his objections thereto, in writing",
+   "if approved by two thirds of the members present, shall have the force of a law"
+  ],
+  "limits": [
+   "No bill or resolve of the senate or house of representatives shall become a law"
+  ]
+ },
+ "p2-c1-s1-a3": {
+  "title": "Power to create courts",
+  "plain": "The general court has full power to set up courts of record and other courts, held in the commonwealth's name, to hear and decide all criminal and civil matters arising within it and to award execution. Those courts may administer oaths or affirmations.",
+  "category": "The Courts",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "shall forever have full power and authority to erect and constitute judicatories and courts of record, or other courts",
+   "full power and authority, from time to time, to administer oaths or affirmations"
+  ],
+  "limits": []
+ },
+ "p2-c1-s1-a4": {
+  "title": "Lawmaking and taxing powers of the general court",
+  "plain": "The general court may make all wholesome and reasonable laws not contrary to this constitution for the commonwealth's good, provide for civil officers and set their duties, and levy reasonable taxes, duties and excises, spent by the governor's warrant with the council's consent. Estates are to be revalued at least every ten years.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "to make, ordain, and establish, all manner of wholesome and reasonable orders, laws, statutes, and ordinances",
+   "to name and settle annually, or provide by fixed laws, for the naming and settling all civil officers",
+   "to set forth the several duties, powers, and limits, of the several civil and military officers of this commonwealth",
+   "to impose and levy proportional and reasonable assessments, rates, and taxes",
+   "to impose and levy, reasonable duties and excises"
+  ],
+  "limits": [
+   "so as the same be not repugnant or contrary to this constitution"
+  ]
+ },
+ "p2-c1-s2-a1": {
+  "title": "Senate districts and number of senators",
+  "plain": "Superseded: It provided for forty councillors and senators elected yearly from districts set by the general court in proportion to public taxes paid, with the counties as districts until altered.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s2-a2": {
+  "title": "Election of senators at town meetings",
+  "plain": "The senate is the first branch of the legislature. Senators are elected at town meetings called by the selectmen, who count the votes and send attested records to the secretary of the commonwealth. Voters in plantations and other places outside the towns may also vote. Bracketed dates and voter qualifications are printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [
+   "shall have the same privilege of voting for councillors and senators in the plantations where they reside",
+   "shall have the privilege of giving in their votes for councillors and senators in the town where they shall be assessed"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s2-a3": {
+  "title": "Examining returns and summoning senators",
+  "plain": "The governor with five of the council shall examine the returned copies of the election records and, fourteen days before the senate convenes, summon those who appear chosen to take their seats. For the first year the former president and council did this. Bracketed dates are printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Duty",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s2-a4": {
+  "title": "Senate judges its own elections",
+  "plain": "The senate is the final judge of the elections, returns and qualifications of its own members, and shall determine and declare who is elected by each district. The bracketed wording on dates, majority votes and filling vacancies is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "The senate shall be the final judge of the elections, returns and qualifications of their own members"
+  ],
+  "limits": []
+ },
+ "p2-c1-s2-a5": {
+  "title": "Qualifications of senators",
+  "plain": "No person can be elected a senator who has not been an inhabitant of the commonwealth for the five years immediately before the election, and he must live in his district when elected. Bracketed property requirements are printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no person shall be capable of being elected as a senator"
+  ]
+ },
+ "p2": {
+  "title": "The people form the Commonwealth",
+  "plain": "The people living in the territory formerly called the Province of Massachusetts Bay agree with each other to form a free, sovereign and independent body politic, or state, named The Commonwealth of Massachusetts.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s2-a6": {
+  "title": "Senate may adjourn itself",
+  "plain": "The senate has power to adjourn itself, but such adjournments may not exceed two days at a time.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The senate shall have power to adjourn themselves"
+  ],
+  "limits": [
+   "provided such adjournments do not exceed two days at a time"
+  ]
+ },
+ "p2-c1-s2-a7": {
+  "title": "Senate chooses its president and rules",
+  "plain": "The senate chooses its own president, appoints its own officers and determines its own rules of proceedings.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The senate shall choose its own president, appoint its own officers, and determine its own rules of proceedings"
+  ],
+  "limits": []
+ },
+ "p2-c1-s2-a8": {
+  "title": "Senate tries impeachments",
+  "plain": "The senate is a court to hear and determine impeachments made by the house against officers of the commonwealth for misconduct and mal-administration. Senators are sworn first. Judgment extends only to removal and disqualification from office; the person convicted may still be indicted, tried and punished under the laws.",
+  "category": "The Courts",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The senate shall be a court with full authority to hear and determine all impeachments made by the house of representatives"
+  ],
+  "limits": [
+   "Their judgment, however shall not extend further than to removal from office and disqualification to hold or enjoy any place of honor, trust, or profit, under this commonwealth"
+  ]
+ },
+ "p2-c1-s2-a9": {
+  "title": "Senate quorum",
+  "plain": "Superseded: It provided that not less than sixteen members of the senate would constitute a quorum for doing business.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s3-a1": {
+  "title": "Representation of the people",
+  "plain": "The legislature shall include a representation of the people, elected and founded upon the principle of equality. The bracketed word \"annually\" is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s3-a2": {
+  "title": "Town representatives and fines",
+  "plain": "The house of representatives may fine towns that neglect to choose and return members. Bracketed paragraphs on how many representatives towns could elect by ratable polls, and on paying members' travel expenses, are printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "the house of representatives shall have power from time to time to impose fines upon such towns as shall neglect to choose and return members to the same"
+  ],
+  "limits": []
+ },
+ "p2-c1-s3-a3": {
+  "title": "Choosing representatives by written votes",
+  "plain": "Every member of the house of representatives shall be chosen by written votes. Bracketed residence and property qualifications for representatives are printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s3-a4": {
+  "title": "Who could vote for representatives",
+  "plain": "Superseded: It gave every male person aged twenty-one, resident in a town for one year and holding a freehold of three pounds annual income or any estate worth sixty pounds, a right to vote for the town's representatives.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s3-a5": {
+  "title": "When representatives are chosen",
+  "plain": "Superseded: It provided that members of the house of representatives would be chosen annually in May, at least ten days before the last Wednesday of that month.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s3-a6": {
+  "title": "House impeaches; senate tries",
+  "plain": "The house of representatives is the grand inquest of the commonwealth, and all impeachments it makes shall be heard and tried by the senate.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The house of representatives shall be the grand inquest of this commonwealth"
+  ],
+  "limits": []
+ },
+ "p2-c1-s3-a7": {
+  "title": "Money bills start in the house",
+  "plain": "All money bills must originate in the house of representatives, but the senate may propose or concur with amendments as on other bills.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the senate may propose or concur with amendments"
+  ],
+  "limits": []
+ },
+ "p2-c1-s3-a8": {
+  "title": "House may adjourn itself",
+  "plain": "The house of representatives has power to adjourn itself, but such adjournment may not exceed two days at a time.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The house of representatives shall have power to adjourn themselves"
+  ],
+  "limits": [
+   "provided such adjournment shall not exceed two days at a time"
+  ]
+ },
+ "p2-c1-s3-a9": {
+  "title": "House quorum",
+  "plain": "Superseded: It provided that not less than sixty members of the house of representatives would constitute a quorum for doing business.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c1-s3-a10": {
+  "title": "House powers, contempt and member privilege",
+  "plain": "The house judges its members' elections and qualifications, chooses its speaker and officers, and sets its rules. It may imprison non-members for disrespect, threats, assaults on members or witnesses, or rescuing persons it arrested. Members may not be arrested or held to bail on mesne process while going to, returning from or attending the general assembly.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [
+   "no member of the house of representatives shall be arrested, or held to bail on mesne process"
+  ],
+  "powers": [
+   "shall be the judge of the returns, elections, and qualifications of its own members",
+   "shall choose their own speaker",
+   "They shall have authority to punish by imprisonment"
+  ],
+  "limits": []
+ },
+ "p2-c1-s3-a11": {
+  "title": "Senate and governor may punish contempt",
+  "plain": "The senate has the same powers in like cases, and the governor and council the same authority to punish. No such imprisonment may exceed thirty days. Each house may try cases concerning its rights and privileges by committees or as it thinks best.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The senate shall have the same powers in the like cases",
+   "the governor and council shall have the same authority to punish in like cases",
+   "the senate and house of representatives may try, and determine, all cases where their rights and privileges are concerned"
+  ],
+  "limits": [
+   "no imprisonment on the warrant or order of the governor, council, senate, or house of representatives, for either of the above described offences, be for a term exceeding thirty days"
+  ]
+ },
+ "p2-c2-s1-a1": {
+  "title": "The Governor",
+  "plain": "There shall be a supreme executive magistrate styled The Governor of the Commonwealth of Massachusetts, whose title shall be His Excellency.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s1-a2": {
+  "title": "Choosing the governor; qualifications",
+  "plain": "The governor shall be chosen, and no person is eligible unless he has been an inhabitant of the commonwealth for the seven years before his election. Bracketed wording on annual election, property and religion requirements is printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no person shall be eligible to this office"
+  ]
+ },
+ "p2-c2-s1-a3": {
+  "title": "How the governor is elected",
+  "plain": "Voters for senators and representatives vote for governor at town meetings; the town clerk and selectmen count, record and send sealed lists to the secretary, who lays them before the legislature. If no one wins, the house picks two of the top four and the senate elects one. Bracketed dates and \"majority\" are printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s1-a4": {
+  "title": "Governor and council",
+  "plain": "The governor may at his discretion assemble the councillors. The governor with the councillors, or at least five of them, shall hold a council to order and direct the affairs of the commonwealth under the constitution and the laws.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The governor shall have authority from time to time, at his discretion, to assemble and call together the councillors of this commonwealth",
+   "for the ordering and directing the affairs of the commonwealth"
+  ],
+  "limits": []
+ },
+ "p2-c2-s1-a5": {
+  "title": "Governor may adjourn or prorogue the general court",
+  "plain": "The governor, with advice of council, may adjourn or prorogue the general court as the two houses desire, prorogue it in recess up to ninety days, call it together sooner, and move the session elsewhere in case of infectious distemper or danger. Bracketed wording on dissolving the court in May is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "shall have full power and authority, during the session of the general court to adjourn or prorogue the same",
+   "to call it together sooner than the time to which it may be adjourned or prorogued",
+   "he may direct the session to be held at some other, the most convenient place within the state"
+  ],
+  "limits": [
+   "not exceeding ninety days in any one recess"
+  ]
+ },
+ "p2-c2-s1-a6": {
+  "title": "Governor settles adjournment disagreements",
+  "plain": "When the two houses disagree about the necessity, expediency or time of adjournment or prorogation, the governor, with the advice of the council, may adjourn or prorogue the general court for up to ninety days, as the public good requires.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "shall have a right to adjourn or prorogue the general court"
+  ],
+  "limits": [
+   "not exceeding ninety days"
+  ]
+ },
+ "p2-c2-s1-a7": {
+  "title": "Governor as commander in chief",
+  "plain": "Annulled: This article made the governor commander in chief of all military forces of the state, with power to train and govern the militia and defend the commonwealth, but barred him from marching inhabitants out of the state without their consent or the general court's. A note says Amendments, Art. LIV annulled and superseded it.",
+  "category": "Military & Militia",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s1-a8": {
+  "title": "Governor's pardoning power",
+  "plain": "Annulled: This article gave the governor, with the advice of council, the power of pardoning offences, except convictions by the senate on impeachment, and said no pardon granted before conviction would avail the party pleading it. A note says it was annulled and superseded by Amendments, Art. LXXIII.",
+  "category": "Criminal Justice",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s1-a9": {
+  "title": "Governor appoints judicial officers",
+  "plain": "All judicial officers, the solicitor-general and coroners shall be nominated and appointed by the governor, with the advice and consent of the council, and each nomination must be made at least seven days before the appointment. Bracketed offices (attorney-general, sheriffs, registers of probate) are printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "shall be nominated and appointed by the governor, by and with the advice and consent of the council"
+  ],
+  "limits": []
+ },
+ "p2-c2-s1-a10": {
+  "title": "Election and appointment of militia officers",
+  "plain": "Annulled: This article provided for electing militia captains, subalterns, field officers and brigadiers by written votes, appointment of major-generals by the two houses, commissioning by the governor, removal of officers only by address of both houses or court-martial, and other militia appointments and divisions. A note says it was annulled and superseded by Amendments, Art. LIII.",
+  "category": "Military & Militia",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s1-a11": {
+  "title": "Treasury money only by governor's warrant",
+  "plain": "No money may be issued out of the treasury except by warrant of the governor, with the advice and consent of the council, for the defence and support of the commonwealth and protection of its inhabitants, agreeably to acts of the general court. Sums for redeeming bills of credit or treasurer's notes, or paying their interest, are excepted.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "by warrant under the hand of the governor for the time being, with the advice and consent of the council"
+  ],
+  "limits": [
+   "No moneys shall be issued out of the treasury of this commonwealth, and disposed of"
+  ]
+ },
+ "p2-c2-s1-a12": {
+  "title": "Reports of public property to the governor",
+  "plain": "Public boards, superintending officers of public magazines and stores, and commanding officers of forts and garrisons must account to the governor every three months, and when required, for all public property in their care, and give him plans of forts. Boards and public officers must pass on public letters and despatches. The bracketed \"commissary-general\" is printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s1-a13": {
+  "title": "Salaries of the governor and justices",
+  "plain": "So the governor is not dependent on members of the general court, he shall have an honorable stated salary of fixed and permanent value, established by standing laws. Permanent and honorable salaries shall also be established by law for justices of the supreme judicial court, and enlarged if found insufficient.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s2-a1": {
+  "title": "Election of the lieutenant governor",
+  "plain": "There shall be an elected lieutenant governor, titled His Honor, qualified in residence like the governor and elected on the same day, in the same manner and by the same electors. If no one is chosen, the senate and house fill the vacancy as for governor. Bracketed words (annually, religion, property, a majority) are printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s2-a2": {
+  "title": "Governor presides over the council",
+  "plain": "The governor, or in his absence the lieutenant governor, is president of the council but has no vote in council. The lieutenant governor is always a member of the council except when the governor's chair is vacant.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall have no vote in council"
+  ]
+ },
+ "p2-c2-s3-a1": {
+  "title": "The governor's council",
+  "plain": "There shall be a council to advise the governor in the executive part of government, which the governor may assemble at his discretion. The governor, with at least five councillors, may hold a council to order and direct the commonwealth's affairs according to law. The bracketed number \"nine\" is printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "shall have full power and authority, from time to time, at his discretion, to assemble and call together"
+  ],
+  "limits": []
+ },
+ "p2-c2-s3-a2": {
+  "title": "Choosing councillors",
+  "plain": "Annulled: This article provided that nine councillors be chosen annually by joint ballot of the senators and representatives from those returned as councillors and senators, with any shortfall made up from the people at large, and senators chosen vacating their senate seats. A note says it was superseded by Amendments, Art. XVI.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s3-a3": {
+  "title": "Rank of councillors",
+  "plain": "The councillors, in the civil arrangements of the commonwealth, rank next after the lieutenant governor.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s3-a4": {
+  "title": "Councillors per district",
+  "plain": "Annulled: This article provided that not more than two councillors be chosen out of any one district. A note says it was superseded by Amendments, Art XVI.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s3-a5": {
+  "title": "Council records and dissents",
+  "plain": "The council's resolutions and advice shall be recorded in a register and signed by the members present. Either house of the legislature may call for this record at any time, and any councillor may insert his opinion contrary to the majority's resolution.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [
+   "any member of the council may insert his opinion, contrary to the resolution of the majority"
+  ],
+  "powers": [
+   "this record may be called for at any time by either house of the legislature"
+  ],
+  "limits": []
+ },
+ "p2-c2-s3-a6": {
+  "title": "Council acts when both offices are vacant",
+  "plain": "Annulled: This article provided that when the offices of governor and lieutenant governor were both vacant, the council, or most of them, would have full power to do whatever the governor or lieutenant governor could do. A note says it was annulled and superseded by Amendments, Art. LV.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s3-a7": {
+  "title": "Order of legislative elections",
+  "plain": "Annulled: This article let the May elections by the two houses be adjourned day to day until completed, and set their order: senate vacancies first, then governor and lieutenant governor if the people made no choice, then the council. A note says it was superseded by Amendments, Arts. XVI and XXV.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s4-a1": {
+  "title": "Choosing secretary, treasurer and other officers",
+  "plain": "Superseded: It provided that the secretary, treasurer and receiver-general, commissary-general, notaries public and naval officers be chosen annually by joint ballot of the senators and representatives, and that no man be eligible as treasurer and receiver-general more than five years successively.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c2-s4-a2": {
+  "title": "Secretary keeps the records",
+  "plain": "The commonwealth's records shall be kept in the secretary's office. The secretary may appoint deputies, for whose conduct he is accountable, and shall attend the governor and council, the senate and the house, in person or by deputies, as they require.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "who may appoint his deputies"
+  ],
+  "limits": []
+ },
+ "p2-c3-a1": {
+  "title": "Tenure and removal of judicial officers",
+  "plain": "Annulled: This article required each commission officer's tenure to be expressed in his commission, and let judicial officers hold office during good behavior, though the governor, with consent of the council, could remove them upon the address of both houses. A note says Amendments, Art. XCVIII annulled it.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c3-a2": {
+  "title": "Opinions of the justices",
+  "plain": "Annulled: This article gave each branch of the legislature, and the governor and council, authority to require the opinions of the justices of the supreme judicial court upon important questions of law and upon solemn occasions. A note says Amendments, Art. LXXXV amended and superseded it.",
+  "category": "The Courts",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c3-a3": {
+  "title": "Seven-year commissions for justices of the peace",
+  "plain": "So the people do not suffer from justices of the peace who fail in their duties staying long in place, all their commissions expire and become void seven years from their dates; an expired commission may be renewed, or another person appointed, as best serves the commonwealth.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "all commissions of justices of the peace shall expire and become void, in the term of seven years from their respective dates"
+  ]
+ },
+ "p2-c3-a4": {
+  "title": "Times and places of probate courts",
+  "plain": "Judges of probate shall hold their courts at places and on fixed days as the people's convenience requires, and the legislature shall appoint those times and places; until it does, the courts are held where and when the judges direct.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the legislature shall, from time to time, hereafter appoint such times and places"
+  ],
+  "limits": []
+ },
+ "p2-c3-a5": {
+  "title": "Marriage, divorce and probate appeals",
+  "plain": "All causes of marriage, divorce and alimony, and all appeals from the judges of probate, shall be heard and determined by the governor and council until the legislature, by law, makes other provision.",
+  "category": "The Courts",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "shall be heard and determined by the governor and council"
+  ],
+  "limits": []
+ },
+ "p2-c4": {
+  "title": "Delegates to Congress",
+  "plain": "Annulled: This chapter had the senate and house, by joint ballot in one room, elect the commonwealth's delegates to the congress of the United States each June for one-year terms, subject to recall. A note says the adoption of the Constitution of the United States annulled it.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c5-s1-a1": {
+  "title": "Rights of Harvard College confirmed",
+  "plain": "Citing Harvard College's founding and the value of arts, sciences and literature, it declares that the President and Fellows of Harvard College, their successors, officers and servants keep all their existing powers, rights, privileges, immunities and franchises, ratified and confirmed forever.",
+  "category": "Education & Religion",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "all the powers, authorities, rights, liberties, privileges, immunities and franchises, which they now have or are entitled to have"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c5-s1-a2": {
+  "title": "Gifts to Harvard College confirmed",
+  "plain": "All past gifts, grants, devises, legacies and conveyances made to Harvard College, or to its president and fellows under any description, are forever confirmed to the president and fellows and their successors, according to the true intent of the donors, grantors and devisors.",
+  "category": "Education & Religion",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "are hereby forever confirmed unto the president and fellows of Harvard College"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c5-s1-a3": {
+  "title": "Legislature may alter Harvard's government",
+  "plain": "Nothing prevents the legislature from making alterations in the government of the university at Cambridge that are conducive to its advantage and the interest of the republic of letters. Bracketed wording naming the overseers of Harvard College is printed as superseded.",
+  "category": "Education & Religion",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "making such alterations in the government of the said university"
+  ],
+  "limits": []
+ },
+ "p2-c5-s2": {
+  "title": "Duty to cherish literature and sciences",
+  "plain": "Because wisdom, knowledge and virtue spread among the people preserve their rights and liberties, legislatures and magistrates must cherish literature, the sciences and schools, especially the university at Cambridge, encourage institutions promoting agriculture, arts, sciences and commerce, and inculcate humanity, charity, industry and honesty.",
+  "category": "Education & Religion",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a1": {
+  "title": "Oaths of office",
+  "plain": "Every person chosen governor, lieutenant governor, councillor, senator or representative, and every appointed judicial, executive, military or other officer, must take and subscribe an oath or affirmation to faithfully discharge the office's duties. Quakers may affirm instead. Bracketed declarations and oaths are printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a2": {
+  "title": "Offices that cannot be held together",
+  "plain": "The governor, lieutenant governor and supreme judicial court judges may hold no other office or take pay from another government; no one may hold more than one of certain offices or more than two appointed or elected offices; listed officers cannot sit in the legislature; those convicted of election bribery are barred.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall hold any other office or place, under the authority of this commonwealth",
+   "nor shall they hold any other place or office, or receive any pension or salary from any other state or government or power whatever",
+   "No person shall be capable of holding or exercising at the same time, within this state more than one of the following offices",
+   "shall at the same time have a seat in the senate or house of representatives",
+   "no person shall ever be admitted to hold a seat in the legislature, or any office of trust or importance under the government of this commonwealth"
+  ]
+ },
+ "p2-c6-a3": {
+  "title": "Value of money and property qualifications",
+  "plain": "Superseded: It provided that sums of money mentioned in the constitution be computed in silver at six shillings and eight pence per ounce, and gave the legislature power to increase property qualifications for persons elected to office.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a4": {
+  "title": "Form of commissions",
+  "plain": "All commissions shall be in the name of the Commonwealth of Massachusetts, signed by the governor, attested by the secretary or his deputy, and have the great seal of the commonwealth affixed.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a5": {
+  "title": "Form of writs",
+  "plain": "All writs from the clerk's office of any court of law shall be in the name of the Commonwealth of Massachusetts, under the seal of the issuing court, bear test of the first justice of the returnable court who is not a party, and be signed by its clerk.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a6": {
+  "title": "Earlier laws remain in force",
+  "plain": "Laws adopted, used and approved in the Province, Colony or State of Massachusetts Bay and practiced in the courts remain in full force until altered or repealed by the legislature, except parts repugnant to the rights and liberties in this constitution.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "altered or repealed by the legislature"
+  ],
+  "limits": []
+ },
+ "p2-c6-a7": {
+  "title": "Writ of habeas corpus",
+  "plain": "The privilege and benefit of the writ of habeas corpus shall be enjoyed in the most free, easy, cheap, expeditious and ample manner, and the legislature may not suspend it except on the most urgent and pressing occasions, for no more than twelve months.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "The privilege and benefit of the writ of habeas corpus"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not be suspended by the legislature"
+  ]
+ },
+ "p2-c6-a8": {
+  "title": "Enacting style of laws",
+  "plain": "All acts, statutes and laws must use the enacting style: \"Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same.\"",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a9": {
+  "title": "Officers continue until replaced",
+  "plain": "Superseded: It provided that, when this constitution took effect, existing civil and military officers, courts and executive and legislative bodies would keep their powers and continue their business until replacements were appointed and the general court and officers under this constitution were invested with their powers.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a10": {
+  "title": "Revising the constitution in 1795",
+  "plain": "Annulled: This article had the general court of 1795 direct towns and plantations to poll qualified voters on revising the constitution, and, if two thirds favored it, issue precepts for electing delegates to a convention, chosen like representatives. A note says Amendments, Art. XLVIII annulled it.",
+  "category": "Amending & Ratifying",
+  "kind": "Duty",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "p2-c6-a11": {
+  "title": "Enrolling and printing the constitution",
+  "plain": "This form of government shall be enrolled on parchment, deposited in the secretary's office and be part of the laws of the land, and printed copies shall be prefixed to all future editions of the commonwealth's laws.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend1": {
+  "title": "Bills not returned when the general court adjourns",
+  "plain": "Annulled: It provided that if the general court adjourned within five days after a bill or resolve was laid before the governor, preventing its return with objections, the bill or resolve would not become a law. A note says Amendments, Art. XC, Sec. 2 superseded it.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend2": {
+  "title": "City governments",
+  "plain": "Annulled: It gave the general court power to erect city governments in towns, only in towns of at least twelve thousand inhabitants and with the consent of a majority of the inhabitants, with their by-laws subject to annulment by the general court. A note says Amendments, Art. LXXXIX annulled it.",
+  "category": "Local Government",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend3": {
+  "title": "Who may vote for state officers",
+  "plain": "Every citizen who has resided six calendar months in the town or district where he claims a right to vote has a right to vote for governor, lieutenant governor, senators and representatives, except persons under guardianship; no other person may vote. Bracketed qualifications are printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "status": "partly superseded",
+  "rights": [
+   "shall have a right to vote in such election of governor, lieutenant governor, senators and representatives"
+  ],
+  "powers": [],
+  "limits": [
+   "no other person shall be entitled to vote in such election"
+  ]
+ },
+ "amend4": {
+  "title": "Notaries public and other appointments",
+  "plain": "Notaries public shall be appointed by the governor like judicial officers and hold office for seven years unless sooner removed. Bracketed paragraphs on vacancies for secretary or treasurer, a commissary-general and militia officers are printed as superseded and annulled.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "Notaries public shall be appointed by the governor"
+  ],
+  "limits": []
+ },
+ "amend5": {
+  "title": "Militia companies vote for their officers",
+  "plain": "Annulled: It gave all members of militia companies, whether under or above twenty-one years of age, a right to vote in elections of their captains and subalterns. A note says Amendments, Art. LIII annulled it.",
+  "category": "Military & Militia",
+  "kind": "Right",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend6": {
+  "title": "Oath of allegiance for officers",
+  "plain": "Every person chosen or appointed to any civil or military office must, before entering on its duties, swear to bear true faith and allegiance to the Commonwealth of Massachusetts and support its constitution. Quakers who decline the oath shall affirm instead.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend7": {
+  "title": "No other oaths for elected officers",
+  "plain": "No oath, declaration or subscription, except the oath in the preceding article and the oath of office, shall be required of the governor, lieutenant governor, councillors, senators or representatives to qualify them for their offices.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No oath, declaration or subscription"
+  ]
+ },
+ "amend8": {
+  "title": "Offices that cannot be held together",
+  "plain": "Judges (except of the court of sessions) and federal officeholders (except postmasters) cannot also be governor, lieutenant governor, councillor or legislator; listed state officers who accept election to Congress resign their offices; and judges of the courts of common pleas hold no other state office.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall, at the same time, hold the office of governor, lieutenant governor, or councillor, or have a seat in the senate or house of representatives of this commonwealth",
+   "shall continue to hold his said office after being elected a member of Congress of the United States, and accepting that trust",
+   "shall hold no other office under the government of this commonwealth"
+  ]
+ },
+ "amend9": {
+  "title": "Amending the constitution through the general court",
+  "plain": "Annulled: It let amendments agreed to by a majority of senators and two thirds of representatives in two successive general courts be submitted to the people, becoming part of the constitution if ratified by a majority of qualified voters voting. A note says Amendments, Art. XLVIII annulled it.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend10": {
+  "title": "Start of the political year",
+  "plain": "The political year begins on the first Wednesday of January; the general court assembles every year that day and is dissolved the day before, but may assemble at other times or when called by the governor. Provisions referring to the last Wednesday of May now refer to January. Bracketed wording is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend11": {
+  "title": "Religious societies and equal protection of sects",
+  "plain": "Replacing the third article of the bill of rights, religious societies have the right to elect and support their pastors and raise money for worship; members may leave by written notice; all peaceable sects are equally protected by law, and none may be subordinated to another.",
+  "category": "Education & Religion",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "shall ever have the right to elect their pastors or religious teachers, to contract with them for their support, to raise money for erecting and repairing houses for public worship, for the maintenance of religious instruction, and for the payment of necessary expenses",
+   "shall be equally under the protection of the law"
+  ],
+  "powers": [],
+  "limits": [
+   "no subordination of any one sect or denomination to another shall ever be established by law"
+  ]
+ },
+ "amend12": {
+  "title": "Representation based on ratable polls",
+  "plain": "Annulled: It provided a decennial census of ratable polls from 1837, gave towns representatives by numbers of polls, let small towns elect one in some years, let towns form representative districts, and had the governor and council fix the numbers. A note says later amendments superseded it.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend13": {
+  "title": "Census, apportionment and no property qualification",
+  "plain": "No possession of a freehold or other estate shall be required to hold a seat in either branch of the general court or in the executive council. Bracketed paragraphs on a decennial census, senators, representatives and councillors are printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No possession of a freehold or of any other estate shall be required as a qualification"
+  ]
+ },
+ "amend14": {
+  "title": "Highest number of votes wins",
+  "plain": "In all elections of civil officers by the people that the constitution provides for, the person having the highest number of votes shall be deemed and declared elected.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend15": {
+  "title": "Day of the state election",
+  "plain": "Superseded: It provided that the meeting to choose the governor, lieutenant-governor, senators and representatives be held annually on the Tuesday next after the first Monday in November, with a second meeting on the fourth Monday of November if representatives were not elected.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend16": {
+  "title": "Election of councillors by districts",
+  "plain": "Eight councillors shall be chosen annually by voters qualified to vote for governor, one from each of eight districts the legislature draws after each census. Councillors must have lived in the commonwealth five years. The governor and councillors examine election returns. Bracketed wording on vacancies is printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No person shall be eligible to the office of councillor"
+  ]
+ },
+ "amend17": {
+  "title": "Election of secretary, treasurer, auditor, attorney-general",
+  "plain": "The secretary, treasurer and receiver-general, auditor and attorney-general shall be chosen on the November day for choosing the governor, with failures and session vacancies filled by joint ballot of the legislature and other vacancies by the governor's appointment. Each must have lived here five years. Bracketed wording is printed as superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No person shall be eligible to either of said offices"
+  ]
+ },
+ "amend18": {
+  "title": "School money only for public schools",
+  "plain": "Annulled: It required school moneys raised by towns and cities or appropriated by the state to be spent only on schools conducted under the town or city authorities, and never appropriated to any religious sect for its own schools. A note says later amendments superseded it.",
+  "category": "Education & Religion",
+  "kind": "Limit",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend19": {
+  "title": "Election of county officers and district-attorneys",
+  "plain": "The legislature shall provide by general law for the people of the counties to elect sheriffs, registers of probate and clerks of the courts, and for the people of the districts to choose district-attorneys, for terms the legislature prescribes. Bracketed wording is printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend20": {
+  "title": "Reading and writing test for office",
+  "plain": "No person shall be eligible to office who cannot read the constitution in English and write his name, except persons with a physical disability, persons then entitled to vote, and persons then sixty or older. Bracketed wording on voting is printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "be eligible to office under the constitution of this commonwealth, who shall not be able to read the constitution in the English language, and write his name"
+  ]
+ },
+ "amend21": {
+  "title": "Census and apportionment of representatives",
+  "plain": "Annulled: It provided a census of legal voters, a house of two hundred and forty members apportioned to counties by legal voters, county boards dividing counties into representative districts, residence rules for representatives, and a quorum of one hundred members. A note says later amendments annulled and superseded it.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend22": {
+  "title": "Census and senate districts",
+  "plain": "Annulled: It provided a census of legal voters to apportion senators, a senate of forty members elected from forty districts of adjacent territory drawn by the general court, residence rules for senators, and a quorum of sixteen senators. A note says later amendments annulled and superseded it.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend23": {
+  "title": "Waiting period for naturalized voters",
+  "plain": "Annulled: It provided that no person of foreign birth could vote or hold office unless he had resided within the United States for two years after naturalization, without affecting rights already held or children of citizens born abroad. A note says Amendments, Art. XXVI annulled it.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend24": {
+  "title": "Filling senate vacancies",
+  "plain": "Any vacancy in the senate shall be filled by election by the people of the unrepresented district, upon the order of a majority of senators elected.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend25": {
+  "title": "Filling council vacancies",
+  "plain": "A vacancy in the council is filled by concurrent vote of the senate and house choosing an eligible person from the district; if the legislature is not in session, the governor, with the advice and consent of the council, may fill it by appointment.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the senate and house of representatives shall, by concurrent vote, choose some eligible person",
+   "may fill the same by appointment of some eligible person"
+  ],
+  "limits": []
+ },
+ "amend26": {
+  "title": "Annulling Article XXIII",
+  "plain": "The twenty-third article of amendment, which barred persons of foreign birth from voting or holding office until two years after naturalization, is hereby wholly annulled.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend27": {
+  "title": "Harvard College officers",
+  "plain": "So much of article two of chapter six of the constitution as relates to persons holding the office of president, professor or instructor of Harvard College is hereby annulled.",
+  "category": "Education & Religion",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend28": {
+  "title": "Voting by honorably discharged veterans",
+  "plain": "A person who served in the army or navy of the United States in time of war and was honorably discharged, if otherwise qualified to vote, shall not be disqualified because of the non-payment of a poll tax. Bracketed wording on paupers is printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be disqualified therefor on account of"
+  ]
+ },
+ "amend29": {
+  "title": "More than one polling place in towns",
+  "plain": "The general court has full power to provide towns more than one place of public meeting for electing officers under the constitution and to prescribe how such meetings are called, held and conducted. Inconsistent provisions of the existing constitution are annulled.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The general court shall have full power and authority to provide for the inhabitants of the towns in this commonwealth more than one place of public meeting"
+  ],
+  "limits": []
+ },
+ "amend30": {
+  "title": "Voting after moving within the commonwealth",
+  "plain": "A person otherwise qualified to vote for governor, lieutenant-governor, senators and representatives shall not, because of a change of residence within the commonwealth, be disqualified from voting for them in the city or town he left until six calendar months after moving.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "be disqualified from voting for said officers in the city or town from which he has removed his residence"
+  ]
+ },
+ "amend31": {
+  "title": "Amending Article XXVIII on veterans' voting",
+  "plain": "Superseded: It amended article twenty-eight by striking out \"being a pauper\" and inserting \"receiving or having received aid from any city or town\", and by striking out \"if a pauper\". The whole text is printed in brackets.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend32": {
+  "title": "Removing the tax-paying voter qualification",
+  "plain": "So much of article three of the amendments as required voters to have paid, by themselves or a parent, master or guardian, a state or county tax assessed within two years, and as covered citizens exempted from taxation, is hereby annulled.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend33": {
+  "title": "Quorum of the general court",
+  "plain": "A majority of the members of each branch of the general court is a quorum for business, but a smaller number may adjourn from day to day and compel the attendance of absent members. Inconsistent provisions of the existing constitution are annulled.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "a less number may adjourn from day to day, and compel the attendance of absent members"
+  ],
+  "limits": []
+ },
+ "amend34": {
+  "title": "Removing the governor's property qualification",
+  "plain": "So much of article two of section one of chapter two of part the second as required the governor to be seised in his own right of a freehold within the commonwealth worth one thousand pounds is hereby annulled.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend35": {
+  "title": "Ending travel expense payments to representatives",
+  "plain": "So much of article two of section three of chapter one as provided that the government pay members their expenses of travelling to the general assembly and returning home once each session is hereby annulled.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend36": {
+  "title": "Removing commissioners of insolvency",
+  "plain": "So much of article nineteen of the articles of amendment as is contained in the words \"commissioners of insolvency\" is hereby annulled.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend37": {
+  "title": "Removing justices of the peace and notaries",
+  "plain": "The governor, with the consent of the council, may remove justices of the peace and notaries public.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "may remove justices of the peace and notaries public"
+  ],
+  "limits": []
+ },
+ "amend38": {
+  "title": "Voting machines and secret voting",
+  "plain": "Voting machines or other mechanical devices for voting may be used at all elections under regulations prescribed by law, provided that the right of secret voting is preserved.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [
+   "the right of secret voting"
+  ],
+  "powers": [
+   "Voting machines or other mechanical devices for voting may be used at all elections"
+  ],
+  "limits": []
+ },
+ "amend39": {
+  "title": "Taking extra land for highways",
+  "plain": "Adding to article ten of part one, the legislature may by special acts authorize taking more land than needed for highways or streets, limited to land specified in the act and sufficient for building lots on both sides, and may authorize selling the remainder.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The legislature may by special acts",
+   "may authorize the sale of the remainder for value"
+  ],
+  "limits": []
+ },
+ "amend40": {
+  "title": "Disqualifying voters for corrupt election practices",
+  "plain": "Article three of the amendments is amended by inserting after the word \"guardianship\" the words \"and persons temporarily or permanently disqualified by law because of corrupt practices in respect to elections.\"",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend41": {
+  "title": "Taxing wild or forest lands",
+  "plain": "Annulled: It gave the general court full power and authority to prescribe for wild or forest lands such methods of taxation as will develop and conserve the forest resources of the commonwealth. A note says Amendments, Art. CX annulled it.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend42": {
+  "title": "Referring acts of the general court to the people",
+  "plain": "Annulled: It gave the general court power to refer any act or resolve to the people by a majority yea and nay vote of each house; the act became law if approved by a majority of voters at the next regular state election. A note says it was annulled and superseded.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend43": {
+  "title": "Taking land to relieve congestion and provide homes",
+  "plain": "The general court may authorize the commonwealth to take land and to hold, improve, sub-divide, build upon and sell it to relieve congestion of population and provide homes for citizens, but not to sell such land or buildings at less than cost.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The general court shall have power to authorize the commonwealth to take land"
+  ],
+  "limits": [
+   "shall not be deemed to authorize the sale of such land or buildings at less than the cost thereof"
+  ]
+ },
+ "amend44": {
+  "title": "Income tax",
+  "plain": "The general court may impose and levy a tax on income, at different rates for income from different classes of property but at a uniform rate throughout the commonwealth for the same class. It may tax income not derived from property at a lower rate and grant reasonable exemptions and abatements.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "to impose and levy a tax on income",
+   "may grant reasonable exemptions and abatements"
+  ],
+  "limits": [
+   "shall be levied at a uniform rate throughout the commonwealth upon incomes derived from the same class of property"
+  ]
+ },
+ "amend45": {
+  "title": "Absent voting",
+  "plain": "Annulled: It gave the general court power to provide by law for voting by qualified voters who, at the time of an election, are absent from the city or town of which they are inhabitants. A note says it was annulled and superseded.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend46": {
+  "title": "Free exercise of religion and public money",
+  "plain": "No law shall prohibit the free exercise of religion. Public school money goes only to schools conducted according to law, and public money or credit may not aid private or denominational schools and institutions or any church, with listed exceptions. Inmates keep religious exercises and cannot be compelled to attend religious services.",
+  "category": "Education & Religion",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [
+   "the free exercise of religion",
+   "the opportunity of religious exercises therein of his own faith"
+  ],
+  "powers": [],
+  "limits": [
+   "No law shall be passed prohibiting",
+   "shall be applied to, and expended in, no other schools than those which are conducted according to law",
+   "no grant, appropriation or use of public money or property or loan of public credit shall be made or authorized by the commonwealth or any political division thereof",
+   "no inmate of such institution shall be compelled to attend religious services or receive religious instruction against his will"
+  ]
+ },
+ "amend47": {
+  "title": "Food, necessaries and shelter in emergencies",
+  "plain": "Maintaining and distributing at reasonable rates, during war, public exigency, emergency or distress, a sufficient supply of food and other common necessaries of life, and providing shelter, are public functions; the commonwealth and its cities and towns may take and provide them as the general court determines.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the commonwealth and the cities and towns therein may take and may provide the same for their inhabitants"
+  ],
+  "limits": []
+ },
+ "amend48-defi1": {
+  "title": "Initiative and referendum reserved to the people",
+  "plain": "Legislative power stays vested in the general court, but the people reserve the popular initiative, the power of a specified number of voters to submit constitutional amendments and laws to the people, and the popular referendum, the power to submit laws enacted by the general court to the people.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "Legislative power shall continue to be vested in the general court",
+   "the people reserve to themselves the popular initiative",
+   "the popular referendum"
+  ],
+  "limits": []
+ },
+ "amend48-init-initpeti2": {
+  "title": "What initiative petitions may contain",
+  "plain": "An initiative petition must set out the full text of the measure. Measures on religion, judges, courts, local matters or specific appropriations, and propositions inconsistent with listed individual rights, may not be proposed by initiative. Petitions go to the general court. Bracketed Section 3, on originating petitions, is printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "status": "partly superseded",
+  "rights": [
+   "The right to receive compensation for private property appropriated to public use",
+   "the right of access to and protection in courts of justice",
+   "the right of trial by jury",
+   "freedom of the press",
+   "freedom of speech",
+   "freedom of elections",
+   "the right of peaceable assembly"
+  ],
+  "powers": [],
+  "limits": [
+   "shall be proposed by an initiative petition",
+   "shall be the subject of an initiative amendment",
+   "shall be the subject of an initiative or referendum petition",
+   "shall be the subject of an initiative petition",
+   "shall extend to the legislative power of the people"
+  ]
+ },
+ "amend48-init-legiactigene3": {
+  "title": "Committee hearings and legislative substitutes",
+  "plain": "A measure introduced by initiative petition shall be referred to a committee, which hears the petitioners and parties in interest and reports in writing with reasons. The general court may submit to the people a legislative substitute, grouped on the ballot as an alternative.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "submit to the people a substitute for any measure introduced by initiative petition"
+  ],
+  "limits": []
+ },
+ "amend48-init-legiaction4": {
+  "title": "Legislative action on proposed constitutional amendments",
+  "plain": "An initiative amendment is voted on as introduced unless amended by three-fourths in joint session. A legislative amendment needs a majority of all members elected, and an initiative amendment one-fourth, in two successive general courts; then the people vote. Bracketed Sections 1 and 2 are printed as superseded.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend48-init-legiaction5": {
+  "title": "Legislative action on proposed initiative laws",
+  "plain": "Annulled: It required both houses to vote by June on an initiative law signed by twenty thousand voters; if not enacted and five thousand more signatures were filed, the people voted on it. A majority of the first ten signers could amend it. Notes in the text say both sections were superseded.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend48-init-confandalte6": {
+  "title": "Conflicting and alternative measures",
+  "plain": "When measures approved at the same election conflict, the one with the most affirmative votes governs, and a constitutional amendment governs a law. The general court may group measures on the ballot as conflicting or alternative, but not an amendment with a law.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "may provide for grouping and designating upon the ballot as conflicting measures or as alternative measures"
+  ],
+  "limits": [
+   "a proposed constitutional amendment and a proposed law shall not be so grouped"
+  ]
+ },
+ "amend48-ref-whenstatshal1": {
+  "title": "When laws take effect",
+  "plain": "No law passed by the general court shall take effect earlier than ninety days after it has become a law, except emergency laws and laws which may not be made the subject of a referendum petition.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No law passed by the general court shall take effect earlier than ninety days after it has become a law"
+  ]
+ },
+ "amend48-ref-emermeas2": {
+  "title": "Emergency laws",
+  "plain": "An emergency law must contain a preamble stating the facts and that it is necessary for the immediate preservation of the public peace, health, safety or convenience. The governor may file a statement making a law take effect forthwith. Franchise grants cannot be emergency laws. Bracketed wording on a two-thirds vote is printed as superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "files with the secretary of the commonwealth a statement declaring"
+  ],
+  "limits": [
+   "no grant of any franchise or amendment thereof, or renewal or extension thereof for more than one year shall be declared to be an emergency law"
+  ]
+ },
+ "amend48-ref-refepeti3": {
+  "title": "Referendum petitions",
+  "plain": "A referendum petition may ask for a referendum on any law not expressly excluded; laws on religion, judges, courts, local matters or ordinary appropriations are excluded. Petitions to suspend a law, or to repeal an emergency or unsuspended law, need ten signers and filing within thirty days. Bracketed wording is printed as superseded.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "A referendum petition may ask for a referendum to the people upon any law enacted by the general court",
+   "A referendum petition may ask for the repeal of an emergency law"
+  ],
+  "limits": [
+   "shall be the subject of a referendum petition"
+  ]
+ },
+ "amend48-gen-idenandcert1": {
+  "title": "Identifying signatures and paid petition circulators",
+  "plain": "Provision shall be made by law for identifying and certifying petition signatures and for penalties for signing or refusing to sign for money and for forgery. The general court may bar co-partnerships or corporations from circulating petitions for hire, license paid circulators, and make other reasonable regulations.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "may require individuals who circulate petitions for hire or reward to be licensed",
+   "may make other reasonable regulations to prevent abuses arising from the circulation of petitions for hire or reward"
+  ],
+  "limits": []
+ },
+ "amend48-gen-limionsign2": {
+  "title": "Limit on signatures from one county",
+  "plain": "Not more than one-fourth of the certified signatures on any petition shall be those of registered voters of any one county.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Not more than one-fourth of the certified signatures on any petition shall be those of registered voters of any one county"
+  ]
+ },
+ "amend48-gen-formofball3": {
+  "title": "Form of the ballot question",
+  "plain": "Each proposed amendment and law submitted to the people is described on the ballot by a description determined by the attorney-general, and the secretary of the commonwealth numbers each question and prints it in the set form, stating whether and by what vote the general court approved it.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend48-gen-infoforvote4": {
+  "title": "Information for voters on ballot measures",
+  "plain": "Annulled: It required the secretary of the commonwealth to print and send each registered voter the full text of every measure submitted to the people, with committee reports, the general court's votes and the ballot description, and other information and arguments. Notes in the text say it was superseded.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend48-gen-thevetopowe5": {
+  "title": "Veto power over amending laws approved by the people",
+  "plain": "The general court may amend or repeal a law approved by the people, subject to the veto power of the governor and to the right of referendum by petition.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the general court may amend or repeal a law approved by the people"
+  ],
+  "limits": []
+ },
+ "amend48-gen-thegenecour6": {
+  "title": "General court's power to repeal laws approved by the people",
+  "plain": "The general court may amend or repeal a law approved by the people, subject to the veto power of the governor and to the right of referendum by petition.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the general court may amend or repeal a law approved by the people"
+  ],
+  "limits": []
+ },
+ "amend48-gen-amendeclto7": {
+  "title": "Initiative and referendum amendment is self-executing",
+  "plain": "This article of amendment is self-executing, but legislation not inconsistent with it may be enacted to facilitate the operation of its provisions.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "legislation not inconsistent with anything herein contained may be enacted to facilitate the operation of its provisions"
+  ],
+  "limits": []
+ },
+ "amend48-gen-artiixand8": {
+  "title": "Articles IX and XLII of amendments annulled",
+  "plain": "Article IX and Article XLII of the amendments of the constitution are annulled.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend49": {
+  "title": "Conservation of natural resources",
+  "plain": "Annulled: It declared the conservation, development and utilization of the commonwealth's natural resources public uses, and gave the general court power to provide for taking lands and interests, upon payment of just compensation, for that purpose. A note says it was superseded by Amendments, Art. XCVII.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend50": {
+  "title": "Regulating advertising",
+  "plain": "Advertising on public ways, in public places and on private property within public view may be regulated and restricted by law.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "may be regulated and restricted by law"
+  ],
+  "limits": []
+ },
+ "amend51": {
+  "title": "Preserving historical landmarks",
+  "plain": "Preserving ancient landmarks and other property of historical or antiquarian interest is a public use, and the commonwealth and its cities and towns may take such property, upon payment of just compensation, under regulations the general court prescribes.",
+  "category": "Local Government",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the commonwealth and the cities and towns therein may, upon payment of just compensation, take such property or any interest therein"
+  ],
+  "limits": []
+ },
+ "amend52": {
+  "title": "Recesses of the general court",
+  "plain": "Annulled: It let the general court, by concurrent vote of the two houses, take recesses amounting to not more than thirty days, none extending beyond the sixtieth day from their first assembling. A note says it was superseded by Amendments, Art. CII.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend53": {
+  "title": "Appointing and removing military officers",
+  "plain": "Annuls earlier provisions and adopts a new Article X: military and naval officers are selected, appointed and removed as the general court prescribes by law, but none is appointed without passing an examination or serving one year; the governor commissions officers entitled to commissions.",
+  "category": "Military & Militia",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "may be removed in such manner as the general court may by law prescribe"
+  ],
+  "limits": [
+   "no such officer shall be appointed unless"
+  ]
+ },
+ "amend54": {
+  "title": "Military and naval forces and the commander-in-chief",
+  "plain": "Annuls an earlier article and adopts a new Article VII: the general court provides by law for the military and naval forces; the governor is commander-in-chief, may assemble and employ them, and may, as authorized by the general court, prescribe their organization and regulations.",
+  "category": "Military & Militia",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The governor shall be the commander-in-chief thereof",
+   "shall have power to assemble the whole or any part of them for training, instruction or parade",
+   "to employ them for the suppression of rebellion, the repelling of invasion, and the enforcement of the laws",
+   "prescribe from time to time the organization of the military and naval forces and make regulations for their government"
+  ],
+  "limits": []
+ },
+ "amend55": {
+  "title": "Succession when governor and lieutenant-governor are vacant",
+  "plain": "Annuls an earlier article and provides that when both the offices of governor and lieutenant-governor are vacant, the secretary, attorney-general, treasurer and receiver-general, and auditor, in that order, have full power to do what the governor or lieutenant-governor could lawfully do.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "have full power and authority to do and execute all and every such acts, matters and things as the governor or the lieutenant-governor might or could lawfully do or execute"
+  ],
+  "limits": []
+ },
+ "amend56": {
+  "title": "Governor returning bills with recommended amendments",
+  "plain": "Annulled: It gave the governor, within five days, the right to return a bill or resolve to its originating branch recommending amendments; if re-enacted in any form it went back to the governor, who could not return it a second time. A note says it was superseded.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend57": {
+  "title": "Women eligible as notaries public",
+  "plain": "Amends Article IV of the articles of amendment by adding that women shall be eligible to appointment as notaries public. The bracketed sentence on change of name voiding the commission is printed as superseded.",
+  "category": "Equality & Citizenship",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [
+   "Women shall be eligible to appointment as notaries public"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "amend58": {
+  "title": "Retiring officers for age or disability",
+  "plain": "Annulled: It amended Article I of Chapter III of Part the Second to let the governor, with the consent of the council, after due notice and hearing, retire such officers because of advanced age or mental or physical disability. A note says it was superseded.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend59": {
+  "title": "Charters subject to revocation and amendment",
+  "plain": "Every charter, franchise or act of incorporation shall forever remain subject to revocation and amendment.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "shall forever remain subject to revocation and amendment"
+  ],
+  "limits": []
+ },
+ "amend60": {
+  "title": "Limiting buildings to districts",
+  "plain": "The general court has power to limit buildings, according to their use or construction, to specified districts of cities and towns.",
+  "category": "Local Government",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The general court shall have power to limit buildings according to their use or construction to specified districts of cities and towns"
+  ],
+  "limits": []
+ },
+ "amend61": {
+  "title": "Compulsory voting and secret voting",
+  "plain": "The general court has authority to provide for compulsory voting at elections, but the right of secret voting shall be preserved.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [
+   "the right of secret voting"
+  ],
+  "powers": [
+   "shall have authority to provide for compulsory voting at elections"
+  ],
+  "limits": []
+ },
+ "amend62": {
+  "title": "Credit and borrowing of the commonwealth",
+  "plain": "Annulled: It barred lending the commonwealth's credit to individuals, private associations or privately owned corporations; let it borrow to repel invasion, suppress insurrection, defend itself or assist the United States in war, or in anticipation of revenue; otherwise required a two-thirds vote; and limited use of borrowed money. A note says it was superseded.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend63": {
+  "title": "Revenue, budget and appropriations",
+  "plain": "Annulled: It required all money received to be paid into the treasury, a budget from the governor within three weeks, a single general appropriation bill, and special appropriation bills only as provided, and let the governor disapprove or reduce items. A note says it was annulled by Amendments, Art. CVII.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend64": {
+  "title": "Biennial elections and terms of state officers",
+  "plain": "Annulled: It provided for biennial election of the governor, other state officers, senators and representatives and set their terms, limited the treasurer to three successive terms, and had the general court assemble every year on the first Wednesday in January. Notes say it was annulled.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend65": {
+  "title": "Legislators barred from new or better-paid offices",
+  "plain": "No person elected to the general court may, during the term for which he was elected, be appointed to any office created or whose emoluments are increased during that term, nor receive extra pay for service on a recess committee or commission, except a statutes-revision committee.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "be appointed to any office created or the emoluments whereof are increased during such term",
+   "nor receive additional salary or compensation for service upon any recess committee or commission"
+  ]
+ },
+ "amend66": {
+  "title": "Executive work organized in departments",
+  "plain": "Annulled: It required the executive and administrative work of the commonwealth to be organized, by January first, 1921, in not more than twenty departments, under such supervision and regulation as the general court prescribes by law. A note says it was annulled by Amendments, Art. LXXXVII.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend67": {
+  "title": "Recorded vote on emergency preamble",
+  "plain": "Amends Article XLVIII so that a separate recorded vote is taken on an emergency law's preamble, which must be adopted by two-thirds of the members of each House voting; on request of two senators or five representatives, that vote is by yeas and nays.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "unless the preamble is adopted by two-thirds of the members of each House voting thereon, the law shall not be an emergency law"
+  ]
+ },
+ "amend68": {
+  "title": "Striking the word \"male\" from Article III",
+  "plain": "Amends Article III of the amendments to the constitution, as amended, by striking out the word \"male\" in its first line.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend69": {
+  "title": "Sex no bar to office; women re-registering after name change",
+  "plain": "No person shall be deemed ineligible to hold state, county or municipal office by reason of sex. It also amends Article IV so that a woman who changes her name shall re-register under her new name and pay a fee set by the general court.",
+  "category": "Equality & Citizenship",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No person shall be deemed to be ineligible to hold state, county or municipal office by reason of sex"
+  ]
+ },
+ "amend70": {
+  "title": "Limited town meetings in larger towns",
+  "plain": "Annulled: It added to Article II that the general court could establish, in towns of more than six thousand inhabitants, a town meeting limited to elected inhabitants, with the consent and on application of a majority of the inhabitants voting. A note says it was annulled by Amendments, Art. LXXXIX.",
+  "category": "Local Government",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend71": {
+  "title": "Census and representative and senatorial districts",
+  "plain": "Annulled: It replaced Articles XXI and XXII, providing a census and special enumeration of legal voters every ten years from 1935 as the basis for apportioning two hundred and forty representatives and forty senators into districts. A note says it was superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend72": {
+  "title": "Biennial sessions and biennial budget",
+  "plain": "Annulled: It had the general court assemble in regular session biennially, made the budget cover two years, and annulled provisions requiring the general court to meet annually. A note says it was annulled by Amendments, Art. LXXV.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend73": {
+  "title": "Governor's power of pardoning",
+  "plain": "Replaces an earlier article: the governor, with the advice of council, has the power of pardoning offences except impeachment convictions; for a felony the general court may prescribe pardon terms and conditions; a pardon granted before conviction shall not avail the party pleading it.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The power of pardoning offences",
+   "shall be in the governor, by and with the advice of council",
+   "the general court shall have power to prescribe the terms and conditions upon which a pardon may be granted"
+  ],
+  "limits": [
+   "no charter of pardon, granted by the governor, with advice of the council before conviction, shall avail the party pleading the same"
+  ]
+ },
+ "amend74": {
+  "title": "Initiative petitions, ballot summaries and voter information",
+  "plain": "Amends Article XLVIII: initiative petitions are first signed by ten voters and certified by the attorney-general; petition blanks and ballots carry a fair, concise summary of each measure; and the secretary of the commonwealth sends voters the full text and information on every measure.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend75": {
+  "title": "Article LXXII on biennial sessions annulled",
+  "plain": "Annuls Article LXXII, which provided for biennial sessions of the general court and a biennial budget; provisions annulled or affected by it shall have the same force and effect as though it had not been adopted.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend76": {
+  "title": "Absentee voting",
+  "plain": "Annulled: It replaced Article XLV, giving the general court power to provide by law for voting by qualified voters who at election time are absent from their city or town or unable by physical disability to vote in person. A note says it was superseded by Amendments, Art. CV.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend77": {
+  "title": "Liberty of the press and free speech",
+  "plain": "Replaces Article XVI of Part the First: the liberty of the press is essential to the security of freedom in a state and ought not to be restrained in this commonwealth, and the right of free speech shall not be abridged.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "The liberty of the press",
+   "The right of free speech"
+  ],
+  "powers": [],
+  "limits": [
+   "it ought not, therefore, to be restrained in this commonwealth",
+   "shall not be abridged"
+  ]
+ },
+ "amend78": {
+  "title": "Highway revenue used only for highways",
+  "plain": "Annulled: It barred spending revenue from vehicle registration, operation or use, or from motor fuels, for anything other than listed highway purposes, to be spent as the general court directs, except an excise in lieu of local property taxes. A note says it was annulled by Amendments, Art. CIV.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend79": {
+  "title": "Filling vacancies in state offices from the people at large",
+  "plain": "Amends Article XVII so that, if an officer is not elected in November or the person elected dies, the senators and representatives choose by joint ballot from the people at large; vacancies arising outside a session are filled by the governor with the council's advice and consent.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend80": {
+  "title": "Revised terms of state officers",
+  "plain": "Annulled: It replaced Section 1 of Article LXIV, keeping biennial elections, starting the governor's, lieutenant-governor's and councillors' terms at noon on a Thursday in January, and providing for deaths of the governor elect and lieutenant-governor elect. A note says it was annulled and superseded.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend81": {
+  "title": "Initiative and referendum signature thresholds",
+  "plain": "Amends Article XLVIII: initiative and referendum petitions need signatures equal to set percentages of the vote cast for governor; it revises joint sessions on proposed amendments, legislative action on initiative laws, amendment by petitioners, and changes thirty days to sixty days before submission.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend82": {
+  "title": "Four-year terms for governor and state officers",
+  "plain": "Replaces Article LXIV: the governor, lieutenant-governor, secretary, treasurer and receiver-general, attorney general and auditor are elected quadrennially, and councillors, senators and representatives biennially; it sets their terms, and the general court assembles every year on the first Wednesday in January.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend83": {
+  "title": "Continuity of government in emergencies",
+  "plain": "The general court has full power to provide for prompt and temporary succession to public offices whose incumbents become unavailable in emergencies resulting from disaster caused by enemy attack, and to adopt measures necessary and proper for continuity of government of the commonwealth and its political subdivisions.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The general court shall have full power and authority to provide for prompt and temporary succession to the powers and duties of public offices",
+   "to adopt such other measures as may be necessary and proper for insuring continuity of the government of the commonwealth and the governments of its political subdivisions"
+  ],
+  "limits": []
+ },
+ "amend84": {
+  "title": "Giving or lending the commonwealth's credit",
+  "plain": "Replaces Section 1 of Article LXII: the commonwealth may give, loan or pledge its credit only by a two-thirds yea-and-nay vote of each house of the general court, and its credit shall not be given or loaned to any individual, private association or privately owned and managed corporation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The commonwealth may give, loan or pledge its credit"
+  ],
+  "limits": [
+   "only by a vote, taken by the yeas and nays, of two-thirds of each house of the general court present and voting thereon",
+   "The credit of the commonwealth shall not in any manner be given or loaned to or in aid of any individual"
+  ]
+ },
+ "amend85": {
+  "title": "Opinions of the justices",
+  "plain": "Replaces Article II of Chapter III: each branch of the legislature, and the governor or the council, may require the opinions of the justices of the supreme judicial court upon important questions of law and upon solemn occasions.",
+  "category": "The Courts",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "shall have authority to require the opinions of the justices of the supreme judicial court"
+  ],
+  "limits": []
+ },
+ "amend86": {
+  "title": "Governor and lieutenant-governor voted on as a group",
+  "plain": "Party candidates for governor and lieutenant-governor are grouped on the state election ballot by party; a voter may cast a single vote for a group, counting for each candidate in it, but may not vote for only one of them.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [
+   "the voter may cast a single vote for any such group"
+  ],
+  "powers": [],
+  "limits": [
+   "may not cast a vote for only one of the candidates in such group"
+  ]
+ },
+ "amend87": {
+  "title": "Governor's executive reorganization plans",
+  "plain": "The governor may present reorganization plans for executive agencies to the general court; a committee holds a hearing and reports, and a plan has the force of law after sixty days unless disapproved by a majority of either branch. Plans cannot be amended during those sixty days.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the governor may prepare one or more reorganization plans",
+   "such reorganization plan shall have the force of law upon expiration of the sixty calendar days next following its presentation by the governor to the general court"
+  ],
+  "limits": [
+   "no such reorganization plan shall be subject to amendment by the general court before expiration of such sixty days"
+  ]
+ },
+ "amend88": {
+  "title": "Industrial development of cities and towns",
+  "plain": "The industrial development of cities and towns is a public function, and the commonwealth and its cities and towns may provide for it in the manner the general court determines.",
+  "category": "Local Government",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the commonwealth and the cities and towns therein may provide for the same"
+  ],
+  "limits": []
+ },
+ "amend89": {
+  "title": "Home rule for cities and towns",
+  "plain": "Replaces Article II: grants the people of every city and town the right of self-government in local matters, sets how charters are adopted, revised and amended, lists powers not granted, and limits the general court to general laws or listed special laws. The bracketed words \"ten months\" were superseded.",
+  "category": "Local Government",
+  "kind": "Power",
+  "status": "partly superseded",
+  "rights": [
+   "the right of self-government in local matters"
+  ],
+  "powers": [
+   "Any city or town shall have the power to adopt or revise a charter or to amend its existing charter",
+   "exercise any power or function which the general court has power to confer upon it",
+   "The general court shall have the power to act in relation to cities and towns"
+  ],
+  "limits": [
+   "No town of fewer than twelve thousand inhabitants shall adopt a city form of government",
+   "Nothing in this article shall be deemed to grant to any city or town the power to",
+   "but only by general laws which apply alike to all cities or to all towns, or to all cities and towns, or to a class of not fewer than two"
+  ]
+ },
+ "amend90": {
+  "title": "Governor's ten days to act on bills",
+  "plain": "Amends four articles to give the governor ten days: an unreturned bill or resolve becomes law; a pocket veto applies if the general court adjourns within ten days; the governor may return a bill recommending amendment once; and item vetoes or reductions in appropriation bills must be explained within ten days.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "shall have the right to return it to the branch of the general court in which it originated with a recommendation that any amendment or amendments specified by him be made therein",
+   "The governor may disapprove or reduce items or parts of items in any bill appropriating money"
+  ],
+  "limits": [
+   "he shall have no right to return the same a second time with a recommendation to amend"
+  ]
+ },
+ "amend91": {
+  "title": "Governor's inability and vacancy",
+  "plain": "The office of governor is deemed vacant when the governor, or the chief justice and a majority of the associate justices (or another body the general court provides), declares in writing that the governor is unable to discharge the office; it sets how the governor resumes, how the general court decides disputes, and when a special election is held.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "Thereupon the general court shall decide the issue"
+  ],
+  "limits": []
+ },
+ "amend92": {
+  "title": "Census and 240 representative districts",
+  "plain": "Annulled: It provided a census every tenth year from 1971 as the basis for two hundred and forty representative districts and forty senatorial and councillor districts, and annulled Articles XXI and XXII as appearing in Article LXXI. A note says it was annulled by Amendments, Art. CI.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "annulled",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend93": {
+  "title": "Striking a one-year residence requirement",
+  "plain": "Further amends Article III of the Amendments by striking out the words \"within the commonwealth one year, and\".",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend94": {
+  "title": "Changing \"twenty-one\" to \"nineteen\" in Article III",
+  "plain": "Further amends Article III of the Amendments by striking out the word \"twenty-one\" and inserting in its place the word \"nineteen\".",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend95": {
+  "title": "Striking \"pauper and\" from Article III",
+  "plain": "Further amends Article III of the Amendments by striking out the words \"pauper and\".",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend96": {
+  "title": "State loans for higher education",
+  "plain": "The general court has power to authorize the commonwealth to make loans, on terms it deems reasonable, to residents of the commonwealth for tuition and board at any college, university or other institution of higher learning.",
+  "category": "Education & Religion",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The general court shall have power to authorize the commonwealth to make loans"
+  ],
+  "limits": []
+ },
+ "amend97": {
+  "title": "Right to clean air, water and environment",
+  "plain": "Replaces Article XLIX: the people have the right to clean air and water, freedom from excessive noise, and the natural, scenic, historic and esthetic qualities of their environment; the general court may protect these rights and take lands, which may be put to other uses only by a two-thirds vote.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "The people shall have the right to clean air and water, freedom from excessive and unnecessary noise, and the natural, scenic, historic, and esthetic qualities of their environment"
+  ],
+  "powers": [
+   "The general court shall have the power to enact legislation necessary or expedient to protect such rights",
+   "the general court shall have the power to provide for the taking, upon payment of just compensation therefor"
+  ],
+  "limits": [
+   "shall not be used for other purposes or otherwise disposed of except by laws enacted by a two thirds vote"
+  ]
+ },
+ "amend98": {
+  "title": "Tenure and retirement of judges",
+  "plain": "Replaces Article I of Chapter III: judicial officers hold office during good behavior; the governor, with the council's consent, may remove them on address of both houses or retire them for advanced age or disability after notice and hearing; judges shall be retired at seventy.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the governor, with the consent of the council, may remove them upon the address of both houses of the legislature",
+   "the governor, with the consent of the council, may after due notice and hearing retire them"
+  ],
+  "limits": []
+ },
+ "amend99": {
+  "title": "Taxing farm land by its agricultural use",
+  "plain": "The general court may prescribe that agricultural or horticultural lands be valued for taxation by their agricultural or horticultural uses, but no parcel under five acres, or not actively so used for the two preceding years, shall be valued at less than fair market value.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "Full power and authority are hereby given and granted to the general court to prescribe"
+  ],
+  "limits": [
+   "shall be valued at less than fair market value under this article"
+  ]
+ },
+ "amend100": {
+  "title": "Voting age changed to eighteen",
+  "plain": "Further amends Article III of the Amendments by striking out the word giving the age at which a citizen has a right to vote for Governor and other public officers and inserting the word \"eighteen\".",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend101": {
+  "title": "160 representative districts and 40 senate districts",
+  "plain": "The house has one hundred and sixty members and the senate forty, in districts of contiguous territory with equal numbers of inhabitants as nearly as may be; voters may petition the supreme judicial court about districts, and Article XCII is annulled. Bracketed census wording was superseded.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [
+   "Original jurisdiction is hereby vested in the supreme judicial court",
+   "The General Court may by law limit the time within which judicial proceedings may be instituted"
+  ],
+  "limits": [
+   "no town containing less than twenty-five hundred inhabitants according to said census shall be divided"
+  ]
+ },
+ "amend102": {
+  "title": "Legislative recesses",
+  "plain": "Replaces Article LII: the General Court, by concurrent vote of the two houses, may take a recess or recesses amounting to not more than thirty days.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "may take a recess or recesses"
+  ],
+  "limits": [
+   "amounting to not more than thirty days"
+  ]
+ },
+ "amend103": {
+  "title": "No public money for private or religious institutions",
+  "plain": "Replaces Section 2 of Article XLVI: no public money, property or credit may aid any institution, school or undertaking not publicly owned and controlled, or any church or religious society, with listed exceptions; grants-in-aid to private higher educational institutions or their students are allowed.",
+  "category": "Education & Religion",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No grant, appropriation or use of public money or property or loan of credit shall be made or authorized",
+   "no such grant, appropriation or use of public money or property or loan of public credit shall be made or authorized for the purpose of founding, maintaining or aiding any church, religious denomination or society"
+  ]
+ },
+ "amend104": {
+  "title": "Highway revenue only for highways and mass transportation",
+  "plain": "Replaces Article LXXVIII: revenue from vehicle fees, duties, excises or license taxes and from vehicle fuels shall be spent only for listed highway and mass transportation purposes, except revenue from an excise tax imposed in lieu of local property taxes.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be expended for other than cost of administration of laws providing for such revenue",
+   "shall be expended by the commonwealth or its counties, cities and towns for said highway and mass transportation purposes only"
+  ]
+ },
+ "amend105": {
+  "title": "Absentee voting",
+  "plain": "Replaces Article XLV: the general court may provide by law for voting by qualified voters who at the time of an election are absent from their city or town, unable by physical disability to vote in person at the polling places, or hold religious beliefs in conflict with voting that day.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "The general court shall have power to provide by law for voting"
+  ],
+  "limits": []
+ },
+ "amend106": {
+  "title": "Natural rights and equality under the law",
+  "plain": "Replaces Article I of Part the First: all people are born free and equal with natural, essential and unalienable rights, including life, liberty, property, safety and happiness; equality under the law shall not be denied or abridged because of sex, race, color, creed or national origin.",
+  "category": "Equality & Citizenship",
+  "kind": "Right",
+  "status": "in force",
+  "rights": [
+   "All people are born free and equal",
+   "the right of enjoying and defending their lives and liberties",
+   "that of acquiring, possessing and protecting property",
+   "that of seeking and obtaining their safety and happiness",
+   "Equality under the law"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not be denied or abridged because of sex, race, color, creed or national origin"
+  ]
+ },
+ "amend107": {
+  "title": "The governor's budget",
+  "plain": "Replaces Section 2 of Article LXIII: within three weeks after the general court convenes (eight weeks in a new governor's first year), the governor shall recommend a budget of all proposed expenditures and the means to pay them, and may require information from any board, commission, officer or department.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "the governor shall have the power to require any board, commission, officer or department to furnish him with any information"
+  ],
+  "limits": []
+ },
+ "amend108": {
+  "title": "Information for voters on ballot measures",
+  "plain": "Replaces subheading IV of Article XLVIII: the secretary of the commonwealth shall print and send to each eligible voter or residence the full text of every measure, committee reports, the general court's votes and a ballot summary, and other information and arguments as provided by law.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend109": {
+  "title": "Who counts as an inhabitant in the census",
+  "plain": "Amends the first paragraph of Section 1 of Article CI: for the census, every person is an inhabitant of the city or town of his usual place of residence under federal census standards, subject to exceptions the general court may provide, and the census shall specify inhabitants of each precinct and ward.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend110": {
+  "title": "Taxing forest, wildlife and recreational lands",
+  "plain": "Replaces Article XLI: the general court has full power to prescribe methods of taxation for wild or forest lands kept natural for wildlife and natural resources, and for recreational lands, that will develop and conserve those resources and benefits.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "status": "in force",
+  "rights": [],
+  "powers": [
+   "Full power and authority are hereby given and granted to the general court to prescribe"
+  ],
+  "limits": []
+ },
+ "amend111": {
+  "title": "No school assignment by race",
+  "plain": "No student shall be assigned to or denied admittance to a public school on the basis of race, color, national origin or creed.",
+  "category": "Education & Religion",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No student shall be assigned to or denied admittance to a public school on the basis of race, color, national origin or creed"
+  ]
+ },
+ "amend112": {
+  "title": "Classifying real property for taxes",
+  "plain": "Amends Article IV of Chapter I of Part the Second: the general court may classify real property by use in no more than four classes and tax the classes differently, but proportionately within a class, and reasonable exemptions may be granted.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend113": {
+  "title": "Changing \"ten months\" to \"eighteen months\"",
+  "plain": "Amends the first sentence of the sixth paragraph of Section 3 of Article II of the Amendments, as appearing in Article LXXXIX, by striking out the words \"ten months\" and inserting the words \"eighteen months\".",
+  "category": "Local Government",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend114": {
+  "title": "No discrimination against handicapped individuals",
+  "plain": "No otherwise qualified handicapped individual shall, solely by reason of his handicap, be excluded from, denied the benefits of, or be subject to discrimination under any program or activity within the commonwealth.",
+  "category": "Equality & Citizenship",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "be excluded from the participation in, denied the benefits of, or be subject to discrimination under any program or activity within the commonwealth"
+  ]
+ },
+ "amend115": {
+  "title": "State-mandated costs of municipal employment",
+  "plain": "A law imposing additional costs on two or more cities or towns by regulating municipal employment is not effective in a city or town until accepted there, unless enacted by a two-thirds vote of each house or the general court provides for the commonwealth to assume the cost.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be effective in any city or town until such law is accepted"
+  ]
+ },
+ "amend116": {
+  "title": "Punishment of death",
+  "plain": "Adds two sentences to Article XXVI of Part the First: no provision of the Constitution shall be construed as prohibiting the punishment of death, and the general court may authorize its imposition by courts having jurisdiction of crimes subject to it.",
+  "category": "Criminal Justice",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend117": {
+  "title": "Census as basis for districts",
+  "plain": "Amends Sections 1 and 2 of Article CI so that the federal census is the basis for representative, senatorial and councillor districts for the ten year period from the first Wednesday in a set January after the census. The bracketed word \"fifth\" was superseded; notes say both sections were amended by Article CXIX.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "partly superseded",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend118": {
+  "title": "Pay of members of the general court",
+  "plain": "The base compensation of members of the general court as of January 1, 1996 shall not be changed except as this article provides: from January 2001 and every second year, it rises or falls at the same rate as the commonwealth's median household income, as ascertained by the governor.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be changed except as provided in this article"
+  ]
+ },
+ "amend119": {
+  "title": "Census districts begin the third January",
+  "plain": "Amends Sections 1 and 2 of Article CI, as appearing in Article CXVII: the federal census is the basis for representative, senatorial and councillor districts for the ten year period beginning with the first Wednesday in the third January following the census.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend120": {
+  "title": "Excluding incarcerated felons from voting",
+  "plain": "Further amends Article III of the Amendments by inserting after the word \"upwards\" the words \"excepting persons who are incarcerated in a correctional facility due to a felony conviction, and\".",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "amend121": {
+  "title": "Additional income tax on income over $1,000,000",
+  "plain": "Adds a paragraph to Article XLIV: an additional 4 percent tax applies to annual taxable income over $1,000,000, adjusted yearly for cost of living, and its revenues shall be spent, subject to appropriation, only for public education, public colleges and universities, and roads, bridges and public transportation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "status": "in force",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be expended, subject to appropriation, only for these purposes"
+  ]
+ }
+}
