@@ -53,6 +53,19 @@ Specifics: sections are `120.05`, `130.65-A` (file names too); captions are the 
 
 Other Title-level work not done: more of the Penal Code (Title 9 sex crimes 261+, weapons Part 6) and other codes (Health and Safety 11350+, Vehicle).
 
+## U.S. Constitution (`constitution/`)
+
+Started 2026-10-06 at the user's request: expand to the federal and state constitutions, U.S. first, on the same site (`crimes.wiki/constitution/`), annotated for rights, powers and limits. Every list page has a "Crimes | U.S. Constitution" switch (`docnav`) above the jurisdiction switch.
+
+- **Source:** GovInfo, *The Constitution of the United States of America, As Amended* (House Document 110-50, GPO 2007; no amendment since). `python3 constitution/fetch_con.py` saves `constitution/raw/us.htm` (plain text in `<pre>`).
+- **Units (74 provisions):** the Preamble, each section of Articles I-IV, Articles V-VII, and each amendment or amendment section. Ids `preamble`, `art1-s8`, `art5`, `amend1`, `amend14-s1` (also the page file names). Parts (`chapter`): `pre`, `1`-`7`, `BR` (Amendments I-X), `AM` (XI-XXVII). Clause numbers of the GPO print become paragraph labels `[3]`; GPO notes ("This clause has been affected by amendment XVII") become footnotes, with the clause each is attached to (`noteClauses`). The signatures and the unratified amendments are left out. Amendments carry their proposal and ratification note as `source`.
+- **Workflow:** `python3 constitution/build_con.py --batches review/con/us` (batches of 20), one review agent per batch following `review/con/INSTRUCTIONS.md`, validated with `python3 review/con/validate.py <in> <out>`, `python3 constitution/merge_review.py review/con/us/out_*.json`, `python3 constitution/build_con.py`, `python3 build_pages.py --jur con`.
+- **Review data:** `constitution/plain.json` (title, plain, category = topic, kind = Right/Power/Limit/Duty/Structure, and highlight phrases `rights`/`powers`/`limits`); `constitution/elements.json` (`provisions`: where, kind, what, holder, binds, requires, forbids, conditions, exceptions, terms, changedBy).
+- **Page code:** `index.html` with `data-doc="con"` (the `CON` flag): its own glossary, topics, kinds (the card bar color), legend (right green `--hl-right`, power highlighted, limit red), `provisionsHTML` breakdown (holder/binds shown once when shared), amendment citations linked to their pages (`conLink`). `build_pages.py --jur con` writes `constitution/index.html` and `constitution/<id>.html`.
+- **Rule:** breakdowns describe only the text and GPO notes, never case law or interpretation (the validator rejects case names, "courts have held", "incorporated", "doctrine").
+- **Open items:** the GPO note on Art. I, Section 3, clause 2 reads "clause 2 of amendment XVIII" (it links to Amendment XVIII); the vacancy rule is in Amendment XVII, so the note is probably a misprint in the source, kept as published. Reviewers inserted a few bracketed words in breakdowns ("nor shall [any person] be compelled") and assigned holders like "The people" for the religion clauses; judgment calls: amend14-s2 (Structure), amend14-s3 (Limit, Equality & Citizenship), amend14-s4 (Taxes, Money & Commerce), amend18-s1/amend21-s2/amend27 (no named actor, binds null), amend23-s1 and amend25-s4 (kinds), art4-s2 [3] (duty), art6 (States & Federalism).
+- **Next:** state constitutions. New York: the Senate API has it (law id `CNS`, 20 articles, 201 sections; same key). Massachusetts: malegislature.gov/Laws/Constitution (Declaration of Rights, Frame of Government, ~120 Articles of Amendment). California: leginfo `CONS` (returned 403 on 2026-10-06, possibly temporary). Each needs a fetch/parse script, the jurisdiction switch on the constitution pages, and its own review batches.
+
 ## States investigated and blocked
 
 - **Texas:** statutes.capitol.texas.gov is a JavaScript app; no bulk download or API was found.

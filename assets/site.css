@@ -5,7 +5,7 @@
       --pen-bg: #fdecea; --pen-ink: #a3261c;
       --intent-bg: #efe9fb; --intent-ink: #5b3aa8;
       --act-bg: #fff0d6; --act-line: #d97a00;
-      --hl-act: #fdebc0; --hl-pen: #b3261e; --hl-intent: #6a3ab8; --hl-know: #0b6e66; --hl-cond: #3d5a8a; --hl-link: #1d5f8f;
+      --hl-act: #fdebc0; --hl-right: #1d7a3e; --hl-pen: #b3261e; --hl-intent: #6a3ab8; --hl-know: #0b6e66; --hl-cond: #3d5a8a; --hl-link: #1d5f8f;
       --term-line: #8a8577; --mark: #ffe58a; --chip: #f0eee7;
       --sev-5: #8e1b1b; --sev-4: #c0392b; --sev-3: #d9822b; --sev-2: #b9a12a; --sev-1: #3d7ab8; --sev-0: #8a8577;
       --shadow: 0 1px 2px rgb(0 0 0 / .04), 0 2px 8px rgb(0 0 0 / .04);
@@ -19,7 +19,7 @@
         --pen-bg: #3a1b18; --pen-ink: #ff9e93;
         --intent-bg: #261f3a; --intent-ink: #c4b0ff;
         --act-bg: #3a2a12; --act-line: #f2a33a;
-        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
+        --hl-act: #4d3812; --hl-right: #7fd49b; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
         --term-line: #8d897e; --mark: #6b5710; --chip: #2a2926;
         --sev-5: #ff7b7b; --sev-4: #ff8f70; --sev-3: #f2ad5b; --sev-2: #e0cc5c; --sev-1: #7db7e0; --sev-0: #9c998f;
         --shadow: none;
@@ -33,7 +33,7 @@
         --pen-bg: #3a1b18; --pen-ink: #ff9e93;
         --intent-bg: #261f3a; --intent-ink: #c4b0ff;
         --act-bg: #3a2a12; --act-line: #f2a33a;
-        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
+        --hl-act: #4d3812; --hl-right: #7fd49b; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
         --term-line: #8d897e; --mark: #6b5710; --chip: #2a2926;
         --sev-5: #ff7b7b; --sev-4: #ff8f70; --sev-3: #f2ad5b; --sev-2: #e0cc5c; --sev-1: #7db7e0; --sev-0: #9c998f;
         --shadow: none;
@@ -49,6 +49,8 @@
     .jurnav { display: flex; gap: 4px; margin: 0 0 14px; font-size: 13.5px; }
     .jurnav a { padding: 4px 12px; border-radius: 99px; border: 1px solid var(--border); color: var(--muted); text-decoration: none; }
     .jurnav a[aria-current] { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
+    .docnav { margin-bottom: 8px; font-size: 12.5px; }
+    .docnav a { padding: 3px 10px; }
     .lede { color: var(--muted); margin: 0; max-width: 62ch; font-size: 17px; }
     .keyrow { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; margin: 14px 0 22px; }
     .keyrow > .legend { font-size: 13px; gap: 14px; }
@@ -179,6 +181,10 @@
        so they stay distinct inside an act and the paragraph keeps a calm texture. Legal terms and links use quiet underlines. */
     .act { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
     .pen { color: var(--hl-pen); }
+    /* Constitution: a right in green, a grant of power highlighted like an act, a limit in red */
+    .right { color: var(--hl-right); }
+    .power { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+    .limit { color: var(--hl-pen); }
     .penp { font-weight: inherit; }  /* the amount after the penalty word stays regular text */
     .intent { color: var(--hl-know); }   /* the one mental-state color (knowledge, intent, recklessness, negligence): teal */
     .know { color: var(--hl-know); }

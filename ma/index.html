@@ -12,7 +12,7 @@
       --pen-bg: #fdecea; --pen-ink: #a3261c;
       --intent-bg: #efe9fb; --intent-ink: #5b3aa8;
       --act-bg: #fff0d6; --act-line: #d97a00;
-      --hl-act: #fdebc0; --hl-pen: #b3261e; --hl-intent: #6a3ab8; --hl-know: #0b6e66; --hl-cond: #3d5a8a; --hl-link: #1d5f8f;
+      --hl-act: #fdebc0; --hl-right: #1d7a3e; --hl-pen: #b3261e; --hl-intent: #6a3ab8; --hl-know: #0b6e66; --hl-cond: #3d5a8a; --hl-link: #1d5f8f;
       --term-line: #8a8577; --mark: #ffe58a; --chip: #f0eee7;
       --sev-5: #8e1b1b; --sev-4: #c0392b; --sev-3: #d9822b; --sev-2: #b9a12a; --sev-1: #3d7ab8; --sev-0: #8a8577;
       --shadow: 0 1px 2px rgb(0 0 0 / .04), 0 2px 8px rgb(0 0 0 / .04);
@@ -26,7 +26,7 @@
         --pen-bg: #3a1b18; --pen-ink: #ff9e93;
         --intent-bg: #261f3a; --intent-ink: #c4b0ff;
         --act-bg: #3a2a12; --act-line: #f2a33a;
-        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
+        --hl-act: #4d3812; --hl-right: #7fd49b; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
         --term-line: #8d897e; --mark: #6b5710; --chip: #2a2926;
         --sev-5: #ff7b7b; --sev-4: #ff8f70; --sev-3: #f2ad5b; --sev-2: #e0cc5c; --sev-1: #7db7e0; --sev-0: #9c998f;
         --shadow: none;
@@ -40,7 +40,7 @@
         --pen-bg: #3a1b18; --pen-ink: #ff9e93;
         --intent-bg: #261f3a; --intent-ink: #c4b0ff;
         --act-bg: #3a2a12; --act-line: #f2a33a;
-        --hl-act: #4d3812; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
+        --hl-act: #4d3812; --hl-right: #7fd49b; --hl-pen: #ff8f80; --hl-intent: #c3adff; --hl-know: #5cd0c2; --hl-cond: #a9bde6; --hl-link: #86c0ea;
         --term-line: #8d897e; --mark: #6b5710; --chip: #2a2926;
         --sev-5: #ff7b7b; --sev-4: #ff8f70; --sev-3: #f2ad5b; --sev-2: #e0cc5c; --sev-1: #7db7e0; --sev-0: #9c998f;
         --shadow: none;
@@ -56,6 +56,8 @@
     .jurnav { display: flex; gap: 4px; margin: 0 0 14px; font-size: 13.5px; }
     .jurnav a { padding: 4px 12px; border-radius: 99px; border: 1px solid var(--border); color: var(--muted); text-decoration: none; }
     .jurnav a[aria-current] { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
+    .docnav { margin-bottom: 8px; font-size: 12.5px; }
+    .docnav a { padding: 3px 10px; }
     .lede { color: var(--muted); margin: 0; max-width: 62ch; font-size: 17px; }
     .keyrow { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; margin: 14px 0 22px; }
     .keyrow > .legend { font-size: 13px; gap: 14px; }
@@ -186,6 +188,10 @@
        so they stay distinct inside an act and the paragraph keeps a calm texture. Legal terms and links use quiet underlines. */
     .act { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
     .pen { color: var(--hl-pen); }
+    /* Constitution: a right in green, a grant of power highlighted like an act, a limit in red */
+    .right { color: var(--hl-right); }
+    .power { background: var(--hl-act); padding: .05em .15em; margin: 0 -.05em; border-radius: .25em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+    .limit { color: var(--hl-pen); }
     .penp { font-weight: inherit; }  /* the amount after the penalty word stays regular text */
     .intent { color: var(--hl-know); }   /* the one mental-state color (knowledge, intent, recklessness, negligence): teal */
     .know { color: var(--hl-know); }
@@ -263,7 +269,7 @@
 <body>
 <main>
   <header>
-    <!-- jur:nav --><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav><!-- /jur:nav -->
+    <!-- jur:nav --><nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="../constitution/">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav><!-- /jur:nav -->
     <h1>Crimes Explained: Massachusetts</h1>
     <!-- jur:lede --><p class="lede">Every crime in chapters <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265" target="_blank" rel="noopener" title="Chapter 265: official text on malegislature.gov">265 (Crimes Against the Person)</a>, <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266" target="_blank" rel="noopener" title="Chapter 266: official text on malegislature.gov">266 (Crimes Against Property)</a> and <a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268" target="_blank" rel="noopener" title="Chapter 268: official text on malegislature.gov">268 (Crimes Against Public Justice)</a> of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p><!-- /jur:lede -->
     <div class="keyrow">
@@ -327,6 +333,8 @@
   const $ = id => document.getElementById(id);
   // Which law this page shows: the federal code (index.html), Massachusetts (ma/index.html, data-jur="ma"), California (ca/index.html, data-jur="ca") or New York (ny/index.html, data-jur="ny").
   const JUR = document.documentElement.dataset.jur || 'us', MA = JUR === 'ma', CA = JUR === 'ca', NY = JUR === 'ny';
+  // The Constitution (constitution/index.html, data-doc="con"): provisions with rights, powers and limits instead of crimes.
+  const CON = document.documentElement.dataset.doc === 'con';
   const list = $('list'), q = $('q'), chapterSel = $('chapter'), catSel = $('category'), sevSel = $('severity'),
         sortSel = $('sort'), fulltext = $('fulltext'), pop = $('pop');
   let crimes = [], bySection = new Map(), ART_IDS = {}, PEN_SECS = new Set();
@@ -442,12 +450,49 @@
     const keys = new Set(MA_TERMS.map(t => t[0])), NY_KEEP = new Set([...KNOWLEDGE_KEYS, ...INTENT_KEYS, 'with intent to', 'with the intent to', 'with reckless disregard']);
     GLOSSARY.splice(0, GLOSSARY.length, ...GLOSSARY.filter(([k]) => NY ? NY_KEEP.has(k) && !keys.has(k) : !FED_ONLY.has(k) && !keys.has(k)), ...MA_TERMS);   // New York keeps only the generic federal terms listed here
   }
+  // Constitution: general explanations of its own legal terms; the text controls.
+  if (CON) GLOSSARY.splice(0, GLOSSARY.length,
+    ['bill of attainder', 'Bill of attainder', 'A law that declares a specific person or group guilty of a crime and punishes them without a trial.'],
+    ['ex post facto law', 'Ex post facto law', 'A law that makes an act a crime after it was done, or increases the punishment for a crime after it was committed.'],
+    ['writ of habeas corpus', 'Writ of habeas corpus', 'A court order requiring the government to bring a person it holds before a judge and show a lawful reason for holding them.'],
+    ['impeachment', 'Impeachment', 'A formal charge of misconduct against an official such as the President or a judge, brought by the House of Representatives; the Senate then holds the trial.'],
+    ['letters of marque and reprisal', 'Letters of marque and reprisal', 'Government licenses that authorized private ship owners to capture enemy ships and cargo.'],
+    ['naturalization', 'Naturalization', 'The process by which a person who was not born a citizen becomes one.'],
+    ['quorum', 'Quorum', 'The minimum number of members who must be present for a body to do business.'],
+    ['emolument', 'Emolument', 'A payment, salary, fee or other benefit received from an office or position.'],
+    ['emoluments', 'Emoluments', 'Payments, salaries, fees or other benefits received from an office or position.'],
+    ['duties, imposts and excises', 'Duties, imposts and excises', 'Kinds of taxes: duties and imposts are taxes on imported goods; excises are taxes on making, selling or using goods within the country.'],
+    ['capitation', 'Capitation', 'A tax charged per person (a head tax).'],
+    ['probable cause', 'Probable cause', 'Reasonable grounds, based on facts, to believe that a crime was committed or that evidence will be found.'],
+    ['grand jury', 'Grand jury', 'A group of citizens who decide whether there is enough evidence to formally charge someone with a serious crime.'],
+    ['indictment', 'Indictment', 'A formal written charge of a serious crime, issued by a grand jury.'],
+    ['twice put in jeopardy', 'Twice put in jeopardy', 'Tried or punished twice for the same offense.'],
+    ['due process of law', 'Due process of law', 'Fair legal procedures that the government must follow before it takes away life, liberty or property.'],
+    ['just compensation', 'Just compensation', 'Fair payment, usually the market value, for private property the government takes for public use.'],
+    ['bail', 'Bail', 'Money or other security given so that an accused person can be released before trial and will return to court.'],
+    ['equal protection of the laws', 'Equal protection of the laws', 'The requirement that a State apply its laws to people in similar situations alike.'],
+    ['privileges and immunities', 'Privileges and immunities', 'The basic rights of citizenship that the Constitution protects from denial by the States.'],
+    ['involuntary servitude', 'Involuntary servitude', 'Forced labor for another person.'],
+    ['electors', 'Electors', 'People entitled to vote in an election. In Article II and the Twelfth Amendment, the people each State appoints to cast its votes for President and Vice President.'],
+    ['poll tax', 'Poll tax', 'A tax that must be paid in order to vote.'],
+    ['enumeration', 'Enumeration', 'A count of the population (the census).'],
+    ['full faith and credit', 'Full faith and credit', 'The duty of each State to recognize the public acts, records and court proceedings of every other State.'],
+    ['republican form of government', 'Republican form of government', 'A government in which the people rule through elected representatives.'],
+    ['pro tempore', 'Pro tempore', 'For the time being; the Senate\'s President pro tempore presides when the Vice President is absent.'],
+    ['affirmation', 'Affirmation', 'A solemn declaration made instead of an oath, for those who object to swearing.'],
+    ['high crimes and misdemeanors', 'High crimes and misdemeanors', 'Grounds for removing an official by impeachment, together with treason and bribery; the Constitution does not list them.'],
+    ['ratification', 'Ratification', 'Formal approval, such as a State\'s approval of the Constitution or of an amendment.'],
+    ['appellate jurisdiction', 'Appellate jurisdiction', 'The power of a court to review decisions of lower courts.'],
+    ['original jurisdiction', 'Original jurisdiction', 'The power of a court to hear a case first, before any other court.'],
+  );
   const GLOSS = new Map(GLOSSARY.map(([k, label, def]) => [k.toLowerCase(), { label, def }]));
 
   const CATEGORIES = ['Violence & Threats', 'Sex Crimes & Exploitation', 'Human Trafficking & Slavery', 'Weapons & Terrorism',
     'Espionage & National Security', 'Fraud & Money', 'Property Crimes', 'Cyber, Privacy & Communications', 'Government & Corruption',
     'Elections & Voting', 'Civil Rights', 'Courts & Justice', 'Immigration & Citizenship', 'Mail & Postal',
     'Organized Crime & Racketeering', 'Gambling & Obscenity', 'Family & Children', 'Transportation & Aviation', 'Animals & Wildlife'];
+  if (CON) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections',
+    'Equality & Citizenship', 'Congress', 'The Presidency', 'The Courts', 'States & Federalism', 'Taxes, Money & Commerce', 'War & Military', 'Amending & Ratifying');
 
   // Severity tiers by maximum prison term (maxYears: 1000 = death possible, 999 = life, null = set elsewhere).
   const TIERS = [
@@ -488,16 +533,23 @@
     { id: 'V', label: 'Violation', test: (y, c) => nyCls(c) === 'Violation', color: 'var(--sev-0)' },
     { id: 'term', label: 'Term stated in the section', test: (y, c) => y != null, color: 'var(--sev-3)' },
     { id: 'other', label: 'See penalty details', test: () => true, color: 'var(--sev-0)' });
+  // Constitution: the card's color follows the provision's main kind instead of a penalty.
+  if (CON) TIERS.splice(0, TIERS.length,
+    { id: 'right', label: 'Right', test: (y, c) => c.kind === 'Right', color: 'var(--hl-right)' },
+    { id: 'power', label: 'Power', test: (y, c) => c.kind === 'Power', color: 'var(--sev-3)' },
+    { id: 'limit', label: 'Limit', test: (y, c) => c.kind === 'Limit', color: 'var(--sev-4)' },
+    { id: 'duty', label: 'Duty', test: (y, c) => c.kind === 'Duty', color: 'var(--sev-1)' },
+    { id: 'structure', label: 'Structure', test: () => true, color: 'var(--sev-0)' });
   const tierOf = (y, c) => TIERS.find(t => t.test(y, c));
   const yrs = y => y % 1 === .5 ? `${Math.floor(y) || ''}½` : y % 1 === .75 ? `${Math.floor(y) || ''}¾` : `${+y.toFixed(1)}`;
   // Section label: "§ 1001" (federal) or "c. 265, § 13A" (Massachusetts); page address relative to the list page.
   const secLabel = c => c.cite || `§ ${c.section}`;
-  const PAGE_DIR = JUR === 'us' ? '18/' : '';
+  const PAGE_DIR = JUR === 'us' && !CON ? '18/' : '';
   const sevLabel = y => y == null ? 'See penalty details' : y >= 1000 ? 'Death penalty possible' : y === 999 ? 'Up to life'
     : y === 0 ? 'Fine only' : y < 0.2 ? `Up to ${Math.round(y * 365)} days` : y < 1 ? `Up to ${Math.round(y * 12)} months`
     : y > 1 && y < 1.01 ? 'Up to 1 year + 1 day' : `Up to ${yrs(y)} year${y === 1 ? '' : 's'}`;
   // maxPlus: some variants are punished under other sections, so the true maximum may be higher.
-  const sevText = c => NY && c.maxYears == null && c.penClass ? c.penClass : sevLabel(c.maxYears) + (c.maxPlus ? '+' : '');
+  const sevText = c => CON ? c.kind || 'Structure' : NY && c.maxYears == null && c.penClass ? c.penClass : sevLabel(c.maxYears) + (c.maxPlus ? '+' : '');
 
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const LATEST_STAT_VOL = 137; // newest Statutes at Large volume GovInfo has published (vol. 138 returns 400 as of Oct 2026)
@@ -662,7 +714,8 @@
   }
   const RX = new RegExp([
     String.raw`(?<uscT>\d+)\s+U\.S\.C\.\s+(?<uscS>\d+[a-zA-Z]*(?:[–-]\d+)?)(?<uscP>(?:\([A-Za-z0-9]+\))*)`,
-    ...(MA ? MA_CITES : CA ? CA_CITES : NY ? NY_CITES : [
+    ...(CON ? [String.raw`(?<conAm>(?:(?<conPartW>clause|section)\s+(?<conPart>\d+)\s+of\s+)?(?:the\s+)?amendment\s+(?<conAmN>[IVX]+)\b)`]
+      : MA ? MA_CITES : CA ? CA_CITES : NY ? NY_CITES : [
       String.raw`(?<![A-Za-z])(?<stW>[Ss]ection)\s+(?<stS>\d+[A-Za-z]*)(?<stP>(?:\([A-Za-z0-9]+\))*)\s+of\s+title\s+(?<stT>\d+)`,
       String.raw`\b(?<thisCh>[Tt]his chapter)\b`,
       String.raw`(?<![A-Za-z])(?<chW>[Cc]hapters?)\s+(?<chList>\d+[A-Z]?(?:(?:,\s*(?:or\s+|and\s+)?|\s+(?:or|and)\s+)\d+[A-Z]?)*)(?![\w(])`,
@@ -674,7 +727,7 @@
     // Penalties: prison terms ("imprisoned not more than 5 years", "… not more than one-half the maximum term of imprisonment"),
     // life/death, and fines with a stated amount or formula ("fined not more than one-half the maximum fine prescribed …").
     // Open-ended amounts stop before ", ; or (" or a following " or/and imprisoned|fined" so one penalty never swallows the next.
-    CA ? CA_PEN : NY ? NY_PEN : String.raw`(?<pen>(?:imprisonment|imprisoned) (?:in|at) (?:the |a )?(?:state prison|house of correction|jail|county jail)(?: or (?:the |a )?(?:house of correction|jail))?(?: for (?:life|(?:a term of )?(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b|(?:any )?term of years(?: or for life)?))?|(?<=\b(?:or|and|nor)\s)(?:in|at) (?:the |a )?(?:state prison|house of correction|jail)(?: or (?:the |a )?house of correction)? for (?:life|(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b)|(?:imprisoned|imprisonment|(?:an? )?(?:additional )?term of(?: imprisonment of)?)(?: for)? (?:not|no) (?:more|less) than (?:[^,;.()]*?\b(?:years?|months?|days?)\b|[^,;()]{1,90}?(?=\s+(?:or|and)\s+(?:\(|fined|imprisoned|both)|,|;|$))|(?:imprisoned|imprisonment)\s+(?:for\s+)?(?:any|a)\s+(?:term|number|period)\s+of\s+years(?:\s+(?:not|no)\s+(?:less|more)\s+than\s+\w+(?:\s+years?)?)?(?:,?\s+or\s+(?:for\s+)?life)?|(?:imprisoned|imprisonment) for (?:any term of years or for )?life|(?:imprisoned|imprisonment)(?: for)? a (?:term|period)(?: of)? (?:(?:not|no) (?:more|less) than|up to) \w+ (?:years?|months?|days?)|imprisonment of (?:(?:not|no) (?:more|less) than )?\w+ (?:years?|months?|days?)|imprisoned for not more that \w+ years?|shall (?:be not more than|not exceed) \w+ (?:years?|months?|days?)|punished by death|sentenced to death|(?:fined|a fine)(?: of)? (?:not|no) (?:more|less) than (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|[^,;()]{1,110}?(?=\s+(?:or|and)\s+|,|;|$))|fined in accordance with this title|(?:(?:shall be |is )?(?:subject|liable)[a-z ]{0,25}? (?:to|for) (?:an? )?|(?:may )?(?:impose|assess)[a-z ]{0,25}? (?:an? )?)(?:additional |mandatory (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)? )?)?civil (?:penalty|fine)(?:[^;,—(]{0,90}?(?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|the greater of|retail value of the [a-z ]+?(?= involved| at issue|[,;.])))?|fined (?:the greater of|in the amount|in an amount|a further sum|an amount not (?:greater|more) than|twice the amount|as provided (?:in|by)|for each offense)(?:(?!\s(?:sub)?section\s)[^;])*?(?=\s(?:sub)?section\s|,\s+(?:or both|imprisoned)|;|\.(?:\s|$)|\s+or\s+imprisoned|$)|(?:is|are|shall be) punishable as (?:a )?principals?|shall be punished as (?:provided|prescribed|follows)(?: (?:in|under|by))?|shall be subject to (?:the )?(?:same )?(?:penalties|punishment)(?: (?:set forth|provided|prescribed))?(?: (?:in|for|as|under))?|shall be punished(?=—|:)|(?:shall be |is )?guilty of a like offense and (?:shall be )?subject to (?:a|the) like punishment|subject to (?:a|the) like punishment|shall be punished in (?:the same|like) manner|(?<=,\s)(?:not|no) more than (?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty) (?:years?|months?|days?)\b(?!\s+(?:after|before|from|of age|old|prior))(?=,|;|\.|\s+or\b|\s+and\b|$))`,
+    CON ? String.raw`(?<pen>(?!))` : CA ? CA_PEN : NY ? NY_PEN : String.raw`(?<pen>(?:imprisonment|imprisoned) (?:in|at) (?:the |a )?(?:state prison|house of correction|jail|county jail)(?: or (?:the |a )?(?:house of correction|jail))?(?: for (?:life|(?:a term of )?(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b|(?:any )?term of years(?: or for life)?))?|(?<=\b(?:or|and|nor)\s)(?:in|at) (?:the |a )?(?:state prison|house of correction|jail)(?: or (?:the |a )?house of correction)? for (?:life|(?:not|no) (?:more|less) than [^,;()]*?\b(?:years?|months?|days?)\b)|(?:imprisoned|imprisonment|(?:an? )?(?:additional )?term of(?: imprisonment of)?)(?: for)? (?:not|no) (?:more|less) than (?:[^,;.()]*?\b(?:years?|months?|days?)\b|[^,;()]{1,90}?(?=\s+(?:or|and)\s+(?:\(|fined|imprisoned|both)|,|;|$))|(?:imprisoned|imprisonment)\s+(?:for\s+)?(?:any|a)\s+(?:term|number|period)\s+of\s+years(?:\s+(?:not|no)\s+(?:less|more)\s+than\s+\w+(?:\s+years?)?)?(?:,?\s+or\s+(?:for\s+)?life)?|(?:imprisoned|imprisonment) for (?:any term of years or for )?life|(?:imprisoned|imprisonment)(?: for)? a (?:term|period)(?: of)? (?:(?:not|no) (?:more|less) than|up to) \w+ (?:years?|months?|days?)|imprisonment of (?:(?:not|no) (?:more|less) than )?\w+ (?:years?|months?|days?)|imprisoned for not more that \w+ years?|shall (?:be not more than|not exceed) \w+ (?:years?|months?|days?)|punished by death|sentenced to death|(?:fined|a fine)(?: of)? (?:not|no) (?:more|less) than (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|[^,;()]{1,110}?(?=\s+(?:or|and)\s+|,|;|$))|fined in accordance with this title|(?:(?:shall be |is )?(?:subject|liable)[a-z ]{0,25}? (?:to|for) (?:an? )?|(?:may )?(?:impose|assess)[a-z ]{0,25}? (?:an? )?)(?:additional |mandatory (?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)? )?)?civil (?:penalty|fine)(?:[^;,—(]{0,90}?(?:\$\d{1,3}(?:,\d{3})*(?:\.\d+)?|the greater of|retail value of the [a-z ]+?(?= involved| at issue|[,;.])))?|fined (?:the greater of|in the amount|in an amount|a further sum|an amount not (?:greater|more) than|twice the amount|as provided (?:in|by)|for each offense)(?:(?!\s(?:sub)?section\s)[^;])*?(?=\s(?:sub)?section\s|,\s+(?:or both|imprisoned)|;|\.(?:\s|$)|\s+or\s+imprisoned|$)|(?:is|are|shall be) punishable as (?:a )?principals?|shall be punished as (?:provided|prescribed|follows)(?: (?:in|under|by))?|shall be subject to (?:the )?(?:same )?(?:penalties|punishment)(?: (?:set forth|provided|prescribed))?(?: (?:in|for|as|under))?|shall be punished(?=—|:)|(?:shall be |is )?guilty of a like offense and (?:shall be )?subject to (?:a|the) like punishment|subject to (?:a|the) like punishment|shall be punished in (?:the same|like) manner|(?<=,\s)(?:not|no) more than (?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty) (?:years?|months?|days?)\b(?!\s+(?:after|before|from|of age|old|prior))(?=,|;|\.|\s+or\b|\s+and\b|$))`,
     String.raw`(?<term>\b(?:${termAlt})\b)`,
   ].join('|'), 'gi');
 
@@ -714,6 +767,7 @@
       last = m.index + m[0].length;
       const g = m.groups, raw = esc(m[0]);
       if (g.uscT) out += xref(g.uscT, g.uscS, raw);
+      else if (g.conAm) out += conLink(g.conAmN, g.conPartW, g.conPart, raw);
       else if (g.caChS) {   // "Chapter 1 (commencing with Section 187) of …": the chapter's first section, in whichever code owns it
         const ahead2 = ahead(last, 300), own = caOwner(ahead2.slice(ahead2.match(CA_CHAIN)[0].length));
         out += !own ? raw : own.fed ? raw : caLink(own.code, g.caChS, raw);
@@ -776,6 +830,13 @@
     }
     return out + esc(text.slice(last));
   }
+  // Constitution: "amendment XVII", "section 2 of amendment XIV" link to that provision's page on this site.
+  const ROMAN_VAL = r => [...r.toUpperCase()].reduce((n, ch, i, a) => { const v = { I: 1, V: 5, X: 10 }[ch], nx = { I: 1, V: 5, X: 10 }[a[i + 1]] || 0; return n + (v < nx ? -v : v); }, 0);
+  function conLink(roman, partW, part, raw) {
+    const n = ROMAN_VAL(roman), base = `amend${n}`;
+    const id = partW && /section/i.test(partW) && bySection.has(`${base}-s${part}`) ? `${base}-s${part}` : bySection.has(base) ? base : `${base}-s1`;
+    return bySection.has(id) || !bySection.size ? `<a class="xref" href="${PAGE_DIR}${id}.html" title="Amendment ${roman}">${raw}</a>` : raw;
+  }
   // "110 Stat. 3488": open the Public Law's HTML at that page when we have it (text fragment scrolls to "[[Page 110 STAT. 3488]]"),
   // otherwise the whole-law PDF directly at the page, labeled with its size when large.
   function statLink(vol, pg, raw) {
@@ -808,7 +869,9 @@
     return `<a class="xref ext" href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-part${part[2]}-chap${num}.htm" target="_blank" rel="noopener" title="18 U.S.C. chapter ${num} on GovInfo">${label}</a>`;
   }
   // How a chapter is named on cards and in the filter: "Art. 120" (New York), "Title 13, Ch. 5" (California), "Ch. 47".
+  const CON_PARTS = { pre: 'Preamble', 1: 'Art. I', 2: 'Art. II', 3: 'Art. III', 4: 'Art. IV', 5: 'Art. V', 6: 'Art. VI', 7: 'Art. VII', BR: 'Amend. I–X', AM: 'Amend. XI–XXVII' };
   function chapterName(num) {
+    if (CON) return CON_PARTS[num] || num;
     if (NY) return `Art. ${num}`;
     if (CA && String(num).includes(':')) { const [t, ch] = String(num).split(':'); return `Title ${t}, Ch. ${ch}`; }
     return `Ch. ${num}`;
@@ -857,7 +920,7 @@
   // Wrap text (a suffix of p.t starting at `from`) in act / condition spans; ranges are absolute offsets into p.t.
   function enrichActs(p, from, text) {
     const end = from + text.length;
-    const ranges = [...(p.a || []).map(([s, e]) => [s, e, 'act']), ...condRanges(p.t)].filter(([s, e]) => e > from && s < end);
+    const ranges = [...(p.a || []).map(([s, e]) => [s, e, 'act']), ...(p.m || []), ...condRanges(p.t)].filter(([s, e]) => e > from && s < end);
     if (!ranges.length) return enrich(text);
     const cuts = [...new Set([from, end, ...ranges.flatMap(([s, e]) => [Math.max(s, from), Math.min(e, end)])])].sort((a, b) => a - b);
     let out = '';
@@ -871,6 +934,10 @@
     return out;
   }
   function para(p) {
+    if (CON) {   // "[3] …": clause 3 of the section
+      const mm = p.t.match(/^\[(\d+)\]\s*/);
+      return mm ? `<span class="lbl" title="Clause ${mm[1]}">${mm[1]}</span> ` + enrichActs(p, mm[0].length, p.t.slice(mm[0].length)) : enrichActs(p, 0, p.t);
+    }
     if (NY) {   // "1. …", "3-a. …", "(a) …", "(ii-a) …": a subdivision number, then paragraph labels
       const mm = p.t.match(/^(\d+(?:-[A-Za-z])?\.\s+)?((?:\([A-Za-z0-9-]+\)\s*)*)/);
       if (!mm || !mm[0]) return enrichActs(p, 0, p.t);
@@ -893,10 +960,18 @@
     FREQ = data.frequency;
     if (!FREQ) sortSel.querySelector('option[value="common"]')?.remove();
     const nCrimes = data.crimes.reduce((n, c) => n + (c.elements?.crimes?.length || 0), 0);
-    if (nCrimes) $('crimecount').textContent = `: ${nCrimes.toLocaleString()} crimes in ${data.crimes.length.toLocaleString()} sections`;
+    if (CON) $('crimecount').textContent = `: ${data.crimes.length} provisions`;
+    else if (nCrimes) $('crimecount').textContent = `: ${nCrimes.toLocaleString()} crimes in ${data.crimes.length.toLocaleString()} sections`;
     STAT = data.statLinks || {};
     ART_IDS = data.articleIds || {}; PEN_SECS = new Set(data.penSections || []);
     if (NY) { chapterSel.options[0].text = 'All articles'; chapterSel.setAttribute('aria-label', 'Filter by article'); }
+    if (CON) {
+      chapterSel.options[0].text = 'All parts'; chapterSel.setAttribute('aria-label', 'Filter by article or amendment');
+      catSel.options[0].text = 'All topics'; catSel.setAttribute('aria-label', 'Filter by topic');
+      sevSel.options[0].text = 'Any kind'; sevSel.setAttribute('aria-label', 'Filter by kind of provision');
+      document.querySelector('.keyrow .legend').innerHTML = CON_LEGEND;
+      $('glossary').querySelector('h2').textContent = 'Terms in the Constitution';
+    }
     ACT_SECTIONS = data.actSections || {};
     $('srclink').href = data.source;
     crimes = data.crimes.map((c, i) => ({
@@ -907,7 +982,7 @@
     crimes.forEach(c => bySection.set(c.section, c));
     const chapters = new Map(); crimes.forEach(c => chapters.set(c.chapter, c.chapterTitle));
     const perChapter = {}; crimes.forEach(c => perChapter[c.chapter] = (perChapter[c.chapter] || 0) + 1);
-    for (const [num, title] of chapters) chapterSel.add(new Option(`${chapterName(num)} — ${title} (${perChapter[num]})`, num));
+    for (const [num, title] of chapters) chapterSel.add(new Option(`${chapterName(num) === title ? title : `${chapterName(num)} — ${title}`} (${perChapter[num]})`, num));
     for (const cat of [...CATEGORIES].sort((x, y) => x.localeCompare(y))) {
       const n = crimes.filter(c => c.category === cat).length;
       if (n) catSel.add(new Option(`${cat} (${n})`, cat));
@@ -948,13 +1023,13 @@
   function statGroups(text) {
     const groups = [];
     for (const p of text) {
-      const startsTop = p.i === 0 && (NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
+      const startsTop = p.i === 0 && (CON ? /^\[\d+\]/ : NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
       if (!groups.length || startsTop) groups.push([]);
       groups[groups.length - 1].push(p);
     }
     const path = [];   // label at each depth, e.g. ["(b)", "(2)", "(A)"]
     const pathOf = p => {
-      const m = NY ? p.t.match(/^(\d+(?:-[A-Za-z])?\.|(?:\([A-Za-z0-9-]+\))+)/) : p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
+      const m = CON ? p.t.match(/^(\[\d+\])/) : NY ? p.t.match(/^(\d+(?:-[A-Za-z])?\.|(?:\([A-Za-z0-9-]+\))+)/) : p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
       if (!m) return '';                                   // unlabeled closing line: belongs to the enclosing level
       path.length = p.i; path[p.i] = m[1];
       return path.join('');
@@ -997,6 +1072,7 @@
   const els = rows => rows ? `<div class="off-els">${rows}</div>` : '';   // a crime's elements, indented under its act
   const whereAttr = o => {
     const w = (o.where || '').replace(/\s+/g, '');
+    if (CON) return /^\[\d+\]$/.test(w) ? ` data-where="${esc(w)}"` : '';
     if (NY) { const n = w.match(/^(\d+(?:-[A-Za-z])?)((?:\([A-Za-z0-9-]+\))*)$/), q = w.match(/^(?:\([A-Za-z0-9-]+\))+$/); return n ? ` data-where="${esc(n[1] + '.' + n[2])}"` : q ? ` data-where="${esc(w)}"` : ''; }
     const m = w.match(/^(?:\([A-Za-z0-9]+\))+/); return m ? ` data-where="${esc(m[0])}"` : '';
   };
@@ -1015,6 +1091,32 @@
       ${sharedRows ? `<div class="shared"><div class="shared-k">Applies to all ${n} crimes above</div>${sharedRows}</div>` : ''}</div>`;
   }
 
+  const CON_LEGEND = '<span class="right">right</span><span class="power">power</span><span class="limit">limit</span><span class="cond"><span class="condw">if</span> condition</span><span class="term" style="cursor:default">legal term</span>';
+  // Constitution breakdown: each right, power, limit or duty in the provision, with who holds it, who is bound, and what it requires or forbids.
+  const KIND_CLASS = { right: 'right', power: 'power', limit: 'limit' };
+  const CON_ROWS = [['holder', 'Who holds it', ''], ['binds', 'Who is bound', ''], ['requires', 'Requires', ''], ['forbids', 'Forbids', 'limit'],
+    ['conditions', 'Conditions', ''], ['exceptions', 'Exceptions', ''], ['terms', 'Defined here', ''], ['changedBy', 'Changed by', '']];
+  function provisionsHTML(c) {
+    const list = c.elements?.provisions || [];
+    if (!list.length) return '';
+    // who holds it / who is bound: shown once, under all the provisions, when every provision has the same answer
+    const same = list.length > 1 ? ['holder', 'binds'].filter(k => list[0][k] && list.every(o => JSON.stringify(o[k]) === JSON.stringify(list[0][k]))) : [];
+    const rowsOf = (o, skip) => CON_ROWS.map(([k, label, cls]) => {
+        if (skip.includes(k)) return '';
+        const v = o[k];
+        if (!v || (Array.isArray(v) && !v.length)) return '';
+        const vals = Array.isArray(v) ? v : [v];
+        return `<div class="off-q"><span class="off-k">${label}</span><ul>${vals.map(t => `<li${cls ? ` class="${cls}"` : ''}>${linkify(t)}</li>`).join('')}</ul></div>`;
+      }).join('');
+    const items = list.map(o => {
+      const rows = rowsOf(o, same);
+      const kind = `<span class="flag">${esc(o.kind || '')}</span>`;
+      return `<li${whereAttr(o)}><p class="off-act">${o.where ? `<span class="lbl">${esc(o.where.replace(/[\[\]]/g, ''))}</span> ` : ''}<span class="${KIND_CLASS[o.kind] || ''}">${linkify(o.what)}</span> ${kind}</p>${els(rows)}</li>`;
+    }).join('');
+    const shared = same.length ? `<div class="shared"><div class="shared-k">Applies to all ${list.length} provisions above</div>${rowsOf(Object.fromEntries(same.map(k => [k, list[0][k]])), [])}</div>` : '';
+    return `<div class="offenses"><h3>${list.length} provision${list.length > 1 ? 's' : ''} here</h3><ol>${items}</ol>${shared}</div>`;
+  }
+
   // Card bodies (enriched official text + plain summary) are built on first open: ~800 sections is too much to render up front.
   function bodyHTML(c) {
     currentChapter = c.chapter;
@@ -1027,12 +1129,12 @@
             }).join('')}
             <div class="split">
             <div class="official">
-              <h3>Official text <span class="legend"><span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span></span></h3>
+              <h3>Official text <span class="legend">${CON ? CON_LEGEND : `<span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span>`}</span></h3>
               <div class="stat">${statGroups(c.text)}</div>
-              ${c.source ? `<p class="src"><b>History:</b> ${enrich(c.source)}</p>` : ''}
-              ${c.footnotes.map(f => `<p class="fn">${enrich(f)}</p>`).join('')}
+              ${c.source ? `<p class="src"><b>${CON ? 'Proposal and ratification' : 'History'}:</b> ${enrich(c.source)}</p>` : ''}
+              ${c.footnotes.map(f => `<p class="fn">${CON ? '<b>Note (Government Publishing Office):</b> ' : ''}${enrich(f)}</p>`).join('')}
             </div>
-            ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(elementsHTML(c))}
+            ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(CON ? provisionsHTML(c) : elementsHTML(c))}
             </div>
             ${c.plain ? `<div class="plain"><h3>Simplified explanation</h3><p>${esc(c.plain)}</p></div>` : ''}
             <div class="actions">
@@ -1074,7 +1176,8 @@
       ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
       ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
       ${FREQ ? `<span class="chip freq${c.sentenced ? '' : ' none'}" title="People sentenced in federal court in fiscal year ${FREQ.fiscalYear} with at least one conviction under this section (U.S. Sentencing Commission). Federal cases only.">${c.sentenced ? `${c.sentenced.toLocaleString()} sentenced` : 'None sentenced'} (FY${FREQ.fiscalYear})</span>` : ''}
-      ${chapterLink(c.chapter, `${esc(chapterName(c.chapter))} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
+      ${CON ? `<span class="chip">${esc(chapterName(c.chapter) === c.chapterTitle ? c.chapterTitle : `${chapterName(c.chapter)} · ${c.chapterTitle}`)}</span>`
+        : chapterLink(c.chapter, `${esc(chapterName(c.chapter))} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
   }
 
   function render() {
@@ -1085,9 +1188,10 @@
     const first = pageSize ? (page - 1) * pageSize : 0;
     const shown = pageSize ? rows.slice(first, first + pageSize) : rows;
 
-    const of = rows.length === crimes.length ? `${crimes.length} sections` : `${rows.length} matching sections (of ${crimes.length})`;
-    $('count').textContent = rows.length ? `Showing ${first + 1}–${first + shown.length} of ${of}` : `0 of ${crimes.length} sections`;
-    list.innerHTML = rows.length ? '' : '<li class="empty">No matching sections. Try a different word or press Reset.</li>';
+    const unit = CON ? 'provisions' : 'sections';
+    const of = rows.length === crimes.length ? `${crimes.length} ${unit}` : `${rows.length} matching ${unit} (of ${crimes.length})`;
+    $('count').textContent = rows.length ? `Showing ${first + 1}–${first + shown.length} of ${of}` : `0 of ${crimes.length} ${unit}`;
+    list.innerHTML = rows.length ? '' : `<li class="empty">No matching ${unit}. Try a different word or press Reset.</li>`;
     renderPager(pages);
     const textHit = c => t.length > 2 && fulltext.checked && c.body.includes(t) && !c.title.toLowerCase().includes(t);
     const frag = document.createDocumentFragment();

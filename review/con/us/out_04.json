@@ -1,0 +1,530 @@
+{
+ "amend21-s3": {
+  "review": {
+   "title": "Time limit for ratifying the Twenty-first Amendment",
+   "plain": "This article is inoperative unless ratified by conventions in the several States within seven years from the date of its submission to the States by Congress.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend22-s1": {
+  "review": {
+   "title": "Two-term limit for the President",
+   "plain": "No person shall be elected President more than twice, and no one who has held or acted as President for more than two years of another person's term shall be elected more than once. This did not apply to the President in office when it was proposed.",
+   "category": "The Presidency",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person shall be elected to the office of the President more than twice",
+    "shall be elected to the office of the President more than once"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person shall be elected to the office of the President more than twice",
+     "holder": null,
+     "binds": "Any person",
+     "requires": [],
+     "forbids": [
+      "being elected to the office of the President more than twice"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "this Article shall not apply to any person holding the office of President when this Article was proposed by the Congress",
+      "shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no person who has held the office of President, or acted as President, for more than two years of a term of which some other person was elected President shall be elected to the office of the President more than once",
+     "holder": null,
+     "binds": "Any person who has held the office of President, or acted as President, for more than two years of a term of which some other person was elected President",
+     "requires": [],
+     "forbids": [
+      "being elected to the office of the President more than once"
+     ],
+     "conditions": [
+      "has held the office of President, or acted as President, for more than two years of a term of which some other person was elected President"
+     ],
+     "exceptions": [
+      "this Article shall not apply to any person holding the office of President when this Article was proposed by the Congress",
+      "shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend22-s2": {
+  "review": {
+   "title": "Time limit for ratifying the Twenty-second Amendment",
+   "plain": "This article is inoperative unless ratified by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by Congress.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend23-s1": {
+  "review": {
+   "title": "Presidential electors for the District of Columbia",
+   "plain": "The seat of Government of the United States appoints, as Congress directs, electors for President and Vice President equal to the Senators and Representatives it would have if a State, but no more than the least populous State.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "shall appoint in such manner as the Congress may direct"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct: A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State",
+     "holder": "The District constituting the seat of Government of the United States",
+     "binds": null,
+     "requires": [
+      "in such manner as the Congress may direct",
+      "but in no event more than the least populous State"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "they shall meet in the District and perform such duties as provided by the twelfth article of amendment"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend23-s2": {
+  "review": {
+   "title": "Power to enforce the Twenty-third Amendment",
+   "plain": "Congress has power to enforce this article by appropriate legislation.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Congress shall have power to enforce this article by appropriate legislation"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Congress shall have power to enforce this article by appropriate legislation",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend24-s1": {
+  "review": {
+   "title": "No poll tax in federal elections",
+   "plain": "The right of citizens to vote in any primary or other election for President, Vice President, presidential electors, Senator or Representative shall not be denied or abridged by the United States or any State for failure to pay any poll tax or other tax.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "rights": [
+    "The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax",
+     "holder": "Citizens of the United States",
+     "binds": "The United States or any State",
+     "requires": [],
+     "forbids": [
+      "denying or abridging the right to vote by reason of failure to pay any poll tax or other tax"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend24-s2": {
+  "review": {
+   "title": "Power to enforce the Twenty-fourth Amendment",
+   "plain": "Congress has power to enforce this article by appropriate legislation.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Congress shall have power to enforce this article by appropriate legislation"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Congress shall have power to enforce this article by appropriate legislation",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend25-s1": {
+  "review": {
+   "title": "Vice President becomes President",
+   "plain": "If the President is removed from office, dies or resigns, the Vice President becomes President.",
+   "category": "The Presidency",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In case of the removal of the President from office or of his death or resignation, the Vice President shall become President",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of the removal of the President from office or of his death or resignation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend25-s2": {
+  "review": {
+   "title": "Filling a Vice President vacancy",
+   "plain": "When the office of Vice President is vacant, the President nominates a Vice President, who takes office upon confirmation by a majority vote of both Houses of Congress.",
+   "category": "The Presidency",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the President shall nominate a Vice President"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress",
+     "holder": "The President",
+     "binds": null,
+     "requires": [
+      "shall take office upon confirmation by a majority vote of both Houses of Congress"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Whenever there is a vacancy in the office of the Vice President"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend25-s3": {
+  "review": {
+   "title": "President's declaration of inability",
+   "plain": "When the President sends a written declaration to the President pro tempore of the Senate and the Speaker of the House that he is unable to discharge his powers and duties, the Vice President discharges them as Acting President until the President declares otherwise.",
+   "category": "The Presidency",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such powers and duties shall be discharged by the Vice President as Acting President",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office",
+      "until he transmits to them a written declaration to the contrary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend25-s4": {
+  "review": {
+   "title": "Declaring the President unable to serve",
+   "plain": "If the Vice President and a majority of the principal officers of the executive departments (or another body Congress provides) declare in writing that the President is unable to serve, the Vice President becomes Acting President. Disputes are decided by Congress by two-thirds vote of both Houses.",
+   "category": "The Presidency",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the Vice President shall immediately assume the powers and duties of the office as Acting President",
+    "Congress shall decide the issue"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall immediately assume the powers and duties of the office as Acting President",
+     "holder": "The Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session",
+     "holder": "Congress",
+     "binds": "Congress",
+     "requires": [
+      "assembling within forty-eight hours for that purpose if not in session"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble",
+      "determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend26-s1": {
+  "review": {
+   "title": "Right to vote at age eighteen",
+   "plain": "The right of citizens of the United States who are eighteen years of age or older to vote shall not be denied or abridged by the United States or by any State on account of age.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "rights": [
+    "The right of citizens of the United States, who are eighteen years of age or older, to vote"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be denied or abridged by the United States or by any State on account of age"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age",
+     "holder": "Citizens of the United States, who are eighteen years of age or older",
+     "binds": "The United States or any State",
+     "requires": [],
+     "forbids": [
+      "denying or abridging the right to vote on account of age"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend26-s2": {
+  "review": {
+   "title": "Power to enforce the Twenty-sixth Amendment",
+   "plain": "Congress has power to enforce this article by appropriate legislation.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Congress shall have power to enforce this article by appropriate legislation"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Congress shall have power to enforce this article by appropriate legislation",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend27": {
+  "review": {
+   "title": "Timing of congressional pay changes",
+   "plain": "No law varying the compensation of Senators and Representatives takes effect until an election of Representatives has intervened.",
+   "category": "Congress",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall take effect, until an election of Representatives shall have intervened"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "a law varying the compensation for the services of the Senators and Representatives taking effect until an election of Representatives shall have intervened"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

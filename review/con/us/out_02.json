@@ -1,0 +1,1297 @@
+{
+ "art4-s3": {
+  "review": {
+   "title": "New States and federal territory",
+   "plain": "Congress may admit new States, but no State may be formed within another State or by joining States without the consent of the State Legislatures and Congress. Congress may make all needful Rules for the Territory and other Property of the United States.",
+   "category": "States & Federalism",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "New States may be admitted by the Congress into this Union",
+    "shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States"
+   ],
+   "limits": [
+    "no new State shall be formed or erected within the Jurisdiction of any other State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "New States may be admitted by the Congress into this Union",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "limit",
+     "what": "no new State shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [
+      "forming or erecting a new State within the Jurisdiction of any other State",
+      "forming a State by the Junction of two or more States, or Parts of States"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "with the Consent of the Legislatures of the States concerned as well as of the Congress"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "limit",
+     "what": "nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "construing this Constitution so as to Prejudice any Claims of the United States, or of any particular State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art4-s4": {
+  "review": {
+   "title": "Republican government and protection of States",
+   "plain": "The United States shall guarantee every State a Republican Form of Government and protect each against Invasion, and, on Application of the State Legislature or Executive, against domestic Violence.",
+   "category": "States & Federalism",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The United States shall guarantee to every State in this Union a Republican Form of Government",
+     "holder": "Every State",
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The United States shall protect each of them against Invasion",
+     "holder": "Every State",
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The United States shall protect each of them against domestic Violence",
+     "holder": "Every State",
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on Application of the Legislature, or of the Executive (when the Legislature cannot be convened)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art5": {
+  "review": {
+   "title": "Amending the Constitution",
+   "plain": "Congress proposes Amendments when two thirds of both Houses deem it necessary, or calls a Convention on the Application of two thirds of the State Legislatures. Amendments become valid when ratified by three fourths of the States. No State, without its Consent, shall be deprived of its equal Suffrage in the Senate.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "shall propose Amendments to this Constitution",
+    "shall call a Convention for proposing Amendments"
+   ],
+   "limits": [
+    "no State, without its Consent, shall be deprived of its equal Suffrage in the Senate"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "whenever two thirds of both Houses shall deem it necessary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "on the Application of the Legislatures of two thirds of the several States, [Congress] shall call a Convention for proposing Amendments",
+     "holder": "The Legislatures of two thirds of the several States",
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on the Application of the Legislatures of two thirds of the several States"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Amendments, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof"
+     ],
+     "forbids": [],
+     "conditions": [
+      "as the one or the other Mode of Ratification may be proposed by the Congress"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "affecting the first and fourth Clauses in the Ninth Section of the first Article by an Amendment made prior to the Year One thousand eight hundred and eight"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no State, without its Consent, shall be deprived of its equal Suffrage in the Senate",
+     "holder": "Each State",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "depriving a State of its equal Suffrage in the Senate"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "with its Consent"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art6": {
+  "review": {
+   "title": "Debts, supreme Law of the Land and oaths",
+   "plain": "Debts from before the Constitution remain valid against the United States. The Constitution, federal Laws and Treaties are the supreme Law of the Land, binding State Judges. Federal and State officers must swear to support the Constitution, but no religious Test may be required for office.",
+   "category": "States & Federalism",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "shall be the supreme Law of the Land"
+   ],
+   "limits": [
+    "no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "duty",
+     "what": "All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "structure",
+     "what": "This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Laws of the United States which shall be made in Pursuance thereof",
+      "Treaties made, or which shall be made, under the Authority of the United States"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "duty",
+     "what": "the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding",
+     "holder": null,
+     "binds": "The Judges in every State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "duty",
+     "what": "The Senators and Representatives, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution",
+     "holder": null,
+     "binds": "Senators, Representatives, Members of the State Legislatures, and all executive and judicial Officers of the United States and of the several States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "limit",
+     "what": "no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [
+      "requiring a religious Test as a Qualification to any Office or public Trust under the United States"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art7": {
+  "review": {
+   "title": "Ratification of the Constitution",
+   "plain": "Ratification by the Conventions of nine States is sufficient to establish the Constitution between the States so ratifying it.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The Ratification of the Conventions of nine States"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend1": {
+  "review": {
+   "title": "Freedom of religion, speech, press, assembly and petition",
+   "plain": "Congress shall make no law respecting an establishment of religion or prohibiting its free exercise, or abridging the freedom of speech or of the press, or the right of the people peaceably to assemble and to petition the Government for a redress of grievances.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [
+    "the free exercise thereof",
+    "the freedom of speech, or of the press",
+    "the right of the people peaceably to assemble, and to petition the Government for a redress of grievances"
+   ],
+   "powers": [],
+   "limits": [
+    "shall make no law respecting an establishment of religion"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Congress shall make no law respecting an establishment of religion",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [
+      "making a law respecting an establishment of religion"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Congress shall make no law prohibiting the free exercise thereof [of religion]",
+     "holder": "The people",
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [
+      "prohibiting the free exercise of religion"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Congress shall make no law abridging the freedom of speech, or of the press",
+     "holder": "The people",
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [
+      "abridging the freedom of speech, or of the press"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Congress shall make no law abridging the right of the people peaceably to assemble, and to petition the Government for a redress of grievances",
+     "holder": "The people",
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [
+      "abridging the right of the people peaceably to assemble, and to petition the Government for a redress of grievances"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend2": {
+  "review": {
+   "title": "Right to keep and bear arms",
+   "plain": "Because a well regulated Militia is necessary to the security of a free State, the right of the people to keep and bear Arms shall not be infringed.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "the right of the people to keep and bear Arms"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be infringed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Infringing the right of the people to keep and bear Arms"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend3": {
+  "review": {
+   "title": "No quartering of soldiers",
+   "plain": "No Soldier shall in time of peace be quartered in any house without the Owner's consent, nor in time of war except in a manner to be prescribed by law.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner",
+     "holder": "The Owner",
+     "binds": "No Soldier",
+     "requires": [],
+     "forbids": [
+      "quartering a Soldier in any house in time of peace without the consent of the Owner"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "with the consent of the Owner"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor in time of war, but in a manner to be prescribed by law",
+     "holder": "The Owner",
+     "binds": "No Soldier",
+     "requires": [],
+     "forbids": [
+      "quartering a Soldier in any house in time of war, but in a manner to be prescribed by law"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "in a manner to be prescribed by law"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend4": {
+  "review": {
+   "title": "Searches, seizures and warrants",
+   "plain": "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures shall not be violated. No Warrants shall issue but upon probable cause, supported by Oath or affirmation, particularly describing the place to be searched and the persons or things to be seized.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be violated",
+    "no Warrants shall issue, but upon probable cause"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "violating the right of the people to be secure against unreasonable searches and seizures"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "probable cause, supported by Oath or affirmation",
+      "particularly describing the place to be searched, and the persons or things to be seized"
+     ],
+     "forbids": [
+      "issuing Warrants but upon probable cause"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend5": {
+  "review": {
+   "title": "Grand jury, double jeopardy, self-incrimination, due process",
+   "plain": "No person shall be held to answer for a capital or infamous crime without a Grand Jury indictment (with military exceptions), twice put in jeopardy, compelled to witness against himself, or deprived of life, liberty, or property without due process of law; nor private property taken without just compensation.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "due process of law",
+    "just compensation"
+   ],
+   "powers": [],
+   "limits": [
+    "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury",
+    "nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb",
+    "nor shall be compelled in any criminal case to be a witness against himself",
+    "nor be deprived of life, liberty, or property, without",
+    "nor shall private property be taken for public use, without"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury",
+     "holder": "Any person",
+     "binds": null,
+     "requires": [
+      "a presentment or indictment of a Grand Jury"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb",
+     "holder": "Any person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "being twice put in jeopardy of life or limb for the same offence"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "nor shall [any person] be compelled in any criminal case to be a witness against himself",
+     "holder": "Any person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "being compelled in any criminal case to be a witness against himself"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "nor [shall any person] be deprived of life, liberty, or property, without due process of law",
+     "holder": "Any person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "depriving any person of life, liberty, or property, without due process of law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor shall private property be taken for public use, without just compensation",
+     "holder": "Owners of private property",
+     "binds": null,
+     "requires": [
+      "just compensation"
+     ],
+     "forbids": [
+      "taking private property for public use, without just compensation"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend6": {
+  "review": {
+   "title": "Rights of the accused at trial",
+   "plain": "In all criminal prosecutions, the accused has the right to a speedy and public trial by an impartial jury of the State and district of the crime, to be informed of the accusation, to confront witnesses, to compulsory process for witnesses, and to the Assistance of Counsel.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed",
+    "to be informed of the nature and cause of the accusation",
+    "to be confronted with the witnesses against him",
+    "to have compulsory process for obtaining witnesses in his favor",
+    "to have the Assistance of Counsel for his defense"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law",
+     "holder": "The accused",
+     "binds": null,
+     "requires": [
+      "which district shall have been previously ascertained by law"
+     ],
+     "forbids": [],
+     "conditions": [
+      "In all criminal prosecutions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the accused shall enjoy the right to be informed of the nature and cause of the accusation",
+     "holder": "The accused",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In all criminal prosecutions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the accused shall enjoy the right to be confronted with the witnesses against him",
+     "holder": "The accused",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In all criminal prosecutions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the accused shall enjoy the right to have compulsory process for obtaining witnesses in his favor",
+     "holder": "The accused",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In all criminal prosecutions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "the accused shall enjoy the right to have the Assistance of Counsel for his defense",
+     "holder": "The accused",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In all criminal prosecutions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend7": {
+  "review": {
+   "title": "Jury trial in civil cases",
+   "plain": "In Suits at common law where the value in controversy exceeds twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury shall be re-examined in any Court of the United States except according to the rules of the common law.",
+   "category": "The Courts",
+   "kind": "Right",
+   "rights": [
+    "the right of trial by jury shall be preserved"
+   ],
+   "powers": [],
+   "limits": [
+    "no fact tried by a jury, shall be otherwise re-examined in any Court of the United States"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved",
+     "holder": "Parties in Suits at common law",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In Suits at common law, where the value in controversy shall exceed twenty dollars"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law",
+     "holder": null,
+     "binds": "Any Court of the United States",
+     "requires": [],
+     "forbids": [
+      "re-examining a fact tried by a jury otherwise than according to the rules of the common law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend8": {
+  "review": {
+   "title": "No excessive bail, fines or cruel punishment",
+   "plain": "Excessive bail shall not be required, excessive fines shall not be imposed, and cruel and unusual punishments shall not be inflicted.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Excessive bail shall not be required",
+    "nor excessive fines imposed",
+    "nor cruel and unusual punishments inflicted"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Excessive bail shall not be required",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "requiring Excessive bail"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor excessive fines imposed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "imposing excessive fines"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor cruel and unusual punishments inflicted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "inflicting cruel and unusual punishments"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend9": {
+  "review": {
+   "title": "Rights retained by the people",
+   "plain": "Listing certain rights in the Constitution shall not be construed to deny or disparage other rights retained by the people.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "others retained by the people"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be construed to deny or disparage"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "construing the enumeration of certain rights to deny or disparage others retained by the people"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend10": {
+  "review": {
+   "title": "Powers reserved to the States and people",
+   "plain": "Powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.",
+   "category": "States & Federalism",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "are reserved to the States respectively, or to the people"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people",
+     "holder": "The States respectively, or the people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not delegated to the United States by the Constitution, nor prohibited by it to the States"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend11": {
+  "review": {
+   "title": "Suits against States",
+   "plain": "The Judicial power of the United States shall not be construed to extend to any suit in law or equity against one of the States by Citizens of another State, or by Citizens or Subjects of any Foreign State.",
+   "category": "The Courts",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State",
+     "holder": "Each State",
+     "binds": "The Judicial power of the United States",
+     "requires": [],
+     "forbids": [
+      "construing the Judicial power to extend to suits against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend12": {
+  "review": {
+   "title": "Electing the President and Vice-President",
+   "plain": "Electors vote by distinct ballots for President and Vice-President and send sealed lists to the President of the Senate, who opens them before both Houses. A majority of Electors appointed is needed; otherwise the House chooses the President, voting by states, and the Senate chooses the Vice-President.",
+   "category": "The Presidency",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the House of Representatives shall choose immediately, by ballot, the President",
+    "the Senate shall choose the Vice-President"
+   ],
+   "limits": [
+    "no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Electors shall meet in their respective states, and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President",
+     "holder": null,
+     "binds": "The Electors",
+     "requires": [
+      "one of whom, at least, shall not be an inhabitant of the same state with themselves",
+      "in distinct ballots the person voted for as Vice-President"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate",
+     "holder": null,
+     "binds": "The Electors",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted",
+     "holder": null,
+     "binds": "The President of the Senate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if such number be a majority of the whole number of Electors appointed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President",
+     "holder": "The House of Representatives",
+     "binds": null,
+     "requires": [
+      "the votes shall be taken by states, the representation from each state having one vote",
+      "a quorum for this purpose shall consist of a member or members from two-thirds of the states",
+      "a majority of all the states shall be necessary to a choice"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if no person have such majority"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President",
+     "holder": "The Vice-President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the House of Representatives shall not choose a President before the fourth day of March next following"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This sentence has been superseded by section 3 of amendment XX."
+     ]
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if such number be a majority of the whole number of Electors appointed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President",
+     "holder": "The Senate",
+     "binds": null,
+     "requires": [
+      "a quorum for the purpose shall consist of two-thirds of the whole number of Senators",
+      "a majority of the whole number shall be necessary to a choice"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if no person have a majority"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "a person constitutionally ineligible to the office of President being Vice-President"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend13-s1": {
+  "review": {
+   "title": "Abolition of slavery",
+   "plain": "Neither slavery nor involuntary servitude shall exist within the United States or any place subject to their jurisdiction, except as a punishment for crime whereof the party shall have been duly convicted.",
+   "category": "Equality & Citizenship",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Neither slavery nor involuntary servitude",
+    "shall exist within the United States, or any place subject to their jurisdiction"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither slavery nor involuntary servitude shall exist within the United States, or any place subject to their jurisdiction",
+     "holder": null,
+     "binds": "The United States, or any place subject to their jurisdiction",
+     "requires": [],
+     "forbids": [
+      "slavery",
+      "involuntary servitude"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as a punishment for crime whereof the party shall have been duly convicted"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend13-s2": {
+  "review": {
+   "title": "Power to enforce the Thirteenth Amendment",
+   "plain": "Congress has power to enforce this article by appropriate legislation.",
+   "category": "Equality & Citizenship",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "Congress shall have power to enforce this article by appropriate legislation"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Congress shall have power to enforce this article by appropriate legislation",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "amend14-s1": {
+  "review": {
+   "title": "Citizenship, due process and equal protection",
+   "plain": "All persons born or naturalized in the United States and subject to its jurisdiction are citizens. No State shall abridge the privileges or immunities of citizens, deprive any person of life, liberty, or property without due process of law, or deny any person the equal protection of the laws.",
+   "category": "Equality & Citizenship",
+   "kind": "Right",
+   "rights": [
+    "are citizens of the United States and of the State wherein they reside",
+    "the privileges or immunities of citizens of the United States",
+    "due process of law",
+    "the equal protection of the laws"
+   ],
+   "powers": [],
+   "limits": [
+    "No State shall make or enforce any law which shall abridge",
+    "nor shall any State deprive any person of life, liberty, or property, without",
+    "nor deny to any person within its jurisdiction"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside",
+     "holder": "All persons born or naturalized in the United States, and subject to the jurisdiction thereof",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "born or naturalized in the United States, and subject to the jurisdiction thereof"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States",
+     "holder": "Citizens of the United States",
+     "binds": "No State",
+     "requires": [],
+     "forbids": [
+      "making or enforcing any law which shall abridge the privileges or immunities of citizens of the United States"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor shall any State deprive any person of life, liberty, or property, without due process of law",
+     "holder": "Any person",
+     "binds": "No State",
+     "requires": [],
+     "forbids": [
+      "depriving any person of life, liberty, or property, without due process of law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor [shall any State] deny to any person within its jurisdiction the equal protection of the laws",
+     "holder": "Any person within its jurisdiction",
+     "binds": "No State",
+     "requires": [],
+     "forbids": [
+      "denying to any person within its jurisdiction the equal protection of the laws"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

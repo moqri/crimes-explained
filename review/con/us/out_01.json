@@ -1,0 +1,1987 @@
+{
+ "preamble": {
+  "review": {
+   "title": "Preamble: purposes of the Constitution",
+   "plain": "The People of the United States ordain and establish the Constitution to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "do ordain and establish this Constitution"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution",
+     "holder": "The People of the United States",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s1": {
+  "review": {
+   "title": "Legislative power vested in Congress",
+   "plain": "All legislative powers granted by the Constitution are vested in a Congress of the United States, made up of a Senate and a House of Representatives.",
+   "category": "Congress",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "All legislative Powers herein granted shall be vested in a Congress of the United States"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All legislative Powers herein granted shall be vested in a Congress of the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Congress shall consist of a Senate and House of Representatives",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s2": {
+  "review": {
+   "title": "The House of Representatives",
+   "plain": "House members are chosen every second year by the people of the States. It sets qualifications for Representatives, apportions Representatives and direct taxes by population, provides for filling vacancies, and gives the House its Speaker and the sole power of impeachment.",
+   "category": "Congress",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "shall have the sole Power of Impeachment",
+    "shall chuse their Speaker and other Officers"
+   ],
+   "limits": [
+    "No Person shall be a Representative who shall not have attained to the Age of twenty five Years",
+    "The Number of Representatives shall not exceed one for every thirty Thousand"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "structure",
+     "what": "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States",
+     "holder": "The People of the several States",
+     "binds": null,
+     "requires": [
+      "the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "limit",
+     "what": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen",
+     "holder": null,
+     "binds": "Representatives",
+     "requires": [
+      "attained to the Age of twenty five Years",
+      "been seven Years a Citizen of the United States",
+      "when elected, be an Inhabitant of that State in which he shall be chosen"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "structure",
+     "what": "Representatives and direct Taxes shall be apportioned among the several States according to their respective Numbers, determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [
+      "The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct",
+      "each State shall have at Least one Representative"
+     ],
+     "forbids": [
+      "The Number of Representatives shall not exceed one for every thirty Thousand"
+     ],
+     "conditions": [
+      "until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "The part of this clause relating to the mode of apportionment of representatives among the several States has been affected by section 2 of amendment XIV, and as to taxes on incomes without apportionment by amendment XVI."
+     ]
+    },
+    {
+     "where": "[4]",
+     "kind": "duty",
+     "what": "When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies",
+     "holder": null,
+     "binds": "The Executive Authority of the State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "When vacancies happen in the Representation from any State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[5]",
+     "kind": "power",
+     "what": "The House of Representatives shall chuse their Speaker and other Officers",
+     "holder": "The House of Representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[5]",
+     "kind": "power",
+     "what": "The House of Representatives shall have the sole Power of Impeachment",
+     "holder": "The House of Representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s3": {
+  "review": {
+   "title": "The Senate",
+   "plain": "The Senate has two Senators from each State, chosen by the State Legislature for six years, each with one vote. It sets classes of Senators, qualifications, the Vice President's role, Senate officers, and the Senate's sole power to try impeachments.",
+   "category": "Congress",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "shall have the sole Power to try all Impeachments",
+    "The Senate shall chuse their other Officers"
+   ],
+   "limits": [
+    "No Person shall be a Senator who shall not have attained to the Age of thirty Years",
+    "shall have no Vote, unless they be equally divided",
+    "no Person shall be convicted without the Concurrence of two thirds of the Members present",
+    "Judgment in Cases of Impeachment shall not extend further than to removal from Office"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "structure",
+     "what": "The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof for six Years; and each Senator shall have one Vote",
+     "holder": "The Legislature of each State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by clause 1 of amendment XVII."
+     ]
+    },
+    {
+     "where": "[2]",
+     "kind": "structure",
+     "what": "Senators shall be divided as equally as may be into three Classes, so that one third may be chosen every second Year",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by clause 2 of amendment XVIII."
+     ]
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "If Vacancies happen during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies",
+     "holder": "The Executive of the State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if Vacancies happen by Resignation or otherwise, during the Recess of the Legislature of any State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by clause 2 of amendment XVIII."
+     ]
+    },
+    {
+     "where": "[3]",
+     "kind": "limit",
+     "what": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen",
+     "holder": null,
+     "binds": "Senators",
+     "requires": [
+      "attained to the Age of thirty Years",
+      "been nine Years a Citizen of the United States",
+      "when elected, be an Inhabitant of that State for which he shall be chosen"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[4]",
+     "kind": "structure",
+     "what": "The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided",
+     "holder": "The Vice President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless they be equally divided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[5]",
+     "kind": "power",
+     "what": "The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States",
+     "holder": "The Senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[6]",
+     "kind": "power",
+     "what": "The Senate shall have the sole Power to try all Impeachments",
+     "holder": "The Senate",
+     "binds": null,
+     "requires": [
+      "When sitting for that Purpose, they shall be on Oath or Affirmation",
+      "When the President of the United States is tried, the Chief Justice shall preside"
+     ],
+     "forbids": [
+      "no Person shall be convicted without the Concurrence of two thirds of the Members present"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[7]",
+     "kind": "limit",
+     "what": "Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States",
+     "holder": null,
+     "binds": "The Senate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s4": {
+  "review": {
+   "title": "Congressional elections and meetings",
+   "plain": "Each State Legislature prescribes the times, places and manner of holding elections for Senators and Representatives, but Congress may make or alter those regulations, except as to places of choosing Senators. Congress shall assemble at least once every year.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall be prescribed in each State by the Legislature thereof",
+    "the Congress may at any time by Law make or alter such Regulations"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof",
+     "holder": "The Legislature of each State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "The Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as to the Places of chusing Senators"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "duty",
+     "what": "The Congress shall assemble at least once in every Year and such Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless they shall by Law appoint a different Day"
+     ],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XX."
+     ]
+    }
+   ]
+  }
+ },
+ "art1-s5": {
+  "review": {
+   "title": "Rules and procedures of each House",
+   "plain": "Each House judges the elections and qualifications of its members, needs a majority for a quorum, sets its own rules, may punish or, with two thirds, expel members, keeps and publishes a journal, and may not adjourn over three days without the other's consent.",
+   "category": "Congress",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members",
+    "Each House may determine the Rules of its Proceedings",
+    "punish its Members for disorderly Behavior",
+    "expel a Member"
+   ],
+   "limits": [
+    "Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members",
+     "holder": "Each House",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "structure",
+     "what": "A Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide",
+     "holder": "Each House",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behavior, and, with the Concurrence of two thirds, expel a Member",
+     "holder": "Each House",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "with the Concurrence of two thirds"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "duty",
+     "what": "Each House shall keep a Journal of its Proceedings, and from time to time publish the same",
+     "holder": null,
+     "binds": "Each House",
+     "requires": [
+      "the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "excepting such Parts as may in their Judgment require Secrecy"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[4]",
+     "kind": "limit",
+     "what": "Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting",
+     "holder": null,
+     "binds": "Each House",
+     "requires": [],
+     "forbids": [
+      "adjourn for more than three days",
+      "adjourn to any other Place than that in which the two Houses shall be sitting"
+     ],
+     "conditions": [
+      "without the Consent of the other"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s6": {
+  "review": {
+   "title": "Pay, privileges and limits on members",
+   "plain": "Senators and Representatives receive pay set by law. Except for treason, felony and breach of the peace, they are privileged from arrest while attending sessions, and cannot be questioned elsewhere for speech or debate. They may not hold certain other federal offices.",
+   "category": "Congress",
+   "kind": "Right",
+   "rights": [
+    "be privileged from Arrest during their Attendance at the Session of their respective Houses",
+    "for any Speech or Debate in either House, they shall not be questioned in any other Place"
+   ],
+   "powers": [],
+   "limits": [
+    "No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office",
+    "no Person holding any Office under the United States, shall be a Member of either House"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "structure",
+     "what": "The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States",
+     "holder": "Senators and Representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XXVII."
+     ]
+    },
+    {
+     "where": "[1]",
+     "kind": "right",
+     "what": "They shall be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same",
+     "holder": "Senators and Representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except Treason, Felony and Breach of the Peace"
+     ],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XXVII."
+     ]
+    },
+    {
+     "where": "[1]",
+     "kind": "right",
+     "what": "For any Speech or Debate in either House, they shall not be questioned in any other Place",
+     "holder": "Senators and Representatives",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XXVII."
+     ]
+    },
+    {
+     "where": "[2]",
+     "kind": "limit",
+     "what": "No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been encreased during such time",
+     "holder": null,
+     "binds": "Senators and Representatives",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "limit",
+     "what": "No Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office",
+     "holder": null,
+     "binds": "Persons holding any Office under the United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s7": {
+  "review": {
+   "title": "How bills become laws",
+   "plain": "Revenue bills must start in the House. Every bill passed by both Houses goes to the President, who signs it or returns it with objections; two thirds of each House can override. Unreturned bills become law after ten days unless Congress adjourns.",
+   "category": "Congress",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the Senate may propose or concur with Amendments as on other Bills",
+    "If he approve he shall sign it, but if not he shall return it"
+   ],
+   "limits": [
+    "All Bills for raising Revenue shall originate in the House of Representatives"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "limit",
+     "what": "All Bills for raising Revenue shall originate in the House of Representatives",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "The Senate may propose or concur with Amendments as on other Bills",
+     "holder": "The Senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "structure",
+     "what": "Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated",
+     "holder": "The President",
+     "binds": null,
+     "requires": [
+      "that House shall enter the Objections at large on their Journal, and proceed to reconsider it",
+      "in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law",
+      "If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it"
+     ],
+     "exceptions": [
+      "unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "structure",
+     "what": "Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "according to the Rules and Limitations prescribed in the Case of a Bill"
+     ],
+     "exceptions": [
+      "except on a question of Adjournment"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s8": {
+  "review": {
+   "title": "Powers of Congress",
+   "plain": "Congress has power to tax, borrow, regulate commerce, coin money, establish post offices, constitute inferior tribunals, declare war, raise armies and a navy, provide for the militia, govern the seat of government, and make all laws necessary and proper to carry out these powers.",
+   "category": "Congress",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "To lay and collect Taxes, Duties, Imposts and Excises",
+    "To borrow Money on the credit of the United States",
+    "To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes",
+    "To establish a uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies",
+    "To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures",
+    "To provide for the Punishment of counterfeiting the Securities and current Coin of the United States",
+    "To establish Post Offices and post Roads",
+    "To promote the Progress of Science and useful Arts",
+    "To constitute Tribunals inferior to the supreme Court",
+    "To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations",
+    "To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water",
+    "To raise and support Armies",
+    "To provide and maintain a Navy",
+    "To make Rules for the Government and Regulation of the land and naval Forces",
+    "To provide for calling forth the Militia",
+    "To provide for organizing, arming, and disciplining, the Militia",
+    "To exercise exclusive Legislation in all Cases whatsoever",
+    "To make all Laws which shall be necessary and proper"
+   ],
+   "limits": [
+    "all Duties, Imposts and Excises shall be uniform throughout the United States",
+    "no Appropriation of Money to that Use shall be for a longer Term than two Years"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "Lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [
+      "all Duties, Imposts and Excises shall be uniform throughout the United States"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "Borrow Money on the credit of the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "power",
+     "what": "Regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[4]",
+     "kind": "power",
+     "what": "Establish a uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[5]",
+     "kind": "power",
+     "what": "Coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[6]",
+     "kind": "power",
+     "what": "Provide for the Punishment of counterfeiting the Securities and current Coin of the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[7]",
+     "kind": "power",
+     "what": "Establish Post Offices and post Roads",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[8]",
+     "kind": "power",
+     "what": "Promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[9]",
+     "kind": "power",
+     "what": "Constitute Tribunals inferior to the supreme Court",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[10]",
+     "kind": "power",
+     "what": "Define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[11]",
+     "kind": "power",
+     "what": "Declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[12]",
+     "kind": "power",
+     "what": "Raise and support Armies",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "no Appropriation of Money to that Use shall be for a longer Term than two Years"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[13]",
+     "kind": "power",
+     "what": "Provide and maintain a Navy",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[14]",
+     "kind": "power",
+     "what": "Make Rules for the Government and Regulation of the land and naval Forces",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[15]",
+     "kind": "power",
+     "what": "Provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[16]",
+     "kind": "power",
+     "what": "Provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[17]",
+     "kind": "power",
+     "what": "Exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful buildings",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by Cession of particular States, and the Acceptance of Congress",
+      "by the Consent of the Legislature of the State in which the Same shall be"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[18]",
+     "kind": "power",
+     "what": "Make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s9": {
+  "review": {
+   "title": "Limits on the powers of Congress",
+   "plain": "This section limits the national government: habeas corpus may not be suspended except in rebellion or invasion; no bills of attainder or ex post facto laws; no direct tax unless apportioned; no export taxes; no money drawn without appropriations; no titles of nobility.",
+   "category": "Congress",
+   "kind": "Limit",
+   "rights": [
+    "The Privilege of the Writ of Habeas Corpus"
+   ],
+   "powers": [],
+   "limits": [
+    "shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight",
+    "shall not be suspended",
+    "No Bill of Attainder or ex post facto Law shall be passed",
+    "No Capitation, or other direct, Tax shall be laid",
+    "No Tax or Duty shall be laid on Articles exported from any State",
+    "No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another",
+    "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law",
+    "No Title of Nobility shall be granted by the United States"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "limit",
+     "what": "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "right",
+     "what": "The Privilege of the Writ of Habeas Corpus shall not be suspended",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [
+      "Suspending the Privilege of the Writ of Habeas Corpus"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless when in Cases of Rebellion or Invasion the public Safety may require it"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "limit",
+     "what": "No Bill of Attainder or ex post facto Law shall be passed",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [
+      "Passing a Bill of Attainder",
+      "Passing an ex post facto Law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[4]",
+     "kind": "limit",
+     "what": "No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless in Proportion to the Census or Enumeration herein before directed to be taken"
+     ],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XVI."
+     ]
+    },
+    {
+     "where": "[5]",
+     "kind": "limit",
+     "what": "No Tax or Duty shall be laid on Articles exported from any State",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[6]",
+     "kind": "limit",
+     "what": "No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[7]",
+     "kind": "limit",
+     "what": "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "in Consequence of Appropriations made by Law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[7]",
+     "kind": "duty",
+     "what": "A regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[8]",
+     "kind": "limit",
+     "what": "No Title of Nobility shall be granted by the United States",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[8]",
+     "kind": "limit",
+     "what": "No Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State",
+     "holder": null,
+     "binds": "Persons holding any Office of Profit or Trust under the United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "without the Consent of the Congress"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art1-s10": {
+  "review": {
+   "title": "Limits on the States",
+   "plain": "No State may make treaties, coin money, emit bills of credit, pass bills of attainder, ex post facto laws or laws impairing contracts, or grant titles of nobility. Without Congress's consent, no State may lay import or export duties, keep troops or ships of war, or engage in war.",
+   "category": "States & Federalism",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No State shall enter into any Treaty, Alliance, or Confederation",
+    "No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports",
+    "No State shall, without the Consent of Congress, lay any Duty of Tonnage"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "limit",
+     "what": "No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility",
+     "holder": null,
+     "binds": "No State",
+     "requires": [],
+     "forbids": [
+      "enter into any Treaty, Alliance, or Confederation",
+      "grant Letters of Marque and Reprisal",
+      "coin Money",
+      "emit Bills of Credit",
+      "make any Thing but gold and silver Coin a Tender in Payment of Debts",
+      "pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts",
+      "grant any Title of Nobility"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "limit",
+     "what": "No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports",
+     "holder": null,
+     "binds": "No State",
+     "requires": [
+      "the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States",
+      "all such Laws shall be subject to the Revision and Control of the Congress"
+     ],
+     "forbids": [],
+     "conditions": [
+      "without the Consent of the Congress"
+     ],
+     "exceptions": [
+      "except what may be absolutely necessary for executing its inspection Laws"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "limit",
+     "what": "No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War",
+     "holder": null,
+     "binds": "No State",
+     "requires": [],
+     "forbids": [
+      "lay any Duty of Tonnage",
+      "keep Troops, or Ships of War in time of Peace",
+      "enter into any Agreement or Compact with another State, or with a foreign Power",
+      "engage in War"
+     ],
+     "conditions": [
+      "without the Consent of Congress"
+     ],
+     "exceptions": [
+      "unless actually invaded, or in such imminent Danger as will not admit of delay"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art2-s1": {
+  "review": {
+   "title": "The President: office, election and oath",
+   "plain": "The executive power is vested in a President serving four years. It sets how electors are appointed and vote, the qualifications for President, succession on removal, death, resignation or inability, the President's compensation, and the oath of office.",
+   "category": "The Presidency",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The executive Power shall be vested in a President of the United States of America",
+    "Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors",
+    "The Congress may determine the Time of chusing the Electors"
+   ],
+   "limits": [
+    "no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector",
+    "No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President",
+    "shall neither be encreased nor diminished during the Period for which he shall have been elected"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "The executive Power shall be vested in a President of the United States of America",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "structure",
+     "what": "He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress",
+     "holder": "Each State",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "structure",
+     "what": "The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves; the Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed",
+     "holder": "The Electors",
+     "binds": null,
+     "requires": [
+      "they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate",
+      "The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted"
+     ],
+     "forbids": [],
+     "conditions": [
+      "if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President",
+      "if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President",
+      "in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice",
+      "after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President",
+      "if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been superseded by amendment XII."
+     ]
+    },
+    {
+     "where": "[4]",
+     "kind": "power",
+     "what": "The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [
+      "which Day shall be the same throughout the United States"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[5]",
+     "kind": "limit",
+     "what": "No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President",
+     "holder": null,
+     "binds": "Candidates for President",
+     "requires": [
+      "attained to the Age of thirty five Years",
+      "been fourteen Years a Resident within the United States"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[6]",
+     "kind": "structure",
+     "what": "In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President",
+     "holder": "The Vice President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XXV."
+     ]
+    },
+    {
+     "where": "[6]",
+     "kind": "power",
+     "what": "The Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XXV."
+     ]
+    },
+    {
+     "where": "[7]",
+     "kind": "limit",
+     "what": "The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [
+      "he shall not receive within that Period any other Emolument from the United States, or any of them"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[8]",
+     "kind": "duty",
+     "what": "Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation: I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States",
+     "holder": null,
+     "binds": "The President",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art2-s2": {
+  "review": {
+   "title": "Powers of the President",
+   "plain": "The President is Commander in Chief, may require written opinions of department heads, and may grant reprieves and pardons except in impeachment. With the Senate's advice and consent, the President makes treaties and appoints officers, and may fill vacancies during Senate recesses.",
+   "category": "The Presidency",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The President shall be Commander in Chief of the Army and Navy of the United States",
+    "he may require the Opinion, in writing, of the principal Officer in each of the executive Departments",
+    "he shall have Power to grant Reprieves and Pardons for Offences against the United States",
+    "He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties",
+    "he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors",
+    "the Congress may by Law vest the Appointment of such inferior Officers",
+    "The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate"
+   ],
+   "limits": [
+    "except in Cases of Impeachment"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when called into the actual Service of the United States"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "He may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "He shall have Power to grant Reprieves and Pardons for Offences against the United States",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except in Cases of Impeachment"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by and with the Advice and Consent of the Senate",
+      "provided two thirds of the Senators present concur"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "He shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by and with the Advice and Consent of the Senate"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "The Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "power",
+     "what": "The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "during the Recess of the Senate"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art2-s3": {
+  "review": {
+   "title": "Duties of the President",
+   "plain": "The President shall give Congress information on the State of the Union and recommend measures, may convene or adjourn the Houses in certain cases, shall receive ambassadors, shall take care that the laws be faithfully executed, and shall commission all officers.",
+   "category": "The Presidency",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "he may, on extraordinary Occasions, convene both Houses, or either of them",
+    "he may adjourn them to such Time as he shall think proper"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient",
+     "holder": null,
+     "binds": "The President",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "He may, on extraordinary Occasions, convene both Houses, or either of them",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on extraordinary Occasions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper",
+     "holder": "The President",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in Case of Disagreement between them, with Respect to the Time of Adjournment"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "He shall receive Ambassadors and other public Ministers",
+     "holder": null,
+     "binds": "The President",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "He shall take Care that the Laws be faithfully executed",
+     "holder": null,
+     "binds": "The President",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "He shall Commission all the Officers of the United States",
+     "holder": null,
+     "binds": "The President",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art2-s4": {
+  "review": {
+   "title": "Removal by impeachment",
+   "plain": "The President, Vice President and all civil officers of the United States shall be removed from office on impeachment for, and conviction of, treason, bribery, or other high crimes and misdemeanors.",
+   "category": "The Presidency",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors",
+     "holder": null,
+     "binds": "The President, Vice President and all civil Officers of the United States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art3-s1": {
+  "review": {
+   "title": "Judicial power and judges",
+   "plain": "The judicial power of the United States is vested in one highest court and in inferior courts that Congress establishes. Judges hold office during good behaviour, and their pay shall not be diminished while in office.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The judicial Power of the United States, shall be vested in one supreme Court",
+    "such inferior Courts as the Congress may from time to time ordain and establish"
+   ],
+   "limits": [
+    "a Compensation, which shall not be diminished during their Continuance in Office"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish",
+     "holder": "The courts of the United States",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Congress may from time to time ordain and establish inferior Courts",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour",
+     "holder": "Judges",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Judges shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [],
+     "forbids": [
+      "diminishing the Compensation of Judges during their Continuance in Office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art3-s2": {
+  "review": {
+   "title": "Reach of judicial power; jury trial",
+   "plain": "The judicial power extends to listed cases and controversies, gives the highest court original jurisdiction in some cases and appellate jurisdiction in others, and requires that all crimes, except impeachment, be tried by jury in the State where committed.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [
+    "The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury"
+   ],
+   "powers": [
+    "The judicial Power shall extend to all Cases, in Law and Equity",
+    "shall have original Jurisdiction",
+    "shall have appellate Jurisdiction"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "power",
+     "what": "The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties; to all Cases affecting Ambassadors, other public Ministers and Consuls; to all Cases of admiralty and maritime Jurisdiction; to Controversies to which the United States will be a party; to Controversies between two or more States; between a State and Citizens of another State; between Citizens of different States; between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects",
+     "holder": "The judicial Power of the United States",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XI."
+     ]
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction",
+     "holder": "The supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make",
+     "holder": "The supreme Court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "with such Exceptions, and under such Regulations as the Congress shall make"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "right",
+     "what": "The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed",
+     "holder": "The accused",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed"
+     ],
+     "exceptions": [
+      "except in Cases of Impeachment"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art3-s3": {
+  "review": {
+   "title": "Treason",
+   "plain": "Treason against the United States consists only in levying war against them or adhering to their enemies, giving them aid and comfort. Conviction requires two witnesses to the same overt act or confession in open court. Congress declares its punishment.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Congress shall have Power to declare the Punishment of Treason"
+   ],
+   "limits": [
+    "No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court",
+    "no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "structure",
+     "what": "Treason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Treason against the United States\": levying War against them, or adhering to their Enemies, giving them Aid and Comfort"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "[1]",
+     "kind": "limit",
+     "what": "No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court",
+     "holder": null,
+     "binds": "The United States",
+     "requires": [
+      "the Testimony of two Witnesses to the same overt Act, or Confession in open Court"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "power",
+     "what": "The Congress shall have Power to declare the Punishment of Treason",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "limit",
+     "what": "No Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted",
+     "holder": null,
+     "binds": "Congress",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except during the Life of the Person attainted"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art4-s1": {
+  "review": {
+   "title": "Full faith and credit",
+   "plain": "Each State shall give full faith and credit to the public acts, records, and judicial proceedings of every other State. Congress may by general laws prescribe how they are proved and their effect.",
+   "category": "States & Federalism",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State",
+     "holder": null,
+     "binds": "Each State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof",
+     "holder": "Congress",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "art4-s2": {
+  "review": {
+   "title": "Privileges and immunities; extradition",
+   "plain": "Citizens of each State are entitled to all privileges and immunities of citizens in the several States. A person charged with a crime who flees to another State shall be delivered up on demand. Persons held to service escaping into another State shall be delivered up.",
+   "category": "States & Federalism",
+   "kind": "Right",
+   "rights": [
+    "all Privileges and Immunities of Citizens in the several States"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "[1]",
+     "kind": "right",
+     "what": "The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States",
+     "holder": "The Citizens of each State",
+     "binds": "The several States",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[2]",
+     "kind": "duty",
+     "what": "A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime",
+     "holder": null,
+     "binds": "The State in which the Person is found",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on Demand of the executive Authority of the State from which he fled"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "[3]",
+     "kind": "duty",
+     "what": "No Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due",
+     "holder": null,
+     "binds": "The State into which the Person escapes",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": [
+      "This clause has been affected by amendment XIII."
+     ]
+    }
+   ]
+  }
+ }
+}
