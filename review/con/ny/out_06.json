@@ -1,0 +1,2009 @@
+{
+  "a6-s34": {
+    "review": {
+      "plain": "Courts must decide the appeals, actions and proceedings pending in them when this article takes effect, with set exceptions for certain pending appeals. Justices and judges then in office keep their offices until their terms expire.",
+      "category": "The Courts",
+      "kind": "Structure",
+      "rights": [],
+      "powers": [],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "a",
+          "kind": "duty",
+          "what": "The court of appeals, the appellate division of the supreme court, the supreme court, the court of claims, the county court in counties outside the city of New York, the surrogate's court and the district court of Nassau county shall hear and determine all appeals, actions and proceedings pending therein on the effective date of this article",
+          "holder": null,
+          "binds": "The court of appeals, the appellate division, the supreme court, the court of claims, the county court outside the city of New York, the surrogate's court and the district court of Nassau county",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "except that the appellate division of the supreme court in the first and second judicial departments or the appellate term in such departments, if so directed by the appropriate appellate division of the supreme court, shall hear and determine all appeals pending in the appellate terms of the supreme court in the first and second judicial departments and in the court of special sessions of the city of New York",
+            "except that the county court or an appellate term shall, as may be provided by law, hear and determine all appeals pending in the county court or the supreme court other than an appellate term"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "a",
+          "kind": "structure",
+          "what": "Further appeal from a decision of the county court, the appellate term or the appellate division of the supreme court, rendered on or after the effective date of this article, shall be governed by the provisions of this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "rendered on or after the effective date of this article"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "b",
+          "kind": "structure",
+          "what": "The justices of the supreme court in office on the effective date of this article shall hold their offices as justices of the supreme court until the expiration of their respective terms",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "c",
+          "kind": "structure",
+          "what": "The judges of the court of claims in office on the effective date of this article shall hold their offices as judges of the court of claims until the expiration of their respective terms",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "d",
+          "kind": "structure",
+          "what": "The surrogates, and county judges outside the city of New York, including the special county judges of the counties of Erie and Suffolk, in office on the effective date of this article shall hold office as judges of the surrogate's court or county judge, respectively, of such counties until the expiration of their respective terms",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "e",
+          "kind": "structure",
+          "what": "The judges of the district court of Nassau county in office on the effective date of this article shall hold their offices until the expiration of their respective terms",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "f",
+          "kind": "structure",
+          "what": "Judges of courts for towns, villages and cities outside the city of New York in office on the effective date of this article shall hold their offices until the expiration of their respective terms",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a6-s35": {
+    "review": {
+      "plain": "Abolishes the children's courts and several New York City and county courts and the offices of special county judge, special surrogate and official referee, and moves their judges, staff, records and pending cases to the supreme court, the new city-wide courts or the family court. It sets how pending appeals are taken.",
+      "category": "The Courts",
+      "kind": "Structure",
+      "rights": [],
+      "powers": [
+        "shall provide by law that the justices of the city court of the city of New York",
+        "shall provide by law that the justices of the court of special sessions",
+        "may transfer any such appeal to an appellate term",
+        "may require the transfer of any such appeal to an appellate term"
+      ],
+      "limits": [
+        "shall not create a vacancy until the reduced number of personnel has been reached"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "a",
+          "kind": "structure",
+          "what": "The children's courts, the court of general sessions of the county of New York, the county courts of the counties of Bronx, Kings, Queens and Richmond, the city court of the city of New York, the domestic relations court of the city of New York, the municipal court of the city of New York, the court of special sessions of the city of New York and the city magistrates' courts of the city of New York are abolished from and after the effective date of this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "a",
+          "kind": "structure",
+          "what": "the seals, records, papers and documents of or belonging to such courts shall be deposited in the offices of the clerks of the several counties in which these courts now exist",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "unless otherwise provided by law"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "b",
+          "kind": "structure",
+          "what": "The judges of the county court of the counties of Bronx, Kings, Queens and Richmond and the judges of the court of general sessions of the county of New York in office on the effective date of this article shall, for the remainder of the terms for which they were elected or appointed, be justices of the supreme court in and for the judicial district which includes the county in which they resided on that date",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "b",
+          "kind": "structure",
+          "what": "The salaries of such justices shall be the same as the salaries of the other justices of the supreme court residing in the same judicial district and shall be paid in the same manner",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "b",
+          "kind": "structure",
+          "what": "All actions and proceedings pending in the county court of the counties of Bronx, Kings, Queens and Richmond and in the court of general sessions of the county of New York on the effective date of this article shall be transferred to the supreme court in the county in which the action or proceedings was pending, or otherwise as may be provided by law",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "c",
+          "kind": "duty",
+          "what": "The legislature shall provide by law that the justices of the city court of the city of New York and the justices of the municipal court of the city of New York in office on the date such courts are abolished shall, for the remainder of the term for which each was elected or appointed, be judges of the city-wide court of civil jurisdiction of the city of New York and for such district as the legislature may determine",
+          "holder": null,
+          "binds": "The legislature",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "d",
+          "kind": "duty",
+          "what": "The legislature shall provide by law that the justices of the court of special sessions and the magistrates of the city magistrates' courts of the city of New York in office on the date such courts are abolished shall, for the remainder of the term for which each was appointed, be judges of the city-wide court of criminal jurisdiction of the city of New York",
+          "holder": null,
+          "binds": "The legislature",
+          "requires": [
+            "each term shall expire on the last day of the year in which it would have expired except for the provisions of this article"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "e",
+          "kind": "structure",
+          "what": "All actions and proceedings pending in the city court of the city of New York and the municipal court in the city of New York on the date such courts are abolished shall be transferred to the city-wide court of civil jurisdiction of the city of New York or as otherwise provided by law",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "f",
+          "kind": "structure",
+          "what": "All actions and proceedings pending in the court of special sessions of the city of New York and the city magistrates' courts of the city of New York on the date such courts are abolished shall be transferred to the city-wide court of criminal jurisdiction of the city of New York or as otherwise provided by law",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "g",
+          "kind": "structure",
+          "what": "The special county judges of the counties of Broome, Chautauqua, Jefferson, Oneida and Rockland and the judges of the children's courts in all counties outside the city of New York in office on the effective date of this article shall, for the remainder of the terms for which they were elected or appointed, be judges of the family court in and for the county in which they hold office",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "g",
+          "kind": "structure",
+          "what": "the office of special county judge and the office of special surrogate is abolished from and after the effective date of this article and the terms of the persons holding such offices shall terminate on that date",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "Except as otherwise provided in this section"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "h",
+          "kind": "structure",
+          "what": "All actions and proceedings pending in the children's courts in counties outside the city of New York on the effective date of this article shall be transferred to the family court in the respective counties",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "i",
+          "kind": "structure",
+          "what": "The justices of the domestic relations court of the city of New York in office on the effective date of this article shall, for the remainder of the terms for which they were appointed, be judges of the family court within the city of New York",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "j",
+          "kind": "structure",
+          "what": "All actions and proceedings pending in the domestic relations court of the city of New York on the effective date of this article shall be transferred to the family court in the city of New York",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "k",
+          "kind": "structure",
+          "what": "The office of official referee is abolished, provided, however, that official referees in office on the effective date of this article shall, for the remainder of the terms for which they were appointed or certified, be official referees of the court in which appointed or certified or the successor court",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "official referees in office on the effective date of this article shall, for the remainder of the terms for which they were appointed or certified, be official referees of the court in which appointed or certified or the successor court"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "k",
+          "kind": "structure",
+          "what": "At the expiration of the term of any official referee, his or her office shall be abolished and thereupon such former official referee shall be subject to the relevant provisions of section twenty-five of this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "l",
+          "kind": "duty",
+          "what": "the non-judicial personnel of the courts affected by this article in office on the effective date of this article shall, to the extent practicable, be continued without diminution of salaries and with the same status and rights in the courts established or continued by this article; and especially skilled, experienced and trained personnel shall, to the extent practicable, be assigned to like functions in the courts which exercise the jurisdiction formerly exercised by the courts in which they were employed",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "As may be provided by law",
+            "to the extent practicable"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "l",
+          "kind": "limit",
+          "what": "such reduction shall be made, to the extent practicable, by provision that the death, resignation, removal or retirement of an employee shall not create a vacancy until the reduced number of personnel has been reached",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "In the event that the adoption of this article shall require or make possible a reduction in the number of non-judicial personnel, or in the number of certain categories of such personnel"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "m",
+          "kind": "structure",
+          "what": "such appeal shall be taken from the supreme court, the county courts, the surrogate's courts, the children's courts, the court of general sessions of the county of New York and the domestic relations court of the city of New York to the appellate division of the supreme court in the judicial department in which such court was located; from the court of claims to the appellate division of the supreme court in the third judicial department; from the city court of the city of New York, the municipal court of the city of New York, the court of special sessions of the city of New York and the city magistrates' courts of the city of New York to the appellate division of the supreme court in the judicial department in which such court was located; and from the district court, town, village and city courts outside the city of New York to the county court in the county in which such court was located",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "In the event that a judgment or order was entered before the effective date of this article and a right of appeal existed and notice of appeal therefrom is filed after the effective date of this article"
+          ],
+          "exceptions": [
+            "except for those claims which arose in the fourth judicial department, in which case the appeal shall be to the appellate division of the supreme court in the fourth judicial department"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "m",
+          "kind": "power",
+          "what": "such appellate division of the supreme court may transfer any such appeal to an appellate term, if such appellate term be established",
+          "holder": "The appellate division of the supreme court",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "if such appellate term be established"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "m",
+          "kind": "power",
+          "what": "the legislature may require the transfer of any such appeal to an appellate term, if such appellate term be established",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "if such appellate term be established"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "m",
+          "kind": "structure",
+          "what": "Further appeal from a decision of a county court or an appellate term or the appellate division of the supreme court shall be governed by the provisions of this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "m",
+          "kind": "right",
+          "what": "if in any action or proceeding decided prior to the effective date of this article, a party had a right of direct appeal from a court of original jurisdiction to the court of appeals, such appeal may be taken directly to the court of appeals",
+          "holder": "A party",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "if in any action or proceeding decided prior to the effective date of this article, a party had a right of direct appeal from a court of original jurisdiction to the court of appeals"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "n",
+          "kind": "right",
+          "what": "such appeal may be taken from the appellate division of the supreme court to the court of appeals and from any other court to the appellate division of the supreme court",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "In the event that an appeal was decided before the effective date of this article and a further appeal could be taken as of right and notice of appeal therefrom is filed after the effective date of this article"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "n",
+          "kind": "structure",
+          "what": "Further appeal from a decision of the appellate division of the supreme court shall be governed by the provisions of this article. If a further appeal could not be taken as of right, such appeal shall be governed by the provisions of this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "If a further appeal could not be taken as of right"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a6-s36": {
+    "review": {
+      "plain": "No civil or criminal appeal, action or proceeding pending when this article takes effect abates; each continues in the courts as this article provides, and later proceedings follow the laws then in force until superseded.",
+      "category": "The Courts",
+      "kind": "Structure",
+      "rights": [],
+      "powers": [],
+      "limits": [
+        "No civil or criminal appeal, action or proceeding pending before any court or any judge or justice on the effective date of this article shall abate"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "No civil or criminal appeal, action or proceeding pending before any court or any judge or justice on the effective date of this article shall abate but such appeal, action or proceeding so pending shall be continued in the courts as provided in this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "A pending civil or criminal appeal, action or proceeding abating"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "for the purposes of the disposition of such actions or proceedings only, the jurisdiction of any court to which any such action or proceeding is transferred by this article shall be coextensive with the jurisdiction of the former court from which the action or proceeding was transferred",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "for the purposes of the disposition of such actions or proceedings only"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "subsequent proceedings in such appeal, action or proceeding shall be conducted in accordance with the laws in force on the effective date of this article until superseded in the manner authorized by law",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "Except to the extent inconsistent with the provisions of this article"
+          ],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a6-s36-a": {
+    "review": {
+      "plain": "The 1976 amendments to articles six and seven become part of the constitution on the January 1 after the people approve them, but take effect the following April 1. Court of appeals judges then in office serve out their terms; vacancies are filled under section two of article six.",
+      "category": "The Courts",
+      "kind": "Structure",
+      "rights": [],
+      "powers": [],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "The amendments to the provisions of sections two, four, seven, eight, eleven, twenty, twenty-two, twenty-six, twenty-eight, twenty-nine and thirty of article six and to the provisions of section one of article seven, as first proposed by a concurrent resolution passed by the legislature in the year nineteen hundred seventy-six, shall become a part of the constitution on the first day of January next after the approval and ratification of the amendments proposed by such concurrent resolution by the people",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "the provisions thereof shall not become operative and the repeal of subdivision c of section two, section twenty-two and section twenty-eight shall not become effective until the first day of April next thereafter which date shall be deemed the effective date of such amendments",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "the chief judge and the associate judges of the court of appeals in office on such effective date shall hold their offices until the expiration of their respective terms",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "Upon a vacancy in the office of any such judge, such vacancy shall be filled in the manner provided in section two of article six",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "Upon a vacancy in the office of any such judge"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a6-s36-c": {
+    "review": {
+      "plain": "The 1974 amendments to section twenty-two of article six become part of the constitution on the January 1 after the people approve them, but do not become operative until the following September 1, the effective date of the amendments.",
+      "category": "The Courts",
+      "kind": "Structure",
+      "rights": [],
+      "powers": [],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "The amendments to the provisions of section twenty-two of article six as first proposed by a concurrent resolution passed by the legislature in the year nineteen hundred seventy-four shall become a part of the constitution on the first day of January next after the approval and ratification of the amendments proposed by such concurrent resolution by the people but the provisions thereof shall not become operative until the first day of September next thereafter which date shall be deemed the effective date of such amendments",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a6-s37": {
+    "review": {
+      "plain": "This article becomes part of the constitution on the January 1 after the people approve it, but its provisions do not become operative until the following September 1, which is its effective date.",
+      "category": "The Courts",
+      "kind": "Structure",
+      "rights": [],
+      "powers": [],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "This article shall become a part of the constitution on the first day of January next after the approval and ratification of this amendment by the people but its provisions shall not become operative until the first day of September next thereafter which date shall be deemed the effective date of this article",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s1": {
+    "review": {
+      "plain": "Department heads, except the legislature and judiciary, must give the governor budget estimates and information, and the governor holds hearings on them. The legislature's and judiciary's itemized estimates go to the governor by December 1 for inclusion in the budget without revision.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Duty",
+      "rights": [
+        "shall be entitled to attend the hearings thereon and to make inquiry concerning any part thereof"
+      ],
+      "powers": [
+        "may require the attendance of heads of departments and their subordinates"
+      ],
+      "limits": [
+        "for inclusion in the budget without revision"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "For the preparation of the budget, the head of each department of state government, except the legislature and judiciary, shall furnish the governor such estimates and information in such form and at such times as the governor may require, copies of which shall forthwith be furnished to the appropriate committees of the legislature",
+          "holder": null,
+          "binds": "The head of each department of state government",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "except the legislature and judiciary"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "The governor shall hold hearings thereon",
+          "holder": null,
+          "binds": "The governor",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "the governor may require the attendance of heads of departments and their subordinates",
+          "holder": "The governor",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "right",
+          "what": "Designated representatives of such committees shall be entitled to attend the hearings thereon and to make inquiry concerning any part thereof",
+          "holder": "Designated representatives of the appropriate committees of the legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "Itemized estimates of the financial needs of the legislature, certified by the presiding officer of each house, and of the judiciary, approved by the court of appeals and certified by the chief judge of the court of appeals, shall be transmitted to the governor not later than the first day of December in each year for inclusion in the budget without revision but with such recommendations as the governor may deem proper",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "certified by the presiding officer of each house",
+            "approved by the court of appeals and certified by the chief judge of the court of appeals",
+            "not later than the first day of December in each year"
+          ],
+          "forbids": [
+            "Revision of the estimates for inclusion in the budget"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "Copies of the itemized estimates of the financial needs of the judiciary also shall forthwith be transmitted to the appropriate committees of the legislature",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s2": {
+    "review": {
+      "plain": "Each year, by a set date, the governor must submit to the legislature a budget with a complete plan of proposed expenditures and estimated available moneys and revenues, an explanation of the estimates, and recommended legislation.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Duty",
+      "rights": [],
+      "powers": [],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "Annually, the governor shall submit to the legislature a budget containing a complete plan of expenditures proposed to be made before the close of the ensuing fiscal year and all moneys and revenues estimated to be available therefor, together with an explanation of the basis of such estimates and recommendations as to proposed legislation, if any, which the governor may deem necessary to provide moneys and revenues sufficient to meet such proposed expenditures",
+          "holder": null,
+          "binds": "The governor",
+          "requires": [
+            "on or before the first day of February in each year following the year fixed by the constitution for the election of governor and lieutenant governor",
+            "on or before the second Tuesday following the first day of the annual meeting of the legislature, in all other years"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "It shall also contain such other recommendations and information as the governor may deem proper and such additional information as may be required by law",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s3": {
+    "review": {
+      "plain": "With the budget, the governor must submit bills containing all proposed appropriations and recommended legislation, and may amend or supplement it within thirty days, or later with the legislature's consent. The governor and department heads may appear and be heard on the budget, and department heads must when requested.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Duty",
+      "rights": [
+        "shall have the right"
+      ],
+      "powers": [
+        "amend or supplement the budget and submit amendments to any bills submitted by him or her or submit supplemental bills"
+      ],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "At the time of submitting the budget to the legislature the governor shall submit a bill or bills containing all the proposed appropriations and reappropriations included in the budget and the proposed legislation, if any, recommended therein",
+          "holder": null,
+          "binds": "The governor",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The governor may at any time within thirty days thereafter and, with the consent of the legislature, at any time before the adjournment thereof, amend or supplement the budget and submit amendments to any bills submitted by him or her or submit supplemental bills",
+          "holder": "The governor",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "within thirty days thereafter",
+            "with the consent of the legislature, at any time before the adjournment thereof"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "right",
+          "what": "The governor and the heads of departments shall have the right to appear and be heard in respect to the budget during the consideration thereof, and to answer inquiries relevant thereto",
+          "holder": "The governor and the heads of departments",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "it shall be the duty of the heads of departments when requested by either house of the legislature or an appropriate committee thereof, to appear and be heard in respect to the budget during the consideration thereof, and to answer inquiries relevant thereto",
+          "holder": null,
+          "binds": "The heads of departments",
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "when requested by either house of the legislature or an appropriate committee thereof"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "The procedure for such appearances and inquiries shall be provided by law",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s4": {
+    "review": {
+      "plain": "The legislature may not alter the governor's appropriation bills except to strike out or reduce items, but may add separately stated items. Once passed by both houses, such a bill becomes law without the governor, except legislative and judiciary appropriations and added items, which need the governor's approval.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [
+        "it may add thereto items of appropriation"
+      ],
+      "limits": [
+        "may not alter an appropriation bill submitted by the governor except to strike out or reduce items therein"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "The legislature may not alter an appropriation bill submitted by the governor except to strike out or reduce items therein",
+          "holder": null,
+          "binds": "The legislature",
+          "requires": [],
+          "forbids": [
+            "Altering an appropriation bill submitted by the governor"
+          ],
+          "conditions": [],
+          "exceptions": [
+            "except to strike out or reduce items therein",
+            "None of the restrictions of this section, however, shall apply to appropriations for the legislature or judiciary"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "it may add thereto items of appropriation provided that such additions are stated separately and distinctly from the original items of the bill and refer each to a single object or purpose",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [
+            "such additions are stated separately and distinctly from the original items of the bill",
+            "refer each to a single object or purpose"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "Such an appropriation bill shall when passed by both houses be a law immediately without further action by the governor",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "when passed by both houses"
+          ],
+          "exceptions": [
+            "appropriations for the legislature and judiciary and separate items added to the governor's bills by the legislature shall be subject to approval of the governor as provided in section 7 of article IV"
+          ],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s5": {
+    "review": {
+      "plain": "Neither house may consider any other appropriation bill until both houses have finally acted on all the governor's appropriation bills, unless the governor certifies that immediate passage is necessary.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [],
+      "limits": [
+        "Neither house of the legislature shall consider any other bill making an appropriation"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "Neither house of the legislature shall consider any other bill making an appropriation until all the appropriation bills submitted by the governor shall have been finally acted on by both houses",
+          "holder": null,
+          "binds": "Each house of the legislature",
+          "requires": [],
+          "forbids": [
+            "Considering any other bill making an appropriation until all the appropriation bills submitted by the governor have been finally acted on by both houses"
+          ],
+          "conditions": [],
+          "exceptions": [
+            "except on message from the governor certifying to the necessity of the immediate passage of such a bill"
+          ],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s6": {
+    "review": {
+      "plain": "Apart from the governor's bills and a supplemental bill for the support of government, appropriations must be made by separate bills each for a single object or purpose. Provisions in the governor's appropriation bills must relate specifically to a particular appropriation.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [],
+      "limits": [
+        "no appropriations shall be made except by separate bills each for a single object or purpose",
+        "No provision shall be embraced in any appropriation bill submitted by the governor or in such supplemental appropriation bill unless it relates specifically to some particular appropriation in the bill"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "no appropriations shall be made except by separate bills each for a single object or purpose",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "separate bills each for a single object or purpose"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "Except for appropriations contained in the bills submitted by the governor and in a supplemental appropriation bill for the support of government"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "All such bills and such supplemental appropriation bill shall be subject to the governor's approval as provided in section 7 of article IV",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "No provision shall be embraced in any appropriation bill submitted by the governor or in such supplemental appropriation bill unless it relates specifically to some particular appropriation in the bill, and any such provision shall be limited in its operation to such appropriation",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "relates specifically to some particular appropriation in the bill",
+            "shall be limited in its operation to such appropriation"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s7": {
+    "review": {
+      "plain": "No money may be paid out of the state treasury or its funds except under an appropriation by law, and only within two years after the appropriation act passes. Each appropriation law must specify the sum and its object or purpose.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [],
+      "limits": [
+        "No money shall ever be paid out of the state treasury or any of its funds, or any of the funds under its management, except in pursuance of an appropriation by law",
+        "it shall not be sufficient for such law to refer to any other law to fix such sum"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "No money shall ever be paid out of the state treasury or any of its funds, or any of the funds under its management, except in pursuance of an appropriation by law; nor unless such payment be made within two years next after the passage of such appropriation act",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Paying money out of the state treasury or its funds except in pursuance of an appropriation by law",
+            "Payment later than two years next after the passage of such appropriation act"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "every such law making a new appropriation or continuing or reviving an appropriation, shall distinctly specify the sum appropriated, and the object or purpose to which it is to be applied; and it shall not be sufficient for such law to refer to any other law to fix such sum",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "shall distinctly specify the sum appropriated, and the object or purpose to which it is to be applied"
+          ],
+          "forbids": [
+            "Referring to any other law to fix such sum"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s8": {
+    "review": {
+      "plain": "The state's money may not be given or loaned to private corporations, associations or undertakings, nor its credit to any individual or corporation, except for funds held for educational or mental health purposes. The legislature may still provide aid to the needy and others listed, and authorize loans to a public corporation to finance business facilities.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [
+        "providing for the aid, care and support of the needy",
+        "authorizing the loan of the money of the state to a public corporation"
+      ],
+      "limits": [
+        "The money of the state shall not be given or loaned to or in aid of any private corporation or association, or private undertaking",
+        "nor shall the credit of the state be given or loaned to or in aid of any individual, or public or private corporation or association, or private undertaking",
+        "shall not exceed sixty per centum of the cost of any such project",
+        "shall not exceed eighty per centum of the cost of any such project"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "1",
+          "kind": "limit",
+          "what": "The money of the state shall not be given or loaned to or in aid of any private corporation or association, or private undertaking; nor shall the credit of the state be given or loaned to or in aid of any individual, or public or private corporation or association, or private undertaking",
+          "holder": null,
+          "binds": "The state",
+          "requires": [],
+          "forbids": [
+            "Giving or loaning the money of the state to or in aid of any private corporation or association, or private undertaking",
+            "Giving or loaning the credit of the state to or in aid of any individual, or public or private corporation or association, or private undertaking"
+          ],
+          "conditions": [],
+          "exceptions": [
+            "the foregoing provisions shall not apply to any fund or property now held or which may hereafter be held by the state for educational, mental health or mental retardation purposes"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "2",
+          "kind": "power",
+          "what": "nothing in this constitution contained shall prevent the legislature from providing for the aid, care and support of the needy directly or through subdivisions of the state; or for the protection by insurance or otherwise, against the hazards of unemployment, sickness and old age; or for the education and support of the blind, the deaf, the dumb, the physically handicapped, the mentally ill, the emotionally disturbed, the mentally retarded or juvenile delinquents as it may deem proper; or for health and welfare services for all children; or for the aid, care and support of neglected and dependent children and of the needy sick, through agencies and institutions authorized by the state board of social welfare or other state department having the power of inspection thereof, by payments made on a per capita basis; or for the increase in the amount of pensions of any member of a retirement system of the state, or of a subdivision of the state; or for an increase in the amount of pension benefits of any widow or widower of a retired member of a retirement system of the state or of a subdivision of the state to whom payable as beneficiary under an optional settlement in connection with the pension of such member",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "Subject to the limitations on indebtedness and taxation"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "2",
+          "kind": "structure",
+          "what": "The enumeration of legislative powers in this paragraph shall not be taken to diminish any power of the legislature hitherto existing",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "3",
+          "kind": "power",
+          "what": "Nothing in this constitution contained shall prevent the legislature from authorizing the loan of the money of the state to a public corporation to be organized for the purpose of making loans to non-profit corporations or for the purpose of guaranteeing loans made by banking organizations to finance the construction of new industrial or manufacturing plants, the construction of new buildings to be used for research and development, the construction of other eligible business facilities, and for the purchase of machinery and equipment related to such new industrial or manufacturing plants, research and development buildings, and other eligible business facilities in this state or the acquisition, rehabilitation or improvement of former or existing industrial or manufacturing plants, buildings to be used for research and development, other eligible business facilities, and machinery and equipment in this state, including the acquisition of real property therefor, and the use of such money by such public corporation for such purposes, to improve employment opportunities in any area of the state",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [
+            "any loan by such public corporation shall not exceed sixty per centum of the cost of any such project",
+            "the repayment of which shall be secured by a mortgage thereon which shall not be a junior encumbrance thereon by more than fifty per centum of such cost or by a security interest if personalty",
+            "the amount of any guarantee of a loan made by a banking organization shall not exceed eighty per centum of the cost of any such project"
+          ],
+          "forbids": [
+            "plants, buildings or facilities or machinery and equipment primarily used in making retail sales of goods or services to customers who personally visit such facilities to obtain such goods or services",
+            "plants, buildings or facilities or machinery and equipment used primarily as a hotel, apartment house or other place of business which furnishes dwelling space or accommodations to either residents or transients"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [
+            "\"banking organizations\": as that term shall be defined by the legislature"
+          ],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s9": {
+    "review": {
+      "plain": "The state may borrow in anticipation of taxes and revenues within appropriations, repaying within one year, and in anticipation of proceeds of authorized bonds, repaying within two years, or five years for bonds for article eighteen purposes.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Power",
+      "rights": [],
+      "powers": [
+        "The state may contract debts in anticipation of the receipt of taxes and revenues",
+        "The state may also contract debts in anticipation of the receipt of the proceeds of the sale of bonds theretofore authorized"
+      ],
+      "limits": []
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The state may contract debts in anticipation of the receipt of taxes and revenues, direct or indirect, for the purposes and within the amounts of appropriations theretofore made",
+          "holder": "The state",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "for the purposes and within the amounts of appropriations theretofore made"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "Notes or other obligations for the moneys so borrowed shall be issued as may be provided by law, and shall with the interest thereon be paid from such taxes and revenues within one year from the date of issue",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "paid from such taxes and revenues within one year from the date of issue"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The state may also contract debts in anticipation of the receipt of the proceeds of the sale of bonds theretofore authorized, for the purpose and within the amounts of the bonds so authorized",
+          "holder": "The state",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "for the purpose and within the amounts of the bonds so authorized"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "Notes or obligations for the money so borrowed shall be issued as may be provided by law, and shall with the interest thereon be paid from the proceeds of the sale of such bonds within two years from the date of issue",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "paid from the proceeds of the sale of such bonds within two years from the date of issue"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "except as to bonds issued or to be issued for any of the purposes authorized by article eighteen of this constitution, in which event the notes or obligations shall with the interest thereon be paid from the proceeds of the sale of such bonds within five years from the date of issue"
+          ],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s10": {
+    "review": {
+      "plain": "The state may also borrow to repel invasion, suppress insurrection, defend the state in war or suppress forest fires, but the money must be used only for that purpose or to repay the debts.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Power",
+      "rights": [],
+      "powers": [
+        "the state may contract debts to repel invasion, suppress insurrection, or defend the state in war, or to suppress forest fires"
+      ],
+      "limits": [
+        "and to no other purpose whatever"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "power",
+          "what": "the state may contract debts to repel invasion, suppress insurrection, or defend the state in war, or to suppress forest fires",
+          "holder": "The state",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "the money arising from the contracting of such debts shall be applied for the purpose for which it was raised, or to repay such debts, and to no other purpose whatever",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Applying the money to any other purpose"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s11": {
+    "review": {
+      "plain": "Apart from debts under sections 9, 10 and 13, state debt must be authorized by law for a single specified work or purpose and approved by a majority of voters at a general election. The legislature may repeal such a law before any debt is contracted, or forbid further debt under it.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [
+        "repeal the same",
+        "forbid the contracting of any further debt or liability under such law"
+      ],
+      "limits": [
+        "no debt shall be hereafter contracted by or in behalf of the state, unless such debt shall be authorized by law, for some single work or purpose",
+        "No such law shall take effect until it shall, at a general election, have been submitted to the people"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "no debt shall be hereafter contracted by or in behalf of the state, unless such debt shall be authorized by law, for some single work or purpose, to be distinctly specified therein",
+          "holder": null,
+          "binds": "The state",
+          "requires": [
+            "authorized by law, for some single work or purpose, to be distinctly specified therein"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "Except the debts or refunding debts specified in sections 9, 10 and 13 of this article"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "No such law shall take effect until it shall, at a general election, have been submitted to the people, and have received a majority of all the votes cast for and against it at such election nor shall it be submitted to be voted on within three months after its passage nor at any general election when any other law or any bill shall be submitted to be voted for or against",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "submitted to the people at a general election",
+            "received a majority of all the votes cast for and against it at such election"
+          ],
+          "forbids": [
+            "Submitting it to be voted on within three months after its passage",
+            "Submitting it at any general election when any other law or any bill shall be submitted to be voted for or against"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The legislature may, at any time after the approval of such law by the people, if no debt shall have been contracted in pursuance thereof, repeal the same",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "if no debt shall have been contracted in pursuance thereof"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The legislature may at any time, by law, forbid the contracting of any further debt or liability under such law",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s12": {
+    "review": {
+      "plain": "Apart from debts under sections 9, 10 and 13, state debts must follow set rules: principal paid in installments or through sinking funds, first payment within one year and last within forty years, no term beyond the probable life of the work, proceeds used only for the stated purpose, and sinking funds managed by the comptroller.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Limit",
+      "rights": [],
+      "powers": [],
+      "limits": [
+        "No such debt shall be contracted for a period longer than that of the probable life of the work or purpose",
+        "shall be applied only to the work or purpose specified in the act authorizing such debt or liability",
+        "shall be used solely for the purpose of retiring the obligations secured thereby"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "all debts contracted by the state and each portion of any such debt from time to time so contracted shall be subject to the following rules",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "Except the debts or refunding debts specified in sections 9, 10 and 13 of this article"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "1",
+          "kind": "duty",
+          "what": "The principal of each debt or any portion thereof shall either be paid in equal annual installments or in installments that result in substantially level or declining debt service payments such as shall be authorized by law, or, in the alternative, contributions of principal in the amount that would otherwise be required to be paid annually shall be made to a sinking fund",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "2",
+          "kind": "duty",
+          "what": "the entire debt shall be structured so that the combined amount of annual installments of principal paid and/or annual contributions of principal made in each year shall be equal to the amount that would be required to be paid if the entire debt were payable in annual installments",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "When some portions of the same debt are payable annually while other portions require contributions to a sinking fund"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "3",
+          "kind": "duty",
+          "what": "there shall also be contributed to a sinking fund at least annually, the amount necessary to bring the balance thereof, including income earned on contributions, to the accreted value of the obligations to be paid therefrom on the date such contribution is made, less the sum of all required future contributions of principal, in the case of sinking fund obligations, or payments of principal, in the case of serial obligations",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "When interest on state obligations is not paid at least annually"
+          ],
+          "exceptions": [
+            "nothing contained in this subdivision shall be deemed to require contributions for interest to sinking funds if total debt service due on the debt or portion thereof in the year such interest is due will be substantially the same as the total debt service due on such debt or portion thereof in each other year or if the total amount of debt service due in each subsequent year on such debt or portion thereof shall be less than the total debt service due in each prior year"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "4",
+          "kind": "duty",
+          "what": "The first annual installment on such debt shall be paid, or the first annual contribution shall be made to a sinking fund, not more than one year, and the last installment shall be paid, or contribution made not more than forty years, after such debt or portion thereof shall have been contracted",
+          "holder": null,
+          "binds": null,
+          "requires": [
+            "first annual installment or contribution not more than one year after such debt shall have been contracted",
+            "last installment or contribution not more than forty years after such debt shall have been contracted"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "4",
+          "kind": "power",
+          "what": "in contracting any such debt the privilege of paying all or any part of such debt prior to the date on which the same shall be due may be reserved to the state in such manner as may be provided by law",
+          "holder": "The state",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "5",
+          "kind": "limit",
+          "what": "No such debt shall be contracted for a period longer than that of the probable life of the work or purpose for which the debt is to be contracted, or in the alternative, the weighted average period of probable life of the works or purposes for which such indebtedness is to be contracted",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Contracting such debt for a period longer than that of the probable life of the work or purpose, or the weighted average period of probable life of the works or purposes"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "5",
+          "kind": "structure",
+          "what": "The probable lives of such works or purposes shall be determined by general laws, which determination shall be conclusive",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "6",
+          "kind": "limit",
+          "what": "The money arising from any loan creating such debt or liability shall be applied only to the work or purpose specified in the act authorizing such debt or liability, or for the payment of such debt or liability, including any notes or obligations issued in anticipation of the sale of bonds evidencing such debt or liability",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Applying the money to any other work or purpose"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "7",
+          "kind": "duty",
+          "what": "Any sinking funds created pursuant to this section shall be maintained and managed by the state comptroller or an agent or trustee designated by the state comptroller",
+          "holder": null,
+          "binds": "The state comptroller",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "7",
+          "kind": "limit",
+          "what": "amounts in sinking funds created pursuant to this section, and earnings thereon, shall be used solely for the purpose of retiring the obligations secured thereby",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "amounts in excess of the required balance on any contribution date and amounts remaining in such funds after all of the obligations secured thereby have been retired shall be deposited in the general fund"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "8",
+          "kind": "structure",
+          "what": "No appropriation shall be required for disbursement of money, or income earned thereon, from any sinking fund created pursuant to this section for the purpose of paying principal of and interest on the obligations for which such fund was created",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "interest shall be paid from any such fund only if, and to the extent that, it is not payable annually and contributions on account of such interest were made thereto"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "9",
+          "kind": "structure",
+          "what": "The provisions of section 15 of this article shall not apply to sinking funds created pursuant to this section",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "10",
+          "kind": "structure",
+          "what": "When state obligations are sold at a discount, the debt incurred for purposes of determining the amount of debt issued or outstanding pursuant to a voter approved bond referendum or other limitation on the amount of debt that may be issued or outstanding for a work or purpose shall be deemed to include only the amount of money actually received by the state notwithstanding the face amount of such obligations",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "When state obligations are sold at a discount"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s13": {
+    "review": {
+      "plain": "The legislature may provide for refunding state debts when the refunding achieves a present-value debt service savings. Refunding obligations may not exceed what the refunding needs, proceeds go into escrow funds managed by the comptroller, and installments, maturities and sinking funds follow set rules.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Power",
+      "rights": [],
+      "powers": [
+        "may provide means and authority whereby any state debt or debts, or any portion or combination thereof, may be refunded",
+        "may provide for the method of computation of present value for such purpose"
+      ],
+      "limits": [
+        "no maturity shall be called for redemption unless the privilege to pay prior to the maturity date was reserved to the state",
+        "In no event shall refunding obligations be issued in an amount exceeding that necessary",
+        "shall the proceeds of refunding obligations be applied to any purpose other than accomplishing the refunding of the debt to be refunded and paying costs and expenses related to the refunding"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The legislature may provide means and authority whereby any state debt or debts, or any portion or combination thereof, may be refunded in accordance with the following provisions",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "1",
+          "kind": "structure",
+          "what": "State debts may be refunded at any time after they are incurred provided that the state will achieve a debt service savings on a present value basis as a result of the refunding transaction",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "provided that the state will achieve a debt service savings on a present value basis as a result of the refunding transaction"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "1",
+          "kind": "limit",
+          "what": "no maturity shall be called for redemption unless the privilege to pay prior to the maturity date was reserved to the state",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Calling a maturity for redemption unless the privilege to pay prior to the maturity date was reserved to the state"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "1",
+          "kind": "power",
+          "what": "The legislature may provide for the method of computation of present value for such purpose",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "2",
+          "kind": "limit",
+          "what": "In no event shall refunding obligations be issued in an amount exceeding that necessary to provide sufficient funds to accomplish the refunding of the obligations to be refunded including paying all costs and expenses related to the refunding transaction and, in no event, shall the proceeds of refunding obligations be applied to any purpose other than accomplishing the refunding of the debt to be refunded and paying costs and expenses related to the refunding",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Issuing refunding obligations in an amount exceeding that necessary to accomplish the refunding",
+            "Applying the proceeds of refunding obligations to any other purpose"
+          ],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "3",
+          "kind": "duty",
+          "what": "Proceeds of refunding obligations shall be deposited in escrow funds which shall be maintained and managed by the state comptroller or by an agent or trustee designated by the state comptroller",
+          "holder": null,
+          "binds": "The state comptroller",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "3",
+          "kind": "structure",
+          "what": "no legislative appropriation shall be required for disbursement of money, or income earned thereon, from such escrow funds for the purposes enumerated in this section",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "4",
+          "kind": "power",
+          "what": "Refunding obligations may be refunded pursuant to this section",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "5",
+          "kind": "duty",
+          "what": "Refunding obligations shall either be paid in annual installments or annual contributions shall be made to a sinking fund in amounts sufficient to retire the refunding obligations at their maturity",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "No annual installments or contributions of principal need be made with respect to all or any portion of an issue of refunding obligations in years when debt service on such refunding obligations or portion thereof is paid or contributed entirely from an escrow fund created pursuant to subdivision 3 of this section or in years when no installments or contributions would have been due on the obligations to be refunded"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "5",
+          "kind": "duty",
+          "what": "So long as any of the refunding obligations remain outstanding, installments or contributions shall be made in any years that installments or contributions would have been due on the obligations to be refunded",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "So long as any of the refunding obligations remain outstanding"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "6",
+          "kind": "limit",
+          "what": "In no event shall the last annual installment or contribution on any portion of refunding debt be made after the termination of the period of probable life of the projects financed with the proceeds of the relevant portion of the debt to be refunded, or any debt previously refunded with the refunding obligations to be refunded, determined as of the date of issuance of the original obligations pursuant to section 12 of this article to finance such projects, or forty years from such date, if earlier",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [
+            "Making the last annual installment or contribution after the period of probable life of the projects, or forty years from the date of issuance of the original obligations, if earlier"
+          ],
+          "conditions": [],
+          "exceptions": [
+            "in lieu of the foregoing, an entire refunding issue or portion thereof may be structured to mature over the remaining weighted average useful life of all projects financed with the obligations being refunded"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "7",
+          "kind": "duty",
+          "what": "each annual installment or contribution of principal of refunding obligations shall be equal to the amount that would be required by subdivision 1 of section 12 of this article if such installments or contributions were required to be made from the year that the next installment or contribution would have been due on the obligations to be refunded, if they had not been refunded, until the final maturity of the refunding obligations but excluding any year in which no installment or contribution would have been due on the obligations to be refunded or, in the alternative, the total payments of principal and interest on the refunding bonds shall be less in each year to their final maturity than the total payments of principal and interest on the bonds to be refunded in each such year",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [
+            "Subject to the provisions of subdivision 5 of this section"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "8",
+          "kind": "structure",
+          "what": "The provisions of subdivision 3 and subdivisions 7 through 9 of section 12 of this article shall apply to sinking funds created pursuant to this section for the payment at maturity of refunding obligations",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  },
+  "a7-s14": {
+    "review": {
+      "plain": "The legislature may authorize up to three hundred million dollars of state debt, without a vote of the people, to eliminate railroad grade crossings. The section sets how elimination costs are shared with railroad companies and municipalities, and lets up to sixty million dollars of bond proceeds go to state highways and parkways.",
+      "category": "Taxes, Money & Commerce",
+      "kind": "Power",
+      "rights": [],
+      "powers": [
+        "may authorize by law the creation of a debt or debts of the state",
+        "shall be entitled to recover from the railroad company or companies",
+        "is hereby authorized to appropriate"
+      ],
+      "limits": [
+        "shall not exceed the difference between the amount of the debt or debts heretofore created or authorized by law",
+        "in no event to exceed fifteen per centum of the expense of the elimination"
+      ]
+    },
+    "elements": {
+      "provisions": [
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The legislature may authorize by law the creation of a debt or debts of the state, not exceeding in the aggregate three hundred million dollars, to provide moneys for the elimination, under state supervision, of railroad crossings at grade within the state, and for incidental improvements connected therewith as authorized by this section",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [
+            "not exceeding in the aggregate three hundred million dollars"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "The provisions of this article, not inconsistent with this section, relating to the issuance of bonds for a debt or debts of the state and the maturity and payment thereof, shall apply to a state debt or debts created pursuant to this section",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [
+            "the law authorizing the contracting of such debt or debts shall take effect without submission to the people pursuant to section 11 of this article"
+          ],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "The aggregate amount of a state debt or debts which may be created pursuant to this section shall not exceed the difference between the amount of the debt or debts heretofore created or authorized by law, under the provisions of section 14 of article VII of the constitution in force on July first, nineteen hundred thirty-eight, and the sum of three hundred million dollars",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "duty",
+          "what": "The expense of any grade crossing elimination the construction work for which was not commenced before January first, nineteen hundred thirty-nine, including incidental improvements connected therewith, shall be paid by the state in the first instance",
+          "holder": null,
+          "binds": "The state",
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "the state shall be entitled to recover from the railroad company or companies, by way of reimbursement (1) the entire amount of the railroad improvements not an essential part of elimination, and (2) the amount of the net benefit to the company or companies from the elimination exclusive of such railroad improvements",
+          "holder": "The state",
+          "binds": "The railroad company or companies",
+          "requires": [
+            "the amount of such net benefit to be adjudicated after the completion of the work in the manner to be prescribed by law",
+            "in no event to exceed fifteen per centum of the expense of the elimination, exclusive of all incidental improvements"
+          ],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "The reimbursement by the railroad companies shall be payable at such times, in such manner and with interest at such rate as the legislature may prescribe",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "The expense of any grade crossing elimination the construction work for which was commenced before January first, nineteen hundred thirty-nine, shall be borne by the state, railroad companies, and the municipality or municipalities in the proportions formerly prescribed by section 14 of article VII of the constitution in force on July first, nineteen hundred thirty-eight, and the law or laws enacted pursuant to its provisions, applicable to such elimination",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "structure",
+          "what": "A grade crossing elimination the construction work for which shall be commenced after January first, nineteen hundred thirty-nine, shall include incidental improvements rendered necessary or desirable because of such elimination, and reasonably included in the engineering plans therefor",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "limit",
+          "what": "fifty million dollars shall be deemed segregated for grade crossing eliminations and incidental improvements in the city of New York and shall be available only for such purposes until such eliminations and improvements are completed and paid for",
+          "holder": null,
+          "binds": null,
+          "requires": [],
+          "forbids": [],
+          "conditions": [],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        },
+        {
+          "where": "",
+          "kind": "power",
+          "what": "the legislature is hereby authorized to appropriate, out of the proceeds of bonds now or hereafter sold to provide moneys for the elimination of railroad crossings at grade and incidental improvements pursuant to this section, sums not exceeding in the aggregate sixty million dollars for the construction and reconstruction of state highways and parkways",
+          "holder": "The legislature",
+          "binds": null,
+          "requires": [
+            "sums not exceeding in the aggregate sixty million dollars"
+          ],
+          "forbids": [],
+          "conditions": [
+            "Notwithstanding any of the foregoing provisions of this section"
+          ],
+          "exceptions": [],
+          "terms": [],
+          "changedBy": []
+        }
+      ]
+    }
+  }
+}

@@ -497,6 +497,9 @@
     'Organized Crime & Racketeering', 'Gambling & Obscenity', 'Family & Children', 'Transportation & Aviation', 'Animals & Wildlife'];
   if (CON) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections',
     'Equality & Citizenship', 'Congress', 'The Presidency', 'The Courts', 'States & Federalism', 'Taxes, Money & Commerce', 'War & Military', 'Amending & Ratifying');
+  if (CON && NY) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections', 'Equality & Citizenship',
+    'The Legislature', 'The Governor & Executive', 'The Courts', 'Local Government', 'Taxes, Money & Commerce', 'Education', 'Military & Defense',
+    'Conservation & Natural Resources', 'Social Welfare, Health & Housing', 'Public Officers & Civil Service', 'Amending & Ratifying');
   if (CON && MA) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections', 'Equality & Citizenship',
     'The Legislature', 'The Governor & Executive', 'The Courts', 'Local Government', 'Taxes, Money & Commerce', 'Education & Religion', 'Military & Militia', 'Amending & Ratifying');
 
@@ -718,9 +721,14 @@
     const btn = `<button type="button" class="term" data-k="${esc((mm[1] || mm[2] || mm[3]).toLowerCase())}" data-label="${esc(info?.label || '')}" data-def="${esc(info?.def || '')}"><span class="pen">${esc(mm[0])}</span></button>`;
     return `${esc(t.slice(0, mm.index))}<span class="penp">${btn}</span>${esc(t.slice(mm.index + mm[0].length))}`;
   }
+  // New York Constitution: article numbers are spelled out ("article seven") or Roman.
+  const NYC_WORDS = 'one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty'.split(' ');
+  const NYC_ROMANS = 'I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX XX'.split(' ');
+  const NYC_ART = [...NYC_WORDS].reverse().join('|') + '|' + [...NYC_ROMANS].reverse().join('|');
   const RX = new RegExp([
     String.raw`(?<uscT>\d+)\s+U\.S\.C\.\s+(?<uscS>\d+[a-zA-Z]*(?:[–-]\d+)?)(?<uscP>(?:\([A-Za-z0-9]+\))*)`,
-    ...(CON && MA ? [String.raw`(?<maAm>Amendments?,\s+Arts?\.\s*(?<maAmList>[IVXLC]+(?:(?:,\s*(?:and\s+)?|\s+and\s+)[IVXLC]+)*))`]
+    ...(CON && NY ? [String.raw`(?<nyc>(?:[Ss]ection\s+(?<nycS>\d+(?:-[a-z])?)\s+of\s+)?(?:[Aa]rticle\s+(?<nycA>${NYC_ART})|this\s+article(?<nycThis>))(?:\s+of\s+this\s+constitution)?)(?![\w-])`]
+      : CON && MA ? [String.raw`(?<maAm>Amendments?,\s+Arts?\.\s*(?<maAmList>[IVXLC]+(?:(?:,\s*(?:and\s+)?|\s+and\s+)[IVXLC]+)*))`]
       : CON ? [String.raw`(?<conAm>(?:(?<conPartW>clause|section)\s+(?<conPart>\d+)\s+of\s+)?(?:the\s+)?amendment\s+(?<conAmN>[IVX]+)\b)`]
       : MA ? MA_CITES : CA ? CA_CITES : NY ? NY_CITES : [
       String.raw`(?<![A-Za-z])(?<stW>[Ss]ection)\s+(?<stS>\d+[A-Za-z]*)(?<stP>(?:\([A-Za-z0-9]+\))*)\s+of\s+title\s+(?<stT>\d+)`,
@@ -775,6 +783,7 @@
       const g = m.groups, raw = esc(m[0]);
       if (g.uscT) out += xref(g.uscT, g.uscS, raw);
       else if (g.conAm) out += conLink(g.conAmN, g.conPartW, g.conPart, raw);
+      else if (g.nyc) out += nycLink(g.nycS, g.nycA, g.nycThis !== undefined, raw);
       else if (g.maAm) out += esc(m[0]).replace(/\b[IVXLC]+\b/g, rn => maAmLink(rn));
       else if (g.caChS) {   // "Chapter 1 (commencing with Section 187) of …": the chapter's first section, in whichever code owns it
         const ahead2 = ahead(last, 300), own = caOwner(ahead2.slice(ahead2.match(CA_CHAIN)[0].length));
@@ -845,6 +854,13 @@
     const id = partW && /section/i.test(partW) && bySection.has(`${base}-s${part}`) ? `${base}-s${part}` : bySection.has(base) ? base : `${base}-s1`;
     return bySection.has(id) || !bySection.size ? `<a class="xref" href="${PAGE_DIR}${id}.html" title="Amendment ${roman}">${raw}</a>` : raw;
   }
+  // New York: "section 6 of article seven", "article three of this constitution", "section 5 of this article" → that section on this site.
+  function nycLink(sec, art, isThis, raw) {
+    const n = isThis ? +currentChapter : NYC_WORDS.includes((art || '').toLowerCase()) ? NYC_WORDS.indexOf(art.toLowerCase()) + 1 : NYC_ROMANS.indexOf(art) + 1;
+    if (!n) return raw;
+    const id = sec ? `a${n}-s${sec.toLowerCase()}` : [...bySection.keys()].find(k => k.startsWith(`a${n}-s`));
+    return id && bySection.has(id) && id !== currentSection ? `<a class="xref" href="${PAGE_DIR}${id}.html" title="Article ${NYC_ROMANS[n - 1]}${sec ? `, section ${sec}` : ''}">${raw}</a>` : raw;
+  }
   // Massachusetts: Article N of Amendments → its page (Article XLVIII → its first part).
   function maAmLink(rn) {
     const n = ROMAN_VAL(rn), id = bySection.has(`amend${n}`) ? `amend${n}` : [...bySection.keys()].find(k => k.startsWith(`amend${n}-`));
@@ -871,7 +887,7 @@
   // "chapter 109A" / "chapters 109A, 110, or 117" → GovInfo chapter pages, unless the chapter belongs to another law
   // ("chapter 53 of title 31", "chapter 7 of the … Act").
   const T18_PARTS = [[1, 123, 'I'], [201, 237, 'II'], [301, 319, 'III'], [401, 403, 'IV'], [601, 601, 'V']];
-  let currentChapter = null;  // chapter of the section being rendered, for "this chapter"
+  let currentChapter = null, currentSection = null;  // chapter of the section being rendered, for "this chapter"
   function chapterLink(num, label) {
     if (NY) return ART_IDS[num] ? `<a class="xref ext" href="${nyArtUrl(ART_IDS[num])}" target="_blank" rel="noopener" title="Penal Law article ${num} on nysenate.gov">${label}</a>` : label;
     if (CA) { const [t, ch] = String(num).includes(':') ? String(num).split(':') : ['8', num];   // keys are "<title>:<chapter>", e.g. "13:5"
@@ -1041,7 +1057,7 @@
   function statGroups(text) {
     const groups = [];
     for (const p of text) {
-      const startsTop = p.i === 0 && (CON ? /^\[\d+\]/ : NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
+      const startsTop = p.i === 0 && (CON && NY ? /^(?:\d+|[a-zA-Z])\.\s/ : CON ? /^\[\d+\]/ : NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
       if (!groups.length || startsTop) groups.push([]);
       groups[groups.length - 1].push(p);
     }
@@ -1137,7 +1153,7 @@
 
   // Card bodies (enriched official text + plain summary) are built on first open: ~800 sections is too much to render up front.
   function bodyHTML(c) {
-    currentChapter = c.chapter;
+    currentChapter = c.chapter; currentSection = c.section;
     return `
             ${(c.later || []).map(a => {
               const [cn, num] = a.law.split('-');
@@ -1150,7 +1166,7 @@
               <h3>Official text <span class="legend">${CON ? CON_LEGEND : `<span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span>`}</span></h3>
               <div class="stat">${statGroups(c.text)}</div>
               ${c.source ? `<p class="src"><b>${CON ? 'Proposal and ratification' : 'History'}:</b> ${enrich(c.source)}</p>` : ''}
-              ${c.footnotes.map(f => `<p class="fn">${CON ? `<b>Note (${MA ? 'Massachusetts Legislature' : 'Government Publishing Office'}):</b> ` : ''}${enrich(f)}</p>`).join('')}
+              ${c.footnotes.map(f => `<p class="fn">${CON ? `<b>Note (${MA ? 'Massachusetts Legislature' : NY ? 'New York State Senate' : 'Government Publishing Office'}):</b> ` : ''}${enrich(f)}</p>`).join('')}
             </div>
             ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(CON ? provisionsHTML(c) : elementsHTML(c))}
             </div>

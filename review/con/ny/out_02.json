@@ -1,0 +1,1918 @@
+{
+ "a2-s4": {
+  "review": {
+   "plain": "For the purpose of voting, no person gains or loses a residence by being present or absent while in the service of the United States, navigating the listed waters, a student, kept at an almshouse or other supported institution, or confined in a public prison.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no person shall be deemed to have gained or lost a residence"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "For the purpose of voting, no person shall be deemed to have gained or lost a residence, by reason of his or her presence or absence",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Deeming a person to have gained or lost a residence for the purpose of voting by reason of his or her presence or absence in the listed cases"
+     ],
+     "conditions": [
+      "while employed in the service of the United States",
+      "while engaged in the navigation of the waters of this state, or of the United States, or of the high seas",
+      "while a student of any seminary of learning",
+      "while kept at any almshouse, or other asylum, or institution wholly or partly supported at public expense or by charity",
+      "while confined in any public prison"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s5": {
+  "review": {
+   "plain": "Laws shall be made to ascertain by proper proofs which citizens are entitled to vote, and for registering voters, with registration completed at least ten days before each election. Registration is not required for town and village elections unless a law expressly provides it.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Such registration shall not be required for town and village elections"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Laws shall be made for ascertaining, by proper proofs, the citizens who shall be entitled to the right of suffrage hereby established, and for the registration of voters",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "which registration shall be completed at least ten days before each election"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such registration shall not be required for town and village elections",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring registration for town and village elections"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except by express provision of law"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s6": {
+  "review": {
+   "plain": "The legislature may by law set up registration systems under which a voter who applies in person stays registered as long as he or she remains qualified to vote from an address within the jurisdiction of the board where registered.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature may provide by law for a system or systems of registration"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide by law for a system or systems of registration whereby upon personal application a voter may be registered and his or her registration continued",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon personal application",
+      "so long as he or she shall remain qualified to vote from an address within the jurisdiction of the board with which such voter is registered"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s7": {
+  "review": {
+   "plain": "All elections by the citizens shall be by ballot or another method prescribed by law, keeping voting secret, except for certain town officers. The legislature shall provide for identifying voters by signature where personal registration is required, and for voters' signatures when voting in person.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "or by such other method as may be prescribed by law"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All elections by the citizens shall be by ballot, or by such other method as may be prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "provided that secrecy in voting be preserved"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for such town officers as may by law be directed to be otherwise chosen"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide for identification of voters through their signatures in all cases where personal registration is required",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "and shall also provide for the signatures, at the time of voting, of all persons voting in person by ballot or voting machine, whether or not they have registered in person",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "save only in cases of illiteracy or physical disability"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s8": {
+  "review": {
+   "plain": "Laws on boards or officers that qualify voters, distribute ballots, or receive, record or count votes shall secure equal representation of the two parties with the most votes at the preceding general election. The section does not apply to town or village elections.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "as the legislature may direct"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "All laws creating, regulating or affecting boards or officers charged with the duty of qualifying voters, or of distributing ballots to voters, or of receiving, recording or counting votes at elections, shall secure equal representation of the two political parties which, at the general election next preceding that for which such boards or officers are to serve, cast the highest and the next highest number of votes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "This section shall not apply to town, or village elections"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All such boards and officers shall be appointed or elected in such manner, and upon the nomination of such representatives of said parties respectively, as the legislature may direct",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Existing laws on this subject shall continue until the legislature shall otherwise provide",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s9": {
+  "review": {
+   "plain": "Despite section one's residence requirements, the legislature may by general law let certain recent movers, and registered voters who moved to another state within a year, vote here solely for presidential electors if they cannot qualify to vote for them elsewhere.",
+   "category": "Voting & Elections",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may, by general law, provide special procedures",
+    "The legislature may also, by general law, prescribe special procedures"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature may, by general law, provide special procedures whereby every person who shall have moved from another state to this state or from one county, city or village within this state to another county, city or village within this state and who shall have been an inhabitant of this state in any event for ninety days next preceding an election at which electors are to be chosen for the office of president and vice president of the United States shall be entitled to vote in this state solely for such electors",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the residence requirements imposed by section one of this article",
+      "provided such person is otherwise qualified to vote in this state and is not able to qualify to vote for such electors in any other state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may also, by general law, prescribe special procedures whereby every person who is registered and would be qualified to vote in this state but for his or her removal from this state to another state within one year next preceding such election shall be entitled to vote in this state solely for such electors",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided such person is not able to qualify to vote for such electors in any other state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s1": {
+  "review": {
+   "plain": "The legislative power of the state is vested in the senate and assembly.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislative power of this state shall be vested in the senate and assembly"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislative power of this state shall be vested in the senate and assembly",
+     "holder": "The senate and assembly",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s2": {
+  "review": {
+   "plain": "The senate has fifty members, except as later provided, and the assembly one hundred fifty. Senators are chosen for two years (those elected in 1895 served three), and assembly members are chosen for two years.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The senate shall consist of fifty members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as hereinafter provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The senators elected in the year one thousand eight hundred and ninety-five shall hold their offices for three years, and their successors shall be chosen for two years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The assembly shall consist of one hundred and fifty members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The assembly members elected in the year one thousand nine hundred and thirty-eight, and their successors, shall be chosen for two years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s3": {
+  "review": {
+   "plain": "The senate districts described in the constitution adopted on November 6, 1894 are continued for all purposes of future reapportionments of senate districts under section four.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The senate districts described in section three of article three of this constitution as adopted by the people on November sixth, eighteen hundred ninety-four are hereby continued for all of the purposes of future reapportionments of senate districts pursuant to section four of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s4": {
+  "review": {
+   "plain": "Federal census figures control legislative apportionment, with state enumerations when needed. An independent commission prepares redistricting plans that the legislature votes on under set rules. Districts must protect minority voting rights, be nearly equal, contiguous and compact, and not favor incumbents; public hearings are required.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [
+    "racial or minority language groups do not have less opportunity to participate in the political process than other members of the electorate and to elect representatives of their choice"
+   ],
+   "powers": [
+    "The legislature, by law, may provide in its discretion for an enumeration by state authorities of the inhabitants of the state",
+    "shall prepare a redistricting plan to establish senate, assembly, and congressional districts every ten years"
+   ],
+   "limits": [
+    "no block in a city inclosed by streets or public ways, shall be divided in the formation of senate districts",
+    "No county shall have more than one-third of all the senators",
+    "districts shall not be drawn to have the purpose of, nor shall they result in, the denial or abridgement of such rights",
+    "Districts shall not be drawn to discourage competition"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "the federal census taken in the year nineteen hundred thirty and each federal census taken decennially thereafter shall be controlling as to the number of inhabitants in the state or any part thereof for the purposes of the apportionment of members of assembly and readjustment or alteration of senate and assembly districts next occurring",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in so far as such census and the tabulation thereof purport to give the information necessary therefor"
+     ],
+     "exceptions": [
+      "Except as herein otherwise provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The legislature, by law, shall provide for the making and tabulation by state authorities of an enumeration of the inhabitants of the entire state to be used for such purposes, instead of a federal census",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the taking of a federal census in any tenth year from the year nineteen hundred thirty be omitted or if the federal census fails to show the number of aliens or Indians not taxed"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "the legislature, by law, shall provide for such an enumeration of the inhabitants of such parts of the state only as may be necessary, which shall supersede in part the federal census and be used in connection therewith for such purposes",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If a federal census, though giving the requisite information as to the state at large, fails to give the information as to any civil or territorial divisions which is required to be known for such purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The legislature, by law, may provide in its discretion for an enumeration by state authorities of the inhabitants of the state, to be used for such purposes, in place of a federal census",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the return of a decennial federal census is delayed so that it is not available at the beginning of the regular session of the legislature in the second year after the year nineteen hundred thirty or after any tenth year therefrom",
+      "or if an apportionment of members of assembly and readjustment or alteration of senate districts is not made at or before such a session"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "At the regular session in the year nineteen hundred thirty-two, and at the first regular session after the year nineteen hundred forty and after each tenth year therefrom the senate districts shall be readjusted or altered",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "if, in any decade, such a readjustment or alteration is not made at the time above prescribed, it shall be made at a subsequent session occurring not later than the sixth year of such decade"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "if such districts shall have been readjusted or altered by law in either of the years nineteen hundred thirty or nineteen hundred thirty-one, they shall remain unaltered until the first regular session after the year nineteen hundred forty"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No town, and no block in a city inclosed by streets or public ways, shall be divided in the formation of senate districts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Dividing a town or a block in a city inclosed by streets or public ways in the formation of senate districts"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except a town having more than a full ratio of apportionment"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "In the reapportionment of senate districts, no district shall contain a greater excess in population over an adjoining district in the same county, than the population of a town or block therein adjoining such district",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Counties, towns or blocks which, from their location, may be included in either of two districts, shall be so placed as to make said districts most nearly equal in number of inhabitants, excluding aliens",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No county shall have four or more senators unless it shall have a full ratio for each senator",
+     "holder": null,
+     "binds": "Any county",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless it shall have a full ratio for each senator"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No county shall have more than one-third of all the senators; and no two counties or the territory thereof as now organized, which are adjoining counties, or which are separated only by public waters, shall have more than one-half of all the senators",
+     "holder": null,
+     "binds": "Any county",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The independent redistricting commission shall prepare a redistricting plan to establish senate, assembly, and congressional districts every ten years commencing in two thousand twenty-one, and shall submit to the legislature such plan and the implementing legislation therefor",
+     "holder": null,
+     "binds": "The independent redistricting commission",
+     "requires": [
+      "on or before January first or as soon as practicable thereafter but no later than January fifteenth in the year ending in two beginning in two thousand twenty-two"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The redistricting plans for the assembly and the senate shall be contained in and voted upon by the legislature in a single bill, and the congressional district plan may be included in the same bill if the legislature chooses to do so",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The implementing legislation shall be voted upon, without amendment, by the senate or the assembly and if approved by the first house voting upon it, such legislation shall be delivered to the other house immediately to be voted upon without amendment. If approved by both houses, such legislation shall be presented to the governor for action",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "each house or the governor if he or she vetoes it, shall notify the commission that such legislation has been disapproved. Within fifteen days of such notification and in no case later than February twenty-eighth, the redistricting commission shall prepare and submit to the legislature a second redistricting plan and the necessary implementing legislation for such plan",
+     "holder": null,
+     "binds": "Each house, the governor and the redistricting commission",
+     "requires": [
+      "Such legislation shall be voted upon, without amendment, by the senate or the assembly",
+      "If approved by both houses, such legislation shall be presented to the governor for action"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If either house shall fail to approve the legislation implementing the first redistricting plan, or the governor shall veto such legislation and the legislature shall fail to override such veto"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "each house shall introduce such implementing legislation with any amendments each house of the legislature deems necessary",
+     "holder": null,
+     "binds": "Each house",
+     "requires": [
+      "All such amendments shall comply with the provisions of this article",
+      "If approved by both houses, such legislation shall be presented to the governor for action"
+     ],
+     "forbids": [],
+     "conditions": [
+      "If either house shall fail to approve the legislation implementing the second redistricting plan, or the governor shall veto such legislation and the legislature shall fail to override such veto"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "structure",
+     "what": "approval of legislation submitted by the independent redistricting commission pursuant to subdivision (f) of section five-b of this article shall require the vote in support of its passage by at least a majority of the members elected to each house",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of two different political parties"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "approval of legislation submitted by the independent redistricting commission pursuant to subdivision (g) of section five-b of this article shall require the vote in support of its passage by at least sixty percent of the members elected to each house",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of two different political parties"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "structure",
+     "what": "approval of legislation submitted by the independent redistricting commission pursuant to subdivision (f) or (g) of section five-b of this article shall require the vote in support of its passage by at least two-thirds of the members elected to each house",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of the same political party"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "the following principles shall be used in the creation of state senate and state assembly districts and congressional districts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the requirements of the federal constitution and statutes and in compliance with state constitutional requirements"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "limit",
+     "what": "districts shall not be drawn to have the purpose of, nor shall they result in, the denial or abridgement of racial or language minority voting rights",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the commission shall consider whether such lines would result in the denial or abridgement of racial or language minority voting rights",
+      "Districts shall be drawn so that, based on the totality of the circumstances, racial or minority language groups do not have less opportunity to participate in the political process than other members of the electorate and to elect representatives of their choice"
+     ],
+     "forbids": [
+      "Drawing districts to have the purpose of, or that result in, the denial or abridgement of racial or language minority voting rights"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "duty",
+     "what": "To the extent practicable, districts shall contain as nearly as may be an equal number of inhabitants",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "For each district that deviates from this requirement, the commission shall provide a specific public explanation as to why such deviation exists"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "duty",
+     "what": "Each district shall consist of contiguous territory",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "duty",
+     "what": "Each district shall be as compact in form as practicable",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)",
+     "kind": "limit",
+     "what": "Districts shall not be drawn to discourage competition or for the purpose of favoring or disfavoring incumbents or other particular candidates or political parties",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The commission shall consider the maintenance of cores of existing districts, of pre-existing political subdivisions, including counties, cities, and towns, and of communities of interest"
+     ],
+     "forbids": [
+      "Drawing districts to discourage competition",
+      "Drawing districts for the purpose of favoring or disfavoring incumbents or other particular candidates or political parties"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "duty",
+     "what": "In drawing senate districts, towns or blocks which, from their location may be included in either of two districts, shall be so placed as to make said districts most nearly equal in number of inhabitants",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The requirements that senate districts not divide counties or towns, as well as the 'block-on-border' and 'town-on-border' rules, shall remain in effect"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "During the preparation of the redistricting plan, the independent redistricting commission shall conduct not less than one public hearing on proposals for the redistricting of congressional and state legislative districts in each of the following (i) cities: Albany, Buffalo, Syracuse, Rochester, and White Plains; and (ii) counties: Bronx, Kings, New York, Queens, Richmond, Nassau, and Suffolk",
+     "holder": null,
+     "binds": "The independent redistricting commission",
+     "requires": [
+      "Notice of all such hearings shall be widely published using the best available means and media a reasonable time before every hearing",
+      "At least thirty days prior to the first public hearing and in any event no later than September fifteenth of the year ending in one or as soon as practicable thereafter, the independent redistricting commission shall make widely available to the public, in print form and using the best available technology, its draft redistricting plans, relevant data, and related information",
+      "Such plans, data, and information shall be in a form that allows and facilitates their use by the public to review, analyze, and comment upon such plans and to develop alternative redistricting plans",
+      "The independent redistricting commission shall report the findings of all such hearings to the legislature upon submission of a redistricting plan"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The ratio for apportioning senators shall always be obtained by dividing the number of inhabitants, excluding aliens, by fifty, and the senate shall always be composed of fifty members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "if any county having three or more senators at the time of any apportionment shall be entitled on such ratio to an additional senator or senators, such additional senator or senators shall be given to such county in addition to the fifty senators, and the whole number of senators shall be increased to that extent"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The senate districts, including the present ones, as existing immediately before the enactment of a law readjusting or altering the senate districts, shall continue to be the senate districts of the state until the expirations of the terms of the senators then in office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for the purpose of an election of senators for full terms beginning at such expirations, and for the formation of assembly districts"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "The process for redistricting congressional and state legislative districts established by this section and sections five and five-b of this article shall govern redistricting in this state",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except to the extent that a court is required to order the adoption of, or changes to, a redistricting plan as a remedy for a violation of law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "A reapportionment plan and the districts contained in such plan shall be in force until the effective date of a plan based upon the subsequent federal decennial census taken in a year ending in zero",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless modified pursuant to court order"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s5": {
+  "review": {
+   "plain": "Assembly members are chosen by single districts and apportioned among counties by population, every county but Hamilton getting one. Local bodies divide counties into equal, compact, contiguous districts. Any citizen may seek supreme court review of an apportionment, decided within sixty days.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the legislature may abolish the said county of Hamilton",
+    "shall be subject to review by the supreme court, at the suit of any citizen"
+   ],
+   "limits": [
+    "no county shall hereafter be erected unless its population shall entitle it to a member",
+    "No county shall have more members of assembly than a county having a greater number of inhabitants, excluding aliens"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The members of the assembly shall be chosen by single districts and shall be apportioned at each regular session at which the senate districts are readjusted or altered, and by the same law, among the several counties of the state, as nearly as may be according to the number of their respective inhabitants, excluding aliens",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Every county heretofore established and separately organized shall always be entitled to one member of assembly",
+     "holder": "Every county heretofore established and separately organized",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except the county of Hamilton"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no county shall hereafter be erected unless its population shall entitle it to a member",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless its population shall entitle it to a member"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The county of Hamilton shall elect with the county of Fulton, until the population of the county of Hamilton shall, according to the ratio, entitle it to a member",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature may abolish the said county of Hamilton and annex the territory thereof to some other county or counties",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The quotient obtained by dividing the whole number of inhabitants of the state, excluding aliens, by the number of members of assembly, shall be the ratio for apportionment",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "One member of assembly shall be apportioned to every county, including Fulton and Hamilton as one county, containing less than the ratio and one-half over",
+      "Two members shall be apportioned to every other county",
+      "The remaining members of assembly shall be apportioned to the counties having more than two ratios according to the number of inhabitants, excluding aliens",
+      "Members apportioned on remainders shall be apportioned to the counties having the highest remainders in the order thereof respectively"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No county shall have more members of assembly than a county having a greater number of inhabitants, excluding aliens",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The assembly districts, including the present ones, as existing immediately before the enactment of a law making an apportionment of members of assembly among the counties, shall continue to be the assembly districts of the state until the expiration of the terms of members then in office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for the purpose of an election of members of assembly for full terms beginning at such expirations"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In any county entitled to more than one member, the board of supervisors, and in any city embracing an entire county and having no board of supervisors, the common council, or if there be none, the body exercising the powers of a common council, shall assemble and divide such counties into assembly districts as nearly equal in number of inhabitants, excluding aliens, as may be, of convenient and contiguous territory in as compact form as practicable, each of which shall be wholly within a senate district formed under the same apportionment",
+     "holder": null,
+     "binds": "The board of supervisors, the common council, or the body exercising the powers of a common council",
+     "requires": [
+      "shall cause to be filed in the office of the secretary of state and of the clerk of such county, a description of such districts, specifying the number of each district and of the inhabitants thereof, excluding aliens",
+      "such apportionment and districts shall remain unaltered until after the next reapportionment of members of assembly"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the board of supervisors of any county containing a town having more than a ratio of apportionment and one-half over may alter the assembly districts in a senate district containing such town at any time on or before March first, nineteen hundred forty-six"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In counties having more than one senate district, the same number of assembly districts shall be put in each senate district",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the assembly districts cannot be evenly divided among the senate districts of any county, in which case one more assembly district shall be put in the senate district in such county having the largest, or one less assembly district shall be put in the senate district in such county having the smallest number of inhabitants, excluding aliens, as the case may require"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing in this section shall prevent the division, at any time, of counties and towns and the erection of new towns by the legislature",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "An apportionment by the legislature, or other body, shall be subject to review by the supreme court, at the suit of any citizen, under such reasonable regulations as the legislature may prescribe",
+     "holder": "Any citizen",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "any court before which a cause may be pending involving an apportionment, shall give precedence thereto over all other causes and proceedings, and if said court be not in session it shall convene promptly for the disposition of the same",
+     "holder": null,
+     "binds": "Any court before which such a cause is pending",
+     "requires": [
+      "The court shall render its decision within sixty days after a petition is filed"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In any judicial proceeding relating to redistricting of congressional or state legislative districts, any law establishing congressional or state legislative districts found to violate the provisions of this article shall be invalid in whole or in part",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "In the event that a court finds such a violation, the legislature shall have a full and reasonable opportunity to correct the law's legal infirmities"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s5-a": {
+  "review": {
+   "plain": "For apportioning senate and assembly districts under this article, \"inhabitants, excluding aliens\" means the whole number of persons.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "For the purpose of apportioning senate and assembly districts pursuant to the foregoing provisions of this article, the term \"inhabitants, excluding aliens\" shall mean the whole number of persons",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"inhabitants, excluding aliens\": the whole number of persons"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s5-b": {
+  "review": {
+   "plain": "A ten-member independent redistricting commission, appointed mostly by legislative leaders, is established to determine district lines. Members must be registered voters without listed recent political ties. The section sets quorum and voting rules, co-executive directors and staff, and state budget funding.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "an independent redistricting commission shall be established to determine the district lines for congressional and state legislative offices",
+    "shall appoint two co-executive directors",
+    "The co-executive directors shall appoint such staff as are necessary to perform the commission's duties"
+   ],
+   "limits": [
+    "No member shall within the last three years"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "an independent redistricting commission shall be established to determine the district lines for congressional and state legislative offices. The independent redistricting commission shall be composed of ten members",
+     "holder": "The independent redistricting commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "On or before February first of each year ending with a zero and at any other time a court orders that congressional or state legislative districts be amended"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)",
+     "kind": "power",
+     "what": "two members shall be appointed by the temporary president of the senate",
+     "holder": "The temporary president of the senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "power",
+     "what": "two members shall be appointed by the speaker of the assembly",
+     "holder": "The speaker of the assembly",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "power",
+     "what": "two members shall be appointed by the minority leader of the senate",
+     "holder": "The minority leader of the senate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(4)",
+     "kind": "power",
+     "what": "two members shall be appointed by the minority leader of the assembly",
+     "holder": "The minority leader of the assembly",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(5)",
+     "kind": "power",
+     "what": "two members shall be appointed by the eight members appointed pursuant to paragraphs (1) through (4) of this subdivision",
+     "holder": "The eight members appointed pursuant to paragraphs (1) through (4)",
+     "binds": null,
+     "requires": [
+      "by a vote of not less than five members in favor of such appointment",
+      "these two members shall not have been enrolled in the preceding five years in either of the two political parties that contain the largest or second largest number of enrolled voters within the state"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(6)",
+     "kind": "power",
+     "what": "one member shall be designated chair of the commission by a majority of the members appointed pursuant to paragraphs (1) through (5) of this subdivision to convene and preside over each meeting of the commission",
+     "holder": "A majority of the members appointed pursuant to paragraphs (1) through (5)",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The members of the independent redistricting commission shall be registered voters in this state. No member shall within the last three years be or have been a member of the New York state legislature or United States Congress or a statewide elected official; a state officer or employee or legislative employee; a registered lobbyist in New York state; a political party chairman; or the spouse of a statewide elected official or of any member of the United States Congress, or of the state legislature",
+     "holder": null,
+     "binds": "Members of the independent redistricting commission",
+     "requires": [
+      "The members of the independent redistricting commission shall be registered voters in this state"
+     ],
+     "forbids": [
+      "be or have been a member of the New York state legislature or United States Congress or a statewide elected official",
+      "be or have been a state officer or employee or legislative employee as defined in section seventy-three of the public officers law",
+      "be or have been a registered lobbyist in New York state",
+      "be or have been a political party chairman, as defined in paragraph (k) of subdivision one of section seventy-three of the public officers law",
+      "be the spouse of a statewide elected official or of any member of the United States Congress, or of the state legislature"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "To the extent practicable, the members of the independent redistricting commission shall reflect the diversity of the residents of this state with regard to race, ethnicity, gender, language, and geographic residence",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "to the extent practicable the appointing authorities shall consult with organizations devoted to protecting the voting rights of minority and other voters concerning potential appointees to the commission"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "Vacancies in the membership of the commission shall be filled within thirty days in the manner provided for in the original appointments",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The legislature shall provide by law for the compensation of the members of the independent redistricting commission, including compensation for actual and necessary expenses incurred in the performance of their duties",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "A minimum of five members of the independent redistricting commission shall constitute a quorum prior to the appointment of the two commission members appointed pursuant to paragraph (5) of subdivision (a) of this section, and a minimum of seven members shall constitute a quorum after such members have been appointed",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "no exercise of any power of the independent redistricting commission shall occur without the affirmative vote of at least a majority of the members"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(1)",
+     "kind": "structure",
+     "what": "approval of a redistricting plan and implementing legislation by the commission for submission to the legislature shall require the vote in support of its approval by at least seven members including at least one member appointed by each of the legislative leaders",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of the same political party"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(2)",
+     "kind": "structure",
+     "what": "approval of a redistricting plan by the commission for submission to the legislature shall require the vote in support of its approval by at least seven members including at least one member appointed by the speaker of the assembly and one member appointed by the temporary president of the senate",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of two different political parties"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "the commission shall submit to the legislature that redistricting plan and implementing legislation that garnered the highest number of votes in support of its approval by the commission with a record of the votes taken",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [
+      "In the event that more than one plan received the same number of votes for approval, and such number was higher than that for any other plan, then the commission shall submit all plans that obtained such number of votes",
+      "The legislature shall consider and vote upon such implementing legislation in accordance with the voting rules set forth in subdivision (b) of section four of this article"
+     ],
+     "forbids": [],
+     "conditions": [
+      "In the event that the commission is unable to obtain seven votes to approve a redistricting plan on or before January first in the year ending in two or as soon as practicable thereafter"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)",
+     "kind": "power",
+     "what": "The independent redistricting commission shall appoint two co-executive directors by a majority vote of the commission",
+     "holder": "The independent redistricting commission",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)(i)",
+     "kind": "structure",
+     "what": "the co-executive directors shall be approved by a majority of the commission that includes at least one appointee by the speaker of the assembly and at least one appointee by the temporary president of the senate",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of two different political parties"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)(ii)",
+     "kind": "structure",
+     "what": "the co-executive directors shall be approved by a majority of the commission that includes at least one appointee by each of the legislative leaders",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of the same political party"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(2)",
+     "kind": "power",
+     "what": "The co-executive directors shall appoint such staff as are necessary to perform the commission's duties",
+     "holder": "The co-executive directors",
+     "binds": null,
+     "requires": [
+      "One of the co-executive directors shall be enrolled in the political party with the highest number of enrolled members in the state and one shall be enrolled in the political party with the second highest number of enrolled members in the state",
+      "the commission shall review a staffing plan prepared and provided by the co-executive directors which shall contain a list of the various positions and the duties, qualifications, and salaries associated with each position"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(3)(i)",
+     "kind": "power",
+     "what": "within ten days the speaker's appointees on the commission shall appoint one co-executive director, and the temporary president's appointees on the commission shall appoint the other co-executive director. Also within ten days the minority leader of the assembly shall select a co-deputy executive director, and the minority leader of the senate shall select the other co-deputy executive director",
+     "holder": "The speaker's and temporary president's appointees; the minority leaders",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the commission is unable to appoint one or both of the co-executive directors within forty-five days of the establishment of a quorum of seven commissioners",
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of two different political parties"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(3)(ii)",
+     "kind": "power",
+     "what": "within ten days the speaker's and temporary president's appointees on the commission shall together appoint one co-executive director, and the two minority leaders' appointees on the commission shall together appoint the other co-executive director",
+     "holder": "The speaker's and temporary president's appointees; the two minority leaders' appointees",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event that the commission is unable to appoint one or both of the co-executive directors within forty-five days of the establishment of a quorum of seven commissioners",
+      "In the event that the speaker of the assembly and the temporary president of the senate are members of the same political party"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(4)",
+     "kind": "duty",
+     "what": "In the event of a vacancy in the offices of co-executive director or co-deputy executive director, the position shall be filled within ten days of its occurrence by the same appointing authority or authorities that appointed his or her predecessor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "duty",
+     "what": "The state budget shall include necessary appropriations for the expenses of the independent redistricting commission, provide for compensation and reimbursement of expenses for the members and staff of the commission, assign to the commission any additional duties that the legislature may deem necessary to the performance of the duties stipulated in this article, and require other agencies and officials of the state of New York and its political subdivisions to provide such information and assistance as the commission may require to perform its duties",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s6": {
+  "review": {
+   "plain": "Each legislator receives a like annual salary fixed by law, weekly travel reimbursement during session, and allowances fixed by law for impeachment service and special offices. These may not be increased or diminished during the term, and no other extra compensation is paid.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [
+    "shall receive for his or her services a like annual salary, to be fixed by law"
+   ],
+   "powers": [],
+   "limits": [
+    "Neither the salary of any member nor any other allowance so fixed may be increased or diminished during, and with respect to, the term for which he or she shall have been elected",
+    "nor shall he or she be paid or receive any other extra compensation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Each member of the legislature shall receive for his or her services a like annual salary, to be fixed by law",
+     "holder": "Each member of the legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "He or she shall also be reimbursed for his or her actual traveling expenses in going to and returning from the place in which the legislature meets, not more than once each week while the legislature is in session",
+     "holder": "Each member of the legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Senators, when the senate alone is convened in extraordinary session, or when serving as members of the court for the trial of impeachments, and such members of the assembly, not exceeding nine in number, as shall be appointed managers of an impeachment, shall receive an additional per diem allowance, to be fixed by law",
+     "holder": "Senators and assembly members appointed managers of an impeachment",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Any member, while serving as an officer of his or her house or in any other special capacity therein or directly connected therewith not hereinbefore in this section specified, may also be paid and receive, in addition, any allowance which may be fixed by law for the particular and additional services appertaining to or entailed by such office or special capacity",
+     "holder": "Any member",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the salary of any member nor any other allowance so fixed may be increased or diminished during, and with respect to, the term for which he or she shall have been elected, nor shall he or she be paid or receive any other extra compensation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Increasing or diminishing a member's salary or allowance during, and with respect to, the term for which he or she was elected",
+      "Paying a member any other extra compensation"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this section and laws enacted in compliance therewith shall govern and be exclusively controlling, according to their terms. Members shall continue to receive such salary and additional allowance as heretofore fixed and provided in this section, until changed by law pursuant to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s7": {
+  "review": {
+   "plain": "A legislator must be a U.S. citizen, a New York resident for five years, and a district resident for twelve months before election. Legislators may not receive certain civil appointments during their term; accepting congress or other listed offices vacates the seat.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person shall serve as a member of the legislature",
+    "No member of the legislature shall, during the time for which he or she was elected, receive any civil appointment"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No person shall serve as a member of the legislature unless he or she is a citizen of the United States and has been a resident of the state of New York for five years, and of the assembly or senate district for the twelve months immediately preceding his or her election",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "a citizen of the United States",
+      "a resident of the state of New York for five years",
+      "a resident of the assembly or senate district for the twelve months immediately preceding his or her election"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "if elected a senator or member of assembly at the first election next ensuing after a readjustment or alteration of the senate or assembly districts becomes effective, a person, to be eligible to serve as such, must have been a resident of the county in which the senate or assembly district is contained for the twelve months immediately preceding his or her election"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No member of the legislature shall, during the time for which he or she was elected, receive any civil appointment from the governor, the governor and the senate, the legislature or from any city government, to an office which shall have been created, or the emoluments whereof shall have been increased during such time",
+     "holder": null,
+     "binds": "Members of the legislature",
+     "requires": [],
+     "forbids": [
+      "Receiving a civil appointment to an office created, or whose emoluments were increased, during the time for which the member was elected"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If a member of the legislature be elected to congress, or appointed to any office, civil or military, under the government of the United States, the state of New York, or under any city government, his or her acceptance thereof shall vacate his or her seat in the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except as a member of the national guard or naval militia of the state, or of the reserve forces of the United States",
+      "a member of the legislature may be appointed commissioner of deeds or to any office in which he or she shall receive no compensation"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s8": {
+  "review": {
+   "plain": "Elections of senators and assembly members are held on the Tuesday after the first Monday of November, unless the legislature directs otherwise.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The elections of senators and members of assembly shall be held on the Tuesday succeeding the first Monday of November",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless otherwise directed by the legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s9": {
+  "review": {
+   "plain": "A majority of each house is a quorum. Each house sets its own rules, judges its members' elections, returns and qualifications, and chooses its officers; the senate chooses a temporary president and the assembly a speaker.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "Each house shall determine the rules of its own proceedings",
+    "be the judge of the elections, returns and qualifications of its own members",
+    "shall choose its own officers"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A majority of each house shall constitute a quorum to do business",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each house shall determine the rules of its own proceedings",
+     "holder": "Each house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each house shall be the judge of the elections, returns and qualifications of its own members",
+     "holder": "Each house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each house shall choose its own officers",
+     "holder": "Each house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the senate shall choose a temporary president and the assembly shall choose a speaker",
+     "holder": null,
+     "binds": "The senate and the assembly",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s10": {
+  "review": {
+   "plain": "Each house keeps and publishes a journal, except parts requiring secrecy, and keeps its doors open unless the public welfare requires secrecy. Neither house may adjourn for more than two days without the other's consent.",
+   "category": "The Legislature",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Neither house shall, without the consent of the other, adjourn for more than two days"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Each house of the legislature shall keep a journal of its proceedings, and publish the same",
+     "holder": null,
+     "binds": "Each house of the legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except such parts as may require secrecy"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The doors of each house shall be kept open",
+     "holder": null,
+     "binds": "Each house of the legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except when the public welfare shall require secrecy"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither house shall, without the consent of the other, adjourn for more than two days",
+     "holder": null,
+     "binds": "Each house of the legislature",
+     "requires": [],
+     "forbids": [
+      "Adjourning for more than two days without the consent of the other house"
+     ],
+     "conditions": [
+      "without the consent of the other"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s11": {
+  "review": {
+   "plain": "Members of the legislature may not be questioned in any other place for any speech or debate in either house.",
+   "category": "The Legislature",
+   "kind": "Right",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "the members shall not be questioned in any other place"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "For any speech or debate in either house of the legislature, the members shall not be questioned in any other place",
+     "holder": "The members of the legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Questioning members in any other place for any speech or debate in either house"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s12": {
+  "review": {
+   "plain": "Any bill may start in either house of the legislature, and a bill passed by one house may be amended by the other.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "Any bill may originate in either house of the legislature",
+    "all bills passed by one house may be amended by the other"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any bill may originate in either house of the legislature",
+     "holder": "Either house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "all bills passed by one house may be amended by the other",
+     "holder": "The other house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

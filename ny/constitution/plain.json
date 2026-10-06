@@ -1,0 +1,1467 @@
+{
+ "preamble": {
+  "plain": "The People of the State of New York, grateful to Almighty God for their Freedom, establish this Constitution in order to secure its blessings.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s1": {
+  "plain": "No member of the state shall be disfranchised or deprived of the rights or privileges secured to citizens, unless by the law of the land or the judgment of peers. The legislature may provide that no primary election is held when there is no contest.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "the rights or privileges secured to any citizen thereof"
+  ],
+  "powers": [
+   "the legislature may provide that there shall be no primary election held"
+  ],
+  "limits": [
+   "No member of this state shall be disfranchised"
+  ]
+ },
+ "a1-s2": {
+  "plain": "Trial by jury where guaranteed by constitutional provision shall remain inviolate forever. Parties may waive a jury in civil cases, and the legislature may allow civil verdicts by five-sixths of the jury. A defendant may waive a jury in criminal cases not punishable by death, by a written instrument signed in open court with a judge's approval.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "Trial by jury in all cases in which it has heretofore been guaranteed by constitutional provision shall remain inviolate forever"
+  ],
+  "powers": [
+   "a jury trial may be waived by the parties in all civil cases",
+   "a verdict may be rendered by not less than five-sixths of the jury in any civil case",
+   "A jury trial may be waived by the defendant in all criminal cases",
+   "The legislature may enact laws, not inconsistent herewith, governing the form, content, manner and time of presentation of the instrument effectuating such waiver"
+  ],
+  "limits": []
+ },
+ "a1-s3": {
+  "plain": "The free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed to all humankind, and no person shall be made incompetent as a witness for religious opinions. This liberty does not excuse licentiousness or practices inconsistent with the state's peace or safety.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "The free exercise and enjoyment of religious profession and worship, without discrimination or preference"
+  ],
+  "powers": [],
+  "limits": [
+   "no person shall be rendered incompetent to be a witness on account of his or her opinions on matters of religious belief",
+   "shall not be so construed as to excuse acts of licentiousness, or justify practices inconsistent with the peace or safety of this state"
+  ]
+ },
+ "a1-s4": {
+  "plain": "The privilege of a writ or order of habeas corpus shall not be suspended, unless the public safety requires it in case of rebellion or invasion.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [
+   "The privilege of a writ or order of habeas corpus"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not be suspended"
+  ]
+ },
+ "a1-s5": {
+  "plain": "Excessive bail shall not be required, excessive fines shall not be imposed, cruel and unusual punishments shall not be inflicted, and witnesses shall not be unreasonably detained.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Excessive bail shall not be required",
+   "nor excessive fines imposed",
+   "nor shall cruel and unusual punishments be inflicted",
+   "nor shall witnesses be unreasonably detained"
+  ]
+ },
+ "a1-s6": {
+  "plain": "No person shall answer for a capital or otherwise infamous crime without grand jury indictment, except listed cases or a written waiver. The accused may defend with counsel, be informed of the accusation and confront witnesses. Double jeopardy and compelled self-incrimination are barred, officers refusing to waive immunity are disqualified, and due process is guaranteed.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "to appear and defend in person and with counsel",
+   "be informed of the nature and cause of the accusation",
+   "be confronted with the witnesses against him or her"
+  ],
+  "powers": [
+   "may waive indictment by a grand jury",
+   "The power of grand juries to inquire into the wilful misconduct in office of public officers"
+  ],
+  "limits": [
+   "No person shall be held to answer for a capital or otherwise infamous crime",
+   "No person shall be subject to be twice put in jeopardy for the same offense",
+   "nor shall he or she be compelled in any criminal case to be a witness against himself or herself",
+   "shall never be suspended or impaired by law",
+   "No person shall be deprived of life, liberty or property without due process of law"
+  ]
+ },
+ "a1-s7": {
+  "plain": "Private property shall not be taken for public use without just compensation. Private roads may be opened by law after a jury of freeholders determines need and damages, paid by the person benefited. Draining swamp or agricultural lands is a public use, and general laws may permit drains on others' lands with just compensation.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [],
+  "powers": [
+   "Private roads may be opened in the manner to be prescribed by law",
+   "general laws may be passed permitting the owners or occupants of swamp or agricultural lands to construct and maintain for the drainage thereof, necessary drains, ditches and dykes upon the lands of others"
+  ],
+  "limits": [
+   "Private property shall not be taken for public use without just compensation",
+   "no special laws shall be enacted for such purposes"
+  ]
+ },
+ "a1-s8": {
+  "plain": "Every citizen may freely speak, write and publish sentiments on all subjects, being responsible for abuse of that right; no law shall restrain or abridge liberty of speech or press. In libel prosecutions truth may be given in evidence, true matter published with good motives and for justifiable ends requires acquittal, and the jury determines law and fact.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "may freely speak, write and publish his or her sentiments on all subjects",
+   "the truth may be given in evidence to the jury",
+   "the jury shall have the right to determine the law and the fact"
+  ],
+  "powers": [],
+  "limits": [
+   "no law shall be passed to restrain or abridge the liberty of speech or of the press"
+  ]
+ },
+ "a1-s9": {
+  "plain": "No law shall abridge the people's right peaceably to assemble and petition, and divorce requires due judicial proceedings. Gambling is barred except state lotteries for education, pari-mutuel horse betting and casinos at up to seven facilities. Municipalities may by vote authorize bingo, lotto and similar games run by bona fide non-profit organizations, under listed restrictions.",
+  "category": "Individual Rights",
+  "kind": "Limit",
+  "rights": [
+   "the rights of the people peaceably to assemble and to petition the government, or any department thereof"
+  ],
+  "powers": [
+   "any city, town or village within the state may by an approving vote of the majority of the qualified electors"
+  ],
+  "limits": [
+   "No law shall be passed abridging",
+   "nor shall any divorce be granted otherwise than by due judicial proceedings",
+   "no lottery or the sale of lottery tickets, pool-selling, book-making, or any other kind of gambling",
+   "no person except a bona fide member of any such organization shall participate in the management or operation of such game",
+   "no person shall receive any remuneration for participating in the management or operation of any such game",
+   "no single prize shall exceed two hundred fifty dollars",
+   "no municipality shall have the power to pass local laws or ordinances relating to such games"
+  ]
+ },
+ "a1-s11": {
+  "plain": "No person shall be denied the equal protection of the laws, or be subjected to discrimination in civil rights by any person, firm, corporation, institution or the state because of the listed characteristics. This does not invalidate laws designed to prevent or dismantle such discrimination.",
+  "category": "Equality & Citizenship",
+  "kind": "Right",
+  "rights": [
+   "the equal protection of the laws of this state or any subdivision thereof"
+  ],
+  "powers": [],
+  "limits": [
+   "No person shall be denied",
+   "be subjected to any discrimination in their civil rights"
+  ]
+ },
+ "a1-s12": {
+  "plain": "The people's right to be secure against unreasonable searches and seizures, and against unreasonable interception of telephone and telegraph communications, shall not be violated. Warrants require probable cause on oath and particular descriptions; interception orders require oath of reasonable ground to believe evidence of crime may be obtained.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "The right of the people to be secure in their persons, houses, papers and effects, against unreasonable searches and seizures",
+   "The right of the people to be secure against unreasonable interception of telephone and telegraph communications"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not be violated",
+   "no warrants shall issue, but upon probable cause",
+   "ex parte orders or warrants shall issue only upon oath or affirmation"
+  ]
+ },
+ "a1-s14": {
+  "plain": "Parts of the common law and colonial acts that formed the law of the colony on April 19, 1775, colonial congress and convention resolutions in force on April 20, 1777, and acts of the legislature now in force continue as state law, subject to legislative alteration. Parts repugnant to this constitution are abrogated.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "subject to such alterations as the legislature shall make concerning the same"
+  ],
+  "limits": [
+   "are hereby abrogated"
+  ]
+ },
+ "a1-s16": {
+  "plain": "The existing right of action to recover damages for injuries resulting in death shall never be abrogated, and the amount recoverable shall not be subject to any statutory limitation.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "The right of action now existing to recover damages for injuries resulting in death"
+  ],
+  "powers": [],
+  "limits": [
+   "shall never be abrogated",
+   "shall not be subject to any statutory limitation"
+  ]
+ },
+ "a1-s17": {
+  "plain": "Labor of human beings is not a commodity or article of commerce. Laborers on public work for contractors may not work more than eight hours a day or five days a week, except in extraordinary emergency, nor be paid less than prevailing wages. Employees have the right to organize and bargain collectively.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "the right to organize and to bargain collectively through representatives of their own choosing"
+  ],
+  "powers": [],
+  "limits": [
+   "is not a commodity nor an article of commerce",
+   "shall never be so considered or construed",
+   "shall be permitted to work more than eight hours in any day or more than five days in any week",
+   "nor shall he or she be paid less than the rate of wages prevailing in the same trade or occupation"
+  ]
+ },
+ "a1-s18": {
+  "plain": "Nothing in the constitution limits the legislature's power to enact laws protecting employees' lives, health or safety, or for compensation for employee injuries or death without regard to fault, except willful intention or sole intoxication. Such compensation may be exclusive and capped for death; employer payments are a proper business cost.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the power of the legislature to enact laws for the protection of the lives, health, or safety of employees",
+   "of compensation for injuries to employees or for death of employees resulting from such injuries without regard to fault as a cause thereof"
+  ],
+  "limits": []
+ },
+ "a1-s19": {
+  "plain": "Each person shall have a right to clean air and water, and a healthful environment.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Right",
+  "rights": [
+   "a right to clean air and water, and a healthful environment"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s1": {
+  "plain": "Every citizen eighteen or over who has resided in the state, and in the county, city or village, for thirty days before an election shall be entitled to vote for all officers elected by the people and on all questions submitted to the people.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "rights": [
+   "shall be entitled to vote at every election for all officers elected by the people and upon all questions submitted to the vote of the people"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s2": {
+  "plain": "The legislature may, by general law, provide how, when and where qualified voters absent from their county (or from New York City) or unable to appear at the polls because of illness or physical disability may vote, and for return and canvass of their votes.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may, by general law, provide a manner in which, and the time and place at which"
+  ],
+  "limits": []
+ },
+ "a2-s3": {
+  "plain": "No person who receives or pays money or any valuable thing for a vote, promises to influence a vote, or bets on the election shall vote at that election, and a challenged person must swear or affirm this. The legislature shall exclude from suffrage persons convicted of bribery or any infamous crime.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall vote at such election",
+   "excluding from the right of suffrage all persons convicted of bribery or of any infamous crime"
+  ]
+ },
+ "a2-s4": {
+  "plain": "For the purpose of voting, no person gains or loses a residence by being present or absent while in the service of the United States, navigating the listed waters, a student, kept at an almshouse or other supported institution, or confined in a public prison.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no person shall be deemed to have gained or lost a residence"
+  ]
+ },
+ "a2-s5": {
+  "plain": "Laws shall be made to ascertain by proper proofs which citizens are entitled to vote, and for registering voters, with registration completed at least ten days before each election. Registration is not required for town and village elections unless a law expressly provides it.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Such registration shall not be required for town and village elections"
+  ]
+ },
+ "a2-s6": {
+  "plain": "The legislature may by law set up registration systems under which a voter who applies in person stays registered as long as he or she remains qualified to vote from an address within the jurisdiction of the board where registered.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may provide by law for a system or systems of registration"
+  ],
+  "limits": []
+ },
+ "a2-s7": {
+  "plain": "All elections by the citizens shall be by ballot or another method prescribed by law, keeping voting secret, except for certain town officers. The legislature shall provide for identifying voters by signature where personal registration is required, and for voters' signatures when voting in person.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "or by such other method as may be prescribed by law"
+  ],
+  "limits": []
+ },
+ "a2-s8": {
+  "plain": "Laws on boards or officers that qualify voters, distribute ballots, or receive, record or count votes shall secure equal representation of the two parties with the most votes at the preceding general election. The section does not apply to town or village elections.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "as the legislature may direct"
+  ],
+  "limits": []
+ },
+ "a2-s9": {
+  "plain": "Despite section one's residence requirements, the legislature may by general law let certain recent movers, and registered voters who moved to another state within a year, vote here solely for presidential electors if they cannot qualify to vote for them elsewhere.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may, by general law, provide special procedures",
+   "The legislature may also, by general law, prescribe special procedures"
+  ],
+  "limits": []
+ },
+ "a3-s1": {
+  "plain": "The legislative power of the state is vested in the senate and assembly.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislative power of this state shall be vested in the senate and assembly"
+  ],
+  "limits": []
+ },
+ "a3-s2": {
+  "plain": "The senate has fifty members, except as later provided, and the assembly one hundred fifty. Senators are chosen for two years (those elected in 1895 served three), and assembly members are chosen for two years.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s3": {
+  "plain": "The senate districts described in the constitution adopted on November 6, 1894 are continued for all purposes of future reapportionments of senate districts under section four.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s4": {
+  "plain": "Federal census figures control legislative apportionment, with state enumerations when needed. An independent commission prepares redistricting plans that the legislature votes on under set rules. Districts must protect minority voting rights, be nearly equal, contiguous and compact, and not favor incumbents; public hearings are required.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [
+   "racial or minority language groups do not have less opportunity to participate in the political process than other members of the electorate and to elect representatives of their choice"
+  ],
+  "powers": [
+   "The legislature, by law, may provide in its discretion for an enumeration by state authorities of the inhabitants of the state",
+   "shall prepare a redistricting plan to establish senate, assembly, and congressional districts every ten years"
+  ],
+  "limits": [
+   "no block in a city inclosed by streets or public ways, shall be divided in the formation of senate districts",
+   "No county shall have more than one-third of all the senators",
+   "districts shall not be drawn to have the purpose of, nor shall they result in, the denial or abridgement of such rights",
+   "Districts shall not be drawn to discourage competition"
+  ]
+ },
+ "a3-s5": {
+  "plain": "Assembly members are chosen by single districts and apportioned among counties by population, every county but Hamilton getting one. Local bodies divide counties into equal, compact, contiguous districts. Any citizen may seek supreme court review of an apportionment, decided within sixty days.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the legislature may abolish the said county of Hamilton",
+   "shall be subject to review by the supreme court, at the suit of any citizen"
+  ],
+  "limits": [
+   "no county shall hereafter be erected unless its population shall entitle it to a member",
+   "No county shall have more members of assembly than a county having a greater number of inhabitants, excluding aliens"
+  ]
+ },
+ "a3-s5-a": {
+  "plain": "For apportioning senate and assembly districts under this article, \"inhabitants, excluding aliens\" means the whole number of persons.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s5-b": {
+  "plain": "A ten-member independent redistricting commission, appointed mostly by legislative leaders, is established to determine district lines. Members must be registered voters without listed recent political ties. The section sets quorum and voting rules, co-executive directors and staff, and state budget funding.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "an independent redistricting commission shall be established to determine the district lines for congressional and state legislative offices",
+   "shall appoint two co-executive directors",
+   "The co-executive directors shall appoint such staff as are necessary to perform the commission's duties"
+  ],
+  "limits": [
+   "No member shall within the last three years"
+  ]
+ },
+ "a3-s6": {
+  "plain": "Each legislator receives a like annual salary fixed by law, weekly travel reimbursement during session, and allowances fixed by law for impeachment service and special offices. These may not be increased or diminished during the term, and no other extra compensation is paid.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [
+   "shall receive for his or her services a like annual salary, to be fixed by law"
+  ],
+  "powers": [],
+  "limits": [
+   "Neither the salary of any member nor any other allowance so fixed may be increased or diminished during, and with respect to, the term for which he or she shall have been elected",
+   "nor shall he or she be paid or receive any other extra compensation"
+  ]
+ },
+ "a3-s7": {
+  "plain": "A legislator must be a U.S. citizen, a New York resident for five years, and a district resident for twelve months before election. Legislators may not receive certain civil appointments during their term; accepting congress or other listed offices vacates the seat.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No person shall serve as a member of the legislature",
+   "No member of the legislature shall, during the time for which he or she was elected, receive any civil appointment"
+  ]
+ },
+ "a3-s8": {
+  "plain": "Elections of senators and assembly members are held on the Tuesday after the first Monday of November, unless the legislature directs otherwise.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s9": {
+  "plain": "A majority of each house is a quorum. Each house sets its own rules, judges its members' elections, returns and qualifications, and chooses its officers; the senate chooses a temporary president and the assembly a speaker.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "Each house shall determine the rules of its own proceedings",
+   "be the judge of the elections, returns and qualifications of its own members",
+   "shall choose its own officers"
+  ],
+  "limits": []
+ },
+ "a3-s10": {
+  "plain": "Each house keeps and publishes a journal, except parts requiring secrecy, and keeps its doors open unless the public welfare requires secrecy. Neither house may adjourn for more than two days without the other's consent.",
+  "category": "The Legislature",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Neither house shall, without the consent of the other, adjourn for more than two days"
+  ]
+ },
+ "a3-s11": {
+  "plain": "Members of the legislature may not be questioned in any other place for any speech or debate in either house.",
+  "category": "The Legislature",
+  "kind": "Right",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "the members shall not be questioned in any other place"
+  ]
+ },
+ "a3-s12": {
+  "plain": "Any bill may start in either house of the legislature, and a bill passed by one house may be amended by the other.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "Any bill may originate in either house of the legislature",
+   "all bills passed by one house may be amended by the other"
+  ],
+  "limits": []
+ },
+ "a3-s13": {
+  "plain": "Every bill's enacting clause must read \"The People of the State of New York, represented in Senate and Assembly, do enact as follows,\" and no law may be enacted except by bill.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no law shall be enacted except by bill"
+  ]
+ },
+ "a3-s14": {
+  "plain": "A bill must be printed and on members' desks in final form three calendar legislative days before final passage, unless the governor certifies the need for an immediate vote. Passage needs a majority of members elected to each branch; no amendment on last reading. Electronic format counts as printed.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No bill shall be passed or become a law unless it shall have been printed and upon the desks of the members",
+   "nor shall any bill be passed or become a law, except by the assent of a majority of the members elected to each branch of the legislature",
+   "no amendment thereof shall be allowed"
+  ]
+ },
+ "a3-s15": {
+  "plain": "A private or local bill passed by the legislature may not embrace more than one subject, and that subject must be expressed in the title.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall embrace more than one subject"
+  ]
+ },
+ "a3-s16": {
+  "plain": "No act may provide that any existing law, or part of one, is made part of the act or is applicable, except by inserting it in the act.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No act shall be passed which shall provide that any existing law, or any part thereof, shall be made or deemed a part of said act"
+  ]
+ },
+ "a3-s17": {
+  "plain": "The legislature may not pass a private or local bill in the listed cases, including changing names, roads, county seats, venue, incorporating villages, juries, interest rates, elections, officers' fees, railroad tracks, exclusive privileges, tax exemptions and certain bridges.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "The legislature shall not pass a private or local bill"
+  ]
+ },
+ "a3-s18": {
+  "plain": "On a petition signed by two-thirds of the members elected to each house, presented to the temporary president of the senate and the speaker, the members may convene the legislature on extraordinary occasions to act on the subjects in the petition.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "to convene the legislature on extraordinary occasions"
+  ],
+  "limits": []
+ },
+ "a3-s19": {
+  "plain": "The legislature may not audit or allow private claims against the state, but may appropriate money for claims audited and allowed according to law. No claim barred by lapse of time may be paid, but a claimant under legal disability has two years after it is removed.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may appropriate money to pay such claims as shall have been audited and allowed according to law"
+  ],
+  "limits": [
+   "The legislature shall neither audit nor allow any private claim or account against the state",
+   "No claim against the state shall be audited, allowed or paid"
+  ]
+ },
+ "a3-s20": {
+  "plain": "Every bill appropriating public moneys or property for local or private purposes needs the assent of two-thirds of the members elected to each branch of the legislature.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s21": {
+  "plain": "Sections 15, 16 and 17 of this article do not apply to bills recommended by commissioners or public agencies appointed to prepare revisions, consolidations or compilations of statutes. A bill amending an existing law is excepted only if it is itself so recommended.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be excepted from the provisions of sections 15, 16 and 17 of this article"
+  ]
+ },
+ "a3-s22": {
+  "plain": "A tax law must distinctly state the tax and its object, and may not just refer to another law. But an income tax law may define income by reference to the laws of the United States, with exceptions or modifications.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may define the income on, in respect to or by which such tax or taxes are imposed or measured, by reference to any provision of the laws of the United States"
+  ],
+  "limits": [
+   "it shall not be sufficient to refer to any other law to fix such tax or object"
+  ]
+ },
+ "a3-s23": {
+  "plain": "On final passage of any act that imposes a tax, creates a debt or charge, makes an appropriation, or releases a claim of the state, the vote is by yeas and nays entered on the journals, and three-fifths of all members elected is the quorum.",
+  "category": "The Legislature",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s24": {
+  "plain": "The legislature must provide by law for employing prisoners, and no prisoner may work where the work or its product is farmed out, contracted or sold to private parties, except voluntary work for nonprofit organizations; work for the state or public institutions is allowed.",
+  "category": "The Legislature",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "the legislature may provide by law that such prisoners may voluntarily perform work for nonprofit organizations"
+  ],
+  "limits": [
+   "no person in any such prison, penitentiary, jail or reformatory, shall be required or allowed to work"
+  ]
+ },
+ "a3-s25": {
+  "plain": "To keep state and local government running in emergencies caused by enemy attack or disasters, the legislature has the power and immediate duty to provide for temporary succession to public offices and to adopt other necessary and proper measures.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall have the power and the immediate duty"
+  ],
+  "limits": []
+ },
+ "a4-s1": {
+  "plain": "The executive power is vested in the governor, who serves four years; the lieutenant-governor is chosen at the same time for the same term. They are chosen jointly by a single vote every fourth year from 1938, and those with the most votes are elected.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The executive power shall be vested in the governor"
+  ],
+  "limits": []
+ },
+ "a4-s2": {
+  "plain": "Only a citizen of the United States, at least thirty years old, who has been a resident of New York for the five years before the election may be governor or lieutenant-governor.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No person shall be eligible to the office of governor or lieutenant-governor"
+  ]
+ },
+ "a4-s3": {
+  "plain": "The governor commands the state's military and naval forces, may convene the legislature or the senate on extraordinary occasions, reports to the legislature on the condition of the state, and must take care that the laws are faithfully executed. The governor receives a salary and an executive residence.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The governor shall be commander-in-chief of the military and naval forces of the state",
+   "The governor shall have power to convene the legislature, or the senate only, on extraordinary occasions"
+  ],
+  "limits": [
+   "no subject shall be acted upon, except such as the governor may recommend for consideration"
+  ]
+ },
+ "a4-s4": {
+  "plain": "The governor may grant reprieves, commutations and pardons after conviction for all offenses except treason and impeachment. For treason, the governor may suspend the sentence until the legislature acts. The governor must report each grant to the legislature annually.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The governor shall have the power to grant reprieves, commutations and pardons after conviction",
+   "the governor shall have power to suspend the execution of the sentence"
+  ],
+  "limits": []
+ },
+ "a4-s5": {
+  "plain": "The lieutenant-governor becomes governor if the governor is removed, dies or resigns, or if the governor-elect declines or dies, and acts as governor while the governor is impeached, absent, unable to serve, or has not taken the oath.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s6": {
+  "plain": "The lieutenant-governor has the governor's qualifications, presides over the senate with only a casting vote, and receives a salary. It sets elections when both offices are vacant and makes the temporary president of the senate, then the speaker, act as governor; the legislature may provide for other cases.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The legislature may provide for the devolution of the duty of acting as governor"
+  ],
+  "limits": [
+   "shall have only a casting vote therein",
+   "No election of a lieutenant-governor shall be had in any event except at the time of electing a governor"
+  ]
+ },
+ "a4-s7": {
+  "plain": "Every bill passed by both houses goes to the governor, who signs it or returns it with objections; two-thirds of the members elected to each house can override. Unreturned bills become law after ten days unless the legislature adjourns. The governor may object to items of appropriation.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the governor may object to one or more of such items while approving of the other portion of the bill"
+  ],
+  "limits": [
+   "No bill shall become a law after the final adjournment of the legislature, unless approved by the governor within thirty days after such adjournment",
+   "the appropriation so objected to shall not take effect"
+  ]
+ },
+ "a4-s8": {
+  "plain": "A rule or regulation of a state department, board, bureau, officer, authority or commission, other than one on organization or internal management, is not effective until filed in the office of the department of state. The legislature must provide for its speedy publication.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall be effective until it is filed in the office of the department of state"
+  ]
+ },
+ "a5-s1": {
+  "plain": "The comptroller and attorney-general are chosen at the same election as the governor for the same term. The comptroller must audit vouchers, accounts and revenues; payment of state money without the comptroller's audit is void. The legislature may assign the comptroller only certain further duties.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [
+   "may be restrained upon the suit of any taxpayer"
+  ],
+  "powers": [
+   "may also assign to him or her"
+  ],
+  "limits": [
+   "No election of a comptroller or an attorney-general shall be had except at the time of electing a governor",
+   "shall be void",
+   "shall assign to him or her no administrative duties"
+  ]
+ },
+ "a5-s2": {
+  "plain": "There may be no more than twenty civil departments in the state government, including those referred to in the constitution. The legislature may by law change the names of those departments.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may by law change the names of the departments referred to in this constitution"
+  ],
+  "limits": [
+   "There shall be not more than twenty civil departments in the state government"
+  ]
+ },
+ "a5-s3": {
+  "plain": "Subject to the constitution's limits, the legislature may by law assign new powers and functions to departments, officers, boards, commissions or executive offices of the governor, and increase, modify or diminish them. It may also create temporary commissions and executive offices of the governor and reduce the number of departments.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may from time to time assign by law new powers and functions",
+   "increase, modify or diminish their powers and functions",
+   "creating temporary commissions for special purposes or executive offices of the governor",
+   "reducing the number of departments"
+  ],
+  "limits": []
+ },
+ "a5-s4": {
+  "plain": "The comptroller heads audit and control, the attorney-general heads law, and the Regents head education and appoint a commissioner of education. Most other department heads and board and commission members are appointed by the governor with the senate's advice and consent, and may be removed by the governor.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "shall appoint and at pleasure remove a commissioner of education",
+   "shall be appointed by the governor by and with the advice and consent of the senate",
+   "may be removed by the governor"
+  ],
+  "limits": []
+ },
+ "a5-s6": {
+  "plain": "Civil service appointments and promotions must be made by merit and fitness, ascertained where practicable by competitive examination. Qualifying war veterans receive additional examination credit, more if disabled in war, but generally only for one appointment or promotion.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Duty",
+  "rights": [
+   "shall be entitled to receive five points additional credit",
+   "shall be entitled to receive ten points additional credit"
+  ],
+  "powers": [],
+  "limits": [
+   "No such member shall receive the additional credit granted by this section after he or she has received one appointment"
+  ]
+ },
+ "a5-s7": {
+  "plain": "After July 1, 1940, membership in a state or civil division pension or retirement system is a contractual relationship whose benefits may not be diminished or impaired. A public officer convicted of a felony directly related to the officer's duties may have the pension reduced or revoked by a court after notice and a hearing.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Right",
+  "rights": [
+   "membership in any pension or retirement system of the state or of a civil division thereof shall be a contractual relationship"
+  ],
+  "powers": [
+   "may be reduced or revoked"
+  ],
+  "limits": [
+   "shall not be diminished or impaired"
+  ]
+ },
+ "a6-s1": {
+  "plain": "The state has a unified court system: the court of appeals, supreme court and appellate divisions, court of claims, county, surrogate's and family courts, New York City's city-wide courts, and local courts outside the city. Listed courts are courts of record, and their process may be served across the state.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may upon the request of the mayor and the local legislative body of the city of New York, merge the two courts",
+   "The legislature may provide that processes, warrants and other mandates of the district court may be served and executed in any part of the state"
+  ],
+  "limits": []
+ },
+ "a6-s2": {
+  "plain": "The court of appeals has a chief judge and six associate judges serving fourteen-year terms; supreme court justices may be designated to serve temporarily. Vacancies are filled by the governor, with the senate's advice and consent, from persons recommended by a commission on judicial nomination.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the court may designate any justice of the supreme court to serve as associate judge",
+   "The court shall have power to appoint and to remove its clerk",
+   "the governor shall designate such number of justices of the supreme court",
+   "The governor may fill vacancies among such designated judges",
+   "The governor shall appoint, with the advice and consent of the senate",
+   "the governor shall fill the vacancy by interim appointment"
+  ],
+  "limits": [
+   "no more than seven judges shall sit in any case",
+   "The powers and jurisdiction of the court shall not be suspended for want of appointment",
+   "No member of the commission shall hold any office in any political party",
+   "no person may be appointed a judge of the court of appeals unless such person is a resident of the state"
+  ]
+ },
+ "a6-s3": {
+  "plain": "The court of appeals reviews only questions of law, except in death judgments or where the appellate division finds new facts. Appeals may be taken in criminal cases as provided and in listed classes of civil cases, some as of right. The court must adopt a rule to answer certified questions of New York law.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [
+   "the right to appeal shall not depend upon the amount involved"
+  ],
+  "powers": [
+   "The legislature may abolish an appeal to the court of appeals as of right",
+   "shall adopt and from time to time may amend a rule to permit the court to answer questions of New York law"
+  ],
+  "limits": [
+   "The jurisdiction of the court of appeals shall be limited to the review of questions of law",
+   "No appeal shall be taken to the court of appeals"
+  ]
+ },
+ "a6-s4": {
+  "plain": "The state is divided into four judicial departments. The governor designates the justices of each appellate division, which has seven or five justices; additional or temporary justices may be designated, and appeals may be transferred between departments. Appellate divisions keep their existing jurisdiction plus any added by law.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "Once every ten years the legislature may alter the boundaries of the judicial departments",
+   "The governor shall designate the presiding justice of each appellate division",
+   "the governor may designate an additional justice or additional justices",
+   "may transfer any pending appeals from such department to any other department",
+   "Each appellate division shall have power to appoint and remove its clerk"
+  ],
+  "limits": [
+   "but without changing the number thereof",
+   "No more than five justices shall sit in any case",
+   "exercise any of the powers of a justice of the supreme court"
+  ]
+ },
+ "a6-s5": {
+  "plain": "An appellate court authorized to review a judgment or order may reverse, affirm or modify it, wholly or in part, and must then render judgment according to law, or grant a new trial or hearing where necessary or proper. An appeal taken to an unauthorized appellate court must be transferred to an authorized one.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may reverse or affirm, wholly or in part, or may modify the judgment or order appealed from",
+   "may grant a new trial or hearing"
+  ],
+  "limits": []
+ },
+ "a6-s6": {
+  "plain": "The state has eleven judicial districts, each made of listed counties; once every ten years the legislature may change them. Supreme court justices are elected by district voters for fourteen-year terms. The legislature may increase or decrease the number of justices within limits, and county clerks are clerks of the supreme court.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "Once every ten years the legislature may increase or decrease the number of judicial districts or alter the composition of judicial districts",
+   "The legislature may increase the number of justices of the supreme court in any judicial district",
+   "The legislature may decrease the number of justices of the supreme court in any judicial district"
+  ],
+  "limits": [
+   "shall not be increased to exceed one justice for fifty thousand, or fraction over thirty thousand, of the population thereof",
+   "shall not be less than the number of justices of the supreme court authorized by law on the effective date of this article"
+  ]
+ },
+ "a6-s7": {
+  "plain": "The supreme court has general original jurisdiction in law and equity and the appellate jurisdiction provided. In New York City it has exclusive jurisdiction over crimes prosecuted by indictment, though the legislature may give some to other city courts. It also has jurisdiction over new classes of actions the legislature creates.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The supreme court shall have general original jurisdiction in law and equity",
+   "it shall have exclusive jurisdiction over crimes prosecuted by indictment",
+   "the supreme court shall have jurisdiction over such classes of actions and proceedings"
+  ],
+  "limits": []
+ },
+ "a6-s8": {
+  "plain": "Each appellate division may establish appellate terms of three to five supreme court justices, designated by the chief administrator of the courts with the presiding justice's approval. No more than three sit in a case; two are a quorum and must concur. Appellate terms hear certain appeals as directed or provided by law.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may establish an appellate term",
+   "shall have jurisdiction to hear and determine appeals from the district court or a town, village or city court outside the city of New York"
+  ],
+  "limits": [
+   "no more than three justices assigned thereto shall sit in any action or proceeding"
+  ]
+ },
+ "a6-s9": {
+  "plain": "The court of claims has eight judges, a number the legislature may increase or reduce to six or seven. Judges are appointed by the governor with the senate's advice and consent for nine-year terms. The court hears claims against the state, by the state, or between conflicting claimants as the legislature provides.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the legislature may increase such number and may reduce such number to six or seven",
+   "shall be appointed by the governor by and with the advice and consent of the senate",
+   "The court shall have jurisdiction to hear and determine claims against the state"
+  ],
+  "limits": []
+ },
+ "a6-s10": {
+  "plain": "Each county outside New York City keeps a county court with at least one judge, plus any more provided by law. Its judges must be residents of the county, are chosen by the county's electors, and serve ten-year terms.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s11": {
+  "plain": "The county court has jurisdiction over actions for money or chattels and certain liens up to twenty-five thousand dollars, all crimes and other violations of law, summary proceedings to recover real property, and others provided by law, plus equity and local appeals. This does not limit the supreme court's jurisdiction.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The county court shall have jurisdiction over the following classes of actions and proceedings",
+   "shall exercise such equity jurisdiction as may be provided by law",
+   "shall have jurisdiction to hear and determine all appeals arising in the county"
+  ],
+  "limits": [
+   "shall in no way limit or impair the jurisdiction of the supreme court"
+  ]
+ },
+ "a6-s12": {
+  "plain": "Each county keeps a surrogate's court with at least one judge, who must reside in the county and is elected by its electors, for fourteen years in New York City and ten elsewhere. It has jurisdiction over decedents' affairs, wills, estates, guardianship of minors' property and other matters provided by law.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The surrogate's court shall have jurisdiction over all actions and proceedings relating to the affairs of decedents",
+   "The surrogate's court shall exercise such equity jurisdiction as may be provided by law"
+  ],
+  "limits": [
+   "shall in no way limit or impair the jurisdiction of the supreme court"
+  ]
+ },
+ "a6-s13": {
+  "plain": "The family court is established, with judges appointed by the mayor in New York City and elected by county electors elsewhere, for ten-year terms. It has jurisdiction over listed matters, including neglected or delinquent minors, custody, adoption, support, paternity and conciliation of spouses, and certain matters referred from the supreme court.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The family court shall have jurisdiction over the following classes of actions and proceedings",
+   "shall be appointed by the mayor of the city of New York for terms of ten years",
+   "The family court shall also have jurisdiction to determine, with the same powers possessed by the supreme court"
+  ],
+  "limits": [
+   "Nothing in this section shall be construed to abridge the authority or jurisdiction of courts to appoint guardians",
+   "shall in no way limit or impair the jurisdiction of the supreme court"
+  ]
+ },
+ "a6-s14": {
+  "plain": "The legislature may provide that, outside the city of New York, the same person may act as county judge and surrogate, as family court judge and surrogate, as county judge and family court judge, or in all three positions in any county.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may at any time provide that outside the city of New York the same person may act and discharge the duties"
+  ],
+  "limits": []
+ },
+ "a6-s15": {
+  "plain": "The legislature must establish city-wide civil and criminal courts for New York City and may merge them on the city's request. Civil judges are elected and criminal judges appointed by the mayor, for ten-year terms. The section sets each court's jurisdiction without limiting the supreme court's.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may, upon the request of the mayor and the local legislative body of the city of New York, merge the two courts",
+   "shall be appointed for terms of ten years by the mayor of the city of New York",
+   "shall have jurisdiction over the following classes of actions and proceedings",
+   "shall have jurisdiction over crimes and other violations of law"
+  ],
+  "limits": [
+   "shall in no way limit or impair the jurisdiction of the supreme court"
+  ]
+ },
+ "a6-s16": {
+  "plain": "The Nassau county district court may continue, and the legislature may, on a county's request, establish a district court for all or part of a county outside New York City, subject to approval at a general election. Its jurisdiction, districts, judges and six-year terms are set out.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may, at the request of the board of supervisors or other elective governing body of any county outside the city of New York, establish the district court",
+   "may create districts of the district court",
+   "may regulate and discontinue the district court"
+  ],
+  "limits": [
+   "No law establishing the district court for an entire county shall become effective unless approved at a general election",
+   "No law establishing the district court for a portion of a county shall become effective unless approved at a general election",
+   "but not in any respect greater than the jurisdiction of the courts for the city of New York",
+   "shall not exceed fifteen thousand dollars exclusive of interest and costs"
+  ]
+ },
+ "a6-s17": {
+  "plain": "Town, village and city courts outside New York City continue, with jurisdiction set by the legislature but no greater than the district court's. The legislature may regulate them and discontinue village or city courts; a town court only with voter approval. Town justices are elected for four-year terms.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may regulate such courts",
+   "may discontinue any village or city court outside the city of New York",
+   "may abolish the legislative functions on town boards of justices of the peace"
+  ],
+  "limits": [
+   "but not in any respect greater than the jurisdiction of the district court",
+   "only with the approval of a majority of the total votes cast at a general election"
+  ]
+ },
+ "a6-s18": {
+  "plain": "Trial by jury is guaranteed as provided in article one. The legislature may set juries of six or twelve and allow trial without a jury for crimes not prosecuted by indictment, but crimes prosecuted by indictment are tried by twelve jurors unless jury trial is waived.",
+  "category": "The Courts",
+  "kind": "Right",
+  "rights": [
+   "Trial by jury is guaranteed",
+   "crimes prosecuted by indictment shall be tried by a jury composed of twelve persons"
+  ],
+  "powers": [
+   "may provide that in any court of original jurisdiction a jury shall be composed of six or of twelve persons",
+   "to try such matters without a jury",
+   "may provide for the manner of trial of actions and proceedings involving claims against the state"
+  ],
+  "limits": []
+ },
+ "a6-s19": {
+  "plain": "The section sets when courts may or must transfer actions and proceedings to other courts: each court must send on cases outside its jurisdiction, and the supreme court and others may transfer cases to courts with jurisdiction. Each court must exercise jurisdiction over cases transferred to it.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The supreme court may transfer any action or proceeding",
+   "the supreme court may transfer to itself any action or proceeding",
+   "The county court may transfer any action or proceeding",
+   "the supreme court or the county court may transfer to the county court any action or proceeding",
+   "may provide that the verdict or judgment in actions and proceedings so transferred shall not be subject to the limitation of monetary jurisdiction"
+  ],
+  "limits": []
+ },
+ "a6-s20": {
+  "plain": "Judges of the higher courts must have been admitted to practice law in New York for ten years, and judges of other listed courts for five. Judges of the listed courts may not hold other public office, run for non-judicial office without resigning, hold political party office, or practice law.",
+  "category": "The Courts",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "the legislature may enact such legislation as it deems appropriate to provide for a temporary judge or justice",
+   "shall be prescribed by the legislature"
+  ],
+  "limits": [
+   "unless he or she has been admitted to practice law in this state at least ten years",
+   "unless he or she has been admitted to practice law in this state at least five years",
+   "hold any other public office or trust",
+   "be eligible to be a candidate for any public office other than judicial office",
+   "hold any office or assume the duties or exercise the powers of any office of any political organization",
+   "engage in the practice of law, act as an arbitrator, referee or compensated mediator"
+  ]
+ },
+ "a6-s21": {
+  "plain": "A vacancy, other than by expiration of term, in an elected judgeship is filled for a full term at the next general election at least three months later, with an interim appointment until then. A court of claims vacancy is filled like an original appointment; appointed New York City judgeships are filled by the mayor.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the governor may fill such vacancy by an appointment",
+   "the mayor of the city of New York may fill such vacancy by an appointment",
+   "the mayor of the city of New York shall fill such vacancy by an appointment for the unexpired term",
+   "such county executive officer may, subject to confirmation by the board of supervisors"
+  ],
+  "limits": []
+ },
+ "a6-s22": {
+  "plain": "A commission on judicial conduct hears complaints about judges and may determine that a judge be admonished, censured, removed or retired, subject to review by the court of appeals. The section sets the commission's eleven members and terms, and lets the court of appeals suspend judges.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [
+   "may either accept the commission's determination or make written request to the chief judge",
+   "shall receive his or her judicial salary during such period of suspension"
+  ],
+  "powers": [
+   "shall receive, initiate, investigate and hear complaints",
+   "may determine that a judge or justice be admonished, censured or removed from office for cause",
+   "may establish its own rules and procedures not inconsistent with law",
+   "the court of appeals may admonish, censure, remove or retire",
+   "The court of appeals may suspend a judge or justice from exercising the powers of his or her office",
+   "the court of appeals may suspend a judge or justice from office",
+   "the legislature may provide by law for review of determinations of the commission on judicial conduct"
+  ],
+  "limits": [
+   "shall be ineligible to hold other judicial office"
+  ]
+ },
+ "a6-s23": {
+  "plain": "Judges of the court of appeals and supreme court justices may be removed by a two-thirds vote of both houses; judges of other listed courts by a two-thirds senate vote on the governor's recommendation. Removal requires cause entered on the journals, a statement of the cause, and an opportunity to be heard.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [
+   "shall have had an opportunity to be heard"
+  ],
+  "powers": [
+   "may be removed by concurrent resolution of both houses of the legislature",
+   "may be removed by the senate, on the recommendation of the governor"
+  ],
+  "limits": [
+   "No judge or justice shall be removed by virtue of this section except for cause"
+  ]
+ },
+ "a6-s24": {
+  "plain": "The assembly may impeach by a majority of all members elected. The senate president, senators and court of appeals judges try impeachments; conviction needs two-thirds of members present. Judgment extends only to removal and disqualification, but the party impeached remains liable to indictment and punishment.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The assembly shall have the power of impeachment"
+  ],
+  "limits": [
+   "neither the lieutenant-governor nor the temporary president of the senate shall act as a member of the court",
+   "No judicial officer shall exercise his or her office",
+   "no person shall be convicted without the concurrence of two-thirds of the members present",
+   "Judgment in cases of impeachment shall not extend further than to removal from office"
+  ]
+ },
+ "a6-s25": {
+  "plain": "Compensation of the listed judges is set by law and may not be diminished during their term. These judges retire at the end of the year they turn seventy, but former court of appeals judges and supreme court justices may, if certified, serve as supreme court justices until seventy-six.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [
+   "shall receive without interruption or diminution"
+  ],
+  "powers": [
+   "may thereafter perform the duties of a justice of the supreme court, with power to hear and determine actions and proceedings",
+   "shall be eligible for designation by the governor as a temporary or additional justice of the appellate division"
+  ],
+  "limits": [
+   "shall not be diminished during the term of office for which he or she was elected or appointed",
+   "shall serve no longer than until the last day of December in the year in which he or she reaches the age of seventy-six"
+  ]
+ },
+ "a6-s26": {
+  "plain": "Judges and justices of the listed courts may perform their duties or hold court in any county and may be temporarily assigned to the courts named. The chief administrator of the courts makes the assignments, and an assigned judge has the powers of the court to which assigned.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "A justice of the supreme court may perform the duties of office or hold court in any county",
+   "may be temporarily assigned to the supreme court in any judicial district or to the court of claims",
+   "shall be made by the chief administrator of the courts",
+   "may provide for temporary assignments within the county of residence or any adjoining county",
+   "also may be temporarily assigned by the chief administrator of the courts",
+   "shall have the powers, duties and jurisdiction of a judge or justice of the court to which assigned"
+  ],
+  "limits": []
+ },
+ "a6-s27": {
+  "plain": "The governor may appoint extraordinary terms of the supreme court when in the governor's opinion the public interest requires, designating the time, place and justice. The governor may end the justice's assignment and name another justice.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may, when in his or her opinion the public interest requires, appoint extraordinary terms of the supreme court",
+   "may terminate the assignment of the justice"
+  ],
+  "limits": []
+ },
+ "a6-s28": {
+  "plain": "The chief judge of the court of appeals is the chief judge of the state and heads the unified court system, with an administrative board of the courts. The chief judge appoints a chief administrator, who supervises the court system, and sets standards and policies approved by the court of appeals.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "appoint a chief administrator of the courts who shall serve at the pleasure of the chief judge",
+   "shall supervise the administration and operation of the unified court system",
+   "shall establish standards and administrative policies for general application throughout the state"
+  ],
+  "limits": []
+ },
+ "a6-s29": {
+  "plain": "The legislature must provide for allocating the cost of running the listed courts among the state, counties, New York City and other subdivisions, and for submitting court budget estimates. The legislature and governor, or the local governing bodies, make the final determination for the expenses each bears.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "shall be made by the legislature and the governor",
+   "shall be made by the appropriate governing bodies"
+  ],
+  "limits": []
+ },
+ "a6-s30": {
+  "plain": "The legislature keeps its power to alter and regulate court jurisdiction and proceedings, and may delegate its power over practice and procedure to a court or the chief administrator of the courts. Individual courts may still adopt regulations consistent with general practice and procedure.",
+  "category": "The Courts",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "shall have the same power to alter and regulate the jurisdiction and proceedings in law and in equity",
+   "delegate, in whole or in part, to a court"
+  ],
+  "limits": []
+ },
+ "a6-s31": {
+  "plain": "Article VI does not apply to the peacemakers courts or other Indian courts, which continue to exist and operate as provided by law.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "This article does not apply to the peacemakers courts or other Indian courts"
+  ]
+ },
+ "a6-s32": {
+  "plain": "When a court commits, remands or places a child in its jurisdiction with an institution, agency or person, the child must be placed, when practicable, with an institution or agency governed by persons, or a person, of the same religious persuasion as the child.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [
+   "of the same religious persuasion as the child"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s33": {
+  "plain": "Existing laws not inconsistent with this article stay in force until changed under it. The legislature must enact laws to carry out the article and may enact other laws, not inconsistent with it, to implement, supplement or clarify its provisions.",
+  "category": "The Courts",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may, for the purpose of implementing, supplementing or clarifying any of its provisions, enact any laws"
+  ],
+  "limits": []
+ },
+ "a6-s34": {
+  "plain": "Courts must decide the appeals, actions and proceedings pending in them when this article takes effect, with set exceptions for certain pending appeals. Justices and judges then in office keep their offices until their terms expire.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s35": {
+  "plain": "Abolishes the children's courts and several New York City and county courts and the offices of special county judge, special surrogate and official referee, and moves their judges, staff, records and pending cases to the supreme court, the new city-wide courts or the family court. It sets how pending appeals are taken.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "shall provide by law that the justices of the city court of the city of New York",
+   "shall provide by law that the justices of the court of special sessions",
+   "may transfer any such appeal to an appellate term",
+   "may require the transfer of any such appeal to an appellate term"
+  ],
+  "limits": [
+   "shall not create a vacancy until the reduced number of personnel has been reached"
+  ]
+ },
+ "a6-s36": {
+  "plain": "No civil or criminal appeal, action or proceeding pending when this article takes effect abates; each continues in the courts as this article provides, and later proceedings follow the laws then in force until superseded.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No civil or criminal appeal, action or proceeding pending before any court or any judge or justice on the effective date of this article shall abate"
+  ]
+ },
+ "a6-s36-a": {
+  "plain": "The 1976 amendments to articles six and seven become part of the constitution on the January 1 after the people approve them, but take effect the following April 1. Court of appeals judges then in office serve out their terms; vacancies are filled under section two of article six.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s36-c": {
+  "plain": "The 1974 amendments to section twenty-two of article six become part of the constitution on the January 1 after the people approve them, but do not become operative until the following September 1, the effective date of the amendments.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a6-s37": {
+  "plain": "This article becomes part of the constitution on the January 1 after the people approve it, but its provisions do not become operative until the following September 1, which is its effective date.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a7-s1": {
+  "plain": "Department heads, except the legislature and judiciary, must give the governor budget estimates and information, and the governor holds hearings on them. The legislature's and judiciary's itemized estimates go to the governor by December 1 for inclusion in the budget without revision.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [
+   "shall be entitled to attend the hearings thereon and to make inquiry concerning any part thereof"
+  ],
+  "powers": [
+   "may require the attendance of heads of departments and their subordinates"
+  ],
+  "limits": [
+   "for inclusion in the budget without revision"
+  ]
+ },
+ "a7-s2": {
+  "plain": "Each year, by a set date, the governor must submit to the legislature a budget with a complete plan of proposed expenditures and estimated available moneys and revenues, an explanation of the estimates, and recommended legislation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a7-s3": {
+  "plain": "With the budget, the governor must submit bills containing all proposed appropriations and recommended legislation, and may amend or supplement it within thirty days, or later with the legislature's consent. The governor and department heads may appear and be heard on the budget, and department heads must when requested.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [
+   "shall have the right"
+  ],
+  "powers": [
+   "amend or supplement the budget and submit amendments to any bills submitted by him or her or submit supplemental bills"
+  ],
+  "limits": []
+ },
+ "a7-s4": {
+  "plain": "The legislature may not alter the governor's appropriation bills except to strike out or reduce items, but may add separately stated items. Once passed by both houses, such a bill becomes law without the governor, except legislative and judiciary appropriations and added items, which need the governor's approval.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "it may add thereto items of appropriation"
+  ],
+  "limits": [
+   "may not alter an appropriation bill submitted by the governor except to strike out or reduce items therein"
+  ]
+ },
+ "a7-s5": {
+  "plain": "Neither house may consider any other appropriation bill until both houses have finally acted on all the governor's appropriation bills, unless the governor certifies that immediate passage is necessary.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Neither house of the legislature shall consider any other bill making an appropriation"
+  ]
+ },
+ "a7-s6": {
+  "plain": "Apart from the governor's bills and a supplemental bill for the support of government, appropriations must be made by separate bills each for a single object or purpose. Provisions in the governor's appropriation bills must relate specifically to a particular appropriation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no appropriations shall be made except by separate bills each for a single object or purpose",
+   "No provision shall be embraced in any appropriation bill submitted by the governor or in such supplemental appropriation bill unless it relates specifically to some particular appropriation in the bill"
+  ]
+ },
+ "a7-s7": {
+  "plain": "No money may be paid out of the state treasury or its funds except under an appropriation by law, and only within two years after the appropriation act passes. Each appropriation law must specify the sum and its object or purpose.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No money shall ever be paid out of the state treasury or any of its funds, or any of the funds under its management, except in pursuance of an appropriation by law",
+   "it shall not be sufficient for such law to refer to any other law to fix such sum"
+  ]
+ },
+ "a7-s8": {
+  "plain": "The state's money may not be given or loaned to private corporations, associations or undertakings, nor its credit to any individual or corporation, except for funds held for educational or mental health purposes. The legislature may still provide aid to the needy and others listed, and authorize loans to a public corporation to finance business facilities.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "providing for the aid, care and support of the needy",
+   "authorizing the loan of the money of the state to a public corporation"
+  ],
+  "limits": [
+   "The money of the state shall not be given or loaned to or in aid of any private corporation or association, or private undertaking",
+   "nor shall the credit of the state be given or loaned to or in aid of any individual, or public or private corporation or association, or private undertaking",
+   "shall not exceed sixty per centum of the cost of any such project",
+   "shall not exceed eighty per centum of the cost of any such project"
+  ]
+ },
+ "a7-s9": {
+  "plain": "The state may borrow in anticipation of taxes and revenues within appropriations, repaying within one year, and in anticipation of proceeds of authorized bonds, repaying within two years, or five years for bonds for article eighteen purposes.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The state may contract debts in anticipation of the receipt of taxes and revenues",
+   "The state may also contract debts in anticipation of the receipt of the proceeds of the sale of bonds theretofore authorized"
+  ],
+  "limits": []
+ },
+ "a7-s10": {
+  "plain": "The state may also borrow to repel invasion, suppress insurrection, defend the state in war or suppress forest fires, but the money must be used only for that purpose or to repay the debts.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the state may contract debts to repel invasion, suppress insurrection, or defend the state in war, or to suppress forest fires"
+  ],
+  "limits": [
+   "and to no other purpose whatever"
+  ]
+ },
+ "a7-s11": {
+  "plain": "Apart from debts under sections 9, 10 and 13, state debt must be authorized by law for a single specified work or purpose and approved by a majority of voters at a general election. The legislature may repeal such a law before any debt is contracted, or forbid further debt under it.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "repeal the same",
+   "forbid the contracting of any further debt or liability under such law"
+  ],
+  "limits": [
+   "no debt shall be hereafter contracted by or in behalf of the state, unless such debt shall be authorized by law, for some single work or purpose",
+   "No such law shall take effect until it shall, at a general election, have been submitted to the people"
+  ]
+ },
+ "a7-s12": {
+  "plain": "Apart from debts under sections 9, 10 and 13, state debts must follow set rules: principal paid in installments or through sinking funds, first payment within one year and last within forty years, no term beyond the probable life of the work, proceeds used only for the stated purpose, and sinking funds managed by the comptroller.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No such debt shall be contracted for a period longer than that of the probable life of the work or purpose",
+   "shall be applied only to the work or purpose specified in the act authorizing such debt or liability",
+   "shall be used solely for the purpose of retiring the obligations secured thereby"
+  ]
+ },
+ "a7-s13": {
+  "plain": "The legislature may provide for refunding state debts when the refunding achieves a present-value debt service savings. Refunding obligations may not exceed what the refunding needs, proceeds go into escrow funds managed by the comptroller, and installments, maturities and sinking funds follow set rules.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may provide means and authority whereby any state debt or debts, or any portion or combination thereof, may be refunded",
+   "may provide for the method of computation of present value for such purpose"
+  ],
+  "limits": [
+   "no maturity shall be called for redemption unless the privilege to pay prior to the maturity date was reserved to the state",
+   "In no event shall refunding obligations be issued in an amount exceeding that necessary",
+   "shall the proceeds of refunding obligations be applied to any purpose other than accomplishing the refunding of the debt to be refunded and paying costs and expenses related to the refunding"
+  ]
+ },
+ "a7-s14": {
+  "plain": "The legislature may authorize up to three hundred million dollars of state debt, without a vote of the people, to eliminate railroad grade crossings. The section sets how elimination costs are shared with railroad companies and municipalities, and lets up to sixty million dollars of bond proceeds go to state highways and parkways.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize by law the creation of a debt or debts of the state",
+   "shall be entitled to recover from the railroad company or companies",
+   "is hereby authorized to appropriate"
+  ],
+  "limits": [
+   "shall not exceed the difference between the amount of the debt or debts heretofore created or authorized by law",
+   "in no event to exceed fifteen per centum of the expense of the elimination"
+  ]
+ }
+}

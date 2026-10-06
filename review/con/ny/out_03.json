@@ -1,0 +1,1388 @@
+{
+ "a3-s13": {
+  "review": {
+   "plain": "Every bill's enacting clause must read \"The People of the State of New York, represented in Senate and Assembly, do enact as follows,\" and no law may be enacted except by bill.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no law shall be enacted except by bill"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The enacting clause of all bills shall be \"The People of the State of New York, represented in Senate and Assembly, do enact as follows,\"",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The enacting clause of all bills shall be \"The People of the State of New York, represented in Senate and Assembly, do enact as follows,\""
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no law shall be enacted except by bill",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Enacting a law except by bill"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s14": {
+  "review": {
+   "plain": "A bill must be printed and on members' desks in final form three calendar legislative days before final passage, unless the governor certifies the need for an immediate vote. Passage needs a majority of members elected to each branch; no amendment on last reading. Electronic format counts as printed.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No bill shall be passed or become a law unless it shall have been printed and upon the desks of the members",
+    "nor shall any bill be passed or become a law, except by the assent of a majority of the members elected to each branch of the legislature",
+    "no amendment thereof shall be allowed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No bill shall be passed or become a law unless it shall have been printed and upon the desks of the members, in its final form, at least three calendar legislative days prior to its final passage",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Passing a bill that has not been printed and upon the desks of the members, in its final form, at least three calendar legislative days prior to its final passage"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless the governor, or the acting governor, shall have certified, under his or her hand and the seal of the state, the facts which in his or her opinion necessitate an immediate vote thereon, in which case it must nevertheless be upon the desks of the members in final form, not necessarily printed, before its final passage"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the governor, or the acting governor, shall have certified, under his or her hand and the seal of the state, the facts which in his or her opinion necessitate an immediate vote thereon",
+     "holder": "The governor, or the acting governor",
+     "binds": null,
+     "requires": [
+      "it must nevertheless be upon the desks of the members in final form, not necessarily printed, before its final passage"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor shall any bill be passed or become a law, except by the assent of a majority of the members elected to each branch of the legislature",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "the assent of a majority of the members elected to each branch of the legislature"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "upon the last reading of a bill, no amendment thereof shall be allowed",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Allowing an amendment upon the last reading of a bill"
+     ],
+     "conditions": [
+      "upon the last reading of a bill"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the question upon its final passage shall be taken immediately thereafter, and the ayes and nays entered on the journal",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "the question upon its final passage shall be taken immediately thereafter",
+      "the ayes and nays entered on the journal"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "a bill shall be deemed to be printed and upon the desks of the members if: it is set forth in a legible electronic format by electronic means, and it is available for review in such format at the desks of the members",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "it is set forth in a legible electronic format by electronic means",
+      "it is available for review in such format at the desks of the members"
+     ],
+     "exceptions": [],
+     "terms": [
+      "\"electronic means\": any method of transmission of information between computers or other machines designed for the purpose of sending and receiving such transmissions and which: allows the recipient to reproduce the information transmitted in a tangible medium of expression; and does not permit additions, deletions or other changes to be made without leaving an adequate record thereof"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s15": {
+  "review": {
+   "plain": "A private or local bill passed by the legislature may not embrace more than one subject, and that subject must be expressed in the title.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall embrace more than one subject"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No private or local bill, which may be passed by the legislature, shall embrace more than one subject, and that shall be expressed in the title",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "that shall be expressed in the title"
+     ],
+     "forbids": [
+      "A private or local bill embracing more than one subject"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s16": {
+  "review": {
+   "plain": "No act may provide that any existing law, or part of one, is made part of the act or is applicable, except by inserting it in the act.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No act shall be passed which shall provide that any existing law, or any part thereof, shall be made or deemed a part of said act"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No act shall be passed which shall provide that any existing law, or any part thereof, shall be made or deemed a part of said act, or which shall enact that any existing law, or part thereof, shall be applicable",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Passing an act which provides that any existing law, or any part thereof, shall be made or deemed a part of said act",
+      "Passing an act which enacts that any existing law, or part thereof, shall be applicable"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except by inserting it in such act"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s17": {
+  "review": {
+   "plain": "The legislature may not pass a private or local bill in the listed cases, including changing names, roads, county seats, venue, incorporating villages, juries, interest rates, elections, officers' fees, railroad tracks, exclusive privileges, tax exemptions and certain bridges.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "The legislature shall not pass a private or local bill"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The legislature shall not pass a private or local bill in any of the following cases",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Changing the names of persons",
+      "Laying out, opening, altering, working or discontinuing roads, highways or alleys, or for draining swamps or other low lands",
+      "Locating or changing county seats",
+      "Providing for changes of venue in civil or criminal cases",
+      "Incorporating villages",
+      "Providing for election of members of boards of supervisors",
+      "Selecting, drawing, summoning or empaneling grand or petit jurors",
+      "Regulating the rate of interest on money",
+      "The opening and conducting of elections or designating places of voting",
+      "Creating, increasing or decreasing fees, percentages or allowances of public officers, during the term for which said officers are elected or appointed",
+      "Granting to any corporation, association or individual the right to lay down railroad tracks",
+      "Granting to any private corporation, association or individual any exclusive privilege, immunity or franchise whatever",
+      "Granting to any person, association, firm or corporation, an exemption from taxation on real or personal property",
+      "Providing for the building of bridges, except over the waters forming a part of the boundaries of the state, by other than a municipal or other public corporation or a public agency of the state"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s18": {
+  "review": {
+   "plain": "On a petition signed by two-thirds of the members elected to each house, presented to the temporary president of the senate and the speaker, the members may convene the legislature on extraordinary occasions to act on the subjects in the petition.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "to convene the legislature on extraordinary occasions"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The members of the legislature shall be empowered to convene the legislature on extraordinary occasions to act upon the subjects enumerated in such petition",
+     "holder": "The members of the legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon the presentation to the temporary president of the senate and the speaker of the assembly of a petition signed by two-thirds of the members elected to each house of the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s19": {
+  "review": {
+   "plain": "The legislature may not audit or allow private claims against the state, but may appropriate money for claims audited and allowed according to law. No claim barred by lapse of time may be paid, but a claimant under legal disability has two years after it is removed.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may appropriate money to pay such claims as shall have been audited and allowed according to law"
+   ],
+   "limits": [
+    "The legislature shall neither audit nor allow any private claim or account against the state",
+    "No claim against the state shall be audited, allowed or paid"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The legislature shall neither audit nor allow any private claim or account against the state",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Auditing or allowing any private claim or account against the state"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "may appropriate money to pay such claims as shall have been audited and allowed according to law",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "such claims as shall have been audited and allowed according to law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No claim against the state shall be audited, allowed or paid which, as between citizens of the state, would be barred by lapse of time",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Auditing, allowing or paying a claim against the state which, as between citizens of the state, would be barred by lapse of time"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "if the claimant shall be under legal disability the claim may be presented within two years after such disability is removed"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s20": {
+  "review": {
+   "plain": "Every bill appropriating public moneys or property for local or private purposes needs the assent of two-thirds of the members elected to each branch of the legislature.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The assent of two-thirds of the members elected to each branch of the legislature shall be requisite to every bill appropriating the public moneys or property for local or private purposes",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "The assent of two-thirds of the members elected to each branch of the legislature"
+     ],
+     "forbids": [],
+     "conditions": [
+      "every bill appropriating the public moneys or property for local or private purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s21": {
+  "review": {
+   "plain": "Sections 15, 16 and 17 of this article do not apply to bills recommended by commissioners or public agencies appointed to prepare revisions, consolidations or compilations of statutes. A bill amending an existing law is excepted only if it is itself so recommended.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be excepted from the provisions of sections 15, 16 and 17 of this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Sections 15, 16, and 17 of this article shall not apply to any bill, or the amendments to any bill, which shall be recommended to the legislature by commissioners or any public agency appointed or directed pursuant to law to prepare revisions, consolidations or compilations of statutes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "which shall be recommended to the legislature by commissioners or any public agency appointed or directed pursuant to law to prepare revisions, consolidations or compilations of statutes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "a bill amending an existing law shall not be excepted from the provisions of sections 15, 16 and 17 of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless such amending bill shall itself be recommended to the legislature by such commissioners or public agency"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s22": {
+  "review": {
+   "plain": "A tax law must distinctly state the tax and its object, and may not just refer to another law. But an income tax law may define income by reference to the laws of the United States, with exceptions or modifications.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may define the income on, in respect to or by which such tax or taxes are imposed or measured, by reference to any provision of the laws of the United States"
+   ],
+   "limits": [
+    "it shall not be sufficient to refer to any other law to fix such tax or object"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Every law which imposes, continues or revives a tax shall distinctly state the tax and the object to which it is to be applied",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "distinctly state the tax and the object to which it is to be applied"
+     ],
+     "forbids": [
+      "it shall not be sufficient to refer to any other law to fix such tax or object"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature, in any law imposing a tax or taxes on, in respect to or measured by income, may define the income on, in respect to or by which such tax or taxes are imposed or measured, by reference to any provision of the laws of the United States as the same may be or become effective at any time or from time to time",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the foregoing or any other provision of this constitution",
+      "in any law imposing a tax or taxes on, in respect to or measured by income"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "may prescribe exceptions or modifications to any such provision",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s23": {
+  "review": {
+   "plain": "On final passage of any act that imposes a tax, creates a debt or charge, makes an appropriation, or releases a claim of the state, the vote is by yeas and nays entered on the journals, and three-fifths of all members elected is the quorum.",
+   "category": "The Legislature",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the question shall be taken by yeas and nays, which shall be duly entered upon the journals",
+     "holder": null,
+     "binds": "Either house of the legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "On the final passage, in either house of the legislature, of any act which imposes, continues or revives a tax, or creates a debt or charge, or makes, continues or revives any appropriation of public or trust money or property, or releases, discharges or commutes any claim or demand of the state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "three-fifths of all the members elected to either house shall, in all such cases, be necessary to constitute a quorum therein",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "three-fifths of all the members elected to either house"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s24": {
+  "review": {
+   "plain": "The legislature must provide by law for employing prisoners, and no prisoner may work where the work or its product is farmed out, contracted or sold to private parties, except voluntary work for nonprofit organizations; work for the state or public institutions is allowed.",
+   "category": "The Legislature",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "the legislature may provide by law that such prisoners may voluntarily perform work for nonprofit organizations"
+   ],
+   "limits": [
+    "no person in any such prison, penitentiary, jail or reformatory, shall be required or allowed to work"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall, by law, provide for the occupation and employment of prisoners sentenced to the several state prisons, penitentiaries, jails and reformatories in the state",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no person in any such prison, penitentiary, jail or reformatory, shall be required or allowed to work, while under sentence thereto, at any trade, industry or occupation, wherein or whereby his or her work, or the product or profit of his or her work, shall be farmed out, contracted, given or sold to any person, firm, association or corporation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring or allowing a person under sentence to work at any trade, industry or occupation wherein his or her work, or the product or profit of his or her work, shall be farmed out, contracted, given or sold to any person, firm, association or corporation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "provided that the legislature may provide by law that such prisoners may voluntarily perform work for nonprofit organizations",
+      "This section shall not be construed to prevent the legislature from providing that convicts may work for, and that the products of their labor may be disposed of to, the state or any political division thereof, or for or to any public institution owned or managed and controlled by the state, or any political division thereof"
+     ],
+     "terms": [
+      "\"nonprofit organization\": an organization operated exclusively for religious, charitable, or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature may provide by law that such prisoners may voluntarily perform work for nonprofit organizations",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"nonprofit organization\": an organization operated exclusively for religious, charitable, or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s25": {
+  "review": {
+   "plain": "To keep state and local government running in emergencies caused by enemy attack or disasters, the legislature has the power and immediate duty to provide for temporary succession to public offices and to adopt other necessary and proper measures.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "shall have the power and the immediate duty"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature shall have the power and the immediate duty (1) to provide for prompt and temporary succession to the powers and duties of public offices, of whatever nature and whether filled by election or appointment, the incumbents of which may become unavailable for carrying on the powers and duties of such offices",
+     "holder": "The legislature",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this constitution",
+      "in order to insure continuity of state and local governmental operations in periods of emergency caused by enemy attack or by disasters (natural or otherwise)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature shall have the power and the immediate duty (2) to adopt such other measures as may be necessary and proper for insuring the continuity of governmental operations",
+     "holder": "The legislature",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in order to insure continuity of state and local governmental operations in periods of emergency caused by enemy attack or by disasters (natural or otherwise)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing in this article shall be construed to limit in any way the power of the state to deal with emergencies arising from any cause",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s1": {
+  "review": {
+   "plain": "The executive power is vested in the governor, who serves four years; the lieutenant-governor is chosen at the same time for the same term. They are chosen jointly by a single vote every fourth year from 1938, and those with the most votes are elected.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The executive power shall be vested in the governor"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The executive power shall be vested in the governor, who shall hold office for four years",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the lieutenant-governor shall be chosen at the same time, and for the same term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The governor and lieutenant-governor shall be chosen at the general election held in the year nineteen hundred thirty-eight, and each fourth year thereafter",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "They shall be chosen jointly, by the casting by each voter of a single vote applicable to both offices",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "by the casting by each voter of a single vote applicable to both offices"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the legislature by law shall provide for making such choice in such manner",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The respective persons having the highest number of votes cast jointly for them for governor and lieutenant-governor respectively shall be elected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s2": {
+  "review": {
+   "plain": "Only a citizen of the United States, at least thirty years old, who has been a resident of New York for the five years before the election may be governor or lieutenant-governor.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No person shall be eligible to the office of governor or lieutenant-governor"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "No person shall be eligible to the office of governor or lieutenant-governor, except a citizen of the United States, of the age of not less than thirty years, and who shall have been five years next preceding the election a resident of this state",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "a citizen of the United States",
+      "of the age of not less than thirty years",
+      "who shall have been five years next preceding the election a resident of this state"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s3": {
+  "review": {
+   "plain": "The governor commands the state's military and naval forces, may convene the legislature or the senate on extraordinary occasions, reports to the legislature on the condition of the state, and must take care that the laws are faithfully executed. The governor receives a salary and an executive residence.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The governor shall be commander-in-chief of the military and naval forces of the state",
+    "The governor shall have power to convene the legislature, or the senate only, on extraordinary occasions"
+   ],
+   "limits": [
+    "no subject shall be acted upon, except such as the governor may recommend for consideration"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor shall be commander-in-chief of the military and naval forces of the state",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor shall have power to convene the legislature, or the senate only, on extraordinary occasions",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "At extraordinary sessions convened pursuant to the provisions of this section no subject shall be acted upon, except such as the governor may recommend for consideration",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Acting upon any subject at such extraordinary sessions"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except such as the governor may recommend for consideration"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The governor shall communicate by message to the legislature at every session the condition of the state, and recommend such matters to it as he or she shall judge expedient",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The governor shall expedite all such measures as may be resolved upon by the legislature, and shall take care that the laws are faithfully executed",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The governor shall receive for his or her services an annual salary to be fixed by joint resolution of the senate and assembly, and there shall be provided for his or her use a suitable and furnished executive residence",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s4": {
+  "review": {
+   "plain": "The governor may grant reprieves, commutations and pardons after conviction for all offenses except treason and impeachment. For treason, the governor may suspend the sentence until the legislature acts. The governor must report each grant to the legislature annually.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The governor shall have the power to grant reprieves, commutations and pardons after conviction",
+    "the governor shall have power to suspend the execution of the sentence"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The governor shall have the power to grant reprieves, commutations and pardons after conviction, for all offenses",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon such conditions and with such restrictions and limitations, as he or she may think proper",
+      "subject to such regulations as may be provided by law relative to the manner of applying for pardons"
+     ],
+     "exceptions": [
+      "except treason and cases of impeachment"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Upon conviction for treason, the governor shall have power to suspend the execution of the sentence, until the case shall be reported to the legislature at its next meeting",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon conviction for treason"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature shall either pardon, or commute the sentence, direct the execution of the sentence, or grant a further reprieve",
+     "holder": "The legislature",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the case shall be reported to the legislature at its next meeting"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The governor shall annually communicate to the legislature each case of reprieve, commutation or pardon granted",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [
+      "stating the name of the convict, the crime of which the convict was convicted, the sentence and its date, and the date of the commutation, pardon or reprieve"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s5": {
+  "review": {
+   "plain": "The lieutenant-governor becomes governor if the governor is removed, dies or resigns, or if the governor-elect declines or dies, and acts as governor while the governor is impeached, absent, unable to serve, or has not taken the oath.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the lieutenant-governor shall become governor for the remainder of the term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of the removal of the governor from office or of his or her death or resignation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the lieutenant-governor-elect shall become governor for the full term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case the governor-elect shall decline to serve or shall die"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the lieutenant-governor shall act as governor until the inability shall cease or until the term of the governor shall expire",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case the governor is impeached, is absent from the state or is otherwise unable to discharge the powers and duties of the office of governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the lieutenant-governor-elect shall act as governor until the governor shall take the oath",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of the failure of the governor-elect to take the oath of office at the commencement of his or her term"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s6": {
+  "review": {
+   "plain": "The lieutenant-governor has the governor's qualifications, presides over the senate with only a casting vote, and receives a salary. It sets elections when both offices are vacant and makes the temporary president of the senate, then the speaker, act as governor; the legislature may provide for other cases.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The legislature may provide for the devolution of the duty of acting as governor"
+   ],
+   "limits": [
+    "shall have only a casting vote therein",
+    "No election of a lieutenant-governor shall be had in any event except at the time of electing a governor"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The lieutenant-governor shall possess the same qualifications of eligibility for office as the governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The lieutenant-governor shall be the president of the senate but shall have only a casting vote therein",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The lieutenant-governor shall receive for his or her services an annual salary to be fixed by joint resolution of the senate and assembly",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "a governor and lieutenant-governor shall be elected for the remainder of the term at the next general election happening not less than three months after both offices shall have become vacant",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of vacancy in the offices of both governor and lieutenant-governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No election of a lieutenant-governor shall be had in any event except at the time of electing a governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Holding an election of a lieutenant-governor except at the time of electing a governor"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the temporary president of the senate shall act as governor until the inability shall cease or until a governor shall be elected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of vacancy in the offices of both governor and lieutenant-governor or if both of them shall be impeached, absent from the state or otherwise unable to discharge the powers and duties of the office of governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the temporary president of the senate shall perform all the duties of lieutenant-governor during such vacancy or inability",
+     "holder": null,
+     "binds": "The temporary president of the senate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In case of vacancy in the office of lieutenant-governor alone, or if the lieutenant-governor shall be impeached, absent from the state or otherwise unable to discharge the duties of office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the speaker of the assembly shall act as governor during such vacancy or inability",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If, when the duty of acting as governor devolves upon the temporary president of the senate, there be a vacancy in such office or the temporary president of the senate shall be absent from the state or otherwise unable to discharge the duties of governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide for the devolution of the duty of acting as governor in any case not provided for in this article",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s7": {
+  "review": {
+   "plain": "Every bill passed by both houses goes to the governor, who signs it or returns it with objections; two-thirds of the members elected to each house can override. Unreturned bills become law after ten days unless the legislature adjourns. The governor may object to items of appropriation.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the governor may object to one or more of such items while approving of the other portion of the bill"
+   ],
+   "limits": [
+    "No bill shall become a law after the final adjournment of the legislature, unless approved by the governor within thirty days after such adjournment",
+    "the appropriation so objected to shall not take effect"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Every bill which shall have passed the senate and assembly shall, before it becomes a law, be presented to the governor",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "be presented to the governor"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "if the governor approve, he or she shall sign it; but if not, he or she shall return it with his or her objections to the house in which it shall have originated",
+     "holder": "The governor",
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "which shall enter the objections at large on the journal, and proceed to reconsider it",
+     "holder": null,
+     "binds": "The house in which it shall have originated",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "If after such reconsideration, two-thirds of the members elected to that house shall agree to pass the bill, it shall be sent together with the objections, to the other house, by which it shall likewise be reconsidered; and if approved by two-thirds of the members elected to that house, it shall become a law notwithstanding the objections of the governor",
+     "holder": "The senate and assembly",
+     "binds": null,
+     "requires": [
+      "two-thirds of the members elected to that house"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In all such cases the votes in both houses shall be determined by yeas and nays, and the names of the members voting shall be entered on the journal of each house respectively",
+     "holder": null,
+     "binds": "Both houses",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If any bill shall not be returned by the governor within ten days (Sundays excepted) after it shall have been presented to him or her, the same shall be a law in like manner as if he or she had signed it",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the legislature shall, by their adjournment, prevent its return, in which case it shall not become a law without the approval of the governor"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No bill shall become a law after the final adjournment of the legislature, unless approved by the governor within thirty days after such adjournment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless approved by the governor within thirty days after such adjournment"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "If any bill presented to the governor contain several items of appropriation of money, the governor may object to one or more of such items while approving of the other portion of the bill",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [
+      "the governor shall append to the bill, at the time of signing it, a statement of the items to which he or she objects",
+      "the appropriation so objected to shall not take effect"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "If the legislature be in session, he or she shall transmit to the house in which the bill originated a copy of such statement, and the items objected to shall be separately reconsidered",
+     "holder": null,
+     "binds": "The governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the legislature be in session"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "If on reconsideration one or more of such items be approved by two-thirds of the members elected to each house, the same shall be part of the law, notwithstanding the objections of the governor",
+     "holder": "The senate and assembly",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All the provisions of this section, in relation to bills not approved by the governor, shall apply in cases in which he or she shall withhold approval from any item or items contained in a bill appropriating money",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}
