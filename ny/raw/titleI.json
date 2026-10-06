@@ -1,0 +1,912 @@
+{
+ "fetched": "2026-10-05",
+ "activeDate": "2026-08-28",
+ "title": "Offenses Involving Damage to and Intrusion Upon Property",
+ "locationId": "P3TI",
+ "tree": {
+  "lawId": "PEN",
+  "lawName": "Penal",
+  "locationId": "P3TI",
+  "title": "Offenses Involving Damage to and Intrusion Upon Property",
+  "docType": "TITLE",
+  "publishedDates": [
+   "2014-09-22"
+  ],
+  "docLevelId": "I",
+  "activeDate": "2014-09-22",
+  "sequenceNo": 248,
+  "repealedDate": null,
+  "fromSection": "140.00",
+  "toSection": "150.20",
+  "text": "                                 TITLE I\\n        OFFENSES INVOLVING DAMAGE TO AND INTRUSION UPON PROPERTY\\n",
+  "documents": {
+   "items": [
+    {
+     "lawId": "PEN",
+     "lawName": "Penal",
+     "locationId": "P3TIA140",
+     "title": "Burglary and Related Offenses",
+     "docType": "ARTICLE",
+     "publishedDates": [
+      "2014-09-22"
+     ],
+     "docLevelId": "140",
+     "activeDate": "2014-09-22",
+     "sequenceNo": 249,
+     "repealedDate": null,
+     "fromSection": "140.00",
+     "toSection": "140.40",
+     "text": "                               ARTICLE 140\\n                      BURGLARY AND RELATED OFFENSES\\nSection 140.00  Criminal trespass and burglary; definitions of terms.\\n        140.05  Trespass.\\n        140.10  Criminal trespass in the third degree.\\n        140.15  Criminal trespass in the second degree.\\n        140.17  Criminal trespass in the first degree.\\n        140.20  Burglary in the third degree.\\n        140.25  Burglary in the second degree.\\n        140.30  Burglary in the first degree.\\n        140.35  Possession of burglar's tools.\\n        140.40  Unlawful possession of radio devices.\\n",
+     "documents": {
+      "items": [
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.00",
+        "title": "Criminal trespass and burglary; definitions of terms",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.00",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 250,
+        "repealedDate": null,
+        "fromSection": "140.00",
+        "toSection": "140.00",
+        "text": "§ 140.00 Criminal trespass and burglary; definitions of terms.\\n  The following definitions are applicable to this article:\\n  1. \"Premises\" includes the term \"building,\" as defined herein, and any\\nreal property.\\n  2. \"Building,\" in addition to its ordinary meaning, includes any\\nstructure, vehicle or watercraft used for overnight lodging of persons,\\nor used by persons for carrying on business therein, or used as an\\nelementary or secondary school, or an inclosed motor truck, or an\\ninclosed motor truck trailer. Where a building consists of two or more\\nunits separately secured or occupied, each unit shall be deemed both a\\nseparate building in itself and a part of the main building.\\n  3. \"Dwelling\" means a building which is usually occupied by a person\\nlodging therein at night.\\n  4. \"Night\" means the period between thirty minutes after sunset and\\nthirty minutes before sunrise.\\n  5. \"Enter or remain unlawfully.\" A person \"enters or remains\\nunlawfully\" in or upon premises when he is not licensed or privileged to\\ndo so. A person who, regardless of his intent, enters or remains in or\\nupon premises which are at the time open to the public does so with\\nlicense and privilege unless he defies a lawful order not to enter or\\nremain, personally communicated to him by the owner of such premises or\\nother authorized person. A license or privilege to enter or remain in a\\nbuilding which is only partly open to the public is not a license or\\nprivilege to enter or remain in that part of the building which is not\\nopen to the public. A person who enters or remains upon unimproved and\\napparently unused land, which is neither fenced nor otherwise enclosed\\nin a manner designed to exclude intruders, does so with license and\\nprivilege unless notice against trespass is personally communicated to\\nhim by the owner of such land or other authorized person, or unless such\\nnotice is given by posting in a conspicuous manner. A person who enters\\nor remains in or about a school building without written permission from\\nsomeone authorized to issue such permission or without a legitimate\\nreason which includes a relationship involving custody of or\\nresponsibility for a pupil or student enrolled in the school or without\\nlegitimate business or a purpose relating to the operation of the school\\ndoes so without license and privilege.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.05",
+        "title": "Trespass",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.05",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 251,
+        "repealedDate": null,
+        "fromSection": "140.05",
+        "toSection": "140.05",
+        "text": "§ 140.05. Trespass.\\n  A person is guilty of trespass when he knowingly enters or remains\\nunlawfully in or upon premises.\\n  Trespass is a violation.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.10",
+        "title": "Criminal trespass in the third degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.10",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 252,
+        "repealedDate": null,
+        "fromSection": "140.10",
+        "toSection": "140.10",
+        "text": "§ 140.10 Criminal trespass in the third degree.\\n  A person is guilty of criminal trespass in the third degree when he\\nknowingly enters or remains unlawfully in a building or upon real\\nproperty\\n  (a) which is fenced or otherwise enclosed in a manner designed to\\nexclude intruders; or\\n  (b) where the building is utilized as an elementary or secondary\\nschool or a children's overnight camp as defined in section one thousand\\nthree hundred ninety-two of the public health law or a summer day camp\\nas defined in section one thousand three hundred ninety-two of the\\npublic health law in violation of conspicuously posted rules or\\nregulations governing entry and use thereof; or\\n  (c) located within a city with a population in excess of one million\\nand where the building or real property is utilized as an elementary or\\nsecondary school in violation of a personally communicated request to\\nleave the premises from a principal, custodian or other person in charge\\nthereof; or\\n  (d) located outside of a city with a population in excess of one\\nmillion and where the building or real property is utilized as an\\nelementary or secondary school in violation of a personally communicated\\nrequest to leave the premises from a principal, custodian, school board\\nmember or trustee, or other person in charge thereof; or\\n  (e) where the building is used as a public housing project in\\nviolation of conspicuously posted rules or regulations governing entry\\nand use thereof; or\\n  (f) where a building is used as a public housing project in violation\\nof a personally communicated request to leave the premises from a\\nhousing police officer or other person in charge thereof; or\\n  (g) where the property consists of a right-of-way or yard of a\\nrailroad or rapid transit railroad which has been designated and\\nconspicuously posted as a no-trespass railroad zone.\\n  Criminal trespass in the third degree is a class B misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.15",
+        "title": "Criminal trespass in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.15",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 253,
+        "repealedDate": null,
+        "fromSection": "140.15",
+        "toSection": "140.15",
+        "text": "§ 140.15 Criminal trespass in the second degree.\\n  A person is guilty of criminal trespass in the second degree when:\\n  1. he or she knowingly enters or remains unlawfully in a dwelling; or\\n  2. being a person required to maintain registration under article\\nsix-C of the correction law and designated a level two or level three\\noffender pursuant to subdivision six of section one hundred\\nsixty-eight-l of the correction law, he or she enters or remains in a\\npublic or private elementary, parochial, intermediate, junior high,\\nvocational or high school knowing that the victim of the offense for\\nwhich such registration is required attends or formerly attended such\\nschool. It shall not be an offense subject to prosecution under this\\nsubdivision if: the person is a lawfully registered student at such\\nschool; the person is a lawful student participant in a school sponsored\\nevent; the person is a parent or a legal guardian of a lawfully\\nregistered student at such school and enters the school for the purpose\\nof attending their child's or dependent's event or activity; such school\\nis the person's designated polling place and he or she enters such\\nschool building for the limited purpose of voting; or if the person\\nenters such school building for the limited purposes authorized by the\\nsuperintendent or chief administrator of such school.\\n  Criminal trespass in the second degree is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.17",
+        "title": "Criminal trespass in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.17",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 254,
+        "repealedDate": null,
+        "fromSection": "140.17",
+        "toSection": "140.17",
+        "text": "§ 140.17. Criminal trespass in the first degree.\\n  A person is guilty of criminal trespass in the first degree when he\\nknowingly enters or remains unlawfully in a building, and when, in the\\ncourse of committing such crime, he:\\n  1. Possesses, or knows that another participant in the crime\\npossesses, an explosive or a deadly weapon; or\\n  2. Possesses a firearm, rifle or shotgun, as those terms are defined\\nin section 265.00, and also possesses or has readily accessible a\\nquantity of ammunition which is capable of being discharged from such\\nfirearm, rifle or shotgun; or\\n  3. Knows that another participant in the crime possesses a firearm,\\nrifle or shotgun under circumstances described in subdivision two.\\n  Criminal trespass in the first degree is a class D felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.20",
+        "title": "Burglary in the third degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.20",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 255,
+        "repealedDate": null,
+        "fromSection": "140.20",
+        "toSection": "140.20",
+        "text": "§ 140.20 Burglary in the third degree.\\n  A person is guilty of burglary in the third degree when he knowingly\\nenters or remains unlawfully in a building with intent to commit a crime\\ntherein.\\n  Burglary in the third degree is a class D felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.25",
+        "title": "Burglary in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.25",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 256,
+        "repealedDate": null,
+        "fromSection": "140.25",
+        "toSection": "140.25",
+        "text": "§ 140.25 Burglary in the second degree.\\n  A person is guilty of burglary in the second degree when he knowingly\\nenters or remains unlawfully in a building with intent to commit a crime\\ntherein, and when:\\n  1. In effecting entry or while in the building or in immediate flight\\ntherefrom, he or another participant in the crime:\\n  (a) Is armed with explosives or a deadly weapon; or\\n  (b) Causes physical injury to any person who is not a participant in\\nthe crime; or\\n  (c) Uses or threatens the immediate use of a dangerous instrument; or\\n  (d) Displays what appears to be a pistol, revolver, rifle, shotgun,\\nmachine gun or other firearm; or\\n  2. The building is a dwelling.\\n  Burglary in the second degree is a class C felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.30",
+        "title": "Burglary in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.30",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 257,
+        "repealedDate": null,
+        "fromSection": "140.30",
+        "toSection": "140.30",
+        "text": "§ 140.30 Burglary in the first degree.\\n  A person is guilty of burglary in the first degree when he knowingly\\nenters or remains unlawfully in a dwelling with intent to commit a crime\\ntherein, and when, in effecting entry or while in the dwelling or in\\nimmediate flight therefrom, he or another participant in the crime:\\n  1. Is armed with explosives or a deadly weapon; or\\n  2. Causes physical injury to any person who is not a participant in\\nthe crime; or\\n  3. Uses or threatens the immediate use of a dangerous instrument; or\\n  4. Displays what appears to be a pistol, revolver, rifle, shotgun,\\nmachine gun or other firearm; except that in any prosecution under this\\nsubdivision, it is an affirmative defense that such pistol, revolver,\\nrifle, shotgun, machine gun or other firearm was not a loaded weapon\\nfrom which a shot, readily capable of producing death or other serious\\nphysical injury, could be discharged. Nothing contained in this\\nsubdivision shall constitute a defense to a prosecution for, or preclude\\na conviction of, burglary in the second degree, burglary in the third\\ndegree or any other crime.\\n  Burglary in the first degree is a class B felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.35",
+        "title": "Possession of burglar's tools",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.35",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 258,
+        "repealedDate": null,
+        "fromSection": "140.35",
+        "toSection": "140.35",
+        "text": "§ 140.35 Possession of burglar's tools.\\n  A person is guilty of possession of burglar's tools when he possesses\\nany tool, instrument or other article adapted, designed or commonly used\\nfor committing or facilitating offenses involving forcible entry into\\npremises, or offenses involving larceny by a physical taking, or\\noffenses involving theft of services as defined in subdivisions four,\\nfive and six of section 165.15, under circumstances evincing an intent\\nto use or knowledge that some person intends to use the same in the\\ncommission of an offense of such character.\\n  Possession of burglar's tools is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "140.40",
+        "title": "Unlawful possession of radio devices",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "140.40",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 259,
+        "repealedDate": null,
+        "fromSection": "140.40",
+        "toSection": "140.40",
+        "text": "§ 140.40 Unlawful possession of radio devices.\\n  As used in this section, the term \"radio device\" means any device\\ncapable of receiving a wireless voice transmission on any frequency\\nallocated for police use, or any device capable of transmitting and\\nreceiving a wireless voice transmission. A person is guilty of unlawful\\npossession of a radio device when he possesses a radio device with the\\nintent to use that device in the commission of robbery, burglary,\\nlarceny, gambling or a violation of any provision of article two hundred\\ntwenty of the penal law.\\n  Unlawful possession of a radio device is a class B misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       }
+      ],
+      "size": 10
+     },
+     "repealed": false
+    },
+    {
+     "lawId": "PEN",
+     "lawName": "Penal",
+     "locationId": "P3TIA145",
+     "title": "Criminal Mischief and Related Offenses",
+     "docType": "ARTICLE",
+     "publishedDates": [
+      "2014-09-22"
+     ],
+     "docLevelId": "145",
+     "activeDate": "2014-09-22",
+     "sequenceNo": 260,
+     "repealedDate": null,
+     "fromSection": "145.00",
+     "toSection": "145.70",
+     "text": "                               ARTICLE 145\\n                 CRIMINAL MISCHIEF AND RELATED OFFENSES\\nSection 145.00  Criminal mischief in the fourth degree.\\n        145.05  Criminal mischief in the third degree.\\n        145.10  Criminal mischief in the second degree.\\n        145.12  Criminal mischief in the first degree.\\n        145.13  Definitions.\\n        145.14  Criminal tampering in the third degree.\\n        145.15  Criminal tampering in the second degree.\\n        145.20  Criminal tampering in the first degree.\\n        145.22  Cemetery desecration in the second degree.\\n        145.23  Cemetery desecration in the first degree.\\n        145.25  Reckless endangerment of property.\\n        145.26  Aggravated cemetery desecration in the second degree.\\n        145.27  Aggravated cemetery desecration in the first degree.\\n        145.30  Unlawfully posting advertisements.\\n        145.35  Tampering with a consumer product; consumer product\\n                  defined.\\n        145.40  Tampering with a consumer product in the second degree.\\n        145.45  Tampering with a consumer product in the first degree.\\n        145.50  Penalties for littering on railroad tracks and\\n                  rights-of-way.\\n        145.60  Making graffiti.\\n        145.65  Possession of graffiti instruments.\\n        145.70  Criminal possession of a taximeter accelerating device.\\n",
+     "documents": {
+      "items": [
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.00",
+        "title": "Criminal mischief in the fourth degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.00",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 261,
+        "repealedDate": null,
+        "fromSection": "145.00",
+        "toSection": "145.00",
+        "text": "§ 145.00 Criminal mischief in the fourth degree.\\n  A person is guilty of criminal mischief in the fourth degree when,\\nhaving no right to do so nor any reasonable ground to believe that he or\\nshe has such right, he or she:\\n  1. Intentionally damages property of another person; or\\n  2. Intentionally participates in the destruction of an abandoned\\nbuilding as defined in section one thousand nine hundred seventy-one-a\\nof the real property actions and proceedings law; or\\n  3. Recklessly damages property of another person in an amount\\nexceeding two hundred fifty dollars; or\\n  4. With intent to prevent a person from communicating a request for\\nemergency assistance, intentionally disables or removes telephonic, TTY\\nor similar communication sending equipment while that person: (a) is\\nattempting to seek or is engaged in the process of seeking emergency\\nassistance from police, law enforcement, fire or emergency medical\\nservices personnel; or (b) is attempting to seek or is engaged in the\\nprocess of seeking emergency assistance from another person or entity in\\norder to protect himself, herself or a third person from imminent\\nphysical injury. The fact that the defendant has an ownership interest\\nin such equipment shall not be a defense to a charge pursuant to this\\nsubdivision.\\n  Criminal mischief in the fourth degree is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.05",
+        "title": "Criminal mischief in the third degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.05",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 262,
+        "repealedDate": null,
+        "fromSection": "145.05",
+        "toSection": "145.05",
+        "text": "§ 145.05 Criminal mischief in the third degree.\\n  A person is guilty of criminal mischief in the third degree when, with\\nintent to damage property of another person, and having no right to do\\nso nor any reasonable ground to believe that he or she has such right,\\nhe or she:\\n  1. damages the motor vehicle of another person, by breaking into such\\nvehicle when it is locked with the intent of stealing property, and\\nwithin the previous ten year period, has been convicted three or more\\ntimes, in separate criminal transactions for which sentence was imposed\\non separate occasions, of criminal mischief in the fourth degree as\\ndefined in section 145.00, criminal mischief in the third degree as\\ndefined in this section, criminal mischief in the second degree as\\ndefined in section 145.10, or criminal mischief in the first degree as\\ndefined in section 145.12 of this article; or\\n  2. damages property of another person in an amount exceeding two\\nhundred fifty dollars.\\n  Criminal mischief in the third degree is a class E felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.10",
+        "title": "Criminal mischief in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.10",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 263,
+        "repealedDate": null,
+        "fromSection": "145.10",
+        "toSection": "145.10",
+        "text": "§ 145.10 Criminal mischief in the second degree.\\n  A person is guilty of criminal mischief in the second degree when with\\nintent to damage property of another person, and having no right to do\\nso nor any reasonable ground to believe that he has such right, he\\ndamages property of another person in an amount exceeding one thousand\\nfive hundred dollars.\\n  Criminal mischief in the second degree is a class D felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.12",
+        "title": "Criminal mischief in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.12",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 264,
+        "repealedDate": null,
+        "fromSection": "145.12",
+        "toSection": "145.12",
+        "text": "§ 145.12 Criminal mischief in the first degree.\\n  A person is guilty of criminal mischief in the first degree when with\\nintent to damage property of another person, and having no right to do\\nso nor any reasonable ground to believe that he has such right, he\\ndamages property of another person by means of an explosive.\\n  Criminal mischief in the first degree is a class B felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.13",
+        "title": "Definitions",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.13",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 265,
+        "repealedDate": null,
+        "fromSection": "145.13",
+        "toSection": "145.13",
+        "text": "§ 145.13 Definitions.\\n  For the purposes of sections 145.00, 145.05, 145.10 and 145.12 of this\\narticle:\\n  \"Property of another\" shall include all property in which another\\nperson has an ownership interest, whether or not a person who damages\\nsuch property, or any other person, may also have an interest in such\\nproperty.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.14",
+        "title": "Criminal tampering in the third degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.14",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 266,
+        "repealedDate": null,
+        "fromSection": "145.14",
+        "toSection": "145.14",
+        "text": "§ 145.14 Criminal tampering in the third degree.\\n  A person is guilty of criminal tampering in the third degree when,\\nhaving no right to do so nor any reasonable ground to believe that he\\nhas such right, he tampers with property of another person with intent\\nto cause substantial inconvenience to such person or to a third person.\\n  Criminal tampering in the third degree is a class B misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.15",
+        "title": "Criminal tampering in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.15",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 267,
+        "repealedDate": null,
+        "fromSection": "145.15",
+        "toSection": "145.15",
+        "text": "§ 145.15 Criminal tampering in the second degree.\\n  A person is guilty of criminal tampering in the second degree when,\\nhaving no right to do so nor any reasonable ground to believe that he\\nhas such right, he or she tampers or makes connection with property of a\\ngas, electric, sewer, steam or water-works corporation, telephone or\\ntelegraph corporation, common carrier, nuclear powered electric\\ngenerating facility, or public utility operated by a municipality or\\ndistrict; except that in any prosecution under this section, it is an\\naffirmative defense that the defendant did not engage in such conduct\\nfor a larcenous or otherwise unlawful or wrongful purpose.\\n  Criminal tampering in the second degree is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.20",
+        "title": "Criminal tampering in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.20",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 268,
+        "repealedDate": null,
+        "fromSection": "145.20",
+        "toSection": "145.20",
+        "text": "§ 145.20 Criminal tampering in the first degree.\\n  A person is guilty of criminal tampering in the first degree when,\\nwith intent to cause a substantial interruption or impairment of a\\nservice rendered to the public, and having no right to do so nor any\\nreasonable ground to believe that he or she has such right, he or she\\ndamages or tampers with property of a gas, electric, sewer, steam or\\nwater-works corporation, telephone or telegraph corporation, common\\ncarrier, nuclear powered electric generating facility, or public utility\\noperated by a municipality or district, and thereby causes such\\nsubstantial interruption or impairment of service.\\n  Criminal tampering in the first degree is a class D felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.22",
+        "title": "Cemetery desecration in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.22",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 269,
+        "repealedDate": null,
+        "fromSection": "145.22",
+        "toSection": "145.22",
+        "text": "§ 145.22 Cemetery desecration in the second degree.\\n  A person is guilty of cemetery desecration in the second degree when:\\n(a) with intent to damage property of another person, and having no\\nright to do so nor any reasonable ground to believe that he has such\\nright, he damages any real or personal property maintained as a cemetery\\nplot, grave, burial place or other place of interment of human remains;\\nor\\n  (b) with intent to steal personal property, he steals personal\\nproperty which is located at a cemetery plot, grave, burial place or\\nother place of interment of human remains and which property is owned by\\nthe person or organization which maintains or owns such place or the\\nestate, next-of-kin or representatives of the deceased person interred\\nthere.\\n  Cemetery desecration in the second degree is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.23",
+        "title": "Cemetery desecration in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.23",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 270,
+        "repealedDate": null,
+        "fromSection": "145.23",
+        "toSection": "145.23",
+        "text": "§ 145.23 Cemetery desecration in the first degree.\\n  A person is guilty of cemetery desecration in the first degree when\\nwith intent to damage property of another person, and having no right to\\ndo so nor any reasonable ground to believe that he has such right, he:\\n  (a) damages any real or personal property maintained as a cemetery\\nplot, grave, burial place or other place of interment of human remains\\nin an amount exceeding two hundred fifty dollars; or\\n  (b) with intent to steal personal property, he steals personal\\nproperty, the value of which exceeds two hundred fifty dollars, which is\\nlocated at a cemetery plot, grave, burial place or other place of\\ninterment of human remains and which property is owned by the person or\\norganization which maintains or owns such place or the estate,\\nnext-of-kin or representatives of the deceased person interred there; or\\n  (c) commits the crime of cemetery desecration in the second degree as\\ndefined in section 145.22 of this article and has been previously\\nconvicted of the crime of cemetery desecration in the second degree\\nwithin the preceding five years.\\n  Cemetery desecration in the first degree is a class E felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.25",
+        "title": "Reckless endangerment of property",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.25",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 271,
+        "repealedDate": null,
+        "fromSection": "145.25",
+        "toSection": "145.25",
+        "text": "§ 145.25 Reckless endangerment of property.\\n  A person is guilty of reckless endangerment of property when he\\nrecklessly engages in conduct which creates a substantial risk of damage\\nto the property of another person in an amount exceeding two hundred\\nfifty dollars.\\n  Reckless endangerment of property is a class B misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.26",
+        "title": "Aggravated cemetery desecration in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.26",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 272,
+        "repealedDate": null,
+        "fromSection": "145.26",
+        "toSection": "145.26",
+        "text": "§ 145.26 Aggravated cemetery desecration in the second degree.\\n  A person is guilty of aggravated cemetery desecration in the second\\ndegree when, having no right to do so nor any reasonable ground to\\nbelieve that he or she has such right, he or she opens a casket, crypt,\\nor similar vessel containing a human body or human remains which has\\nbeen buried or otherwise interred in a cemetery and unlawfully removes\\ntherefrom a body, bodily part, any human remains or any object contained\\nin such casket, crypt or similar vessel for the purpose of obtaining\\nunlawful possession of such body, bodily part, human remains or object\\nfor such person or a third person.\\n  Aggravated cemetery desecration in the second degree is a class E\\nfelony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.27",
+        "title": "Aggravated cemetery desecration in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.27",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 273,
+        "repealedDate": null,
+        "fromSection": "145.27",
+        "toSection": "145.27",
+        "text": "§ 145.27 Aggravated cemetery desecration in the first degree.\\n  A person is guilty of aggravated cemetery desecration in the first\\ndegree when such person commits the crime of aggravated cemetery\\ndesecration in the second degree and has been previously convicted\\nwithin the past five years of the crime of cemetery desecration in the\\nsecond degree as defined in section 145.22 of this article, cemetery\\ndesecration in the first degree as defined in section 145.23 of this\\narticle or aggravated cemetery desecration in the second degree as\\ndefined in section 145.26 of this article.\\n  Aggravated cemetery desecration in the first degree is a class D\\nfelony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.30",
+        "title": "Unlawfully posting advertisements",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.30",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 274,
+        "repealedDate": null,
+        "fromSection": "145.30",
+        "toSection": "145.30",
+        "text": "§ 145.30 Unlawfully posting advertisements.\\n  1. A person is guilty of unlawfully posting advertisements when,\\nhaving no right to do so nor any reasonable ground to believe that he\\nhas such right, he posts, paints or otherwise affixes to the property of\\nanother person any advertisement, poster, notice or other matter\\ndesigned to benefit a person other than the owner of the property.\\n  2. Where such matter consists of a commercial advertisement, it shall\\nbe presumed that the vendor of the specified product, service or\\nentertainment is a person who placed such advertisement or caused it to\\nbe placed upon the property.\\n  Unlawfully posting advertisements is a violation.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.35",
+        "title": "Tampering with a consumer product; consumer product defined",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.35",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 275,
+        "repealedDate": null,
+        "fromSection": "145.35",
+        "toSection": "145.35",
+        "text": "§ 145.35 Tampering with a consumer product; consumer product defined.\\n  For the purposes of sections 145.40 and 145.45 of this article,\\n\"consumer product\" means any drug, food, beverage or thing which is\\ndisplayed or offered for sale to the public, for administration into or\\ningestion by a human being or for application to any external surface of\\na human being.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.40",
+        "title": "Tampering with a consumer product in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.40",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 276,
+        "repealedDate": null,
+        "fromSection": "145.40",
+        "toSection": "145.40",
+        "text": "§ 145.40 Tampering with a consumer product in the second degree.\\n  A person is guilty of tampering with a consumer product in the second\\ndegree when, having no right to do so nor any reasonable ground to\\nbelieve that he has such right, and with intent to cause physical injury\\nto another or with intent to instill in another a fear that he will\\ncause such physical injury, he alters, adulterates or otherwise\\ncontaminates a consumer product.\\n  Tampering with a consumer product in the second degree is a class A\\nmisdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.45",
+        "title": "Tampering with a consumer product in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.45",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 277,
+        "repealedDate": null,
+        "fromSection": "145.45",
+        "toSection": "145.45",
+        "text": "§ 145.45 Tampering with a consumer product in the first degree.\\n  A person is guilty of tampering with a consumer product in the first\\ndegree when, having no right to do so nor any reasonable ground to\\nbelieve that he has such right, and with intent to cause physical injury\\nto another or with intent to instill in another a fear that he will\\ncause such physical injury, he alters, adulterates or otherwise\\ncontaminates a consumer product and thereby creates a substantial risk\\nof serious physical injury to one or more persons.\\n  Tampering with a consumer product in the first degree is a class E\\nfelony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.50",
+        "title": "Penalties for littering on railroad tracks and rights-of-way",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.50",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 278,
+        "repealedDate": null,
+        "fromSection": "145.50",
+        "toSection": "145.50",
+        "text": "§ 145.50 Penalties for littering on railroad tracks and rights-of-way.\\n  1. No person shall throw, dump, or cause to be thrown, dumped,\\ndeposited or placed upon any railroad tracks, or within the limits of\\nthe rights-of-way of any railroad, any refuse, trash, garbage, rubbish,\\nlitter or any nauseous or offensive matter.\\n  2. Where a highway or road lies in whole or part within a railroad\\nrights-of-way, nothing in this section shall be construed as prohibiting\\nthe use in a reasonable manner of ashes, sand, salt or other material\\nfor the purpose of reducing the hazard of, or providing traction on\\nsnow, ice or sleet situated on such highway or road.\\n  3. A violation of the provisions of subdivision one of this section\\nshall be punishable by a fine not to exceed two hundred fifty dollars\\nand/or a requirement to perform services for a public or not-for-profit\\ncorporation, association, institution or agency not to exceed eight\\nhours and for any second or subsequent violation by a fine not to exceed\\nfive hundred dollars and/or a requirement to perform services for a\\npublic or not-for-profit corporation, association, institution or agency\\nnot to exceed eight hours.\\n  4. Nothing in this section shall be deemed to apply to a railroad or\\nits employees when matter deposited by them on the railroad tracks or\\nrights-of-way is done pursuant to railroad rules, regulations or\\nprocedures.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.60",
+        "title": "Making graffiti",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.60",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 279,
+        "repealedDate": null,
+        "fromSection": "145.60",
+        "toSection": "145.60",
+        "text": "§ 145.60 Making graffiti.\\n  1. For purposes of this section, the term \"graffiti\" shall mean the\\netching, painting, covering, drawing upon or otherwise placing of a mark\\nupon public or private property with intent to damage such property.\\n  2. No person shall make graffiti of any type on any building, public\\nor private, or any other property real or personal owned by any person,\\nfirm or corporation or any public agency or instrumentality, without the\\nexpress permission of the owner or operator of said property.\\n  Making graffiti is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.65",
+        "title": "Possession of graffiti instruments",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.65",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 280,
+        "repealedDate": null,
+        "fromSection": "145.65",
+        "toSection": "145.65",
+        "text": "§ 145.65 Possession of graffiti instruments.\\n  A person is guilty of possession of graffiti instruments when he\\npossesses any tool, instrument, article, substance, solution or other\\ncompound designed or commonly used to etch, paint, cover, draw upon or\\notherwise place a mark upon a piece of property which that person has no\\npermission or authority to etch, paint, cover, draw upon or otherwise\\nmark, under circumstances evincing an intent to use same in order to\\ndamage such property.\\n  Possession of graffiti instruments is a class B misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "145.70",
+        "title": "Criminal possession of a taximeter accelerating device",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "145.70",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 281,
+        "repealedDate": null,
+        "fromSection": "145.70",
+        "toSection": "145.70",
+        "text": "§ 145.70 Criminal possession of a taximeter accelerating device.\\n  1. For purposes of this section, a \"taximeter\" means an instrument or\\ndevice that automatically calculates and displays the charge to a\\npassenger in a vehicle that is licensed to transport members of the\\npublic for hire pursuant to local law.\\n  2. For purposes of this section, a \"taximeter accelerating device\"\\nmeans an instrument or device that causes a taximeter to increase the\\ncharge displayed by such taximeter to an amount greater than the maximum\\namount permitted by local law.\\n  3. A person is guilty of criminal possession of a taximeter\\naccelerating device when he knowingly possesses, with intent to use\\nunlawfully, a taximeter accelerating device. If such a device is\\nknowingly possessed there is a rebuttable presumption that it is\\nintended to be used unlawfully.\\n  Criminal possession of a taximeter accelerating device is a class A\\nmisdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       }
+      ],
+      "size": 21
+     },
+     "repealed": false
+    },
+    {
+     "lawId": "PEN",
+     "lawName": "Penal",
+     "locationId": "P3TIA150",
+     "title": "Arson",
+     "docType": "ARTICLE",
+     "publishedDates": [
+      "2014-09-22"
+     ],
+     "docLevelId": "150",
+     "activeDate": "2014-09-22",
+     "sequenceNo": 282,
+     "repealedDate": null,
+     "fromSection": "150.00",
+     "toSection": "150.20",
+     "text": "                               ARTICLE 150\\n                                  ARSON\\nSection 150.00 Arson; definitions.\\n        150.01 Arson in the fifth degree.\\n        150.05 Arson in the fourth degree.\\n        150.10 Arson in the third degree.\\n        150.15 Arson in the second degree.\\n        150.20 Arson in the first degree.\\n",
+     "documents": {
+      "items": [
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "150.00",
+        "title": "Arson; definitions",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "150.00",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 283,
+        "repealedDate": null,
+        "fromSection": "150.00",
+        "toSection": "150.00",
+        "text": "§ 150.00 Arson; definitions.\\n  As used in this article, 1. \"Building\", in addition to its ordinary\\nmeaning, includes any structure, vehicle or watercraft used for\\novernight lodging of persons, or used by persons for carrying on\\nbusiness therein.  Where a building consists of two or more units\\nseparately secured or occupied, each unit shall not be deemed a separate\\nbuilding.\\n  2. \"Motor vehicle\", includes every vehicle operated or driven upon a\\npublic highway which is propelled by any power other than muscular\\npower, except (a) electrically-driven invalid chairs being operated or\\ndriven by an invalid, (b) vehicles which run only upon rails or tracks,\\nand (c) snowmobiles as defined in article forty-seven of the vehicle and\\ntraffic law.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "150.01",
+        "title": "Arson in the fifth degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "150.01",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 284,
+        "repealedDate": null,
+        "fromSection": "150.01",
+        "toSection": "150.01",
+        "text": "  § 150.01 Arson in the fifth degree.\\n  A person is guilty of arson in the fifth degree when he or she\\nintentionally damages property of another without consent of the owner\\nby intentionally starting a fire or causing an explosion.\\n  Arson in the fifth degree is a class A misdemeanor.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "150.05",
+        "title": "Arson in the fourth degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "150.05",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 285,
+        "repealedDate": null,
+        "fromSection": "150.05",
+        "toSection": "150.05",
+        "text": "§ 150.05 Arson in the fourth degree.\\n  1. A person is guilty of arson in the fourth degree when he recklessly\\ndamages a building or motor vehicle by intentionally starting a fire or\\ncausing an explosion.\\n  2. In any prosecution under this section, it is an affirmative defense\\nthat no person other than the defendant had a possessory or proprietary\\ninterest in the building or motor vehicle.\\n  Arson in the fourth degree is a class E felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "150.10",
+        "title": "Arson in the third degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "150.10",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 286,
+        "repealedDate": null,
+        "fromSection": "150.10",
+        "toSection": "150.10",
+        "text": "§ 150.10 Arson in the third degree.\\n  1. A person is guilty of arson in the third degree when he\\nintentionally damages a building or motor vehicle by starting a fire or\\ncausing an explosion.\\n  2. In any prosecution under this section, it is an affirmative defense\\nthat (a) no person other than the defendant had a possessory or\\nproprietary interest in the building or motor vehicle, or if other\\npersons had such interests, all of them consented to the defendant's\\nconduct, and (b) the defendant's sole intent was to destroy or damage\\nthe building or motor vehicle for a lawful and proper purpose, and (c)\\nthe defendant had no reasonable ground to believe that his conduct might\\nendanger the life or safety of another person or damage another building\\nor motor vehicle.\\n  Arson in the third degree is a class C felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "150.15",
+        "title": "Arson in the second degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "150.15",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 287,
+        "repealedDate": null,
+        "fromSection": "150.15",
+        "toSection": "150.15",
+        "text": "§ 150.15 Arson in the second degree.\\n  A person is guilty of arson in the second degree when he intentionally\\ndamages a building or motor vehicle by starting a fire, and when (a)\\nanother person who is not a participant in the crime is present in such\\nbuilding or motor vehicle at the time, and (b) the defendant knows that\\nfact or the circumstances are such as to render the presence of such a\\nperson therein a reasonable possibility.\\n  Arson in the second degree is a class B felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       },
+       {
+        "lawId": "PEN",
+        "lawName": "Penal",
+        "locationId": "150.20",
+        "title": "Arson in the first degree",
+        "docType": "SECTION",
+        "publishedDates": [
+         "2014-09-22"
+        ],
+        "docLevelId": "150.20",
+        "activeDate": "2014-09-22",
+        "sequenceNo": 288,
+        "repealedDate": null,
+        "fromSection": "150.20",
+        "toSection": "150.20",
+        "text": "§ 150.20 Arson in the first degree.\\n  1. A person is guilty of arson in the first degree when he\\nintentionally damages a building or motor vehicle by causing an\\nexplosion or a fire and when (a) such explosion or fire is caused by an\\nincendiary device propelled, thrown or placed inside or near such\\nbuilding or motor vehicle; or when such explosion or fire is caused by\\nan explosive; or when such explosion or fire either (i) causes serious\\nphysical injury to another person other than a participant, or (ii) the\\nexplosion or fire was caused with the expectation or receipt of\\nfinancial advantage or pecuniary profit by the actor; and when (b)\\nanother person who is not a participant in the crime is present in such\\nbuilding or motor vehicle at the time; and (c) the defendant knows that\\nfact or the circumstances are such as to render the presence of such\\nperson therein a reasonable possibility.\\n  2. As used in this section, \"incendiary device\" means a breakable\\ncontainer designed to explode or produce uncontained combustion upon\\nimpact, containing flammable liquid and having a wick or a similar\\ndevice capable of being ignited.\\n  Arson in the first degree is a class A-I felony.\\n",
+        "documents": {
+         "items": [],
+         "size": 0
+        },
+        "repealed": false
+       }
+      ],
+      "size": 6
+     },
+     "repealed": false
+    }
+   ],
+   "size": 3
+  },
+  "repealed": false
+ }
+}

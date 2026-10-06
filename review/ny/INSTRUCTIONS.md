@@ -1,4 +1,4 @@
-# Task: review New York Penal Law sections (Part 3, Title H, Articles 120-135) and break each crime into its elements
+# Task: review New York Penal Law sections (Part 3: Title H, Articles 120-135; Title I, Articles 140-150; Title J, Articles 155-165) and break each crime into its elements
 
 Input: a JSON array of sections, each with `section` (the number, e.g. "120.05", "130.65-A"), `cite`, `title` (the official title, already used as the caption), `article`, and `text` (official paragraphs {i, t}; i = outline depth: subdivision "1." at 0 → paragraph "(a)" → subparagraph "(i)" → "(A)").
 
@@ -48,6 +48,8 @@ each crime:
 - `conditions`: facts that must be true ("The victim is a police officer", "The victim is less than eleven years old", "The person is eighteen years old or more" goes in `who`).
 - `exceptions`, `defenses`: lists, from this section only (an "affirmative defense" stated in the section goes in `defenses`).
 - `who`, `knowledge`, `mentalState`, `intent`, `penalties`, `consequences`, `terms`: only when different from shared.
+
+Property and theft crimes (Titles I and J): a value threshold ("the value of the property exceeds three thousand dollars"), the kind of property ("the property consists of a credit card"), or the kind of building ("the building is a dwelling") is a condition, in the law's words. Each numbered subdivision with a different threshold or kind of property is a separate crime; burglary in a dwelling and burglary while armed are separate crimes. Categories: burglary, criminal mischief, arson, larceny and possession of stolen property are "Property Crimes"; robbery (Article 160) is "Violence & Threats", as on the California and Massachusetts pages; computer offenses (Article 156) are "Cyber, Privacy & Communications"; welfare fraud and schemes to defraud are "Fraud & Money". Article 155.05 and similar sections that only define how larceny is committed are isOffense false.
 
 A **crime** is one distinct prohibited act with its own elements. In New York a section reads "A person is guilty of X when: 1. …; or 2. …": each numbered subdivision (and each lettered paragraph that stands alone) that requires different facts is a separate crime. Alternative verbs for the same conduct are ONE crime (use `ways`). A subdivision that only lists victim categories as alternatives in sub-items (i), (ii), (iii) is ONE crime with the categories as one condition or a `conditions` list item "Any of the following: …". A higher penalty for a repeat offense is a penalty tier with `if`, not a new crime. Do not create crimes for lines that only say the class.
 

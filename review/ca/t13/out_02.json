@@ -1,0 +1,1806 @@
+{
+ "466.8": {
+  "review": {
+   "title": "Locksmith work order records",
+   "isOffense": true,
+   "plain": "A person who makes a key to a home or business for someone else by onsite inspection must record the buyer's name, address, ID and other details on a work order and keep it two years; violating this is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "makes a key capable of opening any door or other means of entrance to any residence or commercial establishment for another",
+    "violates any provision of this subdivision"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Makes a key capable of opening any door or other means of entrance to any residence or commercial establishment for another by any method involving an onsite inspection of such door or entrance, and violates any provision of this subdivision",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Whether or not for compensation",
+      "The person does not obtain on a work order form, together with the date the key was made, the street address of the residence or commercial establishment, and the signature of the person for whom the key was made, the name, address, telephone number (if any), date of birth, and driver's license number or identification number (if any) of the person requesting or purchasing the key; or does not retain a copy of each such work order for two years open to inspection by any peace officer or by the Bureau of Collection and Investigative Services during business hours or submitted to the bureau upon request"
+     ],
+     "exceptions": [
+      "Nothing in this section prohibits the duplication of any key for a residence or commercial establishment from another such key"
+     ],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully"
+     ],
+     "terms": [
+      "\"Making of a key\": includes, but is not limited to, the making of a key from key codes or impressions"
+     ]
+    }
+   ]
+  }
+ },
+ "466.9": {
+  "review": {
+   "title": "Code grabbing devices",
+   "isOffense": true,
+   "plain": "Possessing a code grabbing device, or using one to disarm a vehicle security alarm, with intent to use it in an unlawful act is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "possesses a code grabbing device",
+    "uses a code grabbing device to disarm the security alarm system of a motor vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Code grabbing device\": a device that can receive and record the coded signal sent by the transmitter of a motor vehicle security alarm system and can play back the signal to disarm that system"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses a code grabbing device",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to use it in the commission of an unlawful act"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Uses a code grabbing device to disarm the security alarm system of a motor vehicle",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to use the device in the commission of an unlawful act"
+     ]
+    }
+   ]
+  }
+ },
+ "468": {
+  "review": {
+   "title": "Sniperscopes",
+   "isOffense": true,
+   "plain": "Knowingly buying, selling, receiving, disposing of, concealing, or possessing a sniperscope (an infrared night-vision firearm attachment) is a misdemeanor punishable by up to one year in county jail and a $1,000 fine.",
+   "category": "Weapons & Terrorism",
+   "maxYears": 1,
+   "acts": [
+    "buys, sells, receives, disposes of, conceals, or has in his possession a sniperscope"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Buys, sells, receives, disposes of, conceals, or has in his possession a sniperscope",
+     "ways": [
+      "buys",
+      "sells",
+      "receives",
+      "disposes of",
+      "conceals",
+      "has in his possession"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Authorized use or possession by a member of the armed forces of the United States or by police officers, peace officers, or law enforcement officers authorized by the properly constituted authorities for the enforcement of law or ordinances",
+      "Use or possession when used solely for scientific research or educational purposes"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "terms": [
+      "\"Sniperscope\": any attachment, device or similar contrivance designed for or adaptable to use on a firearm which, through the use of a projected infrared light source and electronic telescope, enables the operator thereof to visually determine and locate the presence of objects during the nighttime"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor punishable by a fine not to exceed one thousand dollars ($1,000) or by imprisonment in the county jail for not more than one year, or by both such fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "469": {
+  "review": {
+   "title": "Unauthorized keys to public buildings",
+   "isOffense": true,
+   "plain": "Knowingly making, duplicating, using, or possessing a key to a state, county, city, or public school building or area without authorization is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "makes, duplicates, causes to be duplicated, or uses, or attempts to make, duplicate, cause to be duplicated, or use, or has in his possession any key to a building or other area owned, operated, or controlled by the State of California, any state agency, board, or commission, a county, city, or any public school or community college district"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, duplicates, causes to be duplicated, or uses, or attempts to make, duplicate, cause to be duplicated, or use, or has in his possession any key to a building or other area owned, operated, or controlled by the State of California, any state agency, board, or commission, a county, city, or any public school or community college district",
+     "ways": [
+      "makes",
+      "duplicates",
+      "causes to be duplicated",
+      "uses",
+      "attempts to make, duplicate, cause to be duplicated, or use",
+      "has in his possession"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "Without authorization from the person in charge of such building or area or his designated representative"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly",
+      "With knowledge of the lack of such authorization"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "470": {
+  "review": {
+   "title": "Forgery defined",
+   "isOffense": true,
+   "plain": "Forgery is signing another's name, forging a seal or handwriting, falsifying official records, or making or passing false checks, bonds, deeds, and other listed documents, with intent to defraud; the punishment is set in Section 473.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "signs the name of another person or of a fictitious person to any of the items listed in subdivision (d)",
+    "counterfeits or forges the seal or handwriting of another",
+    "alters, corrupts, or falsifies any record of any will, codicil, conveyance, or other instrument",
+    "falsely makes, alters, forges, or counterfeits, utters, publishes, passes or attempts or offers to pass, as true and genuine, any of the following items",
+    "falsifies the acknowledgment of any notary public",
+    "issues an acknowledgment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Signs the name of another person or of a fictitious person to any of the items listed in subdivision (d)",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ],
+     "knowledge": [
+      "Knowing that he or she has no authority to do so"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Counterfeits or forges the seal or handwriting of another",
+     "ways": [
+      "counterfeits",
+      "forges"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Alters, corrupts, or falsifies any record of any will, codicil, conveyance, or other instrument, the record of which is by law evidence, or any record of any judgment of a court or the return of any officer to any process of any court",
+     "ways": [
+      "alters",
+      "corrupts",
+      "falsifies"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Falsely makes, alters, forges, or counterfeits, utters, publishes, passes or attempts or offers to pass, as true and genuine, any of the following items: any check, bond, bank bill, or note, cashier's check, traveler's check, money order, post note, draft, controller's warrant, county order or warrant, request for the payment of money, receipt for money or goods, bill of exchange, promissory note, order, assignment, contract, due bill, passage ticket, lottery ticket or share purporting to be issued under the California State Lottery Act of 1984, trading stamp, power of attorney, certificate of ownership or other document evidencing ownership of a vehicle or undocumented vessel, stock certificate, or other listed instrument; or falsifies the acknowledgment of any notary public; or any matter described in subdivision (b)",
+     "ways": [
+      "falsely makes",
+      "alters",
+      "forges",
+      "counterfeits",
+      "utters",
+      "publishes",
+      "passes",
+      "attempts or offers to pass",
+      "falsifies the acknowledgment of any notary public"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ],
+     "knowledge": [
+      "Knowing the same to be false, altered, forged, or counterfeited"
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Issues an acknowledgment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A notary public",
+     "knowledge": [
+      "Knowing it to be false"
+     ]
+    }
+   ]
+  }
+ },
+ "470a": {
+  "review": {
+   "title": "Forging a driver's license or ID card",
+   "isOffense": true,
+   "plain": "Altering, forging, copying, or counterfeiting a government-issued driver's license or ID card to help commit forgery is punishable by up to one year in county jail or as a felony.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "alters, falsifies, forges, duplicates or in any manner reproduces or counterfeits any driver’s license or identification card issued by a governmental agency"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Alters, falsifies, forges, duplicates or in any manner reproduces or counterfeits any driver's license or identification card issued by a governmental agency",
+     "ways": [
+      "alters",
+      "falsifies",
+      "forges",
+      "duplicates",
+      "in any manner reproduces",
+      "counterfeits"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that such driver's license or identification card be used to facilitate the commission of any forgery"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "470b": {
+  "review": {
+   "title": "Possessing a forged driver's license or ID",
+   "isOffense": true,
+   "plain": "Displaying or possessing a driver's license or ID card of the kind in Section 470a, intending it to be used to commit forgery, is punishable by up to one year in county jail or as a felony.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "displays or causes or permits to be displayed or has in his or her possession any driver’s license or identification card of the type enumerated in Section 470a"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Displays or causes or permits to be displayed or has in his or her possession any driver's license or identification card of the type enumerated in Section 470a",
+     "ways": [
+      "displays",
+      "causes or permits to be displayed",
+      "has in his or her possession"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that the driver's license or identification card be used to facilitate the commission of any forgery"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "471": {
+  "review": {
+   "title": "Forging record entries",
+   "isOffense": true,
+   "plain": "Making, forging, or altering an entry in a book of records, or a record or return named in Section 470, with intent to defraud is forgery; the punishment is set in Section 473.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "makes, forges, or alters any entry in any book of records, or any instrument purporting to be any record or return specified in Section 470"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, forges, or alters any entry in any book of records, or any instrument purporting to be any record or return specified in Section 470",
+     "ways": [
+      "makes",
+      "forges",
+      "alters"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud another"
+     ]
+    }
+   ]
+  }
+ },
+ "471.5": {
+  "review": {
+   "title": "Falsifying medical records",
+   "isOffense": true,
+   "plain": "Altering or modifying a person's medical record, or creating a false medical record, with fraudulent intent is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "alters or modifies the medical record of any person",
+    "creates any false medical record"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With fraudulent intent"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Alters or modifies the medical record of any person",
+     "ways": [
+      "alters",
+      "modifies"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Creates any false medical record",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "472": {
+  "review": {
+   "title": "Forging public or corporate seals",
+   "isOffense": true,
+   "plain": "Forging or counterfeiting a state, court, public officer's, or corporate seal or its impression, or possessing and concealing a known counterfeit seal, with intent to defraud is forgery; the punishment is set in Section 473.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "forges, or counterfeits the seal of this State",
+    "falsely makes, forges, or counterfeits any impression purporting to be an impression of any such seal",
+    "has in his possession any such counterfeited seal or impression thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With intent to defraud another"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Forges, or counterfeits the seal of this State, the seal of any public officer authorized by law, the seal of any Court of record, or the seal of any corporation, or any other public seal authorized or recognized by the laws of this State, or of any other State, Government, or country",
+     "ways": [
+      "forges",
+      "counterfeits"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Falsely makes, forges, or counterfeits any impression purporting to be an impression of any such seal",
+     "ways": [
+      "falsely makes",
+      "forges",
+      "counterfeits"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Has in his possession any such counterfeited seal or impression thereof and conceals the same",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing it to be counterfeited"
+     ],
+     "intent": [
+      "With intent to defraud another",
+      "Willfully conceals"
+     ]
+    }
+   ]
+  }
+ },
+ "473": {
+  "review": {
+   "title": "Punishment for forgery",
+   "isOffense": true,
+   "plain": "Forgery is punishable by up to one year in county jail or as a felony; forgery of a check or similar item worth $950 or less is limited to one year in county jail unless the person has certain prior convictions.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "Forgery",
+    "guilty of forgery relating to a check, bond, bank bill, note, cashier’s check, traveler’s check, or money order"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits forgery",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits forgery relating to a check, bond, bank bill, note, cashier's check, traveler's check, or money order",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the check, bond, bank bill, note, cashier's check, traveler's check, or money order does not exceed nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [
+      "This subdivision shall not be applicable to any person who is convicted both of forgery and of identity theft, as defined in Section 530.5"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the person has one or more prior convictions for an offense specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 or for an offense requiring registration pursuant to subdivision (c) of Section 290",
+       "penalty": "May instead be punished pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "474": {
+  "review": {
+   "title": "False telegraph or telephone messages",
+   "isOffense": true,
+   "plain": "Sending, delivering, or furnishing a false or forged message purporting to come from a telegraph or telephone office or another person, to deceive, injure, or defraud, is punishable by up to one year in county jail or as a felony, and a $10,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "sends by telegraph or telephone to any person a false or forged message",
+    "delivers or causes to be delivered to any person any such message",
+    "furnishes, or conspires to furnish, or causes to be furnished to any agent, operator, or employee"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to deceive, injure, or defraud another"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or a fine not exceeding ten thousand dollars ($10,000), or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sends by telegraph or telephone to any person a false or forged message, purporting to be from a telegraph or telephone office, or from any other person",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "With the intent to deceive, injure, or defraud another"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Delivers or causes to be delivered to any person any such message falsely purporting to have been received by telegraph or telephone",
+     "ways": [
+      "delivers",
+      "causes to be delivered"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "With the intent to deceive, injure, or defraud another"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Furnishes, or conspires to furnish, or causes to be furnished to any agent, operator, or employee, to be sent by telegraph or telephone, or to be delivered, any such message",
+     "ways": [
+      "furnishes",
+      "conspires to furnish",
+      "causes to be furnished"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the same to be false or forged"
+     ]
+    }
+   ]
+  }
+ },
+ "475": {
+  "review": {
+   "title": "Possessing forged or blank checks",
+   "isOffense": true,
+   "plain": "Possessing or receiving forged items, or possessing blank or completed checks, money orders, and similar items, intending to complete, pass, or utter them to defraud, is forgery; the punishment is set in Section 473.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "possesses or receives",
+    "possesses any blank or unfinished check, note, bank bill, money order, or traveler’s check, whether real or fictitious",
+    "possesses any completed check, money order, traveler’s check, warrant or county order, whether real or fictitious"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses or receives any forged, altered, or counterfeit items, or completed items contained in subdivision (d) of Section 470",
+     "ways": [
+      "possesses",
+      "receives"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to pass or facilitate the passage or utterance",
+      "With intent to defraud"
+     ],
+     "knowledge": [
+      "Knowing the same to be forged, altered, or counterfeit"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Possesses any blank or unfinished check, note, bank bill, money order, or traveler's check, whether real or fictitious",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intention of completing the same or the intention of facilitating the completion of the same, in order to defraud any person"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Possesses any completed check, money order, traveler's check, warrant or county order, whether real or fictitious",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to utter or pass or facilitate the utterance or passage of the same, in order to defraud any person"
+     ]
+    }
+   ]
+  }
+ },
+ "476": {
+  "review": {
+   "title": "Fictitious or altered checks",
+   "isOffense": true,
+   "plain": "Making, passing, or possessing a fictitious or altered bill, note, or check of a real or fictitious financial institution, with intent to defraud, is forgery; the punishment is set in Section 473.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "makes, passes, utters, or publishes",
+    "attempts to pass, utter, or publish",
+    "has in his or her possession"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, passes, utters, or publishes, or attempts to pass, utter, or publish, any fictitious or altered bill, note, or check, purporting to be the bill, note, or check, or other instrument in writing for the payment of money or property of any real or fictitious financial institution as defined in Section 186.9",
+     "ways": [
+      "makes",
+      "passes",
+      "utters",
+      "publishes",
+      "attempts to pass, utter, or publish"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud any other person"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Has in his or her possession any fictitious or altered bill, note, or check, purporting to be the bill, note, or check, or other instrument in writing for the payment of money or property of any real or fictitious financial institution as defined in Section 186.9",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With like intent to utter, pass, or publish",
+      "With intent to defraud any other person"
+     ]
+    }
+   ]
+  }
+ },
+ "476a": {
+  "review": {
+   "title": "Bad checks (insufficient funds)",
+   "isOffense": true,
+   "plain": "Writing or delivering a check knowing there are not enough funds or credit to cover it, with intent to defraud, is punishable by up to one year in county jail or as a felony; $950 or less is generally county jail only.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "makes or draws or utters or delivers a check, draft, or order upon a bank or depositary, a person, a firm, or a corporation, for the payment of money"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Makes or draws or utters or delivers a check, draft, or order upon a bank or depositary, a person, a firm, or a corporation, for the payment of money",
+     "ways": [
+      "makes",
+      "draws",
+      "utters",
+      "delivers"
+     ],
+     "tags": [],
+     "conditions": [
+      "For himself or herself, as the agent or representative of another, or as an officer of a corporation",
+      "Although no express representation is made with reference thereto"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully, with intent to defraud"
+     ],
+     "knowledge": [
+      "Knowing at the time of that making, drawing, uttering, or delivering that the maker or drawer or the corporation has not sufficient funds in, or credit with the bank or depositary, person, firm, or corporation, for the payment of that check, draft, or order and all other checks, drafts, or orders upon funds then outstanding, in full upon its presentation"
+     ],
+     "terms": [
+      "\"Credit\": an arrangement or understanding with the bank or depositary, person, firm, or corporation for the payment of a check, draft, or order"
+     ],
+     "consequences": [
+      "A sheriff's department, police department, or other law enforcement agency may collect a fee from the defendant, not exceeding twenty-five dollars ($25) for each bad check, in addition to the amount of any bank charges incurred by the victim (bank charges reimbursed to the victim may not exceed ten dollars ($10) per check)"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the total amount of all checks, drafts, or orders that the defendant is charged with and convicted of making, drawing, or uttering does not exceed nine hundred fifty dollars ($950) (not applicable if the defendant has previously been convicted of three or more violations of Section 470, 475, or 476, or of this section, or of petty theft in a case in which the offense was also such a violation, or of a like offense under the laws of any other state or of the United States)",
+       "penalty": "Punishable only by imprisonment in the county jail for not more than one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the total does not exceed nine hundred fifty dollars ($950) and the person has one or more prior convictions for an offense specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 or for an offense requiring registration pursuant to subdivision (c) of Section 290",
+       "penalty": "May instead be punished pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "477": {
+  "review": {
+   "title": "Counterfeiting coin or bullion",
+   "isOffense": true,
+   "plain": "Counterfeiting gold or silver coin, gold dust, or bullion, or knowingly selling or passing such counterfeits, with intent to defraud, is counterfeiting; the punishment is set in Section 478.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "counterfeits any of the species of gold or silver coin current in this State, or any kind or species of gold dust, gold or silver bullion, or bars, lumps, pieces, or nuggets",
+    "sells, passes, or gives in payment such counterfeit coin, dust, bullion, bars, lumps, pieces, or nuggets",
+    "permits, causes, or procures the same to be sold, uttered, or passed"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "intent": [
+     "With intention to defraud any person"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Counterfeits any of the species of gold or silver coin current in this State, or any kind or species of gold dust, gold or silver bullion, or bars, lumps, pieces, or nuggets",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Sells, passes, or gives in payment such counterfeit coin, dust, bullion, bars, lumps, pieces, or nuggets, or permits, causes, or procures the same to be sold, uttered, or passed",
+     "ways": [
+      "sells",
+      "passes",
+      "gives in payment",
+      "permits, causes, or procures the same to be sold, uttered, or passed"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the same to be counterfeited"
+     ]
+    }
+   ]
+  }
+ },
+ "478": {
+  "review": {
+   "title": "Punishment for counterfeiting",
+   "isOffense": true,
+   "plain": "Counterfeiting is punishable by two, three, or four years of imprisonment under subdivision (h) of Section 1170.",
+   "category": "Fraud & Money",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "Counterfeiting"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits counterfeiting",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three or four years",
+       "min": null,
+       "max": 4,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "479": {
+  "review": {
+   "title": "Possessing counterfeit coin or bullion",
+   "isOffense": true,
+   "plain": "Possessing or receiving counterfeit gold or silver coin, gold dust, or bullion intending to pass it, knowing it is counterfeit and intending to defraud, is punishable by two, three, or four years under subdivision (h) of Section 1170.",
+   "category": "Fraud & Money",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "has in his possession, or receives for any other person, any counterfeit gold or silver coin of the species current in this state",
+    "permits, causes or procures the same to be sold, uttered or passed"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intention to defraud any person"
+    ],
+    "knowledge": [
+     "Knowing the same to be counterfeit"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three or four years",
+      "min": null,
+      "max": 4,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Has in his possession, or receives for any other person, any counterfeit gold or silver coin of the species current in this state, or any counterfeit gold dust, gold or silver bullion or bars, lumps, pieces or nuggets",
+     "ways": [
+      "has in his possession",
+      "receives for any other person"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intention to sell, utter, put off or pass the same",
+      "With intention to defraud any person"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Permits, causes or procures the same to be sold, uttered or passed",
+     "ways": [
+      "permits",
+      "causes",
+      "procures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "480": {
+  "review": {
+   "title": "Counterfeiting equipment",
+   "isOffense": true,
+   "plain": "Making or knowingly possessing dies, plates, machines, or other things used to counterfeit coin, bullion, or bank notes is punishable by two, three, or four years under subdivision (h) of Section 1170, and the equipment must be destroyed.",
+   "category": "Fraud & Money",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "makes",
+    "has in his or her possession any die, plate, or any apparatus, paper, metal, machine, or other thing whatever"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Makes, or has in his or her possession any die, plate, or any apparatus, paper, metal, machine, or other thing whatever, made use of in counterfeiting coin current in this state, or in counterfeiting gold dust, gold or silver bars, bullion, lumps, pieces, or nuggets, or in counterfeiting bank notes or bills",
+     "ways": [
+      "makes",
+      "has in his or her possession"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly (as to possession)"
+     ],
+     "consequences": [
+      "All dies, plates, apparatus, papers, metals, or machines intended for the purpose aforesaid must be destroyed",
+      "If the counterfeiting apparatus or machine is a computer, computer system, or computer network, it shall be disposed of pursuant to Section 502.01"
+     ],
+     "terms": [
+      "\"Computer, computer system, or computer network\": include any software or data residing on the computer, computer system, or computer network used in a violation of this section (\"computer system\" and \"computer network\" have the meaning specified in Section 502)"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years",
+       "min": null,
+       "max": 4,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "481": {
+  "review": {
+   "title": "Forging railroad or steamship tickets",
+   "isOffense": true,
+   "plain": "Counterfeiting, forging, or altering a railroad or steamship ticket or pass, or circulating one with intent to defraud, is punishable by up to one year in county jail or as a felony, and a $1,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "counterfeits, forges, or alters any ticket, check, order, coupon, receipt for fare, or pass",
+    "utters, publishes, or puts into circulation, any such counterfeit or altered ticket, check, or order, coupon, receipt for fare, or pass"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail, not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or fine not exceeding one thousand dollars, or both that imprisonment and fine",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Counterfeits, forges, or alters any ticket, check, order, coupon, receipt for fare, or pass, issued by any railroad or steamship company, or by any lessee or manager thereof, designed to entitle the holder to ride in the cars or vessels of such company",
+     "ways": [
+      "counterfeits",
+      "forges",
+      "alters"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Utters, publishes, or puts into circulation, any such counterfeit or altered ticket, check, or order, coupon, receipt for fare, or pass",
+     "ways": [
+      "utters",
+      "publishes",
+      "puts into circulation"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud any such railroad or steamship company, or any lessee thereof, or any other person"
+     ]
+    }
+   ]
+  }
+ },
+ "481.1": {
+  "review": {
+   "title": "Counterfeit transit fare media",
+   "isOffense": true,
+   "plain": "Counterfeiting, forging, or altering public transit fare media is punishable by up to one year in county jail or state prison; knowingly possessing it, or passing fare media to defraud, is up to one year in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "counterfeits, forges, or alters any fare media designed to entitle the holder to a ride on vehicles of a public transportation system",
+    "possesses any counterfeit, forged, or altered fare media",
+    "utters, publishes, or puts into circulation any fare media"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Counterfeits, forges, or alters any fare media designed to entitle the holder to a ride on vehicles of a public transportation system, as defined by Section 99211 of the Public Utilities Code, or on vehicles operated by entities subsidized by the Department of Transportation",
+     "ways": [
+      "counterfeits",
+      "forges",
+      "alters"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail, not exceeding one year, or in the state prison (no state prison term is stated in this section)",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Possesses any counterfeit, forged, or altered fare media designed to entitle the holder to a ride on vehicles of a public transportation system, as defined by Section 99211 of the Public Utilities Code, or on vehicles operated by entities subsidized by the Department of Transportation",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding one thousand dollars ($1,000), or both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Utters, publishes, or puts into circulation any fare media",
+     "ways": [
+      "utters",
+      "publishes",
+      "puts into circulation"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding one thousand dollars ($1,000), or both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "482": {
+  "review": {
+   "title": "Restoring canceled tickets",
+   "isOffense": true,
+   "plain": "Removing cancellation marks from a used railroad or steamship ticket or pass to reuse, sell, or defraud, or knowingly offering such a restored ticket, is punishable by up to six months in county jail and a $1,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 0.5,
+   "acts": [
+    "removes, conceals, fills up, or obliterates, the cuts, marks, punch-holes, or other evidence of cancellation",
+    "offers for sale, or in payment of fare on the railroad or vessel of the company, such ticket, check, order, coupon, or pass"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not exceeding six months, or a fine not exceeding one thousand dollars, or both such imprisonment and fine",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, conceals, fills up, or obliterates, the cuts, marks, punch-holes, or other evidence of cancellation, from any ticket, check, order, coupon, receipt for fare, or pass, issued by any railroad or steamship company, or any lessee or manager thereof, canceled in whole or in part",
+     "ways": [
+      "removes",
+      "conceals",
+      "fills up",
+      "obliterates"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "For the purpose of restoring to its original appearance and nominal value in whole or in part",
+      "With intent to dispose of by sale or gift, or to circulate the same, or with intent to defraud the railroad or steamship company, or lessee thereof, or any other person"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Offers for sale, or in payment of fare on the railroad or vessel of the company, such ticket, check, order, coupon, or pass",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With like intent to defraud"
+     ],
+     "knowledge": [
+      "Knowing the same to have been so restored, in whole or in part"
+     ]
+    }
+   ]
+  }
+ },
+ "483": {
+  "review": {
+   "title": "Selling nontransferable transit tickets",
+   "isOffense": true,
+   "plain": "Selling a ticket, pass, or other instrument for passage on a common carrier for use by someone not entitled to use it under its terms is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "sell to another any ticket, pass, scrip, mileage or commutation book, coupon, or other instrument for passage on a common carrier"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sell to another any ticket, pass, scrip, mileage or commutation book, coupon, or other instrument for passage on a common carrier",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "For the use of any person not entitled to use the same according to the terms thereof, or of the book or portion thereof from which it was detached"
+     ],
+     "exceptions": [
+      "Except as otherwise provided in Section 26002.5 of the Government Code and Sections 40180.5 and 99151 of the Public Utilities Code"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "483.5": {
+  "review": {
+   "title": "Deceptive identification documents",
+   "isOffense": true,
+   "plain": "Making or selling fake-looking ID documents without a \"NOT A GOVERNMENT DOCUMENT\" mark, knowing they will be used to defraud, is punishable by up to one year in county jail or as a felony; possessing document-making devices is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "violates the provisions of subdivision (a)",
+    "violates the provisions of subdivision (b)"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Deceptive identification document\": any document not issued by a governmental agency of this state, another state, the federal government, a foreign government, a political subdivision of a foreign government, an international government, or an international quasi-governmental organization, which purports to be, or which might deceive an ordinary reasonable person into believing that it is, a document issued by such an agency, including, but not limited to, a driver's license, identification card, birth certificate, passport, or social security card",
+     "\"Document-making device\": includes, but is not limited to, an implement, tool, equipment, impression, laminate, card, template, computer file, computer disk, electronic device, hologram, laminate machine or computer hardware or software"
+    ],
+    "consequences": [
+     "Any person who violates or proposes to violate this section may be enjoined by any court of competent jurisdiction, in actions prosecuted by the Attorney General, any district attorney, or any city attorney"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a), (f)",
+     "act": "Manufactures, sells, offers for sale, furnishes, offers to furnish, transports, offers to transport, or imports or offers to import into this state a deceptive identification document",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The document does not bear, diagonally across its face, in not less than 14-point type and printed conspicuously in permanent ink, the statement NOT A GOVERNMENT DOCUMENT and, also printed conspicuously, the name of the manufacturer"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knows or reasonably should know that the deceptive identification document will be used for fraudulent purposes"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not to exceed one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b), (f)",
+     "act": "Possesses a document-making device",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that the device will be used to manufacture, alter, or authenticate a deceptive identification document"
+     ],
+     "consequences": [
+      "Any document-making device may be seized by law enforcement and shall be forfeited to law enforcement or destroyed by order of the court upon a finding that the device was intended to be used to manufacture, alter, or authenticate a deceptive identification document"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor punishable by imprisonment in a county jail not exceeding one year, or a fine not exceeding one thousand dollars ($1,000), or both imprisonment and a fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "484": {
+  "review": {
+   "title": "Theft defined",
+   "isOffense": false,
+   "plain": "Defines theft (stealing, embezzling, or obtaining property by false pretenses), sets how the value of property and services is measured, and creates presumptions of intent for unreturned leased or rented property."
+  }
+ },
+ "484.1": {
+  "review": {
+   "title": "False information to pawnbrokers",
+   "isOffense": true,
+   "plain": "Knowingly giving false information about your identity, ownership, or authority to sell property to get money from a pawnbroker or secondhand dealer, and receiving it, is theft; the court may also order restitution.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "gives false information or provides false verification as to the person’s true identity or as to the person’s ownership interest in property or the person’s authority to sell property",
+    "receives money or other valuable consideration from the pawnbroker or secondhand dealer"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Gives false information or provides false verification as to the person's true identity or as to the person's ownership interest in property or the person's authority to sell property, and receives money or other valuable consideration from the pawnbroker or secondhand dealer",
+     "ways": [
+      "gives false information",
+      "provides false verification"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person receives money or other valuable consideration from the pawnbroker or secondhand dealer"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "In order to receive money or other valuable consideration from a pawnbroker or secondhand dealer"
+     ],
+     "consequences": [
+      "The court may require restitution to the pawnbroker or secondhand dealer in an amount not exceeding the actual losses sustained",
+      "The probation officer, if one is assigned, shall notify the pawnbroker or secondhand dealer or coin dealer of the time and place of the sentencing hearing"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "484b": {
+  "review": {
+   "title": "Diverting construction funds",
+   "isOffense": true,
+   "plain": "Receiving money for construction services, labor, or materials and willfully diverting it to another use is punishable by up to one year in county jail or as a felony, and a $10,000 fine, if over $2,350; otherwise a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "receives money for the purpose of obtaining or paying for services, labor, materials or equipment",
+    "fails to apply such money for such purpose",
+    "diverts the funds to a use other than that for which the funds were received"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Receives money for the purpose of obtaining or paying for services, labor, materials or equipment and fails to apply such money for such purpose, and diverts the funds to a use other than that for which the funds were received",
+     "ways": [
+      "failing to complete the improvements for which funds were provided",
+      "failing to pay for services, labor, materials or equipment provided incident to such construction"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "Wrongfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor when the amount diverted is less than or equal to two thousand three hundred fifty dollars ($2,350) (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the amount diverted is in excess of two thousand three hundred fifty dollars ($2,350)",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or both that fine and that imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "484c": {
+  "review": {
+   "title": "False vouchers for construction loans",
+   "isOffense": true,
+   "plain": "Submitting a false voucher to get construction loan funds and not using the funds for the stated purpose is embezzlement.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "submits a false voucher to obtain construction loan funds"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Submits a false voucher to obtain construction loan funds and does not use the funds for the purpose for which the claim was submitted",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person does not use the funds for the purpose for which the claim was submitted"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "484d": {
+  "review": {
+   "title": "Access card definitions",
+   "isOffense": false,
+   "plain": "Defines \"cardholder,\" \"access card,\" \"card issuer,\" \"retailer,\" \"counterfeit access card,\" \"traffic,\" \"card making equipment,\" and related terms for the access card crimes in Sections 484e to 484j."
+  }
+ },
+ "484e": {
+  "review": {
+   "title": "Access card theft",
+   "isOffense": true,
+   "plain": "Selling or transferring someone's access card without consent, acquiring cards in four or more names in a year, or taking card account information to use fraudulently is grand theft; holding a card to misuse it is petty theft.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "sells, transfers, or conveys, an access card",
+    "acquires access cards issued in the names of four or more persons",
+    "acquires or retains possession of an access card",
+    "acquires or retains possession of access card account information with respect to an access card validly issued to another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Sells, transfers, or conveys, an access card",
+     "ways": [
+      "sells",
+      "transfers",
+      "conveys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the cardholder's or issuer's consent"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Acquires access cards issued in the names of four or more persons",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Within any consecutive 12-month period"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person other than the issuer",
+     "knowledge": [
+      "Has reason to know the cards were taken or retained under circumstances which constitute a violation of subdivision (a), (c), or (d)"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Acquires or retains possession of an access card",
+     "ways": [
+      "acquires",
+      "retains possession"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the cardholder's or issuer's consent"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud",
+      "With intent to use, sell, or transfer it to a person other than the cardholder or issuer"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of petty theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Acquires or retains possession of access card account information with respect to an access card validly issued to another person",
+     "ways": [
+      "acquires",
+      "retains possession"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the cardholder's or issuer's consent"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to use it fraudulently"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

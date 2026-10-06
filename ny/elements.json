@@ -3763,5 +3763,3862 @@
     "defenses": []
    }
   ]
+ },
+ "140.05": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Enters or remains unlawfully in or upon premises",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "140.10": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "a",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building or real property is fenced or otherwise enclosed in a manner designed to exclude intruders"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "b",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building is utilized as an elementary or secondary school or a children's overnight camp or a summer day camp as defined in section one thousand three hundred ninety-two of the public health law",
+     "The entry is in violation of conspicuously posted rules or regulations governing entry and use thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "c",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building or real property is located within a city with a population in excess of one million and is utilized as an elementary or secondary school",
+     "The entry is in violation of a personally communicated request to leave the premises from a principal, custodian or other person in charge thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "d",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building or real property is located outside of a city with a population in excess of one million and is utilized as an elementary or secondary school",
+     "The entry is in violation of a personally communicated request to leave the premises from a principal, custodian, school board member or trustee, or other person in charge thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "e",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building is used as a public housing project",
+     "The entry is in violation of conspicuously posted rules or regulations governing entry and use thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "f",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building is used as a public housing project",
+     "The entry is in violation of a personally communicated request to leave the premises from a housing police officer or other person in charge thereof"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "g",
+    "act": "Enters or remains unlawfully in a building or upon real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a right-of-way or yard of a railroad or rapid transit railroad which has been designated and conspicuously posted as a no-trespass railroad zone"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "140.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Enters or remains unlawfully in a dwelling",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Knowingly"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Enters or remains in a public or private elementary, parochial, intermediate, junior high, vocational or high school",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "The person is a lawfully registered student at such school",
+     "The person is a lawful student participant in a school sponsored event",
+     "The person is a parent or a legal guardian of a lawfully registered student at such school and enters the school for the purpose of attending their child's or dependent's event or activity",
+     "Such school is the person's designated polling place and he or she enters such school building for the limited purpose of voting",
+     "The person enters such school building for the limited purposes authorized by the superintendent or chief administrator of such school"
+    ],
+    "defenses": [],
+    "who": "A person required to maintain registration under article six-C of the correction law and designated a level two or level three offender pursuant to subdivision six of section one hundred sixty-eight-l of the correction law",
+    "knowledge": [
+     "Knowing that the victim of the offense for which such registration is required attends or formerly attended such school"
+    ]
+   }
+  ]
+ },
+ "140.17": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of committing such crime, the person possesses, or knows that another participant in the crime possesses, an explosive or a deadly weapon"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of committing such crime, the person possesses a firearm, rifle or shotgun, as those terms are defined in section 265.00, and also possesses or has readily accessible a quantity of ammunition which is capable of being discharged from such firearm, rifle or shotgun"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of committing such crime, the person knows that another participant in the crime possesses a firearm, rifle or shotgun under circumstances described in subdivision two"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "140.20": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to commit a crime therein"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "140.25": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to commit a crime therein"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the building or in immediate flight therefrom, the person or another participant in the crime is armed with explosives or a deadly weapon"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "1(b)",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the building or in immediate flight therefrom, the person or another participant in the crime causes physical injury to any person who is not a participant in the crime"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "1(c)",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the building or in immediate flight therefrom, the person or another participant in the crime uses or threatens the immediate use of a dangerous instrument"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "1(d)",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the building or in immediate flight therefrom, the person or another participant in the crime displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Enters or remains unlawfully in a building",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The building is a dwelling"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "140.30": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to commit a crime therein"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Enters or remains unlawfully in a dwelling",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the dwelling or in immediate flight therefrom, the person or another participant in the crime is armed with explosives or a deadly weapon"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Enters or remains unlawfully in a dwelling",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the dwelling or in immediate flight therefrom, the person or another participant in the crime causes physical injury to any person who is not a participant in the crime"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Enters or remains unlawfully in a dwelling",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the dwelling or in immediate flight therefrom, the person or another participant in the crime uses or threatens the immediate use of a dangerous instrument"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Enters or remains unlawfully in a dwelling",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In effecting entry or while in the dwelling or in immediate flight therefrom, the person or another participant in the crime displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense: such pistol, revolver, rifle, shotgun, machine gun or other firearm was not a loaded weapon from which a shot, readily capable of producing death or other serious physical injury, could be discharged (this does not bar a prosecution for or conviction of burglary in the second degree, burglary in the third degree or any other crime)"
+    ]
+   }
+  ]
+ },
+ "140.35": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses any tool, instrument or other article adapted, designed or commonly used for committing or facilitating offenses involving forcible entry into premises, larceny by a physical taking, or theft of services as defined in subdivisions four, five and six of section 165.15",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Under circumstances evincing an intent to use or knowledge that some person intends to use the same in the commission of an offense of such character"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "140.40": {
+  "shared": {
+   "intent": [
+    "With the intent to use that device in the commission of robbery, burglary, larceny, gambling or a violation of any provision of article two hundred twenty of the penal law"
+   ],
+   "terms": [
+    "\"radio device\": any device capable of receiving a wireless voice transmission on any frequency allocated for police use, or any device capable of transmitting and receiving a wireless voice transmission"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses a radio device",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.00": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Damages property of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Participates in the destruction of an abandoned building as defined in section one thousand nine hundred seventy-one-a of the real property actions and proceedings law",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Damages property of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right",
+     "The damage is in an amount exceeding two hundred fifty dollars"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Recklessly"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Disables or removes telephonic, TTY or similar communication sending equipment",
+    "ways": [
+     "Disables",
+     "Removes"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right",
+     "Any of the following: while that person (a) is attempting to seek or is engaged in the process of seeking emergency assistance from police, law enforcement, fire or emergency medical services personnel; or (b) is attempting to seek or is engaged in the process of seeking emergency assistance from another person or entity in order to protect himself, herself or a third person from imminent physical injury",
+     "The fact that the defendant has an ownership interest in such equipment shall not be a defense"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Intentionally"
+    ],
+    "intent": [
+     "With intent to prevent a person from communicating a request for emergency assistance"
+    ]
+   }
+  ]
+ },
+ "145.05": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Damages the motor vehicle of another person by breaking into such vehicle when it is locked",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right",
+     "Within the previous ten year period, the person has been convicted three or more times, in separate criminal transactions for which sentence was imposed on separate occasions, of criminal mischief in the fourth degree as defined in section 145.00, criminal mischief in the third degree as defined in this section, criminal mischief in the second degree as defined in section 145.10, or criminal mischief in the first degree as defined in section 145.12 of this article"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to damage property of another person",
+     "With the intent of stealing property"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Damages property of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right",
+     "The damage is in an amount exceeding two hundred fifty dollars"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to damage property of another person"
+    ]
+   }
+  ]
+ },
+ "145.10": {
+  "shared": {
+   "intent": [
+    "With intent to damage property of another person"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Damages property of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right",
+     "The damage is in an amount exceeding one thousand five hundred dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.12": {
+  "shared": {
+   "intent": [
+    "With intent to damage property of another person"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Damages property of another person by means of an explosive",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.14": {
+  "shared": {
+   "intent": [
+    "With intent to cause substantial inconvenience to such person or to a third person"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Tampers with property of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Tampers or makes connection with property of a gas, electric, sewer, steam or water-works corporation, telephone or telegraph corporation, common carrier, nuclear powered electric generating facility, or public utility operated by a municipality or district",
+    "ways": [
+     "Tampers with",
+     "Makes connection with"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense: the defendant did not engage in such conduct for a larcenous or otherwise unlawful or wrongful purpose"
+    ]
+   }
+  ]
+ },
+ "145.20": {
+  "shared": {
+   "intent": [
+    "With intent to cause a substantial interruption or impairment of a service rendered to the public"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Damages or tampers with property of a gas, electric, sewer, steam or water-works corporation, telephone or telegraph corporation, common carrier, nuclear powered electric generating facility, or public utility operated by a municipality or district, and thereby causes such substantial interruption or impairment of service",
+    "ways": [
+     "Damages",
+     "Tampers with"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.22": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "a",
+    "act": "Damages any real or personal property maintained as a cemetery plot, grave, burial place or other place of interment of human remains",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to damage property of another person"
+    ]
+   },
+   {
+    "where": "b",
+    "act": "Steals personal property which is located at a cemetery plot, grave, burial place or other place of interment of human remains",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property is owned by the person or organization which maintains or owns such place or the estate, next-of-kin or representatives of the deceased person interred there"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to steal personal property"
+    ]
+   }
+  ]
+ },
+ "145.23": {
+  "shared": {
+   "intent": [
+    "With intent to damage property of another person"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "a",
+    "act": "Damages any real or personal property maintained as a cemetery plot, grave, burial place or other place of interment of human remains",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right",
+     "The damage is in an amount exceeding two hundred fifty dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "b",
+    "act": "Steals personal property which is located at a cemetery plot, grave, burial place or other place of interment of human remains",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right",
+     "The value of the property exceeds two hundred fifty dollars",
+     "The property is owned by the person or organization which maintains or owns such place or the estate, next-of-kin or representatives of the deceased person interred there"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to damage property of another person",
+     "With intent to steal personal property"
+    ]
+   },
+   {
+    "where": "c",
+    "act": "Commits the crime of cemetery desecration in the second degree as defined in section 145.22 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right",
+     "The person has been previously convicted of the crime of cemetery desecration in the second degree within the preceding five years"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.25": {
+  "shared": {
+   "mentalState": [
+    "Recklessly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Engages in conduct which creates a substantial risk of damage to the property of another person",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The risked damage is in an amount exceeding two hundred fifty dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.26": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Opens a casket, crypt, or similar vessel containing a human body or human remains which has been buried or otherwise interred in a cemetery and unlawfully removes therefrom a body, bodily part, any human remains or any object contained in such casket, crypt or similar vessel",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he or she has such right"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "For the purpose of obtaining unlawful possession of such body, bodily part, human remains or object for such person or a third person"
+    ]
+   }
+  ]
+ },
+ "145.27": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of aggravated cemetery desecration in the second degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The person has been previously convicted within the past five years of cemetery desecration in the second degree as defined in section 145.22 of this article, cemetery desecration in the first degree as defined in section 145.23 of this article or aggravated cemetery desecration in the second degree as defined in section 145.26 of this article"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.30": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Posts, paints or otherwise affixes to the property of another person any advertisement, poster, notice or other matter designed to benefit a person other than the owner of the property",
+    "ways": [
+     "Posts",
+     "Paints",
+     "Otherwise affixes"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right",
+     "Where such matter consists of a commercial advertisement, it shall be presumed that the vendor of the specified product, service or entertainment is a person who placed such advertisement or caused it to be placed upon the property"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.40": {
+  "shared": {
+   "intent": [
+    "With intent to cause physical injury to another or with intent to instill in another a fear that he will cause such physical injury"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Alters, adulterates or otherwise contaminates a consumer product",
+    "ways": [
+     "Alters",
+     "Adulterates",
+     "Otherwise contaminates"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.45": {
+  "shared": {
+   "intent": [
+    "With intent to cause physical injury to another or with intent to instill in another a fear that he will cause such physical injury"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Alters, adulterates or otherwise contaminates a consumer product and thereby creates a substantial risk of serious physical injury to one or more persons",
+    "ways": [
+     "Alters",
+     "Adulterates",
+     "Otherwise contaminates"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so nor any reasonable ground to believe that he has such right"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.50": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "A fine not to exceed two hundred fifty dollars and/or a requirement to perform services for a public or not-for-profit corporation, association, institution or agency not to exceed eight hours",
+     "min": null,
+     "max": null,
+     "flags": []
+    },
+    {
+     "if": "second or subsequent violation",
+     "penalty": "A fine not to exceed five hundred dollars and/or a requirement to perform services for a public or not-for-profit corporation, association, institution or agency not to exceed eight hours",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Throws, dumps, or causes to be thrown, dumped, deposited or placed upon any railroad tracks, or within the limits of the rights-of-way of any railroad, any refuse, trash, garbage, rubbish, litter or any nauseous or offensive matter",
+    "ways": [
+     "Throws",
+     "Dumps",
+     "Causes to be thrown, dumped, deposited or placed"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Where a highway or road lies in whole or part within a railroad rights-of-way, the use in a reasonable manner of ashes, sand, salt or other material for the purpose of reducing the hazard of, or providing traction on snow, ice or sleet situated on such highway or road",
+     "A railroad or its employees when matter deposited by them on the railroad tracks or rights-of-way is done pursuant to railroad rules, regulations or procedures"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "145.60": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "2",
+    "act": "Makes graffiti of any type on any building, public or private, or any other property real or personal owned by any person, firm or corporation or any public agency or instrumentality",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without the express permission of the owner or operator of said property"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "terms": [
+     "\"graffiti\": the etching, painting, covering, drawing upon or otherwise placing of a mark upon public or private property with intent to damage such property"
+    ]
+   }
+  ]
+ },
+ "145.65": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses any tool, instrument, article, substance, solution or other compound designed or commonly used to etch, paint, cover, draw upon or otherwise place a mark upon a piece of property which that person has no permission or authority to etch, paint, cover, draw upon or otherwise mark",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Under circumstances evincing an intent to use same in order to damage such property"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "145.70": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to use unlawfully"
+   ],
+   "terms": [
+    "\"taximeter\": an instrument or device that automatically calculates and displays the charge to a passenger in a vehicle that is licensed to transport members of the public for hire pursuant to local law",
+    "\"taximeter accelerating device\": an instrument or device that causes a taximeter to increase the charge displayed by such taximeter to an amount greater than the maximum amount permitted by local law"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "3",
+    "act": "Possesses a taximeter accelerating device",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "150.01": {
+  "shared": {
+   "intent": [
+    "Intentionally damages property of another",
+    "Intentionally starting a fire or causing an explosion"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Damages property of another by starting a fire or causing an explosion",
+    "ways": [
+     "Starting a fire",
+     "Causing an explosion"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without consent of the owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "150.05": {
+  "shared": {
+   "mentalState": [
+    "Recklessly"
+   ],
+   "intent": [
+    "Intentionally starting a fire or causing an explosion"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Damages a building or motor vehicle by starting a fire or causing an explosion",
+    "ways": [
+     "Starting a fire",
+     "Causing an explosion"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense: no person other than the defendant had a possessory or proprietary interest in the building or motor vehicle"
+    ]
+   }
+  ]
+ },
+ "150.10": {
+  "shared": {
+   "intent": [
+    "Intentionally"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Damages a building or motor vehicle by starting a fire or causing an explosion",
+    "ways": [
+     "Starting a fire",
+     "Causing an explosion"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense, when all of the following are shown: (a) no person other than the defendant had a possessory or proprietary interest in the building or motor vehicle, or if other persons had such interests, all of them consented to the defendant's conduct; (b) the defendant's sole intent was to destroy or damage the building or motor vehicle for a lawful and proper purpose; and (c) the defendant had no reasonable ground to believe that his conduct might endanger the life or safety of another person or damage another building or motor vehicle"
+    ]
+   }
+  ]
+ },
+ "150.15": {
+  "shared": {
+   "intent": [
+    "Intentionally"
+   ],
+   "knowledge": [
+    "The defendant knows that fact or the circumstances are such as to render the presence of such a person therein a reasonable possibility"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Damages a building or motor vehicle by starting a fire",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Another person who is not a participant in the crime is present in such building or motor vehicle at the time"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "150.20": {
+  "shared": {
+   "intent": [
+    "Intentionally"
+   ],
+   "knowledge": [
+    "The defendant knows that fact or the circumstances are such as to render the presence of such person therein a reasonable possibility"
+   ],
+   "terms": [
+    "\"incendiary device\": a breakable container designed to explode or produce uncontained combustion upon impact, containing flammable liquid and having a wick or a similar device capable of being ignited"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A-I felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Damages a building or motor vehicle by causing an explosion or a fire",
+    "ways": [
+     "Causing an explosion",
+     "Causing a fire"
+    ],
+    "tags": [],
+    "conditions": [
+     "Any of the following: such explosion or fire is caused by an incendiary device propelled, thrown or placed inside or near such building or motor vehicle; such explosion or fire is caused by an explosive; such explosion or fire causes serious physical injury to another person other than a participant; or the explosion or fire was caused with the expectation or receipt of financial advantage or pecuniary profit by the actor",
+     "Another person who is not a participant in the crime is present in such building or motor vehicle at the time"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "155.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "155.30": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds one thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a public record, writing or instrument kept, filed or deposited according to law with or in the keeping of any public office or public servant"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of secret scientific material"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a credit card or debit card"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property, regardless of its nature and value, is taken from the person of another"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property, regardless of its nature and value, is obtained by extortion"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "7",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of one or more firearms, rifles or shotguns, as such terms are defined in section 265.00 of this chapter"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "8",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds one hundred dollars",
+     "The property consists of a motor vehicle, as defined in section one hundred twenty-five of the vehicle and traffic law, other than a motorcycle, as defined in section one hundred twenty-three of such law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "9",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a scroll, religious vestment, a vessel, an item comprising a display of religious symbols which forms a representative expression of faith, or other miscellaneous item of property",
+     "The property has a value of at least one hundred dollars",
+     "The property is kept for or used in connection with religious worship in any building, structure or upon the curtilage of such building or structure used as a place of religious worship by a religious corporation, as incorporated under the religious corporations law or the education law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "10",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "The person intends to use the access device unlawfully to obtain telephone service"
+    ],
+    "conditions": [
+     "The property consists of an access device"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "11",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "The actor intends to use, or knows another person intends to use, such anhydrous ammonia or liquified ammonia gas to manufacture methamphetamine"
+    ],
+    "conditions": [
+     "The property consists of anhydrous ammonia or liquified ammonia gas"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "12",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+     "The value of the property exceeds one thousand dollars",
+     "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "155.35": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds three thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property is an automated teller machine or the contents of an automated teller machine"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+     "The value of the property exceeds three thousand dollars",
+     "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Commits deed theft of one commercial real property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Regardless of the value"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "155.40": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds fifty thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property, regardless of its nature and value, is obtained by extortion committed by instilling in the victim a fear that the actor or another person will (a) cause physical injury to some person in the future, or (b) cause damage to property, or (c) use or abuse the actor's position as a public servant by engaging in conduct within or related to the actor's official duties, or by failing or refusing to perform an official duty, in such manner as to affect some person adversely"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+     "The value of the property exceeds fifty thousand dollars",
+     "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Commits deed theft",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Regardless of the value",
+     "Any of the following: (a) one residential real property; (b) one commercial mixed-use property with at least one residential unit; or (c) two or more commercial properties"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "155.42": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds one million dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+     "The value of the property exceeds one million dollars",
+     "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits deed theft",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Regardless of the value",
+     "Any of the following: (a) residential real property that is occupied as a home by at least one person; (b) residential real property that involves a home that is owned by an elderly person, an incompetent, an incapacitated person, or physically disabled person; or (c) three or more residential real properties"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "155.43": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of grand larceny in the third degree, as defined in subdivision two of section 155.35 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has been previously convicted of grand larceny in the third degree within the previous five years"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.05": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+    "ways": [
+     "Uses",
+     "Causes to be used",
+     "Accesses"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.10": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+    "ways": [
+     "Uses",
+     "Causes to be used",
+     "Accesses"
+    ],
+    "tags": [],
+    "intent": [
+     "With an intent to commit or attempt to commit or further the commission of any felony"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization and thereby gains access to computer material",
+    "ways": [
+     "Uses",
+     "Causes to be used",
+     "Accesses"
+    ],
+    "tags": [],
+    "knowledge": [
+     "Knowingly gains access to computer material"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.20": {
+  "shared": {
+   "intent": [
+    "Intentionally alters in any manner or destroys computer data or a computer program of another person"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization and alters in any manner or destroys computer data or a computer program of another person",
+    "ways": [
+     "Uses",
+     "Causes to be used",
+     "Accesses"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of computer tampering in the fourth degree",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "With an intent to commit or attempt to commit or further the commission of any felony"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of computer tampering in the fourth degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has been previously convicted of any crime under this article or subdivision eleven of section 165.15 of this chapter"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer material",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "Intentionally"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding one thousand dollars",
+    "ways": [],
+    "tags": [],
+    "intent": [
+     "Intentionally"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Commits the crime of computer tampering in the fourth degree and enters or alters in any manner or destroys computer material indicating that a person did or did not receive a vaccination against COVID-19",
+    "ways": [
+     "Enters",
+     "Alters in any manner",
+     "Destroys"
+    ],
+    "tags": [],
+    "intent": [
+     "Intentionally"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.26": {
+  "shared": {
+   "intent": [
+    "Intentionally alters in any manner or destroys"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding three thousand dollars",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer material that contains records of the medical history or medical treatment of an identified or readily identifiable individual or individuals",
+    "ways": [],
+    "tags": [],
+    "mentalState": [
+     "He or she is aware of and consciously disregards a substantial and unjustifiable risk that such serious physical injury may occur"
+    ],
+    "conditions": [
+     "As a result of such alteration or destruction, such individual or individuals suffer serious physical injury"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.27": {
+  "shared": {
+   "intent": [
+    "Intentionally alters in any manner or destroys computer data or a computer program"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding fifty thousand dollars",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.29": {
+  "shared": {
+   "intent": [
+    "With an intent to commit or further the commission of any crime under this chapter"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Copies, reproduces or duplicates in any manner computer material that contains records of the medical history or medical treatment of an identified or readily identifiable individual or individuals",
+    "ways": [
+     "Copies",
+     "Reproduces",
+     "Duplicates"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.30": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Copies, reproduces or duplicates in any manner any computer data or computer program and thereby deprives or appropriates from an owner thereof an economic value or benefit in excess of two thousand five hundred dollars",
+    "ways": [
+     "Copies",
+     "Reproduces",
+     "Duplicates"
+    ],
+    "tags": [],
+    "intent": [
+     "Intentionally and wrongfully"
+    ],
+    "conditions": [
+     "Having no right to do so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Copies, reproduces or duplicates in any manner any computer data or computer program",
+    "ways": [
+     "Copies",
+     "Reproduces",
+     "Duplicates"
+    ],
+    "tags": [],
+    "intent": [
+     "With an intent to commit or attempt to commit or further the commission of any felony"
+    ],
+    "conditions": [
+     "Having no right to do so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.35": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to benefit himself or a person other than an owner thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses, in any form, any copy, reproduction or duplicate of any computer data or computer program which was copied, reproduced or duplicated in violation of section 156.30 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "156.40": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With the intent to operate, or place into operation, an electronic machine or device"
+   ],
+   "terms": [
+    "\"Electronic machine or device\": a mechanically, electrically or electronically operated machine or device that is owned, leased or otherwise possessed by a sweepstakes sponsor or promoter, or any sponsors, promoters, partners, affiliates, subsidiaries or contractors thereof; that is intended to be used by a sweepstakes entrant; that uses energy; and that displays the results of a game entry or game outcome to a participant on a screen or other mechanism at a business location, including a private club",
+    "\"Enter\" or \"entry\": the act or process by which a person becomes eligible to receive any prize offered in a sweepstakes",
+    "\"Entertaining display\": any visual information, capable of being seen by a sweepstakes entrant, that takes the form of actual game play or simulated game play",
+    "\"Prize\": any gift, award, gratuity, good, service, credit or anything else of value, which may be transferred to a person",
+    "\"Sweepstakes\": any game, advertising scheme or plan, or other promotion, which, with or without payment of any consideration, a person may enter to win or become eligible to receive any prize, the determination of which is based upon chance"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "2(a)",
+    "act": "Possesses an electronic machine or device to conduct a sweepstakes through the use of an entertaining display, including the entry process or the reveal of a prize",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Nothing in this section shall be construed to make illegal any activity which is lawfully conducted as the New York state lottery for education as authorized by article thirty-four of the tax law; pari-mutuel wagering on horse races as authorized by articles two, three, four, five-A, and ten of the racing, pari-mutuel wagering and breeding law; the game of bingo as authorized pursuant to article fourteen-H of the general municipal law; games of chance as authorized pursuant to article nine-A of the general municipal law; gaming as authorized by article thirteen of the racing, pari-mutuel wagering and breeding law; or pursuant to the federal Indian Gaming Regulatory Act"
+    ],
+    "defenses": []
+   },
+   {
+    "where": "2(b)",
+    "act": "Possesses an electronic machine or device to promote a sweepstakes that is conducted through the use of an entertaining display, including the entry process or the reveal of a prize",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [
+     "Nothing in this section shall be construed to make illegal any activity which is lawfully conducted as the New York state lottery for education as authorized by article thirty-four of the tax law; pari-mutuel wagering on horse races as authorized by articles two, three, four, five-A, and ten of the racing, pari-mutuel wagering and breeding law; the game of bingo as authorized pursuant to article fourteen-H of the general municipal law; games of chance as authorized pursuant to article nine-A of the general municipal law; gaming as authorized by article thirteen of the racing, pari-mutuel wagering and breeding law; or pursuant to the federal Indian Gaming Regulatory Act"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "158.05": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.10": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the public assistance benefits exceeds one thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the public assistance benefits exceeds three thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.20": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the public assistance benefits exceeds fifty thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.25": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the public assistance benefits exceeds one million dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.30": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Loans money or otherwise provides property or services on credit, and accepts a public benefit card as collateral or security for the repayment of such loan or for the provision of such property or services",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Obtains a public benefit card in exchange for a benefit",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Transfers or delivers a public benefit card to another",
+    "ways": [
+     "Transfers",
+     "Delivers"
+    ],
+    "tags": [],
+    "conditions": [
+     "Any of the following: (a) in exchange for money or a controlled substance as defined in subdivision five of section 220.00, or (b) for the purpose of committing an unlawful act"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.35": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "(i)",
+    "act": "Obtains three or more public benefit cards from another or others in exchange for a benefit",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Pursuant to an act or a series of acts"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "(ii)",
+    "act": "Transfers or delivers three or more public benefit cards to another or others in exchange for money or a controlled substance as defined in subdivision five of section 220.00 of this chapter",
+    "ways": [
+     "Transfers",
+     "Delivers"
+    ],
+    "tags": [],
+    "conditions": [
+     "Pursuant to an act or a series of acts"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.40": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to defraud, deceive or injure another"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses five or more public benefit cards in a name or names other than the person's own name",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.45": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to defraud, deceive or injure another"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses ten or more public benefit cards in a name or names other than the person's own name",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "158.50": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to defraud, deceive or injure another"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses twenty-five or more public benefit cards in a name or names other than the person's own name",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "160.05": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Forcibly steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "160.10": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Forcibly steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "He is aided by another person actually present"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2(a)",
+    "act": "Forcibly steals property and causes physical injury to any person who is not a participant in the crime",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2(b)",
+    "act": "Forcibly steals property and displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Forcibly steals property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a motor vehicle, as defined in section one hundred twenty-five of the vehicle and traffic law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "160.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Forcibly steals property and causes serious physical injury to any person who is not a participant in the crime",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Forcibly steals property and is armed with a deadly weapon",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime is armed"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Forcibly steals property and uses or threatens the immediate use of a dangerous instrument",
+    "ways": [
+     "Uses",
+     "Threatens the immediate use"
+    ],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Forcibly steals property and displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Affirmative defense: the pistol, revolver, rifle, shotgun, machine gun or other firearm was not a loaded weapon from which a shot, readily capable of producing death or other serious physical injury, could be discharged (this is no defense to a prosecution for, or conviction of, robbery in the second degree, robbery in the third degree or any other crime)"
+    ]
+   }
+  ]
+ },
+ "165.00": {
+  "shared": {
+   "knowledge": [
+    "Knowingly possessing personal property of another pursuant to an agreement that the same will be returned to the owner at a future time"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1(a)",
+    "act": "Loans, leases, pledges, pawns or otherwise encumbers such property",
+    "ways": [
+     "Loans",
+     "Leases",
+     "Pledges",
+     "Pawns",
+     "Otherwise encumbers"
+    ],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the owner thereof",
+     "In such manner as to create a risk that the owner will not be able to recover it or will suffer pecuniary loss"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "At the time the prosecution was commenced, (a) the defendant had recovered possession of the property, unencumbered as a result of the unlawful disposition, and (b) the owner had suffered no material economic loss as a result of the unlawful disposition"
+    ]
+   },
+   {
+    "where": "1(b)",
+    "act": "Refuses to return personal property to the owner pursuant to the terms of the rental agreement",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The personal property is valued in excess of one hundred dollars",
+     "The owner made a written demand for the return of such personal property in person or by certified mail at an address indicated in the rental agreement",
+     "He refuses to return such personal property for a period of thirty days after such demand has been received or should reasonably have been received by him",
+     "The written demand states: (i) the date and time at which the personal property was to have been returned under the rental agreement; (ii) that the owner does not consent to the continued withholding or retaining of such personal property and demands its return; and (iii) that the continued withholding or retaining of the property may constitute a class A misdemeanor punishable by a fine of up to one thousand dollars or by a sentence to a term of imprisonment for a period of up to one year or by both such fine and imprisonment"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "At the time the prosecution was commenced, the owner had recovered possession of the personal property and suffered no material economic loss as a result of the unlawful retention",
+     "The defendant is unable to return such personal property because it has been accidentally destroyed or stolen",
+     "The owner failed to comply with the provisions of section three hundred ninety-nine-w of the general business law"
+    ],
+    "intent": [
+     "Intentionally"
+    ],
+    "terms": [
+     "\"owner\", \"personal property\", \"rental agreement\": defined as in subdivision one of section three hundred ninety-nine-w of the general business law"
+    ]
+   }
+  ]
+ },
+ "165.05": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Takes, operates, exercises control over, rides in or otherwise uses a vehicle",
+    "ways": [
+     "Takes",
+     "Operates",
+     "Exercises control over",
+     "Rides in",
+     "Otherwise uses"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing that he does not have the consent of the owner",
+     "A person who engages in any such conduct without the consent of the owner is presumed to know that he does not have such consent"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Uses or operates the vehicle for his own purposes in a manner constituting a gross deviation from the agreed purpose",
+    "ways": [
+     "Uses",
+     "Operates"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having custody of a vehicle pursuant to an agreement between himself or another and the owner thereof whereby he or another is to perform for compensation a specific service for the owner involving the maintenance, repair or use of such vehicle",
+     "Without the consent of the owner"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Retains or withholds possession of the vehicle for so lengthy a period beyond the specified time as to render such retention or possession a gross deviation from the agreement",
+    "ways": [
+     "Retains",
+     "Withholds possession"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having custody of a vehicle pursuant to an agreement with the owner thereof whereby such vehicle is to be returned to the owner at a specified time",
+     "Without the consent of the owner"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "Intentionally"
+    ],
+    "terms": [
+     "\"a gross deviation from the agreement\": includes, but is not limited to, where a person who had custody of a vehicle for fifteen days or less under a written agreement retains it at least seven days beyond the period specified in the agreement and continues possession for more than two days after service or refusal of attempted service of a notice in person or by certified mail at an address indicated in the agreement stating (i) the date and time at which the vehicle was to have been returned; (ii) that the owner does not consent to the continued withholding or retaining of such vehicle and demands its return; and that continued withholding or retaining of the vehicle may constitute a class A misdemeanor punishable by a fine of up to one thousand dollars or by a sentence to a term of imprisonment for a period of up to one year or by both"
+    ]
+   }
+  ]
+ },
+ "165.06": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Commits the crime of unauthorized use of a vehicle in the third degree as defined in subdivision one of section 165.05 of this article",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Has been previously convicted of the crime of unauthorized use of a vehicle in the third degree as defined in subdivision one of section 165.05 or second degree within the preceding ten years"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.07": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Makes a tangible reproduction or representation of such secret scientific material",
+    "ways": [
+     "Writing",
+     "Photographing",
+     "Drawing",
+     "Mechanically or electronically reproducing or recording such secret scientific material"
+    ],
+    "tags": [],
+    "conditions": [
+     "Having no right to do so and no reasonable ground to believe that he has such right"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to appropriate to himself or another the use of secret scientific material"
+    ]
+   }
+  ]
+ },
+ "165.08": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Takes, operates, exercises control over, rides in or otherwise uses a vehicle",
+    "ways": [
+     "Takes",
+     "Operates",
+     "Exercises control over",
+     "Rides in",
+     "Otherwise uses"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing that he does not have the consent of the owner",
+     "A person who engages in any such conduct without the consent of the owner is presumed to know he does not have such consent"
+    ],
+    "intent": [
+     "With the intent to use the same in the course of or the commission of a class A, class B, class C or class D felony or in the immediate flight therefrom"
+    ]
+   }
+  ]
+ },
+ "165.09": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Removes or destroys or defaces any part of a vehicle",
+    "ways": [
+     "Removes",
+     "Intentionally destroys",
+     "Intentionally defaces"
+    ],
+    "tags": [],
+    "conditions": [
+     "The vehicle is not an abandoned vehicle, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law",
+     "Without the permission of the owner"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Removes or destroys or defaces any part of an abandoned vehicle",
+    "ways": [
+     "Removes",
+     "Intentionally destroys",
+     "Intentionally defaces"
+    ],
+    "tags": [],
+    "conditions": [
+     "The vehicle is an abandoned vehicle, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "Such person was authorized to do so pursuant to law or by permission of the owner"
+    ]
+   }
+  ]
+ },
+ "165.10": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Commits the offense of auto stripping in the third degree",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "He or she has been previously convicted within the last five years of having violated the provisions of section 165.09 or this section"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Removes or destroys, defaces, disguises, or alters any part of two or more vehicles",
+    "ways": [
+     "Removes",
+     "Intentionally destroys",
+     "Intentionally defaces",
+     "Intentionally disguises",
+     "Intentionally alters"
+    ],
+    "tags": [],
+    "conditions": [
+     "The vehicles are other than abandoned vehicles, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law",
+     "Without the permission of the owner",
+     "The value of the parts of vehicles removed, destroyed, defaced, disguised, or altered exceeds an aggregate value of one thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.11": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Removes or destroys, defaces, disguises, or alters any part of three or more vehicles",
+    "ways": [
+     "Removes",
+     "Intentionally destroys",
+     "Intentionally defaces",
+     "Intentionally disguises",
+     "Intentionally alters"
+    ],
+    "tags": [],
+    "conditions": [
+     "The vehicles are other than abandoned vehicles, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law",
+     "Without the permission of the owner",
+     "The value of the parts of vehicles removed, destroyed, defaced, disguised, or altered exceeds an aggregate value of three thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.15": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Obtains or attempts to obtain a service, or induces or attempts to induce the supplier of a rendered service to agree to payment therefor on a credit basis, by the use of a credit card or debit card",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Which he knows to be stolen"
+    ]
+   },
+   {
+    "where": "2",
+    "act": "Avoids or attempts to avoid payment for restaurant services or for services rendered to him as a transient guest at a hotel, motel, inn, tourist cabin, rooming house or comparable establishment",
+    "ways": [
+     "Unjustifiable failure or refusal to pay",
+     "Stealth",
+     "Any misrepresentation of fact which he knows to be false"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment for restaurant services rendered, or for services rendered to him as a transient guest at a hotel, motel, inn, tourist cabin, rooming house or comparable establishment",
+     "A person who fails or refuses to pay for such services is presumed to have intended to avoid payment therefor"
+    ]
+   },
+   {
+    "where": "3",
+    "act": "Obtains or attempts to obtain such service or avoids or attempts to avoid payment therefor",
+    "ways": [
+     "Force",
+     "Intimidation",
+     "Stealth",
+     "Deception",
+     "Mechanical tampering",
+     "Unjustifiable failure or refusal to pay"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to obtain railroad, subway, bus, air, taxi or any other public transportation service without payment of the lawful charge therefor, or to avoid payment of the lawful charge for such transportation service which has been rendered to him"
+    ]
+   },
+   {
+    "where": "4",
+    "act": "Obtains or attempts to obtain such service for himself or another person or avoids or attempts to avoid payment therefor by himself or another person",
+    "ways": [
+     "(a) Tampering or making connection with the equipment of the supplier, whether by mechanical, electrical, acoustical or other means",
+     "(b) Offering for sale or otherwise making available, to anyone other than the provider of a telecommunications service for its own use, any telecommunications decoder or descrambler, a principal function of which defeats a mechanism of electronic signal encryption, jamming or individually addressed switching imposed by the provider",
+     "(c) Any misrepresentation of fact which he knows to be false",
+     "(d) Any other artifice, trick, deception, code or device"
+    ],
+    "tags": [],
+    "conditions": [
+     "Proof of tampering with or connection to the supplier's telecommunications equipment without the consent of the supplier is presumptive evidence that the resident to whom the service is being furnished created the condition with intent to avoid payment",
+     "A person who tampers with such a device or equipment without the consent of the supplier of the service is presumed to do so with intent to avoid, or to enable another to avoid, payment for the service involved",
+     "Proof that a decoder or descrambler has been offered for sale or otherwise made available by anyone other than the supplier is presumptive evidence that the person offering it acted with intent to avoid payment"
+    ],
+    "exceptions": [
+     "The decoder or descrambler in paragraph (b) or the device in paragraph (d) does not include any non-decoding and non-descrambling channel frequency converter or any television receiver type-accepted by the federal communications commission"
+    ],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment by himself or another person of the lawful charge for any telecommunications service, including, without limitation, cable television service, or any gas, steam, sewer, water, electrical, telegraph or telephone service which is provided for a charge or compensation"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "Theft of cable television service as defined by paragraphs (a), (c) and (d), having a value not in excess of one hundred dollars, by a person who has not been previously convicted of theft of services under subdivision four of this section",
+      "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "5(a)",
+    "act": "Sells, offers for sale or otherwise makes available, without consent, an existing, canceled or revoked access device",
+    "ways": [
+     "Sells",
+     "Offers for sale",
+     "Otherwise makes available"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment by himself or another person of the lawful charge for any telephone service which is provided for a charge or compensation"
+    ],
+    "terms": [
+     "\"access device\": any telephone calling card number, credit card number, account number, mobile identification number, electronic serial number or personal identification number that can be used to obtain telephone service"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "The telephone service has a value in excess of one thousand dollars, or the person has been previously convicted within five years of theft of services under paragraph (a) of subdivision five of this section",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "5(b)",
+    "act": "Uses, without consent, an existing, canceled or revoked access device",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment by himself or another person of the lawful charge for any telephone service which is provided for a charge or compensation"
+    ],
+    "terms": [
+     "\"access device\": any telephone calling card number, credit card number, account number, mobile identification number, electronic serial number or personal identification number that can be used to obtain telephone service"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "The telephone service has a value in excess of one thousand dollars, or the person has been previously convicted within five years of theft of services under paragraph (a) of subdivision five of this section",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "5(c)",
+    "act": "Obtains any telecommunications service by use of an unauthorized, false, or fictitious name, identification, telephone number, or access device",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to avoid payment by himself or another person of the lawful charge for any telephone service which is provided for a charge or compensation",
+     "With fraudulent intent"
+    ],
+    "terms": [
+     "\"access device\": any telephone calling card number, credit card number, account number, mobile identification number, electronic serial number or personal identification number that can be used to obtain telephone service"
+    ]
+   },
+   {
+    "where": "6",
+    "act": "Tampers with such device or with other equipment related thereto, or in any manner attempts to prevent the meter or device from performing its measuring function",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Without the consent of the supplier of the service",
+     "Proof that a meter or related equipment has been tampered with or otherwise intentionally prevented from performing its measuring function without the supplier's consent is presumptive evidence that the person to whom the service is being furnished created the condition with intent to avoid payment",
+     "A person who tampers with such a device or equipment without the consent of the supplier of the service is presumed to do so with intent to avoid, or to enable another to avoid, payment for the service involved"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment by himself or another person for a prospective or already rendered service the charge or compensation for which is measured by a meter or other mechanical device"
+    ]
+   },
+   {
+    "where": "7",
+    "act": "Accepts or receives the use and benefit of service, including gas, steam or electricity service, which should pass through a meter but has been diverted therefrom, or which has been prevented from being correctly registered by a meter provided therefor, or which has been diverted from the pipes, wires or conductors of the supplier thereof",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Proof that service has been intentionally diverted or prevented from being correctly registered is presumptive evidence that the person who accepts or receives the use and benefit of such service has done so with knowledge of the condition so existing"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "mentalState": [
+     "Knowingly"
+    ]
+   },
+   {
+    "where": "8",
+    "act": "Tampers with any equipment designed to supply or to prevent the supply of such service either to the community in general or to particular premises",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to obtain, without the consent of the supplier thereof, gas, electricity, water, steam or telephone service"
+    ]
+   },
+   {
+    "where": "9",
+    "act": "Obtains or attempts to obtain such admission without payment of the lawful charge therefor",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment of the lawful charge for admission to any theatre or concert hall, or for admission to or use of a chair lift, gondola, rope-tow or similar mechanical device utilized in assisting skiers in transportation to a point of ski arrival or departure"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "The person has not been previously convicted of theft of services under subdivision nine of this section",
+      "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   {
+    "where": "10",
+    "act": "Uses or diverts to the use of himself or a third person such labor, equipment or facilities",
+    "ways": [
+     "Uses",
+     "Diverts"
+    ],
+    "tags": [],
+    "conditions": [
+     "Obtaining or having control over labor in the employ of another person, or of business, commercial or industrial equipment or facilities of another person"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Knowing that he is not entitled to the use thereof"
+    ],
+    "intent": [
+     "With intent to derive a commercial or other substantial benefit for himself or a third person"
+    ]
+   },
+   {
+    "where": "11",
+    "act": "Uses, causes to be used, accesses, or attempts to use or access a computer, computer service, or computer network and avoids or attempts to avoid payment therefor",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment by himself, herself, or another person of the lawful charge for use of any computer, computer service, or computer network which is provided for a charge or compensation",
+     "Proof that a person overcame or attempted to overcome any device or coding system a function of which is to prevent the unauthorized use of said computer or computer service is presumptive evidence of an intent to avoid payment"
+    ]
+   },
+   {
+    "where": "12",
+    "act": "Avoids or attempts to avoid payment for services rendered by a barbershop, salon or beauty shop",
+    "ways": [
+     "Unjustifiable failure or refusal to pay",
+     "Stealth",
+     "Any misrepresentation of fact which he or she knows to be false"
+    ],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to avoid payment for services rendered by a barbershop, salon or beauty shop"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "The person has not previously been convicted of theft of services under subdivision twelve of this section",
+      "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   }
+  ]
+ },
+ "165.16": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Sells access to such transportation services to such person, in exchange for value, without authorization, through the use of an unlimited farecard or doctored farecard",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In exchange for value",
+     "Without authorization",
+     "Through the use of an unlimited farecard or doctored farecard",
+     "The sale occurs in a transportation facility, as such term is defined in subdivision two of section 240.00 of this chapter, operated by such authority or subsidiary or affiliate",
+     "Public notice of the prohibitions of this section and the exemptions thereto appears on the face of the farecard or is conspicuously posted in transportation facilities operated by such authority or subsidiary or affiliate"
+    ],
+    "exceptions": [],
+    "defenses": [
+     "The seller of a farecard containing value, other than a doctored farecard, relinquished all rights and privileges thereto upon consummation of the sale",
+     "The seller sold access through a farecard, other than a doctored farecard, at the request of the purchaser as an accommodation when a farecard was not immediately available to the purchaser, provided the seller lawfully acquired the farecard and did not, by means of an unlawful act, contribute to the circumstances that caused the request"
+    ],
+    "intent": [
+     "With intent to avoid payment by another person to the metropolitan transportation authority, New York city transit authority or a subsidiary or affiliate of either such authority of the lawful charge for transportation services on a railroad, subway, bus or mass transit service operated by either such authority or a subsidiary or affiliate thereof"
+    ],
+    "terms": [
+     "\"farecard\": a value-based, magnetically encoded card containing stored monetary value from which a specified amount of value is deducted as payment of a fare",
+     "\"unlimited farecard\": a farecard that is time-based, magnetically encoded and which permits entrance an unlimited number of times into facilities and conveyances for a specified period of time",
+     "\"doctored farecard\": a farecard that has been bent or manipulated or altered so as to facilitate a person's access to transportation services without paying the lawful charge"
+    ]
+   }
+  ]
+ },
+ "165.17": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses or displays a credit card, debit card or public benefit card",
+    "ways": [
+     "Uses",
+     "Displays"
+    ],
+    "tags": [],
+    "conditions": [
+     "In the course of obtaining or attempting to obtain property or a service"
+    ],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Which he knows to be revoked or cancelled"
+    ]
+   }
+  ]
+ },
+ "165.20": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Obtains the signature of a person to a written instrument by means of any misrepresentation of fact",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "knowledge": [
+     "Which he knows to be false"
+    ],
+    "intent": [
+     "With intent to defraud or injure another or to acquire a substantial benefit for himself or a third person"
+    ]
+   }
+  ]
+ },
+ "165.25": {
+  "shared": {
+   "intent": [
+    "Intentionally"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Places his hand in the proximity of a person's pocket or handbag",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "In a public place",
+     "Unnecessarily"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Jostles or crowds another person",
+    "ways": [
+     "Jostles",
+     "Crowds"
+    ],
+    "tags": [],
+    "conditions": [
+     "In a public place",
+     "Unnecessarily",
+     "At a time when a third person's hand is in the proximity of such person's pocket or handbag"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.30": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Accosts a person in a public place",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": [],
+    "intent": [
+     "With intent to defraud him of money or other property by means of a trick, swindle or confidence game",
+     "A person who makes statements to him or engages in conduct with respect to him of a kind commonly made or performed in the perpetration of a known type of confidence game, at the time of accosting or later or elsewhere, is presumed to intend to defraud such person of money or other property"
+    ]
+   }
+  ]
+ },
+ "165.35": {
+  "shared": {
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Claims or pretends to tell fortunes",
+    "ways": [
+     "Holds himself out as being able, by claimed or pretended use of occult powers, to answer questions or give advice on personal matters or to exorcise, influence or affect evil spirits or curses"
+    ],
+    "tags": [],
+    "conditions": [
+     "For a fee or compensation which he directly or indirectly solicits or receives"
+    ],
+    "exceptions": [
+     "This section does not apply to a person who engages in the aforedescribed conduct as part of a show or exhibition solely for the purpose of entertainment or amusement"
+    ],
+    "defenses": []
+   }
+  ]
+ },
+ "165.40": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.45": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "1",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds one thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "2",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a credit card, debit card or public benefit card"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "3",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "who": "A collateral loan broker or a person in the business of buying, selling or otherwise dealing in property",
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "4",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of one or more firearms, rifles and shotguns, as such terms are defined in section 265.00 of this chapter"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "5",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds one hundred dollars",
+     "The property consists of a motor vehicle, as defined in section one hundred twenty-five of the vehicle and traffic law, other than a motorcycle, as defined in section one hundred twenty-three of such law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "6",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of a scroll, religious vestment, vessel or other item of property having a value of at least one hundred dollars kept for or used in connection with religious worship in any building or structure used as a place of religious worship by a religious corporation, as incorporated under the religious corporations law or the education law"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "7",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The property consists of anhydrous ammonia or liquified ammonia gas",
+     "The actor intends to use, or knows another person intends to use, such anhydrous ammonia or liquified ammonia gas to manufacture methamphetamine"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.50": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds three thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.52": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds fifty thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.54": {
+  "shared": {
+   "mentalState": [
+    "Knowingly"
+   ],
+   "intent": [
+    "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Possesses stolen property",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The value of the property exceeds one million dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.66": {
+  "shared": {
+   "knowledge": [
+    "Knew or should have known that such retail goods or merchandise were stolen or unlawfully obtained"
+   ],
+   "intent": [
+    "For the purposes of financial gain"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Uses any internet website, application, online marketplace, digital service, or any other platform or venue, including any physical building, public or private space, or location to offer for sale retail goods or merchandise which are stolen or unlawfully obtained",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "Acting alone or in concert with another person or persons"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.71": {
+  "shared": {
+   "intent": [
+    "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+    "ways": [],
+    "tags": [],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Possesses a trademark",
+    "ways": [],
+    "tags": [],
+    "knowledge": [
+     "Knowing it to be counterfeit"
+    ],
+    "intent": [
+     "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods",
+     "For the purpose of affixing it to any goods"
+    ],
+    "conditions": [],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.72": {
+  "shared": {
+   "intent": [
+    "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The retail value of all such goods bearing counterfeit trademarks exceeds one thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Possesses a trademark",
+    "ways": [],
+    "tags": [],
+    "knowledge": [
+     "Knowing it to be counterfeit"
+    ],
+    "intent": [
+     "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods",
+     "For the purpose of affixing it to any goods"
+    ],
+    "conditions": [
+     "The retail value of all such goods bearing counterfeit trademarks exceeds one thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
+ },
+ "165.73": {
+  "shared": {
+   "intent": [
+    "With the intent to deceive or defraud some other person, or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods"
+   ],
+   "penalties": [
+    {
+     "if": "",
+     "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+     "min": null,
+     "max": null,
+     "flags": []
+    }
+   ]
+  },
+  "crimes": [
+   {
+    "where": "",
+    "act": "Manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+    "ways": [],
+    "tags": [],
+    "conditions": [
+     "The retail value of all such goods bearing counterfeit trademarks exceeds one hundred thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   },
+   {
+    "where": "",
+    "act": "Possesses a trademark",
+    "ways": [],
+    "tags": [],
+    "knowledge": [
+     "Knowing it to be counterfeit"
+    ],
+    "intent": [
+     "With the intent to deceive or defraud some other person, or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods",
+     "For the purpose of affixing it to any goods"
+    ],
+    "conditions": [
+     "The retail value of all such goods bearing counterfeit trademarks exceeds one hundred thousand dollars"
+    ],
+    "exceptions": [],
+    "defenses": []
+   }
+  ]
  }
 }

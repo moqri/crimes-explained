@@ -1,0 +1,1690 @@
+{
+ "156.50": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets defenses to computer offenses where the defendant had reasonable grounds to believe he was authorized to use the computer or had the right to alter, destroy or copy the data or program; it creates no crime."
+  }
+ },
+ "158.00": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines \"public benefit card\", \"fraudulent welfare act\" and \"public assistance benefits\" for the welfare fraud article, sets a rebuttable presumption for possessing five or more cards, and a limitation; it creates no crime."
+  }
+ },
+ "158.05": {
+  "review": {
+   "isOffense": true,
+   "plain": "Welfare fraud in the fifth degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits; it is a class A misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Welfare fraud in the fourth degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than one thousand dollars; it is a class E felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the public assistance benefits exceeds one thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Welfare fraud in the third degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than three thousand dollars; it is a class D felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the public assistance benefits exceeds three thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.20": {
+  "review": {
+   "isOffense": true,
+   "plain": "Welfare fraud in the second degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than fifty thousand dollars; it is a class C felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the public assistance benefits exceeds fifty thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Welfare fraud in the first degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than one million dollars; it is a class B felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits a fraudulent welfare act and thereby takes or obtains public assistance benefits",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the public assistance benefits exceeds one million dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.30": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal use of a public benefit card in the second degree is knowingly taking a benefit card as loan collateral, obtaining one for a benefit, or transferring one for money, drugs or an unlawful purpose; it is a class A misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "accepts a public benefit card as collateral or security",
+    "Obtains a public benefit card in exchange for a benefit",
+    "Transfers or delivers a public benefit card to another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Loans money or otherwise provides property or services on credit, and accepts a public benefit card as collateral or security for the repayment of such loan or for the provision of such property or services",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Obtains a public benefit card in exchange for a benefit",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Transfers or delivers a public benefit card to another",
+     "ways": [
+      "Transfers",
+      "Delivers"
+     ],
+     "tags": [],
+     "conditions": [
+      "Any of the following: (a) in exchange for money or a controlled substance as defined in subdivision five of section 220.00, or (b) for the purpose of committing an unlawful act"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.35": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal use of a public benefit card in the first degree is knowingly obtaining three or more benefit cards for a benefit, or transferring three or more for money or a controlled substance; it is a class E felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "obtains three or more public benefit cards from another or others in exchange for a benefit",
+    "transfers or delivers three or more public benefit cards to another or others"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(i)",
+     "act": "Obtains three or more public benefit cards from another or others in exchange for a benefit",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Pursuant to an act or a series of acts"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(ii)",
+     "act": "Transfers or delivers three or more public benefit cards to another or others in exchange for money or a controlled substance as defined in subdivision five of section 220.00 of this chapter",
+     "ways": [
+      "Transfers",
+      "Delivers"
+     ],
+     "tags": [],
+     "conditions": [
+      "Pursuant to an act or a series of acts"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.40": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of public benefit cards in the third degree is knowingly possessing five or more benefit cards in other people's names, with intent to defraud, deceive or injure another; it is a class E felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "possesses five or more public benefit cards in a name or names other than the person's own name"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to defraud, deceive or injure another"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses five or more public benefit cards in a name or names other than the person's own name",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.45": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of public benefit cards in the second degree is knowingly possessing ten or more benefit cards in other people's names, with intent to defraud, deceive or injure another; it is a class D felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "possesses ten or more public benefit cards in a name or names other than the person's own name"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to defraud, deceive or injure another"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses ten or more public benefit cards in a name or names other than the person's own name",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "158.50": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of public benefit cards in the first degree is knowingly possessing twenty-five or more benefit cards in other people's names, with intent to defraud, deceive or injure another; it is a class C felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "possesses twenty-five or more public benefit cards in a name or names other than the person's own name"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to defraud, deceive or injure another"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses twenty-five or more public benefit cards in a name or names other than the person's own name",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "160.00": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines robbery as forcible stealing: using or threatening immediate physical force during a larceny to overcome resistance or compel delivery of property; it sets no class and creates no separate crime."
+  }
+ },
+ "160.05": {
+  "review": {
+   "isOffense": true,
+   "plain": "Robbery in the third degree is forcibly stealing property; it is a class D felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "forcibly steals property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Forcibly steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "160.10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Robbery in the second degree is forcibly stealing property while aided by someone present, while injuring a non-participant or displaying an apparent firearm, or when the property is a motor vehicle; it is a class C felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "forcibly steals property",
+    "Causes physical injury to any person who is not a participant in the crime",
+    "Displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Forcibly steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "He is aided by another person actually present"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2(a)",
+     "act": "Forcibly steals property and causes physical injury to any person who is not a participant in the crime",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2(b)",
+     "act": "Forcibly steals property and displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Forcibly steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of a motor vehicle, as defined in section one hundred twenty-five of the vehicle and traffic law"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "160.15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Robbery in the first degree is forcibly stealing property while seriously injuring a non-participant, being armed with a deadly weapon, using or threatening a dangerous instrument, or displaying an apparent firearm; it is a class B felony.",
+   "category": "Violence & Threats",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "forcibly steals property",
+    "Causes serious physical injury to any person who is not a participant in the crime",
+    "Is armed with a deadly weapon",
+    "Uses or threatens the immediate use of a dangerous instrument",
+    "Displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Forcibly steals property and causes serious physical injury to any person who is not a participant in the crime",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Forcibly steals property and is armed with a deadly weapon",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime is armed"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Forcibly steals property and uses or threatens the immediate use of a dangerous instrument",
+     "ways": [
+      "Uses",
+      "Threatens the immediate use"
+     ],
+     "tags": [],
+     "conditions": [
+      "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Forcibly steals property and displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In the course of the commission of the crime or of immediate flight therefrom, he or another participant in the crime does so"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "Affirmative defense: the pistol, revolver, rifle, shotgun, machine gun or other firearm was not a loaded weapon from which a shot, readily capable of producing death or other serious physical injury, could be discharged (this is no defense to a prosecution for, or conviction of, robbery in the second degree, robbery in the third degree or any other crime)"
+     ]
+    }
+   ]
+  }
+ },
+ "165.00": {
+  "review": {
+   "isOffense": true,
+   "plain": "Misapplication of property is, while knowingly holding another's property under a return agreement, encumbering it without consent so the owner risks loss, or intentionally refusing to return rented property after written demand; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "loans, leases, pledges, pawns or otherwise encumbers such property",
+    "refuses to return personal property valued in excess of one hundred dollars to the owner"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "knowledge": [
+     "Knowingly possessing personal property of another pursuant to an agreement that the same will be returned to the owner at a future time"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1(a)",
+     "act": "Loans, leases, pledges, pawns or otherwise encumbers such property",
+     "ways": [
+      "Loans",
+      "Leases",
+      "Pledges",
+      "Pawns",
+      "Otherwise encumbers"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner thereof",
+      "In such manner as to create a risk that the owner will not be able to recover it or will suffer pecuniary loss"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "At the time the prosecution was commenced, (a) the defendant had recovered possession of the property, unencumbered as a result of the unlawful disposition, and (b) the owner had suffered no material economic loss as a result of the unlawful disposition"
+     ]
+    },
+    {
+     "where": "1(b)",
+     "act": "Refuses to return personal property to the owner pursuant to the terms of the rental agreement",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The personal property is valued in excess of one hundred dollars",
+      "The owner made a written demand for the return of such personal property in person or by certified mail at an address indicated in the rental agreement",
+      "He refuses to return such personal property for a period of thirty days after such demand has been received or should reasonably have been received by him",
+      "The written demand states: (i) the date and time at which the personal property was to have been returned under the rental agreement; (ii) that the owner does not consent to the continued withholding or retaining of such personal property and demands its return; and (iii) that the continued withholding or retaining of the property may constitute a class A misdemeanor punishable by a fine of up to one thousand dollars or by a sentence to a term of imprisonment for a period of up to one year or by both such fine and imprisonment"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "At the time the prosecution was commenced, the owner had recovered possession of the personal property and suffered no material economic loss as a result of the unlawful retention",
+      "The defendant is unable to return such personal property because it has been accidentally destroyed or stolen",
+      "The owner failed to comply with the provisions of section three hundred ninety-nine-w of the general business law"
+     ],
+     "intent": [
+      "Intentionally"
+     ],
+     "terms": [
+      "\"owner\", \"personal property\", \"rental agreement\": defined as in subdivision one of section three hundred ninety-nine-w of the general business law"
+     ]
+    }
+   ]
+  }
+ },
+ "165.05": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unauthorized use of a vehicle in the third degree is knowingly using a vehicle without the owner's consent, or intentionally misusing or overkeeping a vehicle held under a service or return agreement; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "takes, operates, exercises control over, rides in or otherwise uses a vehicle",
+    "uses or operates the same",
+    "retains or withholds possession thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Takes, operates, exercises control over, rides in or otherwise uses a vehicle",
+     "ways": [
+      "Takes",
+      "Operates",
+      "Exercises control over",
+      "Rides in",
+      "Otherwise uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that he does not have the consent of the owner",
+      "A person who engages in any such conduct without the consent of the owner is presumed to know that he does not have such consent"
+     ]
+    },
+    {
+     "where": "2",
+     "act": "Uses or operates the vehicle for his own purposes in a manner constituting a gross deviation from the agreed purpose",
+     "ways": [
+      "Uses",
+      "Operates"
+     ],
+     "tags": [],
+     "conditions": [
+      "Having custody of a vehicle pursuant to an agreement between himself or another and the owner thereof whereby he or another is to perform for compensation a specific service for the owner involving the maintenance, repair or use of such vehicle",
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intentionally"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Retains or withholds possession of the vehicle for so lengthy a period beyond the specified time as to render such retention or possession a gross deviation from the agreement",
+     "ways": [
+      "Retains",
+      "Withholds possession"
+     ],
+     "tags": [],
+     "conditions": [
+      "Having custody of a vehicle pursuant to an agreement with the owner thereof whereby such vehicle is to be returned to the owner at a specified time",
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intentionally"
+     ],
+     "terms": [
+      "\"a gross deviation from the agreement\": includes, but is not limited to, where a person who had custody of a vehicle for fifteen days or less under a written agreement retains it at least seven days beyond the period specified in the agreement and continues possession for more than two days after service or refusal of attempted service of a notice in person or by certified mail at an address indicated in the agreement stating (i) the date and time at which the vehicle was to have been returned; (ii) that the owner does not consent to the continued withholding or retaining of such vehicle and demands its return; and that continued withholding or retaining of the vehicle may constitute a class A misdemeanor punishable by a fine of up to one thousand dollars or by a sentence to a term of imprisonment for a period of up to one year or by both"
+     ]
+    }
+   ]
+  }
+ },
+ "165.06": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unauthorized use of a vehicle in the second degree is committing third-degree unauthorized use under subdivision one of section 165.05 after a prior such conviction within ten years; it is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of unauthorized use of a vehicle in the third degree as defined in subdivision one of section 165.05 of this article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits the crime of unauthorized use of a vehicle in the third degree as defined in subdivision one of section 165.05 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has been previously convicted of the crime of unauthorized use of a vehicle in the third degree as defined in subdivision one of section 165.05 or second degree within the preceding ten years"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.07": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unlawful use of secret scientific material is, without right, making a copy or record of secret scientific material, intending to appropriate its use; it is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "makes a tangible reproduction or representation of such secret scientific material"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes a tangible reproduction or representation of such secret scientific material",
+     "ways": [
+      "Writing",
+      "Photographing",
+      "Drawing",
+      "Mechanically or electronically reproducing or recording such secret scientific material"
+     ],
+     "tags": [],
+     "conditions": [
+      "Having no right to do so and no reasonable ground to believe that he has such right"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to appropriate to himself or another the use of secret scientific material"
+     ]
+    }
+   ]
+  }
+ },
+ "165.08": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unauthorized use of a vehicle in the first degree is knowingly using a vehicle without the owner's consent, intending to use it in committing or fleeing a class A, B, C or D felony; it is a class D felony.",
+   "category": "Property Crimes",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "takes, operates, exercises control over, rides in or otherwise uses a vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes, operates, exercises control over, rides in or otherwise uses a vehicle",
+     "ways": [
+      "Takes",
+      "Operates",
+      "Exercises control over",
+      "Rides in",
+      "Otherwise uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that he does not have the consent of the owner",
+      "A person who engages in any such conduct without the consent of the owner is presumed to know he does not have such consent"
+     ],
+     "intent": [
+      "With the intent to use the same in the course of or the commission of a class A, class B, class C or class D felony or in the immediate flight therefrom"
+     ]
+    }
+   ]
+  }
+ },
+ "165.09": {
+  "review": {
+   "isOffense": true,
+   "plain": "Auto stripping in the third degree is removing, or intentionally destroying or defacing, any part of a vehicle without the owner's permission, or of an abandoned vehicle without authority; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "removes",
+    "destroys or defaces any part of a vehicle",
+    "destroys or defaces any part of an abandoned vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Removes or destroys or defaces any part of a vehicle",
+     "ways": [
+      "Removes",
+      "Intentionally destroys",
+      "Intentionally defaces"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicle is not an abandoned vehicle, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law",
+      "Without the permission of the owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Removes or destroys or defaces any part of an abandoned vehicle",
+     "ways": [
+      "Removes",
+      "Intentionally destroys",
+      "Intentionally defaces"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicle is an abandoned vehicle, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "Such person was authorized to do so pursuant to law or by permission of the owner"
+     ]
+    }
+   ]
+  }
+ },
+ "165.10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Auto stripping in the second degree is third-degree auto stripping after a prior conviction within five years, or stripping parts worth over one thousand dollars from two or more vehicles without permission; it is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "commits the offense of auto stripping in the third degree",
+    "removes",
+    "destroys, defaces, disguises, or alters any part of two or more vehicles"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits the offense of auto stripping in the third degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "He or she has been previously convicted within the last five years of having violated the provisions of section 165.09 or this section"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Removes or destroys, defaces, disguises, or alters any part of two or more vehicles",
+     "ways": [
+      "Removes",
+      "Intentionally destroys",
+      "Intentionally defaces",
+      "Intentionally disguises",
+      "Intentionally alters"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicles are other than abandoned vehicles, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law",
+      "Without the permission of the owner",
+      "The value of the parts of vehicles removed, destroyed, defaced, disguised, or altered exceeds an aggregate value of one thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.11": {
+  "review": {
+   "isOffense": true,
+   "plain": "Auto stripping in the first degree is removing, or intentionally destroying, defacing, disguising or altering, parts of three or more vehicles without permission, worth over three thousand dollars in all; it is a class D felony.",
+   "category": "Property Crimes",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "removes",
+    "destroys, defaces, disguises, or alters any part of three or more vehicles"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes or destroys, defaces, disguises, or alters any part of three or more vehicles",
+     "ways": [
+      "Removes",
+      "Intentionally destroys",
+      "Intentionally defaces",
+      "Intentionally disguises",
+      "Intentionally alters"
+     ],
+     "tags": [],
+     "conditions": [
+      "The vehicles are other than abandoned vehicles, as defined in subdivision one of section one thousand two hundred twenty-four of the vehicle and traffic law",
+      "Without the permission of the owner",
+      "The value of the parts of vehicles removed, destroyed, defaced, disguised, or altered exceeds an aggregate value of three thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Theft of services covers obtaining or avoiding payment for services such as restaurants, hotels, transit, telecommunications, utilities, admissions, labor, computers and salons by fraud, stealth or tampering; it is a class A misdemeanor, some first offenses are violations, and some telephone theft is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "obtains or attempts to obtain a service, or induces or attempts to induce the supplier of a rendered service to agree to payment therefor on a credit basis",
+    "avoids or attempts to avoid such payment",
+    "obtains or attempts to obtain such service or avoids or attempts to avoid payment therefor",
+    "obtains or attempts to obtain such service for himself or another person or avoids or attempts to avoid payment therefor by himself or another person",
+    "sells, offers for sale or otherwise makes available, without consent, an existing, canceled or revoked access device",
+    "uses, without consent, an existing, canceled or revoked access device",
+    "obtains any telecommunications service",
+    "tampers with such device or with other equipment related thereto",
+    "accepts or receives the use and benefit of service",
+    "tampers with any equipment designed to supply or to prevent the supply of such service",
+    "obtains or attempts to obtain such admission without payment of the lawful charge therefor",
+    "uses or diverts to the use of himself or a third person such labor, equipment or facilities",
+    "uses, causes to be used, accesses, or attempts to use or access a computer, computer service, or computer network and avoids or attempts to avoid payment therefor"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Obtains or attempts to obtain a service, or induces or attempts to induce the supplier of a rendered service to agree to payment therefor on a credit basis, by the use of a credit card or debit card",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Which he knows to be stolen"
+     ]
+    },
+    {
+     "where": "2",
+     "act": "Avoids or attempts to avoid payment for restaurant services or for services rendered to him as a transient guest at a hotel, motel, inn, tourist cabin, rooming house or comparable establishment",
+     "ways": [
+      "Unjustifiable failure or refusal to pay",
+      "Stealth",
+      "Any misrepresentation of fact which he knows to be false"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment for restaurant services rendered, or for services rendered to him as a transient guest at a hotel, motel, inn, tourist cabin, rooming house or comparable establishment",
+      "A person who fails or refuses to pay for such services is presumed to have intended to avoid payment therefor"
+     ]
+    },
+    {
+     "where": "3",
+     "act": "Obtains or attempts to obtain such service or avoids or attempts to avoid payment therefor",
+     "ways": [
+      "Force",
+      "Intimidation",
+      "Stealth",
+      "Deception",
+      "Mechanical tampering",
+      "Unjustifiable failure or refusal to pay"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to obtain railroad, subway, bus, air, taxi or any other public transportation service without payment of the lawful charge therefor, or to avoid payment of the lawful charge for such transportation service which has been rendered to him"
+     ]
+    },
+    {
+     "where": "4",
+     "act": "Obtains or attempts to obtain such service for himself or another person or avoids or attempts to avoid payment therefor by himself or another person",
+     "ways": [
+      "(a) Tampering or making connection with the equipment of the supplier, whether by mechanical, electrical, acoustical or other means",
+      "(b) Offering for sale or otherwise making available, to anyone other than the provider of a telecommunications service for its own use, any telecommunications decoder or descrambler, a principal function of which defeats a mechanism of electronic signal encryption, jamming or individually addressed switching imposed by the provider",
+      "(c) Any misrepresentation of fact which he knows to be false",
+      "(d) Any other artifice, trick, deception, code or device"
+     ],
+     "tags": [],
+     "conditions": [
+      "Proof of tampering with or connection to the supplier's telecommunications equipment without the consent of the supplier is presumptive evidence that the resident to whom the service is being furnished created the condition with intent to avoid payment",
+      "A person who tampers with such a device or equipment without the consent of the supplier of the service is presumed to do so with intent to avoid, or to enable another to avoid, payment for the service involved",
+      "Proof that a decoder or descrambler has been offered for sale or otherwise made available by anyone other than the supplier is presumptive evidence that the person offering it acted with intent to avoid payment"
+     ],
+     "exceptions": [
+      "The decoder or descrambler in paragraph (b) or the device in paragraph (d) does not include any non-decoding and non-descrambling channel frequency converter or any television receiver type-accepted by the federal communications commission"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment by himself or another person of the lawful charge for any telecommunications service, including, without limitation, cable television service, or any gas, steam, sewer, water, electrical, telegraph or telephone service which is provided for a charge or compensation"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "Theft of cable television service as defined by paragraphs (a), (c) and (d), having a value not in excess of one hundred dollars, by a person who has not been previously convicted of theft of services under subdivision four of this section",
+       "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "5(a)",
+     "act": "Sells, offers for sale or otherwise makes available, without consent, an existing, canceled or revoked access device",
+     "ways": [
+      "Sells",
+      "Offers for sale",
+      "Otherwise makes available"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment by himself or another person of the lawful charge for any telephone service which is provided for a charge or compensation"
+     ],
+     "terms": [
+      "\"access device\": any telephone calling card number, credit card number, account number, mobile identification number, electronic serial number or personal identification number that can be used to obtain telephone service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "The telephone service has a value in excess of one thousand dollars, or the person has been previously convicted within five years of theft of services under paragraph (a) of subdivision five of this section",
+       "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "5(b)",
+     "act": "Uses, without consent, an existing, canceled or revoked access device",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment by himself or another person of the lawful charge for any telephone service which is provided for a charge or compensation"
+     ],
+     "terms": [
+      "\"access device\": any telephone calling card number, credit card number, account number, mobile identification number, electronic serial number or personal identification number that can be used to obtain telephone service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "The telephone service has a value in excess of one thousand dollars, or the person has been previously convicted within five years of theft of services under paragraph (a) of subdivision five of this section",
+       "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "5(c)",
+     "act": "Obtains any telecommunications service by use of an unauthorized, false, or fictitious name, identification, telephone number, or access device",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With intent to avoid payment by himself or another person of the lawful charge for any telephone service which is provided for a charge or compensation",
+      "With fraudulent intent"
+     ],
+     "terms": [
+      "\"access device\": any telephone calling card number, credit card number, account number, mobile identification number, electronic serial number or personal identification number that can be used to obtain telephone service"
+     ]
+    },
+    {
+     "where": "6",
+     "act": "Tampers with such device or with other equipment related thereto, or in any manner attempts to prevent the meter or device from performing its measuring function",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the supplier of the service",
+      "Proof that a meter or related equipment has been tampered with or otherwise intentionally prevented from performing its measuring function without the supplier's consent is presumptive evidence that the person to whom the service is being furnished created the condition with intent to avoid payment",
+      "A person who tampers with such a device or equipment without the consent of the supplier of the service is presumed to do so with intent to avoid, or to enable another to avoid, payment for the service involved"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment by himself or another person for a prospective or already rendered service the charge or compensation for which is measured by a meter or other mechanical device"
+     ]
+    },
+    {
+     "where": "7",
+     "act": "Accepts or receives the use and benefit of service, including gas, steam or electricity service, which should pass through a meter but has been diverted therefrom, or which has been prevented from being correctly registered by a meter provided therefor, or which has been diverted from the pipes, wires or conductors of the supplier thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Proof that service has been intentionally diverted or prevented from being correctly registered is presumptive evidence that the person who accepts or receives the use and benefit of such service has done so with knowledge of the condition so existing"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "mentalState": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "8",
+     "act": "Tampers with any equipment designed to supply or to prevent the supply of such service either to the community in general or to particular premises",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to obtain, without the consent of the supplier thereof, gas, electricity, water, steam or telephone service"
+     ]
+    },
+    {
+     "where": "9",
+     "act": "Obtains or attempts to obtain such admission without payment of the lawful charge therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment of the lawful charge for admission to any theatre or concert hall, or for admission to or use of a chair lift, gondola, rope-tow or similar mechanical device utilized in assisting skiers in transportation to a point of ski arrival or departure"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "The person has not been previously convicted of theft of services under subdivision nine of this section",
+       "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "10",
+     "act": "Uses or diverts to the use of himself or a third person such labor, equipment or facilities",
+     "ways": [
+      "Uses",
+      "Diverts"
+     ],
+     "tags": [],
+     "conditions": [
+      "Obtaining or having control over labor in the employ of another person, or of business, commercial or industrial equipment or facilities of another person"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that he is not entitled to the use thereof"
+     ],
+     "intent": [
+      "With intent to derive a commercial or other substantial benefit for himself or a third person"
+     ]
+    },
+    {
+     "where": "11",
+     "act": "Uses, causes to be used, accesses, or attempts to use or access a computer, computer service, or computer network and avoids or attempts to avoid payment therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment by himself, herself, or another person of the lawful charge for use of any computer, computer service, or computer network which is provided for a charge or compensation",
+      "Proof that a person overcame or attempted to overcome any device or coding system a function of which is to prevent the unauthorized use of said computer or computer service is presumptive evidence of an intent to avoid payment"
+     ]
+    },
+    {
+     "where": "12",
+     "act": "Avoids or attempts to avoid payment for services rendered by a barbershop, salon or beauty shop",
+     "ways": [
+      "Unjustifiable failure or refusal to pay",
+      "Stealth",
+      "Any misrepresentation of fact which he or she knows to be false"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to avoid payment for services rendered by a barbershop, salon or beauty shop"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "The person has not previously been convicted of theft of services under subdivision twelve of this section",
+       "penalty": "Violation (sentence set in Penal Law Articles 70 and 80)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "165.16": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unauthorized sale of certain transportation services is selling, without authorization, access to MTA or New York city transit service with an unlimited or doctored farecard in a transit facility; it is a class B misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class B misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "sells access to such transportation services to such person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Sells access to such transportation services to such person, in exchange for value, without authorization, through the use of an unlimited farecard or doctored farecard",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In exchange for value",
+      "Without authorization",
+      "Through the use of an unlimited farecard or doctored farecard",
+      "The sale occurs in a transportation facility, as such term is defined in subdivision two of section 240.00 of this chapter, operated by such authority or subsidiary or affiliate",
+      "Public notice of the prohibitions of this section and the exemptions thereto appears on the face of the farecard or is conspicuously posted in transportation facilities operated by such authority or subsidiary or affiliate"
+     ],
+     "exceptions": [],
+     "defenses": [
+      "The seller of a farecard containing value, other than a doctored farecard, relinquished all rights and privileges thereto upon consummation of the sale",
+      "The seller sold access through a farecard, other than a doctored farecard, at the request of the purchaser as an accommodation when a farecard was not immediately available to the purchaser, provided the seller lawfully acquired the farecard and did not, by means of an unlawful act, contribute to the circumstances that caused the request"
+     ],
+     "intent": [
+      "With intent to avoid payment by another person to the metropolitan transportation authority, New York city transit authority or a subsidiary or affiliate of either such authority of the lawful charge for transportation services on a railroad, subway, bus or mass transit service operated by either such authority or a subsidiary or affiliate thereof"
+     ],
+     "terms": [
+      "\"farecard\": a value-based, magnetically encoded card containing stored monetary value from which a specified amount of value is deducted as payment of a fare",
+      "\"unlimited farecard\": a farecard that is time-based, magnetically encoded and which permits entrance an unlimited number of times into facilities and conveyances for a specified period of time",
+      "\"doctored farecard\": a farecard that has been bent or manipulated or altered so as to facilitate a person's access to transportation services without paying the lawful charge"
+     ]
+    }
+   ]
+  }
+ },
+ "165.17": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unlawful use of a credit card, debit card or public benefit card is using or displaying a card one knows is revoked or cancelled to obtain property or a service; it is a class A misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "uses or displays a credit card, debit card or public benefit card"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Uses or displays a credit card, debit card or public benefit card",
+     "ways": [
+      "Uses",
+      "Displays"
+     ],
+     "tags": [],
+     "conditions": [
+      "In the course of obtaining or attempting to obtain property or a service"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Which he knows to be revoked or cancelled"
+     ]
+    }
+   ]
+  }
+ },
+ "165.20": {
+  "review": {
+   "isOffense": true,
+   "plain": "Fraudulently obtaining a signature is getting someone to sign a written instrument through a known false misrepresentation, intending to defraud or injure or to gain a substantial benefit; it is a class A misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "obtains the signature of a person to a written instrument"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains the signature of a person to a written instrument by means of any misrepresentation of fact",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Which he knows to be false"
+     ],
+     "intent": [
+      "With intent to defraud or injure another or to acquire a substantial benefit for himself or a third person"
+     ]
+    }
+   ]
+  }
+ },
+ "165.25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Jostling is, in a public place, intentionally and unnecessarily putting a hand near someone's pocket or handbag, or jostling a person while another's hand is near their pocket or handbag; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "Places his hand in the proximity of a person's pocket or handbag",
+    "Jostles or crowds another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Places his hand in the proximity of a person's pocket or handbag",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In a public place",
+      "Unnecessarily"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Jostles or crowds another person",
+     "ways": [
+      "Jostles",
+      "Crowds"
+     ],
+     "tags": [],
+     "conditions": [
+      "In a public place",
+      "Unnecessarily",
+      "At a time when a third person's hand is in the proximity of such person's pocket or handbag"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.30": {
+  "review": {
+   "isOffense": true,
+   "plain": "Fraudulent accosting is accosting a person in a public place intending to defraud him of money or property by a trick, swindle or confidence game; it is a class A misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "accosts a person in a public place"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Accosts a person in a public place",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud him of money or other property by means of a trick, swindle or confidence game",
+      "A person who makes statements to him or engages in conduct with respect to him of a kind commonly made or performed in the perpetration of a known type of confidence game, at the time of accosting or later or elsewhere, is presumed to intend to defraud such person of money or other property"
+     ]
+    }
+   ]
+  }
+ }
+}

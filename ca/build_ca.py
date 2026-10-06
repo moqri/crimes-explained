@@ -1,4 +1,5 @@
-"""Build ca/crimes.json from the downloaded California Penal Code chapters (ca/raw/*.html, from fetch_ca.py), plus the
+"""Build ca/crimes.json from the downloaded California Penal Code chapters of Titles 8 and 13 (ca/raw/<title>-<chapter>.html,
+from fetch_ca.py; chapter keys are "<title>:<chapter>", e.g. "13:5", because both titles number their chapters from 1), plus the
 reviewed data in ca/plain.json (which sections define crimes, captions, summaries, types, maximum penalties, act phrases)
 and ca/elements.json (crime breakdowns). Usage: python3 ca/build_ca.py [--batches DIR]
 --batches writes the parsed sections that are not yet in plain.json in batches of 30 as input for the review agents.
@@ -10,7 +11,7 @@ sys.path.insert(0, os.path.dirname(HERE))
 from textlib import LEAD_CHAIN, outline_levels, apply_acts, own_text_only, fill_act_gaps, tidy_acts
 
 SEC_URL = "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum="
-TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=&article="
+PART_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN&division=&title=&part=1.&chapter=&article="
 meta = json.load(open(os.path.join(HERE, "raw", "meta.json")))
 
 def clean(t):
@@ -38,10 +39,10 @@ def paragraphs(items):
     return paras
 
 out = []
-chapters = sorted(meta["chapters"], key=lambda c: float(c))
+chapters = sorted(meta["chapters"], key=lambda c: (int(c.split(":")[0]), float(c.split(":")[1])))
 for ch in chapters:
-    page = open(os.path.join(HERE, "raw", f"{ch}.html"), encoding="utf-8").read()
-    head = re.search(r"<h5[^>]*><b>CHAPTER\s+([\d.]+)\.\s*(.*?)\s*\[", page, re.S)
+    page = open(os.path.join(HERE, "raw", f"{ch.replace(':', '-')}.html"), encoding="utf-8").read()
+    head = re.search(r"<h[45][^>]*><b>CHAPTER\s+([\d.]+)\.\s*(.*?)\s*\[", page, re.S)
     chap_title = clean(head.group(2))
     body = page.split("manylawsections", 1)[1]
     hs = list(re.finditer(r"<h6[^>]*>\s*<a [^>]*>\s*([^<]+?)\s*</a>\s*</h6>", body))
@@ -61,6 +62,19 @@ for ch in chapters:
             "text": text, "source": hist + "." if hist else "", "footnotes": [], "url": SEC_URL + num,
         })
 
+# A section amended with a delayed start appears twice: the version in effect now and the one that "shall become operative on"
+# a later date. Keep only the version in effect on the download date.
+import datetime
+def operative(c):
+    for p in c["text"]:
+        if (m := re.search(r"shall become operative on ([A-Z][a-z]+ \d{1,2}, \d{4})", p["t"])):
+            return datetime.datetime.strptime(m.group(1), "%B %d, %Y").date().isoformat()
+counts = {}
+for c in out: counts[c["section"]] = counts.get(c["section"], 0) + 1
+later = [c for c in out if counts[c["section"]] > 1 and (operative(c) or "") > meta["fetched"]]
+out = [c for c in out if c not in later]
+if later: print("kept the version in effect of", ", ".join(c["section"] for c in later))
+
 plain_path, elements_path = os.path.join(HERE, "plain.json"), os.path.join(HERE, "elements.json")
 plain = json.load(open(plain_path, encoding="utf-8")) if os.path.exists(plain_path) else {}
 elements = json.load(open(elements_path, encoding="utf-8")) if os.path.exists(elements_path) else {}
@@ -70,7 +84,7 @@ if "--batches" in sys.argv:                 # sections not yet in plain.json, in
     os.makedirs(d, exist_ok=True)
     todo = [c for c in out if c["section"] not in plain]
     for k in range(0, len(todo), 30):
-        batch = [{"section": c["section"], "cite": c["cite"], "chapter": f'{c["chapter"]}. {c["chapterTitle"]}', "text": [{"i": p["i"], "t": p["t"]} for p in c["text"]]} for c in todo[k:k + 30]]
+        batch = [{"section": c["section"], "cite": c["cite"], "chapter": "Title {}, Chapter {}. {}".format(*c["chapter"].split(":"), c["chapterTitle"]), "text": [{"i": p["i"], "t": p["t"]} for p in c["text"]]} for c in todo[k:k + 30]]
         json.dump(batch, open(os.path.join(d, f"in_{k // 30 + 1:02d}.json"), "w"), ensure_ascii=False, indent=1)
     print(f"{len(out)} sections parsed; wrote {(len(todo) + 29) // 30} batches of up to 30 sections ({len(todo)} sections) to {d}")
     sys.exit()
@@ -93,6 +107,6 @@ out = [c for c in out if c["section"] in plain and c.get("isOffense") is not Fal
 print(len(dropped), "sections excluded as not defining a crime")
 
 json.dump({"jurisdiction": "ca", "frequency": None,
-           "edition": f"California Penal Code, Part 1, Title 8 (Of Crimes Against the Person), official text from the California Legislative Information site (downloaded {meta['fetched']})",
-           "source": TITLE_URL, "crimes": out}, open(os.path.join(HERE, "crimes.json"), "w"), ensure_ascii=False, indent=1)
+           "edition": f"California Penal Code, Part 1, Titles 8 (Of Crimes Against the Person) and 13 (Of Crimes Against Property), official text from the California Legislative Information site (downloaded {meta['fetched']})",
+           "source": PART_URL, "crimes": out}, open(os.path.join(HERE, "crimes.json"), "w"), ensure_ascii=False, indent=1)
 print(len(out), "sections written to ca/crimes.json")

@@ -1,0 +1,2020 @@
+{
+ "529a": {
+  "review": {
+   "title": "Fake birth or baptism certificates",
+   "isOffense": true,
+   "plain": "Making or selling false birth or baptism certificates to deceive is punishable by up to one year in county jail or a felony jail term; using or possessing one to pose as someone else carries up to one year.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "manufactures, produces, sells, offers, or transfers to another any document purporting to be either a certificate of birth or certificate of baptism",
+    "offers, displays, or has in his or her possession any false or counterfeit certificate of birth or certificate of baptism"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures, produces, sells, offers, or transfers to another any document purporting to be either a certificate of birth or certificate of baptism",
+     "ways": [
+      "manufactures",
+      "produces",
+      "sells",
+      "offers",
+      "transfers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing such document to be false or counterfeit"
+     ],
+     "intent": [
+      "With the intent to deceive"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not to exceed one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Offers, displays, or has in his or her possession any false or counterfeit certificate of birth or certificate of baptism, or any genuine certificate of birth which describes a person then living or deceased",
+     "ways": [
+      "offers",
+      "displays",
+      "has in his or her possession"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to represent himself or herself as another or to conceal his or her true identity"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail not to exceed one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "529.5": {
+  "review": {
+   "title": "Fake government ID documents",
+   "isOffense": true,
+   "plain": "Making or selling fake-looking government ID cards or driver's licenses, knowing they are not genuine, is a misdemeanor punishable by up to one year in county jail; knowingly possessing one carries a fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "manufactures, sells, offers for sale, or transfers any document, not amounting to counterfeit, purporting to be a government-issued identification card or driver’s license",
+    "possesses a document described in subdivision (a)"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knows that the document is not a government-issued document"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Manufactures, sells, offers for sale, or transfers any document, not amounting to counterfeit, purporting to be a government-issued identification card or driver’s license",
+     "ways": [
+      "manufactures",
+      "sells",
+      "offers for sale",
+      "transfers"
+     ],
+     "tags": [],
+     "conditions": [
+      "The document by virtue of the wording or appearance thereon could reasonably deceive an ordinary person into believing that it is issued by a government agency"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, or by a fine not exceeding one thousand dollars ($1,000), or by both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior conviction for a violation of subdivision (a)",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or a fine not exceeding five thousand dollars ($5,000), or both the fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Possesses a document described in subdivision (a)",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than two thousand five hundred dollars ($2,500)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      },
+      {
+       "if": "community service work is not available",
+       "penalty": "A fine of up to one thousand dollars ($1,000), based on the person’s ability to pay",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "The misdemeanor fine shall be imposed except in unusual cases where the interests of justice would be served",
+      "The court may allow an offender to work off the fine by doing community service"
+     ]
+    }
+   ]
+  }
+ },
+ "529.6": {
+  "review": {
+   "title": "Impersonating a census taker",
+   "isOffense": true,
+   "plain": "Falsely posing as a census taker, or falsely taking on a census taker's activities, to interfere with the census or obtain information or consent to an unlawful search is a misdemeanor punishable by up to one year in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "Falsely represents that they are a census taker",
+    "Falsely assumes some or all of the activities of a census taker"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to interfere with the operation of the census or with the intent to obtain information or consent to an otherwise unlawful search or seizure"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, or by a fine not exceeding one thousand dollars ($1,000), or by both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)(1)",
+     "act": "Falsely represents that they are a census taker",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Falsely assumes some or all of the activities of a census taker",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "529.7": {
+  "review": {
+   "title": "Obtaining DMV documents unlawfully",
+   "isOffense": true,
+   "plain": "Obtaining, or helping someone obtain, a driver's license, ID card, registration, or other DMV document, knowing that person is not entitled to it, is a misdemeanor punishable by up to one year in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "obtains, or assists another person in obtaining, a driver’s license, identification card, vehicle registration certificate, or any other official document issued by the Department of Motor Vehicles"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by imprisonment in a county jail for up to one year, or a fine of up to one thousand dollars ($1,000), or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains, or assists another person in obtaining, a driver’s license, identification card, vehicle registration certificate, or any other official document issued by the Department of Motor Vehicles",
+     "ways": [
+      "obtains",
+      "assists another person in obtaining"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With knowledge that the person obtaining the document is not entitled to the document"
+     ]
+    }
+   ]
+  }
+ },
+ "530": {
+  "review": {
+   "title": "Receiving property by false personation",
+   "isOffense": true,
+   "plain": "Falsely impersonating another and, in that character, receiving money or property meant for that person, intending to keep or divert it, is punished the same as larceny of that money or property.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "falsely personates another, in either his private or official capacity, and in such assumed character receives any money or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Punishable in the same manner and to the same extent as for larceny of the money or property so received (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Falsely personates another, in either his private or official capacity, and in such assumed character receives any money or property",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that it is intended to be delivered to the individual so personated"
+     ],
+     "intent": [
+      "With intent to convert the same to his own use, or to that of another person, or to deprive the true owner thereof"
+     ]
+    }
+   ]
+  }
+ },
+ "530.5": {
+  "review": {
+   "title": "Identity theft",
+   "isOffense": true,
+   "plain": "Obtaining and using someone's personal identifying information for an unlawful purpose, or acquiring, keeping, or selling it to defraud, is punishable by county jail up to one year or a felony jail term; mail theft is also covered.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "obtains personal identifying information",
+    "uses that information for any unlawful purpose",
+    "acquires or retains possession of the personal identifying information",
+    "sells, transfers, or conveys the personal identifying information",
+    "sells, transfers, or conveys that same personal identifying information",
+    "commits mail theft"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Obtains personal identifying information of another person, and uses that information for any unlawful purpose, including to obtain, or attempt to obtain, credit, goods, services, real property, or medical information without the consent of that person",
+     "ways": [
+      "obtains and uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "An interactive computer service or access software provider, as defined in subsection (f) of Section 230 of Title 47 of the United States Code, is not liable unless it acquires, transfers, sells, conveys, or retains possession of personal information with the intent to defraud"
+     ],
+     "defenses": [],
+     "intent": [
+      "Willfully"
+     ],
+     "terms": [
+      "Personal identifying information: as defined in subdivision (b) of Section 530.55"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine, imprisonment in a county jail not to exceed one year, or both a fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "consequences": [
+      "Where the person uses the information to commit another crime and is convicted of it, the court records shall reflect that the person whose identity was falsely used did not commit the crime"
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Acquires or retains possession of the personal identifying information of another person",
+     "ways": [
+      "acquires",
+      "retains possession of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ],
+     "terms": [
+      "Personal identifying information: as defined in subdivision (b) of Section 530.55"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine, imprisonment in a county jail not to exceed one year, or both a fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the person has previously been convicted of a violation of this section",
+       "penalty": "A fine, imprisonment in a county jail not to exceed one year, or both a fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(3)",
+     "act": "Acquires or retains possession of the personal identifying information of 10 or more other persons",
+     "ways": [
+      "acquires",
+      "retains possession of"
+     ],
+     "tags": [],
+     "conditions": [
+      "The information is of 10 or more other persons"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ],
+     "terms": [
+      "Personal identifying information: as defined in subdivision (b) of Section 530.55"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine, imprisonment in a county jail not to exceed one year, or both a fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(d)(1)",
+     "act": "Sells, transfers, or conveys the personal identifying information of another person",
+     "ways": [
+      "sells",
+      "transfers",
+      "conveys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ],
+     "terms": [
+      "Personal identifying information: as defined in subdivision (b) of Section 530.55"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine, imprisonment in a county jail not to exceed one year, or both a fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(d)(2)",
+     "act": "Sells, transfers, or conveys that same personal identifying information",
+     "ways": [
+      "sells",
+      "transfers",
+      "conveys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With actual knowledge that the personal identifying information of a specific person will be used to commit a violation of subdivision (a)"
+     ],
+     "terms": [
+      "Personal identifying information: as defined in subdivision (b) of Section 530.55"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine, imprisonment pursuant to subdivision (h) of Section 1170, or both a fine and imprisonment (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(e)",
+     "act": "Commits mail theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Mail theft as defined in Section 1708 of Title 18 of the United States Code"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine, imprisonment in a county jail not to exceed one year, or both a fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Prosecution under this subdivision shall not limit or preclude prosecution under any other provision of law, including subdivisions (a) to (c)"
+     ]
+    }
+   ]
+  }
+ },
+ "530.55": {
+  "review": {
+   "title": "Identity theft definitions",
+   "isOffense": false,
+   "plain": "Defines \"person\" and \"personal identifying information\" for the false personation and cheats chapter."
+  }
+ },
+ "530.6": {
+  "review": {
+   "title": "Identity theft victims' police reports and innocence",
+   "isOffense": false,
+   "plain": "Lets identity theft victims get a police report and investigation and petition a court for a determination of factual innocence, with sealing or labeling of records."
+  }
+ },
+ "530.7": {
+  "review": {
+   "title": "Identity theft victim database",
+   "isOffense": false,
+   "plain": "Requires the Department of Justice to keep a database and toll-free number of identity theft victims who submit a court order and fingerprints."
+  }
+ },
+ "530.8": {
+  "review": {
+   "title": "Victims' access to fraudulent account records",
+   "isOffense": false,
+   "plain": "Lets identity theft victims obtain records of applications or accounts opened in their name, with court enforcement and a civil action for noncompliance."
+  }
+ },
+ "531": {
+  "review": {
+   "title": "Fraudulent conveyances",
+   "isOffense": true,
+   "plain": "Being a party to a conveyance or other transaction made to defraud others or hinder creditors, or knowingly defending or transferring under it, is a misdemeanor; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "is a party to any fraudulent conveyance of any lands, tenements, or hereditaments, goods or chattels",
+    "puts in, uses, avows, maintains, justifies, or defends the same",
+    "aliens, assigns, or sells any of the lands, tenements, hereditaments, goods, chattels, or other things before mentioned"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Is a party to any fraudulent conveyance of any lands, tenements, or hereditaments, goods or chattels, or any right or interest issuing out of the same, or to any bond, suit, judgment, or execution, contract or conveyance",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Had, made, or contrived with intent to deceive and defraud others, or to defeat, hinder, or delay creditors or others of their just debts, damages, or demands"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Puts in, uses, avows, maintains, justifies, or defends the same, or any of them, as true, and done, had, or made in good faith, or upon good consideration",
+     "ways": [
+      "puts in",
+      "uses",
+      "avows",
+      "maintains",
+      "justifies",
+      "defends"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A party to such a fraudulent conveyance or transaction",
+     "intent": [
+      "Wittingly and willingly"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Aliens, assigns, or sells any of the lands, tenements, hereditaments, goods, chattels, or other things before mentioned, to him or them conveyed as aforesaid",
+     "ways": [
+      "aliens",
+      "assigns",
+      "sells"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A party to such a fraudulent conveyance or transaction"
+    }
+   ]
+  }
+ },
+ "531a": {
+  "review": {
+   "title": "Fraudulent real property deeds",
+   "isOffense": true,
+   "plain": "Executing, or filing, a deed to real property knowing the person signing has no interest in it, with intent to defraud, is a misdemeanor punishable by up to one year or a $5,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "executes or procures another to execute any instrument purporting to convey any real property",
+    "files or procures the filing of any such instrument"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by imprisonment for not more than one year or by fine of five thousand dollars or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Executes or procures another to execute any instrument purporting to convey any real property, or any right or interest therein",
+     "ways": [
+      "executes",
+      "procures another to execute"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly",
+      "Knowing that such person so executing has no right to or interest in such property"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Files or procures the filing of any such instrument",
+     "ways": [
+      "files",
+      "procures the filing"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that the person executing the same had no right, title or interest in the property so purported to be conveyed"
+     ]
+    }
+   ]
+  }
+ },
+ "532": {
+  "review": {
+   "title": "Obtaining property by false pretenses",
+   "isOffense": true,
+   "plain": "Defrauding someone of money, labor, or property by false representation, or getting credit by false reports of one's wealth, is punished the same as larceny of that money or property.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "defrauds any other person of money, labor, or property, whether real or personal",
+    "causes or procures others to report falsely of his or her wealth or mercantile character"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Punishable in the same manner and to the same extent as for larceny of the money or property so obtained (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Defrauds any other person of money, labor, or property, whether real or personal, by any false or fraudulent representation or pretense",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "Cannot be convicted if the false pretense was expressed in language unaccompanied by a false token or writing, unless the pretense, or some note or memorandum thereof is in writing, subscribed by or in the handwriting of the defendant, or unless the pretense is proven by the testimony of two witnesses, or that of one witness and corroborating circumstances"
+     ],
+     "knowledge": [
+      "Knowingly and designedly"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Causes or procures others to report falsely of his or her wealth or mercantile character, and by thus imposing upon any person obtains credit, and thereby gets possession of money or property, or obtains the labor or service of another",
+     "ways": [
+      "causes",
+      "procures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "Cannot be convicted if the false pretense was expressed in language unaccompanied by a false token or writing, unless the pretense, or some note or memorandum thereof is in writing, subscribed by or in the handwriting of the defendant, or unless the pretense is proven by the testimony of two witnesses, or that of one witness and corroborating circumstances"
+     ],
+     "intent": [
+      "Fraudulently gets possession of money or property"
+     ],
+     "knowledge": [
+      "Knowingly and designedly"
+     ]
+    }
+   ]
+  }
+ },
+ "532a": {
+  "review": {
+   "title": "False financial statements to get credit",
+   "isOffense": true,
+   "plain": "Making a false written statement about financial condition to obtain property, loans, or credit, or obtaining them on such a statement, is a misdemeanor; using a fictitious name or false identity can be a felony.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "make or cause to be made, either directly or indirectly or through any agency whatsoever, any false statement in writing",
+    "procures, upon the faith thereof",
+    "represents on a later day in writing that the statement theretofore made, if then again made on said day, would be then true"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by a fine of not more than one thousand dollars ($1,000), or by imprisonment in the county jail for not more than six months, or by both that fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "the person violates subdivision (1), (2), or (3) by using a fictitious name, social security number, business name, or business address, or by falsely representing himself or herself to be another person or another business",
+      "penalty": "Guilty of a felony, punishable by a fine not exceeding five thousand dollars ($5,000) or by imprisonment pursuant to subdivision (h) of Section 1170, or by both that fine and imprisonment, or by a fine not exceeding two thousand five hundred dollars ($2,500) or by imprisonment in the county jail not exceeding one year, or by both such fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "consequences": [
+     "This section does not preclude the applicability of any other provision of the criminal law of this state"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(1)",
+     "act": "Makes or causes to be made, either directly or indirectly or through any agency whatsoever, any false statement in writing respecting the financial condition, or means or ability to pay, of himself or herself, or any other person, firm or corporation, in whom he or she is interested, or for whom he or she is acting",
+     "ways": [
+      "makes",
+      "causes to be made"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With intent that it shall be relied upon",
+      "For the purpose of procuring the delivery of personal property, the payment of cash, the making of a loan or credit, the extension of a credit, the execution of a contract of guaranty or suretyship, the discount of an account receivable, or the making, acceptance, discount, sale or endorsement of a bill of exchange, or promissory note"
+     ]
+    },
+    {
+     "where": "(2)",
+     "act": "Procures, upon the faith thereof, for the benefit either of himself or herself, or of that person, firm or corporation, either or any of the things of benefit mentioned in subdivision (1)",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that a false statement in writing has been made respecting the financial condition or means or ability to pay"
+     ]
+    },
+    {
+     "where": "(3)",
+     "act": "Represents on a later day in writing that the statement theretofore made, if then again made on said day, would be then true, and procures upon the faith thereof either or any of the things of benefit mentioned in subdivision (1)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In fact, said statement if then made would be false"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that a statement in writing has been made respecting the financial condition or means or ability to pay"
+     ]
+    }
+   ]
+  }
+ },
+ "532b": {
+  "review": {
+   "title": "California Stolen Valor Act",
+   "isOffense": true,
+   "plain": "Fraudulently claiming to be a veteran or service member, or to have a military decoration, to get money, property, or benefits, or forging or using false military papers for that purpose, is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "fraudulently represents themselves as a veteran or ex-serviceman of a war in which the United States was engaged",
+    "fraudulently claims, or presents themselves, to be a veteran or member of the Armed Forces of the United States",
+    "fraudulently represents themselves to have been awarded a military decoration",
+    "forges documentation reflecting the awarding of a military decoration that the person has not received",
+    "misrepresents themselves as a member or veteran of the Armed Forces of the United States",
+    "utilizes falsified military identification",
+    "misrepresents themselves, as a member or veteran of the Armed Forces of the United States"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Military decoration\": any decoration or medal from the Armed Forces of the United States, the California National Guard, the State Guard, or the Naval Militia, or any service medals or badges awarded to the members of those forces, or the ribbon, button, or rosette of that badge, decoration, or medal, or any colorable imitation of that item",
+     "\"Tangible benefit\": financial remuneration, an effect on the outcome of a criminal or civil court proceeding, or any benefit relating to service in the military that is provided by a federal, state, or local governmental entity"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Represents themselves as a veteran or ex-serviceman of a war in which the United States was engaged",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "In connection with the soliciting of aid or the sale or attempted sale of any property"
+     ],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Claims, or presents themselves, to be a veteran or member of the Armed Forces of the United States, the California National Guard, the State Guard, the Naval Militia, the national guard of any other state, or any other reserve component of the Armed Forces of the United States",
+     "ways": [
+      "claims",
+      "presents themselves"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Fraudulently",
+      "With the intent to obtain money, property, or other tangible benefit"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Represents themselves to have been awarded a military decoration",
+     "ways": [
+      "orally",
+      "in writing",
+      "by wearing any military decoration"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Fraudulently",
+      "With the intent to obtain money, property, or other tangible benefit"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person committing the offense is a veteran of the Armed Forces of the United States",
+       "penalty": "An infraction or a misdemeanor, subject to Sections 19.6, 19.7, and 19.8",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Forges documentation reflecting the awarding of a military decoration that the person has not received",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "intent": [
+      "For the purposes of obtaining money, property, or receiving a tangible benefit"
+     ]
+    },
+    {
+     "where": "(e)",
+     "act": "Misrepresents themselves as a member or veteran of the Armed Forces of the United States, the California National Guard, the State Guard, or the Naval Militia by wearing the uniform or military decoration authorized for use by the members or veterans of those forces",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With the intent to impersonate and to deceive",
+      "For the purposes of obtaining money, property, or receiving a tangible benefit"
+     ]
+    },
+    {
+     "where": "(f)",
+     "act": "Utilizes falsified military identification",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "For the purposes of obtaining money, property, or receiving a tangible benefit"
+     ]
+    },
+    {
+     "where": "(g)",
+     "act": "Misrepresents themselves as a member or veteran of the Armed Forces of the United States, the California National Guard, the State Guard, or the Naval Militia by wearing the uniform or military decoration authorized for use by the members or veterans of those forces",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With the intent to impersonate",
+      "For the purposes of promoting a business, charity, or endeavor"
+     ]
+    },
+    {
+     "where": "(h)",
+     "act": "Misrepresents themselves, as a member or veteran of the Armed Forces of the United States, the California National Guard, the State Guard, or the Naval Militia by wearing the uniform or military decoration authorized for use by the members or veterans of those forces",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply to face-to-face solicitations involving less than ten dollars ($10)"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With the intent to gain an advantage for employment purposes"
+     ]
+    }
+   ]
+  }
+ },
+ "532c": {
+  "review": {
+   "title": "Giving away land with lottery or admission tickets",
+   "isOffense": true,
+   "plain": "Offering or giving real property with winning drawing numbers or admission tickets and charging fees for its transfer is a misdemeanor; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "offers or gives with winning numbers at any drawing of numbers or with tickets of admission to places of public assemblage, any lot or parcel of real property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Offers or gives with winning numbers at any drawing of numbers or with tickets of admission to places of public assemblage, any lot or parcel of real property and charges or collects fees in connection with the transfer thereof",
+     "ways": [
+      "offers",
+      "gives"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly and designedly"
+     ]
+    }
+   ]
+  }
+ },
+ "532d": {
+  "review": {
+   "title": "False statements in charitable solicitations",
+   "isOffense": true,
+   "plain": "Making a false factual statement about a charity, its costs, or the use of funds while soliciting or receiving donations, knowingly or negligently, is a misdemeanor punishable by up to one year in county jail or a $5,000 fine.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "makes, utters, or delivers, either orally or in writing, an unqualified statement of fact"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who solicits or attempts to solicit or receives money or property of any kind for a charitable, religious or eleemosynary purpose",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by imprisonment in the county jail for not more than one year, by a fine not exceeding five thousand dollars ($5,000), or by both that imprisonment and fine",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Makes, utters, or delivers, either orally or in writing, an unqualified statement of fact concerning the purpose or organization for which the money or property is solicited or received, or concerning the cost and expense of solicitation or the manner in which the money or property or any part thereof is to be used",
+     "ways": [
+      "makes",
+      "utters",
+      "delivers"
+     ],
+     "tags": [],
+     "conditions": [
+      "The statement is in fact false",
+      "The offense is proven by the testimony of one witness and corroborating circumstances"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Willfully and with knowledge of its falsity"
+     ],
+     "mentalState": [
+      "Negligently without due consideration of those facts which by the use of ordinary care he or she should have known"
+     ],
+     "consequences": [
+      "Cities and counties may adopt regulations for charitable solicitations not in conflict with this section"
+     ]
+    }
+   ]
+  }
+ },
+ "532e": {
+  "review": {
+   "title": "Construction fund kickbacks",
+   "isOffense": true,
+   "plain": "A person who receives money to pay for construction work on real property and willfully rebates part of it to anyone contracting to provide that work is guilty of a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "rebates any part of the money to or on behalf of anyone contracting with such person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who receives money for the purpose of obtaining or paying for services, labor, materials or equipment incident to constructing improvements on real property",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Rebates any part of the money to or on behalf of anyone contracting with such person, for provision of the services, labor, materials or equipment for which the money was given",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Normal trade discount for prompt payment shall not be considered a violation of this section"
+     ],
+     "defenses": [],
+     "intent": [
+      "Willfully"
+     ]
+    }
+   ]
+  }
+ },
+ "532f": {
+  "review": {
+   "title": "Mortgage fraud",
+   "isOffense": true,
+   "plain": "Making or using misstatements in the mortgage lending process, taking proceeds from it, filing false documents, or (for brokers) steering borrowers into improper loans, with intent to defraud, is punishable by up to one year in county jail or a felony jail term.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "makes any misstatement, misrepresentation, or omission during the mortgage lending process",
+    "uses or facilitates the use of any misstatement, misrepresentation, or omission",
+    "Receives any proceeds or any other funds in connection with a mortgage loan closing",
+    "Files or causes to be filed with the recorder of any county in connection with a mortgage loan transaction any document",
+    "causes a borrower to sign documents reflecting the terms of a business, commercial, or agricultural loan",
+    "causes a borrower to sign documents reflecting the terms of a bridge loan"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year or imprisonment pursuant to subdivision (h) of Section 1170",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Mortgage lending process\": the process through which a person seeks or obtains a mortgage loan, including solicitation, application, origination, negotiation of terms, third-party provider services, underwriting, signing and closing, and funding of the loan",
+     "\"Mortgage loan\": a loan or agreement to extend credit to a person that is secured by a deed of trust or other document representing a security interest or lien upon any interest in real property, including the renewal or refinancing of the loan",
+     "\"Person\": any individual, partnership, firm, association, corporation, limited liability company, or other legal entity"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Makes any misstatement, misrepresentation, or omission during the mortgage lending process",
+     "ways": [
+      "misstatement",
+      "misrepresentation",
+      "omission"
+     ],
+     "tags": [],
+     "conditions": [
+      "The value of the alleged fraud meets the threshold for grand theft as set out in subdivision (a) of Section 487"
+     ],
+     "exceptions": [
+      "An offense shall not be based solely on information lawfully disclosed pursuant to federal disclosure laws, regulations, or interpretations related to the mortgage lending process"
+     ],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud",
+      "Deliberately",
+      "With the intention that it be relied on by a mortgage lender, borrower, or any other party to the mortgage lending process"
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Uses or facilitates the use of any misstatement, misrepresentation, or omission during the mortgage lending process",
+     "ways": [
+      "uses",
+      "facilitates the use"
+     ],
+     "tags": [],
+     "conditions": [
+      "The value of the alleged fraud meets the threshold for grand theft as set out in subdivision (a) of Section 487"
+     ],
+     "exceptions": [
+      "An offense shall not be based solely on information lawfully disclosed pursuant to federal disclosure laws, regulations, or interpretations related to the mortgage lending process"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the same to contain a misstatement, misrepresentation, or omission"
+     ],
+     "intent": [
+      "With the intent to defraud",
+      "Deliberately",
+      "With the intention that it be relied on by a mortgage lender, borrower, or any other party to the mortgage lending process"
+     ]
+    },
+    {
+     "where": "(a)(3)",
+     "act": "Receives any proceeds or any other funds in connection with a mortgage loan closing",
+     "ways": [
+      "The value of the alleged fraud meets the threshold for grand theft as set out in subdivision (a) of Section 487"
+     ],
+     "tags": [],
+     "conditions": [
+      "An offense shall not be based solely on information lawfully disclosed pursuant to federal disclosure laws, regulations, or interpretations related to the mortgage lending process"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "The person knew the proceeds or funds resulted from a violation of paragraph (1) or (2)"
+     ]
+    },
+    {
+     "where": "(a)(4)",
+     "act": "Files or causes to be filed with the recorder of any county in connection with a mortgage loan transaction any document",
+     "ways": [
+      "files",
+      "causes to be filed"
+     ],
+     "tags": [],
+     "conditions": [
+      "The value of the alleged fraud meets the threshold for grand theft as set out in subdivision (a) of Section 487"
+     ],
+     "exceptions": [
+      "An offense shall not be based solely on information lawfully disclosed pursuant to federal disclosure laws, regulations, or interpretations related to the mortgage lending process"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "The person knows the document to contain a material misstatement, misrepresentation, or omission"
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Instructs or otherwise causes a borrower to sign documents reflecting the terms of a business, commercial, or agricultural loan",
+     "ways": [
+      "instructs",
+      "otherwise deliberately causes"
+     ],
+     "tags": [],
+     "conditions": [
+      "The value of the alleged fraud meets the threshold for grand theft as set out in subdivision (a) of Section 487"
+     ],
+     "exceptions": [
+      "An offense shall not be based solely on information lawfully disclosed pursuant to federal disclosure laws, regulations, or interpretations related to the mortgage lending process"
+     ],
+     "defenses": [],
+     "who": "A mortgage broker or person who originates a loan",
+     "knowledge": [
+      "With knowledge that the borrower intends to use the loan proceeds primarily for personal, family, or household use"
+     ],
+     "intent": [
+      "With the intent to defraud",
+      "Deliberately"
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Instructs or otherwise causes a borrower to sign documents reflecting the terms of a bridge loan",
+     "ways": [
+      "instructs",
+      "otherwise deliberately causes"
+     ],
+     "tags": [],
+     "conditions": [
+      "The value of the alleged fraud meets the threshold for grand theft as set out in subdivision (a) of Section 487"
+     ],
+     "exceptions": [
+      "An offense shall not be based solely on information lawfully disclosed pursuant to federal disclosure laws, regulations, or interpretations related to the mortgage lending process"
+     ],
+     "defenses": [],
+     "who": "A mortgage broker or person who originates a loan",
+     "knowledge": [
+      "With knowledge that the loan proceeds will be not used to acquire or construct a new dwelling"
+     ],
+     "intent": [
+      "With the intent to defraud",
+      "Deliberately"
+     ],
+     "terms": [
+      "\"Bridge loan\": any temporary loan, having a maturity of one year or less, for the purpose of acquisition or construction of a dwelling intended to become the consumer’s principal dwelling"
+     ]
+    }
+   ]
+  }
+ },
+ "533": {
+  "review": {
+   "title": "Selling the same land twice",
+   "isOffense": true,
+   "plain": "After selling land or agreeing to sell it, willfully selling it again or agreeing to sell it to someone else to defraud purchasers is a felony punishable under the felony jail sentencing rules; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "sells, barters, or disposes of the same tract of land or town lot",
+    "executes any bond or agreement to sell, barter, or dispose of the same land or lot"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who has once sold, bartered, or disposed of any tract of land or town lot, or executed any bond or agreement for the sale of any land or town lot",
+    "intent": [
+     "Willfully",
+     "With intent to defraud previous or subsequent purchasers"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Again sells, barters, or disposes of the same tract of land or town lot, or any part thereof",
+     "ways": [
+      "sells",
+      "barters",
+      "disposes of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Executes any bond or agreement to sell, barter, or dispose of the same land or lot, or any part thereof, to any other person for a valuable consideration",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "534": {
+  "review": {
+   "title": "Selling real estate without spouse's consent",
+   "isOffense": true,
+   "plain": "A married person or registered domestic partner who falsely claims to be able to sell or mortgage real estate that needs the spouse's assent, and then conveys or mortgages it, is guilty of a felony; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "conveys or mortgages the same"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who is married or in a registered domestic partnership",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Represents himself or herself as competent to sell or mortgage any real estate, and under such representations conveys or mortgages the same",
+     "ways": [
+      "conveys",
+      "mortgages"
+     ],
+     "tags": [],
+     "conditions": [
+      "The assent or concurrence of his or her spouse is necessary to the validity of the sale or mortgage"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Falsely and fraudulently (in the representation)",
+      "Willfully (in the conveyance or mortgage)"
+     ]
+    }
+   ]
+  }
+ },
+ "535": {
+  "review": {
+   "title": "Mock auctions",
+   "isOffense": true,
+   "plain": "Obtaining money, property, or a signature through a false sale, auction, or mock auction is punishable by up to one year in county jail, a felony jail term, or a $2,000 fine, and a three-year ban on auctioneering.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "obtains any money or property from another, or obtains the signature of another to any written instrument"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or a fine not exceeding two thousand dollars ($2,000), or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "consequences": [
+     "Disqualified for a period of three years from acting as an auctioneer in this state"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains any money or property from another, or obtains the signature of another to any written instrument, the false making of which would be forgery, by means of any false or fraudulent sale of property or pretended property, by auction, or by any of the practices known as mock auctions",
+     "ways": [
+      "false or fraudulent sale of property or pretended property",
+      "auction",
+      "mock auctions"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "536": {
+  "review": {
+   "title": "False accounts by commission merchants",
+   "isOffense": true,
+   "plain": "A commission merchant, broker, agent, factor, or consignee who willfully and corruptly gives the owner a false statement about the sale price, quality, quantity, or expenses of consigned property is guilty of a misdemeanor, up to six months in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 0.5,
+   "acts": [
+    "make, or cause to be made, to the principal or consignor of such commission merchant, agent, broker, factor, or consignee, a false statement"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A commission merchant, broker, agent, factor, or consignee",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by fine not exceeding one thousand dollars ($1,000) and not less than two hundred dollars ($200), or by imprisonment in the county jail not exceeding six months and not less than 10 days, or by both such fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Makes, or causes to be made, to the principal or consignor a false statement as to the price obtained for any property consigned or entrusted for sale, or as to the quality or quantity of any property so consigned or entrusted, or as to any expenditures made in connection therewith",
+     "ways": [
+      "makes",
+      "causes to be made"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully and corruptly"
+     ]
+    }
+   ]
+  }
+ },
+ "536a": {
+  "review": {
+   "title": "Commission merchants' duty to report sales",
+   "isOffense": true,
+   "plain": "Commission merchants, brokers, factors, and consignees must give the owner, on written demand, a true written statement of buyers, quantities, and prices for consigned property; violating this is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "to make, when accounting therefor or subsequently, upon the written demand of his principal or consignor, a true written statement"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A commission merchant, broker, factor, or consignee to whom any property is consigned or entrusted for sale",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fails to make, when accounting therefor or subsequently, upon the written demand of his principal or consignor, a true written statement setting forth the name and address of the person or persons to whom a sale of the said property, or any portion thereof, was made, the quantity so sold to each purchaser, and the respective prices obtained therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless separate written demand is made as to each consignment or shipment prior to sale, it is sufficient to set forth only so many of the matters as can be obtained from the books of account kept",
+      "The statement is not required in case of cash sales where the amount of the transaction is less than fifty dollars"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "537": {
+  "review": {
+   "title": "Defrauding innkeepers and restaurants",
+   "isOffense": true,
+   "plain": "Obtaining food, lodging, or services at a hotel, restaurant, campground, or similar place without paying, with intent to defraud, is punishable by up to six months, or up to one year or state prison above $950; ski area fare-dodging is an infraction.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "obtains any food, fuel, services, or accommodations",
+    "obtains credit at an hotel, inn, restaurant, boardinghouse, lodginghouse, apartment house, bungalow court, motel, marina, marine facility, autocamp, or public or private campground",
+    "absconds",
+    "removes any part of his or her baggage therefrom",
+    "uses or attempts to use ski area facilities for which payment is required without paying as required",
+    "resells a ski lift ticket to another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Obtains any food, fuel, services, or accommodations at a hotel, inn, restaurant, boardinghouse, lodginghouse, apartment house, bungalow court, motel, marina, marine facility, autocamp, ski area, or public or private campground, without paying therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud the proprietor or manager thereof"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000) or imprisonment in the county jail for a term not exceeding six months, or both",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the value of the credit, food, fuel, services, or accommodations is greater than nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail for a term of not more than one year, or in the state prison",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "consequences": [
+      "Leaving the premises without paying or offering to pay is prima facie evidence that the person obtained the food, fuel, services, use of facilities or accommodations with intent to defraud the proprietor or manager, and, where the person absconded or removed baggage, that it was done with the intent not to pay"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Obtains credit at an hotel, inn, restaurant, boardinghouse, lodginghouse, apartment house, bungalow court, motel, marina, marine facility, autocamp, or public or private campground by the use of any false pretense",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000) or imprisonment in the county jail for a term not exceeding six months, or both",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the value of the credit, food, fuel, services, or accommodations is greater than nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail for a term of not more than one year, or in the state prison",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Absconds, or surreptitiously, or by force, menace, or threats, removes any part of his or her baggage therefrom",
+     "ways": [
+      "absconds",
+      "surreptitiously removes baggage",
+      "removes baggage by force, menace, or threats"
+     ],
+     "tags": [],
+     "conditions": [
+      "After obtaining credit, food, fuel, services, or accommodations at such a place"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent not to pay for his or her food or accommodations"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000) or imprisonment in the county jail for a term not exceeding six months, or both",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the value of the credit, food, fuel, services, or accommodations is greater than nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail for a term of not more than one year, or in the state prison",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "consequences": [
+      "Leaving the premises without paying or offering to pay is prima facie evidence that the person obtained the food, fuel, services, use of facilities or accommodations with intent to defraud the proprietor or manager, and, where the person absconded or removed baggage, that it was done with the intent not to pay"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Uses or attempts to use ski area facilities for which payment is required without paying as required, or resells a ski lift ticket to another",
+     "ways": [
+      "uses or attempts to use ski area facilities",
+      "resells a ski lift ticket"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "For resale, the resale is not authorized by the proprietor"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of an infraction (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Reselling a ski lift ticket without authorization after using the facilities is prima facie evidence of intent to defraud"
+     ]
+    }
+   ]
+  }
+ },
+ "537b": {
+  "review": {
+   "title": "Defrauding livery stables",
+   "isOffense": true,
+   "plain": "Obtaining livery hire or credit at a livery or feed stable without paying or by false pretense, abusing a hired horse or vehicle, or keeping, overusing, or abandoning it to defraud the stable is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "obtains any livery hire or other accommodation at any livery or feed stable",
+    "obtains credit at any such livery or feed stable",
+    "abuses the same by beating, goading, overdriving or other willful or malicious conduct",
+    "keep the same for a longer period, or take the same to a greater distance than contracted for"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains any livery hire or other accommodation at any livery or feed stable, kept for profit, in this state, without paying therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud the proprietor or manager thereof"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Obtains credit at any such livery or feed stable by the use of any false pretense",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Abuses the same by beating, goading, overdriving or other conduct",
+     "ways": [
+      "beating",
+      "goading",
+      "overdriving",
+      "other willful or malicious conduct"
+     ],
+     "tags": [],
+     "conditions": [
+      "After obtaining a horse, vehicle, or other property at such livery or feed stable"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully or maliciously"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Keeps the same for a longer period, or takes the same to a greater distance than contracted for; or allows a feed bill or other charges to accumulate against such property, without paying therefor; or abandons or leaves the same",
+     "ways": [
+      "keep longer",
+      "take a greater distance",
+      "allow charges to accumulate without paying",
+      "abandon or leave"
+     ],
+     "tags": [],
+     "conditions": [
+      "After obtaining such horse, vehicle, or other property"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud the owner, manager or proprietor of such livery or feed stable"
+     ]
+    }
+   ]
+  }
+ },
+ "537c": {
+  "review": {
+   "title": "Unauthorized use of boarded animals or vehicles",
+   "isOffense": true,
+   "plain": "A stable keeper or person pasturing stock who rides, drives, or uses an animal or vehicle left in their care, or lets others do so, without the owner's consent is guilty of a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "drive, ride or use"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An owner, manager, proprietor, or other person having the management, charge or control of any livery stable, feed or boarding stable, or a person pasturing stock, who has received into his possession, charge, care or control any horse, mare, or other animal, or any buggy, or other vehicle, belonging to any other person, to be kept, fed, or cared for",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Drives, rides or uses, or permits or allows any person other than the owner or other person entitled so to do, to drive, ride, or otherwise use the same",
+     "ways": [
+      "drive",
+      "ride",
+      "use",
+      "permit or allow another to use"
+     ],
+     "tags": [],
+     "conditions": [
+      "The animal or vehicle is thus in his possession, charge, care or under his control",
+      "Without the consent or permission of the owner thereof, or other person charged with the care, control or possession of such property"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly (in permitting or allowing another)"
+     ]
+    }
+   ]
+  }
+ },
+ "537e": {
+  "review": {
+   "title": "Property with removed serial numbers",
+   "isOffense": true,
+   "plain": "Knowingly buying, selling, receiving, hiding, or possessing personal property whose serial or identification number has been removed or altered is punishable by up to six months or one year in county jail, or up to three years for computer chips.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "buys, sells, receives, disposes of, conceals, or has in his or her possession any personal property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Buys, sells, receives, disposes of, conceals, or has in his or her possession any personal property from which the manufacturer’s serial number, identification number, electronic serial number, or any other distinguishing number or identification mark has been removed, defaced, covered, altered, or destroyed",
+     "ways": [
+      "buys",
+      "sells",
+      "receives",
+      "disposes of",
+      "conceals",
+      "has in his or her possession"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "This section does not apply where the changes or alterations have been customarily made as an established practice in the ordinary and regular conduct of business, by the original manufacturer, or by his or her duly appointed direct representative, or under specific authorization from the original manufacturer"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding six months",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the value of the property exceeds nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the property is an integrated computer chip or panel of a value of nine hundred fifty dollars ($950) or more",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years or imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ],
+     "consequences": [
+      "Such property in the custody of a peace officer is subject to Chapter 12 (commencing with Section 1407) of Title 10 of Part 2, is considered stolen or embezzled property, and must have an identification mark imbedded or engraved in, or permanently affixed to it before disposal"
+     ],
+     "terms": [
+      "\"Personal property\": includes televisions, radios, musical and sound equipment, household appliances, office equipment, computers and computer parts, tools and technical equipment, bicycles and recreational equipment, electrical or mechanical equipment, clocks and watches, and any vehicle or vessel or component part thereof"
+     ]
+    }
+   ]
+  }
+ },
+ "537f": {
+  "review": {
+   "title": "Unlabeled rebuilt car batteries",
+   "isOffense": true,
+   "plain": "Selling or offering for sale a car battery made with used containers or plates without labeling it \"Rebuilt\" with the rebuilder's name and address is a misdemeanor punishable by up to six months in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 0.5,
+   "acts": [
+    "selling or offering for sale such a battery in violation of this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by a fine not exceeding two hundred fifty dollars, or by imprisonment in the county jail for not more than six months, or by both such fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or offers for sale a storage battery composed in whole or in part of a used container, or used plate or plates and intended for use in the starting, lighting or ignition of automobiles",
+     "ways": [
+      "sells",
+      "offers for sale"
+     ],
+     "tags": [],
+     "conditions": [
+      "The word “Rebuilt” together with the rebuilder’s name and address is not labeled on one side of the battery in letters not less than one-half inch in height with a one-eighth inch stroke"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "537g": {
+  "review": {
+   "title": "Removing NCIC owner identification numbers",
+   "isOffense": true,
+   "plain": "Knowingly removing, defacing, covering, altering, or destroying a National Crime Information Center owner identification number on another's property without permission is a misdemeanor punishable by up to one year in county jail.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "removes, defaces, covers, alters or destroys a National Crime Information Center owner identification number from the personal property of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor punishable by a fine not to exceed four hundred dollars ($400), imprisonment in the county jail not to exceed one year, or both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Removes, defaces, covers, alters or destroys a National Crime Information Center owner identification number from the personal property of another",
+     "ways": [
+      "removes",
+      "defaces",
+      "covers",
+      "alters",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission",
+      "Unless otherwise provided by law"
+     ],
+     "exceptions": [
+      "This section does not apply to any action taken by an authorized person to dispose of property pursuant to Article 1 (commencing with Section 2080) of Chapter 4 of Title 6 of Part 4 of Division 3 of the Civil Code or pursuant to Chapter 12 (commencing with Section 1407) of Title 10 of Part 2 of this code"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ }
+}

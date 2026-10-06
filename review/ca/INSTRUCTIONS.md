@@ -1,4 +1,4 @@
-# Task: review California Penal Code sections (Part 1, Title 8, Crimes Against the Person) and break each crime into its elements
+# Task: review California Penal Code sections (Part 1: Title 8, Crimes Against the Person; Title 13, Crimes Against Property) and break each crime into its elements
 
 Input: a JSON array of sections of the California Penal Code, each with `section` (the section number, e.g. "187", "243.4"), `cite`, `chapter`, and `text` (official paragraphs {i, t}; i = outline depth: (a) → (1) → (A) → (i)). Sections have no official headings, so you also write a short caption for each.
 
@@ -7,6 +7,7 @@ Output: ONE JSON object mapping each input `section` key → `{"review": {...}, 
 ## Accuracy rules (critical)
 
 - Use ONLY the text of that section. Never copy, paraphrase, or summarize text from another section, and never add outside facts, case law, jury instructions, or sentencing ranges. If the penalty, a definition, or a mental state is set in another section ("shall be punished as provided in Section 190", "as defined in Section 12022.7"), say only where it is set: a penalty tier `"penalty": "Set in Section 190"` with min/max null. Do not use the "§" sign anywhere in the output; write "Section 190". Quoting the section's own wording that mentions another section is fine (e.g. "imprisonment pursuant to subdivision (h) of Section 1170").
+- Write "Set in Section X" only when this section's own text names Section X. A section that names a crime but states no punishment and names no section for it gets the penalty "No punishment is stated in this section" (min/max null).
 - Stay close to the law's wording. Shorten only by dropping words. Keep "may" vs "shall", "and" vs "or", "knowingly" vs "willfully" vs "maliciously" exactly.
 - Do not add a term of years that the section does not state. A felony punished only "pursuant to subdivision (h) of Section 1170" has no term in this section: say so in the law's words and leave min/max null.
 
@@ -51,6 +52,8 @@ each crime:
 - `conditions`: list. Facts that must be true for the act to be this crime ("The victim is 60 years or older", "The victim is under 16", "Serious bodily injury results").
 - `exceptions`, `defenses`: lists, from this section only.
 - `who`, `knowledge`, `mentalState`, `intent`, `penalties`, `consequences`, `terms`: only when different from shared.
+
+Property crimes (Title 13): a value threshold ("the value of the money, labor, real or personal property taken exceeds nine hundred fifty dollars"), the kind of property, or the kind of building ("an inhabited dwelling house") is a condition, in the law's words; a different penalty by value or by kind of building is a penalty tier with `if`, not a new crime, unless the section defines a separate act. Sections that only define a term, a degree, or how value is measured (such as the degrees of burglary or the definition of theft) are isOffense false unless they themselves state a punishment. Categories: arson, burglary, theft, embezzlement, receiving stolen property, vandalism and trespass are "Property Crimes"; forgery, counterfeiting, false personation, insurance fraud, check and access-card fraud are "Fraud & Money"; extortion is "Violence & Threats" only if the section is about force or threats of injury, otherwise "Fraud & Money"; computer crimes (Section 502) are "Cyber, Privacy & Communications".
 
 A **crime** is one distinct prohibited act with its own elements. Alternative verbs for the same conduct are ONE crime (use `ways`). Different subsections/clauses that require different facts or carry different penalties are separate crimes. A second-or-subsequent-offense rule is a penalty tier (`"if": "the person has a prior conviction for this crime"`), not a separate crime.
 

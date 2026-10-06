@@ -1,0 +1,1574 @@
+{
+ "450": {
+  "review": {
+   "title": "Arson definitions",
+   "isOffense": false,
+   "plain": "Defines \"structure,\" \"forest land,\" \"property,\" \"inhabited,\" \"maliciously,\" and \"recklessly\" for the arson chapter."
+  }
+ },
+ "451": {
+  "review": {
+   "title": "Arson",
+   "isOffense": true,
+   "plain": "Arson is willfully and maliciously setting fire to or burning any structure, forest land, or property, or helping to do so; it is a felony with up to nine years in state prison when it causes great bodily injury.",
+   "category": "Property Crimes",
+   "maxYears": 9,
+   "acts": [
+    "sets fire to or burns or causes to be burned",
+    "aids, counsels, or procures the burning of, any structure, forest land, or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sets fire to or burns or causes to be burned or aids, counsels, or procures the burning of, any structure, forest land, or property",
+     "ways": [
+      "sets fire to",
+      "burns",
+      "causes to be burned",
+      "aids, counsels, or procures the burning of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Arson of property does not include one burning or causing to be burned his or her own personal property unless there is an intent to defraud or there is injury to another person or another person's structure, forest land, or property"
+     ],
+     "defenses": [],
+     "intent": [
+      "Willfully and maliciously"
+     ],
+     "consequences": [
+      "If convicted while confined in a state prison, prison camp or farm, or in a county jail serving a felony or misdemeanor term, the sentence shall be consecutive to the sentence then being served"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Arson of property: a felony punishable by imprisonment in the state prison for 16 months, two, or three years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      },
+      {
+       "if": "the arson is of a structure or forest land",
+       "penalty": "A felony punishable by imprisonment in the state prison for two, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": []
+      },
+      {
+       "if": "the arson causes an inhabited structure or inhabited property to burn",
+       "penalty": "A felony punishable by imprisonment in the state prison for three, five, or eight years",
+       "min": null,
+       "max": 8,
+       "flags": []
+      },
+      {
+       "if": "the arson causes great bodily injury",
+       "penalty": "A felony punishable by imprisonment in the state prison for five, seven, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "451.1": {
+  "review": {
+   "title": "Arson sentence enhancements",
+   "isOffense": true,
+   "plain": "A person convicted of felony arson under Section 451 gets an extra three, four, or five years if, for example, they have a prior arson conviction, injured firefighters, or burned multiple structures.",
+   "category": "Property Crimes",
+   "maxYears": 5,
+   "maxPlus": true,
+   "acts": [
+    "convicted of a felony violation of Section 451"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Is convicted of a felony violation of Section 451",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "One or more of the following is found to be true: The defendant has been previously convicted of a felony violation of Section 451 or 452; A firefighter, peace officer, or other emergency personnel suffered great bodily injury as a result of the offense; The defendant proximately caused great bodily injury to more than one victim in any single violation of Section 451; The defendant proximately caused multiple structures to burn in any single violation of Section 451; The defendant committed arson as described in subdivision (a), (b), or (c) of Section 451 and the arson was caused by use of a device designed to accelerate the fire or delay ignition"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "The additional term shall not be imposed unless the facts are alleged in the accusatory pleading and either admitted by the defendant in open court or found to be true by the trier of fact"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A three-, four-, or five-year enhancement",
+       "min": null,
+       "max": 5,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "451.5": {
+  "review": {
+   "title": "Aggravated arson",
+   "isOffense": true,
+   "plain": "Aggravated arson is a deliberate, premeditated arson meant to injure people or damage property, by a repeat arsonist or causing over $10.1 million in losses or damaging five or more homes; punishable by 10 years to life.",
+   "category": "Property Crimes",
+   "maxYears": 999,
+   "acts": [
+    "sets fire to, burns, or causes to be burned, or aids, counsels, or procures the burning of any residence, structure, forest land, or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Sets fire to, burns, or causes to be burned, or aids, counsels, or procures the burning of any residence, structure, forest land, or property",
+     "ways": [
+      "sets fire to",
+      "burns",
+      "causes to be burned",
+      "aids, counsels, or procures the burning of"
+     ],
+     "tags": [],
+     "conditions": [
+      "One or more of the following aggravating factors exists: the defendant has been previously convicted of arson on one or more occasions within the past 10 years; the fire caused property damage and other losses in excess of ten million one hundred thousand dollars ($10,100,000), exclusive of damage to, or destruction of, inhabited dwellings (counting the cost of fire suppression); or the fire caused damage to, or the destruction of, five or more inhabited dwellings"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully, maliciously, deliberately, with premeditation",
+      "With intent to cause injury to one or more persons, or to cause damage to property under circumstances likely to produce injury to one or more persons, or to cause damage to one or more structures or inhabited dwellings"
+     ],
+     "consequences": [
+      "Not eligible for release on parole until 10 calendar years have elapsed",
+      "This section remains in effect only until January 1, 2029"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 10 years to life",
+       "min": 10,
+       "max": 999,
+       "flags": [
+        "mandatory minimum",
+        "no parole"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "452": {
+  "review": {
+   "title": "Unlawfully causing a fire",
+   "isOffense": true,
+   "plain": "Recklessly setting fire to or burning any structure, forest land, or property is unlawfully causing a fire; it is a misdemeanor for property and up to six years in state prison when it causes great bodily injury.",
+   "category": "Property Crimes",
+   "maxYears": 6,
+   "acts": [
+    "set fire to, burn, or cause to be burned any structure, forest land, or property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Set fire to, burn, or cause to be burned any structure, forest land, or property",
+     "ways": [
+      "set fire to",
+      "burn",
+      "cause to be burned"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Unlawfully causing a fire of property does not include one burning or causing to be burned their own personal property unless there is injury to another person or to another person's structure, forest land, or property"
+     ],
+     "defenses": [],
+     "mentalState": [
+      "Recklessly"
+     ],
+     "consequences": [
+      "If convicted while confined in a state prison, prison camp or farm, or in a county jail serving a felony or misdemeanor term, the sentence shall be consecutive to the sentence then being served",
+      "That the offense was carried out within a merchant's premises in order to facilitate organized retail theft, as defined in Section 490.4, is a factor in aggravation"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Unlawfully causing a fire of property is a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the fire is of a structure or forest land",
+       "penalty": "Imprisonment in the state prison for 16 months, two or three years, or imprisonment in the county jail for not more than six months, or a fine, or both such imprisonment and fine",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the fire causes an inhabited structure or inhabited property to burn",
+       "penalty": "Imprisonment in the state prison for two, three, or four years, or imprisonment in the county jail for not more than one year, or a fine, or both such imprisonment and fine",
+       "min": null,
+       "max": 4,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the fire causes great bodily injury",
+       "penalty": "Imprisonment in the state prison for two, four, or six years, or imprisonment in the county jail for not more than one year, or a fine, or both such imprisonment and fine",
+       "min": null,
+       "max": 6,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "452.1": {
+  "review": {
+   "title": "Unlawful fire sentence enhancements",
+   "isOffense": true,
+   "plain": "A person convicted of felony unlawfully causing a fire under Section 452 gets an extra one, two, or three years for each listed circumstance, such as a prior arson conviction or injured firefighters.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "convicted of a felony violation of Section 452"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Is convicted of a felony violation of Section 452",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Any of the following is found to be true (one enhancement for each): the defendant has been previously convicted of a felony violation of Section 451 or 452; a firefighter, peace officer, or other emergency personnel suffered great bodily injury as a result of the offense; the defendant proximately caused great bodily injury to more than one victim in any single violation of Section 452; the defendant proximately caused multiple structures to burn in any single violation of Section 452"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "The additional term shall not be imposed unless the facts are alleged in the accusatory pleading and either admitted by the defendant in open court or found to be true by the trier of fact"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A one-, two-, or three-year enhancement for each circumstance found to be true",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "453": {
+  "review": {
+   "title": "Possessing incendiary materials or devices",
+   "isOffense": true,
+   "plain": "Possessing, making, or disposing of flammable material or an incendiary device with intent to use it to set fire to any structure, forest land, or property is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "possesses, manufactures, or disposes of any flammable, or combustible material or substance, or any incendiary device in an arrangement or preparation"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses, manufactures, or disposes of any flammable, or combustible material or substance, or any incendiary device in an arrangement or preparation",
+     "ways": [
+      "possesses",
+      "manufactures",
+      "disposes of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Authorized use or possession by a member of the armed forces of the United States or by firemen, police officers, peace officers, or law enforcement officers authorized by the properly constituted authorities",
+      "Use or possession solely for scientific research or educational purposes, for disposal of brush under permit as provided for in Section 4494 of the Public Resources Code, or for any other lawful burning",
+      "Manufacture or disposal of an incendiary device for these parties or purposes"
+     ],
+     "defenses": [],
+     "intent": [
+      "With intent to willfully and maliciously use this material, substance, or device to set fire to or burn any structure, forest land, or property"
+     ],
+     "terms": [
+      "\"Disposes of\": to give, give away, loan, offer, offer for sale, sell, or transfer",
+      "\"Incendiary device\": a device constructed or designed to start an incendiary fire by remote, delayed, or instant means; not a device commercially manufactured primarily for illumination",
+      "\"Incendiary fire\": a fire deliberately ignited under circumstances in which a person knows that the fire should not be ignited"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or in a county jail, not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "454": {
+  "review": {
+   "title": "Arson during a state of emergency",
+   "isOffense": true,
+   "plain": "Committing arson or unlawfully causing a fire in an area under a proclaimed state of insurrection or state of emergency is punishable by three, five, or seven years in state prison, or up to nine years for serious arson.",
+   "category": "Property Crimes",
+   "maxYears": 9,
+   "acts": [
+    "violates Section 451 or 452 during and within an area of any of the following"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Violates Section 451 or 452 during and within an area of a state of insurrection or a state of emergency",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The state of insurrection (pursuant to Section 143 of the Military and Veterans Code) or state of emergency (pursuant to Section 8625 of the Government Code) is proclaimed by the Governor"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "Probation shall not be granted, except in unusual cases where the interest of justice would best be served"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for three, five, or seven years",
+       "min": null,
+       "max": 7,
+       "flags": [
+        "no probation"
+       ]
+      },
+      {
+       "if": "the person violates subdivision (a), (b), or (c) of Section 451",
+       "penalty": "Imprisonment in the state prison for five, seven, or nine years",
+       "min": null,
+       "max": 9,
+       "flags": [
+        "no probation"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "455": {
+  "review": {
+   "title": "Attempted arson",
+   "isOffense": true,
+   "plain": "Willfully and maliciously attempting to set fire to or burn any structure, forest land, or property, or doing any preliminary act, is punishable by 16 months, two, or three years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "acts": [
+    "attempts to set fire to or attempts to burn or to aid, counsel or procure the burning of any structure, forest land or property",
+    "commits any act preliminary thereto, or in furtherance thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Attempts to set fire to or attempts to burn or to aid, counsel or procure the burning of any structure, forest land or property, or commits any act preliminary thereto, or in furtherance thereof",
+     "ways": [
+      "attempts to set fire to",
+      "attempts to burn",
+      "attempts to aid, counsel or procure the burning of",
+      "commits any act preliminary thereto, or in furtherance thereof"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully and maliciously"
+     ],
+     "terms": [
+      "\"Attempt to burn\": includes placing or distributing any flammable, explosive or combustible material or substance, or any device in or about any structure, forest land or property in an arrangement or preparation with intent to eventually willfully and maliciously set fire to or burn same, or to procure the setting fire to or burning of the same"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 16 months, two or three years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "456": {
+  "review": {
+   "title": "Fines for arson",
+   "isOffense": false,
+   "plain": "Lets the court add a fine of up to $50,000 for a felony arson-chapter conviction, or twice the gross gain when the crime was committed for pecuniary gain."
+  }
+ },
+ "457": {
+  "review": {
+   "title": "Psychiatric exam for arson",
+   "isOffense": false,
+   "plain": "Lets the court order a person convicted under the arson chapter to undergo a psychiatric or psychological examination for sentencing."
+  }
+ },
+ "457.1": {
+  "review": {
+   "title": "Arson offender registration",
+   "isOffense": true,
+   "plain": "Requires people convicted of arson or attempted arson to register with local police; failing to register is a misdemeanor, and a willful violation by a convicted arsonist means 90 days to one year in county jail.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "violates any of the provisions thereof",
+    "willfully violates any of the provisions thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person required to register under this section",
+    "terms": [
+     "\"Arson\": a violation of Section 451, 451.5, or 453, and attempted arson, which includes, but is not limited to, a violation of Section 455"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(h)",
+     "act": "Violates any of the provisions thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "A person who obtains a certificate of rehabilitation is relieved of any further duty to register (but not for future offenses)",
+      "A person required to register due to a misdemeanor conviction is relieved of the requirement if granted relief pursuant to Section 1203.4"
+     ],
+     "defenses": [],
+     "consequences": [
+      "Parole or probation shall be revoked if the person fails to register within the time prescribed"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(h)",
+     "act": "Violates any of the provisions thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "A person who obtains a certificate of rehabilitation is relieved of any further duty to register (but not for future offenses)",
+      "A person required to register due to a misdemeanor conviction is relieved of the requirement if granted relief pursuant to Section 1203.4"
+     ],
+     "defenses": [],
+     "who": "A person who has been convicted of arson or attempted arson and who is required to register under this section",
+     "intent": [
+      "Willfully"
+     ],
+     "consequences": [
+      "The court has no power to absolve the person from spending at least 90 days of confinement in a county jail and completing probation of at least one year",
+      "Parole or probation shall be revoked if the person fails to register within the time prescribed"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor; a term of not less than 90 days nor more than one year in a county jail",
+       "min": 0.25,
+       "max": 1,
+       "flags": [
+        "mandatory minimum"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "458": {
+  "review": {
+   "title": "Cargo container defined",
+   "isOffense": false,
+   "plain": "Defines \"cargo container\" for the burglary chapter as a permanent, reusable receptacle of 1,000 cubic feet or more designed for carrying goods by vessel and other transport."
+  }
+ },
+ "459": {
+  "review": {
+   "title": "Burglary defined",
+   "isOffense": true,
+   "plain": "Burglary is entering a house, building, locked vehicle, or other listed place with intent to commit grand or petit larceny or any felony; the punishment is set in Section 461.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "enters any house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Enters any house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building, tent, vessel, floating home, railroad car, locked or sealed cargo container, trailer coach, house car, inhabited camper, vehicle, aircraft, or mine or any underground portion thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "For a vehicle as defined by the Vehicle Code: the doors are locked",
+      "For a cargo container: it is locked or sealed, whether or not mounted on a vehicle"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to commit grand or petit larceny or any felony"
+     ],
+     "terms": [
+      "\"Inhabited\": currently being used for dwelling purposes, whether occupied or not; a house, trailer, vessel designed for habitation, or portion of a building is still currently being used for dwelling purposes if it was not occupied at the time of the burglary solely because a natural or other disaster caused the occupants to leave"
+     ],
+     "consequences": [
+      "The fact that the structure entered has been damaged by a natural or other disaster, or the extent of that damage, does not preclude conviction"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "No punishment is stated in this section",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "459.5": {
+  "review": {
+   "title": "Shoplifting",
+   "isOffense": true,
+   "plain": "Shoplifting is entering an open store with intent to steal property worth $950 or less; it is a misdemeanor, but people with certain serious prior convictions may be sentenced as felons.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "entering a commercial establishment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Enters a commercial establishment",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The establishment is open during regular business hours",
+      "The value of the property that is taken or intended to be taken does not exceed nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to commit larceny"
+     ],
+     "consequences": [
+      "Any act of shoplifting shall be charged as shoplifting; a person charged with shoplifting may not also be charged with burglary or theft of the same property"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punished as a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has one or more prior convictions for an offense specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 or for an offense requiring registration pursuant to subdivision (c) of Section 290",
+       "penalty": "May be punished pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "460": {
+  "review": {
+   "title": "Degrees of burglary",
+   "isOffense": false,
+   "plain": "Makes burglary of an inhabited dwelling house, inhabited vessel, floating home, trailer coach, or inhabited part of a building first degree burglary, and all other burglary second degree."
+  }
+ },
+ "461": {
+  "review": {
+   "title": "Punishment for burglary",
+   "isOffense": true,
+   "plain": "First degree burglary is punished by two, four, or six years in state prison; second degree burglary by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 6,
+   "maxPlus": true,
+   "acts": [
+    "Burglary in the first degree",
+    "Burglary in the second degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits burglary in the first degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The burglary is of the first degree"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for two, four, or six years",
+       "min": null,
+       "max": 6,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits burglary in the second degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The burglary is of the second degree"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail not exceeding one year or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "462": {
+  "review": {
+   "title": "No probation for residential burglary",
+   "isOffense": false,
+   "plain": "Bars probation, except in unusual cases with reasons stated on the record, for anyone convicted of burglary of an inhabited dwelling, trailer coach, floating home, or inhabited part of a building."
+  }
+ },
+ "462.5": {
+  "review": {
+   "title": "Custodial institution burglary",
+   "isOffense": true,
+   "plain": "Burglary on jail or prison grounds to steal items for weapons, escape tools, or drugs bars probation if a felony, and as a misdemeanor means 90 days to one year in county jail, served consecutively.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "convicted of a felony custodial institution burglary",
+    "convicted of a misdemeanor custodial institution burglary"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a violation of Section 459 on the grounds of any jail or correctional institution",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to steal items to use or convert for use as weapons, escape tools, or intoxicating drugs"
+     ],
+     "consequences": [
+      "Serves the sentence, including enhancements, consecutive to any other sentence in effect or pending",
+      "If the court grants probation, it shall specify the reasons on the court record"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Felony custodial institution burglary: probation shall not be granted except in unusual cases where the interests of justice would best be served; the felony sentence is calculated under Section 1170.1",
+       "min": null,
+       "max": null,
+       "flags": [
+        "no probation",
+        "consecutive"
+       ]
+      },
+      {
+       "if": "the person is convicted of a misdemeanor custodial institution burglary",
+       "penalty": "Confinement in the county jail for not less than 90 days nor more than one year, except in unusual cases where the interests of justice would best be served by the granting of probation",
+       "min": 0.25,
+       "max": 1,
+       "flags": [
+        "mandatory minimum",
+        "consecutive"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "463": {
+  "review": {
+   "title": "Looting",
+   "isOffense": true,
+   "plain": "Burglary, grand or petty theft, and certain trespass or vehicle theft committed during a declared emergency, under an evacuation order, or in an evacuation zone is looting, punishable by up to seven years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 7,
+   "maxPlus": true,
+   "acts": [
+    "A violation of Section 459",
+    "A violation of Section 487 or subdivision (a) of Section 487a",
+    "Grand theft of a firearm",
+    "A violation of Section 488",
+    "A violation of Section 602",
+    "theft from an unlocked vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Evacuation order\": an order from the Governor, or a county sheriff, chief of police, or fire marshal, requiring persons to relocate outside the area covered due to an imminent danger from an earthquake, fire, flood, riot, or other natural or manmade disaster",
+     "\"Evacuation zone\": an evacuation area or an area subject to an evacuation warning (as defined in Section 2470.1 of Title 19 of the California Code of Regulations), and residential dwelling units in such an area damaged or destroyed by the disaster, for one year after the order or warning, or for up to three years while undergoing reconstruction",
+     "\"Local emergency\" and \"state of emergency\": conditions beyond the control of any single county, city and county, or city that require the combined forces of a mutual aid region or regions, from proclamation until terminated"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)(1)",
+     "act": "Commits a violation of Section 459, punishable as a second-degree burglary",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an affected county in a \"state of emergency\" or a \"local emergency,\" or under an \"evacuation order,\" resulting from an earthquake, fire, flood, riot, or other natural or manmade disaster"
+     ],
+     "exceptions": [
+      "Consensual entry into a commercial structure with the intent to commit a violation of Section 470, 476, 476a, 484f, or 484g shall not be charged as looting"
+     ],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 240 hours of community service",
+      "The fact that the structure entered has been damaged by the disaster does not, in and of itself, preclude conviction"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Commits a violation of Section 487 or subdivision (a) of Section 487a, except grand theft of a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an affected county in a \"state of emergency\" or a \"local emergency,\" or under an \"evacuation order,\" resulting from an earthquake, fire, flood, riot, or other natural or manmade disaster"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)(3)",
+     "act": "Commits grand theft of a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an affected county in a \"state of emergency\" or a \"local emergency,\" or under an \"evacuation order,\" resulting from an earthquake, fire, flood, riot, or other natural or manmade disaster"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison, as set forth in subdivision (a) of Section 489",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(4)",
+     "act": "Commits a violation of Section 488",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an affected county in a \"state of emergency\" or a \"local emergency,\" or under an \"evacuation order,\" resulting from an earthquake, fire, flood, riot, or other natural or manmade disaster"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 90 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 80 hours of community service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for six months",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Commits a violation of Section 459, punishable as a first-degree burglary",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an evacuation zone"
+     ],
+     "exceptions": [
+      "Consensual entry into a commercial structure with the intent to commit a violation of Section 470, 476, 476a, 484f, or 484g shall not be charged as looting"
+     ],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service",
+      "The fact that the structure entered has been damaged by the disaster does not, in and of itself, preclude conviction"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for a term of two, four, or seven years",
+       "min": null,
+       "max": 7,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(2)",
+     "act": "Commits a violation of Section 459, punishable as a second-degree burglary",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an evacuation zone"
+     ],
+     "exceptions": [
+      "Consensual entry into a commercial structure with the intent to commit a violation of Section 470, 476, 476a, 484f, or 484g shall not be charged as looting"
+     ],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service",
+      "The fact that the structure entered has been damaged by the disaster does not, in and of itself, preclude conviction"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punishable pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(3)",
+     "act": "Commits a violation of Section 487 or subdivision (a) of Section 487a, except grand theft of a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an evacuation zone"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punishable pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(4)",
+     "act": "Commits a violation of Section 602",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an evacuation zone"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to commit larceny"
+     ],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(5)",
+     "act": "Commits theft from an unlocked vehicle",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Committed during and within an evacuation zone"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "If granted probation, confinement in a county jail for at least 180 days as a condition of probation, unless the court reduces or eliminates it in the interest of justice with reasons on the record",
+      "If granted probation, up to 160 hours of community service",
+      "Does not preclude prosecution under any other provision of law"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "463.2": {
+  "review": {
+   "title": "Looting while impersonating emergency personnel",
+   "isOffense": false,
+   "plain": "Lets the court treat impersonating emergency personnel while committing looting as a factor in aggravation at sentencing, and defines \"emergency personnel\" and \"impersonating.\""
+  }
+ },
+ "464": {
+  "review": {
+   "title": "Burglary with torch or explosives",
+   "isOffense": true,
+   "plain": "Entering any building with intent to commit a crime and opening or trying to open a vault or safe with a torch, burning device, or explosive is a felony punishable by three, five, or seven years.",
+   "category": "Property Crimes",
+   "maxYears": 7,
+   "maxPlus": true,
+   "acts": [
+    "enters, either by day or by night, any building, whether inhabited or not, and opens or attempts to open any vault, safe, or other secure place"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters, either by day or by night, any building, whether inhabited or not, and opens or attempts to open any vault, safe, or other secure place by use of acetylene torch or electric arc, burning bar, thermal lance, oxygen lance, or any other similar device capable of burning through steel, concrete, or any other solid substance, or by use of nitroglycerine, dynamite, gunpowder, or any other explosive",
+     "ways": [
+      "opens",
+      "attempts to open",
+      "acetylene torch or electric arc",
+      "burning bar, thermal lance, oxygen lance, or other similar device",
+      "nitroglycerine, dynamite, gunpowder, or other explosive"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to commit crime"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for a term of three, five, or seven years",
+       "min": null,
+       "max": 7,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "465": {
+  "review": {
+   "title": "Unlawful entry of a vehicle",
+   "isOffense": true,
+   "plain": "Forcibly entering a vehicle, such as with a lock tool or by breaking a window, intending to commit theft or a felony is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "forcibly enters a vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Forcibly enters a vehicle",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to commit a theft or any felony therein"
+     ],
+     "terms": [
+      "\"Forcible entry of a vehicle\": entry accomplished through the use of a tool or device that manipulates the locking mechanism (such as a slim jim or other lockout tool, a shaved key, jiggler key, lock pick, or an electronic device such as a signal extender), or force that damages the exterior of the vehicle (such as breaking a window, cutting a convertible top, punching a lock, or prying open a door)"
+     ],
+     "consequences": [
+      "A person may not be convicted both under this section and under Section 459"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for a period not to exceed one year or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "466": {
+  "review": {
+   "title": "Possession of burglary tools",
+   "isOffense": true,
+   "plain": "Possessing lock picks, slim jims, signal extenders, or other tools intending to break into a building or vehicle, or making keys or instruments for that or for crime, is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "possesses a picklock, crow, keybit, crowbar, screwdriver, vise grip pliers, water-pump pliers, slidehammer, slim jim, tension bar, lock pick gun, tubular lock pick, bump key, floor-safe door puller, master key, ceramic or porcelain spark plug chips or pieces, key programming device or key duplicating device, signal extender, or other instrument or tool",
+    "makes or alters, or attempts to make or alter, a key or other instrument named above",
+    "makes, alters, or repairs any instrument or thing"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Building\": includes any of the structures mentioned in Section 459",
+     "\"Key programming device\" or \"key duplicating device\": any device able to access a vehicle's onboard computer to make or delete keys or remotely start the vehicle without a key, including any device able to capture a key code or signal to remotely access a vehicle",
+     "\"Signal extender\": a key fob amplifier or other device that extends the signal range of a keyless entry car fob"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses a picklock, crow, keybit, crowbar, screwdriver, vise grip pliers, water-pump pliers, slidehammer, slim jim, tension bar, lock pick gun, tubular lock pick, bump key, floor-safe door puller, master key, ceramic or porcelain spark plug chips or pieces, key programming device or key duplicating device, signal extender, or other instrument or tool",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to feloniously break or enter into any building, railroad car, aircraft, or vessel, trailer coach, or vehicle as defined in the Vehicle Code"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Makes or alters, or attempts to make or alter, a key or other instrument named above so that it will fit or open the lock of a building, railroad car, aircraft, vessel, trailer coach, or vehicle as defined in the Vehicle Code",
+     "ways": [
+      "makes",
+      "alters",
+      "attempts to make or alter"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without being requested to do so by a person having the right to open the same"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Makes, alters, or repairs any instrument or thing",
+     "ways": [
+      "makes",
+      "alters",
+      "repairs"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or having reason to believe that it is intended to be used in the commission of a misdemeanor or felony"
+     ]
+    }
+   ]
+  }
+ },
+ "466.1": {
+  "review": {
+   "title": "Lock pick sales records",
+   "isOffense": true,
+   "plain": "A person who sells or provides lock picks or similar tools must record the buyer's identity on a bill of sale kept for one year and open to police; violating this is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "sells or provides a lock pick, a tension bar, a lock pick gun, a tubular lock pick, or a floor-safe door puller, to another",
+    "violates any provision of this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or provides a lock pick, a tension bar, a lock pick gun, a tubular lock pick, or a floor-safe door puller, to another, and violates any provision of this section",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person fails to obtain the name, address, telephone number, if any, date of birth, and driver's license number or identification number, if any, of the person to whom the device is sold or provided; to set this out with the date and that person's signature on a bill of sale or receipt; or to retain a copy for one year open to inspection by any peace officer during business hours",
+      "Whether or not for compensation"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "466.3": {
+  "review": {
+   "title": "Coin machine burglary tools",
+   "isOffense": true,
+   "plain": "Possessing a key, tool, explosive, or device (or a drawing or mold of one) designed to break into coin-operated machines, intending to steal from them, is punishable by up to one year in county jail, a $1,000 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "possesses a key, tool, instrument, explosive, or device, or a drawing, print, or mold of a key, tool, instrument, explosive, or device"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses a key, tool, instrument, explosive, or device, or a drawing, print, or mold of a key, tool, instrument, explosive, or device, designed to open, break into, tamper with, or damage a coin-operated machine",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to commit a theft from such machine"
+     ],
+     "terms": [
+      "\"Coin-operated machine\": includes any automatic vending machine or any part thereof, parking meter, coin telephone, coin laundry machine, coin dry cleaning machine, amusement machine, music machine, vending machine dispensing goods or services, or moneychanger"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for not more than one year, or a fine of not more than one thousand dollars ($1,000), or both",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "466.5": {
+  "review": {
+   "title": "Motor vehicle master keys",
+   "isOffense": true,
+   "plain": "Possessing or using a motor vehicle master key or wheel lock master key to commit an unlawful act, or knowingly making or selling such keys except to lawful users, is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "possesses a motor vehicle master key or a motor vehicle wheel lock master key",
+    "uses a motor vehicle master key to open a lock or operate the ignition switch of any motor vehicle",
+    "uses a motor vehicle wheel lock master key to open a wheel lock on any motor vehicle",
+    "manufactures for sale, advertises for sale, offers for sale, or sells a motor vehicle master key or a motor vehicle wheel lock master key"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Motor vehicle master key\": a key which will operate all the locks or ignition switches, or both, in a given group of motor vehicle locks or ignition switches, each of which can be operated by a key which will not operate one or more of the others",
+     "\"Motor vehicle wheel lock\": a device attached to a motor vehicle wheel for theft protection purposes which can be removed only by a key unit unique to that wheel lock",
+     "\"Motor vehicle wheel lock master key\": a key unit which will operate all the wheel locks in a given group, each of which can be operated by a key unit which will not operate any of the others"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses a motor vehicle master key or a motor vehicle wheel lock master key",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to use it in the commission of an unlawful act"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Uses a motor vehicle master key to open a lock or operate the ignition switch of any motor vehicle or uses a motor vehicle wheel lock master key to open a wheel lock on any motor vehicle",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to use it in the commission of an unlawful act"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Manufactures for sale, advertises for sale, offers for sale, or sells a motor vehicle master key or a motor vehicle wheel lock master key",
+     "ways": [
+      "manufactures for sale",
+      "advertises for sale",
+      "offers for sale",
+      "sells"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Sales to persons who use such keys in their lawful occupations or businesses"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "466.6": {
+  "review": {
+   "title": "Ignition key making records",
+   "isOffense": true,
+   "plain": "A person who makes a vehicle ignition key for someone else other than by duplicating an existing key must record the customer's and vehicle's details on a work order kept for two years; violating this is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "makes a key capable of operating the ignition of a motor vehicle or personal property registered under the Vehicle Code for another",
+    "violates any provision of this subdivision"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Makes a key capable of operating the ignition of a motor vehicle or personal property registered under the Vehicle Code for another by any method other than by the duplication of an existing key, and violates any provision of this subdivision",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person fails to obtain the requester's name, address, telephone number, date of birth, and driver's license or identification number and the vehicle's registration or identification number, license number, year, make, model, color, and vehicle identification number; to set this out with the date and the requester's signature on a work order including the locksmith's name and permit number; or to retain a copy for two years open to inspection by any peace officer or the Bureau of Collection and Investigative Services",
+      "Whether or not for compensation; includes making a key from key codes or impressions"
+     ],
+     "exceptions": [
+      "Duplication of any key for a motor vehicle from another key"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "466.65": {
+  "review": {
+   "title": "Motorcycle theft tools",
+   "isOffense": true,
+   "plain": "Possessing, giving, or lending a device to bypass a motorcycle's ignition, a motorcycle ignition, or tools such as boltcutters, intending to take or drive a motorcycle without the owner's consent, is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "possesses, gives, or lends any device designed to bypass the factory-installed ignition of a motorcycle",
+    "possesses, gives, or lends any motorcycle ignition, or part thereof",
+    "possesses, gives, or lends any item of hardware"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses, gives, or lends any device designed to bypass the factory-installed ignition of a motorcycle in order to start the engine of a motorcycle without a manufacturer's key",
+     "ways": [
+      "possesses",
+      "gives",
+      "lends"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(a)",
+     "act": "Possesses, gives, or lends any motorcycle ignition, or part thereof",
+     "ways": [
+      "possesses",
+      "gives",
+      "lends"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to unlawfully take or drive, or to facilitate the unlawful taking or driving of, a motorcycle without the consent of the owner"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Possesses, gives, or lends any item of hardware, including, but not limited to, boltcutters, electrical tape, wirecutters, wire strippers, or allen wrenches",
+     "ways": [
+      "possesses",
+      "gives",
+      "lends"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to unlawfully take or drive, or to facilitate the unlawful taking or driving of, a motorcycle without the consent of the owner"
+     ]
+    }
+   ]
+  }
+ },
+ "466.7": {
+  "review": {
+   "title": "Unauthorized motor vehicle key",
+   "isOffense": true,
+   "plain": "Possessing a vehicle key known to have been made without the owner's or lawful possessor's consent, intending to use it for an unlawful act, is a misdemeanor.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "possesses a motor vehicle key"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses a motor vehicle key",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With knowledge that such key was made without the consent of either the registered or legal owner of the motor vehicle or of a person who is in lawful possession of the motor vehicle"
+     ],
+     "intent": [
+      "With the intent to use it in the commission of an unlawful act"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

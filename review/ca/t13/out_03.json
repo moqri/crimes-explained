@@ -1,0 +1,1575 @@
+{
+ "484f": {
+  "review": {
+   "title": "Counterfeit access cards and forged card slips",
+   "isOffense": true,
+   "plain": "Making or using a counterfeit access card, or signing another's or a fictitious name to an access card or card sales slip, with intent to defraud is forgery.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "designs, makes, alters, or embosses a counterfeit access card",
+    "utters or otherwise attempts to use a counterfeit access card",
+    "signs the name of another or of a fictitious person to an access card, sales slip, sales draft, or instrument for the payment of money which evidences an access card transaction"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of forgery (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Designs, makes, alters, or embosses a counterfeit access card",
+     "ways": [
+      "designs",
+      "makes",
+      "alters",
+      "embosses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(a)",
+     "act": "Utters or otherwise attempts to use a counterfeit access card",
+     "ways": [
+      "utters",
+      "otherwise attempts to use"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)",
+     "act": "Signs the name of another or of a fictitious person to an access card, sales slip, sales draft, or instrument for the payment of money which evidences an access card transaction",
+     "ways": [
+      "access card",
+      "sales slip",
+      "sales draft",
+      "instrument for the payment of money"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person other than the cardholder or a person authorized by him or her"
+    }
+   ]
+  }
+ },
+ "484g": {
+  "review": {
+   "title": "Fraudulent use of access cards",
+   "isOffense": true,
+   "plain": "Using a stolen, altered, forged, expired, or revoked access card, or falsely claiming to hold a card never issued, to get money or goods with intent to defraud is theft; over $950 in six months is grand theft.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "uses, for the purpose of obtaining money, goods, services, or anything else of value, an access card or access card account information that has been altered, obtained, or retained in violation of Section 484e or 484f",
+    "obtains money, goods, services, or anything else of value by representing"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "the value of all money, goods, services, and other things of value obtained in violation of this section exceeds nine hundred fifty dollars ($950) in any consecutive six-month period",
+      "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Uses, for the purpose of obtaining money, goods, services, or anything else of value, an access card or access card account information that has been altered, obtained, or retained in violation of Section 484e or 484f, or an access card which is forged, expired, or revoked",
+     "ways": [
+      "an access card or access card account information altered, obtained, or retained in violation of Section 484e or 484f",
+      "an access card known to be forged, expired, or revoked"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knows the access card is forged, expired, or revoked (for that way)"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Obtains money, goods, services, or anything else of value by representing that he or she is the holder of an access card",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the cardholder",
+      "The card has not in fact been issued"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "484h": {
+  "review": {
+   "title": "Retailer access card fraud",
+   "isOffense": true,
+   "plain": "A retailer or other person who, with intent to defraud, accepts a stolen, counterfeit, forged, expired, or revoked access card and takes payment, or bills for card sales not furnished, commits theft; over $950 in six months is grand theft.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "Furnishes money, goods, services or anything else of value upon presentation of an access card",
+    "Presents for payment a sales slip or other evidence of an access card transaction, and receives payment therefor"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to defraud"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Furnishes money, goods, services or anything else of value upon presentation of an access card obtained or retained in violation of Section 484e or an access card which is a counterfeit access card or is forged, expired, or revoked, and receives any payment therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The access card was obtained or retained in violation of Section 484e, or is counterfeit, forged, expired, or revoked"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knows the access card is a counterfeit access card or is forged, expired, or revoked (for that kind of card)"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the payment received by the retailer or other person for all money, goods, services, and other things of value furnished in violation of this section exceeds nine hundred fifty dollars ($950) in any consecutive six-month period",
+       "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Presents for payment a sales slip or other evidence of an access card transaction, and receives payment therefor",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without furnishing in the transaction money, goods, services, or anything else of value that is equal in value to the amount of the sales slip or other evidence of an access card transaction"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the difference between the value of all money, goods, services, and anything else of value actually furnished and the payment or payments received exceeds nine hundred fifty dollars ($950) in any consecutive six-month period",
+       "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "484i": {
+  "review": {
+   "title": "Incomplete cards and card-making equipment",
+   "isOffense": true,
+   "plain": "Possessing an incomplete access card to complete it without consent is a misdemeanor; altering card account information to defraud is forgery; making or trafficking card-making equipment to counterfeit cards is punishable by up to one year in county jail or as a felony.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "possesses an incomplete access card",
+    "makes, alters, varies, changes, or modifies access card account information on any part of an access card",
+    "authorizes or consents to alteration, variance, change, or modification of access card account information by another",
+    "designs, makes, possesses, or traffics in card making equipment or incomplete access cards"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses an incomplete access card",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to complete it without the consent of the issuer"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Makes, alters, varies, changes, or modifies access card account information on any part of an access card, or authorizes or consents to alteration, variance, change, or modification of access card account information by another",
+     "ways": [
+      "makes, alters, varies, changes, or modifies access card account information",
+      "authorizes or consents to its alteration by another"
+     ],
+     "tags": [],
+     "conditions": [
+      "Including information encoded in a magnetic stripe or other medium on the access card not directly readable by the human eye",
+      "In a manner that causes transactions initiated by that access card to be charged or billed to a person other than the cardholder to whom the access card was issued"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of forgery (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Designs, makes, possesses, or traffics in card making equipment or incomplete access cards",
+     "ways": [
+      "designs",
+      "makes",
+      "possesses",
+      "traffics in"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that the equipment or cards be used to make counterfeit access cards"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "484j": {
+  "review": {
+   "title": "Publishing access card numbers and codes",
+   "isOffense": true,
+   "plain": "Publishing the number or code of an access card, PIN, password, access code, debit card or bank account number, intending it be used to avoid lawful charges or to defraud, is a misdemeanor.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "publishes the number or code of an existing, canceled, revoked, expired or nonexistent access card, personal identification number, computer password, access code, debit card number, bank account number, or the numbering or coding which is employed in the issuance of access cards"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Publishes\": the communication of information to any one or more persons, either orally, in person or by telephone, radio or television, or on a computer network or computer bulletin board, or in a writing of any kind, including without limitation a letter or memorandum, circular or handbill, newspaper or magazine article, or book"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Publishes the number or code of an existing, canceled, revoked, expired or nonexistent access card, personal identification number, computer password, access code, debit card number, bank account number, or the numbering or coding which is employed in the issuance of access cards",
+     "ways": [
+      "access card",
+      "personal identification number",
+      "computer password",
+      "access code",
+      "debit card number",
+      "bank account number",
+      "numbering or coding employed in the issuance of access cards"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that it be used to avoid the payment of any lawful charge, or with intent to defraud or aid another in defrauding"
+     ],
+     "knowledge": [
+      "With knowledge or reason to believe that it will be used to avoid the payment of any lawful charge"
+     ]
+    }
+   ]
+  }
+ },
+ "485": {
+  "review": {
+   "title": "Keeping lost property",
+   "isOffense": true,
+   "plain": "A person who finds lost property while knowing or able to learn who owns it, and keeps it without first making reasonable efforts to find and return it to the owner, is guilty of theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "appropriates such property to his own use, or to the use of another person not entitled thereto"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Finds lost property and appropriates such property to his own use, or to the use of another person not entitled thereto",
+     "ways": [
+      "to his own use",
+      "to the use of another person not entitled thereto"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property is found under circumstances which give him knowledge of or means of inquiry as to the true owner",
+      "Without first making reasonable and just efforts to find the owner and to restore the property to him"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "486": {
+  "review": {
+   "title": "Degrees of theft",
+   "isOffense": false,
+   "plain": "Divides theft into two degrees: grand theft and petty theft."
+  }
+ },
+ "487": {
+  "review": {
+   "title": "Grand theft defined",
+   "isOffense": false,
+   "plain": "Lists the cases that are grand theft, such as property worth more than $950, farm crops or aquacultural products over $250, employee theft of $950 or more in 12 months, theft from the person, and theft of an automobile or firearm, and allows aggregating related thefts."
+  }
+ },
+ "487a": {
+  "review": {
+   "title": "Theft of livestock and carcasses",
+   "isOffense": true,
+   "plain": "Stealing, fraudulently taking, or obtaining by fraud horses, cattle, goats, sheep, pigs, and similar animals, or stealing their carcasses or parts of carcasses, is grand theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, carries, leads, or drives away any horse, mare, gelding, any bovine animal, any caprine animal, mule, jack, jenny, sheep, lamb, hog, sow, boar, gilt, barrow, or pig",
+    "appropriates that same property",
+    "defrauds any other person of that same property",
+    "causes or procures others to report falsely of his or her wealth or mercantile character",
+    "steal, take, transport or carry the carcass of any bovine, caprine, equine, ovine, or suine animal or of any mule, jack or jenny",
+    "appropriate such property",
+    "steal, take, transport, or carry any portion of the carcass of any bovine, caprine, equine, ovine, or suine animal or of any mule, jack, or jenny"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Steals, takes, carries, leads, or drives away any horse, mare, gelding, any bovine animal, any caprine animal, mule, jack, jenny, sheep, lamb, hog, sow, boar, gilt, barrow, or pig",
+     "ways": [
+      "steals",
+      "takes",
+      "carries",
+      "leads",
+      "drives away"
+     ],
+     "tags": [],
+     "conditions": [
+      "The animal is the personal property of another"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Feloniously"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Appropriates that same property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property has been entrusted to him or her"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Defrauds any other person of that same property by any false or fraudulent representation or pretense",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and designedly"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Causes or procures others to report falsely of his or her wealth or mercantile character and by thus imposing upon any person, obtains credit and thereby gets or obtains possession of that same property",
+     "ways": [
+      "causes",
+      "procures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Steals, takes, transports, or carries the carcass of any bovine, caprine, equine, ovine, or suine animal or of any mule, jack or jenny",
+     "ways": [
+      "steal",
+      "take",
+      "transport",
+      "carry"
+     ],
+     "tags": [],
+     "conditions": [
+      "The carcass is the personal property of another"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Feloniously"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Appropriates such property (a carcass)",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property has been entrusted to him or her"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Steals, takes, transports, or carries any portion of the carcass of any bovine, caprine, equine, ovine, or suine animal or of any mule, jack, or jenny",
+     "ways": [
+      "steal",
+      "take",
+      "transport",
+      "carry"
+     ],
+     "tags": [],
+     "conditions": [
+      "The animal has been killed without the consent of the owner thereof"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Feloniously"
+     ]
+    }
+   ]
+  }
+ },
+ "487b": {
+  "review": {
+   "title": "Severing real estate worth $250 or more",
+   "isOffense": true,
+   "plain": "Stealing property worth $250 or more by severing it from someone else's real estate is grand theft, punishable by imprisonment under subdivision (h) of Section 1170.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "converts real estate of the value of two hundred fifty dollars ($250) or more into personal property by severance from the realty of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Converts real estate into personal property by severance from the realty of another, and steals, takes, and carries away that property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The real estate is of the value of two hundred fifty dollars ($250) or more"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With felonious intent to do so"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of grand theft; imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "487c": {
+  "review": {
+   "title": "Severing real estate worth under $250",
+   "isOffense": true,
+   "plain": "Stealing property worth less than $250 by severing it from someone else's real estate is petty theft, punishable by up to one year in county jail, a fine up to $1,000, or both.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "converts real estate of the value of less than two hundred fifty dollars ($250) into personal property by severance from the realty of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Converts real estate into personal property by severance from the realty of another, and steals, takes, and carries away that property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The real estate is of the value of less than two hundred fifty dollars ($250)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With felonious intent to do so"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of petty theft; imprisonment in the county jail for not more than one year, or a fine not exceeding one thousand dollars ($1,000), or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "487d": {
+  "review": {
+   "title": "Theft of gold dust from mining claims",
+   "isOffense": true,
+   "plain": "Stealing or trying to steal another's gold dust, amalgam, or quicksilver from a mining claim, tunnel, sluice, or similar works is grand theft, punishable by imprisonment under subdivision (h) of Section 1170.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, and carries away, or attempts to take, steal, and carry from any mining claim, tunnel, sluice, undercurrent, riffle box, or sulfurate machine, another’s gold dust, amalgam, or quicksilver"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals, takes, and carries away, or attempts to take, steal, and carry from any mining claim, tunnel, sluice, undercurrent, riffle box, or sulfurate machine, another's gold dust, amalgam, or quicksilver",
+     "ways": [
+      "gold dust",
+      "amalgam",
+      "quicksilver"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Feloniously"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of grand theft; imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "487e": {
+  "review": {
+   "title": "Theft of a companion animal over $950",
+   "isOffense": true,
+   "plain": "Stealing another person's pet or other companion animal worth more than $950 is grand theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, or carries away a companion animal of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Companion animal\": an animal, including, but not limited to, a dog or a cat that a person keeps and provides care for as a household pet or otherwise for the purpose of companionship, emotional support, service, or protection; excludes feral animals, including, but not limited to, feral cats as defined in Section 31752.5 of the Food and Agricultural Code"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Steals, takes, or carries away a companion animal of another",
+     "ways": [
+      "steals",
+      "takes",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [
+      "The companion animal is of a value exceeding nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Feloniously"
+     ]
+    }
+   ]
+  }
+ },
+ "487f": {
+  "review": {
+   "title": "Theft of a companion animal up to $950",
+   "isOffense": true,
+   "plain": "Stealing another person's pet or other companion animal worth $950 or less is petty theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, or carries away a companion animal of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of petty theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Companion animal\": an animal, including, but not limited to, a dog or a cat that a person keeps and provides care for as a household pet or otherwise for the purpose of companionship, emotional support, service, or protection; excludes feral animals, including, but not limited to, feral cats as defined in Section 31752.5 of the Food and Agricultural Code"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Steals, takes, or carries away a companion animal of another",
+     "ways": [
+      "steals",
+      "takes",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [
+      "The companion animal is of a value not exceeding nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Feloniously"
+     ]
+    }
+   ]
+  }
+ },
+ "487g": {
+  "review": {
+   "title": "Theft of animals for commercial use",
+   "isOffense": true,
+   "plain": "Stealing another's animal, or getting it by fraud, for sale, medical research, slaughter, or other commercial use is punishable by up to one year in county jail or by state prison.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "takes or carries away any animal of another",
+    "defrauds another person of any animal"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year or in the state prison",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals or takes or carries away any animal of another",
+     "ways": [
+      "steals",
+      "takes",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [
+      "The taking is for purposes of sale, medical research, slaughter, or other commercial use"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Maliciously (for taking or carrying away)"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Defrauds another person of any animal by any false representation or pretense",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The fraud is for purposes of sale, medical research, slaughter, or other commercial use"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "487h": {
+  "review": {
+   "title": "Cargo theft",
+   "isOffense": true,
+   "plain": "Stealing another's cargo (goods loaded in a trailer, railcar, or cargo container, awaiting or in transit) worth more than $950 is grand theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, or carries away cargo of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Cargo\": any goods, wares, products, or manufactured merchandise that has been loaded into a trailer, railcar, or cargo container, awaiting or in transit"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Steals, takes, or carries away cargo of another",
+     "ways": [
+      "steals",
+      "takes",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [
+      "The cargo taken is of a value exceeding nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [
+      "Except as provided in Sections 487, 487a, and 487d"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "487i": {
+  "review": {
+   "title": "Defrauding public housing programs",
+   "isOffense": true,
+   "plain": "Defrauding a public housing authority's housing program of more than $400 is grand theft.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "defrauds a housing program of a public housing authority"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Defrauds a housing program of a public housing authority",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The amount is more than four hundred dollars ($400)"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "487j": {
+  "review": {
+   "title": "Theft of copper materials",
+   "isOffense": true,
+   "plain": "Stealing another's copper wire, cable, tubing, piping, or other copper materials worth more than $950 is grand theft, punishable by up to one year in county jail and a $2,500 fine, or as a felony with a $10,000 fine.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, or carries away copper materials of another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals, takes, or carries away copper materials of another, including, but not limited to, copper wire, copper cable, copper tubing, and copper piping",
+     "ways": [
+      "steals",
+      "takes",
+      "carries away"
+     ],
+     "tags": [],
+     "conditions": [
+      "The copper materials are of a value exceeding nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Grand theft; a fine not exceeding two thousand five hundred dollars ($2,500), by imprisonment in a county jail not exceeding one year, or by both that fine and imprisonment, or by imprisonment pursuant to subdivision (h) of Section 1170 and a fine not exceeding ten thousand dollars ($10,000)",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "487k": {
+  "review": {
+   "title": "Theft of agricultural equipment",
+   "isOffense": true,
+   "plain": "Stealing tractors, all-terrain vehicles, or other agricultural equipment used to produce food for the public, worth more than $950, is grand theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals, takes, or carries away tractors, all-terrain vehicles, or other agricultural equipment, or any portion thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of grand theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals, takes, or carries away tractors, all-terrain vehicles, or other agricultural equipment, or any portion thereof",
+     "ways": [
+      "tractors",
+      "all-terrain vehicles",
+      "other agricultural equipment"
+     ],
+     "tags": [],
+     "conditions": [
+      "The equipment is used in the acquisition or production of food for public consumption",
+      "The equipment is of a value exceeding nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "487m": {
+  "review": {
+   "title": "Wage theft by an employer",
+   "isOffense": true,
+   "plain": "An employer's intentional theft of more than $950 in wages from one employee, or more than $2,350 from two or more employees, within 12 months may be punished as grand theft; wages may be recovered as restitution.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "theft of wages"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An employer (including the hiring entity of an independent contractor)",
+    "consequences": [
+     "Wages, gratuities, benefits, or other compensation that are the subject of a prosecution under this section may be recovered as restitution in accordance with Sections 1202.4 and 1203.1"
+    ],
+    "terms": [
+     "\"Theft of wages\": the intentional deprivation of wages, as defined in Section 200 of the Labor Code, gratuities, as defined in Section 350 of the Labor Code, benefits, or other compensation, by unlawful means, with the knowledge that the wages, gratuities, benefits, or other compensation is due to the employee under the law",
+     "\"Employee\": includes an independent contractor; \"employer\" includes the hiring entity of an independent contractor"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits theft of wages",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The amount is greater than nine hundred fifty dollars ($950) from any one employee, or two thousand three hundred fifty dollars ($2,350) in the aggregate from two or more employees",
+      "In any consecutive 12-month period"
+     ],
+     "exceptions": [
+      "This section does not prohibit the employee or the Labor Commissioner from commencing a civil action to seek remedies provided for under the Labor Code"
+     ],
+     "defenses": [],
+     "intent": [
+      "Intentional"
+     ],
+     "knowledge": [
+      "With the knowledge that the wages, gratuities, benefits, or other compensation is due to the employee under the law"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "May be punished as grand theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "488": {
+  "review": {
+   "title": "Petty theft defined",
+   "isOffense": false,
+   "plain": "Provides that theft that is not grand theft is petty theft."
+  }
+ },
+ "489": {
+  "review": {
+   "title": "Punishment for grand theft",
+   "isOffense": true,
+   "plain": "Grand theft of a firearm is punishable by 16 months, two, or three years in state prison; other grand theft, including livestock theft, by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "Grand theft",
+    "the theft of a firearm",
+    "a violation of Section 487a"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits grand theft involving the theft of a firearm",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The grand theft involves the theft of a firearm"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the state prison for 16 months, or two or three years",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Commits grand theft involving a violation of Section 487a",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The grand theft involves a violation of Section 487a"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "The proceeds of this fine shall be allocated to the Bureau of Livestock Identification to be used, upon appropriation by the Legislature, for purposes relating to the investigation of cases involving grand theft of animals or their carcasses"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170, or by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Commits grand theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The grand theft is not described in subdivision (a) or (b)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "490": {
+  "review": {
+   "title": "Punishment for petty theft",
+   "isOffense": true,
+   "plain": "Petty theft is punishable by a fine up to $1,000, up to six months in county jail, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "Petty theft"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail not exceeding six months, or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits petty theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "490a": {
+  "review": {
+   "title": "Larceny read as theft",
+   "isOffense": false,
+   "plain": "Provides that any California law referring to larceny, embezzlement, or stealing is to be read as if the word \"theft\" were used instead."
+  }
+ },
+ "490.1": {
+  "review": {
+   "title": "Petty theft of $50 or less as infraction",
+   "isOffense": true,
+   "plain": "Petty theft of $50 or less may be charged as a misdemeanor or, if the person has no other theft conviction, as an infraction punishable by a fine up to $250.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "maxPlus": true,
+   "acts": [
+    "Petty theft"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits petty theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the money, labor, real or personal property taken does not exceed fifty dollars ($50)"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "May be charged as a misdemeanor or an infraction, at the discretion of the prosecutor (no misdemeanor term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "charged as an infraction, provided that the person charged has no other theft or theft-related conviction",
+       "penalty": "A fine not exceeding two hundred fifty dollars ($250)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "490.2": {
+  "review": {
+   "title": "Petty theft of $950 or less",
+   "isOffense": true,
+   "plain": "Obtaining property by theft worth $950 or less is petty theft punished as a misdemeanor, but may be punished under subdivision (h) of Section 1170 if the person has certain serious or sex-offense prior convictions.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "obtaining any property by theft"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Obtains any property by theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the money, labor, real or personal property taken does not exceed nine hundred fifty dollars ($950)"
+     ],
+     "exceptions": [
+      "This section shall not be applicable to any theft that may be charged as an infraction pursuant to any other provision of law",
+      "This section shall not apply to theft of a firearm"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Petty theft, punished as a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has one or more prior convictions for an offense specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 or for an offense requiring registration pursuant to subdivision (c) of Section 290",
+       "penalty": "May instead be punished pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "490.3": {
+  "review": {
+   "title": "Aggregating theft values",
+   "isOffense": false,
+   "plain": "Allows the value of property stolen in one or more acts of theft or shoplifting to be added together in a single count to decide the degree of theft."
+  }
+ },
+ "490.4": {
+  "review": {
+   "title": "Organized retail theft",
+   "isOffense": true,
+   "plain": "Acting with others to steal merchandise from stores or online marketplaces for resale, receiving such stolen goods, stealing as part of an organized plan, or directing such theft is organized retail theft, punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "Acts in concert with one or more persons to steal merchandise from one or more merchant’s premises or online marketplace",
+    "Acts in concert with two or more persons to receive, purchase, or possess merchandise described in paragraph (1)",
+    "Acts as an agent of another individual or group of individuals to steal merchandise from one or more merchant’s premises or online marketplaces",
+    "Recruits, coordinates, organizes, supervises, directs, manages, or finances another to undertake any of the acts described in paragraph (1) or (2) or any other statute defining theft of merchandise"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "The court shall consider ordering, as a condition of probation, that the defendant stay away from retail establishments with a reasonable nexus to the crime committed"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Acts in concert with one or more persons to steal merchandise from one or more merchant's premises or online marketplace",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to sell, exchange, or return the merchandise for value"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "violations of paragraph (1), (2), or (3) of subdivision (a) are committed on two or more separate occasions within a 12-month period, and the aggregated value of the merchandise stolen, received, purchased, or possessed within that 12-month period exceeds nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Acts in concert with two or more persons to receive, purchase, or possess merchandise described in paragraph (1)",
+     "ways": [
+      "receive",
+      "purchase",
+      "possess"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing or believing it to have been stolen"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "violations of paragraph (1), (2), or (3) of subdivision (a) are committed on two or more separate occasions within a 12-month period, and the aggregated value of the merchandise stolen, received, purchased, or possessed within that 12-month period exceeds nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(a)(3)",
+     "act": "Acts as an agent of another individual or group of individuals to steal merchandise from one or more merchant's premises or online marketplaces",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "As part of an organized plan to commit theft"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "violations of paragraph (1), (2), or (3) of subdivision (a) are committed on two or more separate occasions within a 12-month period, and the aggregated value of the merchandise stolen, received, purchased, or possessed within that 12-month period exceeds nine hundred fifty dollars ($950)",
+       "penalty": "Imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(a)(4)",
+     "act": "Recruits, coordinates, organizes, supervises, directs, manages, or finances another to undertake any of the acts described in paragraph (1) or (2) or any other statute defining theft of merchandise",
+     "ways": [
+      "recruits",
+      "coordinates",
+      "organizes",
+      "supervises",
+      "directs",
+      "manages",
+      "finances"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "490.5": {
+  "review": {
+   "title": "Shoplifting and library theft",
+   "isOffense": true,
+   "plain": "A first conviction for petty theft of store merchandise or library materials carries a mandatory $50 to $1,000 fine and up to six months in county jail; the section also allows civil damages and lets merchants and libraries detain suspects.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "petty theft involving merchandise taken from a merchant’s premises or a book or other library materials taken from a library facility"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "In lieu of the fines, the person may be required to perform public services designated by the court, of not less than the number of hours necessary to satisfy the fine at the minimum wage",
+     "The parent or legal guardian having control and custody of an unemancipated minor is jointly and severally liable with the minor for damages of not less than fifty dollars ($50) nor more than five hundred dollars ($500), plus costs, and the retail value of unrecovered merchandise or the fair market value of library materials"
+    ],
+    "terms": [
+     "\"Merchandise\": any personal property, capable of manual delivery, displayed, held or offered for retail sale by a merchant",
+     "\"Merchant\": an owner or operator, and the agent, consignee, employee, lessee, or officer of an owner or operator, of any premises used for the retail purchase or sale of any personal property capable of manual delivery",
+     "\"Book or other library materials\": include any book, plate, picture, photograph, engraving, painting, drawing, map, newspaper, magazine, pamphlet, broadside, manuscript, document, letter, public record, microform, sound recording, audiovisual material in any format, magnetic or other tape, electronic data-processing record, artifact, or other documentary, written or printed material regardless of physical form or characteristics, or any part thereof, belonging to, on loan to, or otherwise in the custody of a library facility",
+     "\"Library facility\": includes any public library; any library of an educational, historical or eleemosynary institution, organization or society; any museum; any repository of public records"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits petty theft involving merchandise taken from a merchant's premises or a book or other library materials taken from a library facility",
+     "ways": [
+      "merchandise from a merchant's premises",
+      "a book or other library materials from a library facility"
+     ],
+     "tags": [],
+     "conditions": [
+      "First conviction"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A mandatory fine of not less than fifty dollars ($50) and not more than one thousand dollars ($1,000) for each such violation; and may also be punished by imprisonment in the county jail, not exceeding six months, or both such fine and imprisonment",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "an adult or emancipated minor has unlawfully taken merchandise from a merchant's premises, or a book or other library materials from a library facility",
+       "penalty": "Liable to the merchant or library facility for damages of not less than fifty dollars ($50) nor more than five hundred dollars ($500), plus costs, and for the retail value of merchandise not recovered in merchantable condition or the fair market value of the library materials",
+       "min": null,
+       "max": 0,
+       "flags": [
+        "civil"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "490.6": {
+  "review": {
+   "title": "Amusement park detentions",
+   "isOffense": false,
+   "plain": "Lets amusement park employees detain, for a reasonable time, a person they have probable cause to believe is violating lawful park rules, treats refusing to comply or leave as obstructing business under Section 602.1, and gives a defense in civil suits."
+  }
+ }
+}

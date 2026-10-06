@@ -1,0 +1,2166 @@
+{
+ "538": {
+  "review": {
+   "title": "Removing or selling mortgaged property",
+   "isOffense": true,
+   "plain": "After mortgaging property, removing it from the county without the mortgagee's written consent, or selling, destroying, or further encumbering it, to defraud the mortgagee, is theft; no punishment is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "takes, drives, carries away, or otherwise removes or permits the taking, driving, or carrying away, or other removal of the mortgaged property",
+    "sells, transfers, slaughters, destroys, or in any manner further encumbers the mortgaged property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who has mortgaged property permitted to be mortgaged by the provisions of Sections 9102 and 9109 of the Commercial Code",
+    "intent": [
+     "With intent to defraud the mortgagee, his or her representative or assigns"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of theft, and is punishable accordingly (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes, drives, carries away, or otherwise removes or permits the taking, driving, or carrying away, or other removal of the mortgaged property, or any part thereof, from the county where it was situated when mortgaged",
+     "ways": [
+      "takes",
+      "drives",
+      "carries away",
+      "otherwise removes",
+      "permits the removal"
+     ],
+     "tags": [],
+     "conditions": [
+      "During the existence of the mortgage",
+      "Without the written consent of the mortgagee"
+     ],
+     "exceptions": [
+      "Locomotives, engines, rolling stock of a railroad, steamboat machinery in actual use, and vessels are excepted"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Sells, transfers, slaughters, destroys, or in any manner further encumbers the mortgaged property, or any part thereof, or causes it to be sold, transferred, slaughtered, destroyed, or further encumbered",
+     "ways": [
+      "sells",
+      "transfers",
+      "slaughters",
+      "destroys",
+      "further encumbers",
+      "causes it to be sold, transferred, slaughtered, destroyed, or further encumbered"
+     ],
+     "tags": [],
+     "conditions": [
+      "During the existence of the mortgage"
+     ],
+     "exceptions": [
+      "Locomotives, engines, rolling stock of a railroad, steamboat machinery in actual use, and vessels are excepted",
+      "In the case of a sale, transfer, or further encumbrance, at or before the time of making it the mortgagor informs the person to whom it is made of the existence of the prior mortgage, and also informs the prior mortgagee of the intended sale, transfer, or encumbrance, in writing, by giving the name and place of residence of the party to whom it is to be made"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "538a": {
+  "review": {
+   "title": "Signing another's name to a newspaper letter",
+   "isOffense": true,
+   "plain": "Signing someone else's name to a letter and sending it to a newspaper, intending the paper to believe that person wrote it, is a misdemeanor; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "signs any letter addressed to a newspaper with the name of a person other than himself and sends such letter to the newspaper, or causes it to be sent to such newspaper"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Signs any letter addressed to a newspaper with the name of a person other than himself and sends such letter to the newspaper, or causes it to be sent to such newspaper",
+     "ways": [
+      "sends",
+      "causes it to be sent"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to lead the newspaper to believe that such letter was written by the person whose name is signed thereto"
+     ]
+    }
+   ]
+  }
+ },
+ "538b": {
+  "review": {
+   "title": "Wearing insignia of societies or religious orders",
+   "isOffense": true,
+   "plain": "Wearing the badge, garb, or insignia of a secret society, fraternal or religious order, or church without being entitled to, or using it to get aid, with intent to deceive, is a misdemeanor; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "wears the badge, lapel button, rosette, or any part of the garb, robe, habit, or any other recognized and established insignia or apparel of any secret society, or fraternal or religious order or organization, or of any sect, church or religious denomination",
+    "uses the same to obtain aid or assistance within this State"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Wilfully",
+     "With intent to deceive"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Wears the badge, lapel button, rosette, or any part of the garb, robe, habit, or any other recognized and established insignia or apparel of any secret society, or fraternal or religious order or organization, or of any sect, church or religious denomination",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Entitled to wear and use the same under the constitution, by-laws or rules and regulations, or other laws or enactments of such society, order, organization, sect, church or religious denomination"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Uses the same to obtain aid or assistance within this State",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Entitled to wear and use the same under the constitution, by-laws or rules and regulations, or other laws or enactments of such society, order, organization, sect, church or religious denomination"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "538c": {
+  "review": {
+   "title": "Theft of advertising services",
+   "isOffense": true,
+   "plain": "Attaching or inserting an unauthorized advertisement in a newspaper and redistributing it, or intending to, is the misdemeanor of theft of advertising services; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "attaches or inserts an unauthorized advertisement in a newspaper"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of the crime of theft of advertising services which shall be punishable as a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "A conviction under this section shall not constitute a conviction for petty theft"
+    ],
+    "terms": [
+     "\"Unauthorized advertisement\": any form of representation or communication, including any handbill, newsletter, pamphlet, or notice that contains any letters, words, or pictorial representation that is attached to or inserted in a newspaper without a contractual agreement between the publisher and an advertiser",
+     "\"Newspaper\": includes any newspaper, magazine, periodical, or other tangible publication, whether offered for retail sale or distributed without charge"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Attaches or inserts an unauthorized advertisement in a newspaper, whether alone or in concert with another",
+     "ways": [
+      "attaches",
+      "inserts"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person redistributes it to the public or has the intent to redistribute it to the public"
+     ],
+     "exceptions": [
+      "The publisher or authorized distributor of the newspaper consents to the attachment or insertion of the advertisement",
+      "A newspaper distributor who is directed to insert an unauthorized advertisement by a person or company supplying the newspapers, and who is not aware that the advertisement is unauthorized"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "538d": {
+  "review": {
+   "title": "Impersonating a peace officer",
+   "isOffense": true,
+   "plain": "Wearing or using police uniforms, badges, or IDs to fraudulently pose as a law enforcement officer, impersonating one to defraud, or making or selling fake badges is a misdemeanor, up to one year in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing, of a law enforcement officer",
+    "impersonates a law enforcement officer through or on an internet website, by other electronic means, or by any other means",
+    "wears, exhibits, or uses the badge of a law enforcement officer",
+    "wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of a law enforcement officer",
+    "makes, sells, loans, gives, or transfers to another, any badge, insignia, emblem, device, or any label, certificate, card, or writing, which falsely purports to be authorized for the use of one who by law is given the authority of a law enforcement officer",
+    "sells a uniform identifying a law enforcement agency, without verifying that the purchaser is an employee of the agency"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "terms": [
+     "\"Law enforcement officer\" (for subdivisions (a), (b), and (c)): a peace officer as defined in Section 830, and any federal law enforcement officer"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing, of a law enforcement officer",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person other than one who by law is given the authority of a law enforcement officer",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating a law enforcement officer, or of fraudulently inducing the belief that they are a law enforcement officer"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Credibly impersonates a law enforcement officer through or on an internet website, by other electronic means, or by any other means",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person other than one who by law is given the authority of a law enforcement officer",
+     "intent": [
+      "Willfully",
+      "For purposes of defrauding another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Wears, exhibits, or uses the badge of a law enforcement officer",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person, other than the one who by law is given the authority of a law enforcement officer",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating a law enforcement officer, or of fraudulently inducing the belief that they are a law enforcement officer"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of a law enforcement officer, or which so resembles the authorized badge of a law enforcement officer as would deceive any ordinary reasonable person into believing that it is authorized for the use of one who by law is given the authority of a law enforcement officer",
+     "ways": [
+      "wears",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "Willfully",
+      "For the purpose of fraudulently impersonating a law enforcement officer, or of fraudulently inducing the belief that they are a law enforcement officer"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(1)",
+     "act": "Wears, exhibits, or uses, or makes, sells, loans, gives, or transfers to another, any badge, insignia, emblem, device, or any label, certificate, card, or writing, which falsely purports to be authorized for the use of one who by law is given the authority of a law enforcement officer, or which so resembles the authorized one of a law enforcement officer as would deceive an ordinary reasonable person into believing that it is authorized",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses",
+      "makes",
+      "sells",
+      "loans",
+      "gives",
+      "transfers to another"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Identification issued under subdivision (d) by the head of an agency that employs peace officers, stating that the person has honorably retired following service as a peace officer from that agency"
+     ],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "Willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed six months, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the person makes or sells any badge under the circumstances described in this subdivision",
+       "penalty": "Subject to a fine not to exceed fifteen thousand dollars ($15,000)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "A local law enforcement agency in the jurisdiction that files charges shall seize the badge, insignia, emblem, device, label, certificate, card, or writing"
+     ]
+    },
+    {
+     "where": "(e)(2)",
+     "act": "Sells a uniform identifying a law enforcement agency, without verifying that the purchaser is an employee of the agency",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The uniform is to be used solely as a prop for a motion picture, television, video production, or a theatrical event, and prior written permission has been obtained from the identified law enforcement agency"
+     ],
+     "defenses": [],
+     "who": "A uniform vendor",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor, punishable by a fine of not more than one thousand dollars ($1,000)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "538e": {
+  "review": {
+   "title": "Impersonating a firefighter",
+   "isOffense": true,
+   "plain": "Wearing or using fire department uniforms, badges, or IDs to fraudulently pose as a firefighter or fire marshal, making or selling fake badges, or falsely claiming fire authority to sell equipment is a misdemeanor, up to one year in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing of an officer or member of a fire department or a deputy state fire marshal",
+    "impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+    "wears, exhibits, or uses the badge of a fire department or the Office of the State Fire Marshal",
+    "wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of an officer or member of a fire department, or a deputy state fire marshal",
+    "makes, sells, loans, gives, or transfers to another, any badge, insignia, emblem, device, or any label, certificate, card, or writing, which falsely purports to be authorized for the use of one who by law is given the authority of an officer, or member of a fire department or a deputy state fire marshal",
+    "falsely represents, in any manner whatsoever, to any other person that they are a fire marshal, fire inspector or member of a fire department",
+    "sells a uniform identifying a firefighting agency or department without verifying that the purchaser is an employee or authorized member of the agency or department"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing of an officer or member of a fire department or a deputy state fire marshal",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code representing firefighters or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": "Any person, other than an officer or member of a fire department",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating an officer or member of a fire department or the Office of the State Fire Marshal, or of fraudulently inducing the belief that they are an officer or member of a fire department or the Office of the State Fire Marshal"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Credibly impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code representing firefighters or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": "Any person, other than an officer or member of a fire department",
+     "intent": [
+      "Willfully",
+      "For purposes of defrauding another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Wears, exhibits, or uses the badge of a fire department or the Office of the State Fire Marshal",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code representing firefighters or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": "Any person, other than the one who by law is given the authority of an officer or member of a fire department, or a deputy state fire marshal",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating an officer, or member of a fire department, or a deputy state fire marshal, or of fraudulently inducing the belief that they are an officer or member of a fire department, or a deputy state fire marshal"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of an officer or member of a fire department, or a deputy state fire marshal, or which so resembles the authorized badge as would deceive any ordinary reasonable person into believing that it is authorized",
+     "ways": [
+      "wears",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code representing firefighters or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "Willfully",
+      "For the purpose of fraudulently impersonating an officer or member of a fire department, or a deputy state fire marshal, or of fraudulently inducing the belief that they are an officer or member of a fire department, or a deputy state fire marshal"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Wears, exhibits, or uses, or makes, sells, loans, gives, or transfers to another, any badge, insignia, emblem, device, or any label, certificate, card, or writing, which falsely purports to be authorized for the use of one who by law is given the authority of an officer, or member of a fire department or a deputy state fire marshal, or which so resembles the authorized one as would deceive an ordinary reasonable person into believing that it is authorized",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses",
+      "makes",
+      "sells",
+      "loans",
+      "gives",
+      "transfers to another"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code representing firefighters or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "Willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person makes or sells any badge under the circumstances described in this subdivision",
+       "penalty": "Guilty of a misdemeanor punishable by a fine not to exceed fifteen thousand dollars ($15,000)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Falsely represents, in any manner whatsoever, to any other person that they are a fire marshal, fire inspector or member of a fire department, or that they have the approval, endorsement or authorization of any fire marshal, fire inspector or fire department, or member thereof",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code representing firefighters or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "For the purpose of selling, leasing or otherwise disposing of merchandise, supplies or equipment used in fire prevention or suppression"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(e)(3)",
+     "act": "Sells a uniform identifying a firefighting agency or department without verifying that the purchaser is an employee or authorized member of the agency or department",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The uniform is to be used solely as a prop for a motion picture, television, video production, or a theatrical event, and prior written permission has been obtained from the identified firefighting agency or department"
+     ],
+     "defenses": [],
+     "who": "A uniform vendor",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor, punishable by a fine of not more than one thousand dollars ($1,000)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "538f": {
+  "review": {
+   "title": "Impersonating a utility employee",
+   "isOffense": true,
+   "plain": "Presenting oneself to a utility customer to fraudulently pose as a public utility or district employee, or credibly impersonating one to defraud, is a misdemeanor punishable by up to six months in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 0.5,
+   "acts": [
+    "presents themselves to a utility or district customer",
+    "impersonates an employee of a public utility or district on an internet website, by other electronic means, or by any other means"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "Any person, other than an employee of a public utility or district as defined in Sections 216 and 11503 of the Public Utilities Code, respectively",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor and shall be punished by imprisonment in a county jail not to exceed six months, or by a fine not to exceed one thousand dollars ($1,000), or by both that fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Presents themselves to a utility or district customer",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Conduct that arguably constitutes protected activity under state labor law or the National Labor Relations Act (Title 29, United States Code, Section 151 and following)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently personating an employee of a public utility or district, or of fraudulently inducing the belief that they are an employee of a public utility or district"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Credibly impersonates an employee of a public utility or district on an internet website, by other electronic means, or by any other means",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Conduct that arguably constitutes protected activity under state labor law or the National Labor Relations Act (Title 29, United States Code, Section 151 and following)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "For purposes of defrauding another"
+     ]
+    }
+   ]
+  }
+ },
+ "538g": {
+  "review": {
+   "title": "Impersonating a government officer or employee",
+   "isOffense": true,
+   "plain": "Wearing or using a public officer's or employee's badge, ID card, or insignia to fraudulently pose as one, impersonating one to defraud, or making or selling fake badges is a misdemeanor; no jail term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "wears, exhibits, or uses the authorized badge, photographic identification card, or insignia of a state, county, city, special district, or city and county officer or employee",
+    "impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+    "makes, sells, loans, gives, or transfers to another, any badge, photographic identification card, or insignia, which falsely purports to be for the use of a state, county, city, special district, or city and county officer or employee"
+   ]
+  },
+  "elements": {
+   "shared": {},
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Wears, exhibits, or uses the authorized badge, photographic identification card, or insignia of a state, county, city, special district, or city and county officer or employee",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": "Any person, other than a state, county, city, special district, or city and county officer or employee",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently personating a state, county, city, special district, or city and county officer or employee, or of fraudulently inducing the belief that they are a state, county, city, special district, or city and county officer or employee"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Credibly impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": "Any person, other than a state, county, city, special district, or city and county officer or employee",
+     "intent": [
+      "Willfully",
+      "For purposes of defrauding another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Wears, exhibits, or uses, or makes, sells, loans, gives, or transfers to another, any badge, photographic identification card, or insignia, which falsely purports to be for the use of a state, county, city, special district, or city and county officer or employee, or which so resembles the authorized one as would deceive an ordinary reasonable person into believing that it is authorized for use by a state, county, city, special district, or city and county officer or employee",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses",
+      "makes",
+      "sells",
+      "loans",
+      "gives",
+      "transfers to another"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Use of a badge solely as a prop for a motion picture, television, or video production, or an entertainment or theatrical event",
+      "A badge supplied by a recognized employee organization as defined in Section 3501 of the Government Code or a state or international organization to which it is affiliated"
+     ],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "Willfully"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person makes or sells any badge under the circumstances described in this subdivision",
+       "penalty": "Subject to a fine not to exceed fifteen thousand dollars ($15,000)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "538h": {
+  "review": {
+   "title": "Impersonating search and rescue personnel",
+   "isOffense": true,
+   "plain": "Wearing or using search and rescue uniforms or badges to fraudulently pose as a team member or obtain aid or money, or impersonating one to defraud, is a misdemeanor, up to one year in county jail for badge misuse.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing of an officer or member of a government agency managed or affiliated search and rescue unit or team",
+    "uses the same to obtain aid, money, or assistance within this state",
+    "impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+    "wears, exhibits, or uses the badge of a government agency managed or affiliated search and rescue unit or team",
+    "wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of an officer or member of a government agency managed or affiliated search and rescue unit or team"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "terms": [
+     "\"Member\": any natural person who is registered with an accredited disaster council for the purpose of engaging in disaster service without pay or other consideration; food and lodging provided, or expenses reimbursed for these items, during a member's activation do not constitute other consideration",
+     "\"Search and rescue unit or team\": an entity engaged in the acts of searching for, rescuing, or recovering by means of ground, marine, or air activity, any person that becomes lost, injured, or is killed while outdoors or as a result of a natural or manmade disaster, including instances involving searches for downed or missing aircraft"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing of an officer or member of a government agency managed or affiliated search and rescue unit or team",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person, other than an officer or member of a government agency managed or affiliated search and rescue unit or team",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating an officer or member of a government agency managed or affiliated search and rescue unit or team, or of fraudulently inducing the belief that they are an officer or member of a government agency managed or affiliated search and rescue unit or team"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Uses the same to obtain aid, money, or assistance within this state",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person, other than an officer or member of a government agency managed or affiliated search and rescue unit or team",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Credibly impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person, other than an officer or member of a government agency managed or affiliated search and rescue unit or team",
+     "intent": [
+      "Willfully",
+      "For purposes of defrauding another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Wears, exhibits, or uses the badge of a government agency managed or affiliated search and rescue unit or team",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "Any person, other than the one who by law is given the authority of an officer or member of a government agency managed or affiliated search and rescue unit or team",
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating an officer or member of a government agency managed or affiliated search and rescue unit or team, or fraudulently inducing the belief that they are an officer or member of a government agency managed or affiliated search and rescue unit or team"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of an officer or member of a government agency managed or affiliated search and rescue unit or team, or that resembles the authorized badge as would deceive any ordinary reasonable person into believing that it is authorized",
+     "ways": [
+      "wears",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": null,
+     "intent": [
+      "Willfully",
+      "For the purpose of fraudulently impersonating an officer or member of a government agency managed or affiliated search and rescue unit or team, or of fraudulently inducing the belief that they are an officer or member of a government agency managed or affiliated search and rescue unit or team"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "538i": {
+  "review": {
+   "title": "Impersonating a first responder during evacuations",
+   "isOffense": true,
+   "plain": "Fraudulently posing as a first responder in an area under an evacuation order, or impersonating one online during or within 30 days after an evacuation order to defraud, is punishable by up to one year in county jail or a felony jail term.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "wears, exhibits, or uses the uniform, insignia, emblem, device, label, certificate, card, or writing of a first responder",
+    "impersonates a first responder on an internet website, or by other electronic means"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "Any person, other than a first responder",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not to exceed one year, by a fine not to exceed two thousand dollars ($2,000), or by both that imprisonment and fine, or by imprisonment pursuant to subdivision (h) of Section 1170 and by a fine not to exceed twenty thousand dollars ($20,000)",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Evacuation order\": has the same meaning as in Section 463",
+     "\"First responder\": a first responder as defined under Section 8562 of the Government Code, or any employee of the Federal Emergency Management Agency under Section 313 of Subchapter V of Chapter 1 of Title 6 of the United States Code"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Wears, exhibits, or uses the uniform, insignia, emblem, device, label, certificate, card, or writing of a first responder",
+     "ways": [
+      "wears",
+      "exhibits",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "With the intent of fraudulently impersonating a first responder in an area subject to an evacuation order"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Credibly impersonates a first responder on an internet website, or by other electronic means",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "During an evacuation order or within 30 days of its termination"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "For purposes of defrauding another"
+     ]
+    }
+   ]
+  }
+ },
+ "538.5": {
+  "review": {
+   "title": "Wire fraud to obtain public utility information",
+   "isOffense": true,
+   "plain": "Transmitting communications by wire, radio, or television to obtain a public utility's confidential information, trade secrets, or customer records by false pretenses is punishable by up to one year in county jail or a felony jail term.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "transmits or causes to be transmitted by means of wire, radio or television communication any words, sounds, writings, signs, signals, or pictures"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or by imprisonment in the county jail not exceeding one year",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Transmits or causes to be transmitted by means of wire, radio or television communication any words, sounds, writings, signs, signals, or pictures",
+     "ways": [
+      "transmits",
+      "causes to be transmitted"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "For the purpose of furthering or executing a scheme or artifice to obtain, from a public utility, confidential, privileged, or proprietary information, trade secrets, trade lists, customer records, billing records, customer credit data, or accounting data by means of false or fraudulent pretenses, representations, personations, or promises"
+     ]
+    }
+   ]
+  }
+ },
+ "539": {
+  "review": {
+   "title": "False certification of community service",
+   "isOffense": true,
+   "plain": "Certifying, with intent to defraud, that someone ordered to do community service as a probation condition finished the required hours when they did not is a misdemeanor; no term is stated here.",
+   "category": "Courts & Justice",
+   "maxYears": null,
+   "acts": [
+    "certifies that a person ordered by the court to participate in community service as a condition of probation has completed the number of hours of community service prescribed in the court order"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Certifies that a person ordered by the court to participate in community service as a condition of probation has completed the number of hours of community service prescribed in the court order",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The participant has not completed the prescribed number of hours"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to defraud"
+     ]
+    }
+   ]
+  }
+ },
+ "548": {
+  "review": {
+   "title": "Destroying insured property to defraud insurer",
+   "isOffense": true,
+   "plain": "Willfully injuring, destroying, hiding, abandoning, or disposing of insured property to defraud the insurer is a felony punishable by two, three, or five years and a fine up to $50,000, plus two years per prior conviction.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "maxPlus": true,
+   "acts": [
+    "injures, destroys, secretes, abandons, or disposes of any property which at the time is insured against loss or damage by theft, or embezzlement, or any casualty"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Injures, destroys, secretes, abandons, or disposes of any property which at the time is insured against loss or damage by theft, or embezzlement, or any casualty, whether the property is the property or in the possession of that person or any other person",
+     "ways": [
+      "injures",
+      "destroys",
+      "secretes",
+      "abandons",
+      "disposes of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "With intent to defraud or prejudice the insurer"
+     ],
+     "terms": [
+      "\"Casualty\": does not include fire"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years and by a fine not exceeding fifty thousand dollars ($50,000)",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior conviction of the offense set forth in subdivision (a), in Section 550, or in former Section 556 or former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior conviction in addition to the sentence provided under subdivision (a)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "549": {
+  "review": {
+   "title": "Referring business for insurance fraud",
+   "isOffense": true,
+   "plain": "Soliciting, accepting, or referring business knowing or recklessly disregarding that someone intends to commit insurance fraud is punishable by up to one year in county jail or up to three years, a large fine, and restitution.",
+   "category": "Fraud & Money",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "solicits, accepts, or refers any business to or from any individual or entity"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Solicits, accepts, or refers any business to or from any individual or entity",
+     "ways": [
+      "solicits",
+      "accepts",
+      "refers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With the knowledge that the individual or entity for or from whom the solicitation or referral is made, or the individual or entity who is solicited or referred, intends to violate Section 550 of this code or Section 1871.4 of the Insurance Code"
+     ],
+     "mentalState": [
+      "With reckless disregard for whether the individual or entity intends to violate Section 550 of this code or Section 1871.4 of the Insurance Code"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for not more than one year or by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, two years, or three years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "a second or subsequent conviction",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 or by that imprisonment and a fine of fifty thousand dollars ($50,000)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Restitution shall be ordered, including restitution for any medical evaluation or treatment services obtained or provided"
+     ]
+    }
+   ]
+  }
+ },
+ "550": {
+  "review": {
+   "title": "Insurance fraud",
+   "isOffense": true,
+   "plain": "Knowingly presenting false insurance or health care claims, staging vehicle collisions, or making false statements to support or oppose insurance claims is punishable by up to five years plus enhancements, fines, and restitution.",
+   "category": "Fraud & Money",
+   "maxYears": 5,
+   "maxPlus": true,
+   "acts": [
+    "present or cause to be presented any false or fraudulent claim for the payment of a loss or injury",
+    "present multiple claims for the same loss or injury",
+    "cause or participate in a vehicular collision, or any other vehicular accident",
+    "present a false or fraudulent claim for the payments of a loss for theft, destruction, damage, or conversion of a motor vehicle",
+    "prepare, make, or subscribe any writing",
+    "make or cause to be made any false or fraudulent claim for payment of a health care benefit",
+    "submit a claim for a health care benefit that was not used by, or on behalf of, the claimant",
+    "present multiple claims for payment of the same health care benefit",
+    "present for payment any undercharges for health care benefits on behalf of a specific claimant",
+    "Present or cause to be presented any written or oral statement as part of, or in support of or opposition to, a claim for payment or other benefit pursuant to an insurance policy",
+    "Prepare or make any written or oral statement that is intended to be presented to any insurer or any insurance claimant",
+    "Conceal",
+    "fail to disclose the occurrence of, an event that affects any person",
+    "Prepare or make any written or oral statement, intended to be presented to any insurer or producer for the purpose of obtaining a motor vehicle insurance policy"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "Restitution shall be ordered, including restitution for any medical evaluation or treatment services obtained or provided",
+     "No probation or suspended sentence for an adult convicted of felony violations of this section who previously has been convicted two or more times, under charges separately brought and tried, of felony violations of this section or Section 548, Section 1871.4 of the Insurance Code, or former Section 556 or former Section 1871.1 of the Insurance Code",
+     "The court shall not strike or dismiss any prior felony convictions alleged in the information or indictment, except as stated in subdivision (d)",
+     "Subject to appropriate orders of restitution pursuant to Section 13967 of the Government Code",
+     "Any fine is doubled if the offense was committed in connection with any claim pursuant to any automobile insurance policy in an auto insurance fraud crisis area designated by the Insurance Commissioner"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Presents or causes to be presented any false or fraudulent claim for the payment of a loss or injury, including payment of a loss or injury under a contract of insurance",
+     "ways": [
+      "presents",
+      "causes to be presented"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, and by a fine not exceeding fifty thousand dollars ($50,000), or double the amount of the fraud, whichever is greater",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Presents multiple claims for the same loss or injury, including presentation of multiple claims to more than one insurer",
+     "ways": [],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, and by a fine not exceeding fifty thousand dollars ($50,000), or double the amount of the fraud, whichever is greater",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With an intent to defraud"
+     ]
+    },
+    {
+     "where": "(a)(3)",
+     "act": "Causes or participates in a vehicular collision, or any other vehicular accident",
+     "ways": [
+      "causes",
+      "participates in"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, and by a fine not exceeding fifty thousand dollars ($50,000), or double the amount of the fraud, whichever is greater",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has two prior felony convictions for a violation of paragraph (3) of subdivision (a)",
+       "penalty": "A five-year enhancement in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "a person other than an accomplice suffers serious bodily injury resulting from the vehicular collision or accident",
+       "penalty": "A two-year enhancement for each person other than an accomplice who suffers serious bodily injury (except as otherwise provided in Section 12022.7)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "For the purpose of presenting any false or fraudulent claim"
+     ]
+    },
+    {
+     "where": "(a)(4)",
+     "act": "Presents a false or fraudulent claim for the payments of a loss for theft, destruction, damage, or conversion of a motor vehicle, a motor vehicle part, or contents of a motor vehicle",
+     "ways": [],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, and by a fine not exceeding fifty thousand dollars ($50,000), or double the amount of the fraud, whichever is greater",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ]
+    },
+    {
+     "where": "(a)(5)",
+     "act": "Prepares, makes, or subscribes any writing in support of any false or fraudulent claim",
+     "ways": [
+      "prepares",
+      "makes",
+      "subscribes"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, and by a fine not exceeding fifty thousand dollars ($50,000), or double the amount of the fraud, whichever is greater",
+       "min": null,
+       "max": 5,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With the intent to present or use it, or to allow it to be presented, in support of any false or fraudulent claim"
+     ]
+    },
+    {
+     "where": "(a)(6)",
+     "act": "Makes or causes to be made any false or fraudulent claim for payment of a health care benefit",
+     "ways": [
+      "makes",
+      "causes to be made"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not to exceed six months, or by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the claim or amount at issue exceeds nine hundred fifty dollars ($950), or the aggregate amount of the claims or amount at issue exceeds nine hundred fifty dollars ($950) in any 12-consecutive-month period",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "terms": [
+      "\"Claim\" or \"claim for payment of a health care benefit\" (paragraphs (6) to (9)): also means a claim or claim for payment submitted by or on the behalf of a provider of any workers' compensation health benefits under the Labor Code"
+     ]
+    },
+    {
+     "where": "(a)(7)",
+     "act": "Submits a claim for a health care benefit that was not used by, or on behalf of, the claimant",
+     "ways": [],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not to exceed six months, or by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the claim or amount at issue exceeds nine hundred fifty dollars ($950), or the aggregate amount of the claims or amount at issue exceeds nine hundred fifty dollars ($950) in any 12-consecutive-month period",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "terms": [
+      "\"Claim\" or \"claim for payment of a health care benefit\" (paragraphs (6) to (9)): also means a claim or claim for payment submitted by or on the behalf of a provider of any workers' compensation health benefits under the Labor Code"
+     ]
+    },
+    {
+     "where": "(a)(8)",
+     "act": "Presents multiple claims for payment of the same health care benefit",
+     "ways": [],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not to exceed six months, or by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the claim or amount at issue exceeds nine hundred fifty dollars ($950), or the aggregate amount of the claims or amount at issue exceeds nine hundred fifty dollars ($950) in any 12-consecutive-month period",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "With an intent to defraud"
+     ],
+     "terms": [
+      "\"Claim\" or \"claim for payment of a health care benefit\" (paragraphs (6) to (9)): also means a claim or claim for payment submitted by or on the behalf of a provider of any workers' compensation health benefits under the Labor Code"
+     ]
+    },
+    {
+     "where": "(a)(9)",
+     "act": "Presents for payment any undercharges for health care benefits on behalf of a specific claimant",
+     "ways": [],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Any known overcharges for health care benefits for that claimant are presented for reconciliation at that same time"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not to exceed six months, or by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 0.5,
+       "flags": []
+      },
+      {
+       "if": "the claim or amount at issue exceeds nine hundred fifty dollars ($950), or the aggregate amount of the claims or amount at issue exceeds nine hundred fifty dollars ($950) in any 12-consecutive-month period",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "terms": [
+      "\"Claim\" or \"claim for payment of a health care benefit\" (paragraphs (6) to (9)): also means a claim or claim for payment submitted by or on the behalf of a provider of any workers' compensation health benefits under the Labor Code"
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Presents or causes to be presented any written or oral statement as part of, or in support of or opposition to, a claim for payment or other benefit pursuant to an insurance policy",
+     "ways": [
+      "presents",
+      "causes to be presented"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, or by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing that the statement contains any false or misleading information concerning any material fact"
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Prepares or makes any written or oral statement that is intended to be presented to any insurer or any insurance claimant in connection with, or in support of or opposition to, any claim or payment or other benefit pursuant to an insurance policy",
+     "ways": [
+      "prepares",
+      "makes"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, or by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowing that the statement contains any false or misleading information concerning any material fact"
+     ]
+    },
+    {
+     "where": "(b)(3)",
+     "act": "Conceals, or fails to disclose the occurrence of, an event that affects any person's initial or continued right or entitlement to any insurance benefit or payment, or the amount of any benefit or payment to which the person is entitled",
+     "ways": [
+      "conceals",
+      "fails to disclose"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, or by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "knowledge": [
+      "Knowingly (as to failing to disclose)"
+     ]
+    },
+    {
+     "where": "(b)(4)",
+     "act": "Prepares or makes any written or oral statement, intended to be presented to any insurer or producer for the purpose of obtaining a motor vehicle insurance policy, that the person to be the insured resides or is domiciled in this state",
+     "ways": [
+      "prepares",
+      "makes"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [
+      "In fact, that person resides or is domiciled in a state other than this state"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or five years, or by a fine not exceeding fifty thousand dollars ($50,000) or double the amount of the fraud, whichever is greater, or by both that imprisonment and fine, or by imprisonment in a county jail not to exceed one year, or by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 5,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the person has a prior felony conviction of an offense set forth in subdivision (a) or (b), in Section 548, in Section 1871.4 of the Insurance Code, in former Section 556 of the Insurance Code, or in former Section 1871.1 of the Insurance Code",
+       "penalty": "A two-year enhancement for each prior felony conviction in addition to the sentence provided in subdivision (c)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "551": {
+  "review": {
+   "title": "Insurance referral kickbacks and deductible waivers",
+   "isOffense": true,
+   "plain": "Auto repair dealers and contractors who pay insurance agents or adjusters for referrals, or knowingly offer discounts to offset insurance deductibles, commit a public offense punishable by up to three years when over $950.",
+   "category": "Fraud & Money",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "offer to any insurance agent, broker, or adjuster any fee, commission, profit sharing, or other form of direct or indirect consideration",
+    "offer or give any discount intended to offset a deductible required by a policy of insurance"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An automotive repair dealer, contractor, or employees or agents thereof",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not to exceed six months, by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     },
+     {
+      "if": "the amount at issue exceeds nine hundred fifty dollars ($950)",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine; or by imprisonment in a county jail not to exceed one year, by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     },
+     {
+      "if": "the person, having been convicted of subdivision (a) or (b), or Section 7027.3 or former Section 9884.75 of the Business and Professions Code and having served a term therefor in any penal institution or having been imprisoned therein as a condition of probation for that offense, is subsequently convicted of subdivision (a) or (b)",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, by a fine of not more than ten thousand dollars ($10,000), or by both that imprisonment and fine; or by imprisonment in a county jail not to exceed one year, by a fine of not more than one thousand dollars ($1,000), or by both that imprisonment and fine",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Automotive repair dealer\": a person who, for compensation, engages in the business of repairing or diagnosing malfunctions of motor vehicles",
+     "\"Contractor\": has the same meaning as set forth in Section 7026 of the Business and Professions Code"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Offers to any insurance agent, broker, or adjuster any fee, commission, profit sharing, or other form of direct or indirect consideration for referring an insured to an automotive repair dealer or its employees or agents for vehicle repairs covered under a policyholder's automobile physical damage or automobile collision coverage, or to a contractor or its employees or agents for repairs to or replacement of a structure covered by a residential or commercial insurance policy",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)",
+     "act": "Offers or gives any discount intended to offset a deductible required by a policy of insurance covering repairs to or replacement of a motor vehicle or residential or commercial structure",
+     "ways": [
+      "offers",
+      "gives"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The amount of the repair or replacement claim has been determined by the insurer and the repair or replacement services are performed in accordance with that determination or in accordance with provided estimates that are accepted by the insurer",
+      "An advertisement for repair or replacement services at a discount, as long as the amount of the claim has been determined by the insurer and the services are performed in accordance with that determination or with provided estimates accepted by the insurer"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ]
+    }
+   ]
+  }
+ },
+ "552": {
+  "review": {
+   "title": "Posted-property article exceptions for officers and roads",
+   "isOffense": false,
+   "plain": "Says the posted-property trespass article does not apply to entries by peace officers or other authorized public officers on duty, or to lawful use of an existing public road right of way."
+  }
+ },
+ "552.1": {
+  "review": {
+   "title": "Posted-property article exceptions for labor activity",
+   "isOffense": false,
+   "plain": "Says the posted-property trespass article does not prohibit lawful labor union organizing activity or authorized union investigations of working-condition safety on posted property."
+  }
+ },
+ "553": {
+  "review": {
+   "title": "Posted-property definitions",
+   "isOffense": false,
+   "plain": "Defines \"sign,\" \"posted property,\" and \"posted boundary\" for the posted-property trespass article."
+  }
+ },
+ "554": {
+  "review": {
+   "title": "Property that may be posted against trespassing",
+   "isOffense": false,
+   "plain": "Lists the kinds of utility, oil, gas, water, explosives, railroad, sewer, and quarry property that may be posted against trespassing and loitering."
+  }
+ },
+ "554.1": {
+  "review": {
+   "title": "How property is posted against trespassing",
+   "isOffense": false,
+   "plain": "Sets where and how often signs must be placed to post property described in Section 554 against trespassing and loitering, depending on fencing, size, and type of structure."
+  }
+ },
+ "555": {
+  "review": {
+   "title": "Entering posted property",
+   "isOffense": true,
+   "plain": "Entering or remaining on posted property without the written permission of the owner, tenant, or occupant is unlawful, and each day is a separate offense; no punishment is stated in this section.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "enter or remain upon any posted property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Guilty of a separate offense for each day during any portion of which he enters or remains upon such posted property"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters or remains upon any posted property",
+     "ways": [
+      "enters",
+      "remains"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the written permission of the owner, tenant, or occupant in legal possession or control thereof"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "555.1": {
+  "review": {
+   "title": "Destroying posted-property signs",
+   "isOffense": true,
+   "plain": "Tearing down, defacing, or destroying a sign posted under the posted-property article without authority is unlawful; no punishment is stated in this section.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "tear down, deface or destroy any sign posted pursuant to this article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Tears down, defaces or destroys any sign posted pursuant to this article",
+     "ways": [
+      "tears down",
+      "defaces",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authority"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "555.2": {
+  "review": {
+   "title": "Loitering near posted property",
+   "isOffense": true,
+   "plain": "Loitering in the immediate vicinity of posted property is unlawful, though picketing and lawful labor-dispute publicity are allowed; no punishment is stated in this section.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "loiter in the immediate vicinity of any posted property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Loiters in the immediate vicinity of any posted property",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Picketing in such immediate vicinity or any lawful activity by which the public is informed of the existence of an alleged labor dispute"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "555.3": {
+  "review": {
+   "title": "Posted-property violations are misdemeanors",
+   "isOffense": true,
+   "plain": "Violating any provision of the posted-property trespass article is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "Violation of any of the provisions of this article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Violation of any of the provisions of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "555.4": {
+  "review": {
+   "title": "Posted-property article applies statewide",
+   "isOffense": false,
+   "plain": "Makes the posted-property article apply in all counties and cities and bars local ordinances that conflict with it."
+  }
+ },
+ "555.5": {
+  "review": {
+   "title": "Posted-property article severability",
+   "isOffense": false,
+   "plain": "Provides that if any part of the posted-property article is held invalid, the rest remains in effect."
+  }
+ },
+ "556": {
+  "review": {
+   "title": "Advertising signs on public property",
+   "isOffense": true,
+   "plain": "Placing or keeping advertising signs, pictures, or devices on state, city, or county property without lawful permission is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "place or maintain, or cause to be placed or maintained"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Places or maintains, or causes to be placed or maintained upon any property of the State, or of a city or of a county, any sign, picture, transparency, advertisement, or mechanical device which is used for the purpose of advertising or which advertises or brings to notice any person, article of merchandise, business or profession, or anything that is to be or has been sold, bartered, or given away",
+     "ways": [
+      "places",
+      "maintains",
+      "causes to be placed",
+      "causes to be maintained"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without lawful permission"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "556.1": {
+  "review": {
+   "title": "Advertising signs on private property",
+   "isOffense": true,
+   "plain": "Placing or keeping advertising signs, pictures, or devices on property where one has no estate or right of possession, without the owner's or possessor's prior consent, is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "place or maintain or cause to be placed or maintained upon any property in which he has no estate or right of possession"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Places or maintains or causes to be placed or maintained upon any property in which he has no estate or right of possession any sign, picture, transparency, advertisement, or mechanical device which is used for the purpose of advertising, or which advertises or brings to notice any person, article of merchandise, business or profession, or anything that is to be or has been sold, bartered, or given away",
+     "ways": [
+      "places",
+      "maintains",
+      "causes to be placed",
+      "causes to be maintained"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner, lessee, or person in lawful possession of such property before the sign, picture, transparency, advertisement, or mechanical device is placed upon the property"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "556.2": {
+  "review": {
+   "title": "Exceptions to sign-posting crimes",
+   "isOffense": false,
+   "plain": "Says Sections 556 and 556.1 do not bar legally required or court-ordered notices, notices about the premises where posted, or public highway and street name, direction, or condition signs."
+  }
+ }
+}

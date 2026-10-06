@@ -1,0 +1,580 @@
+{
+ "165.35": {
+  "review": {
+   "isOffense": true,
+   "plain": "Fortune telling is claiming or pretending to tell fortunes, or claiming occult powers to answer questions, give advice or affect evil spirits or curses, for a fee; it is a class B misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class B misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "claims or pretends to tell fortunes",
+    "holds himself out as being able, by claimed or pretended use of occult powers, to answer questions or give advice on personal matters or to exorcise, influence or affect evil spirits or curses"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Claims or pretends to tell fortunes",
+     "ways": [
+      "Holds himself out as being able, by claimed or pretended use of occult powers, to answer questions or give advice on personal matters or to exorcise, influence or affect evil spirits or curses"
+     ],
+     "tags": [],
+     "conditions": [
+      "For a fee or compensation which he directly or indirectly solicits or receives"
+     ],
+     "exceptions": [
+      "This section does not apply to a person who engages in the aforedescribed conduct as part of a show or exhibition solely for the purpose of entertainment or amusement"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.40": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of stolen property in the fifth degree is knowingly possessing stolen property with intent to benefit oneself or another non-owner or to impede recovery by an owner; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "possesses stolen property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.45": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of stolen property in the fourth degree is knowingly possessing stolen property over $1,000, certain cards, firearms, motor vehicles, religious items or ammonia, or as a dealer; it is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "possesses stolen property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds one thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of a credit card, debit card or public benefit card"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "who": "A collateral loan broker or a person in the business of buying, selling or otherwise dealing in property",
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of one or more firearms, rifles and shotguns, as such terms are defined in section 265.00 of this chapter"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "5",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds one hundred dollars",
+      "The property consists of a motor vehicle, as defined in section one hundred twenty-five of the vehicle and traffic law, other than a motorcycle, as defined in section one hundred twenty-three of such law"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "6",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of a scroll, religious vestment, vessel or other item of property having a value of at least one hundred dollars kept for or used in connection with religious worship in any building or structure used as a place of religious worship by a religious corporation, as incorporated under the religious corporations law or the education law"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "7",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of anhydrous ammonia or liquified ammonia gas",
+      "The actor intends to use, or knows another person intends to use, such anhydrous ammonia or liquified ammonia gas to manufacture methamphetamine"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.50": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of stolen property in the third degree is knowingly possessing stolen property worth more than $3,000, with intent to benefit a non-owner or impede recovery; it is a class D felony.",
+   "category": "Property Crimes",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "possesses stolen property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds three thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.52": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of stolen property in the second degree is knowingly possessing stolen property worth more than $50,000, with intent to benefit a non-owner or impede recovery; it is a class C felony.",
+   "category": "Property Crimes",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "possesses stolen property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds fifty thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.54": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of stolen property in the first degree is knowingly possessing stolen property worth more than $1 million, with intent to benefit a non-owner or impede recovery; it is a class B felony.",
+   "category": "Property Crimes",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "possesses stolen property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to benefit himself or a person other than an owner thereof or to impede the recovery by an owner"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses stolen property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds one million dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.55": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets presumptions for criminal possession of stolen property: of intent to benefit or impede recovery, and of knowledge that property was stolen for dealers and possessors of multiple stolen cards or air tickets; it creates no crime."
+  }
+ },
+ "165.60": {
+  "review": {
+   "isOffense": false,
+   "plain": "Says it is no defense to criminal possession of stolen property that the thief was not caught, that the defendant stole the property, or that the larceny occurred outside the state; it creates no crime."
+  }
+ },
+ "165.65": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets corroboration rules for convicting a person of criminal possession of stolen property on accomplice testimony or the testimony of those he obtained it from or disposed of it to; it creates no crime."
+  }
+ },
+ "165.66": {
+  "review": {
+   "isOffense": true,
+   "plain": "Fostering the sale of stolen goods is using a website, platform or location to offer for sale retail goods one knew or should have known were stolen, for financial gain; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "Uses any internet website, application, online marketplace, digital service, or any other platform or venue, including any physical building, public or private space, or location to offer for sale retail goods or merchandise which are stolen or unlawfully obtained"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "knowledge": [
+     "Knew or should have known that such retail goods or merchandise were stolen or unlawfully obtained"
+    ],
+    "intent": [
+     "For the purposes of financial gain"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Uses any internet website, application, online marketplace, digital service, or any other platform or venue, including any physical building, public or private space, or location to offer for sale retail goods or merchandise which are stolen or unlawfully obtained",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Acting alone or in concert with another person or persons"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.70": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines \"trademark\", \"counterfeit trademark\", \"traffic\" and \"goods\" for the trademark counterfeiting sections 165.71 through 165.74; it creates no crime."
+  }
+ },
+ "165.71": {
+  "review": {
+   "isOffense": true,
+   "plain": "Trademark counterfeiting in the third degree is making, distributing or selling goods bearing a counterfeit trademark, or possessing a counterfeit trademark to affix to goods, to deceive or defraud; it is a class a misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+    "possesses a trademark"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Possesses a trademark",
+     "ways": [],
+     "tags": [],
+     "knowledge": [
+      "Knowing it to be counterfeit"
+     ],
+     "intent": [
+      "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods",
+      "For the purpose of affixing it to any goods"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.72": {
+  "review": {
+   "isOffense": true,
+   "plain": "Trademark counterfeiting in the second degree is making, distributing or selling goods bearing a counterfeit trademark, or possessing a counterfeit trademark to affix to goods, to deceive or defraud with retail value over $1,000; it is a class e felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+    "possesses a trademark"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The retail value of all such goods bearing counterfeit trademarks exceeds one thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Possesses a trademark",
+     "ways": [],
+     "tags": [],
+     "knowledge": [
+      "Knowing it to be counterfeit"
+     ],
+     "intent": [
+      "With the intent to deceive or defraud some other person or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods",
+      "For the purpose of affixing it to any goods"
+     ],
+     "conditions": [
+      "The retail value of all such goods bearing counterfeit trademarks exceeds one thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.73": {
+  "review": {
+   "isOffense": true,
+   "plain": "Trademark counterfeiting in the first degree is making, distributing or selling goods bearing a counterfeit trademark, or possessing a counterfeit trademark to affix to goods, to deceive or defraud with retail value over $100,000; it is a class c felony.",
+   "category": "Fraud & Money",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+    "possesses a trademark"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "With the intent to deceive or defraud some other person, or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The retail value of all such goods bearing counterfeit trademarks exceeds one hundred thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Possesses a trademark",
+     "ways": [],
+     "tags": [],
+     "knowledge": [
+      "Knowing it to be counterfeit"
+     ],
+     "intent": [
+      "With the intent to deceive or defraud some other person, or with the intent to evade a lawful restriction on the sale, resale, offering for sale, or distribution of goods",
+      "For the purpose of affixing it to any goods"
+     ],
+     "conditions": [
+      "The retail value of all such goods bearing counterfeit trademarks exceeds one hundred thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "165.74": {
+  "review": {
+   "isOffense": false,
+   "plain": "Allows police to seize goods bearing counterfeit trademarks, requires a probable-cause hearing within forty-eight hours of arraignment, and directs destruction or donation of the goods on conviction; it creates no crime."
+  }
+ }
+}

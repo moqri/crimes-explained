@@ -908,5 +908,1001 @@
  "135.75": {
   "isOffense": false,
   "plain": "Sets an affirmative defense to coercion by threat of criminal charges where the defendant reasonably believed the charge true and sought only reasonable action to make good the wrong."
+ },
+ "140.00": {
+  "isOffense": false,
+  "plain": "Defines premises, building, dwelling, night, and entering or remaining unlawfully for the burglary and trespass article."
+ },
+ "140.05": {
+  "isOffense": true,
+  "plain": "Trespass is knowingly entering or remaining unlawfully in or upon premises; it is a violation.",
+  "category": "Property Crimes",
+  "penClass": "Violation",
+  "maxYears": null,
+  "acts": [
+   "enters or remains unlawfully in or upon premises"
+  ]
+ },
+ "140.10": {
+  "isOffense": true,
+  "plain": "Criminal trespass in the third degree is knowingly entering or remaining unlawfully in fenced property, schools, camps, public housing or posted railroad zones under listed circumstances; it is a class B misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "enters or remains unlawfully in a building or upon real property"
+  ]
+ },
+ "140.15": {
+  "isOffense": true,
+  "plain": "Criminal trespass in the second degree is knowingly entering or remaining unlawfully in a dwelling, or a level two or three registered sex offender entering the school their victim attends or attended; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "nters or remains unlawfully in a dwelling",
+   "enters or remains in a public or private elementary, parochial, intermediate, junior high, vocational or high school"
+  ]
+ },
+ "140.17": {
+  "isOffense": true,
+  "plain": "Criminal trespass in the first degree is knowingly entering or remaining unlawfully in a building while possessing, or knowing a participant possesses, an explosive, deadly weapon, or loaded-capable firearm; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "enters or remains unlawfully in a building",
+   "Possesses, or knows that another participant in the crime possesses, an explosive or a deadly weapon",
+   "Possesses a firearm, rifle or shotgun, as those terms are defined in section 265.00, and also possesses or has readily accessible a quantity of ammunition which is capable of being discharged from such firearm, rifle or shotgun"
+  ]
+ },
+ "140.20": {
+  "isOffense": true,
+  "plain": "Burglary in the third degree is knowingly entering or remaining unlawfully in a building with intent to commit a crime there; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "enters or remains unlawfully in a building"
+  ]
+ },
+ "140.25": {
+  "isOffense": true,
+  "plain": "Burglary in the second degree is burglary of a building while armed, injuring someone, using or threatening a dangerous instrument, or displaying an apparent firearm, or burglary of a dwelling; it is a class C felony.",
+  "category": "Property Crimes",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "enters or remains unlawfully in a building"
+  ]
+ },
+ "140.30": {
+  "isOffense": true,
+  "plain": "Burglary in the first degree is burglary of a dwelling while armed, injuring a non-participant, using or threatening a dangerous instrument, or displaying an apparent firearm; it is a class B felony.",
+  "category": "Property Crimes",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "enters or remains unlawfully in a dwelling"
+  ]
+ },
+ "140.35": {
+  "isOffense": true,
+  "plain": "Possession of burglar's tools is possessing tools adapted, designed or commonly used for forcible entry, larceny by physical taking, or certain theft of services, intending or knowing they will be so used; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "possesses any tool, instrument or other article adapted, designed or commonly used for committing or facilitating offenses involving forcible entry into premises, or offenses involving larceny by a physical taking, or offenses involving theft of services as defined in subdivisions four, five and six of section 165.15"
+  ]
+ },
+ "140.40": {
+  "isOffense": true,
+  "plain": "Unlawful possession of a radio device is possessing a police-frequency or two-way radio device intending to use it in robbery, burglary, larceny, gambling or an Article 220 violation; it is a class B misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "possesses a radio device"
+  ]
+ },
+ "145.00": {
+  "isOffense": true,
+  "plain": "Criminal mischief in the fourth degree covers intentionally damaging another's property, destroying an abandoned building, recklessly damaging property over $250, or disabling emergency communication equipment; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "damages property of another person",
+   "participates in the destruction of an abandoned building as defined in section one thousand nine hundred seventy-one-a of the real property actions and proceedings law",
+   "damages property of another person in an amount exceeding two hundred fifty dollars",
+   "disables or removes telephonic, TTY or similar communication sending equipment"
+  ]
+ },
+ "145.05": {
+  "isOffense": true,
+  "plain": "Criminal mischief in the third degree is intentionally damaging another's property over $250, or breaking into a locked vehicle to steal after three prior criminal mischief convictions in ten years; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "damages the motor vehicle of another person, by breaking into such vehicle when it is locked",
+   "damages property of another person in an amount exceeding two hundred fifty dollars"
+  ]
+ },
+ "145.10": {
+  "isOffense": true,
+  "plain": "Criminal mischief in the second degree is intentionally damaging another person's property in an amount over $1,500 without right; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "damages property of another person in an amount exceeding one thousand five hundred dollars"
+  ]
+ },
+ "145.12": {
+  "isOffense": true,
+  "plain": "Criminal mischief in the first degree is intentionally damaging another person's property by means of an explosive without right; it is a class B felony.",
+  "category": "Property Crimes",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "damages property of another person by means of an explosive"
+  ]
+ },
+ "145.13": {
+  "isOffense": false,
+  "plain": "Defines \"property of another\" for the criminal mischief sections to include any property in which another person has an ownership interest, even if the person damaging it also has one."
+ },
+ "145.14": {
+  "isOffense": true,
+  "plain": "Criminal tampering in the third degree is tampering with another person's property without right, intending to cause substantial inconvenience; it is a class B misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "tampers with property of another person"
+  ]
+ },
+ "145.15": {
+  "isOffense": true,
+  "plain": "Criminal tampering in the second degree is tampering or making connection with utility, carrier or power-plant property without right; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "tampers or makes connection with property of a gas, electric, sewer, steam or water-works corporation, telephone or telegraph corporation, common carrier, nuclear powered electric generating facility, or public utility operated by a municipality or district"
+  ]
+ },
+ "145.20": {
+  "isOffense": true,
+  "plain": "Criminal tampering in the first degree is damaging or tampering with utility, carrier or power-plant property to substantially interrupt or impair public service, and causing that interruption; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "damages or tampers with property of a gas, electric, sewer, steam or water-works corporation, telephone or telegraph corporation, common carrier, nuclear powered electric generating facility, or public utility operated by a municipality or district",
+   "causes such substantial interruption or impairment of service"
+  ]
+ },
+ "145.22": {
+  "isOffense": true,
+  "plain": "Cemetery desecration in the second degree is intentionally damaging cemetery or grave property, or stealing personal property located at a grave or burial place; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "damages any real or personal property maintained as a cemetery plot, grave, burial place or other place of interment of human remains",
+   "steals personal property which is located at a cemetery plot, grave, burial place or other place of interment of human remains"
+  ]
+ },
+ "145.23": {
+  "isOffense": true,
+  "plain": "Cemetery desecration in the first degree is damaging cemetery property or stealing grave property worth over $250, or repeating second-degree cemetery desecration within five years; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "damages any real or personal property maintained as a cemetery plot, grave, burial place or other place of interment of human remains in an amount exceeding two hundred fifty dollars",
+   "steals personal property, the value of which exceeds two hundred fifty dollars",
+   "commits the crime of cemetery desecration in the second degree as defined in section 145.22 of this article"
+  ]
+ },
+ "145.25": {
+  "isOffense": true,
+  "plain": "Reckless endangerment of property is recklessly creating a substantial risk of over $250 in damage to another person's property; it is a class B misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "engages in conduct which creates a substantial risk of damage to the property of another person in an amount exceeding two hundred fifty dollars"
+  ]
+ },
+ "145.26": {
+  "isOffense": true,
+  "plain": "Aggravated cemetery desecration in the second degree is opening an interred casket or crypt and removing remains or objects to obtain unlawful possession of them; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "opens a casket, crypt, or similar vessel containing a human body or human remains",
+   "unlawfully removes therefrom a body, bodily part, any human remains or any object contained in such casket, crypt or similar vessel"
+  ]
+ },
+ "145.27": {
+  "isOffense": true,
+  "plain": "Aggravated cemetery desecration in the first degree is committing aggravated cemetery desecration in the second degree after a cemetery desecration conviction within the past five years; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of aggravated cemetery desecration in the second degree"
+  ]
+ },
+ "145.30": {
+  "isOffense": true,
+  "plain": "Unlawfully posting advertisements is affixing an advertisement or notice to another's property without right; vendors are presumed to have placed commercial ads; it is a violation.",
+  "category": "Property Crimes",
+  "penClass": "Violation",
+  "maxYears": null,
+  "acts": [
+   "posts, paints or otherwise affixes to the property of another person any advertisement, poster, notice or other matter designed to benefit a person other than the owner of the property"
+  ]
+ },
+ "145.35": {
+  "isOffense": false,
+  "plain": "Defines \"consumer product\" for the consumer product tampering sections as any drug, food, beverage or thing offered for sale to the public for ingestion by or application to a human being."
+ },
+ "145.40": {
+  "isOffense": true,
+  "plain": "Tampering with a consumer product in the second degree is contaminating a consumer product intending to injure someone or make them fear injury; it is a class A misdemeanor.",
+  "category": "Violence & Threats",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "alters, adulterates or otherwise contaminates a consumer product"
+  ]
+ },
+ "145.45": {
+  "isOffense": true,
+  "plain": "Tampering with a consumer product in the first degree is contaminating a consumer product to injure or frighten and thereby creating a substantial risk of serious physical injury; it is a class E felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "alters, adulterates or otherwise contaminates a consumer product and thereby creates a substantial risk of serious physical injury to one or more persons"
+  ]
+ },
+ "145.50": {
+  "isOffense": true,
+  "plain": "Bars throwing or dumping refuse, garbage or offensive matter on railroad tracks or rights-of-way, punishable by a fine of up to $250 and/or up to eight hours of service, more for repeats.",
+  "category": "Property Crimes",
+  "penClass": null,
+  "maxYears": null,
+  "acts": [
+   "throw, dump, or cause to be thrown, dumped, deposited or placed upon any railroad tracks, or within the limits of the rights-of-way of any railroad, any refuse, trash, garbage, rubbish, litter or any nauseous or offensive matter"
+  ]
+ },
+ "145.60": {
+  "isOffense": true,
+  "plain": "Making graffiti is marking any building or other property with intent to damage it without the express permission of the owner or operator; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "make graffiti of any type on any building, public or private, or any other property real or personal owned by any person, firm or corporation or any public agency or instrumentality"
+  ]
+ },
+ "145.65": {
+  "isOffense": true,
+  "plain": "Possession of graffiti instruments is possessing tools or substances made or commonly used to mark property, under circumstances showing intent to use them to damage property one has no permission to mark; it is a class B misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "possesses any tool, instrument, article, substance, solution or other compound designed or commonly used to etch, paint, cover, draw upon or otherwise place a mark upon a piece of property which that person has no permission or authority to etch, paint, cover, draw upon or otherwise mark"
+  ]
+ },
+ "145.70": {
+  "isOffense": true,
+  "plain": "Criminal possession of a taximeter accelerating device is knowingly possessing a device that makes a taxi meter charge more than local law permits, intending to use it unlawfully; it is a class A misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "possesses, with intent to use unlawfully, a taximeter accelerating device"
+  ]
+ },
+ "150.00": {
+  "isOffense": false,
+  "plain": "Defines \"building\" and \"motor vehicle\" for the arson article; it creates no crime of its own."
+ },
+ "150.01": {
+  "isOffense": true,
+  "plain": "Arson in the fifth degree is intentionally damaging another's property, without the owner's consent, by intentionally starting a fire or causing an explosion; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "damages property of another without consent of the owner",
+   "starting a fire or causing an explosion"
+  ]
+ },
+ "150.05": {
+  "isOffense": true,
+  "plain": "Arson in the fourth degree is recklessly damaging a building or motor vehicle by intentionally starting a fire or causing an explosion; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "damages a building or motor vehicle",
+   "starting a fire or causing an explosion"
+  ]
+ },
+ "150.10": {
+  "isOffense": true,
+  "plain": "Arson in the third degree is intentionally damaging a building or motor vehicle by starting a fire or causing an explosion; it is a class C felony.",
+  "category": "Property Crimes",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "damages a building or motor vehicle by starting a fire or causing an explosion"
+  ]
+ },
+ "150.15": {
+  "isOffense": true,
+  "plain": "Arson in the second degree is intentionally damaging a building or motor vehicle by fire when a non-participant is present and the defendant knows or should see that as reasonably possible; it is a class B felony.",
+  "category": "Property Crimes",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "damages a building or motor vehicle by starting a fire"
+  ]
+ },
+ "150.20": {
+  "isOffense": true,
+  "plain": "Arson in the first degree is intentionally damaging an occupied building or motor vehicle by explosion or fire using an incendiary device or explosive, causing serious injury, or for profit; it is a class A-I felony.",
+  "category": "Property Crimes",
+  "penClass": "Class A-I felony",
+  "maxYears": null,
+  "acts": [
+   "damages a building or motor vehicle by causing an explosion or a fire"
+  ]
+ },
+ "155.00": {
+  "isOffense": false,
+  "plain": "Defines property, obtain, deprive, appropriate, owner, credit card, service, elderly person and other terms used in the theft title; it creates no crime of its own."
+ },
+ "155.05": {
+  "isOffense": false,
+  "plain": "Defines larceny and the ways it is committed, including by trick, lost property, false promise, extortion, wage theft and deed theft; the crimes and their classes are set in other sections."
+ },
+ "155.10": {
+  "isOffense": false,
+  "plain": "Provides that larceny by extortion and the listed bribe-receiving crimes are not mutually exclusive, so committing bribe receiving is no defense to larceny by extortion."
+ },
+ "155.15": {
+  "isOffense": false,
+  "plain": "Sets affirmative defenses to larceny: a good-faith claim of right for trespassory taking or embezzlement, and a reasonable belief in a threatened charge for certain extortion."
+ },
+ "155.20": {
+  "isOffense": false,
+  "plain": "Sets how the value of stolen property is determined for theft crimes, including market value, written instruments, utilities, and a default of less than two hundred fifty dollars."
+ },
+ "155.25": {
+  "isOffense": true,
+  "plain": "Petit larceny is stealing property; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "steals property"
+  ]
+ },
+ "155.30": {
+  "isOffense": true,
+  "plain": "Grand larceny in the fourth degree is stealing property worth over $1,000 or of listed kinds, such as public records, credit cards, firearms, motor vehicles, or property taken from a person or by extortion; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "steals property"
+  ]
+ },
+ "155.35": {
+  "isOffense": true,
+  "plain": "Grand larceny in the third degree is stealing property worth over $3,000, an ATM or its contents, retail goods over $3,000 in a common scheme, or deed theft of one commercial property; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "steals property",
+   "commits deed theft of one commercial real property"
+  ]
+ },
+ "155.40": {
+  "isOffense": true,
+  "plain": "Grand larceny in the second degree is stealing property worth over $50,000, obtaining property by certain extortion threats, retail theft over $50,000 in a common scheme, or listed deed thefts; it is a class C felony.",
+  "category": "Property Crimes",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "steals property",
+   "commits deed theft, regardless of the value, of"
+  ]
+ },
+ "155.42": {
+  "isOffense": true,
+  "plain": "Grand larceny in the first degree is stealing property worth over $1 million, retail theft over $1 million in a common scheme, or deed theft of an occupied home, a vulnerable owner's home, or three or more homes; it is a class B felony.",
+  "category": "Property Crimes",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "steals property",
+   "commits deed theft, regardless of the value, of"
+  ]
+ },
+ "155.43": {
+  "isOffense": true,
+  "plain": "Aggravated grand larceny of an automated teller machine is stealing an ATM or its contents after a grand larceny third-degree conviction within the previous five years; it is a class C felony.",
+  "category": "Property Crimes",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of grand larceny in the third degree"
+  ]
+ },
+ "155.45": {
+  "isOffense": false,
+  "plain": "Sets pleading and proof rules for larceny charges, including when an indictment must specify taking from the person or extortion; it creates no crime of its own."
+ },
+ "156.00": {
+  "isOffense": false,
+  "plain": "Defines computer, computer program, computer data, computer material, access, without authorization and other terms for the computer offenses; it creates no crime of its own."
+ },
+ "156.05": {
+  "isOffense": true,
+  "plain": "Unauthorized use of a computer is knowingly using, causing to be used, or accessing a computer, computer service or network without authorization; it is a class A misdemeanor.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "uses, causes to be used, or accesses a computer, computer service, or computer network without authorization"
+  ]
+ },
+ "156.10": {
+  "isOffense": true,
+  "plain": "Computer trespass is knowingly using or accessing a computer without authorization either to commit or further a felony or thereby knowingly gaining access to computer material; it is a class E felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+   "gains access to computer material"
+  ]
+ },
+ "156.20": {
+  "isOffense": true,
+  "plain": "Computer tampering in the fourth degree is using or accessing a computer without authorization and intentionally altering or destroying another person's computer data or program; it is a class A misdemeanor.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+   "alters in any manner or destroys computer data or a computer program of another person"
+  ]
+ },
+ "156.25": {
+  "isOffense": true,
+  "plain": "Computer tampering in the third degree is fourth-degree computer tampering plus felony intent, a prior conviction, destroying computer material, over $1,000 in damage, or altering COVID-19 vaccination records; it is a class E felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of computer tampering in the fourth degree",
+   "alters in any manner or destroys computer material",
+   "alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding one thousand dollars",
+   "enters or alters in any manner or destroys computer material indicating that a person did or did not receive a vaccination against COVID-19"
+  ]
+ },
+ "156.26": {
+  "isOffense": true,
+  "plain": "Computer tampering in the second degree is fourth-degree computer tampering that intentionally causes over $3,000 in damage or alters medical records causing serious physical injury; it is a class D felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of computer tampering in the fourth degree",
+   "alters in any manner or destroys"
+  ]
+ },
+ "156.27": {
+  "isOffense": true,
+  "plain": "Computer tampering in the first degree is fourth-degree computer tampering that intentionally alters or destroys computer data or programs causing over $50,000 in damages; it is a class C felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of computer tampering in the fourth degree",
+   "alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding fifty thousand dollars"
+  ]
+ },
+ "156.29": {
+  "isOffense": true,
+  "plain": "Unlawful duplication of computer related material in the second degree is copying computer medical records without right, intending to commit or further a crime under this chapter; it is a class B misdemeanor.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "copies, reproduces or duplicates in any manner computer material that contains records of the medical history or medical treatment of an identified or readily identifiable individual or individuals"
+  ]
+ },
+ "156.30": {
+  "isOffense": true,
+  "plain": "Unlawful duplication of computer related material in the first degree is copying computer data or programs without right to wrongfully take over $2,500 in value or to further a felony; it is a class E felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "copies, reproduces or duplicates in any manner:",
+   "deprives or appropriates from an owner thereof an economic value or benefit in excess of two thousand five hundred dollars"
+  ]
+ },
+ "156.35": {
+  "isOffense": true,
+  "plain": "Criminal possession of computer related material is knowingly possessing, without right, an unlawfully duplicated copy of computer data or a program, to benefit oneself or a non-owner; it is a class E felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "possesses, in any form, any copy, reproduction or duplicate of any computer data or computer program which was copied, reproduced or duplicated in violation of section 156.30 of this article"
+  ]
+ },
+ "156.40": {
+  "isOffense": true,
+  "plain": "Operating an unlawful electronic sweepstakes is knowingly possessing an electronic machine or device, intending to operate it, to conduct or promote a sweepstakes through an entertaining display; it is a class E felony.",
+  "category": "Cyber, Privacy & Communications",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "conduct a sweepstakes through the use of an entertaining display, including the entry process or the reveal of a prize",
+   "promote a sweepstakes that is conducted through the use of an entertaining display, including the entry process or the reveal of a prize"
+  ]
+ },
+ "156.50": {
+  "isOffense": false,
+  "plain": "Sets defenses to computer offenses where the defendant had reasonable grounds to believe he was authorized to use the computer or had the right to alter, destroy or copy the data or program; it creates no crime."
+ },
+ "158.00": {
+  "isOffense": false,
+  "plain": "Defines \"public benefit card\", \"fraudulent welfare act\" and \"public assistance benefits\" for the welfare fraud article, sets a rebuttable presumption for possessing five or more cards, and a limitation; it creates no crime."
+ },
+ "158.05": {
+  "isOffense": true,
+  "plain": "Welfare fraud in the fifth degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits; it is a class A misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+  ]
+ },
+ "158.10": {
+  "isOffense": true,
+  "plain": "Welfare fraud in the fourth degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than one thousand dollars; it is a class E felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+  ]
+ },
+ "158.15": {
+  "isOffense": true,
+  "plain": "Welfare fraud in the third degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than three thousand dollars; it is a class D felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+  ]
+ },
+ "158.20": {
+  "isOffense": true,
+  "plain": "Welfare fraud in the second degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than fifty thousand dollars; it is a class C felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+  ]
+ },
+ "158.25": {
+  "isOffense": true,
+  "plain": "Welfare fraud in the first degree is committing a fraudulent welfare act and thereby taking or obtaining public assistance benefits worth more than one million dollars; it is a class B felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "commits a fraudulent welfare act and thereby takes or obtains public assistance benefits"
+  ]
+ },
+ "158.30": {
+  "isOffense": true,
+  "plain": "Criminal use of a public benefit card in the second degree is knowingly taking a benefit card as loan collateral, obtaining one for a benefit, or transferring one for money, drugs or an unlawful purpose; it is a class A misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "accepts a public benefit card as collateral or security",
+   "Obtains a public benefit card in exchange for a benefit",
+   "Transfers or delivers a public benefit card to another"
+  ]
+ },
+ "158.35": {
+  "isOffense": true,
+  "plain": "Criminal use of a public benefit card in the first degree is knowingly obtaining three or more benefit cards for a benefit, or transferring three or more for money or a controlled substance; it is a class E felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "obtains three or more public benefit cards from another or others in exchange for a benefit",
+   "transfers or delivers three or more public benefit cards to another or others"
+  ]
+ },
+ "158.40": {
+  "isOffense": true,
+  "plain": "Criminal possession of public benefit cards in the third degree is knowingly possessing five or more benefit cards in other people's names, with intent to defraud, deceive or injure another; it is a class E felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "possesses five or more public benefit cards in a name or names other than the person's own name"
+  ]
+ },
+ "158.45": {
+  "isOffense": true,
+  "plain": "Criminal possession of public benefit cards in the second degree is knowingly possessing ten or more benefit cards in other people's names, with intent to defraud, deceive or injure another; it is a class D felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "possesses ten or more public benefit cards in a name or names other than the person's own name"
+  ]
+ },
+ "158.50": {
+  "isOffense": true,
+  "plain": "Criminal possession of public benefit cards in the first degree is knowingly possessing twenty-five or more benefit cards in other people's names, with intent to defraud, deceive or injure another; it is a class C felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "possesses twenty-five or more public benefit cards in a name or names other than the person's own name"
+  ]
+ },
+ "160.00": {
+  "isOffense": false,
+  "plain": "Defines robbery as forcible stealing: using or threatening immediate physical force during a larceny to overcome resistance or compel delivery of property; it sets no class and creates no separate crime."
+ },
+ "160.05": {
+  "isOffense": true,
+  "plain": "Robbery in the third degree is forcibly stealing property; it is a class D felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "forcibly steals property"
+  ]
+ },
+ "160.10": {
+  "isOffense": true,
+  "plain": "Robbery in the second degree is forcibly stealing property while aided by someone present, while injuring a non-participant or displaying an apparent firearm, or when the property is a motor vehicle; it is a class C felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "forcibly steals property",
+   "Causes physical injury to any person who is not a participant in the crime",
+   "Displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+  ]
+ },
+ "160.15": {
+  "isOffense": true,
+  "plain": "Robbery in the first degree is forcibly stealing property while seriously injuring a non-participant, being armed with a deadly weapon, using or threatening a dangerous instrument, or displaying an apparent firearm; it is a class B felony.",
+  "category": "Violence & Threats",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "forcibly steals property",
+   "Causes serious physical injury to any person who is not a participant in the crime",
+   "Is armed with a deadly weapon",
+   "Uses or threatens the immediate use of a dangerous instrument",
+   "Displays what appears to be a pistol, revolver, rifle, shotgun, machine gun or other firearm"
+  ]
+ },
+ "165.00": {
+  "isOffense": true,
+  "plain": "Misapplication of property is, while knowingly holding another's property under a return agreement, encumbering it without consent so the owner risks loss, or intentionally refusing to return rented property after written demand; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "loans, leases, pledges, pawns or otherwise encumbers such property",
+   "refuses to return personal property valued in excess of one hundred dollars to the owner"
+  ]
+ },
+ "165.05": {
+  "isOffense": true,
+  "plain": "Unauthorized use of a vehicle in the third degree is knowingly using a vehicle without the owner's consent, or intentionally misusing or overkeeping a vehicle held under a service or return agreement; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "takes, operates, exercises control over, rides in or otherwise uses a vehicle",
+   "uses or operates the same",
+   "retains or withholds possession thereof"
+  ]
+ },
+ "165.06": {
+  "isOffense": true,
+  "plain": "Unauthorized use of a vehicle in the second degree is committing third-degree unauthorized use under subdivision one of section 165.05 after a prior such conviction within ten years; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the crime of unauthorized use of a vehicle in the third degree as defined in subdivision one of section 165.05 of this article"
+  ]
+ },
+ "165.07": {
+  "isOffense": true,
+  "plain": "Unlawful use of secret scientific material is, without right, making a copy or record of secret scientific material, intending to appropriate its use; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "makes a tangible reproduction or representation of such secret scientific material"
+  ]
+ },
+ "165.08": {
+  "isOffense": true,
+  "plain": "Unauthorized use of a vehicle in the first degree is knowingly using a vehicle without the owner's consent, intending to use it in committing or fleeing a class A, B, C or D felony; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "takes, operates, exercises control over, rides in or otherwise uses a vehicle"
+  ]
+ },
+ "165.09": {
+  "isOffense": true,
+  "plain": "Auto stripping in the third degree is removing, or intentionally destroying or defacing, any part of a vehicle without the owner's permission, or of an abandoned vehicle without authority; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "removes",
+   "destroys or defaces any part of a vehicle",
+   "destroys or defaces any part of an abandoned vehicle"
+  ]
+ },
+ "165.10": {
+  "isOffense": true,
+  "plain": "Auto stripping in the second degree is third-degree auto stripping after a prior conviction within five years, or stripping parts worth over one thousand dollars from two or more vehicles without permission; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "commits the offense of auto stripping in the third degree",
+   "removes",
+   "destroys, defaces, disguises, or alters any part of two or more vehicles"
+  ]
+ },
+ "165.11": {
+  "isOffense": true,
+  "plain": "Auto stripping in the first degree is removing, or intentionally destroying, defacing, disguising or altering, parts of three or more vehicles without permission, worth over three thousand dollars in all; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "removes",
+   "destroys, defaces, disguises, or alters any part of three or more vehicles"
+  ]
+ },
+ "165.15": {
+  "isOffense": true,
+  "plain": "Theft of services covers obtaining or avoiding payment for services such as restaurants, hotels, transit, telecommunications, utilities, admissions, labor, computers and salons by fraud, stealth or tampering; it is a class A misdemeanor, some first offenses are violations, and some telephone theft is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "obtains or attempts to obtain a service, or induces or attempts to induce the supplier of a rendered service to agree to payment therefor on a credit basis",
+   "avoids or attempts to avoid such payment",
+   "obtains or attempts to obtain such service or avoids or attempts to avoid payment therefor",
+   "obtains or attempts to obtain such service for himself or another person or avoids or attempts to avoid payment therefor by himself or another person",
+   "sells, offers for sale or otherwise makes available, without consent, an existing, canceled or revoked access device",
+   "uses, without consent, an existing, canceled or revoked access device",
+   "obtains any telecommunications service",
+   "tampers with such device or with other equipment related thereto",
+   "accepts or receives the use and benefit of service",
+   "tampers with any equipment designed to supply or to prevent the supply of such service",
+   "obtains or attempts to obtain such admission without payment of the lawful charge therefor",
+   "uses or diverts to the use of himself or a third person such labor, equipment or facilities",
+   "uses, causes to be used, accesses, or attempts to use or access a computer, computer service, or computer network and avoids or attempts to avoid payment therefor"
+  ]
+ },
+ "165.16": {
+  "isOffense": true,
+  "plain": "Unauthorized sale of certain transportation services is selling, without authorization, access to MTA or New York city transit service with an unlimited or doctored farecard in a transit facility; it is a class B misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "sells access to such transportation services to such person"
+  ]
+ },
+ "165.17": {
+  "isOffense": true,
+  "plain": "Unlawful use of a credit card, debit card or public benefit card is using or displaying a card one knows is revoked or cancelled to obtain property or a service; it is a class A misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "uses or displays a credit card, debit card or public benefit card"
+  ]
+ },
+ "165.20": {
+  "isOffense": true,
+  "plain": "Fraudulently obtaining a signature is getting someone to sign a written instrument through a known false misrepresentation, intending to defraud or injure or to gain a substantial benefit; it is a class A misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "obtains the signature of a person to a written instrument"
+  ]
+ },
+ "165.25": {
+  "isOffense": true,
+  "plain": "Jostling is, in a public place, intentionally and unnecessarily putting a hand near someone's pocket or handbag, or jostling a person while another's hand is near their pocket or handbag; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "Places his hand in the proximity of a person's pocket or handbag",
+   "Jostles or crowds another person"
+  ]
+ },
+ "165.30": {
+  "isOffense": true,
+  "plain": "Fraudulent accosting is accosting a person in a public place intending to defraud him of money or property by a trick, swindle or confidence game; it is a class A misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "accosts a person in a public place"
+  ]
+ },
+ "165.35": {
+  "isOffense": true,
+  "plain": "Fortune telling is claiming or pretending to tell fortunes, or claiming occult powers to answer questions, give advice or affect evil spirits or curses, for a fee; it is a class B misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class B misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "claims or pretends to tell fortunes",
+   "holds himself out as being able, by claimed or pretended use of occult powers, to answer questions or give advice on personal matters or to exorcise, influence or affect evil spirits or curses"
+  ]
+ },
+ "165.40": {
+  "isOffense": true,
+  "plain": "Criminal possession of stolen property in the fifth degree is knowingly possessing stolen property with intent to benefit oneself or another non-owner or to impede recovery by an owner; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "possesses stolen property"
+  ]
+ },
+ "165.45": {
+  "isOffense": true,
+  "plain": "Criminal possession of stolen property in the fourth degree is knowingly possessing stolen property over $1,000, certain cards, firearms, motor vehicles, religious items or ammonia, or as a dealer; it is a class E felony.",
+  "category": "Property Crimes",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "possesses stolen property"
+  ]
+ },
+ "165.50": {
+  "isOffense": true,
+  "plain": "Criminal possession of stolen property in the third degree is knowingly possessing stolen property worth more than $3,000, with intent to benefit a non-owner or impede recovery; it is a class D felony.",
+  "category": "Property Crimes",
+  "penClass": "Class D felony",
+  "maxYears": null,
+  "acts": [
+   "possesses stolen property"
+  ]
+ },
+ "165.52": {
+  "isOffense": true,
+  "plain": "Criminal possession of stolen property in the second degree is knowingly possessing stolen property worth more than $50,000, with intent to benefit a non-owner or impede recovery; it is a class C felony.",
+  "category": "Property Crimes",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "possesses stolen property"
+  ]
+ },
+ "165.54": {
+  "isOffense": true,
+  "plain": "Criminal possession of stolen property in the first degree is knowingly possessing stolen property worth more than $1 million, with intent to benefit a non-owner or impede recovery; it is a class B felony.",
+  "category": "Property Crimes",
+  "penClass": "Class B felony",
+  "maxYears": null,
+  "acts": [
+   "possesses stolen property"
+  ]
+ },
+ "165.55": {
+  "isOffense": false,
+  "plain": "Sets presumptions for criminal possession of stolen property: of intent to benefit or impede recovery, and of knowledge that property was stolen for dealers and possessors of multiple stolen cards or air tickets; it creates no crime."
+ },
+ "165.60": {
+  "isOffense": false,
+  "plain": "Says it is no defense to criminal possession of stolen property that the thief was not caught, that the defendant stole the property, or that the larceny occurred outside the state; it creates no crime."
+ },
+ "165.65": {
+  "isOffense": false,
+  "plain": "Sets corroboration rules for convicting a person of criminal possession of stolen property on accomplice testimony or the testimony of those he obtained it from or disposed of it to; it creates no crime."
+ },
+ "165.66": {
+  "isOffense": true,
+  "plain": "Fostering the sale of stolen goods is using a website, platform or location to offer for sale retail goods one knew or should have known were stolen, for financial gain; it is a class A misdemeanor.",
+  "category": "Property Crimes",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "Uses any internet website, application, online marketplace, digital service, or any other platform or venue, including any physical building, public or private space, or location to offer for sale retail goods or merchandise which are stolen or unlawfully obtained"
+  ]
+ },
+ "165.70": {
+  "isOffense": false,
+  "plain": "Defines \"trademark\", \"counterfeit trademark\", \"traffic\" and \"goods\" for the trademark counterfeiting sections 165.71 through 165.74; it creates no crime."
+ },
+ "165.71": {
+  "isOffense": true,
+  "plain": "Trademark counterfeiting in the third degree is making, distributing or selling goods bearing a counterfeit trademark, or possessing a counterfeit trademark to affix to goods, to deceive or defraud; it is a class a misdemeanor.",
+  "category": "Fraud & Money",
+  "penClass": "Class A misdemeanor",
+  "maxYears": null,
+  "acts": [
+   "manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+   "possesses a trademark"
+  ]
+ },
+ "165.72": {
+  "isOffense": true,
+  "plain": "Trademark counterfeiting in the second degree is making, distributing or selling goods bearing a counterfeit trademark, or possessing a counterfeit trademark to affix to goods, to deceive or defraud with retail value over $1,000; it is a class e felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class E felony",
+  "maxYears": null,
+  "acts": [
+   "manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+   "possesses a trademark"
+  ]
+ },
+ "165.73": {
+  "isOffense": true,
+  "plain": "Trademark counterfeiting in the first degree is making, distributing or selling goods bearing a counterfeit trademark, or possessing a counterfeit trademark to affix to goods, to deceive or defraud with retail value over $100,000; it is a class c felony.",
+  "category": "Fraud & Money",
+  "penClass": "Class C felony",
+  "maxYears": null,
+  "acts": [
+   "manufactures, distributes, sells, or offers for sale goods which bear a counterfeit trademark",
+   "possesses a trademark"
+  ]
+ },
+ "165.74": {
+  "isOffense": false,
+  "plain": "Allows police to seize goods bearing counterfeit trademarks, requires a probable-cause hearing within forty-eight hours of arraignment, and directs destruction or donation of the goods on conviction; it creates no crime."
  }
 }

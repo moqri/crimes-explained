@@ -1,0 +1,1040 @@
+{
+ "503": {
+  "review": {
+   "title": "Embezzlement defined",
+   "isOffense": false,
+   "plain": "Defines embezzlement as the fraudulent appropriation of property by a person to whom it has been entrusted."
+  }
+ },
+ "504": {
+  "review": {
+   "title": "Embezzlement by public and corporate officers",
+   "isOffense": true,
+   "plain": "Public officers, their deputies and staff, and officers or agents of associations or corporations who fraudulently take or hide property they hold in trust are guilty of embezzlement; this section states no punishment.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "appropriates to any use or purpose not in the due and lawful execution of that person’s trust",
+    "secretes it"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An officer of this state, or of any county, city, city and county, or other municipal corporation or subdivision thereof, or a deputy, clerk, or servant of that officer, or an officer, director, trustee, clerk, servant, or agent of any association, society, or corporation (public or private)",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Appropriates to any use or purpose not in the due and lawful execution of that person’s trust any property in his or her possession or under his or her control by virtue of that trust, or secretes it",
+     "ways": [
+      "appropriates",
+      "secretes"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property is in the person's possession or under the person's control by virtue of that trust"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently",
+      "With a fraudulent intent to appropriate it to that use or purpose (for secreting)"
+     ]
+    }
+   ]
+  }
+ },
+ "504a": {
+  "review": {
+   "title": "Disposing of leased or unpaid-for property",
+   "isOffense": true,
+   "plain": "Fraudulently removing, concealing, or disposing of leased property, or property held under an unfinished purchase contract, is embezzlement, as is doing so knowingly by a person in possession; no punishment is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "remove, conceal or dispose of any goods, chattels or effects",
+    "remove, conceal or dispose of the same"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, conceals or disposes of any goods, chattels or effects leased or let to him by any instrument in writing, or any personal property or effects of another in his possession under a contract of purchase not yet fulfilled",
+     "ways": [
+      "remove",
+      "conceal",
+      "dispose of"
+     ],
+     "tags": [],
+     "conditions": [
+      "The goods, chattels or effects were leased or let to the person by any instrument in writing, or are personal property or effects of another in the person's possession under a contract of purchase not yet fulfilled"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Removes, conceals or disposes of the same",
+     "ways": [
+      "remove",
+      "conceal",
+      "dispose of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person in possession of such goods, chattels, or effects",
+     "knowledge": [
+      "Knowing them to be subject to such lease or contract of purchase"
+     ],
+     "intent": [
+      "With intent to injure or defraud the lessor or owner thereof"
+     ]
+    }
+   ]
+  }
+ },
+ "504b": {
+  "review": {
+   "title": "Debtor keeping sale proceeds owed to secured party",
+   "isOffense": true,
+   "plain": "A debtor who sells secured property, willfully and with intent to defraud fails to pay the secured party what is owed, and keeps the money is guilty of embezzlement, punished as provided in Section 514.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "fails to pay to the secured party the amounts due under the security agreement",
+    "appropriates the money to his or her own use"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A debtor who, under the terms of a security agreement, has the right to sell the property covered thereby and is to account to the secured party for, and pay to the secured party the indebtedness secured by the security agreement from, the proceeds of the sale",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Set in Section 514",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Fails to pay to the secured party the amounts due under the security agreement, or the proceeds of the sale, whichever is the lesser amount, and appropriates the money to his or her own use",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The debtor has sold the property covered by the security agreement and has received the proceeds of the sale"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully and wrongfully",
+      "With the intent to defraud"
+     ],
+     "terms": [
+      "\"Security agreement\": as defined in paragraph (74) of subdivision (a) of Section 9102 of the Commercial Code"
+     ]
+    }
+   ]
+  }
+ },
+ "505": {
+  "review": {
+   "title": "Embezzlement by carriers",
+   "isOffense": true,
+   "plain": "A carrier or other person holding property for transportation for hire who fraudulently appropriates it, whether or not the package was broken open, is guilty of embezzlement; no punishment is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "appropriates it to any use or purpose inconsistent with the safe keeping of such property and its transportation according to his trust"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A carrier or other person having under his control personal property for the purpose of transportation for hire",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Appropriates it to any use or purpose inconsistent with the safe keeping of such property and its transportation according to his trust",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Whether he has broken the package in which such property is contained, or has otherwise separated the items thereof, or not"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently"
+     ]
+    }
+   ]
+  }
+ },
+ "506": {
+  "review": {
+   "title": "Embezzlement by trustees, agents, and contractors",
+   "isOffense": true,
+   "plain": "Trustees, agents, executors, collectors and others entrusted with property who fraudulently take or hide it, and contractors who divert money paid to them, are guilty of embezzlement; no punishment is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "appropriates it to any use or purpose not in the due and lawful execution of his trust",
+    "secretes it",
+    "appropriates money paid to him for any use or purpose, other than for that which he received it"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Appropriates it to any use or purpose not in the due and lawful execution of his trust, or secretes it",
+     "ways": [
+      "appropriates",
+      "secretes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A trustee, banker, merchant, broker, attorney, agent, assignee in trust, executor, administrator, or collector, or person otherwise intrusted with or having in his control property for the use of any other person",
+     "intent": [
+      "Fraudulently",
+      "With a fraudulent intent to appropriate it to such use or purpose (for secreting)"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Appropriates money paid to him for any use or purpose, other than for that which he received it",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A contractor",
+     "terms": [
+      "\"Use and purpose\" of the contract price: the payment of laborers and materialmen for work performed or material furnished in the performance of any contract is the use and purpose to which the contract price, or any part thereof, received by the contractor shall be applied"
+     ]
+    }
+   ]
+  }
+ },
+ "506a": {
+  "review": {
+   "title": "Debt collectors covered by Section 506",
+   "isOffense": false,
+   "plain": "Treats collectors and others in the debt-collection business who violate Section 506 as agents under that section, to be prosecuted and punished under it, and defines \"collector\"."
+  }
+ },
+ "506b": {
+  "review": {
+   "title": "Violating real property sales contract rules",
+   "isOffense": true,
+   "plain": "Violating Civil Code Section 2985.3 or 2985.4 on real property sales contracts is a crime punishable by a fine up to $10,000, up to one year in county jail, or a felony jail term.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "violates Section 2985.3 or 2985.4 of the Civil Code"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in the county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Violates Section 2985.3 or 2985.4 of the Civil Code",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The violation relates to real property sales contracts"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "507": {
+  "review": {
+   "title": "Embezzlement by bailees, tenants, and lodgers",
+   "isOffense": true,
+   "plain": "A person entrusted with property as a bailee, tenant, or lodger, or with a power of attorney to sell it, who fraudulently converts or hides it is guilty of embezzlement; no punishment is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "converts the same or the proceeds thereof to his own use",
+    "secretes it or them"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person intrusted with any property as bailee, tenant, or lodger, or with any power of attorney for the sale or transfer thereof",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Converts the same or the proceeds thereof to his own use, or secretes it or them",
+     "ways": [
+      "converts",
+      "secretes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently",
+      "With a fraudulent intent to convert to his own use (for secreting)"
+     ]
+    }
+   ]
+  }
+ },
+ "508": {
+  "review": {
+   "title": "Embezzlement by employees",
+   "isOffense": true,
+   "plain": "A clerk, agent, or servant who fraudulently takes or hides another's property that came into their care through their employment is guilty of embezzlement; no punishment is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "appropriates to his own use",
+    "secretes"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A clerk, agent, or servant of any person",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of embezzlement (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Appropriates to his own use, or secretes, any property of another",
+     "ways": [
+      "appropriates",
+      "secretes"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property came into his control or care by virtue of his employment as such clerk, agent, or servant"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Fraudulently",
+      "With a fraudulent intent to appropriate to his own use (for secreting)"
+     ]
+    }
+   ]
+  }
+ },
+ "509": {
+  "review": {
+   "title": "No separate taking needed for embezzlement",
+   "isOffense": false,
+   "plain": "States that a distinct act of taking is not necessary to constitute embezzlement."
+  }
+ },
+ "510": {
+  "review": {
+   "title": "Debt instruments can be embezzled",
+   "isOffense": false,
+   "plain": "States that an executed evidence of debt negotiable by delivery only can be embezzled whether or not it was delivered or issued as a valid instrument."
+  }
+ },
+ "511": {
+  "review": {
+   "title": "Good-faith claim of title defense",
+   "isOffense": false,
+   "plain": "Makes it a defense to embezzlement that the property was taken openly under a good-faith claim of title, but not for keeping property to offset debts owed."
+  }
+ },
+ "512": {
+  "review": {
+   "title": "Intent to restore is no defense",
+   "isOffense": false,
+   "plain": "States that intending to restore embezzled property is no defense or mitigation unless it was restored before charges were filed."
+  }
+ },
+ "513": {
+  "review": {
+   "title": "Restoring property before charges",
+   "isOffense": false,
+   "plain": "Lets the court reduce punishment, but gives no defense, when the accused voluntarily restores or tenders embezzled property before charges are filed."
+  }
+ },
+ "514": {
+  "review": {
+   "title": "Punishment for embezzlement",
+   "isOffense": true,
+   "plain": "Embezzlement is punished like theft of property of the same value or kind; embezzling public funds is a felony punishable by state prison and bars the person from holding state office.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "guilty of embezzlement"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits embezzlement",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punishable in the manner prescribed for theft of property of the value or kind embezzled (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the embezzlement or defalcation is of the public funds of the United States, or of this state, or of any county or municipality within this state",
+       "penalty": "A felony, punishable by imprisonment in the state prison (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "If the embezzlement or defalcation is of public funds, the person so convicted is ineligible thereafter to any office of honor, trust, or profit in this state"
+     ],
+     "terms": [
+      "Value of an evidence of debt or right of action: the sum due upon it or secured to be paid by it must be taken as its value"
+     ]
+    }
+   ]
+  }
+ },
+ "515": {
+  "review": {
+   "title": "Elder victims as aggravating factor",
+   "isOffense": false,
+   "plain": "Makes an elder or dependent victim a circumstance in aggravation when sentencing a felony embezzlement conviction."
+  }
+ },
+ "518": {
+  "review": {
+   "title": "Extortion defined",
+   "isOffense": false,
+   "plain": "Defines extortion as obtaining property, other consideration, or an official act through wrongful force or fear or under color of official right, defines \"consideration,\" and excludes certain minors."
+  }
+ },
+ "519": {
+  "review": {
+   "title": "Threats that constitute extortion",
+   "isOffense": false,
+   "plain": "Lists the threats that can induce the fear needed for extortion, such as threats of injury, accusing someone of a crime, exposing secrets, or reporting immigration status."
+  }
+ },
+ "520": {
+  "review": {
+   "title": "Extortion by force or threat",
+   "isOffense": true,
+   "plain": "Extorting property or other consideration by force or a threat listed in Section 519, short of robbery or carjacking, is punishable by two, three, or four years under the felony jail sentencing rules.",
+   "category": "Violence & Threats",
+   "maxYears": 4,
+   "maxPlus": true,
+   "acts": [
+    "extorts property or other consideration from another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for two, three or four years",
+      "min": null,
+      "max": 4,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Extorts property or other consideration from another by means of force, or any threat, such as is mentioned in Section 519",
+     "ways": [
+      "force",
+      "any threat, such as is mentioned in Section 519"
+     ],
+     "tags": [],
+     "conditions": [
+      "Under circumstances not amounting to robbery or carjacking"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "521": {
+  "review": {
+   "title": "Extortion under color of official right",
+   "isOffense": true,
+   "plain": "Committing extortion under color of official right is a misdemeanor where no different punishment is prescribed; this section states no term.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "commits any extortion under color of official right"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits any extortion under color of official right",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "A different punishment is not prescribed in this Code"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "522": {
+  "review": {
+   "title": "Obtaining a signature by extortion",
+   "isOffense": true,
+   "plain": "Using extortionate means to get someone's signature on a paper that would transfer property or create a debt is punished as if the debt or right itself were obtained; no term is stated here.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "obtains from another his signature to any paper or instrument"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Punishable in the same manner as if the actual delivery of such debt, demand, charge, or right of action were obtained (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Obtains from another his signature to any paper or instrument by any extortionate means",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "If such signature were freely given, any property would be transferred, or any debt, demand, charge, or right of action created"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "523": {
+  "review": {
+   "title": "Threatening letters and ransomware",
+   "isOffense": true,
+   "plain": "Sending a threatening letter to extort property, or introducing ransomware to extort it, is punished as if the property had actually been obtained; ransomware is punished under Section 520.",
+   "category": "Violence & Threats",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "sends or delivers to any person any letter or other writing",
+    "introduces ransomware into any computer, computer system, or computer network"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to extort property or other consideration from another"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Sends or delivers to any person any letter or other writing, whether subscribed or not, expressing or implying, or adapted to imply, any threat such as is specified in Section 519",
+     "ways": [
+      "sends",
+      "delivers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punishable in the same manner as if such property or other consideration were actually obtained by means of such threat (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Introduces ransomware into any computer, computer system, or computer network",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Set in Section 520",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Prosecution pursuant to this subdivision does not prohibit or limit prosecution under any other law"
+     ],
+     "terms": [
+      "\"Ransomware\": a computer contaminant, as defined in Section 502, or lock placed or introduced without authorization into a computer, computer system, or computer network that restricts access by an authorized person to the computer, computer system, computer network, or any data therein under circumstances in which the person responsible for the placement or introduction of the ransomware demands payment of money or other consideration to remove the computer contaminant, restore access, or otherwise remediate the impact of the computer contaminant or lock",
+      "Responsible for placing or introducing ransomware: the person directly places or introduces the ransomware or directs or induces another person to do so, with the intent of demanding payment or other consideration to remove the ransomware, restore access, or otherwise remediate the impact of the ransomware"
+     ]
+    }
+   ]
+  }
+ },
+ "524": {
+  "review": {
+   "title": "Attempted extortion",
+   "isOffense": true,
+   "plain": "Attempting to extort property or other consideration by a threat listed in Section 519 is punishable by up to one year in county jail or state prison, a fine up to $10,000, or both.",
+   "category": "Violence & Threats",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "attempts, by means of any threat, such as is specified in Section 519 of this code, to extort property or other consideration from another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not longer than one year or in the state prison or by fine not exceeding ten thousand dollars ($10,000), or by both such fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Attempts, by means of any threat, such as is specified in Section 519, to extort property or other consideration from another",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "525": {
+  "review": {
+   "title": "Elder victims as aggravating factor",
+   "isOffense": false,
+   "plain": "Makes an elder or dependent victim a circumstance in aggravation when sentencing a felony extortion conviction."
+  }
+ },
+ "526": {
+  "review": {
+   "title": "Delivering fake court papers to obtain property",
+   "isOffense": true,
+   "plain": "Delivering a paper made to look like a court order or process, to get property or other consideration from someone, is a misdemeanor; each delivery is a separate offense.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "delivers or causes to be delivered to the other person any paper, document or written, typed or printed form"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Delivers or causes to be delivered to the other person any paper, document or written, typed or printed form purporting to be an order or other process of a court, or designed or calculated to cause or lead the other person to believe it to be an order or other process of a court",
+     "ways": [
+      "delivers",
+      "causes to be delivered"
+     ],
+     "tags": [],
+     "conditions": [
+      "In fact such paper, document or written, typed or printed form is not an order or process of a court"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to obtain from another person any property or other consideration"
+     ],
+     "consequences": [
+      "Each separate delivery of any paper, document or written, typed or printed form shall constitute a separate offense"
+     ]
+    }
+   ]
+  }
+ },
+ "527": {
+  "review": {
+   "title": "Selling or printing fake court forms",
+   "isOffense": true,
+   "plain": "Selling, printing, publishing, or distributing papers designed to look like court orders or process is a misdemeanor; each act is a separate offense, and the court may order the papers destroyed.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "acts": [
+    "sell or offer for sale, print, publish, or distribute any paper, document or written, typed or printed form"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells or offers for sale, prints, publishes, or distributes any paper, document or written, typed or printed form, designed or calculated to cause or lead any person to believe it to be, or that it will be used as an order or other process of a court",
+     "ways": [
+      "sell",
+      "offer for sale",
+      "print",
+      "publish",
+      "distribute"
+     ],
+     "tags": [],
+     "conditions": [
+      "In fact such paper, document or written, typed or printed form is not to be used as the order or process of a court"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "Each separate publication, printing, distribution, sale or offer to sell shall constitute a separate offense",
+      "In addition to any other sentence imposed, the court may order that all such papers, documents or forms in the possession or under the control of the person be delivered to the court or its clerk for destruction"
+     ]
+    }
+   ]
+  }
+ },
+ "528": {
+  "review": {
+   "title": "Marrying under a false identity",
+   "isOffense": true,
+   "plain": "Falsely impersonating another person and, in that assumed character, marrying or pretending to marry someone is a felony; this section states no term.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "falsely personates another, and in such assumed character marries or pretends to marry, or to sustain the marriage relation towards another"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Falsely personates another, and in such assumed character marries or pretends to marry, or to sustain the marriage relation towards another",
+     "ways": [
+      "marries",
+      "pretends to marry",
+      "pretends to sustain the marriage relation"
+     ],
+     "tags": [],
+     "conditions": [
+      "With or without the connivance of such other"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "528.5": {
+  "review": {
+   "title": "Online impersonation",
+   "isOffense": true,
+   "plain": "Knowingly and without consent credibly impersonating a real person online or electronically to harm, intimidate, threaten, or defraud someone is punishable by up to one year in county jail, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "credibly impersonates another actual person through or on an Internet Web site or by other electronic means"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Credibly impersonates another actual person through or on an Internet Web site or by other electronic means",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without consent"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowingly"
+     ],
+     "intent": [
+      "For purposes of harming, intimidating, threatening, or defrauding another person"
+     ],
+     "terms": [
+      "\"Credible\": another person would reasonably believe, or did reasonably believe, that the defendant was or is the person who was impersonated",
+      "\"Electronic means\": includes opening an e-mail account or an account or profile on a social networking Internet Web site in another person’s name"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "a person suffers damage or loss by reason of a violation of subdivision (a)",
+       "penalty": "May bring a civil action against the violator for compensatory damages and injunctive relief or other equitable relief",
+       "min": null,
+       "max": 0,
+       "flags": [
+        "civil"
+       ]
+      }
+     ],
+     "consequences": [
+      "This section shall not preclude prosecution under any other law"
+     ]
+    }
+   ]
+  }
+ },
+ "529": {
+  "review": {
+   "title": "False personation",
+   "isOffense": true,
+   "plain": "Falsely impersonating another and, in that character, posting bail, signing or proving documents, or doing acts that could create liability or benefit is punishable by up to $10,000, county jail, or a felony jail term.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "falsely personates another in either his or her private or official capacity",
+    "Becomes bail or surety for any party in any proceeding whatever",
+    "Verifies, publishes, acknowledges, or proves, in the name of another person, any written instrument",
+    "Does any other act"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Falsely personates another and in that assumed character becomes bail or surety for any party in any proceeding whatever, before any court or officer authorized to take that bail or surety",
+     "ways": [
+      "bail",
+      "surety"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Falsely personates another and in that assumed character verifies, publishes, acknowledges, or proves, in the name of another person, any written instrument",
+     "ways": [
+      "verifies",
+      "publishes",
+      "acknowledges",
+      "proves"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent that the same may be recorded, delivered, or used as true"
+     ]
+    },
+    {
+     "where": "(a)(3)",
+     "act": "Falsely personates another and in that assumed character does any other act",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "If done by the person falsely personated, he might, in any event, become liable to any suit or prosecution, or to pay any sum of money, or to incur any charge, forfeiture, or penalty, or any benefit might accrue to the party personating, or to any other person"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}

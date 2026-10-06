@@ -47,11 +47,11 @@ MA_REGIONS = {
   """,
 }
 
-# California list page: the same regions, for Title 8 of Part 1 of the Penal Code.
-CA_TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=&article="
+# California list page: the same regions, for Titles 8 and 13 of Part 1 of the Penal Code.
+CA_TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title={}.&part=1.&chapter=&article="
 CA_REGIONS = {
     "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="../ny/">New York</a><a href="./" aria-current="page">California</a></nav>',
-    "lede": f'<p class="lede">Every crime in <a href="{CA_TITLE_URL}" target="_blank" rel="noopener" title="Title 8 (Of Crimes Against the Person): official text on leginfo.legislature.ca.gov">Title 8 (Of Crimes Against the Person)</a> of the <a href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener" title="The Penal Code on leginfo.legislature.ca.gov">California Penal Code</a><span id="crimecount"></span></p>',
+    "lede": f'<p class="lede">Every crime in <a href="{CA_TITLE_URL.format(8)}" target="_blank" rel="noopener" title="Title 8 (Of Crimes Against the Person): official text on leginfo.legislature.ca.gov">Title 8 (Of Crimes Against the Person)</a> and <a href="{CA_TITLE_URL.format(13)}" target="_blank" rel="noopener" title="Title 13 (Of Crimes Against Property): official text on leginfo.legislature.ca.gov">Title 13 (Of Crimes Against Property)</a> of the <a href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener" title="The Penal Code on leginfo.legislature.ca.gov">California Penal Code</a><span id="crimecount"></span></p>',
     "about": """
           <p>California criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Code may follow.</p>
           <ul>
@@ -64,15 +64,15 @@ CA_REGIONS = {
         """,
     "footer": """
     <p>Section text is the official text of the California Penal Code from the <a id="srclink" href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener">California Legislative Information</a> site, current as of the download date shown under About. Section names, summaries, crime types, maximum-penalty labels, crime breakdowns, and highlighting were prepared with AI assistance from that text and may contain errors, so rely on the official text.</p>
-    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, venue, civil remedies). Many California crimes are defined outside Title 8, for example sex crimes (Penal Code Title 9), property crimes such as theft and burglary (Title 13), drug crimes (Health and Safety Code), and driving offenses (Vehicle Code). Sentence enhancements set in other sections, such as Sections 12022 to 12022.9, are not included.</p>
+    <p>Not included: repealed sections and sections that do not themselves create a crime (definitions, procedure, venue, civil remedies). Many California crimes are defined outside Titles 8 and 13, for example sex crimes (Penal Code Title 9), weapons (Part 6), drug crimes (Health and Safety Code), and driving offenses (Vehicle Code). Sentence enhancements set in other sections, such as Sections 12022 to 12022.9, are not included.</p>
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   """,
 }
-# New York list page: the same regions, for Title H of Part 3 of the Penal Law.
-NY_TITLE_URL = "https://www.nysenate.gov/legislation/laws/PEN/P3TH"
+# New York list page: the same regions, for Titles H, I and J of Part 3 of the Penal Law.
+NY_URL = "https://www.nysenate.gov/legislation/laws/PEN/"
 NY_REGIONS = {
     "nav": '<nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="./" aria-current="page">New York</a><a href="../ca/">California</a></nav>',
-    "lede": f'<p class="lede">Every crime in <a href="{NY_TITLE_URL}" target="_blank" rel="noopener" title="Title H, Offenses Against the Person Involving Physical Injury, Sexual Conduct, Restraint and Intimidation: official text on nysenate.gov">Title H (Offenses Against the Person)</a> of the <a href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener" title="The Penal Law on nysenate.gov">New York Penal Law</a><span id="crimecount"></span></p>',
+    "lede": f'<p class="lede">Every crime in <a href="{NY_URL}P3TH" target="_blank" rel="noopener" title="Title H, Offenses Against the Person Involving Physical Injury, Sexual Conduct, Restraint and Intimidation: official text on nysenate.gov">Title H (Offenses Against the Person)</a>, <a href="{NY_URL}P3TI" target="_blank" rel="noopener" title="Title I, Offenses Involving Damage to and Intrusion Upon Property: official text on nysenate.gov">Title I (Property Damage and Intrusion)</a> and <a href="{NY_URL}P3TJ" target="_blank" rel="noopener" title="Title J, Offenses Involving Theft: official text on nysenate.gov">Title J (Theft)</a> of the <a href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener" title="The Penal Law on nysenate.gov">New York Penal Law</a><span id="crimecount"></span></p>',
     "about": """
           <p>New York criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Law may follow.</p>
           <ul>
@@ -85,7 +85,7 @@ NY_REGIONS = {
         """,
     "footer": """
     <p>Section names are the official titles, and section text is the official text of the New York Penal Law from the <a id="srclink" href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener">New York State Senate Open Legislation API</a>, downloaded on the date shown under About. Summaries, crime types, class labels, crime breakdowns, and highlighting were prepared with AI assistance and may contain errors; the official text is what counts. Each breakdown uses only the text of its own section.</p>
-    <p>Not included: sections that do not themselves create a crime (definitions, rules of consent, defenses, procedure). Many New York crimes are defined outside Title H, for example burglary and arson (Title I), larceny and robbery (Title J), drug crimes (Article 220), weapons (Article 265), and driving offenses (Vehicle and Traffic Law). Sentences are set in Penal Law Articles 70 and 80.</p>
+    <p>Not included: sections that do not themselves create a crime (definitions, rules of consent, defenses, procedure). Many New York crimes are defined outside Titles H, I and J, for example forgery and fraud (Title K), drug crimes (Article 220), weapons (Article 265), and driving offenses (Vehicle and Traffic Law). Sentences are set in Penal Law Articles 70 and 80.</p>
     <p><b>This is general information, not legal advice.</b> If you are facing a legal issue, talk to a lawyer. If you are charged with a crime that can lead to jail and cannot afford a lawyer, you have the right to a court-appointed attorney.</p>
   """,
 }

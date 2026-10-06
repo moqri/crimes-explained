@@ -727,7 +727,7 @@
       else if (g.nyThis) {
         const w = g.nyThis.toLowerCase();
         out += w.endsWith('article') ? (ART_IDS[currentChapter] ? `<a class="xref ext" href="${nyArtUrl(ART_IDS[currentChapter])}" target="_blank" rel="noopener" title="Penal Law article ${currentChapter} on nysenate.gov">${raw}</a>` : raw)
-          : w.endsWith('title') ? `<a class="xref ext" href="${nyArtUrl('P3TH')}" target="_blank" rel="noopener" title="Penal Law Part 3, Title H on nysenate.gov">${raw}</a>`
+          : w.endsWith('title') ? ((t) => t ? `<a class="xref ext" href="${nyArtUrl(t)}" target="_blank" rel="noopener" title="Penal Law Part 3, Title ${t.slice(3)} on nysenate.gov">${raw}</a>` : raw)((ART_IDS[currentChapter] || '').replace(/A[^A]*$/, ''))
           : `<a class="xref ext" href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener" title="The Penal Law on nysenate.gov">${raw}</a>`;
       }
       else if (g.nyArtN) {
@@ -802,11 +802,18 @@
   let currentChapter = null;  // chapter of the section being rendered, for "this chapter"
   function chapterLink(num, label) {
     if (NY) return ART_IDS[num] ? `<a class="xref ext" href="${nyArtUrl(ART_IDS[num])}" target="_blank" rel="noopener" title="Penal Law article ${num} on nysenate.gov">${label}</a>` : label;
-    if (CA) return `<a class="xref ext" href="https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=8.&part=1.&chapter=${num}.&article=" target="_blank" rel="noopener" title="Penal Code, Title 8, Chapter ${num} on leginfo.legislature.ca.gov">${label}</a>`;
+    if (CA) { const [t, ch] = String(num).includes(':') ? String(num).split(':') : ['8', num];   // keys are "<title>:<chapter>", e.g. "13:5"
+      return `<a class="xref ext" href="https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title=${t}.&part=1.&chapter=${ch}.&article=" target="_blank" rel="noopener" title="Penal Code, Title ${t}, Chapter ${ch} on leginfo.legislature.ca.gov">${label}</a>`; }
     if (MA) return `<a class="xref ext" href="https://malegislature.gov/Laws/GeneralLaws/Chapter${num}" target="_blank" rel="noopener" title="G.L. chapter ${num} on malegislature.gov">${label}</a>`;
     const n = parseInt(num), part = T18_PARTS.find(([lo, hi]) => n >= lo && n <= hi);
     if (!part) return label;
     return `<a class="xref ext" href="https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-part${part[2]}-chap${num}.htm" target="_blank" rel="noopener" title="18 U.S.C. chapter ${num} on GovInfo">${label}</a>`;
+  }
+  // How a chapter is named on cards and in the filter: "Art. 120" (New York), "Title 13, Ch. 5" (California), "Ch. 47".
+  function chapterName(num) {
+    if (NY) return `Art. ${num}`;
+    if (CA && String(num).includes(':')) { const [t, ch] = String(num).split(':'); return `Title ${t}, Ch. ${ch}`; }
+    return `Ch. ${num}`;
   }
   function chapterLinks(raw, list, after) {
     // First "of this title / of title X / of the …" in the rest of the clause decides whose chapter this is.
@@ -902,7 +909,7 @@
     crimes.forEach(c => bySection.set(c.section, c));
     const chapters = new Map(); crimes.forEach(c => chapters.set(c.chapter, c.chapterTitle));
     const perChapter = {}; crimes.forEach(c => perChapter[c.chapter] = (perChapter[c.chapter] || 0) + 1);
-    for (const [num, title] of chapters) chapterSel.add(new Option(`${NY ? 'Art.' : 'Ch.'} ${num} — ${title} (${perChapter[num]})`, num));
+    for (const [num, title] of chapters) chapterSel.add(new Option(`${chapterName(num)} — ${title} (${perChapter[num]})`, num));
     for (const cat of [...CATEGORIES].sort((x, y) => x.localeCompare(y))) {
       const n = crimes.filter(c => c.category === cat).length;
       if (n) catSel.add(new Option(`${cat} (${n})`, cat));
@@ -1069,7 +1076,7 @@
       ${c.category ? `<span class="chip">${esc(c.category)}</span>` : ''}
       ${c.later ? '<span class="chip" title="Changed by a law passed after the edition shown">Amended 2025</span>' : ''}
       ${FREQ ? `<span class="chip freq${c.sentenced ? '' : ' none'}" title="People sentenced in federal court in fiscal year ${FREQ.fiscalYear} with at least one conviction under this section (U.S. Sentencing Commission). Federal cases only.">${c.sentenced ? `${c.sentenced.toLocaleString()} sentenced` : 'None sentenced'} (FY${FREQ.fiscalYear})</span>` : ''}
-      ${chapterLink(c.chapter, `${NY ? 'Art.' : 'Ch.'} ${esc(c.chapter)} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
+      ${chapterLink(c.chapter, `${esc(chapterName(c.chapter))} · ${esc(c.chapterTitle)}`).replace('class="xref ext"', 'class="chip chiplink"')}`;
   }
 
   function render() {

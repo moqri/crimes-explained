@@ -1,0 +1,1173 @@
+{
+ "556.3": {
+  "review": {
+   "title": "Unlawful signs are a public nuisance",
+   "isOffense": false,
+   "plain": "Declares any sign, picture, advertisement, or device placed on property in violation of Sections 556 and 556.1 to be a public nuisance."
+  }
+ },
+ "556.4": {
+  "review": {
+   "title": "Evidence of who posted a sign",
+   "isOffense": false,
+   "plain": "Allows names, phone numbers, addresses, and other identifying information on a sign or advertisement to be used as evidence, and to create an inference, of who is responsible for posting it."
+  }
+ },
+ "558": {
+  "review": {
+   "title": "Entering Scripps Institution lands",
+   "isOffense": true,
+   "plain": "Anyone other than University of California officers, employees, students, or licensees is forbidden to enter, trespass on, or interfere with the Scripps Institution of Oceanography lands or adjacent state waters; no punishment is stated in this section.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "enter upon those lands bordering on the Pacific Ocean in San Diego County",
+    "trespass upon the same",
+    "interfere with the exclusive possession, occupation, and use thereof by the Regents of the University of California"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "Every person other than an officer, employee or student of the University of California, or licensee of the Regents of the University of California",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "No punishment is stated in this section",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters upon those lands bordering on the Pacific Ocean in San Diego County granted to the Regents of the University of California for the Scripps Institution of Oceanography, or upon state waters adjacent thereto, or trespasses upon the same",
+     "ways": [
+      "enters",
+      "trespasses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The rights of navigation and fishery reserved to the people by the Constitution are not affected"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Interferes with the exclusive possession, occupation, and use thereof by the Regents of the University of California",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The rights of navigation and fishery reserved to the people by the Constitution are not affected"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "558.1": {
+  "review": {
+   "title": "Punishment for Scripps lands trespass",
+   "isOffense": true,
+   "plain": "Violating Section 558, which bars unauthorized entry onto the Scripps Institution of Oceanography lands, is a misdemeanor punishable by a fine up to $600, up to 30 days' imprisonment, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.08,
+   "acts": [
+    "violates any of the provisions of Section 558"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor and shall be punished by a fine of not more than six hundred dollars ($600) or by imprisonment for not more than 30 days, or by both such fine and imprisonment",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Violates any of the provisions of Section 558",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "560": {
+  "review": {
+   "title": "Issuing document of title for goods not received",
+   "isOffense": true,
+   "plain": "A bailee issuing a document of title, or anyone securing its issue or negotiating it for value, knowing the goods were not actually received or under the bailee's control, faces a felony jail term, a fine up to $10,000, or both.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "issues or aids in issuing a document of title",
+    "secures the issue by a bailee of a document of title",
+    "negotiates or transfers for value a document of title"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "knowledge": [
+     "Knowing that the goods for which that document is issued have not been actually received by that bailee or are not under his or her control at the time of issuing that receipt"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 or by a fine not exceeding ten thousand dollars ($10,000) or by both that fine and imprisonment, for each offense (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues or aids in issuing a document of title",
+     "ways": [
+      "issues",
+      "aids in issuing"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A bailee, as defined in Section 7102 of the Uniform Commercial Code"
+    },
+    {
+     "where": "",
+     "act": "Secures the issue by a bailee of a document of title",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": null
+    },
+    {
+     "where": "",
+     "act": "Negotiates or transfers for value a document of title",
+     "ways": [
+      "negotiates",
+      "transfers for value"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": null
+    }
+   ]
+  }
+ },
+ "560.1": {
+  "review": {
+   "title": "Issuing receipt with false statement",
+   "isOffense": true,
+   "plain": "A bailee who fraudulently issues, or helps issue, a receipt for goods knowing it contains a false statement is punishable by up to one year of imprisonment, a fine up to $1,000, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "issuing a receipt for goods"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A bailee, as defined in Section 7102 of the Uniform Commercial Code",
+    "intent": [
+     "Fraudulently"
+    ],
+    "knowledge": [
+     "Knowing that it contains any false statement"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment not exceeding one year or by a fine not exceeding one thousand dollars ($1,000) or by both, for each offense",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues or aids in issuing a receipt for goods",
+     "ways": [
+      "issues",
+      "aids in issuing"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "560.2": {
+  "review": {
+   "title": "Delivering goods while document of title outstanding",
+   "isOffense": true,
+   "plain": "A bailee who delivers goods knowing an outstanding, uncanceled negotiable document of title covers them, without first getting that document back, is punishable by up to one year of imprisonment, a fine up to $1,000, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "delivers goods out of the possession of such bailee"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A bailee, as defined in Section 7102 of the Uniform Commercial Code",
+    "knowledge": [
+     "Knowing that a negotiable document of title the negotiation of which would transfer the right to the possession of such goods is outstanding and uncanceled"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment not exceeding one year or by a fine not exceeding one thousand dollars ($1,000) or by both, for each offense",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Delivers goods out of the possession of such bailee",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without obtaining possession of such document at or before the time for such delivery"
+     ],
+     "exceptions": [
+      "The cases in Sections 7210, 7308, 7601 and 7602 of the Uniform Commercial Code"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "560.3": {
+  "review": {
+   "title": "Negotiating document of title without title",
+   "isOffense": true,
+   "plain": "Depositing goods one does not own, or that carry a security interest, taking a negotiable document of title, and then negotiating it for value to deceive without disclosure is punishable by up to one year, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "deposits goods with a bailee",
+    "negotiates for value"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to deceive"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment not exceeding one year or by a fine not exceeding one thousand dollars ($1,000) or by both",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Deposits goods with a bailee, takes for such goods a negotiable document of title, and afterwards negotiates it for value",
+     "ways": [
+      "deposits goods",
+      "takes a negotiable document of title",
+      "negotiates for value"
+     ],
+     "tags": [],
+     "conditions": [
+      "The person has not title to the goods, or there is a security interest upon them",
+      "Without disclosing his want of title or the existence of the security interest"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "560.4": {
+  "review": {
+   "title": "Issuing unmarked duplicate document of title",
+   "isOffense": true,
+   "plain": "A bailee who issues a duplicate or additional negotiable document of title, knowing an earlier one is outstanding, without plainly marking it \"duplicate\" faces a felony jail term, a fine up to $10,000, or both.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "issues or aids in issuing a duplicate or additional negotiable document of title for goods"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A bailee, as defined in Section 7102 of the Uniform Commercial Code",
+    "knowledge": [
+     "Knowing that a former negotiable document of title for the same goods or any part of them is outstanding and uncanceled"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 or by a fine not exceeding ten thousand dollars ($10,000) or by both that fine and imprisonment, for each offense (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues or aids in issuing a duplicate or additional negotiable document of title for goods",
+     "ways": [
+      "issues",
+      "aids in issuing"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without plainly placing upon the face thereof the word “duplicate”"
+     ],
+     "exceptions": [
+      "Bills in a set",
+      "Documents issued as substitutes for lost, stolen or destroyed documents"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "560.5": {
+  "review": {
+   "title": "Warehouseman hiding own ownership of goods",
+   "isOffense": true,
+   "plain": "A warehouseman, or its officers, agents, or servants, who knowingly issues a negotiable document of title for goods the warehouseman owns without stating that ownership is punishable by up to one year, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "issues or aids in issuing a negotiable document of title for such goods which does not state such ownership"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A warehouseman, or any of his officers, agents, or servants",
+    "knowledge": [
+     "Knowing of this ownership"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment not exceeding one year or by a fine not exceeding one thousand dollars ($1,000) or by both, for each offense",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues or aids in issuing a negotiable document of title for such goods which does not state such ownership",
+     "ways": [
+      "issues",
+      "aids in issuing"
+     ],
+     "tags": [],
+     "conditions": [
+      "There are deposited with or held by a warehouseman goods of which he is owner either solely or jointly or in common with others"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "560.6": {
+  "review": {
+   "title": "False receipts for out-of-state warehouse goods",
+   "isOffense": true,
+   "plain": "Knowingly issuing or transferring in California false or unverified receipts for goods in out-of-state warehouses is a misdemeanor punishable by a $50 to $1,000 fine and up to six months in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 0.5,
+   "acts": [
+    "issue, sell, pledge, assign, or transfer in this State any receipt, certificate, or other written instrument purporting to be a warehouse receipt",
+    "issue, sell, pledge, assign, or transfer in this State any receipt, certificate, or other written instrument for goods, wares, or merchandise claimed to be stored or deposited",
+    "issue, sign, sell, pledge, assign, or transfer in this State any receipt, certificate, or other written instrument evidencing, or purporting to evidence, the creation of a security interest in, or sale, or bailment, of any goods"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, and shall be fined not less than fifty dollars ($50) nor more than one thousand dollars ($1,000), and may in addition be imprisoned in the county jail for not exceeding six months",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(1)",
+     "act": "Issues, sells, pledges, assigns, or transfers in this State any receipt, certificate, or other written instrument purporting to be a warehouse receipt, or in the similitude of a warehouse receipt, or designed to be understood as a warehouse receipt, for goods, wares, or merchandise stored or deposited, or claimed to be stored or deposited, in any warehouse, public or private, in any other state",
+     "ways": [
+      "issues",
+      "sells",
+      "pledges",
+      "assigns",
+      "transfers"
+     ],
+     "tags": [],
+     "conditions": [
+      "The receipt, certificate, or other written instrument has not been issued by the warehouseman operating such warehouse"
+     ],
+     "exceptions": [
+      "The issue, signing, sale, pledge, assignment, or transfer of bona fide warehouse receipts issued by the warehouseman operating public or bonded warehouses in other states according to the laws of the state in which such warehouses are located"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "(2)",
+     "act": "Issues, sells, pledges, assigns, or transfers in this State any receipt, certificate, or other written instrument for goods, wares, or merchandise claimed to be stored or deposited, in any warehouse, public or private, in any other state",
+     "ways": [
+      "issues",
+      "sells",
+      "pledges",
+      "assigns",
+      "transfers"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The issue, signing, sale, pledge, assignment, or transfer of bona fide warehouse receipts issued by the warehouseman operating public or bonded warehouses in other states according to the laws of the state in which such warehouses are located"
+     ],
+     "defenses": [],
+     "knowledge": [
+      "Knowing that there is no such warehouse located at the place named in such receipt, certificate, or other written instrument, or if there is a warehouse at such place knowing that there are no goods, wares, or merchandise stored or deposited therein as specified"
+     ]
+    },
+    {
+     "where": "(3)",
+     "act": "Issues, signs, sells, pledges, assigns, or transfers in this State any receipt, certificate, or other written instrument evidencing, or purporting to evidence, the creation of a security interest in, or sale, or bailment, of any goods, wares, or merchandise stored or deposited, or claimed to be stored or deposited, in any warehouse, public or private, in any other state",
+     "ways": [
+      "issues",
+      "signs",
+      "sells",
+      "pledges",
+      "assigns",
+      "transfers"
+     ],
+     "tags": [],
+     "conditions": [
+      "The instrument does not plainly designate the number and location of such warehouse and contain a full, true, and complete copy of the receipt issued by the warehouseman operating the warehouse"
+     ],
+     "exceptions": [
+      "The issue, signing, sale, pledge, assignment, or transfer of bona fide warehouse receipts issued by the warehouseman operating public or bonded warehouses in other states according to the laws of the state in which such warehouses are located"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "565": {
+  "review": {
+   "title": "Misusing branded dairy equipment ($950 or less)",
+   "isOffense": true,
+   "plain": "An unauthorized person who possesses, uses, or destroys the brand on registered dairy containers, cabinets, or equipment worth $950 or less commits a misdemeanor punishable by up to six months in county jail, a $1,000 fine, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.5,
+   "acts": [
+    "possess or use, or to obliterate or destroy the brand registration upon, containers (including milk cases), cabinets, or other dairy equipment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An unauthorized person",
+    "terms": [
+     "\"Unauthorized person\": has the meaning of that term as defined in Section 34564 of the Food and Agricultural Code"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A misdemeanor, punishable by a fine not exceeding one thousand dollars ($1,000), or by imprisonment in the county jail not exceeding six months, or both",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses or uses, or obliterates or destroys the brand registration upon, containers (including milk cases), cabinets, or other dairy equipment",
+     "ways": [
+      "possesses",
+      "uses",
+      "obliterates the brand registration",
+      "destroys the brand registration"
+     ],
+     "tags": [],
+     "conditions": [
+      "The containers, cabinets, or other dairy equipment have a value of nine hundred fifty dollars ($950) or less",
+      "The containers, cabinets, or other dairy equipment are marked with a brand that is registered pursuant to Chapter 10 (commencing with Section 34501) of Part 1 of Division 15 of the Food and Agricultural Code"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "566": {
+  "review": {
+   "title": "Misusing branded dairy equipment (over $950)",
+   "isOffense": true,
+   "plain": "An unauthorized person who possesses, uses, or destroys the brand on registered dairy containers, cabinets, or equipment worth over $950 commits a felony punishable by a $1,500 fine, a felony jail term, or both.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "possess or use, or to obliterate or destroy the brand registration upon, containers (including milk cases), cabinets, or other dairy equipment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "An unauthorized person",
+    "terms": [
+     "\"Unauthorized person\": has the meaning of that term as defined in Section 34564 of the Food and Agricultural Code"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "A felony, punishable by a fine not exceeding one thousand five hundred dollars ($1,500), or by imprisonment pursuant to subdivision (h) of Section 1170, or both (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses or uses, or obliterates or destroys the brand registration upon, containers (including milk cases), cabinets, or other dairy equipment",
+     "ways": [
+      "possesses",
+      "uses",
+      "obliterates the brand registration",
+      "destroys the brand registration"
+     ],
+     "tags": [],
+     "conditions": [
+      "The containers, cabinets, or other dairy equipment have a value in excess of nine hundred fifty dollars ($950)",
+      "The containers, cabinets, or other dairy equipment are marked with a brand that is registered pursuant to Chapter 10 (commencing with Section 34501) of Part 1 of Division 15 of the Food and Agricultural Code"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "570": {
+  "review": {
+   "title": "Punishment for unlawful subleasing of vehicles",
+   "isOffense": true,
+   "plain": "Unlawful subleasing of a motor vehicle, as defined in Section 571, is punishable by up to one year in county jail or a felony jail term, a fine up to $10,000, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "unlawful subleasing of a motor vehicle"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail for not more than one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by a fine of not more than ten thousand dollars ($10,000), or by both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits an act of unlawful subleasing of a motor vehicle, as defined in Section 571",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "571": {
+  "review": {
+   "title": "Unlawful subleasing of a motor vehicle defined",
+   "isOffense": false,
+   "plain": "Defines unlawful subleasing of a motor vehicle: a non-party who, for compensation and without the creditor's written consent, transfers or arranges transfer of rights in a vehicle whose contract bars transfer."
+  }
+ },
+ "572": {
+  "review": {
+   "title": "Contract parties not unlawful subleasers",
+   "isOffense": false,
+   "plain": "Says a transfer, or arranging a transfer, by a party to the vehicle lease, sale, or security contract is not unlawful subleasing, and the chapter does not affect enforcement of those contracts."
+  }
+ },
+ "573": {
+  "review": {
+   "title": "Unlawful subleasing penalties are cumulative",
+   "isOffense": false,
+   "plain": "Says the chapter's penalties add to other remedies and penalties provided by law, and that an invalid provision does not affect the rest of the chapter."
+  }
+ },
+ "574": {
+  "review": {
+   "title": "Unlawful subleasing definitions",
+   "isOffense": false,
+   "plain": "Defines terms such as buyer, conditional sale contract, lease contract, motor vehicle, person, security agreement, and seller for the unlawful subleasing chapter."
+  }
+ },
+ "577": {
+  "review": {
+   "title": "Carrier issuing false bill of lading",
+   "isOffense": true,
+   "plain": "A carrier, vessel master, or transportation company agent who delivers a bill of lading or receipt showing goods were shipped when they were not shipped and under the carrier's control faces a felony jail term, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "delivers any bill of lading, receipt or other voucher"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "The master, owner or agent of any vessel, or officer or agent of any railroad, express or transportation company, or otherwise being or representing any carrier",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or by a fine not exceeding one thousand dollars ($1,000), or both (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Delivers any bill of lading, receipt or other voucher, by which it appears that any merchandise of any description has been shipped on board any vessel, or delivered to any railroad, express or transportation company or other carrier",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The merchandise has not been so shipped or delivered, or is not at the time actually under the control of such carrier or the master, owner or agent of such vessel, or of some officer or agent of that company, to be forwarded as expressed in that bill of lading, receipt or voucher"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "578": {
+  "review": {
+   "title": "Warehouseman issuing receipt for goods not received",
+   "isOffense": true,
+   "plain": "A warehouseman or other depositary who issues a receipt or bill of lading for merchandise not actually received on its premises and under its control faces a felony jail term, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "issues any receipt, bill of lading, or other voucher for any merchandise of any description"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person carrying on the business of a warehouseman, wharfinger, or other depositary of property",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or by a fine not exceeding one thousand dollars ($1,000), or both (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues any receipt, bill of lading, or other voucher for any merchandise of any description",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The merchandise has not been actually received upon the premises of that person, and is not under his or her actual control at the time of issuing such instrument",
+      "Whether that instrument is issued to a person as being the owner of that merchandise or as security for any indebtedness"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "579": {
+  "review": {
+   "title": "Package contents not matching description",
+   "isOffense": false,
+   "plain": "Says no one may be convicted under Section 577 or 578 because package contents did not match the description, if the description substantially matched the outside marks, unless the accused knew the marks were untrue."
+  }
+ },
+ "580": {
+  "review": {
+   "title": "Issuing unmarked duplicate receipts",
+   "isOffense": true,
+   "plain": "A carrier or warehouseman who issues a second or duplicate receipt while an earlier one for the same merchandise is outstanding, without writing \"Duplicate\" across its face, faces a felony jail term, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "issues any second or duplicate receipt or voucher"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person mentioned in this chapter",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or by a fine not exceeding one thousand dollars ($1,000), or both (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Issues any second or duplicate receipt or voucher, of a kind specified therein",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "At a time while any former receipt or voucher for the merchandise specified in that second receipt is outstanding and uncanceled",
+      "Without writing across the face of the same the word “Duplicate,” in a plain and legible manner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "581": {
+  "review": {
+   "title": "Selling goods covered by own receipt",
+   "isOffense": true,
+   "plain": "A carrier or warehouseman who sells, hypothecates, or pledges merchandise for which it issued a bill of lading or receipt, without the holder's written consent, faces a felony jail term, a $1,000 fine, or both.",
+   "category": "Fraud & Money",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "sells, hypothecates, or pledges any merchandise for which any bill of lading, receipt, or voucher has been issued by him or her"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person mentioned in this chapter",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or by a fine not exceeding one thousand dollars ($1,000), or both (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Sells, hypothecates, or pledges any merchandise for which any bill of lading, receipt, or voucher has been issued by him or her",
+     "ways": [
+      "sells",
+      "hypothecates",
+      "pledges"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent in writing thereto of the person holding that bill, receipt, or voucher"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "583": {
+  "review": {
+   "title": "Exception for sales by legal process",
+   "isOffense": false,
+   "plain": "Says Section 581 does not apply where the property is demanded or sold by virtue of process of law."
+  }
+ },
+ "587": {
+  "review": {
+   "title": "Malicious damage to railroads",
+   "isOffense": true,
+   "plain": "Maliciously removing, damaging, or destroying any part of a railroad or its structures, or placing an obstruction on railroad tracks, is punishable by up to one year in county jail or a felony jail term.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "Removes, displaces, injures, or destroys any part of any railroad",
+    "Places any obstruction upon the rails or track of any railroad"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or imprisonment in a county jail not exceeding one year",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Removes, displaces, injures, or destroys any part of any railroad, or any track of any railroad, or any branch or branchway, switch, turnout, bridge, viaduct, culvert, embankment, station house, or other structure or fixture, or any part thereof, attached to or connected with any railroad",
+     "ways": [
+      "removes",
+      "displaces",
+      "injures",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)",
+     "act": "Places any obstruction upon the rails or track of any railroad, or of any switch, branch, branchway, or turnout connected with any railroad",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "587.1": {
+  "review": {
+   "title": "Moving a locomotive without authorization",
+   "isOffense": true,
+   "plain": "Maliciously moving a locomotive without authorization is a misdemeanor punishable by up to one year in county jail; if it creates a substantial likelihood of injury or death, it may also be a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "moves or causes to be moved"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Maliciously"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Moves or causes to be moved any locomotive",
+     "ways": [
+      "moves",
+      "causes to be moved"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authorization"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by imprisonment in the county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Moves or causes to be moved any locomotive",
+     "ways": [
+      "moves",
+      "causes to be moved"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without authorization",
+      "The moving creates a substantial likelihood of causing personal injury or death to another"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a public offense punishable by imprisonment in a county jail not exceeding one year or by imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "587a": {
+  "review": {
+   "title": "Tampering with railroad brakes or signals",
+   "isOffense": true,
+   "plain": "Tampering or interfering, without the railroad's authorization, with air brakes or other equipment on railroad cars or locomotives, or with switches or signals, is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "manipulate or in anywise tamper or interfere with any air brake or other device, appliance or apparatus in or upon any car or locomotive upon such railroad"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manipulates or in anywise tampers or interferes with any air brake or other device, appliance or apparatus in or upon any car or locomotive upon such railroad, and used or provided for use in the operation of such car or locomotive, or of any train upon such railroad, or with any switch, signal or other appliance or apparatus used or provided for use in the operation of such railroad",
+     "ways": [
+      "manipulates",
+      "tampers",
+      "interferes"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without being thereunto duly authorized by the owner, lessee, or person or corporation engaged in the operation of any railroad"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "587b": {
+  "review": {
+   "title": "Unauthorized riding on trains",
+   "isOffense": true,
+   "plain": "Climbing on, holding onto, or attaching oneself to a locomotive or railroad car without the railroad's authorization is a misdemeanor punishable by a fine up to $50, up to 30 days' imprisonment, or both.",
+   "category": "Property Crimes",
+   "maxYears": 0.08,
+   "acts": [
+    "enter into, climb upon, hold to, or in any manner attach himself to any locomotive, locomotive-engine tender, freight or passenger car upon such railroad, or any portion of any train thereon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, and shall be punished by a fine not exceeding fifty dollars ($50), or by imprisonment not exceeding 30 days, or by both such fine and imprisonment",
+      "min": null,
+      "max": 0.08,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Enters into, climbs upon, holds to, or in any manner attaches himself to any locomotive, locomotive-engine tender, freight or passenger car upon such railroad, or any portion of any train thereon",
+     "ways": [
+      "enters into",
+      "climbs upon",
+      "holds to",
+      "attaches himself to"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without being thereunto authorized by the owner, lessee, person or corporation operating any railroad"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "587c": {
+  "review": {
+   "title": "Railroad fare evasion",
+   "isOffense": true,
+   "plain": "Fraudulently evading, or attempting to evade, paying one's fare while traveling on a railroad is a misdemeanor punishable by a fine up to $500, up to six months' imprisonment, or both.",
+   "category": "Fraud & Money",
+   "maxYears": 0.5,
+   "acts": [
+    "evades, or attempts to evade the payment of his fare"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Fraudulently"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, and shall be punished by a fine of not more than five hundred dollars, or imprisonment not exceeding six months, or by both such fine and imprisonment",
+      "min": null,
+      "max": 0.5,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Evades, or attempts to evade the payment of his fare",
+     "ways": [],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "While traveling upon any railroad"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "588": {
+  "review": {
+   "title": "Damaging highways and bridges",
+   "isOffense": true,
+   "plain": "Negligently, willfully, or maliciously damaging a public highway, bridge, or lawful private way, or letting water flow onto a public highway in a way that tends to damage it or endanger traffic, is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "digs up, removes, displaces, breaks down or otherwise injures or destroys any state or other public highway or bridge",
+    "sprinkles, drains, diverts or in any manner permits water from any sprinkler, ditch, canal, flume, or reservoir to flow upon or saturate by seepage any public highway"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "mentalState": [
+     "Negligently, willfully or maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Digs up, removes, displaces, breaks down or otherwise injures or destroys any state or other public highway or bridge, or any private way, laid out by authority of law, or bridge upon any such highway or private way",
+     "ways": [
+      "digs up",
+      "removes",
+      "displaces",
+      "breaks down",
+      "otherwise injures",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Sprinkles, drains, diverts or in any manner permits water from any sprinkler, ditch, canal, flume, or reservoir to flow upon or saturate by seepage any public highway",
+     "ways": [
+      "sprinkles",
+      "drains",
+      "diverts",
+      "permits water to flow upon or saturate by seepage"
+     ],
+     "tags": [],
+     "conditions": [
+      "The act tends to damage such highway or tends to be a hazard to traffic thereon"
+     ],
+     "exceptions": [
+      "The natural flow of surface or flood waters that are not diverted, accelerated or concentrated by such person"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}

@@ -1,7 +1,7 @@
-"""Download New York Penal Law, Part 3, Title H (Offenses Against the Person Involving Physical Injury, Sexual Conduct, Restraint and Intimidation) from the NY Senate Open Legislation
-API (https://legislation.nysenate.gov/api/3). Needs a free API key (https://legislation.nysenate.gov/): put it in ny/.api_key
+"""Download New York Penal Law, Part 3, Titles H (Offenses Against the Person), I (Offenses Involving Damage to and Intrusion
+Upon Property) and J (Offenses Involving Theft) from the NY Senate Open Legislation API (https://legislation.nysenate.gov/api/3). Needs a free API key (https://legislation.nysenate.gov/): put it in ny/.api_key
 (gitignored) or the environment variable NYSENATE_API_KEY. The key is never printed or written to any file.
-Usage: python3 ny/fetch_ny.py     -> ny/raw/structure.json (tree without text) and ny/raw/titleH.json (Title H with text)
+Usage: python3 ny/fetch_ny.py     -> ny/raw/structure.json (tree without text) and ny/raw/title<H|I|J>.json (each title with text)
 """
 import datetime, json, os, sys, time, urllib.parse, urllib.request, urllib.error
 
@@ -30,22 +30,18 @@ json.dump(tree, open(os.path.join(HERE, "raw", "structure.json"), "w"), ensure_a
 def walk(d, path=()):
     yield d, path
     for k in (d.get("documents") or {}).get("items", []): yield from walk(k, path + (d,))
-titleH = None
-for d, _ in walk(tree["documents"]):
-    if d["docType"] == "TITLE" and d["docLevelId"] == "H": titleH = d; break
-if not titleH:
-    for d, _ in walk(tree["documents"]):
-        if d["docType"] in ("TITLE", "PART") and "DANGER TO THE PERSON" in (d.get("title") or "").upper(): titleH = d; break
-if not titleH: sys.exit("Title H not found in structure; inspect ny/raw/structure.json")
-print("Title H:", titleH["locationId"], titleH["title"])
-# One request for the whole Penal Law with text (full=true); keep only Title H.
+TITLES = ["H", "I", "J"]
+found = {d["docLevelId"]: d for d, _ in walk(tree["documents"]) if d["docType"] == "TITLE" and d["docLevelId"] in TITLES}
+if set(found) != set(TITLES): sys.exit(f"Titles {sorted(set(TITLES) - set(found))} not found in structure; inspect ny/raw/structure.json")
+for t in TITLES: print(f"Title {t}:", found[t]["locationId"], found[t]["title"])
+# One request for the whole Penal Law with text (full=true); keep only the titles above.
 full = get(full="true")["result"]
-def find(d):
-    if d["locationId"] == titleH["locationId"]: return d
+def find(d, loc):
+    if d["locationId"] == loc: return d
     for k in (d.get("documents") or {}).get("items", []):
-        if (r := find(k)): return r
-tH = find(full["documents"])
-out = {"fetched": datetime.date.today().isoformat(), "activeDate": tree["lawVersion"]["activeDate"], "title": titleH["title"], "locationId": titleH["locationId"], "tree": tH}
-json.dump(out, open(os.path.join(HERE, "raw", "titleH.json"), "w"), ensure_ascii=False, indent=1)
-n = sum(1 for d, _ in walk(tH) if d["docType"] == "SECTION")
-print("sections with text:", n)
+        if (r := find(k, loc)): return r
+for t in TITLES:
+    sub = find(full["documents"], found[t]["locationId"])
+    out = {"fetched": datetime.date.today().isoformat(), "activeDate": tree["lawVersion"]["activeDate"], "title": found[t]["title"], "locationId": found[t]["locationId"], "tree": sub}
+    json.dump(out, open(os.path.join(HERE, "raw", f"title{t}.json"), "w"), ensure_ascii=False, indent=1)
+    print(f"Title {t} sections with text:", sum(1 for d, _ in walk(sub) if d["docType"] == "SECTION"))

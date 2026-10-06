@@ -1,0 +1,980 @@
+{
+ "588a": {
+  "review": {
+   "title": "Throwing hazardous objects on highways",
+   "isOffense": true,
+   "plain": "Throwing or depositing oil, glass, nails, or other substances likely to injure people, animals, or vehicles on a public highway is a misdemeanor; willfully depositing them intending great bodily injury is a felony; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "throws or deposits any oil, glass bottle, glass, nails, tacks, hoops, wire, cans, or any other substance likely to injure any person, animal or vehicle upon any public highway in the State of California",
+    "deposits any such substance upon any public highway in the State of California"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Throws or deposits any oil, glass bottle, glass, nails, tacks, hoops, wire, cans, or any other substance likely to injure any person, animal or vehicle upon any public highway in the State of California",
+     "ways": [
+      "throws",
+      "deposits"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "",
+     "act": "Deposits any such substance upon any public highway in the State of California",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Willfully",
+      "With the intent to cause great bodily injury to other persons using the highway"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "588b": {
+  "review": {
+   "title": "Damaging road barriers and warning signs",
+   "isOffense": true,
+   "plain": "Breaking down or removing road barriers placed by highway authorities or their contractors, or destroying road warning signs, notices, directional signs, or warning lights, is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "breaks down, removes, injures, or destroys any barrier or obstruction erected or placed in or upon any road or highway",
+    "tears down, defaces, removes, or destroys any warnings, notices, or directional signs",
+    "extinguishes, removes, injures, or destroys any warning light or lantern, or reflectorized warning or directional sign"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks down, removes, injures, or destroys any barrier or obstruction erected or placed in or upon any road or highway by the authorities in charge thereof, or by any authorized contractor engaged in the construction or maintenance thereof",
+     "ways": [
+      "breaks down",
+      "removes",
+      "injures",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Wilfully"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Tears down, defaces, removes, or destroys any warnings, notices, or directional signs erected, placed or posted in, upon, or adjacent to any road or highway",
+     "ways": [
+      "tears down",
+      "defaces",
+      "removes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Extinguishes, removes, injures, or destroys any warning light or lantern, or reflectorized warning or directional sign, erected, placed or maintained by any such authority in, upon or adjacent to any such road or highway",
+     "ways": [
+      "extinguishes",
+      "removes",
+      "injures",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "590": {
+  "review": {
+   "title": "Damaging highway mileposts and guideposts",
+   "isOffense": true,
+   "plain": "Maliciously removing, destroying, damaging, or defacing a mile post, guide post, or similar marker on or near a highway, or its inscription, is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "removes, destroys, injures, breaks or defaces any mile post, board or stone, or guide post erected on or near any highway, or any inscription thereon"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, destroys, injures, breaks or defaces any mile post, board or stone, or guide post erected on or near any highway, or any inscription thereon",
+     "ways": [
+      "removes",
+      "destroys",
+      "injures",
+      "breaks",
+      "defaces"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "590a": {
+  "review": {
+   "title": "Informer's share of milepost fines",
+   "isOffense": false,
+   "plain": "Half of all fines collected for damaging highway mileposts and guideposts under Section 590 go to the informer who first causes a complaint to be filed."
+  }
+ },
+ "591": {
+  "review": {
+   "title": "Damaging telephone, cable, or power lines",
+   "isOffense": true,
+   "plain": "Unlawfully and maliciously cutting, removing, or obstructing telegraph, telephone, cable television, or electric lines, or making an unauthorized connection to an electric line, is punishable by up to one year in county jail or a felony jail term of up to three years.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "takes down, removes, injures, disconnects, cuts, or obstructs a line of telegraph, telephone, or cable television, or any line used to conduct electricity",
+    "severs any wire thereof",
+    "makes an unauthorized connection with any line, other than a telegraph, telephone, or cable television line, used to conduct electricity"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Unlawfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in a county jail not exceeding one year, by a fine not exceeding one thousand dollars ($1,000), or by both that imprisonment and fine, or by imprisonment in a county jail for 16 months, two or three years pursuant to subdivision (h) of Section 1170 and a fine of up to ten thousand dollars ($10,000)",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes down, removes, injures, disconnects, cuts, or obstructs a line of telegraph, telephone, or cable television, or any line used to conduct electricity, or any part thereof, or appurtenances or apparatus connected therewith, including, but not limited to, a backup deep cycle battery or other power supply, or severs any wire thereof",
+     "ways": [
+      "takes down",
+      "removes",
+      "injures",
+      "disconnects",
+      "cuts",
+      "obstructs",
+      "severs any wire"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Makes an unauthorized connection with any line, other than a telegraph, telephone, or cable television line, used to conduct electricity, or any part thereof, or appurtenances or apparatus connected therewith",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "591.5": {
+  "review": {
+   "title": "Disabling a phone to block emergency calls",
+   "isOffense": true,
+   "plain": "Unlawfully and maliciously removing, damaging, or obstructing the use of a wireless communication device to stop someone from calling for help or reporting a crime is a misdemeanor; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "removes, injures, destroys, damages, or obstructs the use of any wireless communication device"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Unlawfully and maliciously",
+     "With the intent to prevent the use of the device to summon assistance or notify law enforcement or any public safety agency of a crime"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Removes, injures, destroys, damages, or obstructs the use of any wireless communication device",
+     "ways": [
+      "removes",
+      "injures",
+      "destroys",
+      "damages",
+      "obstructs the use of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "592": {
+  "review": {
+   "title": "Stealing water from canals or reservoirs",
+   "isOffense": true,
+   "plain": "Taking water from a canal, ditch, flume, or reservoir without the owner's authority and with intent to defraud is a misdemeanor; if the water is worth over $950 or the person has a prior conviction, it can bring county jail or state prison.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "take water from any canal, ditch, flume, or reservoir"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Takes water from any canal, ditch, flume, or reservoir used for the purpose of holding or conveying water for manufacturing, agricultural, mining, irrigating, generation of power, or domestic uses",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without authority of the owner or managing agent"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the total retail value of all the water taken is more than nine hundred fifty dollars ($950), or the defendant has previously been convicted of an offense under this section or any former section that would be an offense under this section, or of an offense under the laws of another state or of the United States that would have been an offense under this section if committed in this state",
+       "penalty": "Imprisonment in a county jail for not more than one year, or in the state prison",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "593": {
+  "review": {
+   "title": "Damaging electric power lines",
+   "isOffense": true,
+   "plain": "Unlawfully and maliciously taking down, damaging, or interfering with an authorized electric power line or its parts, wires, or current is punishable by a felony jail term, a fine up to $1,000, or up to one year in county jail.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "takes down, removes, injures, interferes with, or obstructs any line erected or maintained by proper authority for the purpose of transmitting electricity for light, heat, or power",
+    "severs or in any way interferes with any wire, cable, or current thereof"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Unlawfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170, or by fine not exceeding one thousand dollars ($1,000), or imprisonment in the county jail not exceeding one year",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes down, removes, injures, interferes with, or obstructs any line erected or maintained by proper authority for the purpose of transmitting electricity for light, heat, or power, or any part thereof, or any insulator or crossarm, appurtenance or apparatus connected therewith, or severs or in any way interferes with any wire, cable, or current thereof",
+     "ways": [
+      "takes down",
+      "removes",
+      "injures",
+      "interferes with",
+      "obstructs",
+      "severs"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "593a": {
+  "review": {
+   "title": "Spiking trees and logs",
+   "isOffense": true,
+   "plain": "Maliciously driving metal, ceramic, or other hard objects into trees or logs meant for harvest or lumber, which can injure saws, is a felony; causing bodily injury adds a consecutive three-year prison term.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "drives or places, in any tree, saw-log, shingle-bolt, or other wood, any iron, steel, ceramic, or other substance sufficiently hard to injure saws"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Drives or places, in any tree, saw-log, shingle-bolt, or other wood, any iron, steel, ceramic, or other substance sufficiently hard to injure saws",
+     "ways": [
+      "drives",
+      "places"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Maliciously"
+     ],
+     "knowledge": [
+      "Knowing that the tree is intended to be harvested or that the saw-log, shingle-bolt, or other wood is intended to be manufactured into any kind of lumber or other wood product"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person causes bodily injury to another person other than an accomplice",
+       "penalty": "In addition and consecutive to the punishment prescribed for that felony, an additional prison term of three years",
+       "min": 3,
+       "max": 3,
+       "flags": [
+        "consecutive"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "593b": {
+  "review": {
+   "title": "Climbing electric transmission towers",
+   "isOffense": true,
+   "plain": "Climbing an electric transmission or distribution pole or tower without written permission of its owner or operator is a misdemeanor, except for utility employees on duty; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "climb upon any pole, tower or other structure which is a part of such line or system"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Climbs upon any pole, tower or other structure which is a part of such line or system and is supporting or is designed to support a wire or wires, cable or cables, for the transmission or distribution of electric energy",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the written permission of the owner, lessee, or person or corporation operating any electrical transmission line, distributing line or system"
+     ],
+     "exceptions": [
+      "Employees of either privately or publicly owned public utilities engaged in the performance of their duties"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "593c": {
+  "review": {
+   "title": "Damaging gas or hazardous liquid pipelines",
+   "isOffense": true,
+   "plain": "Willfully and maliciously breaking, obstructing, or interfering with a gas or hazardous liquid pipeline, its equipment, or its valves is a felony; no term is stated here.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "acts": [
+    "breaks, digs up, obstructs, interferes with, removes or injures any pipe or main or hazardous liquid pipeline",
+    "shuts off, removes, obstructs, injures, or in any way interferes with any valve or fitting installed on, connected to, or operated in connection with any such main or pipeline"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Willfully and maliciously"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Breaks, digs up, obstructs, interferes with, removes or injures any pipe or main or hazardous liquid pipeline erected, operated, or maintained for the purpose of transporting, conveying or distributing gas or other hazardous liquids for light, heat, power or any other purpose, or any part thereof, or any valve, meter, holder, compressor, machinery, appurtenance, equipment or apparatus connected with any such main or pipeline",
+     "ways": [
+      "breaks",
+      "digs up",
+      "obstructs",
+      "interferes with",
+      "removes",
+      "injures"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Shuts off, removes, obstructs, injures, or in any way interferes with any valve or fitting installed on, connected to, or operated in connection with any such main or pipeline, or controlling or affecting the flow of gas or hazardous liquid through any such main or pipeline",
+     "ways": [
+      "shuts off",
+      "removes",
+      "obstructs",
+      "injures",
+      "interferes with"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "593d": {
+  "review": {
+   "title": "Cable and video service theft",
+   "isOffense": true,
+   "plain": "Making unauthorized connections or using devices to get cable, satellite, or similar video services without authorization, or making or selling descrambling devices, is a crime; dealing in 10 or more devices can bring county jail or state prison and fines up to $250,000.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "makes or maintains an unauthorized connection or connections",
+    "purchases, possesses, attaches, causes to be attached, assists others in attaching, or maintains the attachment of any unauthorized device or devices",
+    "makes or maintains any modification or alteration to any device installed with the authorization of a multichannel video or information services provider",
+    "makes or maintains any modifications or alterations to an access device that authorizes services",
+    "obtains an unauthorized access device and uses the modified, altered, or unauthorized access device to obtain services from a multichannel video or information services provider",
+    "manufactures, assembles, modifies, imports into this state, distributes, sells, offers to sell, advertises for sale, or possesses for any of these purposes, any device or kit for a device",
+    "attaches, causes to be attached, assists others in attaching, or maintains any attachment to, any cable, wire, or other component of a multichannel video or information services provider’s system"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Multichannel video or information services provider\": a franchised or otherwise duly licensed cable television system, video dialtone system, Multichannel Multipoint Distribution Service system, Direct Broadcast Satellite system, or other system providing video or information services that are distributed via cable, wire, radio frequency, or other media"
+    ],
+    "consequences": [
+     "Any device or kit described in subdivision (a) or (b) seized under warrant or incident to a lawful arrest, upon conviction for a violation of subdivision (a) or (b), may be destroyed as contraband by the sheriff",
+     "Liable in a civil action to the multichannel video or information services provider for the greater of five thousand dollars ($5,000) or three times the amount of actual damages, if any, plus reasonable attorney's fees",
+     "The provider may bring an action to enjoin and restrain any violation of this section"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)(1)",
+     "act": "Makes or maintains an unauthorized connection or connections, whether physically, electrically, electronically, or inductively, to any cable, wire, or other component of a multichannel video or information services provider’s system or to a cable, wire or other media, or receiver that is attached to a multichannel video or information services provider’s system",
+     "ways": [
+      "makes",
+      "maintains"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "For the purpose of intercepting, receiving, or using any program or other service carried by a multichannel video or information services provider that the person is not authorized by that provider to receive or use"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), by imprisonment in a county jail not exceeding 90 days, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)(2)",
+     "act": "Purchases, possesses, attaches, causes to be attached, assists others in attaching, or maintains the attachment of any unauthorized device or devices to any cable, wire, or other component of a multichannel video or information services provider’s system or to a cable, wire or other media, or receiver that is attached to a multichannel video or information services provider’s system",
+     "ways": [
+      "purchases",
+      "possesses",
+      "attaches",
+      "causes to be attached",
+      "assists others in attaching",
+      "maintains the attachment of"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "For the purpose of intercepting, receiving, or using any program or other service carried by a multichannel video or information services provider that the person is not authorized by that provider to receive or use"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), by imprisonment in a county jail not exceeding 90 days, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)(3)",
+     "act": "Makes or maintains any modification or alteration to any device installed with the authorization of a multichannel video or information services provider",
+     "ways": [
+      "makes",
+      "maintains"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "For the purpose of intercepting, receiving, or using any program or other service carried by a multichannel video or information services provider that the person is not authorized by that provider to receive or use"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), by imprisonment in a county jail not exceeding 90 days, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(a)(4)",
+     "act": "Makes or maintains any modifications or alterations to an access device that authorizes services, or obtains an unauthorized access device, and uses the modified, altered, or unauthorized access device to obtain services from a multichannel video or information services provider",
+     "ways": [
+      "modifies or alters an access device",
+      "obtains an unauthorized access device"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "For the purpose of intercepting, receiving, or using any program or other service carried by a multichannel video or information services provider that the person is not authorized by that provider to receive or use"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), by imprisonment in a county jail not exceeding 90 days, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Manufactures, assembles, modifies, imports into this state, distributes, sells, offers to sell, advertises for sale, or possesses for any of these purposes, any device or kit for a device, designed, in whole or in part, to decrypt, decode, descramble, or otherwise make intelligible any encrypted, encoded, scrambled, or other nonstandard signal carried by a multichannel video or information services provider",
+     "ways": [
+      "manufactures",
+      "assembles",
+      "modifies",
+      "imports into this state",
+      "distributes",
+      "sells",
+      "offers to sell",
+      "advertises for sale",
+      "possesses for any of these purposes"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The device has been granted an equipment authorization by the Federal Communications Commission (FCC)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully"
+     ],
+     "terms": [
+      "\"Encrypted, encoded, scrambled, or other nonstandard signal\": any type of signal or transmission that is not intended to produce an intelligible program or service without the use of a special device, signal, or information provided by the multichannel video or information services provider or its agents to authorized subscribers"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Upon a conviction of a first offense, imprisonment in a county jail not exceeding one year, by a fine not exceeding twenty-five thousand dollars ($25,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation involves nine or less of the items, or the sale or offering for sale of four or less items for financial gain, and it is a second or subsequent conviction",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or in the state prison, by a fine not exceeding one hundred thousand dollars ($100,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the violation involves the manufacture, assembly, modification, importation into this state, distribution, advertisement for sale, or possession for sale or for any of these purposes, of 10 or more of the items, or the sale or offering for sale of five or more items for financial gain",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or in the state prison, by a fine not exceeding two hundred fifty thousand dollars ($250,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Makes or maintains an unauthorized connection or connections with, whether physically, electrically, electronically, or inductively, or attaches, causes to be attached, assists others in attaching, or maintains any attachment to, any cable, wire, or other component of a multichannel video or information services provider’s system",
+     "ways": [
+      "makes or maintains an unauthorized connection",
+      "attaches",
+      "causes to be attached",
+      "assists others in attaching",
+      "maintains any attachment"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "For the purpose of interfering with, altering, or degrading any multichannel video or information service being transmitted to others, or for the purpose of transmitting or broadcasting any program or other service not intended to be transmitted or broadcast by the multichannel video or information services provider"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), by imprisonment in a county jail, or by both that fine and imprisonment",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "593e": {
+  "review": {
+   "title": "Subscription television signal theft",
+   "isOffense": true,
+   "plain": "Making unauthorized connections or attaching devices to get subscription television without authorization, or making or selling decoding devices for it, is a misdemeanor; repeat device dealing brings up to one year in county jail and a $20,000 fine.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": 1,
+   "acts": [
+    "makes or maintains an unauthorized connection or connections",
+    "purchases, possesses, attaches, causes to be attached, assists others in or maintains the attachment of any unauthorized device or devices to a television set or to other equipment designed to receive a television broadcast or transmission",
+    "makes or maintains any modification or alteration to any device installed with the authorization of a subscription television system",
+    "manufactures, imports into this state, assembles, distributes, sells, offers to sell, possesses, advertises for sale, or otherwise provides any device, any plan, or any kit for a device or for a printed circuit"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Knowingly and willfully"
+    ],
+    "terms": [
+     "\"Subscription television system\": a television system which sends an encoded, scrambled, or other nonstandard signal over the air which is not intended to be received in an intelligible form without special equipment provided by or authorized by the sender",
+     "\"Encoded, scrambled, or other nonstandard signal\": includes, without limitation, any type of distorted signal or transmission that is not intended to produce an intelligible program or service without the use of special devices or information provided by the sender for the receipt of this type of signal or transmission"
+    ],
+    "consequences": [
+     "The subscription television system may bring an action to enjoin and restrain any violation of this section, and seek damages",
+     "In any civil action under this section, the prevailing party recovers full costs plus reasonable attorney's fees"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Makes or maintains an unauthorized connection or connections, whether physically, electrically, or inductively, or purchases, possesses, attaches, causes to be attached, assists others in or maintains the attachment of any unauthorized device or devices to a television set or to other equipment designed to receive a television broadcast or transmission, or makes or maintains any modification or alteration to any device installed with the authorization of a subscription television system",
+     "ways": [
+      "makes or maintains an unauthorized connection",
+      "purchases",
+      "possesses",
+      "attaches",
+      "causes to be attached",
+      "assists others in or maintains the attachment of an unauthorized device",
+      "makes or maintains a modification or alteration"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly and willfully",
+      "For the purpose of intercepting, receiving, or using any program or other service carried by the subscription television system which the person is not authorized by that subscription television system to receive or use"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by a fine not exceeding one thousand dollars ($1,000), or by imprisonment in a county jail not exceeding 90 days, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Liable to the subscription television system for civil damages in the amount of the value of the connection and subscription fees service actually charged for the period of unauthorized use according to proof"
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Manufactures, imports into this state, assembles, distributes, sells, offers to sell, possesses, advertises for sale, or otherwise provides any device, any plan, or any kit for a device or for a printed circuit, designed in whole or in part to decode, descramble, intercept, or otherwise make intelligible any encoded, scrambled, or other nonstandard signal carried by that subscription television system",
+     "ways": [
+      "manufactures",
+      "imports into this state",
+      "assembles",
+      "distributes",
+      "sells",
+      "offers to sell",
+      "possesses",
+      "advertises for sale",
+      "otherwise provides"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the express authorization of a subscription television system"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by a fine not exceeding ten thousand dollars ($10,000), or by imprisonment in a county jail, or by both that fine and imprisonment",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior conviction for this crime",
+       "penalty": "A fine not exceeding twenty thousand dollars ($20,000), or by imprisonment in a county jail for up to one year, or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ],
+     "consequences": [
+      "Liable to the subscription television system, at its election, for statutory damages of not less than five hundred dollars ($500) or more than ten thousand dollars ($10,000) for each device, plan, or kit, or for three times actual damages and revenues obtained, three times the value of the services unlawfully obtained, or five hundred dollars ($500) for each unauthorized device, whichever is greater, and, when appropriate, punitive damages",
+      "If committed knowingly and willfully and for purposes of commercial advantage or private financial gain, the court may increase the damages by not more than fifty thousand dollars ($50,000)"
+     ]
+    }
+   ]
+  }
+ },
+ "593f": {
+  "review": {
+   "title": "Selling devices to decode MDS or ITFS broadcasts",
+   "isOffense": true,
+   "plain": "Making, distributing, or selling for profit devices, plans, or kits to decode unauthorized Multi-point Distribution Service or Instructional Television Fixed Service broadcasts is a misdemeanor punishable by a fine up to $2,500, up to 90 days in county jail, or both.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": 0.25,
+   "acts": [
+    "manufactures, distributes, or sells any device or plan or kit for a device, or printed circuit containing circuitry for decoding or addressing"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "For profit",
+     "Knowingly and willfully",
+     "With the purpose or intention of facilitating decoding or addressing of any over-the-air transmission by a Multi-point Distribution Service or Instructional Television Fixed Service which is not authorized by the Multi-point Distribution Service or the Instructional Television Fixed Service"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor punishable by a fine not exceeding two thousand five hundred dollars ($2,500) or by imprisonment in the county jail not exceeding 90 days, or both",
+      "min": null,
+      "max": 0.25,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Manufactures, distributes, or sells any device or plan or kit for a device, or printed circuit containing circuitry for decoding or addressing",
+     "ways": [
+      "manufactures",
+      "distributes",
+      "sells"
+     ],
+     "tags": [],
+     "conditions": [
+      "The transmission is made pursuant to authority granted by the Federal Communications Commission"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "593g": {
+  "review": {
+   "title": "Possessing tree-spiking materials",
+   "isOffense": true,
+   "plain": "Possessing iron, steel, ceramic, or other hard substances that can damage saws or wood processing equipment, intending to use them to spike trees or logs in violation of Section 593a, is punishable by up to one year in county jail.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "possesses any iron, steel, ceramic, or other substance sufficiently hard to injure saws or wood manufacturing or processing equipment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With the intent to use it in a violation of Section 593a"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not to exceed one year",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses any iron, steel, ceramic, or other substance sufficiently hard to injure saws or wood manufacturing or processing equipment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}

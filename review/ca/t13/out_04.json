@@ -1,0 +1,2314 @@
+{
+ "490.7": {
+  "review": {
+   "title": "Taking free newspapers",
+   "isOffense": true,
+   "plain": "Taking more than 25 copies of the current issue of a free newspaper to recycle, sell, deprive others of it, or harm a competitor is an infraction; repeat violations can be a misdemeanor with up to 10 days in county jail.",
+   "category": "Property Crimes",
+   "maxYears": 0.03,
+   "acts": [
+    "take more than twenty-five (25) copies of the current issue of a free or complimentary newspaper"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(b)",
+     "act": "Takes more than twenty-five (25) copies of the current issue of a free or complimentary newspaper",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "The owner or operator of the newsrack in which the copies are placed, the owner or operator of the property on which the newsrack is placed, the publisher, the printer, the distributor, the deliverer of the newspaper, or any advertiser in that issue",
+      "Any other person who has the express permission to do so from any of these entities, including permission given by the publisher on the newsrack or in the newspaper itself"
+     ],
+     "defenses": [],
+     "intent": [
+      "With the intent to do one or more of the following: recycle the newspapers for cash or other payment; sell or barter the newspaper; deprive others of the opportunity to read or enjoy the newspaper; harm a business competitor"
+     ],
+     "terms": [
+      "\"Current\": an issue is current if no more than half of the period of time until the distribution of the next issue has passed"
+     ],
+     "consequences": [
+      "The court may order community service in lieu of the punishment otherwise provided, in the amount of 20 hours for an infraction and 40 hours for a misdemeanor",
+      "A misdemeanor conviction under this section shall not constitute a conviction for petty theft"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding two hundred fifty dollars ($250)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      },
+      {
+       "if": "the violation is a second or subsequent violation",
+       "penalty": "Punishable as an infraction or a misdemeanor; a misdemeanor conviction is punishable by a fine not exceeding five hundred dollars ($500), imprisonment of up to 10 days in a county jail, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.03,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "490.8": {
+  "review": {
+   "title": "Retail crime restraining orders",
+   "isOffense": true,
+   "plain": "Courts may bar people convicted of, or repeatedly arrested for, shoplifting, retail theft, vandalism, or assault at a store from entering it for up to two years; violating such an order is a misdemeanor.",
+   "category": "Courts & Justice",
+   "maxYears": null,
+   "acts": [
+    "violation of an order issued pursuant to this section"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(f)",
+     "act": "Violates a retail crime restraining order issued pursuant to this section",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "An order was issued pursuant to this section prohibiting the person from entering the retail establishment, or being present on its grounds or any parking lot adjacent to and used to service it"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "consequences": [
+      "An officer arresting a person for a violation of this section is not required to release the person pursuant to a written notice to appear",
+      "A court may offer the individual an opportunity to participate in a diversion program for which they are eligible",
+      "Prosecution under this section shall not preclude prosecution for any other offenses committed during a violation of this section"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Punishable as a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "491": {
+  "review": {
+   "title": "Companion animals as property",
+   "isOffense": false,
+   "plain": "Treats companion animals as personal property valued like other property and defines \"companion animal\" for this section, excluding feral animals."
+  }
+ },
+ "492": {
+  "review": {
+   "title": "Value of stolen debt instruments",
+   "isOffense": false,
+   "plain": "Sets how to value a stolen evidence of debt or other written instrument, based on the amount due or secured or the value of the property it shows title to."
+  }
+ },
+ "493": {
+  "review": {
+   "title": "Value of stolen passage tickets",
+   "isOffense": false,
+   "plain": "Sets the value of a stolen railroad, vessel, or other public conveyance ticket as the price usually charged for a like passage."
+  }
+ },
+ "494": {
+  "review": {
+   "title": "Unissued instruments covered by larceny",
+   "isOffense": false,
+   "plain": "Applies the larceny chapter to completed instruments for payment of money, evidence of debt, public securities, or passage tickets even if never issued or delivered."
+  }
+ },
+ "495": {
+  "review": {
+   "title": "Severed fixtures covered by larceny",
+   "isOffense": false,
+   "plain": "Applies the larceny chapter to fixtures or parts of real property severed at the time of the taking, as if severed earlier by another person."
+  }
+ },
+ "496": {
+  "review": {
+   "title": "Receiving stolen property",
+   "isOffense": true,
+   "plain": "Buying, receiving, concealing, selling, or withholding property knowing it was stolen or obtained by theft or extortion, or a dealer buying it without reasonable inquiry, is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "buys or receives any property that has been stolen or that has been obtained in any manner constituting theft or extortion",
+    "conceals, sells, withholds, or aids in concealing, selling, or withholding any property from the owner",
+    "buys or receives any property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Buys or receives any property that has been stolen or that has been obtained in any manner constituting theft or extortion, or conceals, sells, withholds, or aids in concealing, selling, or withholding any property from the owner",
+     "ways": [
+      "buys",
+      "receives",
+      "conceals",
+      "sells",
+      "withholds",
+      "aids in concealing, selling, or withholding"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "The property has been stolen or obtained in any manner constituting theft or extortion"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the property to be so stolen or obtained"
+     ],
+     "consequences": [
+      "A principal in the actual theft of the property may be convicted pursuant to this section, but no person may be convicted both pursuant to this section and of the theft of the same property"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the value of the property does not exceed nine hundred fifty dollars ($950) and the person has no prior convictions for an offense specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 or for an offense requiring registration pursuant to subdivision (c) of Section 290",
+       "penalty": "A misdemeanor, punishable only by imprisonment in a county jail not exceeding one year",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the offense is an attempt to commit any act prohibited by this section, except an offense specified in the accusatory pleading as a misdemeanor",
+       "penalty": "Imprisonment in a county jail for not more than one year, or by imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "a person has been injured by a violation of subdivision (a) or (b)",
+       "penalty": "Liable in an action for three times the amount of actual damages, if any, sustained by the plaintiff, costs of suit, and reasonable attorney's fees",
+       "min": null,
+       "max": 0,
+       "flags": [
+        "civil"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Buys or receives any property that has been stolen or obtained in any manner constituting theft or extortion, without making a reasonable inquiry",
+     "ways": [
+      "buys",
+      "receives"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "The property has been stolen or obtained in any manner constituting theft or extortion",
+      "Under circumstances that should cause the person, agent, employee, or representative to make reasonable inquiry to ascertain that the person from whom the property was bought or received had the legal right to sell or deliver it",
+      "Without making a reasonable inquiry"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A swap meet vendor, as defined in Section 21661 of the Business and Professions Code, a person whose principal business is dealing in, or collecting, merchandise or personal property, or an agent, employee, or representative of that person",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170 (property of a value in excess of nine hundred fifty dollars ($950))",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "the property is of a value of nine hundred fifty dollars ($950) or less",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the offense is an attempt to commit any act prohibited by this section, except an offense specified in the accusatory pleading as a misdemeanor",
+       "penalty": "Imprisonment in a county jail for not more than one year, or by imprisonment pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      },
+      {
+       "if": "a person has been injured by a violation of subdivision (a) or (b)",
+       "penalty": "Liable in an action for three times the amount of actual damages, if any, sustained by the plaintiff, costs of suit, and reasonable attorney's fees",
+       "min": null,
+       "max": 0,
+       "flags": [
+        "civil"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "496.5": {
+  "review": {
+   "title": "Automotive property theft for resale",
+   "isOffense": true,
+   "plain": "Possessing over $950 of property taken through vehicle theft, break-ins, or tampering, not for personal use but intending to sell or exchange it, is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "possesses property that was acquired through one or more acts of theft from a vehicle, unlawful entry of a vehicle, burglary of a locked vehicle, or vehicle tampering as defined in Section 10852 of the Vehicle Code"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Unlawfully possesses property that was acquired through one or more acts of theft from a vehicle, unlawful entry of a vehicle, burglary of a locked vehicle, or vehicle tampering as defined in Section 10852 of the Vehicle Code",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Whether or not the person committed the act of theft, burglary, or vehicle tampering",
+      "The property is not possessed for personal use",
+      "The value of the possessed property exceeds nine hundred fifty dollars ($950), which may be aggregated with other such property possessed by the person with such intent within the last two years, or with such property possessed by another person acting in concert with the first person to sell or exchange the property for value"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "The intent to sell or exchange the property for value, or the intent to act in concert with one or more persons to sell or exchange the property for value"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for up to one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "496.6": {
+  "review": {
+   "title": "Unlawful deprivation of a retail business opportunity",
+   "isOffense": true,
+   "plain": "Possessing over $950 of property taken by shoplifting, theft, or burglary from a retail business, not for personal use but intending to sell, exchange, or return it, is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "possesses property unlawfully that was acquired through one or more acts of shoplifting, theft, or burglary from a retail business"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses property unlawfully that was acquired through one or more acts of shoplifting, theft, or burglary from a retail business",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Whether or not the person committed the act of shoplifting, theft, or burglary",
+      "The property is not possessed for personal use",
+      "The value of the possessed property exceeds nine hundred fifty dollars ($950), which may be aggregated with other such property possessed by the person with such intent within the prior two years, or with such property possessed by another person acting in concert with the first person to sell, exchange, or return the merchandise for value"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "The intent to sell, exchange, or return the merchandise for value, or the intent to act in concert with one or more persons to sell, exchange, or return the merchandise for value"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in the county jail for up to one year or pursuant to subdivision (h) of Section 1170",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "496a": {
+  "review": {
+   "title": "Junk dealers receiving utility metals",
+   "isOffense": true,
+   "plain": "A junk, metal, or secondhand dealer who buys wire, cable, copper, or similar metals ordinarily belonging to a railroad or utility without due diligence about the seller's right is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "buys or receives any wire, cable, copper, lead, solder, mercury, iron, or brass"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A dealer in or collector of junk, metals, or secondhand materials, or the agent, employee, or representative of such dealer or collector"
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Buys or receives any wire, cable, copper, lead, solder, mercury, iron, or brass",
+     "ways": [
+      "buys",
+      "receives"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without using due diligence to ascertain that the person selling or delivering the same has a legal right to do so"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Which they know or reasonably should know is ordinarily used by or ordinarily belongs to a railroad or other transportation, telephone, telegraph, gas, water, or electric light company, or a county, city, city and county, or other political subdivision of this state engaged in furnishing public utility service"
+     ],
+     "consequences": [
+      "A person who buys or receives such material shall obtain evidence of the seller's identity, and the record of the transaction shall be maintained pursuant to Section 21607 of the Business and Professions Code"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding one thousand dollars ($1,000), or imprisonment in a county jail for not more than one year, or both that fine and imprisonment, or imprisonment pursuant to subdivision (h) of Section 1170, or a fine of not more than five thousand dollars ($5,000), or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "496b": {
+  "review": {
+   "title": "Dealers receiving library materials",
+   "isOffense": true,
+   "plain": "A secondhand book dealer who buys library-marked books or materials without diligent inquiry commits criminally receiving property: up to one year in county jail if worth over $50, up to one month if $50 or under.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "buys or receives any book, manuscript, map, chart, or other work of literature, belonging to, and bearing any mark or indicia of ownership by a public or incorporated library, college or university"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A dealer in or collector of second-hand books or other literary material, or the agent, employee or representative of such dealer, or collector"
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Buys or receives any book, manuscript, map, chart, or other work of literature, belonging to, and bearing any mark or indicia of ownership by a public or incorporated library, college or university",
+     "ways": [
+      "buys",
+      "receives"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without ascertaining by diligent inquiry that the person selling or delivering the same has a legal right to do so"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Criminally receiving such property in the second degree (property of the value of fifty dollars or under): imprisonment in the county jail for not more than one month, or a fine of not more than twice the value of the property received, or both such fine and imprisonment",
+       "min": null,
+       "max": 0.08,
+       "flags": []
+      },
+      {
+       "if": "the property is of the value of more than fifty dollars",
+       "penalty": "Criminally receiving such property in the first degree: imprisonment in the county jail for not more than one year, or a fine of not more than twice the value of the property received, or both such fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "496c": {
+  "review": {
+   "title": "Copying private title records",
+   "isOffense": true,
+   "plain": "Copying private title-company records without the owner's consent to use them in the title business, inducing someone to do so, or knowingly receiving such copies is theft.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "copy, transcribe, photograph or otherwise make a record or memorandum of the contents of any private and unpublished paper, book, record, map or file",
+    "induce another to violate the provisions of this section",
+    "receive or acquire from another any copy, transcription, photograph or other record or memorandum of the contents of any private and unpublished paper, book, record, map or file"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of theft (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ],
+    "terms": [
+     "\"Contents\" of any such private and unpublished paper, book, record, map or file: personal property, valued by the cost of acquiring and compiling the same"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Copies, transcribes, photographs or otherwise makes a record or memorandum of the contents of any private and unpublished paper, book, record, map or file",
+     "ways": [
+      "copy",
+      "transcribe",
+      "photograph",
+      "otherwise make a record or memorandum"
+     ],
+     "tags": [],
+     "conditions": [
+      "The paper, book, record, map or file contains information relating to the title to real property or information used in the business of examining, certifying or insuring titles to real property",
+      "It belongs to a person, firm or corporation engaged in the business of examining, certifying, or insuring titles to real property",
+      "Without the consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent to use the same or the contents thereof, or to dispose of the same or the contents thereof to others for use, in the business of examining, certifying, or insuring titles to real property"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Induces another to violate the provisions of this section by giving, offering, or promising any gift, gratuity, or thing of value or by doing or promising to do any act beneficial to such another",
+     "ways": [
+      "giving, offering, or promising any gift, gratuity, or thing of value",
+      "doing or promising to do any act beneficial to such another"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Receives or acquires from another any copy, transcription, photograph or other record or memorandum of the contents of any private and unpublished paper, book, record, map or file containing title information",
+     "ways": [
+      "receive",
+      "acquire"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With the knowledge that the same or the contents thereof has or have been acquired, prepared or compiled in violation of this section"
+     ]
+    }
+   ]
+  }
+ },
+ "496d": {
+  "review": {
+   "title": "Receiving stolen vehicles and vessels",
+   "isOffense": true,
+   "plain": "Buying, receiving, concealing, selling, or withholding a motor vehicle, trailer, special construction equipment, or vessel knowing it was stolen is punishable by up to three years under county felony sentencing or up to one year in county jail.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "buys or receives any motor vehicle, as defined in Section 415 of the Vehicle Code, any trailer, as defined in Section 630 of the Vehicle Code, any special construction equipment, as defined in Section 565 of the Vehicle Code, or any vessel",
+    "conceals, sells, withholds, or aids in concealing, selling, or withholding any motor vehicle, trailer, special construction equipment, or vessel from the owner"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "knowledge": [
+     "Knowing the property to be stolen or obtained"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for 16 months or two or three years or a fine of not more than ten thousand dollars ($10,000), or both, or imprisonment in a county jail not to exceed one year or a fine of not more than one thousand dollars ($1,000), or both",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Special construction equipment\" and \"vessel\": limited to motorized vehicles and vessels"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Buys or receives any motor vehicle, trailer, special construction equipment, or vessel",
+     "ways": [
+      "buys",
+      "receives"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property has been stolen or obtained in any manner constituting theft or extortion"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(a)",
+     "act": "Conceals, sells, withholds, or aids in concealing, selling, or withholding any motor vehicle, trailer, special construction equipment, or vessel from the owner",
+     "ways": [
+      "conceals",
+      "sells",
+      "withholds",
+      "aids in concealing, selling, or withholding"
+     ],
+     "tags": [],
+     "conditions": [
+      "The property is stolen or obtained in any manner constituting theft or extortion"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "496e": {
+  "review": {
+   "title": "Scrap dealers possessing stolen public fixtures",
+   "isOffense": true,
+   "plain": "A scrap metal dealer who possesses stolen fire hydrants, manhole covers, street lights, and similar public or utility items knowing they were stolen, or fails to report possessing them, faces an added fine up to $5,000.",
+   "category": "Property Crimes",
+   "maxYears": 0,
+   "maxPlus": true,
+   "acts": [
+    "possesses any of the following items",
+    "fails to report possession of the items"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who is engaged in the salvage, recycling, purchase, or sale of scrap metal",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "In addition to any other penalty provided by law, a criminal fine of not more than five thousand dollars ($5,000)",
+      "min": null,
+      "max": 0,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses any of the listed items that were owned or previously owned by any public agency, city, county, city and county, special district, or private utility",
+     "ways": [
+      "A fire hydrant or any reasonably recognizable part of that hydrant",
+      "Any fire department connection",
+      "Maintenance hole covers or lids",
+      "Backflow devices and connections",
+      "Reasonably recognizable street lights, traffic signals, and their related equipment",
+      "Active grade crossing signals",
+      "Sewer flow monitoring station equipment",
+      "Sewer pump station instrumentation and controls",
+      "Stormwater auto sampling equipment and instrumentation",
+      "Stormwater pump station instrumentation and controls",
+      "Irrigation wiring",
+      "Plaques",
+      "Communications or broadband infrastructure or equipment",
+      "Electric vehicle chargers",
+      "Water meters and water meter components"
+     ],
+     "tags": [],
+     "conditions": [
+      "The items have been stolen or obtained in any manner constituting theft or extortion"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing the property to be so stolen or obtained"
+     ]
+    },
+    {
+     "where": "(a)",
+     "act": "Fails to report possession of the items pursuant to Section 21609.1 of the Business and Professions Code",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The items were owned or previously owned by any public agency, city, county, city and county, special district, or private utility"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "497": {
+  "review": {
+   "title": "Bringing stolen property into the state",
+   "isOffense": true,
+   "plain": "A person who steals or embezzles property in another state or country, or receives it knowing it was stolen, and brings it into California may be punished as if the crime happened in California.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "steals or embezzles the property of another",
+    "receives such property",
+    "brings the same into this state"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "May be convicted and punished in the same manner as if such larceny, or embezzlement, or receiving, had been committed in this state (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals or embezzles the property of another in another state or country, and brings the same into this state",
+     "ways": [
+      "steals",
+      "embezzles"
+     ],
+     "tags": [],
+     "conditions": [
+      "The stealing or embezzling occurs in another state or country"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "",
+     "act": "Receives such property in another state or country, and brings the same into this state",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The receiving occurs in another state or country"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "Knowing it to have been stolen or embezzled"
+     ]
+    }
+   ]
+  }
+ },
+ "498": {
+  "review": {
+   "title": "Theft of utility services",
+   "isOffense": true,
+   "plain": "Diverting utility services, tampering with meters or utility property, making unauthorized connections, or knowingly using diverted service to avoid paying is a misdemeanor; over $950 or a prior conviction allows county jail or state prison.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "Diverts or causes to be diverted utility services, by any means",
+    "Prevents any utility meter, or other device used in determining the charge for utility services, from accurately performing its measuring function",
+    "Tampers with any property owned by or used by the utility to provide utility services",
+    "Makes or causes to be made any connection with or reconnection with property owned or used by the utility to provide utility services",
+    "Uses or receives the direct benefit of all or a portion of utility services"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "With intent to obtain for himself or herself utility services without paying the full lawful charge therefor, or with intent to enable another person to do so, or with intent to deprive any utility of any part of the full lawful charge for utility services it provides"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     },
+     {
+      "if": "the value of all utility services obtained in violation of this section totals more than nine hundred fifty dollars ($950), or the defendant has previously been convicted of an offense under this section or any former section which would be an offense under this section, or of an offense under the laws of another state or of the United States which would have been an offense under this section if committed in this state",
+      "penalty": "Imprisonment in a county jail for not more than one year, or in the state prison",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ],
+    "terms": [
+     "\"Utility\": any electrical, gas, or water corporation as those terms are defined in the Public Utilities Code, and electrical, gas, or water systems operated by any political subdivision",
+     "\"Utility service\": the provision of electricity, gas, water, or any other service provided by the utility for compensation",
+     "\"Divert\": to change the intended course or path of electricity, gas, or water without the authorization or consent of the utility",
+     "\"Tamper\": to rearrange, injure, alter, interfere with, or otherwise prevent from performing a normal or customary function",
+     "\"Reconnection\": the reconnection of utility service by a customer or other person after service has been lawfully disconnected by the utility",
+     "\"Customer\": the person in whose name utility service is provided",
+     "\"Person\": any individual, or any partnership, firm, association, corporation, limited liability company, or other legal entity"
+    ],
+    "consequences": [
+     "The presence on premises controlled by the customer or user of a device primarily designed to obtain utility services without paying, or of an altered, tampered with, or bypassed meter, permits an inference that the customer or person intended to and did violate this section"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)(1)",
+     "act": "Diverts or causes to be diverted utility services, by any means",
+     "ways": [
+      "commits",
+      "authorizes",
+      "solicits",
+      "aids",
+      "abets"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Prevents any utility meter, or other device used in determining the charge for utility services, from accurately performing its measuring function by tampering or by any other means",
+     "ways": [
+      "commits",
+      "authorizes",
+      "solicits",
+      "aids",
+      "abets"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(3)",
+     "act": "Tampers with any property owned by or used by the utility to provide utility services",
+     "ways": [
+      "commits",
+      "authorizes",
+      "solicits",
+      "aids",
+      "abets"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(4)",
+     "act": "Makes or causes to be made any connection with or reconnection with property owned or used by the utility to provide utility services",
+     "ways": [
+      "commits",
+      "authorizes",
+      "solicits",
+      "aids",
+      "abets"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the authorization or consent of the utility"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)(5)",
+     "act": "Uses or receives the direct benefit of all or a portion of utility services",
+     "ways": [
+      "commits",
+      "authorizes",
+      "solicits",
+      "aids",
+      "abets"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With knowledge or reason to believe that the diversion, tampering, or unauthorized connection existed at the time of that use, or that the use or receipt was otherwise without the authorization or consent of the utility"
+     ]
+    }
+   ]
+  }
+ },
+ "499": {
+  "review": {
+   "title": "Repeat temporary taking of vehicles or vessels",
+   "isOffense": true,
+   "plain": "A person convicted under Section 499b involving a vehicle or vessel after a prior qualifying vehicle theft conviction and jail term, or after two prior 499b convictions, faces up to one year in county jail or up to three years in state prison.",
+   "category": "Property Crimes",
+   "maxYears": 3,
+   "acts": [
+    "convicted of a violation of Section 499b, involving a vehicle or vessel"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Imprisonment in the county jail not exceeding one year or the state prison for 16 months, two, or three years",
+      "min": null,
+      "max": 3,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Commits a violation of Section 499b involving a vehicle or vessel",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The person served a term for the previous offense in any penal institution or was imprisoned therein as a condition of probation for the offense"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person convicted of a previous violation of Section 10851 of the Vehicle Code, or of subdivision (d) of Section 487, involving a vehicle or vessel"
+    },
+    {
+     "where": "(b)",
+     "act": "Commits a violation of Section 499b involving a vehicle or vessel",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "All such violations involve a vehicle or vessel",
+      "The person has been imprisoned therefore as a condition of probation or otherwise at least once"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person previously convicted under charges separately brought and tried two or more times of a violation of Section 499b"
+    }
+   ]
+  }
+ },
+ "499b": {
+  "review": {
+   "title": "Joyriding on a bicycle or vessel",
+   "isOffense": true,
+   "plain": "Taking someone's bicycle or vessel without permission to use it temporarily is a misdemeanor, punishable by up to three months in county jail for a bicycle or up to one year for a vessel.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "acts": [
+    "take any bicycle",
+    "take any vessel"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "For the purpose of temporarily using or operating the same"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Takes any bicycle",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the permission of the owner thereof"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor, punishable by a fine not exceeding four hundred dollars ($400), or by imprisonment in a county jail not exceeding three months, or by both that fine and imprisonment",
+       "min": null,
+       "max": 0.25,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Takes any vessel",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the permission of the owner thereof"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor, punishable by a fine not exceeding one thousand dollars ($1,000), or by imprisonment in a county jail not exceeding one year, or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "499c": {
+  "review": {
+   "title": "Theft of trade secrets",
+   "isOffense": true,
+   "plain": "Stealing, misappropriating, or copying a trade secret to deprive its owner or use it is theft; bribing an employee to hand over a trade secret, or accepting such a bribe, is punishable by up to one year in county jail or as a felony.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "Steals, takes, carries away, or uses without authorization, a trade secret",
+    "Fraudulently appropriates any article representing a trade secret entrusted to him or her",
+    "makes or causes to be made a copy of any article representing a trade secret",
+    "promises, offers or gives, or conspires to promise or offer to give, to any present or former agent, employee or servant of another, a benefit",
+    "solicits, accepts, receives or takes a benefit"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Trade secret\": information, including a formula, pattern, compilation, program, device, method, technique, or process, that derives independent economic value, actual or potential, from not being generally known to the public or to other persons who can obtain economic value from its disclosure or use, and is the subject of efforts that are reasonable under the circumstances to maintain its secrecy",
+     "\"Article\": any object, material, device, or substance or copy thereof, including any writing, record, recording, drawing, sample, specimen, prototype, model, photograph, micro-organism, blueprint, map, or tangible representation of a computer program or information, including both human and computer readable information and information while in transit",
+     "\"Copy\": any facsimile, replica, photograph or other reproduction of an article, and any note, drawing or sketch made of or from an article",
+     "\"Representing\": describing, depicting, containing, constituting, reflecting or recording",
+     "\"Benefit\": gain or advantage, or anything regarded by the beneficiary as gain or advantage, including benefit to any other person or entity in whose welfare he or she is interested",
+     "\"Access\": to approach, a way or means of approaching, nearing, admittance to, including to instruct, communicate with, store information in, or retrieve information from a computer system or computer network"
+    ],
+    "consequences": [
+     "It shall be no defense that the person returned or intended to return the article"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(b)(1)",
+     "act": "Steals, takes, carries away, or uses without authorization, a trade secret",
+     "ways": [
+      "steals",
+      "takes",
+      "carries away",
+      "uses without authorization"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to deprive or withhold the control of a trade secret from its owner, or with an intent to appropriate a trade secret to his or her own use or to the use of another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Fraudulently appropriates any article representing a trade secret entrusted to him or her",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to deprive or withhold the control of a trade secret from its owner, or with an intent to appropriate a trade secret to his or her own use or to the use of another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(3)",
+     "act": "Makes or causes to be made a copy of any article representing a trade secret",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Having unlawfully obtained access to the article",
+      "Without authority"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to deprive or withhold the control of a trade secret from its owner, or with an intent to appropriate a trade secret to his or her own use or to the use of another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(4)",
+     "act": "Makes or causes to be made, directly from and in the presence of the article, a copy of any article representing a trade secret",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Having obtained access to the article through a relationship of trust and confidence",
+      "Without authority and in breach of the obligations created by that relationship"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to deprive or withhold the control of a trade secret from its owner, or with an intent to appropriate a trade secret to his or her own use or to the use of another"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of theft (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Promises, offers or gives, or conspires to promise or offer to give, to any present or former agent, employee or servant of another, a benefit as an inducement, bribe or reward for conveying, delivering or otherwise making available an article representing a trade secret owned by his or her present or former principal, employer or master",
+     "ways": [
+      "promises",
+      "offers",
+      "gives",
+      "conspires to promise or offer to give"
+     ],
+     "tags": [
+      "conspiracy"
+     ],
+     "conditions": [
+      "The article is to be made available to any person not authorized by the owner to receive or acquire the trade secret"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Solicits, accepts, receives or takes a benefit as an inducement, bribe or reward for conveying, delivering or otherwise making available an article representing a trade secret owned by his or her present or former principal, employer or master",
+     "ways": [
+      "solicits",
+      "accepts",
+      "receives",
+      "takes"
+     ],
+     "tags": [],
+     "conditions": [
+      "The article is to be made available to any person not authorized by the owner to receive or acquire the trade secret"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A present or former agent, employee, or servant",
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "499d": {
+  "review": {
+   "title": "Unauthorized taking of an aircraft",
+   "isOffense": true,
+   "plain": "Operating or taking another's aircraft without consent, intending to deprive the owner of it permanently or temporarily, or being an accomplice, is a felony punishable by up to one year in county jail or under county felony sentencing, or a fine up to $10,000.",
+   "category": "Property Crimes",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "operates or takes an aircraft not his own",
+    "is a party or accessory to or an accomplice in any operation or unauthorized taking or stealing"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a felony, punished by imprisonment in a county jail for not more than one year or by imprisonment pursuant to subdivision (h) of Section 1170, or by a fine of not more than ten thousand dollars ($10,000) or by both that fine and imprisonment",
+      "min": null,
+      "max": 1,
+      "flags": [
+       "wobbler"
+      ]
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Operates or takes an aircraft not his own",
+     "ways": [
+      "operates",
+      "takes"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without the consent of the owner thereof",
+      "Whether with or without intent to steal the same"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to either permanently or temporarily deprive the owner thereof of his title to or possession of such vehicle"
+     ]
+    },
+    {
+     "where": "",
+     "act": "Is a party or accessory to or an accomplice in any operation or unauthorized taking or stealing of an aircraft",
+     "ways": [
+      "party",
+      "accessory",
+      "accomplice"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "500": {
+  "review": {
+   "title": "Failing to transmit money abroad",
+   "isOffense": true,
+   "plain": "A person who takes money to send to a foreign country and does not forward it, commit equivalent funds, or refund it within 10 days commits a crime punishable by up to three years if $950 or more.",
+   "category": "Fraud & Money",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "fails to do at least one of the following acts"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who receives money for the actual or purported purpose of transmitting the same or its equivalent to foreign countries as specified in Section 1800.5 of the Financial Code"
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Fails to do at least one of the following acts: forward the money as represented to the customer within 10 days of receipt of the funds; give instructions within 10 days of receipt committing equivalent funds to the person designated by the customer; or refund any money not forwarded as represented within 10 days of the customer's written request for a refund",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless otherwise instructed by the customer"
+     ],
+     "defenses": [],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Imprisonment in a county jail not exceeding one year or by a fine not exceeding one thousand dollars ($1,000), or by both that imprisonment and fine (total value of the funds received from the customer is less than nine hundred fifty dollars ($950))",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the total value of the money received from the customer is nine hundred fifty dollars ($950) or more, or the total value of all moneys received by the person from different customers is nine hundred fifty dollars ($950) or more and the receipts were part of a common scheme or plan",
+       "penalty": "Imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, two, or three years, by a fine not exceeding ten thousand dollars ($10,000), or by both that imprisonment and fine",
+       "min": null,
+       "max": 3,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "501": {
+  "review": {
+   "title": "Proof of stolen money in larceny trials",
+   "isOffense": false,
+   "plain": "Says that in a larceny or embezzlement trial the description of stolen money, bank notes, stock certificates, or securities is proved even if the exact kind or denomination is not proved."
+  }
+ },
+ "502": {
+  "review": {
+   "title": "Computer crimes",
+   "isOffense": true,
+   "plain": "Knowingly accessing, damaging, copying, or using computers, data, or computer services without permission, disrupting service, or introducing viruses is a crime; serious violations are punishable by up to three years under county felony sentencing.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": 3,
+   "maxPlus": true,
+   "acts": [
+    "alters, damages, deletes, destroys, or otherwise uses any data, computer, computer system, or computer network",
+    "takes, copies, or makes use of any data from a computer, computer system, or computer network",
+    "takes or copies any supporting documentation",
+    "uses or causes to be used computer services",
+    "adds, alters, damages, deletes, or destroys any data, computer software, or computer programs which reside or exist internal or external to a computer, computer system, or computer network",
+    "disrupts or causes the disruption of computer services or denies or causes the denial of computer services to an authorized user of a computer, computer system, or computer network",
+    "provides or assists in providing a means of accessing a computer, computer system, or computer network",
+    "accesses or causes to be accessed any computer, computer system, or computer network",
+    "introduces any computer contaminant into any computer, computer system, or computer network",
+    "uses the internet domain name or profile of another individual, corporation, or entity in connection with the sending of one or more electronic mail messages or posts",
+    "disrupts or causes the disruption of government computer services or denies or causes the denial of government computer services to an authorized user of a government computer, computer system, or computer network",
+    "adds, alters, damages, deletes, or destroys any data, computer software, or computer programs which reside or exist internal or external to a public safety infrastructure computer system computer, computer system, or computer network",
+    "disrupts or causes the disruption of public safety infrastructure computer system computer services or denies or causes the denial of computer services to an authorized user of a public safety infrastructure computer system computer, computer system, or computer network",
+    "provides or assists in providing a means of accessing a computer, computer system, or public safety infrastructure computer system computer, computer system, or computer network",
+    "introduces any computer contaminant into any public safety infrastructure computer system computer, computer system, or computer network"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "exceptions": [
+     "Acts committed by a person within the scope of lawful employment, meaning acts reasonably necessary to the performance of their work assignment"
+    ],
+    "consequences": [
+     "The owner or lessee who suffers damage or loss may bring a civil action for compensatory damages and injunctive relief or other equitable relief, with reasonable attorney's fees and, for a willful violation proved by clear and convincing evidence of oppression, fraud, or malice, punitive or exemplary damages",
+     "Any computer, computer system, computer network, software or data owned by the defendant and used in the offense, or used to store illegally obtained software or data, is subject to forfeiture, as specified in Section 502.01",
+     "The court shall consider prohibitions on access to and use of computers, and alternate sentencing, including community service"
+    ],
+    "terms": [
+     "\"Access\": to gain entry to, instruct, cause input to, cause output from, cause data processing with, or communicate with, the logical, arithmetical, or memory function resources of a computer, computer system, or computer network",
+     "\"Computer services\": includes, but is not limited to, computer time, data processing, or storage functions, internet services, electronic mail services, electronic message services, or other uses of a computer, computer system, or computer network",
+     "\"Data\": a representation of information, knowledge, facts, concepts, computer software, or computer programs or instructions, in any form",
+     "\"Computer contaminant\": any set of computer instructions that are designed to modify, damage, destroy, record, or transmit information within a computer, computer system, or computer network without the intent or permission of the owner of the information, including viruses or worms",
+     "\"Government computer system\": any computer system, or part thereof, that is owned, operated, or used by any federal, state, or local governmental entity",
+     "\"Public safety infrastructure computer system\": any computer system, or part thereof, that is necessary for the health and safety of the public including computer systems owned, operated, or used by drinking water and wastewater treatment facilities, hospitals, emergency service providers, telecommunication companies, and gas and electric utility companies",
+     "\"Injury\": any alteration, deletion, damage, or destruction of a computer system, computer network, computer program, or data caused by the access, or the denial of access to legitimate users of a computer system, network, or program",
+     "\"Victim expenditure\": any expenditure reasonably and necessarily incurred by the owner or lessee to verify that a computer system, computer network, computer program, or data was or was not altered, deleted, damaged, or destroyed by the access"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(c)(1)",
+     "act": "Accesses and alters, damages, deletes, destroys, or otherwise uses any data, computer, computer system, or computer network",
+     "ways": [
+      "alters",
+      "damages",
+      "deletes",
+      "destroys",
+      "otherwise uses"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly",
+      "In order to either (A) devise or execute any scheme or artifice to defraud, deceive, or extort, or (B) wrongfully control or obtain money, property, or data"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(2)",
+     "act": "Accesses and takes, copies, or makes use of any data from a computer, computer system, or computer network, or takes or copies any supporting documentation",
+     "ways": [
+      "takes, copies, or makes use of any data",
+      "takes or copies any supporting documentation"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(3)",
+     "act": "Uses or causes to be used computer services",
+     "ways": [
+      "uses",
+      "causes to be used"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [
+      "Acts committed by a person acting outside of their lawful employment, provided that the employee's activities do not cause an injury to the employer or another, or provided that the value of supplies or computer services which are used does not exceed an accumulated total of two hundred fifty dollars ($250)"
+     ],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment (first violation that does not result in injury, where the value of the computer services used does not exceed nine hundred fifty dollars ($950))",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount greater than five thousand dollars ($5,000) or in an injury, or the value of the computer services used exceeds nine hundred fifty dollars ($950), or the violation is a second or subsequent violation",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, or both that fine and imprisonment, or a fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(4)",
+     "act": "Accesses and adds, alters, damages, deletes, or destroys any data, computer software, or computer programs which reside or exist internal or external to a computer, computer system, or computer network",
+     "ways": [
+      "adds",
+      "alters",
+      "damages",
+      "deletes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(5)",
+     "act": "Disrupts or causes the disruption of computer services or denies or causes the denial of computer services to an authorized user of a computer, computer system, or computer network",
+     "ways": [
+      "disrupts or causes the disruption",
+      "denies or causes the denial"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(6)",
+     "act": "Provides or assists in providing a means of accessing a computer, computer system, or computer network in violation of this section",
+     "ways": [
+      "provides",
+      "assists in providing"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding one thousand dollars ($1,000) (first violation that does not result in injury)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount not greater than five thousand dollars ($5,000), or the violation is a second or subsequent violation",
+       "penalty": "A fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount greater than five thousand dollars ($5,000)",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, or both that fine and imprisonment, or a fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(7)",
+     "act": "Accesses or causes to be accessed any computer, computer system, or computer network",
+     "ways": [
+      "accesses",
+      "causes to be accessed"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding one thousand dollars ($1,000) (first violation that does not result in injury)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount not greater than five thousand dollars ($5,000), or the violation is a second or subsequent violation",
+       "penalty": "A fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount greater than five thousand dollars ($5,000)",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, or both that fine and imprisonment, or a fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(8)",
+     "act": "Introduces any computer contaminant into any computer, computer system, or computer network",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor punishable by a fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment (first violation that does not result in injury)",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation results in injury, or is a second or subsequent violation",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(9)",
+     "act": "Uses the internet domain name or profile of another individual, corporation, or entity in connection with the sending of one or more electronic mail messages or posts and thereby damages or causes damage to a computer, computer data, computer system, or computer network",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without permission",
+      "Thereby damages or causes damage to a computer, computer data, computer system, or computer network"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding one thousand dollars ($1,000) (first violation that does not result in injury)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      },
+      {
+       "if": "the violation results in injury, or is a second or subsequent violation",
+       "penalty": "A fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)(10)",
+     "act": "Disrupts or causes the disruption of government computer services or denies or causes the denial of government computer services to an authorized user of a government computer, computer system, or computer network",
+     "ways": [
+      "disrupts or causes the disruption",
+      "denies or causes the denial"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(11)",
+     "act": "Accesses and adds, alters, damages, deletes, or destroys any data, computer software, or computer programs which reside or exist internal or external to a public safety infrastructure computer system computer, computer system, or computer network",
+     "ways": [
+      "adds",
+      "alters",
+      "damages",
+      "deletes",
+      "destroys"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission",
+      "The computer, computer system, or computer network is a public safety infrastructure computer system"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(12)",
+     "act": "Disrupts or causes the disruption of public safety infrastructure computer system computer services or denies or causes the denial of computer services to an authorized user of a public safety infrastructure computer system computer, computer system, or computer network",
+     "ways": [
+      "disrupts or causes the disruption",
+      "denies or causes the denial"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission",
+      "The computer, computer system, or computer network is a public safety infrastructure computer system"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A felony, punishable by imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years and a fine not exceeding ten thousand dollars ($10,000), or a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, by a fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(13)",
+     "act": "Provides or assists in providing a means of accessing a computer, computer system, or public safety infrastructure computer system computer, computer system, or computer network in violation of this section",
+     "ways": [
+      "provides",
+      "assists in providing"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without permission"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "An infraction punishable by a fine not exceeding one thousand dollars ($1,000) (first violation that does not result in injury)",
+       "min": null,
+       "max": 0,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount not greater than five thousand dollars ($5,000), or the violation is a second or subsequent violation",
+       "penalty": "A fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation results in a victim expenditure in an amount greater than five thousand dollars ($5,000)",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment pursuant to subdivision (h) of Section 1170 for 16 months, or two or three years, or both that fine and imprisonment, or a fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment",
+       "min": null,
+       "max": 3,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(c)(14)",
+     "act": "Introduces any computer contaminant into any public safety infrastructure computer system computer, computer system, or computer network",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The computer, computer system, or computer network is a public safety infrastructure computer system"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "A misdemeanor punishable by a fine not exceeding five thousand dollars ($5,000), or imprisonment in a county jail not exceeding one year, or both that fine and imprisonment (first violation that does not result in injury)",
+       "min": null,
+       "max": 1,
+       "flags": []
+      },
+      {
+       "if": "the violation results in injury, or is a second or subsequent violation",
+       "penalty": "A fine not exceeding ten thousand dollars ($10,000), or imprisonment in a county jail not exceeding one year, or imprisonment pursuant to subdivision (h) of Section 1170, or both that fine and imprisonment",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "502.01": {
+  "review": {
+   "title": "Forfeiture of computers and telecom devices",
+   "isOffense": false,
+   "plain": "Sets the court procedure for forfeiting a convicted defendant's computers, software, or illegal telecommunications equipment, protecting other owners' interests and directing how the property or sale proceeds are distributed."
+  }
+ },
+ "502.5": {
+  "review": {
+   "title": "Removing improvements from mortgaged property",
+   "isOffense": true,
+   "plain": "Removing or disposing of a house, barn, pump, or other attached improvement from mortgaged or foreclosed real property, with intent to defraud the lender or buyer and without written consent, is larceny.",
+   "category": "Property Crimes",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "takes, removes or carries away from such mortgaged or encumbered premises, or otherwise disposes of or permits the taking, removal or carrying away or otherwise disposing of any house, barn, windmill, water tank, pump, engine or other part of the freehold"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": "A person who has mortgaged or encumbered real property by deed of trust",
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of larceny and shall be punished accordingly (no punishment is stated in this section)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Takes, removes or carries away from such mortgaged or encumbered premises, or otherwise disposes of or permits the taking, removal or carrying away or otherwise disposing of any house, barn, windmill, water tank, pump, engine or other part of the freehold",
+     "ways": [
+      "takes",
+      "removes",
+      "carries away",
+      "otherwise disposes of",
+      "permits the taking, removal, carrying away or disposing"
+     ],
+     "tags": [],
+     "conditions": [
+      "During the existence of the mortgage or deed of trust, or after the property has been sold under an order and decree of foreclosure or at trustee's sale",
+      "The part of the freehold is attached or affixed to the premises as an improvement thereon",
+      "Without the written consent of the mortgagee or beneficiary, under deed of trust, his representatives, successors or assigns, or the purchaser at such foreclosure or trustee's sale, his representatives, successors or assigns"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to defraud or injure the mortgagee or the beneficiary or trustee, under such deed of trust, his representatives, successors or assigns, or the purchaser of such mortgaged or encumbered premises at such foreclosure or trustee's sale, his representatives, successors or assigns"
+     ]
+    }
+   ]
+  }
+ },
+ "502.6": {
+  "review": {
+   "title": "Payment card skimmers and reencoders",
+   "isOffense": true,
+   "plain": "Knowingly possessing or using a card scanning device or reencoder with intent to defraud, to capture or place payment card data without the cardholder's permission, is a misdemeanor punishable by up to one year in county jail.",
+   "category": "Fraud & Money",
+   "maxYears": 1,
+   "acts": [
+    "possesses a scanning device",
+    "uses a scanning device to access, read, obtain, memorize or store, temporarily or permanently, information encoded on the magnetic strip or stripe of a payment card",
+    "possesses a reencoder",
+    "uses a reencoder to place encoded information on the magnetic strip or stripe of a payment card or any electronic medium that allows an authorized transaction to occur"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "intent": [
+     "Knowingly, willfully, and with the intent to defraud"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Guilty of a misdemeanor, punishable by a term in a county jail not to exceed one year, or a fine of one thousand dollars ($1,000), or both the imprisonment and fine",
+      "min": null,
+      "max": 1,
+      "flags": []
+     }
+    ],
+    "consequences": [
+     "Any scanning device or reencoder owned by the defendant and possessed or used in violation of subdivision (a) or (b) may be seized and destroyed as contraband by the sheriff",
+     "Any computer, computer system, computer network, software or data owned by the defendant and used in the offense, or used to store illegally obtained software or data, is subject to forfeiture"
+    ],
+    "terms": [
+     "\"Scanning device\": a scanner, reader, or any other electronic device that is used to access, read, scan, obtain, memorize, or store, temporarily or permanently, information encoded on the magnetic strip or stripe of a payment card",
+     "\"Reencoder\": an electronic device that places encoded information from the magnetic strip or stripe of a payment card on to the magnetic strip or stripe of a different payment card",
+     "\"Payment card\": a credit card, debit card, or any other card that is issued to an authorized user and that allows the user to obtain, purchase, or receive goods, services, money, or anything else of value"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Possesses a scanning device",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(a)",
+     "act": "Uses a scanning device to access, read, obtain, memorize or store, temporarily or permanently, information encoded on the magnetic strip or stripe of a payment card",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the permission of the authorized user of the payment card"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)",
+     "act": "Possesses a reencoder",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "(b)",
+     "act": "Uses a reencoder to place encoded information on the magnetic strip or stripe of a payment card or any electronic medium that allows an authorized transaction to occur",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Without the permission of the authorized user of the payment card from which the information is being reencoded"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "502.7": {
+  "review": {
+   "title": "Telephone service fraud",
+   "isOffense": true,
+   "plain": "Avoiding telephone or telegraph charges by fraud, making or selling devices or plans to avoid toll charges, publishing card numbers for that purpose, or selling use of one's calling card is a misdemeanor or felony.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": null,
+   "maxPlus": true,
+   "acts": [
+    "avoids or attempts to avoid, or aids, abets or causes another to avoid the lawful charge, in whole or in part, for telephone or telegraph service",
+    "Makes, possesses, sells, gives, or otherwise transfers to another, or offers or advertises any instrument, apparatus, or device",
+    "Sells, gives, or otherwise transfers to another or offers, or advertises plans or instructions for making or assembling an instrument, apparatus, or device",
+    "publishes the number or code of an existing, canceled, revoked, expired, or nonexistent credit card, or the numbering or coding which is employed in the issuance of credit cards",
+    "receives anything of value"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "consequences": [
+     "Any person or telephone company defrauded is entitled to restitution for the entire amount of the charges avoided from any person convicted under this section",
+     "Instruments, apparatus, devices, plans, instructions, or written publications described in subdivision (b) or (c) may be seized and, upon conviction under subdivision (a), (b), or (c), destroyed as contraband or turned over to the person providing telephone or telegraph service",
+     "Any computer, computer system, computer network, software or data owned by the defendant and used in the offense, or used to store illegally obtained software or data, is subject to forfeiture"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Avoids or attempts to avoid, or aids, abets or causes another to avoid the lawful charge, in whole or in part, for telephone or telegraph service",
+     "ways": [
+      "By charging the service to an existing telephone number or credit card number without the authority of the subscriber or lawful holder",
+      "By charging the service to a nonexistent, suspended, terminated, revoked, or canceled number after notice to the subscriber or holder",
+      "By use of a code, prearranged scheme, or other similar stratagem or device whereby the person, in effect, sends or receives information",
+      "By rearranging, tampering with, or making connection with telephone or telegraph facilities or equipment, or by using the service with knowledge or reason to believe that the rearrangement, tampering, or connection existed",
+      "By using any other deception, false pretense, trick, scheme, device, conspiracy, or means, including the fraudulent use of false, altered, or stolen identification"
+     ],
+     "tags": [
+      "attempt"
+     ],
+     "conditions": [
+      "The telephone or telegraph communication either originates or terminates in this state, or the charges for service would have been billable, in normal course, by a person providing telephone or telegraph service in this state"
+     ],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly, willfully, and with intent to defraud a person providing telephone or telegraph service"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor or a felony (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior misdemeanor or felony conviction for theft of services under this section within the past five years",
+       "penalty": "A felony (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(1)",
+     "act": "Makes, possesses, sells, gives, or otherwise transfers to another, or offers or advertises any instrument, apparatus, or device",
+     "ways": [
+      "makes",
+      "possesses",
+      "sells",
+      "gives",
+      "otherwise transfers",
+      "offers",
+      "advertises"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to use it or with knowledge or reason to believe it is intended to be used to avoid any lawful telephone or telegraph toll charge or to conceal the existence or place of origin or destination of any telephone or telegraph message"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor or a felony (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior misdemeanor or felony conviction for theft of services under this section within the past five years",
+       "penalty": "A felony (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)(2)",
+     "act": "Sells, gives, or otherwise transfers to another or offers, or advertises plans or instructions for making or assembling an instrument, apparatus, or device described in paragraph (1) of this subdivision",
+     "ways": [
+      "sells",
+      "gives",
+      "otherwise transfers",
+      "offers",
+      "advertises"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "knowledge": [
+      "With knowledge or reason to believe that they may be used to make or assemble the instrument, apparatus, or device"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor or a felony (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior misdemeanor or felony conviction for theft of services under this section within the past five years",
+       "penalty": "A felony (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(c)",
+     "act": "Publishes the number or code of an existing, canceled, revoked, expired, or nonexistent credit card, or the numbering or coding which is employed in the issuance of credit cards",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With the intent that it be used or with knowledge or reason to believe that it will be used to avoid the payment of any lawful telephone or telegraph toll charge"
+     ],
+     "terms": [
+      "\"Publishes\": the communication of information to any one or more persons, either orally, in person or by telephone, radio, or television, or electronic means, including, but not limited to, a bulletin board system, or in a writing of any kind, including without limitation a letter or memorandum, circular or handbill, newspaper, or magazine article, or book"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Receives anything of value for allowing another person to use the means or device in order to fraudulently obtain telecommunications services",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "who": "A person who is the issuee of a calling card, credit card, calling code, or any other means or device for the legal use of telecommunications services",
+     "knowledge": [
+      "Knowingly allowing another person to use the means or device"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor or a felony (no punishment is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has a prior misdemeanor or felony conviction for theft of services under this section within the past five years",
+       "penalty": "A felony (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "502.8": {
+  "review": {
+   "title": "Illegal telecommunications equipment",
+   "isOffense": true,
+   "plain": "Advertising, possessing, or using illegal telecommunications equipment to avoid charges is a misdemeanor; possessing it to sell can bring county jail or state prison, and repeat use or dealing in 10 or more items is a felony.",
+   "category": "Cyber, Privacy & Communications",
+   "maxYears": 1,
+   "maxPlus": true,
+   "acts": [
+    "advertises illegal telecommunications equipment",
+    "possesses or uses illegal telecommunications equipment",
+    "possesses illegal telecommunications equipment",
+    "possesses 10 or more items of illegal telecommunications equipment",
+    "manufactures 10 or more items of illegal telecommunications equipment"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "who": null,
+    "terms": [
+     "\"Illegal telecommunications equipment\": equipment that operates to evade the lawful charges for any telecommunications service; surreptitiously intercept electronic serial numbers or mobile identification numbers; alter electronic serial numbers; circumvent efforts to confirm legitimate access to a telecommunications account; conceal from any telecommunications service provider or lawful authority the existence, place of origin, or destination of any telecommunication; or otherwise facilitate any other criminal conduct, including any unauthorized electronic serial number or mobile identification number, notwithstanding any statement or disclaimer that the items are intended for educational, instructional, or similar purposes"
+    ],
+    "consequences": [
+     "If the person acted with the intent to avoid the payment of any lawful charge for telecommunications service, the court shall order restitution to the telecommunications service provider of the greater of five thousand dollars ($5,000) or three times the amount of actual damages, if any, plus reasonable attorney fees"
+    ]
+   },
+   "crimes": [
+    {
+     "where": "(a)",
+     "act": "Advertises illegal telecommunications equipment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Knowingly"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(b)",
+     "act": "Possesses or uses illegal telecommunications equipment",
+     "ways": [
+      "possesses",
+      "uses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "Intending to avoid the payment of any lawful charge for telecommunications service or to facilitate other criminal conduct"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor (no term is stated in this section)",
+       "min": null,
+       "max": null,
+       "flags": []
+      },
+      {
+       "if": "the person has previously been convicted of the same offense",
+       "penalty": "Guilty of a felony, punishable by imprisonment in state prison, a fine of up to fifty thousand dollars ($50,000), or both",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(d)",
+     "act": "Possesses illegal telecommunications equipment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to sell, transfer, or furnish or offer to sell, transfer, or furnish the equipment to another",
+      "Intending to avoid the payment of any lawful charge for telecommunications service or to facilitate other criminal conduct"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a misdemeanor punishable by one year in a county jail or imprisonment in state prison or a fine of up to ten thousand dollars ($10,000), or both",
+       "min": null,
+       "max": 1,
+       "flags": [
+        "wobbler"
+       ]
+      }
+     ]
+    },
+    {
+     "where": "(e)",
+     "act": "Possesses 10 or more items of illegal telecommunications equipment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to sell or offer to sell the equipment to another",
+      "Intending to avoid the payment of any lawful charge for telecommunications service or to facilitate other criminal conduct"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony, punishable by imprisonment in state prison, a fine of up to fifty thousand dollars ($50,000), or both",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    },
+    {
+     "where": "(f)",
+     "act": "Manufactures 10 or more items of illegal telecommunications equipment",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [],
+     "intent": [
+      "With intent to sell or offer to sell the equipment to another",
+      "Intending to avoid the payment of any lawful charge for telecommunications service or to facilitate other criminal conduct"
+     ],
+     "penalties": [
+      {
+       "if": "",
+       "penalty": "Guilty of a felony punishable by imprisonment in state prison or a fine of up to fifty thousand dollars ($50,000), or both",
+       "min": null,
+       "max": null,
+       "flags": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "502.9": {
+  "review": {
+   "title": "Elder victims as aggravating factor",
+   "isOffense": false,
+   "plain": "Makes an elder or dependent victim a circumstance in aggravation when a court sets the term for a felony under this chapter."
+  }
+ }
+}

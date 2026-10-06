@@ -1,0 +1,1339 @@
+{
+ "145.70": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of a taximeter accelerating device is knowingly possessing a device that makes a taxi meter charge more than local law permits, intending to use it unlawfully; it is a class A misdemeanor.",
+   "category": "Fraud & Money",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "possesses, with intent to use unlawfully, a taximeter accelerating device"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to use unlawfully"
+    ],
+    "terms": [
+     "\"taximeter\": an instrument or device that automatically calculates and displays the charge to a passenger in a vehicle that is licensed to transport members of the public for hire pursuant to local law",
+     "\"taximeter accelerating device\": an instrument or device that causes a taximeter to increase the charge displayed by such taximeter to an amount greater than the maximum amount permitted by local law"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "3",
+     "act": "Possesses a taximeter accelerating device",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "150.00": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines \"building\" and \"motor vehicle\" for the arson article; it creates no crime of its own."
+  }
+ },
+ "150.01": {
+  "review": {
+   "isOffense": true,
+   "plain": "Arson in the fifth degree is intentionally damaging another's property, without the owner's consent, by intentionally starting a fire or causing an explosion; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "damages property of another without consent of the owner",
+    "starting a fire or causing an explosion"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally damages property of another",
+     "Intentionally starting a fire or causing an explosion"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Damages property of another by starting a fire or causing an explosion",
+     "ways": [
+      "Starting a fire",
+      "Causing an explosion"
+     ],
+     "tags": [],
+     "conditions": [
+      "Without consent of the owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "150.05": {
+  "review": {
+   "isOffense": true,
+   "plain": "Arson in the fourth degree is recklessly damaging a building or motor vehicle by intentionally starting a fire or causing an explosion; it is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "damages a building or motor vehicle",
+    "starting a fire or causing an explosion"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Recklessly"
+    ],
+    "intent": [
+     "Intentionally starting a fire or causing an explosion"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Damages a building or motor vehicle by starting a fire or causing an explosion",
+     "ways": [
+      "Starting a fire",
+      "Causing an explosion"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "Affirmative defense: no person other than the defendant had a possessory or proprietary interest in the building or motor vehicle"
+     ]
+    }
+   ]
+  }
+ },
+ "150.10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Arson in the third degree is intentionally damaging a building or motor vehicle by starting a fire or causing an explosion; it is a class C felony.",
+   "category": "Property Crimes",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "damages a building or motor vehicle by starting a fire or causing an explosion"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Damages a building or motor vehicle by starting a fire or causing an explosion",
+     "ways": [
+      "Starting a fire",
+      "Causing an explosion"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": [
+      "Affirmative defense, when all of the following are shown: (a) no person other than the defendant had a possessory or proprietary interest in the building or motor vehicle, or if other persons had such interests, all of them consented to the defendant's conduct; (b) the defendant's sole intent was to destroy or damage the building or motor vehicle for a lawful and proper purpose; and (c) the defendant had no reasonable ground to believe that his conduct might endanger the life or safety of another person or damage another building or motor vehicle"
+     ]
+    }
+   ]
+  }
+ },
+ "150.15": {
+  "review": {
+   "isOffense": true,
+   "plain": "Arson in the second degree is intentionally damaging a building or motor vehicle by fire when a non-participant is present and the defendant knows or should see that as reasonably possible; it is a class B felony.",
+   "category": "Property Crimes",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "damages a building or motor vehicle by starting a fire"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally"
+    ],
+    "knowledge": [
+     "The defendant knows that fact or the circumstances are such as to render the presence of such a person therein a reasonable possibility"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Damages a building or motor vehicle by starting a fire",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Another person who is not a participant in the crime is present in such building or motor vehicle at the time"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "150.20": {
+  "review": {
+   "isOffense": true,
+   "plain": "Arson in the first degree is intentionally damaging an occupied building or motor vehicle by explosion or fire using an incendiary device or explosive, causing serious injury, or for profit; it is a class A-I felony.",
+   "category": "Property Crimes",
+   "penClass": "Class A-I felony",
+   "maxYears": null,
+   "acts": [
+    "damages a building or motor vehicle by causing an explosion or a fire"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally"
+    ],
+    "knowledge": [
+     "The defendant knows that fact or the circumstances are such as to render the presence of such person therein a reasonable possibility"
+    ],
+    "terms": [
+     "\"incendiary device\": a breakable container designed to explode or produce uncontained combustion upon impact, containing flammable liquid and having a wick or a similar device capable of being ignited"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A-I felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Damages a building or motor vehicle by causing an explosion or a fire",
+     "ways": [
+      "Causing an explosion",
+      "Causing a fire"
+     ],
+     "tags": [],
+     "conditions": [
+      "Any of the following: such explosion or fire is caused by an incendiary device propelled, thrown or placed inside or near such building or motor vehicle; such explosion or fire is caused by an explosive; such explosion or fire causes serious physical injury to another person other than a participant; or the explosion or fire was caused with the expectation or receipt of financial advantage or pecuniary profit by the actor",
+      "Another person who is not a participant in the crime is present in such building or motor vehicle at the time"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.00": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines property, obtain, deprive, appropriate, owner, credit card, service, elderly person and other terms used in the theft title; it creates no crime of its own."
+  }
+ },
+ "155.05": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines larceny and the ways it is committed, including by trick, lost property, false promise, extortion, wage theft and deed theft; the crimes and their classes are set in other sections."
+  }
+ },
+ "155.10": {
+  "review": {
+   "isOffense": false,
+   "plain": "Provides that larceny by extortion and the listed bribe-receiving crimes are not mutually exclusive, so committing bribe receiving is no defense to larceny by extortion."
+  }
+ },
+ "155.15": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets affirmative defenses to larceny: a good-faith claim of right for trespassory taking or embezzlement, and a reasonable belief in a threatened charge for certain extortion."
+  }
+ },
+ "155.20": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets how the value of stolen property is determined for theft crimes, including market value, written instruments, utilities, and a default of less than two hundred fifty dollars."
+  }
+ },
+ "155.25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Petit larceny is stealing property; it is a class A misdemeanor.",
+   "category": "Property Crimes",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "steals property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.30": {
+  "review": {
+   "isOffense": true,
+   "plain": "Grand larceny in the fourth degree is stealing property worth over $1,000 or of listed kinds, such as public records, credit cards, firearms, motor vehicles, or property taken from a person or by extortion; it is a class E felony.",
+   "category": "Property Crimes",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "steals property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds one thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of a public record, writing or instrument kept, filed or deposited according to law with or in the keeping of any public office or public servant"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of secret scientific material"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of a credit card or debit card"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "5",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property, regardless of its nature and value, is taken from the person of another"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "6",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property, regardless of its nature and value, is obtained by extortion"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "7",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of one or more firearms, rifles or shotguns, as such terms are defined in section 265.00 of this chapter"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "8",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds one hundred dollars",
+      "The property consists of a motor vehicle, as defined in section one hundred twenty-five of the vehicle and traffic law, other than a motorcycle, as defined in section one hundred twenty-three of such law"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "9",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of a scroll, religious vestment, a vessel, an item comprising a display of religious symbols which forms a representative expression of faith, or other miscellaneous item of property",
+      "The property has a value of at least one hundred dollars",
+      "The property is kept for or used in connection with religious worship in any building, structure or upon the curtilage of such building or structure used as a place of religious worship by a religious corporation, as incorporated under the religious corporations law or the education law"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "10",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "The person intends to use the access device unlawfully to obtain telephone service"
+     ],
+     "conditions": [
+      "The property consists of an access device"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "11",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "The actor intends to use, or knows another person intends to use, such anhydrous ammonia or liquified ammonia gas to manufacture methamphetamine"
+     ],
+     "conditions": [
+      "The property consists of anhydrous ammonia or liquified ammonia gas"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "12",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+      "The value of the property exceeds one thousand dollars",
+      "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.35": {
+  "review": {
+   "isOffense": true,
+   "plain": "Grand larceny in the third degree is stealing property worth over $3,000, an ATM or its contents, retail goods over $3,000 in a common scheme, or deed theft of one commercial property; it is a class D felony.",
+   "category": "Property Crimes",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "steals property",
+    "commits deed theft of one commercial real property"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds three thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property is an automated teller machine or the contents of an automated teller machine"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+      "The value of the property exceeds three thousand dollars",
+      "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Commits deed theft of one commercial real property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Regardless of the value"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.40": {
+  "review": {
+   "isOffense": true,
+   "plain": "Grand larceny in the second degree is stealing property worth over $50,000, obtaining property by certain extortion threats, retail theft over $50,000 in a common scheme, or listed deed thefts; it is a class C felony.",
+   "category": "Property Crimes",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "steals property",
+    "commits deed theft, regardless of the value, of"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds fifty thousand dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property, regardless of its nature and value, is obtained by extortion committed by instilling in the victim a fear that the actor or another person will (a) cause physical injury to some person in the future, or (b) cause damage to property, or (c) use or abuse the actor's position as a public servant by engaging in conduct within or related to the actor's official duties, or by failing or refusing to perform an official duty, in such manner as to affect some person adversely"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+      "The value of the property exceeds fifty thousand dollars",
+      "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Commits deed theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Regardless of the value",
+      "Any of the following: (a) one residential real property; (b) one commercial mixed-use property with at least one residential unit; or (c) two or more commercial properties"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.42": {
+  "review": {
+   "isOffense": true,
+   "plain": "Grand larceny in the first degree is stealing property worth over $1 million, retail theft over $1 million in a common scheme, or deed theft of an occupied home, a vulnerable owner's home, or three or more homes; it is a class B felony.",
+   "category": "Property Crimes",
+   "penClass": "Class B felony",
+   "maxYears": null,
+   "acts": [
+    "steals property",
+    "commits deed theft, regardless of the value, of"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The value of the property exceeds one million dollars"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Steals property",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "The property consists of retail goods or merchandise stolen pursuant to a common scheme or plan or a single, ongoing intent to deprive another or others of the property or to appropriate the property to the actor or another person",
+      "The value of the property exceeds one million dollars",
+      "The value may be determined by the aggregate value of all such property regardless of whether the goods or merchandise were stolen from the same owner"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Commits deed theft",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Regardless of the value",
+      "Any of the following: (a) residential real property that is occupied as a home by at least one person; (b) residential real property that involves a home that is owned by an elderly person, an incompetent, an incapacitated person, or physically disabled person; or (c) three or more residential real properties"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.43": {
+  "review": {
+   "isOffense": true,
+   "plain": "Aggravated grand larceny of an automated teller machine is stealing an ATM or its contents after a grand larceny third-degree conviction within the previous five years; it is a class C felony.",
+   "category": "Property Crimes",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of grand larceny in the third degree"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits the crime of grand larceny in the third degree, as defined in subdivision two of section 155.35 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has been previously convicted of grand larceny in the third degree within the previous five years"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "155.45": {
+  "review": {
+   "isOffense": false,
+   "plain": "Sets pleading and proof rules for larceny charges, including when an indictment must specify taking from the person or extortion; it creates no crime of its own."
+  }
+ },
+ "156.00": {
+  "review": {
+   "isOffense": false,
+   "plain": "Defines computer, computer program, computer data, computer material, access, without authorization and other terms for the computer offenses; it creates no crime of its own."
+  }
+ },
+ "156.05": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unauthorized use of a computer is knowingly using, causing to be used, or accessing a computer, computer service or network without authorization; it is a class A misdemeanor.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "uses, causes to be used, or accesses a computer, computer service, or computer network without authorization"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+     "ways": [
+      "Uses",
+      "Causes to be used",
+      "Accesses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.10": {
+  "review": {
+   "isOffense": true,
+   "plain": "Computer trespass is knowingly using or accessing a computer without authorization either to commit or further a felony or thereby knowingly gaining access to computer material; it is a class E felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+    "gains access to computer material"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+     "ways": [
+      "Uses",
+      "Causes to be used",
+      "Accesses"
+     ],
+     "tags": [],
+     "intent": [
+      "With an intent to commit or attempt to commit or further the commission of any felony"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization and thereby gains access to computer material",
+     "ways": [
+      "Uses",
+      "Causes to be used",
+      "Accesses"
+     ],
+     "tags": [],
+     "knowledge": [
+      "Knowingly gains access to computer material"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.20": {
+  "review": {
+   "isOffense": true,
+   "plain": "Computer tampering in the fourth degree is using or accessing a computer without authorization and intentionally altering or destroying another person's computer data or program; it is a class A misdemeanor.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class A misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "uses, causes to be used, or accesses a computer, computer service, or computer network without authorization",
+    "alters in any manner or destroys computer data or a computer program of another person"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally alters in any manner or destroys computer data or a computer program of another person"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class A misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Uses, causes to be used, or accesses a computer, computer service, or computer network without authorization and alters in any manner or destroys computer data or a computer program of another person",
+     "ways": [
+      "Uses",
+      "Causes to be used",
+      "Accesses"
+     ],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.25": {
+  "review": {
+   "isOffense": true,
+   "plain": "Computer tampering in the third degree is fourth-degree computer tampering plus felony intent, a prior conviction, destroying computer material, over $1,000 in damage, or altering COVID-19 vaccination records; it is a class E felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of computer tampering in the fourth degree",
+    "alters in any manner or destroys computer material",
+    "alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding one thousand dollars",
+    "enters or alters in any manner or destroys computer material indicating that a person did or did not receive a vaccination against COVID-19"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits the crime of computer tampering in the fourth degree",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "With an intent to commit or attempt to commit or further the commission of any felony"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Commits the crime of computer tampering in the fourth degree",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Has been previously convicted of any crime under this article or subdivision eleven of section 165.15 of this chapter"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "3",
+     "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer material",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "Intentionally"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "4",
+     "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding one thousand dollars",
+     "ways": [],
+     "tags": [],
+     "intent": [
+      "Intentionally"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "5",
+     "act": "Commits the crime of computer tampering in the fourth degree and enters or alters in any manner or destroys computer material indicating that a person did or did not receive a vaccination against COVID-19",
+     "ways": [
+      "Enters",
+      "Alters in any manner",
+      "Destroys"
+     ],
+     "tags": [],
+     "intent": [
+      "Intentionally"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.26": {
+  "review": {
+   "isOffense": true,
+   "plain": "Computer tampering in the second degree is fourth-degree computer tampering that intentionally causes over $3,000 in damage or alters medical records causing serious physical injury; it is a class D felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class D felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of computer tampering in the fourth degree",
+    "alters in any manner or destroys"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally alters in any manner or destroys"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class D felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding three thousand dollars",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer material that contains records of the medical history or medical treatment of an identified or readily identifiable individual or individuals",
+     "ways": [],
+     "tags": [],
+     "mentalState": [
+      "He or she is aware of and consciously disregards a substantial and unjustifiable risk that such serious physical injury may occur"
+     ],
+     "conditions": [
+      "As a result of such alteration or destruction, such individual or individuals suffer serious physical injury"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.27": {
+  "review": {
+   "isOffense": true,
+   "plain": "Computer tampering in the first degree is fourth-degree computer tampering that intentionally alters or destroys computer data or programs causing over $50,000 in damages; it is a class C felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class C felony",
+   "maxYears": null,
+   "acts": [
+    "commits the crime of computer tampering in the fourth degree",
+    "alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding fifty thousand dollars"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "Intentionally alters in any manner or destroys computer data or a computer program"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class C felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Commits the crime of computer tampering in the fourth degree and alters in any manner or destroys computer data or a computer program so as to cause damages in an aggregate amount exceeding fifty thousand dollars",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.29": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unlawful duplication of computer related material in the second degree is copying computer medical records without right, intending to commit or further a crime under this chapter; it is a class B misdemeanor.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class B misdemeanor",
+   "maxYears": null,
+   "acts": [
+    "copies, reproduces or duplicates in any manner computer material that contains records of the medical history or medical treatment of an identified or readily identifiable individual or individuals"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "intent": [
+     "With an intent to commit or further the commission of any crime under this chapter"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class B misdemeanor (sentence set in Penal Law Articles 70 and 80)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Copies, reproduces or duplicates in any manner computer material that contains records of the medical history or medical treatment of an identified or readily identifiable individual or individuals",
+     "ways": [
+      "Copies",
+      "Reproduces",
+      "Duplicates"
+     ],
+     "tags": [],
+     "conditions": [
+      "Having no right to do so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.30": {
+  "review": {
+   "isOffense": true,
+   "plain": "Unlawful duplication of computer related material in the first degree is copying computer data or programs without right to wrongfully take over $2,500 in value or to further a felony; it is a class E felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "copies, reproduces or duplicates in any manner:",
+    "deprives or appropriates from an owner thereof an economic value or benefit in excess of two thousand five hundred dollars"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "1",
+     "act": "Copies, reproduces or duplicates in any manner any computer data or computer program and thereby deprives or appropriates from an owner thereof an economic value or benefit in excess of two thousand five hundred dollars",
+     "ways": [
+      "Copies",
+      "Reproduces",
+      "Duplicates"
+     ],
+     "tags": [],
+     "intent": [
+      "Intentionally and wrongfully"
+     ],
+     "conditions": [
+      "Having no right to do so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    },
+    {
+     "where": "2",
+     "act": "Copies, reproduces or duplicates in any manner any computer data or computer program",
+     "ways": [
+      "Copies",
+      "Reproduces",
+      "Duplicates"
+     ],
+     "tags": [],
+     "intent": [
+      "With an intent to commit or attempt to commit or further the commission of any felony"
+     ],
+     "conditions": [
+      "Having no right to do so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.35": {
+  "review": {
+   "isOffense": true,
+   "plain": "Criminal possession of computer related material is knowingly possessing, without right, an unlawfully duplicated copy of computer data or a program, to benefit oneself or a non-owner; it is a class E felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "possesses, in any form, any copy, reproduction or duplicate of any computer data or computer program which was copied, reproduced or duplicated in violation of section 156.30 of this article"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With intent to benefit himself or a person other than an owner thereof"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "",
+     "act": "Possesses, in any form, any copy, reproduction or duplicate of any computer data or computer program which was copied, reproduced or duplicated in violation of section 156.30 of this article",
+     "ways": [],
+     "tags": [],
+     "conditions": [
+      "Having no right to do so"
+     ],
+     "exceptions": [],
+     "defenses": []
+    }
+   ]
+  }
+ },
+ "156.40": {
+  "review": {
+   "isOffense": true,
+   "plain": "Operating an unlawful electronic sweepstakes is knowingly possessing an electronic machine or device, intending to operate it, to conduct or promote a sweepstakes through an entertaining display; it is a class E felony.",
+   "category": "Cyber, Privacy & Communications",
+   "penClass": "Class E felony",
+   "maxYears": null,
+   "acts": [
+    "conduct a sweepstakes through the use of an entertaining display, including the entry process or the reveal of a prize",
+    "promote a sweepstakes that is conducted through the use of an entertaining display, including the entry process or the reveal of a prize"
+   ]
+  },
+  "elements": {
+   "shared": {
+    "mentalState": [
+     "Knowingly"
+    ],
+    "intent": [
+     "With the intent to operate, or place into operation, an electronic machine or device"
+    ],
+    "terms": [
+     "\"Electronic machine or device\": a mechanically, electrically or electronically operated machine or device that is owned, leased or otherwise possessed by a sweepstakes sponsor or promoter, or any sponsors, promoters, partners, affiliates, subsidiaries or contractors thereof; that is intended to be used by a sweepstakes entrant; that uses energy; and that displays the results of a game entry or game outcome to a participant on a screen or other mechanism at a business location, including a private club",
+     "\"Enter\" or \"entry\": the act or process by which a person becomes eligible to receive any prize offered in a sweepstakes",
+     "\"Entertaining display\": any visual information, capable of being seen by a sweepstakes entrant, that takes the form of actual game play or simulated game play",
+     "\"Prize\": any gift, award, gratuity, good, service, credit or anything else of value, which may be transferred to a person",
+     "\"Sweepstakes\": any game, advertising scheme or plan, or other promotion, which, with or without payment of any consideration, a person may enter to win or become eligible to receive any prize, the determination of which is based upon chance"
+    ],
+    "penalties": [
+     {
+      "if": "",
+      "penalty": "Class E felony (sentence set in Penal Law Article 70)",
+      "min": null,
+      "max": null,
+      "flags": []
+     }
+    ]
+   },
+   "crimes": [
+    {
+     "where": "2(a)",
+     "act": "Possesses an electronic machine or device to conduct a sweepstakes through the use of an entertaining display, including the entry process or the reveal of a prize",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Nothing in this section shall be construed to make illegal any activity which is lawfully conducted as the New York state lottery for education as authorized by article thirty-four of the tax law; pari-mutuel wagering on horse races as authorized by articles two, three, four, five-A, and ten of the racing, pari-mutuel wagering and breeding law; the game of bingo as authorized pursuant to article fourteen-H of the general municipal law; games of chance as authorized pursuant to article nine-A of the general municipal law; gaming as authorized by article thirteen of the racing, pari-mutuel wagering and breeding law; or pursuant to the federal Indian Gaming Regulatory Act"
+     ],
+     "defenses": []
+    },
+    {
+     "where": "2(b)",
+     "act": "Possesses an electronic machine or device to promote a sweepstakes that is conducted through the use of an entertaining display, including the entry process or the reveal of a prize",
+     "ways": [],
+     "tags": [],
+     "conditions": [],
+     "exceptions": [
+      "Nothing in this section shall be construed to make illegal any activity which is lawfully conducted as the New York state lottery for education as authorized by article thirty-four of the tax law; pari-mutuel wagering on horse races as authorized by articles two, three, four, five-A, and ten of the racing, pari-mutuel wagering and breeding law; the game of bingo as authorized pursuant to article fourteen-H of the general municipal law; games of chance as authorized pursuant to article nine-A of the general municipal law; gaming as authorized by article thirteen of the racing, pari-mutuel wagering and breeding law; or pursuant to the federal Indian Gaming Regulatory Act"
+     ],
+     "defenses": []
+    }
+   ]
+  }
+ }
+}

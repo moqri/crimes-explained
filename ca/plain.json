@@ -1083,5 +1083,2614 @@
   "acts": [
    "willfully shines a light or other bright device, of an intensity capable of impairing the operation of an aircraft, at an aircraft"
   ]
+ },
+ "450": {
+  "title": "Arson definitions",
+  "isOffense": false,
+  "plain": "Defines \"structure,\" \"forest land,\" \"property,\" \"inhabited,\" \"maliciously,\" and \"recklessly\" for the arson chapter."
+ },
+ "451": {
+  "title": "Arson",
+  "isOffense": true,
+  "plain": "Arson is willfully and maliciously setting fire to or burning any structure, forest land, or property, or helping to do so; it is a felony with up to nine years in state prison when it causes great bodily injury.",
+  "category": "Property Crimes",
+  "maxYears": 9,
+  "acts": [
+   "sets fire to or burns or causes to be burned",
+   "aids, counsels, or procures the burning of, any structure, forest land, or property"
+  ]
+ },
+ "451.1": {
+  "title": "Arson sentence enhancements",
+  "isOffense": true,
+  "plain": "A person convicted of felony arson under Section 451 gets an extra three, four, or five years if, for example, they have a prior arson conviction, injured firefighters, or burned multiple structures.",
+  "category": "Property Crimes",
+  "maxYears": 5,
+  "maxPlus": true,
+  "acts": [
+   "convicted of a felony violation of Section 451"
+  ]
+ },
+ "451.5": {
+  "title": "Aggravated arson",
+  "isOffense": true,
+  "plain": "Aggravated arson is a deliberate, premeditated arson meant to injure people or damage property, by a repeat arsonist or causing over $10.1 million in losses or damaging five or more homes; punishable by 10 years to life.",
+  "category": "Property Crimes",
+  "maxYears": 999,
+  "acts": [
+   "sets fire to, burns, or causes to be burned, or aids, counsels, or procures the burning of any residence, structure, forest land, or property"
+  ]
+ },
+ "452": {
+  "title": "Unlawfully causing a fire",
+  "isOffense": true,
+  "plain": "Recklessly setting fire to or burning any structure, forest land, or property is unlawfully causing a fire; it is a misdemeanor for property and up to six years in state prison when it causes great bodily injury.",
+  "category": "Property Crimes",
+  "maxYears": 6,
+  "acts": [
+   "set fire to, burn, or cause to be burned any structure, forest land, or property"
+  ]
+ },
+ "452.1": {
+  "title": "Unlawful fire sentence enhancements",
+  "isOffense": true,
+  "plain": "A person convicted of felony unlawfully causing a fire under Section 452 gets an extra one, two, or three years for each listed circumstance, such as a prior arson conviction or injured firefighters.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "convicted of a felony violation of Section 452"
+  ]
+ },
+ "453": {
+  "title": "Possessing incendiary materials or devices",
+  "isOffense": true,
+  "plain": "Possessing, making, or disposing of flammable material or an incendiary device with intent to use it to set fire to any structure, forest land, or property is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "possesses, manufactures, or disposes of any flammable, or combustible material or substance, or any incendiary device in an arrangement or preparation"
+  ]
+ },
+ "454": {
+  "title": "Arson during a state of emergency",
+  "isOffense": true,
+  "plain": "Committing arson or unlawfully causing a fire in an area under a proclaimed state of insurrection or state of emergency is punishable by three, five, or seven years in state prison, or up to nine years for serious arson.",
+  "category": "Property Crimes",
+  "maxYears": 9,
+  "acts": [
+   "violates Section 451 or 452 during and within an area of any of the following"
+  ]
+ },
+ "455": {
+  "title": "Attempted arson",
+  "isOffense": true,
+  "plain": "Willfully and maliciously attempting to set fire to or burn any structure, forest land, or property, or doing any preliminary act, is punishable by 16 months, two, or three years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "acts": [
+   "attempts to set fire to or attempts to burn or to aid, counsel or procure the burning of any structure, forest land or property",
+   "commits any act preliminary thereto, or in furtherance thereof"
+  ]
+ },
+ "456": {
+  "title": "Fines for arson",
+  "isOffense": false,
+  "plain": "Lets the court add a fine of up to $50,000 for a felony arson-chapter conviction, or twice the gross gain when the crime was committed for pecuniary gain."
+ },
+ "457": {
+  "title": "Psychiatric exam for arson",
+  "isOffense": false,
+  "plain": "Lets the court order a person convicted under the arson chapter to undergo a psychiatric or psychological examination for sentencing."
+ },
+ "457.1": {
+  "title": "Arson offender registration",
+  "isOffense": true,
+  "plain": "Requires people convicted of arson or attempted arson to register with local police; failing to register is a misdemeanor, and a willful violation by a convicted arsonist means 90 days to one year in county jail.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "violates any of the provisions thereof",
+   "willfully violates any of the provisions thereof"
+  ]
+ },
+ "458": {
+  "title": "Cargo container defined",
+  "isOffense": false,
+  "plain": "Defines \"cargo container\" for the burglary chapter as a permanent, reusable receptacle of 1,000 cubic feet or more designed for carrying goods by vessel and other transport."
+ },
+ "459": {
+  "title": "Burglary defined",
+  "isOffense": true,
+  "plain": "Burglary is entering a house, building, locked vehicle, or other listed place with intent to commit grand or petit larceny or any felony; the punishment is set in Section 461.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "enters any house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building"
+  ]
+ },
+ "459.5": {
+  "title": "Shoplifting",
+  "isOffense": true,
+  "plain": "Shoplifting is entering an open store with intent to steal property worth $950 or less; it is a misdemeanor, but people with certain serious prior convictions may be sentenced as felons.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "entering a commercial establishment"
+  ]
+ },
+ "460": {
+  "title": "Degrees of burglary",
+  "isOffense": false,
+  "plain": "Makes burglary of an inhabited dwelling house, inhabited vessel, floating home, trailer coach, or inhabited part of a building first degree burglary, and all other burglary second degree."
+ },
+ "461": {
+  "title": "Punishment for burglary",
+  "isOffense": true,
+  "plain": "First degree burglary is punished by two, four, or six years in state prison; second degree burglary by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 6,
+  "maxPlus": true,
+  "acts": [
+   "Burglary in the first degree",
+   "Burglary in the second degree"
+  ]
+ },
+ "462": {
+  "title": "No probation for residential burglary",
+  "isOffense": false,
+  "plain": "Bars probation, except in unusual cases with reasons stated on the record, for anyone convicted of burglary of an inhabited dwelling, trailer coach, floating home, or inhabited part of a building."
+ },
+ "462.5": {
+  "title": "Custodial institution burglary",
+  "isOffense": true,
+  "plain": "Burglary on jail or prison grounds to steal items for weapons, escape tools, or drugs bars probation if a felony, and as a misdemeanor means 90 days to one year in county jail, served consecutively.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "convicted of a felony custodial institution burglary",
+   "convicted of a misdemeanor custodial institution burglary"
+  ]
+ },
+ "463": {
+  "title": "Looting",
+  "isOffense": true,
+  "plain": "Burglary, grand or petty theft, and certain trespass or vehicle theft committed during a declared emergency, under an evacuation order, or in an evacuation zone is looting, punishable by up to seven years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 7,
+  "maxPlus": true,
+  "acts": [
+   "A violation of Section 459",
+   "A violation of Section 487 or subdivision (a) of Section 487a",
+   "Grand theft of a firearm",
+   "A violation of Section 488",
+   "A violation of Section 602",
+   "theft from an unlocked vehicle"
+  ]
+ },
+ "463.2": {
+  "title": "Looting while impersonating emergency personnel",
+  "isOffense": false,
+  "plain": "Lets the court treat impersonating emergency personnel while committing looting as a factor in aggravation at sentencing, and defines \"emergency personnel\" and \"impersonating.\""
+ },
+ "464": {
+  "title": "Burglary with torch or explosives",
+  "isOffense": true,
+  "plain": "Entering any building with intent to commit a crime and opening or trying to open a vault or safe with a torch, burning device, or explosive is a felony punishable by three, five, or seven years.",
+  "category": "Property Crimes",
+  "maxYears": 7,
+  "maxPlus": true,
+  "acts": [
+   "enters, either by day or by night, any building, whether inhabited or not, and opens or attempts to open any vault, safe, or other secure place"
+  ]
+ },
+ "465": {
+  "title": "Unlawful entry of a vehicle",
+  "isOffense": true,
+  "plain": "Forcibly entering a vehicle, such as with a lock tool or by breaking a window, intending to commit theft or a felony is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "forcibly enters a vehicle"
+  ]
+ },
+ "466": {
+  "title": "Possession of burglary tools",
+  "isOffense": true,
+  "plain": "Possessing lock picks, slim jims, signal extenders, or other tools intending to break into a building or vehicle, or making keys or instruments for that or for crime, is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "possesses a picklock, crow, keybit, crowbar, screwdriver, vise grip pliers, water-pump pliers, slidehammer, slim jim, tension bar, lock pick gun, tubular lock pick, bump key, floor-safe door puller, master key, ceramic or porcelain spark plug chips or pieces, key programming device or key duplicating device, signal extender, or other instrument or tool",
+   "makes or alters, or attempts to make or alter, a key or other instrument named above",
+   "makes, alters, or repairs any instrument or thing"
+  ]
+ },
+ "466.1": {
+  "title": "Lock pick sales records",
+  "isOffense": true,
+  "plain": "A person who sells or provides lock picks or similar tools must record the buyer's identity on a bill of sale kept for one year and open to police; violating this is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "sells or provides a lock pick, a tension bar, a lock pick gun, a tubular lock pick, or a floor-safe door puller, to another",
+   "violates any provision of this section"
+  ]
+ },
+ "466.3": {
+  "title": "Coin machine burglary tools",
+  "isOffense": true,
+  "plain": "Possessing a key, tool, explosive, or device (or a drawing or mold of one) designed to break into coin-operated machines, intending to steal from them, is punishable by up to one year in county jail, a $1,000 fine, or both.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "possesses a key, tool, instrument, explosive, or device, or a drawing, print, or mold of a key, tool, instrument, explosive, or device"
+  ]
+ },
+ "466.5": {
+  "title": "Motor vehicle master keys",
+  "isOffense": true,
+  "plain": "Possessing or using a motor vehicle master key or wheel lock master key to commit an unlawful act, or knowingly making or selling such keys except to lawful users, is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "possesses a motor vehicle master key or a motor vehicle wheel lock master key",
+   "uses a motor vehicle master key to open a lock or operate the ignition switch of any motor vehicle",
+   "uses a motor vehicle wheel lock master key to open a wheel lock on any motor vehicle",
+   "manufactures for sale, advertises for sale, offers for sale, or sells a motor vehicle master key or a motor vehicle wheel lock master key"
+  ]
+ },
+ "466.6": {
+  "title": "Ignition key making records",
+  "isOffense": true,
+  "plain": "A person who makes a vehicle ignition key for someone else other than by duplicating an existing key must record the customer's and vehicle's details on a work order kept for two years; violating this is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "makes a key capable of operating the ignition of a motor vehicle or personal property registered under the Vehicle Code for another",
+   "violates any provision of this subdivision"
+  ]
+ },
+ "466.65": {
+  "title": "Motorcycle theft tools",
+  "isOffense": true,
+  "plain": "Possessing, giving, or lending a device to bypass a motorcycle's ignition, a motorcycle ignition, or tools such as boltcutters, intending to take or drive a motorcycle without the owner's consent, is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "possesses, gives, or lends any device designed to bypass the factory-installed ignition of a motorcycle",
+   "possesses, gives, or lends any motorcycle ignition, or part thereof",
+   "possesses, gives, or lends any item of hardware"
+  ]
+ },
+ "466.7": {
+  "title": "Unauthorized motor vehicle key",
+  "isOffense": true,
+  "plain": "Possessing a vehicle key known to have been made without the owner's or lawful possessor's consent, intending to use it for an unlawful act, is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "possesses a motor vehicle key"
+  ]
+ },
+ "466.8": {
+  "title": "Locksmith work order records",
+  "isOffense": true,
+  "plain": "A person who makes a key to a home or business for someone else by onsite inspection must record the buyer's name, address, ID and other details on a work order and keep it two years; violating this is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "makes a key capable of opening any door or other means of entrance to any residence or commercial establishment for another",
+   "violates any provision of this subdivision"
+  ]
+ },
+ "466.9": {
+  "title": "Code grabbing devices",
+  "isOffense": true,
+  "plain": "Possessing a code grabbing device, or using one to disarm a vehicle security alarm, with intent to use it in an unlawful act is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "possesses a code grabbing device",
+   "uses a code grabbing device to disarm the security alarm system of a motor vehicle"
+  ]
+ },
+ "468": {
+  "title": "Sniperscopes",
+  "isOffense": true,
+  "plain": "Knowingly buying, selling, receiving, disposing of, concealing, or possessing a sniperscope (an infrared night-vision firearm attachment) is a misdemeanor punishable by up to one year in county jail and a $1,000 fine.",
+  "category": "Weapons & Terrorism",
+  "maxYears": 1,
+  "acts": [
+   "buys, sells, receives, disposes of, conceals, or has in his possession a sniperscope"
+  ]
+ },
+ "469": {
+  "title": "Unauthorized keys to public buildings",
+  "isOffense": true,
+  "plain": "Knowingly making, duplicating, using, or possessing a key to a state, county, city, or public school building or area without authorization is a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "makes, duplicates, causes to be duplicated, or uses, or attempts to make, duplicate, cause to be duplicated, or use, or has in his possession any key to a building or other area owned, operated, or controlled by the State of California, any state agency, board, or commission, a county, city, or any public school or community college district"
+  ]
+ },
+ "470": {
+  "title": "Forgery defined",
+  "isOffense": true,
+  "plain": "Forgery is signing another's name, forging a seal or handwriting, falsifying official records, or making or passing false checks, bonds, deeds, and other listed documents, with intent to defraud; the punishment is set in Section 473.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "signs the name of another person or of a fictitious person to any of the items listed in subdivision (d)",
+   "counterfeits or forges the seal or handwriting of another",
+   "alters, corrupts, or falsifies any record of any will, codicil, conveyance, or other instrument",
+   "falsely makes, alters, forges, or counterfeits, utters, publishes, passes or attempts or offers to pass, as true and genuine, any of the following items",
+   "falsifies the acknowledgment of any notary public",
+   "issues an acknowledgment"
+  ]
+ },
+ "470a": {
+  "title": "Forging a driver's license or ID card",
+  "isOffense": true,
+  "plain": "Altering, forging, copying, or counterfeiting a government-issued driver's license or ID card to help commit forgery is punishable by up to one year in county jail or as a felony.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "alters, falsifies, forges, duplicates or in any manner reproduces or counterfeits any driver’s license or identification card issued by a governmental agency"
+  ]
+ },
+ "470b": {
+  "title": "Possessing a forged driver's license or ID",
+  "isOffense": true,
+  "plain": "Displaying or possessing a driver's license or ID card of the kind in Section 470a, intending it to be used to commit forgery, is punishable by up to one year in county jail or as a felony.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "displays or causes or permits to be displayed or has in his or her possession any driver’s license or identification card of the type enumerated in Section 470a"
+  ]
+ },
+ "471": {
+  "title": "Forging record entries",
+  "isOffense": true,
+  "plain": "Making, forging, or altering an entry in a book of records, or a record or return named in Section 470, with intent to defraud is forgery; the punishment is set in Section 473.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "makes, forges, or alters any entry in any book of records, or any instrument purporting to be any record or return specified in Section 470"
+  ]
+ },
+ "471.5": {
+  "title": "Falsifying medical records",
+  "isOffense": true,
+  "plain": "Altering or modifying a person's medical record, or creating a false medical record, with fraudulent intent is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "alters or modifies the medical record of any person",
+   "creates any false medical record"
+  ]
+ },
+ "472": {
+  "title": "Forging public or corporate seals",
+  "isOffense": true,
+  "plain": "Forging or counterfeiting a state, court, public officer's, or corporate seal or its impression, or possessing and concealing a known counterfeit seal, with intent to defraud is forgery; the punishment is set in Section 473.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "forges, or counterfeits the seal of this State",
+   "falsely makes, forges, or counterfeits any impression purporting to be an impression of any such seal",
+   "has in his possession any such counterfeited seal or impression thereof"
+  ]
+ },
+ "473": {
+  "title": "Punishment for forgery",
+  "isOffense": true,
+  "plain": "Forgery is punishable by up to one year in county jail or as a felony; forgery of a check or similar item worth $950 or less is limited to one year in county jail unless the person has certain prior convictions.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "Forgery",
+   "guilty of forgery relating to a check, bond, bank bill, note, cashier’s check, traveler’s check, or money order"
+  ]
+ },
+ "474": {
+  "title": "False telegraph or telephone messages",
+  "isOffense": true,
+  "plain": "Sending, delivering, or furnishing a false or forged message purporting to come from a telegraph or telephone office or another person, to deceive, injure, or defraud, is punishable by up to one year in county jail or as a felony, and a $10,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "sends by telegraph or telephone to any person a false or forged message",
+   "delivers or causes to be delivered to any person any such message",
+   "furnishes, or conspires to furnish, or causes to be furnished to any agent, operator, or employee"
+  ]
+ },
+ "475": {
+  "title": "Possessing forged or blank checks",
+  "isOffense": true,
+  "plain": "Possessing or receiving forged items, or possessing blank or completed checks, money orders, and similar items, intending to complete, pass, or utter them to defraud, is forgery; the punishment is set in Section 473.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "possesses or receives",
+   "possesses any blank or unfinished check, note, bank bill, money order, or traveler’s check, whether real or fictitious",
+   "possesses any completed check, money order, traveler’s check, warrant or county order, whether real or fictitious"
+  ]
+ },
+ "476": {
+  "title": "Fictitious or altered checks",
+  "isOffense": true,
+  "plain": "Making, passing, or possessing a fictitious or altered bill, note, or check of a real or fictitious financial institution, with intent to defraud, is forgery; the punishment is set in Section 473.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "makes, passes, utters, or publishes",
+   "attempts to pass, utter, or publish",
+   "has in his or her possession"
+  ]
+ },
+ "476a": {
+  "title": "Bad checks (insufficient funds)",
+  "isOffense": true,
+  "plain": "Writing or delivering a check knowing there are not enough funds or credit to cover it, with intent to defraud, is punishable by up to one year in county jail or as a felony; $950 or less is generally county jail only.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "makes or draws or utters or delivers a check, draft, or order upon a bank or depositary, a person, a firm, or a corporation, for the payment of money"
+  ]
+ },
+ "477": {
+  "title": "Counterfeiting coin or bullion",
+  "isOffense": true,
+  "plain": "Counterfeiting gold or silver coin, gold dust, or bullion, or knowingly selling or passing such counterfeits, with intent to defraud, is counterfeiting; the punishment is set in Section 478.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "counterfeits any of the species of gold or silver coin current in this State, or any kind or species of gold dust, gold or silver bullion, or bars, lumps, pieces, or nuggets",
+   "sells, passes, or gives in payment such counterfeit coin, dust, bullion, bars, lumps, pieces, or nuggets",
+   "permits, causes, or procures the same to be sold, uttered, or passed"
+  ]
+ },
+ "478": {
+  "title": "Punishment for counterfeiting",
+  "isOffense": true,
+  "plain": "Counterfeiting is punishable by two, three, or four years of imprisonment under subdivision (h) of Section 1170.",
+  "category": "Fraud & Money",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "Counterfeiting"
+  ]
+ },
+ "479": {
+  "title": "Possessing counterfeit coin or bullion",
+  "isOffense": true,
+  "plain": "Possessing or receiving counterfeit gold or silver coin, gold dust, or bullion intending to pass it, knowing it is counterfeit and intending to defraud, is punishable by two, three, or four years under subdivision (h) of Section 1170.",
+  "category": "Fraud & Money",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "has in his possession, or receives for any other person, any counterfeit gold or silver coin of the species current in this state",
+   "permits, causes or procures the same to be sold, uttered or passed"
+  ]
+ },
+ "480": {
+  "title": "Counterfeiting equipment",
+  "isOffense": true,
+  "plain": "Making or knowingly possessing dies, plates, machines, or other things used to counterfeit coin, bullion, or bank notes is punishable by two, three, or four years under subdivision (h) of Section 1170, and the equipment must be destroyed.",
+  "category": "Fraud & Money",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "makes",
+   "has in his or her possession any die, plate, or any apparatus, paper, metal, machine, or other thing whatever"
+  ]
+ },
+ "481": {
+  "title": "Forging railroad or steamship tickets",
+  "isOffense": true,
+  "plain": "Counterfeiting, forging, or altering a railroad or steamship ticket or pass, or circulating one with intent to defraud, is punishable by up to one year in county jail or as a felony, and a $1,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "counterfeits, forges, or alters any ticket, check, order, coupon, receipt for fare, or pass",
+   "utters, publishes, or puts into circulation, any such counterfeit or altered ticket, check, or order, coupon, receipt for fare, or pass"
+  ]
+ },
+ "481.1": {
+  "title": "Counterfeit transit fare media",
+  "isOffense": true,
+  "plain": "Counterfeiting, forging, or altering public transit fare media is punishable by up to one year in county jail or state prison; knowingly possessing it, or passing fare media to defraud, is up to one year in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "counterfeits, forges, or alters any fare media designed to entitle the holder to a ride on vehicles of a public transportation system",
+   "possesses any counterfeit, forged, or altered fare media",
+   "utters, publishes, or puts into circulation any fare media"
+  ]
+ },
+ "482": {
+  "title": "Restoring canceled tickets",
+  "isOffense": true,
+  "plain": "Removing cancellation marks from a used railroad or steamship ticket or pass to reuse, sell, or defraud, or knowingly offering such a restored ticket, is punishable by up to six months in county jail and a $1,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 0.5,
+  "acts": [
+   "removes, conceals, fills up, or obliterates, the cuts, marks, punch-holes, or other evidence of cancellation",
+   "offers for sale, or in payment of fare on the railroad or vessel of the company, such ticket, check, order, coupon, or pass"
+  ]
+ },
+ "483": {
+  "title": "Selling nontransferable transit tickets",
+  "isOffense": true,
+  "plain": "Selling a ticket, pass, or other instrument for passage on a common carrier for use by someone not entitled to use it under its terms is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "sell to another any ticket, pass, scrip, mileage or commutation book, coupon, or other instrument for passage on a common carrier"
+  ]
+ },
+ "483.5": {
+  "title": "Deceptive identification documents",
+  "isOffense": true,
+  "plain": "Making or selling fake-looking ID documents without a \"NOT A GOVERNMENT DOCUMENT\" mark, knowing they will be used to defraud, is punishable by up to one year in county jail or as a felony; possessing document-making devices is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "violates the provisions of subdivision (a)",
+   "violates the provisions of subdivision (b)"
+  ]
+ },
+ "484": {
+  "title": "Theft defined",
+  "isOffense": false,
+  "plain": "Defines theft (stealing, embezzling, or obtaining property by false pretenses), sets how the value of property and services is measured, and creates presumptions of intent for unreturned leased or rented property."
+ },
+ "484.1": {
+  "title": "False information to pawnbrokers",
+  "isOffense": true,
+  "plain": "Knowingly giving false information about your identity, ownership, or authority to sell property to get money from a pawnbroker or secondhand dealer, and receiving it, is theft; the court may also order restitution.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "gives false information or provides false verification as to the person’s true identity or as to the person’s ownership interest in property or the person’s authority to sell property",
+   "receives money or other valuable consideration from the pawnbroker or secondhand dealer"
+  ]
+ },
+ "484b": {
+  "title": "Diverting construction funds",
+  "isOffense": true,
+  "plain": "Receiving money for construction services, labor, or materials and willfully diverting it to another use is punishable by up to one year in county jail or as a felony, and a $10,000 fine, if over $2,350; otherwise a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "receives money for the purpose of obtaining or paying for services, labor, materials or equipment",
+   "fails to apply such money for such purpose",
+   "diverts the funds to a use other than that for which the funds were received"
+  ]
+ },
+ "484c": {
+  "title": "False vouchers for construction loans",
+  "isOffense": true,
+  "plain": "Submitting a false voucher to get construction loan funds and not using the funds for the stated purpose is embezzlement.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "submits a false voucher to obtain construction loan funds"
+  ]
+ },
+ "484d": {
+  "title": "Access card definitions",
+  "isOffense": false,
+  "plain": "Defines \"cardholder,\" \"access card,\" \"card issuer,\" \"retailer,\" \"counterfeit access card,\" \"traffic,\" \"card making equipment,\" and related terms for the access card crimes in Sections 484e to 484j."
+ },
+ "484e": {
+  "title": "Access card theft",
+  "isOffense": true,
+  "plain": "Selling or transferring someone's access card without consent, acquiring cards in four or more names in a year, or taking card account information to use fraudulently is grand theft; holding a card to misuse it is petty theft.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "sells, transfers, or conveys, an access card",
+   "acquires access cards issued in the names of four or more persons",
+   "acquires or retains possession of an access card",
+   "acquires or retains possession of access card account information with respect to an access card validly issued to another person"
+  ]
+ },
+ "484f": {
+  "title": "Counterfeit access cards and forged card slips",
+  "isOffense": true,
+  "plain": "Making or using a counterfeit access card, or signing another's or a fictitious name to an access card or card sales slip, with intent to defraud is forgery.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "designs, makes, alters, or embosses a counterfeit access card",
+   "utters or otherwise attempts to use a counterfeit access card",
+   "signs the name of another or of a fictitious person to an access card, sales slip, sales draft, or instrument for the payment of money which evidences an access card transaction"
+  ]
+ },
+ "484g": {
+  "title": "Fraudulent use of access cards",
+  "isOffense": true,
+  "plain": "Using a stolen, altered, forged, expired, or revoked access card, or falsely claiming to hold a card never issued, to get money or goods with intent to defraud is theft; over $950 in six months is grand theft.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "uses, for the purpose of obtaining money, goods, services, or anything else of value, an access card or access card account information that has been altered, obtained, or retained in violation of Section 484e or 484f",
+   "obtains money, goods, services, or anything else of value by representing"
+  ]
+ },
+ "484h": {
+  "title": "Retailer access card fraud",
+  "isOffense": true,
+  "plain": "A retailer or other person who, with intent to defraud, accepts a stolen, counterfeit, forged, expired, or revoked access card and takes payment, or bills for card sales not furnished, commits theft; over $950 in six months is grand theft.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "Furnishes money, goods, services or anything else of value upon presentation of an access card",
+   "Presents for payment a sales slip or other evidence of an access card transaction, and receives payment therefor"
+  ]
+ },
+ "484i": {
+  "title": "Incomplete cards and card-making equipment",
+  "isOffense": true,
+  "plain": "Possessing an incomplete access card to complete it without consent is a misdemeanor; altering card account information to defraud is forgery; making or trafficking card-making equipment to counterfeit cards is punishable by up to one year in county jail or as a felony.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "possesses an incomplete access card",
+   "makes, alters, varies, changes, or modifies access card account information on any part of an access card",
+   "authorizes or consents to alteration, variance, change, or modification of access card account information by another",
+   "designs, makes, possesses, or traffics in card making equipment or incomplete access cards"
+  ]
+ },
+ "484j": {
+  "title": "Publishing access card numbers and codes",
+  "isOffense": true,
+  "plain": "Publishing the number or code of an access card, PIN, password, access code, debit card or bank account number, intending it be used to avoid lawful charges or to defraud, is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "publishes the number or code of an existing, canceled, revoked, expired or nonexistent access card, personal identification number, computer password, access code, debit card number, bank account number, or the numbering or coding which is employed in the issuance of access cards"
+  ]
+ },
+ "485": {
+  "title": "Keeping lost property",
+  "isOffense": true,
+  "plain": "A person who finds lost property while knowing or able to learn who owns it, and keeps it without first making reasonable efforts to find and return it to the owner, is guilty of theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "appropriates such property to his own use, or to the use of another person not entitled thereto"
+  ]
+ },
+ "486": {
+  "title": "Degrees of theft",
+  "isOffense": false,
+  "plain": "Divides theft into two degrees: grand theft and petty theft."
+ },
+ "487": {
+  "title": "Grand theft defined",
+  "isOffense": false,
+  "plain": "Lists the cases that are grand theft, such as property worth more than $950, farm crops or aquacultural products over $250, employee theft of $950 or more in 12 months, theft from the person, and theft of an automobile or firearm, and allows aggregating related thefts."
+ },
+ "487a": {
+  "title": "Theft of livestock and carcasses",
+  "isOffense": true,
+  "plain": "Stealing, fraudulently taking, or obtaining by fraud horses, cattle, goats, sheep, pigs, and similar animals, or stealing their carcasses or parts of carcasses, is grand theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, carries, leads, or drives away any horse, mare, gelding, any bovine animal, any caprine animal, mule, jack, jenny, sheep, lamb, hog, sow, boar, gilt, barrow, or pig",
+   "appropriates that same property",
+   "defrauds any other person of that same property",
+   "causes or procures others to report falsely of his or her wealth or mercantile character",
+   "steal, take, transport or carry the carcass of any bovine, caprine, equine, ovine, or suine animal or of any mule, jack or jenny",
+   "appropriate such property",
+   "steal, take, transport, or carry any portion of the carcass of any bovine, caprine, equine, ovine, or suine animal or of any mule, jack, or jenny"
+  ]
+ },
+ "487b": {
+  "title": "Severing real estate worth $250 or more",
+  "isOffense": true,
+  "plain": "Stealing property worth $250 or more by severing it from someone else's real estate is grand theft, punishable by imprisonment under subdivision (h) of Section 1170.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "converts real estate of the value of two hundred fifty dollars ($250) or more into personal property by severance from the realty of another"
+  ]
+ },
+ "487c": {
+  "title": "Severing real estate worth under $250",
+  "isOffense": true,
+  "plain": "Stealing property worth less than $250 by severing it from someone else's real estate is petty theft, punishable by up to one year in county jail, a fine up to $1,000, or both.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "converts real estate of the value of less than two hundred fifty dollars ($250) into personal property by severance from the realty of another"
+  ]
+ },
+ "487d": {
+  "title": "Theft of gold dust from mining claims",
+  "isOffense": true,
+  "plain": "Stealing or trying to steal another's gold dust, amalgam, or quicksilver from a mining claim, tunnel, sluice, or similar works is grand theft, punishable by imprisonment under subdivision (h) of Section 1170.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, and carries away, or attempts to take, steal, and carry from any mining claim, tunnel, sluice, undercurrent, riffle box, or sulfurate machine, another’s gold dust, amalgam, or quicksilver"
+  ]
+ },
+ "487e": {
+  "title": "Theft of a companion animal over $950",
+  "isOffense": true,
+  "plain": "Stealing another person's pet or other companion animal worth more than $950 is grand theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, or carries away a companion animal of another"
+  ]
+ },
+ "487f": {
+  "title": "Theft of a companion animal up to $950",
+  "isOffense": true,
+  "plain": "Stealing another person's pet or other companion animal worth $950 or less is petty theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, or carries away a companion animal of another"
+  ]
+ },
+ "487g": {
+  "title": "Theft of animals for commercial use",
+  "isOffense": true,
+  "plain": "Stealing another's animal, or getting it by fraud, for sale, medical research, slaughter, or other commercial use is punishable by up to one year in county jail or by state prison.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "takes or carries away any animal of another",
+   "defrauds another person of any animal"
+  ]
+ },
+ "487h": {
+  "title": "Cargo theft",
+  "isOffense": true,
+  "plain": "Stealing another's cargo (goods loaded in a trailer, railcar, or cargo container, awaiting or in transit) worth more than $950 is grand theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, or carries away cargo of another"
+  ]
+ },
+ "487i": {
+  "title": "Defrauding public housing programs",
+  "isOffense": true,
+  "plain": "Defrauding a public housing authority's housing program of more than $400 is grand theft.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "defrauds a housing program of a public housing authority"
+  ]
+ },
+ "487j": {
+  "title": "Theft of copper materials",
+  "isOffense": true,
+  "plain": "Stealing another's copper wire, cable, tubing, piping, or other copper materials worth more than $950 is grand theft, punishable by up to one year in county jail and a $2,500 fine, or as a felony with a $10,000 fine.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, or carries away copper materials of another"
+  ]
+ },
+ "487k": {
+  "title": "Theft of agricultural equipment",
+  "isOffense": true,
+  "plain": "Stealing tractors, all-terrain vehicles, or other agricultural equipment used to produce food for the public, worth more than $950, is grand theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals, takes, or carries away tractors, all-terrain vehicles, or other agricultural equipment, or any portion thereof"
+  ]
+ },
+ "487m": {
+  "title": "Wage theft by an employer",
+  "isOffense": true,
+  "plain": "An employer's intentional theft of more than $950 in wages from one employee, or more than $2,350 from two or more employees, within 12 months may be punished as grand theft; wages may be recovered as restitution.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "theft of wages"
+  ]
+ },
+ "488": {
+  "title": "Petty theft defined",
+  "isOffense": false,
+  "plain": "Provides that theft that is not grand theft is petty theft."
+ },
+ "489": {
+  "title": "Punishment for grand theft",
+  "isOffense": true,
+  "plain": "Grand theft of a firearm is punishable by 16 months, two, or three years in state prison; other grand theft, including livestock theft, by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "Grand theft",
+   "the theft of a firearm",
+   "a violation of Section 487a"
+  ]
+ },
+ "490": {
+  "title": "Punishment for petty theft",
+  "isOffense": true,
+  "plain": "Petty theft is punishable by a fine up to $1,000, up to six months in county jail, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "Petty theft"
+  ]
+ },
+ "490a": {
+  "title": "Larceny read as theft",
+  "isOffense": false,
+  "plain": "Provides that any California law referring to larceny, embezzlement, or stealing is to be read as if the word \"theft\" were used instead."
+ },
+ "490.1": {
+  "title": "Petty theft of $50 or less as infraction",
+  "isOffense": true,
+  "plain": "Petty theft of $50 or less may be charged as a misdemeanor or, if the person has no other theft conviction, as an infraction punishable by a fine up to $250.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "maxPlus": true,
+  "acts": [
+   "Petty theft"
+  ]
+ },
+ "490.2": {
+  "title": "Petty theft of $950 or less",
+  "isOffense": true,
+  "plain": "Obtaining property by theft worth $950 or less is petty theft punished as a misdemeanor, but may be punished under subdivision (h) of Section 1170 if the person has certain serious or sex-offense prior convictions.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "obtaining any property by theft"
+  ]
+ },
+ "490.3": {
+  "title": "Aggregating theft values",
+  "isOffense": false,
+  "plain": "Allows the value of property stolen in one or more acts of theft or shoplifting to be added together in a single count to decide the degree of theft."
+ },
+ "490.4": {
+  "title": "Organized retail theft",
+  "isOffense": true,
+  "plain": "Acting with others to steal merchandise from stores or online marketplaces for resale, receiving such stolen goods, stealing as part of an organized plan, or directing such theft is organized retail theft, punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "Acts in concert with one or more persons to steal merchandise from one or more merchant’s premises or online marketplace",
+   "Acts in concert with two or more persons to receive, purchase, or possess merchandise described in paragraph (1)",
+   "Acts as an agent of another individual or group of individuals to steal merchandise from one or more merchant’s premises or online marketplaces",
+   "Recruits, coordinates, organizes, supervises, directs, manages, or finances another to undertake any of the acts described in paragraph (1) or (2) or any other statute defining theft of merchandise"
+  ]
+ },
+ "490.5": {
+  "title": "Shoplifting and library theft",
+  "isOffense": true,
+  "plain": "A first conviction for petty theft of store merchandise or library materials carries a mandatory $50 to $1,000 fine and up to six months in county jail; the section also allows civil damages and lets merchants and libraries detain suspects.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "petty theft involving merchandise taken from a merchant’s premises or a book or other library materials taken from a library facility"
+  ]
+ },
+ "490.6": {
+  "title": "Amusement park detentions",
+  "isOffense": false,
+  "plain": "Lets amusement park employees detain, for a reasonable time, a person they have probable cause to believe is violating lawful park rules, treats refusing to comply or leave as obstructing business under Section 602.1, and gives a defense in civil suits."
+ },
+ "490.7": {
+  "title": "Taking free newspapers",
+  "isOffense": true,
+  "plain": "Taking more than 25 copies of the current issue of a free newspaper to recycle, sell, deprive others of it, or harm a competitor is an infraction; repeat violations can be a misdemeanor with up to 10 days in county jail.",
+  "category": "Property Crimes",
+  "maxYears": 0.03,
+  "acts": [
+   "take more than twenty-five (25) copies of the current issue of a free or complimentary newspaper"
+  ]
+ },
+ "490.8": {
+  "title": "Retail crime restraining orders",
+  "isOffense": true,
+  "plain": "Courts may bar people convicted of, or repeatedly arrested for, shoplifting, retail theft, vandalism, or assault at a store from entering it for up to two years; violating such an order is a misdemeanor.",
+  "category": "Courts & Justice",
+  "maxYears": null,
+  "acts": [
+   "violation of an order issued pursuant to this section"
+  ]
+ },
+ "491": {
+  "title": "Companion animals as property",
+  "isOffense": false,
+  "plain": "Treats companion animals as personal property valued like other property and defines \"companion animal\" for this section, excluding feral animals."
+ },
+ "492": {
+  "title": "Value of stolen debt instruments",
+  "isOffense": false,
+  "plain": "Sets how to value a stolen evidence of debt or other written instrument, based on the amount due or secured or the value of the property it shows title to."
+ },
+ "493": {
+  "title": "Value of stolen passage tickets",
+  "isOffense": false,
+  "plain": "Sets the value of a stolen railroad, vessel, or other public conveyance ticket as the price usually charged for a like passage."
+ },
+ "494": {
+  "title": "Unissued instruments covered by larceny",
+  "isOffense": false,
+  "plain": "Applies the larceny chapter to completed instruments for payment of money, evidence of debt, public securities, or passage tickets even if never issued or delivered."
+ },
+ "495": {
+  "title": "Severed fixtures covered by larceny",
+  "isOffense": false,
+  "plain": "Applies the larceny chapter to fixtures or parts of real property severed at the time of the taking, as if severed earlier by another person."
+ },
+ "496": {
+  "title": "Receiving stolen property",
+  "isOffense": true,
+  "plain": "Buying, receiving, concealing, selling, or withholding property knowing it was stolen or obtained by theft or extortion, or a dealer buying it without reasonable inquiry, is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "buys or receives any property that has been stolen or that has been obtained in any manner constituting theft or extortion",
+   "conceals, sells, withholds, or aids in concealing, selling, or withholding any property from the owner",
+   "buys or receives any property"
+  ]
+ },
+ "496.5": {
+  "title": "Automotive property theft for resale",
+  "isOffense": true,
+  "plain": "Possessing over $950 of property taken through vehicle theft, break-ins, or tampering, not for personal use but intending to sell or exchange it, is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "possesses property that was acquired through one or more acts of theft from a vehicle, unlawful entry of a vehicle, burglary of a locked vehicle, or vehicle tampering as defined in Section 10852 of the Vehicle Code"
+  ]
+ },
+ "496.6": {
+  "title": "Unlawful deprivation of a retail business opportunity",
+  "isOffense": true,
+  "plain": "Possessing over $950 of property taken by shoplifting, theft, or burglary from a retail business, not for personal use but intending to sell, exchange, or return it, is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "possesses property unlawfully that was acquired through one or more acts of shoplifting, theft, or burglary from a retail business"
+  ]
+ },
+ "496a": {
+  "title": "Junk dealers receiving utility metals",
+  "isOffense": true,
+  "plain": "A junk, metal, or secondhand dealer who buys wire, cable, copper, or similar metals ordinarily belonging to a railroad or utility without due diligence about the seller's right is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "buys or receives any wire, cable, copper, lead, solder, mercury, iron, or brass"
+  ]
+ },
+ "496b": {
+  "title": "Dealers receiving library materials",
+  "isOffense": true,
+  "plain": "A secondhand book dealer who buys library-marked books or materials without diligent inquiry commits criminally receiving property: up to one year in county jail if worth over $50, up to one month if $50 or under.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "buys or receives any book, manuscript, map, chart, or other work of literature, belonging to, and bearing any mark or indicia of ownership by a public or incorporated library, college or university"
+  ]
+ },
+ "496c": {
+  "title": "Copying private title records",
+  "isOffense": true,
+  "plain": "Copying private title-company records without the owner's consent to use them in the title business, inducing someone to do so, or knowingly receiving such copies is theft.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "copy, transcribe, photograph or otherwise make a record or memorandum of the contents of any private and unpublished paper, book, record, map or file",
+   "induce another to violate the provisions of this section",
+   "receive or acquire from another any copy, transcription, photograph or other record or memorandum of the contents of any private and unpublished paper, book, record, map or file"
+  ]
+ },
+ "496d": {
+  "title": "Receiving stolen vehicles and vessels",
+  "isOffense": true,
+  "plain": "Buying, receiving, concealing, selling, or withholding a motor vehicle, trailer, special construction equipment, or vessel knowing it was stolen is punishable by up to three years under county felony sentencing or up to one year in county jail.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "buys or receives any motor vehicle, as defined in Section 415 of the Vehicle Code, any trailer, as defined in Section 630 of the Vehicle Code, any special construction equipment, as defined in Section 565 of the Vehicle Code, or any vessel",
+   "conceals, sells, withholds, or aids in concealing, selling, or withholding any motor vehicle, trailer, special construction equipment, or vessel from the owner"
+  ]
+ },
+ "496e": {
+  "title": "Scrap dealers possessing stolen public fixtures",
+  "isOffense": true,
+  "plain": "A scrap metal dealer who possesses stolen fire hydrants, manhole covers, street lights, and similar public or utility items knowing they were stolen, or fails to report possessing them, faces an added fine up to $5,000.",
+  "category": "Property Crimes",
+  "maxYears": 0,
+  "maxPlus": true,
+  "acts": [
+   "possesses any of the following items",
+   "fails to report possession of the items"
+  ]
+ },
+ "497": {
+  "title": "Bringing stolen property into the state",
+  "isOffense": true,
+  "plain": "A person who steals or embezzles property in another state or country, or receives it knowing it was stolen, and brings it into California may be punished as if the crime happened in California.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "steals or embezzles the property of another",
+   "receives such property",
+   "brings the same into this state"
+  ]
+ },
+ "498": {
+  "title": "Theft of utility services",
+  "isOffense": true,
+  "plain": "Diverting utility services, tampering with meters or utility property, making unauthorized connections, or knowingly using diverted service to avoid paying is a misdemeanor; over $950 or a prior conviction allows county jail or state prison.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "Diverts or causes to be diverted utility services, by any means",
+   "Prevents any utility meter, or other device used in determining the charge for utility services, from accurately performing its measuring function",
+   "Tampers with any property owned by or used by the utility to provide utility services",
+   "Makes or causes to be made any connection with or reconnection with property owned or used by the utility to provide utility services",
+   "Uses or receives the direct benefit of all or a portion of utility services"
+  ]
+ },
+ "499": {
+  "title": "Repeat temporary taking of vehicles or vessels",
+  "isOffense": true,
+  "plain": "A person convicted under Section 499b involving a vehicle or vessel after a prior qualifying vehicle theft conviction and jail term, or after two prior 499b convictions, faces up to one year in county jail or up to three years in state prison.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "acts": [
+   "convicted of a violation of Section 499b, involving a vehicle or vessel"
+  ]
+ },
+ "499b": {
+  "title": "Joyriding on a bicycle or vessel",
+  "isOffense": true,
+  "plain": "Taking someone's bicycle or vessel without permission to use it temporarily is a misdemeanor, punishable by up to three months in county jail for a bicycle or up to one year for a vessel.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "take any bicycle",
+   "take any vessel"
+  ]
+ },
+ "499c": {
+  "title": "Theft of trade secrets",
+  "isOffense": true,
+  "plain": "Stealing, misappropriating, or copying a trade secret to deprive its owner or use it is theft; bribing an employee to hand over a trade secret, or accepting such a bribe, is punishable by up to one year in county jail or as a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "Steals, takes, carries away, or uses without authorization, a trade secret",
+   "Fraudulently appropriates any article representing a trade secret entrusted to him or her",
+   "makes or causes to be made a copy of any article representing a trade secret",
+   "promises, offers or gives, or conspires to promise or offer to give, to any present or former agent, employee or servant of another, a benefit",
+   "solicits, accepts, receives or takes a benefit"
+  ]
+ },
+ "499d": {
+  "title": "Unauthorized taking of an aircraft",
+  "isOffense": true,
+  "plain": "Operating or taking another's aircraft without consent, intending to deprive the owner of it permanently or temporarily, or being an accomplice, is a felony punishable by up to one year in county jail or under county felony sentencing, or a fine up to $10,000.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "operates or takes an aircraft not his own",
+   "is a party or accessory to or an accomplice in any operation or unauthorized taking or stealing"
+  ]
+ },
+ "500": {
+  "title": "Failing to transmit money abroad",
+  "isOffense": true,
+  "plain": "A person who takes money to send to a foreign country and does not forward it, commit equivalent funds, or refund it within 10 days commits a crime punishable by up to three years if $950 or more.",
+  "category": "Fraud & Money",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "fails to do at least one of the following acts"
+  ]
+ },
+ "501": {
+  "title": "Proof of stolen money in larceny trials",
+  "isOffense": false,
+  "plain": "Says that in a larceny or embezzlement trial the description of stolen money, bank notes, stock certificates, or securities is proved even if the exact kind or denomination is not proved."
+ },
+ "502": {
+  "title": "Computer crimes",
+  "isOffense": true,
+  "plain": "Knowingly accessing, damaging, copying, or using computers, data, or computer services without permission, disrupting service, or introducing viruses is a crime; serious violations are punishable by up to three years under county felony sentencing.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "alters, damages, deletes, destroys, or otherwise uses any data, computer, computer system, or computer network",
+   "takes, copies, or makes use of any data from a computer, computer system, or computer network",
+   "takes or copies any supporting documentation",
+   "uses or causes to be used computer services",
+   "adds, alters, damages, deletes, or destroys any data, computer software, or computer programs which reside or exist internal or external to a computer, computer system, or computer network",
+   "disrupts or causes the disruption of computer services or denies or causes the denial of computer services to an authorized user of a computer, computer system, or computer network",
+   "provides or assists in providing a means of accessing a computer, computer system, or computer network",
+   "accesses or causes to be accessed any computer, computer system, or computer network",
+   "introduces any computer contaminant into any computer, computer system, or computer network",
+   "uses the internet domain name or profile of another individual, corporation, or entity in connection with the sending of one or more electronic mail messages or posts",
+   "disrupts or causes the disruption of government computer services or denies or causes the denial of government computer services to an authorized user of a government computer, computer system, or computer network",
+   "adds, alters, damages, deletes, or destroys any data, computer software, or computer programs which reside or exist internal or external to a public safety infrastructure computer system computer, computer system, or computer network",
+   "disrupts or causes the disruption of public safety infrastructure computer system computer services or denies or causes the denial of computer services to an authorized user of a public safety infrastructure computer system computer, computer system, or computer network",
+   "provides or assists in providing a means of accessing a computer, computer system, or public safety infrastructure computer system computer, computer system, or computer network",
+   "introduces any computer contaminant into any public safety infrastructure computer system computer, computer system, or computer network"
+  ]
+ },
+ "502.01": {
+  "title": "Forfeiture of computers and telecom devices",
+  "isOffense": false,
+  "plain": "Sets the court procedure for forfeiting a convicted defendant's computers, software, or illegal telecommunications equipment, protecting other owners' interests and directing how the property or sale proceeds are distributed."
+ },
+ "502.5": {
+  "title": "Removing improvements from mortgaged property",
+  "isOffense": true,
+  "plain": "Removing or disposing of a house, barn, pump, or other attached improvement from mortgaged or foreclosed real property, with intent to defraud the lender or buyer and without written consent, is larceny.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "takes, removes or carries away from such mortgaged or encumbered premises, or otherwise disposes of or permits the taking, removal or carrying away or otherwise disposing of any house, barn, windmill, water tank, pump, engine or other part of the freehold"
+  ]
+ },
+ "502.6": {
+  "title": "Payment card skimmers and reencoders",
+  "isOffense": true,
+  "plain": "Knowingly possessing or using a card scanning device or reencoder with intent to defraud, to capture or place payment card data without the cardholder's permission, is a misdemeanor punishable by up to one year in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "possesses a scanning device",
+   "uses a scanning device to access, read, obtain, memorize or store, temporarily or permanently, information encoded on the magnetic strip or stripe of a payment card",
+   "possesses a reencoder",
+   "uses a reencoder to place encoded information on the magnetic strip or stripe of a payment card or any electronic medium that allows an authorized transaction to occur"
+  ]
+ },
+ "502.7": {
+  "title": "Telephone service fraud",
+  "isOffense": true,
+  "plain": "Avoiding telephone or telegraph charges by fraud, making or selling devices or plans to avoid toll charges, publishing card numbers for that purpose, or selling use of one's calling card is a misdemeanor or felony.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "avoids or attempts to avoid, or aids, abets or causes another to avoid the lawful charge, in whole or in part, for telephone or telegraph service",
+   "Makes, possesses, sells, gives, or otherwise transfers to another, or offers or advertises any instrument, apparatus, or device",
+   "Sells, gives, or otherwise transfers to another or offers, or advertises plans or instructions for making or assembling an instrument, apparatus, or device",
+   "publishes the number or code of an existing, canceled, revoked, expired, or nonexistent credit card, or the numbering or coding which is employed in the issuance of credit cards",
+   "receives anything of value"
+  ]
+ },
+ "502.8": {
+  "title": "Illegal telecommunications equipment",
+  "isOffense": true,
+  "plain": "Advertising, possessing, or using illegal telecommunications equipment to avoid charges is a misdemeanor; possessing it to sell can bring county jail or state prison, and repeat use or dealing in 10 or more items is a felony.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "advertises illegal telecommunications equipment",
+   "possesses or uses illegal telecommunications equipment",
+   "possesses illegal telecommunications equipment",
+   "possesses 10 or more items of illegal telecommunications equipment",
+   "manufactures 10 or more items of illegal telecommunications equipment"
+  ]
+ },
+ "502.9": {
+  "title": "Elder victims as aggravating factor",
+  "isOffense": false,
+  "plain": "Makes an elder or dependent victim a circumstance in aggravation when a court sets the term for a felony under this chapter."
+ },
+ "503": {
+  "title": "Embezzlement defined",
+  "isOffense": false,
+  "plain": "Defines embezzlement as the fraudulent appropriation of property by a person to whom it has been entrusted."
+ },
+ "504": {
+  "title": "Embezzlement by public and corporate officers",
+  "isOffense": true,
+  "plain": "Public officers, their deputies and staff, and officers or agents of associations or corporations who fraudulently take or hide property they hold in trust are guilty of embezzlement; this section states no punishment.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "appropriates to any use or purpose not in the due and lawful execution of that person’s trust",
+   "secretes it"
+  ]
+ },
+ "504a": {
+  "title": "Disposing of leased or unpaid-for property",
+  "isOffense": true,
+  "plain": "Fraudulently removing, concealing, or disposing of leased property, or property held under an unfinished purchase contract, is embezzlement, as is doing so knowingly by a person in possession; no punishment is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "remove, conceal or dispose of any goods, chattels or effects",
+   "remove, conceal or dispose of the same"
+  ]
+ },
+ "504b": {
+  "title": "Debtor keeping sale proceeds owed to secured party",
+  "isOffense": true,
+  "plain": "A debtor who sells secured property, willfully and with intent to defraud fails to pay the secured party what is owed, and keeps the money is guilty of embezzlement, punished as provided in Section 514.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "fails to pay to the secured party the amounts due under the security agreement",
+   "appropriates the money to his or her own use"
+  ]
+ },
+ "505": {
+  "title": "Embezzlement by carriers",
+  "isOffense": true,
+  "plain": "A carrier or other person holding property for transportation for hire who fraudulently appropriates it, whether or not the package was broken open, is guilty of embezzlement; no punishment is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "appropriates it to any use or purpose inconsistent with the safe keeping of such property and its transportation according to his trust"
+  ]
+ },
+ "506": {
+  "title": "Embezzlement by trustees, agents, and contractors",
+  "isOffense": true,
+  "plain": "Trustees, agents, executors, collectors and others entrusted with property who fraudulently take or hide it, and contractors who divert money paid to them, are guilty of embezzlement; no punishment is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "appropriates it to any use or purpose not in the due and lawful execution of his trust",
+   "secretes it",
+   "appropriates money paid to him for any use or purpose, other than for that which he received it"
+  ]
+ },
+ "506a": {
+  "title": "Debt collectors covered by Section 506",
+  "isOffense": false,
+  "plain": "Treats collectors and others in the debt-collection business who violate Section 506 as agents under that section, to be prosecuted and punished under it, and defines \"collector\"."
+ },
+ "506b": {
+  "title": "Violating real property sales contract rules",
+  "isOffense": true,
+  "plain": "Violating Civil Code Section 2985.3 or 2985.4 on real property sales contracts is a crime punishable by a fine up to $10,000, up to one year in county jail, or a felony jail term.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "violates Section 2985.3 or 2985.4 of the Civil Code"
+  ]
+ },
+ "507": {
+  "title": "Embezzlement by bailees, tenants, and lodgers",
+  "isOffense": true,
+  "plain": "A person entrusted with property as a bailee, tenant, or lodger, or with a power of attorney to sell it, who fraudulently converts or hides it is guilty of embezzlement; no punishment is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "converts the same or the proceeds thereof to his own use",
+   "secretes it or them"
+  ]
+ },
+ "508": {
+  "title": "Embezzlement by employees",
+  "isOffense": true,
+  "plain": "A clerk, agent, or servant who fraudulently takes or hides another's property that came into their care through their employment is guilty of embezzlement; no punishment is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "appropriates to his own use",
+   "secretes"
+  ]
+ },
+ "509": {
+  "title": "No separate taking needed for embezzlement",
+  "isOffense": false,
+  "plain": "States that a distinct act of taking is not necessary to constitute embezzlement."
+ },
+ "510": {
+  "title": "Debt instruments can be embezzled",
+  "isOffense": false,
+  "plain": "States that an executed evidence of debt negotiable by delivery only can be embezzled whether or not it was delivered or issued as a valid instrument."
+ },
+ "511": {
+  "title": "Good-faith claim of title defense",
+  "isOffense": false,
+  "plain": "Makes it a defense to embezzlement that the property was taken openly under a good-faith claim of title, but not for keeping property to offset debts owed."
+ },
+ "512": {
+  "title": "Intent to restore is no defense",
+  "isOffense": false,
+  "plain": "States that intending to restore embezzled property is no defense or mitigation unless it was restored before charges were filed."
+ },
+ "513": {
+  "title": "Restoring property before charges",
+  "isOffense": false,
+  "plain": "Lets the court reduce punishment, but gives no defense, when the accused voluntarily restores or tenders embezzled property before charges are filed."
+ },
+ "514": {
+  "title": "Punishment for embezzlement",
+  "isOffense": true,
+  "plain": "Embezzlement is punished like theft of property of the same value or kind; embezzling public funds is a felony punishable by state prison and bars the person from holding state office.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "guilty of embezzlement"
+  ]
+ },
+ "515": {
+  "title": "Elder victims as aggravating factor",
+  "isOffense": false,
+  "plain": "Makes an elder or dependent victim a circumstance in aggravation when sentencing a felony embezzlement conviction."
+ },
+ "518": {
+  "title": "Extortion defined",
+  "isOffense": false,
+  "plain": "Defines extortion as obtaining property, other consideration, or an official act through wrongful force or fear or under color of official right, defines \"consideration,\" and excludes certain minors."
+ },
+ "519": {
+  "title": "Threats that constitute extortion",
+  "isOffense": false,
+  "plain": "Lists the threats that can induce the fear needed for extortion, such as threats of injury, accusing someone of a crime, exposing secrets, or reporting immigration status."
+ },
+ "520": {
+  "title": "Extortion by force or threat",
+  "isOffense": true,
+  "plain": "Extorting property or other consideration by force or a threat listed in Section 519, short of robbery or carjacking, is punishable by two, three, or four years under the felony jail sentencing rules.",
+  "category": "Violence & Threats",
+  "maxYears": 4,
+  "maxPlus": true,
+  "acts": [
+   "extorts property or other consideration from another"
+  ]
+ },
+ "521": {
+  "title": "Extortion under color of official right",
+  "isOffense": true,
+  "plain": "Committing extortion under color of official right is a misdemeanor where no different punishment is prescribed; this section states no term.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "commits any extortion under color of official right"
+  ]
+ },
+ "522": {
+  "title": "Obtaining a signature by extortion",
+  "isOffense": true,
+  "plain": "Using extortionate means to get someone's signature on a paper that would transfer property or create a debt is punished as if the debt or right itself were obtained; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "obtains from another his signature to any paper or instrument"
+  ]
+ },
+ "523": {
+  "title": "Threatening letters and ransomware",
+  "isOffense": true,
+  "plain": "Sending a threatening letter to extort property, or introducing ransomware to extort it, is punished as if the property had actually been obtained; ransomware is punished under Section 520.",
+  "category": "Violence & Threats",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "sends or delivers to any person any letter or other writing",
+   "introduces ransomware into any computer, computer system, or computer network"
+  ]
+ },
+ "524": {
+  "title": "Attempted extortion",
+  "isOffense": true,
+  "plain": "Attempting to extort property or other consideration by a threat listed in Section 519 is punishable by up to one year in county jail or state prison, a fine up to $10,000, or both.",
+  "category": "Violence & Threats",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "attempts, by means of any threat, such as is specified in Section 519 of this code, to extort property or other consideration from another"
+  ]
+ },
+ "525": {
+  "title": "Elder victims as aggravating factor",
+  "isOffense": false,
+  "plain": "Makes an elder or dependent victim a circumstance in aggravation when sentencing a felony extortion conviction."
+ },
+ "526": {
+  "title": "Delivering fake court papers to obtain property",
+  "isOffense": true,
+  "plain": "Delivering a paper made to look like a court order or process, to get property or other consideration from someone, is a misdemeanor; each delivery is a separate offense.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "delivers or causes to be delivered to the other person any paper, document or written, typed or printed form"
+  ]
+ },
+ "527": {
+  "title": "Selling or printing fake court forms",
+  "isOffense": true,
+  "plain": "Selling, printing, publishing, or distributing papers designed to look like court orders or process is a misdemeanor; each act is a separate offense, and the court may order the papers destroyed.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "sell or offer for sale, print, publish, or distribute any paper, document or written, typed or printed form"
+  ]
+ },
+ "528": {
+  "title": "Marrying under a false identity",
+  "isOffense": true,
+  "plain": "Falsely impersonating another person and, in that assumed character, marrying or pretending to marry someone is a felony; this section states no term.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "falsely personates another, and in such assumed character marries or pretends to marry, or to sustain the marriage relation towards another"
+  ]
+ },
+ "528.5": {
+  "title": "Online impersonation",
+  "isOffense": true,
+  "plain": "Knowingly and without consent credibly impersonating a real person online or electronically to harm, intimidate, threaten, or defraud someone is punishable by up to one year in county jail, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "credibly impersonates another actual person through or on an Internet Web site or by other electronic means"
+  ]
+ },
+ "529": {
+  "title": "False personation",
+  "isOffense": true,
+  "plain": "Falsely impersonating another and, in that character, posting bail, signing or proving documents, or doing acts that could create liability or benefit is punishable by up to $10,000, county jail, or a felony jail term.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "falsely personates another in either his or her private or official capacity",
+   "Becomes bail or surety for any party in any proceeding whatever",
+   "Verifies, publishes, acknowledges, or proves, in the name of another person, any written instrument",
+   "Does any other act"
+  ]
+ },
+ "529a": {
+  "title": "Fake birth or baptism certificates",
+  "isOffense": true,
+  "plain": "Making or selling false birth or baptism certificates to deceive is punishable by up to one year in county jail or a felony jail term; using or possessing one to pose as someone else carries up to one year.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "manufactures, produces, sells, offers, or transfers to another any document purporting to be either a certificate of birth or certificate of baptism",
+   "offers, displays, or has in his or her possession any false or counterfeit certificate of birth or certificate of baptism"
+  ]
+ },
+ "529.5": {
+  "title": "Fake government ID documents",
+  "isOffense": true,
+  "plain": "Making or selling fake-looking government ID cards or driver's licenses, knowing they are not genuine, is a misdemeanor punishable by up to one year in county jail; knowingly possessing one carries a fine.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "manufactures, sells, offers for sale, or transfers any document, not amounting to counterfeit, purporting to be a government-issued identification card or driver’s license",
+   "possesses a document described in subdivision (a)"
+  ]
+ },
+ "529.6": {
+  "title": "Impersonating a census taker",
+  "isOffense": true,
+  "plain": "Falsely posing as a census taker, or falsely taking on a census taker's activities, to interfere with the census or obtain information or consent to an unlawful search is a misdemeanor punishable by up to one year in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "Falsely represents that they are a census taker",
+   "Falsely assumes some or all of the activities of a census taker"
+  ]
+ },
+ "529.7": {
+  "title": "Obtaining DMV documents unlawfully",
+  "isOffense": true,
+  "plain": "Obtaining, or helping someone obtain, a driver's license, ID card, registration, or other DMV document, knowing that person is not entitled to it, is a misdemeanor punishable by up to one year in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "obtains, or assists another person in obtaining, a driver’s license, identification card, vehicle registration certificate, or any other official document issued by the Department of Motor Vehicles"
+  ]
+ },
+ "530": {
+  "title": "Receiving property by false personation",
+  "isOffense": true,
+  "plain": "Falsely impersonating another and, in that character, receiving money or property meant for that person, intending to keep or divert it, is punished the same as larceny of that money or property.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "falsely personates another, in either his private or official capacity, and in such assumed character receives any money or property"
+  ]
+ },
+ "530.5": {
+  "title": "Identity theft",
+  "isOffense": true,
+  "plain": "Obtaining and using someone's personal identifying information for an unlawful purpose, or acquiring, keeping, or selling it to defraud, is punishable by county jail up to one year or a felony jail term; mail theft is also covered.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "obtains personal identifying information",
+   "uses that information for any unlawful purpose",
+   "acquires or retains possession of the personal identifying information",
+   "sells, transfers, or conveys the personal identifying information",
+   "sells, transfers, or conveys that same personal identifying information",
+   "commits mail theft"
+  ]
+ },
+ "530.55": {
+  "title": "Identity theft definitions",
+  "isOffense": false,
+  "plain": "Defines \"person\" and \"personal identifying information\" for the false personation and cheats chapter."
+ },
+ "530.6": {
+  "title": "Identity theft victims' police reports and innocence",
+  "isOffense": false,
+  "plain": "Lets identity theft victims get a police report and investigation and petition a court for a determination of factual innocence, with sealing or labeling of records."
+ },
+ "530.7": {
+  "title": "Identity theft victim database",
+  "isOffense": false,
+  "plain": "Requires the Department of Justice to keep a database and toll-free number of identity theft victims who submit a court order and fingerprints."
+ },
+ "530.8": {
+  "title": "Victims' access to fraudulent account records",
+  "isOffense": false,
+  "plain": "Lets identity theft victims obtain records of applications or accounts opened in their name, with court enforcement and a civil action for noncompliance."
+ },
+ "531": {
+  "title": "Fraudulent conveyances",
+  "isOffense": true,
+  "plain": "Being a party to a conveyance or other transaction made to defraud others or hinder creditors, or knowingly defending or transferring under it, is a misdemeanor; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "is a party to any fraudulent conveyance of any lands, tenements, or hereditaments, goods or chattels",
+   "puts in, uses, avows, maintains, justifies, or defends the same",
+   "aliens, assigns, or sells any of the lands, tenements, hereditaments, goods, chattels, or other things before mentioned"
+  ]
+ },
+ "531a": {
+  "title": "Fraudulent real property deeds",
+  "isOffense": true,
+  "plain": "Executing, or filing, a deed to real property knowing the person signing has no interest in it, with intent to defraud, is a misdemeanor punishable by up to one year or a $5,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "executes or procures another to execute any instrument purporting to convey any real property",
+   "files or procures the filing of any such instrument"
+  ]
+ },
+ "532": {
+  "title": "Obtaining property by false pretenses",
+  "isOffense": true,
+  "plain": "Defrauding someone of money, labor, or property by false representation, or getting credit by false reports of one's wealth, is punished the same as larceny of that money or property.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "defrauds any other person of money, labor, or property, whether real or personal",
+   "causes or procures others to report falsely of his or her wealth or mercantile character"
+  ]
+ },
+ "532a": {
+  "title": "False financial statements to get credit",
+  "isOffense": true,
+  "plain": "Making a false written statement about financial condition to obtain property, loans, or credit, or obtaining them on such a statement, is a misdemeanor; using a fictitious name or false identity can be a felony.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "make or cause to be made, either directly or indirectly or through any agency whatsoever, any false statement in writing",
+   "procures, upon the faith thereof",
+   "represents on a later day in writing that the statement theretofore made, if then again made on said day, would be then true"
+  ]
+ },
+ "532b": {
+  "title": "California Stolen Valor Act",
+  "isOffense": true,
+  "plain": "Fraudulently claiming to be a veteran or service member, or to have a military decoration, to get money, property, or benefits, or forging or using false military papers for that purpose, is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "fraudulently represents themselves as a veteran or ex-serviceman of a war in which the United States was engaged",
+   "fraudulently claims, or presents themselves, to be a veteran or member of the Armed Forces of the United States",
+   "fraudulently represents themselves to have been awarded a military decoration",
+   "forges documentation reflecting the awarding of a military decoration that the person has not received",
+   "misrepresents themselves as a member or veteran of the Armed Forces of the United States",
+   "utilizes falsified military identification",
+   "misrepresents themselves, as a member or veteran of the Armed Forces of the United States"
+  ]
+ },
+ "532c": {
+  "title": "Giving away land with lottery or admission tickets",
+  "isOffense": true,
+  "plain": "Offering or giving real property with winning drawing numbers or admission tickets and charging fees for its transfer is a misdemeanor; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "offers or gives with winning numbers at any drawing of numbers or with tickets of admission to places of public assemblage, any lot or parcel of real property"
+  ]
+ },
+ "532d": {
+  "title": "False statements in charitable solicitations",
+  "isOffense": true,
+  "plain": "Making a false factual statement about a charity, its costs, or the use of funds while soliciting or receiving donations, knowingly or negligently, is a misdemeanor punishable by up to one year in county jail or a $5,000 fine.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "makes, utters, or delivers, either orally or in writing, an unqualified statement of fact"
+  ]
+ },
+ "532e": {
+  "title": "Construction fund kickbacks",
+  "isOffense": true,
+  "plain": "A person who receives money to pay for construction work on real property and willfully rebates part of it to anyone contracting to provide that work is guilty of a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "rebates any part of the money to or on behalf of anyone contracting with such person"
+  ]
+ },
+ "532f": {
+  "title": "Mortgage fraud",
+  "isOffense": true,
+  "plain": "Making or using misstatements in the mortgage lending process, taking proceeds from it, filing false documents, or (for brokers) steering borrowers into improper loans, with intent to defraud, is punishable by up to one year in county jail or a felony jail term.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "makes any misstatement, misrepresentation, or omission during the mortgage lending process",
+   "uses or facilitates the use of any misstatement, misrepresentation, or omission",
+   "Receives any proceeds or any other funds in connection with a mortgage loan closing",
+   "Files or causes to be filed with the recorder of any county in connection with a mortgage loan transaction any document",
+   "causes a borrower to sign documents reflecting the terms of a business, commercial, or agricultural loan",
+   "causes a borrower to sign documents reflecting the terms of a bridge loan"
+  ]
+ },
+ "533": {
+  "title": "Selling the same land twice",
+  "isOffense": true,
+  "plain": "After selling land or agreeing to sell it, willfully selling it again or agreeing to sell it to someone else to defraud purchasers is a felony punishable under the felony jail sentencing rules; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "sells, barters, or disposes of the same tract of land or town lot",
+   "executes any bond or agreement to sell, barter, or dispose of the same land or lot"
+  ]
+ },
+ "534": {
+  "title": "Selling real estate without spouse's consent",
+  "isOffense": true,
+  "plain": "A married person or registered domestic partner who falsely claims to be able to sell or mortgage real estate that needs the spouse's assent, and then conveys or mortgages it, is guilty of a felony; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "conveys or mortgages the same"
+  ]
+ },
+ "535": {
+  "title": "Mock auctions",
+  "isOffense": true,
+  "plain": "Obtaining money, property, or a signature through a false sale, auction, or mock auction is punishable by up to one year in county jail, a felony jail term, or a $2,000 fine, and a three-year ban on auctioneering.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "obtains any money or property from another, or obtains the signature of another to any written instrument"
+  ]
+ },
+ "536": {
+  "title": "False accounts by commission merchants",
+  "isOffense": true,
+  "plain": "A commission merchant, broker, agent, factor, or consignee who willfully and corruptly gives the owner a false statement about the sale price, quality, quantity, or expenses of consigned property is guilty of a misdemeanor, up to six months in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 0.5,
+  "acts": [
+   "make, or cause to be made, to the principal or consignor of such commission merchant, agent, broker, factor, or consignee, a false statement"
+  ]
+ },
+ "536a": {
+  "title": "Commission merchants' duty to report sales",
+  "isOffense": true,
+  "plain": "Commission merchants, brokers, factors, and consignees must give the owner, on written demand, a true written statement of buyers, quantities, and prices for consigned property; violating this is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "to make, when accounting therefor or subsequently, upon the written demand of his principal or consignor, a true written statement"
+  ]
+ },
+ "537": {
+  "title": "Defrauding innkeepers and restaurants",
+  "isOffense": true,
+  "plain": "Obtaining food, lodging, or services at a hotel, restaurant, campground, or similar place without paying, with intent to defraud, is punishable by up to six months, or up to one year or state prison above $950; ski area fare-dodging is an infraction.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "obtains any food, fuel, services, or accommodations",
+   "obtains credit at an hotel, inn, restaurant, boardinghouse, lodginghouse, apartment house, bungalow court, motel, marina, marine facility, autocamp, or public or private campground",
+   "absconds",
+   "removes any part of his or her baggage therefrom",
+   "uses or attempts to use ski area facilities for which payment is required without paying as required",
+   "resells a ski lift ticket to another"
+  ]
+ },
+ "537b": {
+  "title": "Defrauding livery stables",
+  "isOffense": true,
+  "plain": "Obtaining livery hire or credit at a livery or feed stable without paying or by false pretense, abusing a hired horse or vehicle, or keeping, overusing, or abandoning it to defraud the stable is a misdemeanor.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "obtains any livery hire or other accommodation at any livery or feed stable",
+   "obtains credit at any such livery or feed stable",
+   "abuses the same by beating, goading, overdriving or other willful or malicious conduct",
+   "keep the same for a longer period, or take the same to a greater distance than contracted for"
+  ]
+ },
+ "537c": {
+  "title": "Unauthorized use of boarded animals or vehicles",
+  "isOffense": true,
+  "plain": "A stable keeper or person pasturing stock who rides, drives, or uses an animal or vehicle left in their care, or lets others do so, without the owner's consent is guilty of a misdemeanor.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "drive, ride or use"
+  ]
+ },
+ "537e": {
+  "title": "Property with removed serial numbers",
+  "isOffense": true,
+  "plain": "Knowingly buying, selling, receiving, hiding, or possessing personal property whose serial or identification number has been removed or altered is punishable by up to six months or one year in county jail, or up to three years for computer chips.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "buys, sells, receives, disposes of, conceals, or has in his or her possession any personal property"
+  ]
+ },
+ "537f": {
+  "title": "Unlabeled rebuilt car batteries",
+  "isOffense": true,
+  "plain": "Selling or offering for sale a car battery made with used containers or plates without labeling it \"Rebuilt\" with the rebuilder's name and address is a misdemeanor punishable by up to six months in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 0.5,
+  "acts": [
+   "selling or offering for sale such a battery in violation of this section"
+  ]
+ },
+ "537g": {
+  "title": "Removing NCIC owner identification numbers",
+  "isOffense": true,
+  "plain": "Knowingly removing, defacing, covering, altering, or destroying a National Crime Information Center owner identification number on another's property without permission is a misdemeanor punishable by up to one year in county jail.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "removes, defaces, covers, alters or destroys a National Crime Information Center owner identification number from the personal property of another"
+  ]
+ },
+ "538": {
+  "title": "Removing or selling mortgaged property",
+  "isOffense": true,
+  "plain": "After mortgaging property, removing it from the county without the mortgagee's written consent, or selling, destroying, or further encumbering it, to defraud the mortgagee, is theft; no punishment is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "takes, drives, carries away, or otherwise removes or permits the taking, driving, or carrying away, or other removal of the mortgaged property",
+   "sells, transfers, slaughters, destroys, or in any manner further encumbers the mortgaged property"
+  ]
+ },
+ "538a": {
+  "title": "Signing another's name to a newspaper letter",
+  "isOffense": true,
+  "plain": "Signing someone else's name to a letter and sending it to a newspaper, intending the paper to believe that person wrote it, is a misdemeanor; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "signs any letter addressed to a newspaper with the name of a person other than himself and sends such letter to the newspaper, or causes it to be sent to such newspaper"
+  ]
+ },
+ "538b": {
+  "title": "Wearing insignia of societies or religious orders",
+  "isOffense": true,
+  "plain": "Wearing the badge, garb, or insignia of a secret society, fraternal or religious order, or church without being entitled to, or using it to get aid, with intent to deceive, is a misdemeanor; no term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "wears the badge, lapel button, rosette, or any part of the garb, robe, habit, or any other recognized and established insignia or apparel of any secret society, or fraternal or religious order or organization, or of any sect, church or religious denomination",
+   "uses the same to obtain aid or assistance within this State"
+  ]
+ },
+ "538c": {
+  "title": "Theft of advertising services",
+  "isOffense": true,
+  "plain": "Attaching or inserting an unauthorized advertisement in a newspaper and redistributing it, or intending to, is the misdemeanor of theft of advertising services; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "attaches or inserts an unauthorized advertisement in a newspaper"
+  ]
+ },
+ "538d": {
+  "title": "Impersonating a peace officer",
+  "isOffense": true,
+  "plain": "Wearing or using police uniforms, badges, or IDs to fraudulently pose as a law enforcement officer, impersonating one to defraud, or making or selling fake badges is a misdemeanor, up to one year in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing, of a law enforcement officer",
+   "impersonates a law enforcement officer through or on an internet website, by other electronic means, or by any other means",
+   "wears, exhibits, or uses the badge of a law enforcement officer",
+   "wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of a law enforcement officer",
+   "makes, sells, loans, gives, or transfers to another, any badge, insignia, emblem, device, or any label, certificate, card, or writing, which falsely purports to be authorized for the use of one who by law is given the authority of a law enforcement officer",
+   "sells a uniform identifying a law enforcement agency, without verifying that the purchaser is an employee of the agency"
+  ]
+ },
+ "538e": {
+  "title": "Impersonating a firefighter",
+  "isOffense": true,
+  "plain": "Wearing or using fire department uniforms, badges, or IDs to fraudulently pose as a firefighter or fire marshal, making or selling fake badges, or falsely claiming fire authority to sell equipment is a misdemeanor, up to one year in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing of an officer or member of a fire department or a deputy state fire marshal",
+   "impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+   "wears, exhibits, or uses the badge of a fire department or the Office of the State Fire Marshal",
+   "wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of an officer or member of a fire department, or a deputy state fire marshal",
+   "makes, sells, loans, gives, or transfers to another, any badge, insignia, emblem, device, or any label, certificate, card, or writing, which falsely purports to be authorized for the use of one who by law is given the authority of an officer, or member of a fire department or a deputy state fire marshal",
+   "falsely represents, in any manner whatsoever, to any other person that they are a fire marshal, fire inspector or member of a fire department",
+   "sells a uniform identifying a firefighting agency or department without verifying that the purchaser is an employee or authorized member of the agency or department"
+  ]
+ },
+ "538f": {
+  "title": "Impersonating a utility employee",
+  "isOffense": true,
+  "plain": "Presenting oneself to a utility customer to fraudulently pose as a public utility or district employee, or credibly impersonating one to defraud, is a misdemeanor punishable by up to six months in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 0.5,
+  "acts": [
+   "presents themselves to a utility or district customer",
+   "impersonates an employee of a public utility or district on an internet website, by other electronic means, or by any other means"
+  ]
+ },
+ "538g": {
+  "title": "Impersonating a government officer or employee",
+  "isOffense": true,
+  "plain": "Wearing or using a public officer's or employee's badge, ID card, or insignia to fraudulently pose as one, impersonating one to defraud, or making or selling fake badges is a misdemeanor; no jail term is stated here.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "acts": [
+   "wears, exhibits, or uses the authorized badge, photographic identification card, or insignia of a state, county, city, special district, or city and county officer or employee",
+   "impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+   "makes, sells, loans, gives, or transfers to another, any badge, photographic identification card, or insignia, which falsely purports to be for the use of a state, county, city, special district, or city and county officer or employee"
+  ]
+ },
+ "538h": {
+  "title": "Impersonating search and rescue personnel",
+  "isOffense": true,
+  "plain": "Wearing or using search and rescue uniforms or badges to fraudulently pose as a team member or obtain aid or money, or impersonating one to defraud, is a misdemeanor, up to one year in county jail for badge misuse.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing of an officer or member of a government agency managed or affiliated search and rescue unit or team",
+   "uses the same to obtain aid, money, or assistance within this state",
+   "impersonates such an officer or member on an internet website, by other electronic means, or by any other means",
+   "wears, exhibits, or uses the badge of a government agency managed or affiliated search and rescue unit or team",
+   "wears or uses any badge that falsely purports to be authorized for the use of one who by law is given the authority of an officer or member of a government agency managed or affiliated search and rescue unit or team"
+  ]
+ },
+ "538i": {
+  "title": "Impersonating a first responder during evacuations",
+  "isOffense": true,
+  "plain": "Fraudulently posing as a first responder in an area under an evacuation order, or impersonating one online during or within 30 days after an evacuation order to defraud, is punishable by up to one year in county jail or a felony jail term.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "wears, exhibits, or uses the uniform, insignia, emblem, device, label, certificate, card, or writing of a first responder",
+   "impersonates a first responder on an internet website, or by other electronic means"
+  ]
+ },
+ "538.5": {
+  "title": "Wire fraud to obtain public utility information",
+  "isOffense": true,
+  "plain": "Transmitting communications by wire, radio, or television to obtain a public utility's confidential information, trade secrets, or customer records by false pretenses is punishable by up to one year in county jail or a felony jail term.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "transmits or causes to be transmitted by means of wire, radio or television communication any words, sounds, writings, signs, signals, or pictures"
+  ]
+ },
+ "539": {
+  "title": "False certification of community service",
+  "isOffense": true,
+  "plain": "Certifying, with intent to defraud, that someone ordered to do community service as a probation condition finished the required hours when they did not is a misdemeanor; no term is stated here.",
+  "category": "Courts & Justice",
+  "maxYears": null,
+  "acts": [
+   "certifies that a person ordered by the court to participate in community service as a condition of probation has completed the number of hours of community service prescribed in the court order"
+  ]
+ },
+ "548": {
+  "title": "Destroying insured property to defraud insurer",
+  "isOffense": true,
+  "plain": "Willfully injuring, destroying, hiding, abandoning, or disposing of insured property to defraud the insurer is a felony punishable by two, three, or five years and a fine up to $50,000, plus two years per prior conviction.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "maxPlus": true,
+  "acts": [
+   "injures, destroys, secretes, abandons, or disposes of any property which at the time is insured against loss or damage by theft, or embezzlement, or any casualty"
+  ]
+ },
+ "549": {
+  "title": "Referring business for insurance fraud",
+  "isOffense": true,
+  "plain": "Soliciting, accepting, or referring business knowing or recklessly disregarding that someone intends to commit insurance fraud is punishable by up to one year in county jail or up to three years, a large fine, and restitution.",
+  "category": "Fraud & Money",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "solicits, accepts, or refers any business to or from any individual or entity"
+  ]
+ },
+ "550": {
+  "title": "Insurance fraud",
+  "isOffense": true,
+  "plain": "Knowingly presenting false insurance or health care claims, staging vehicle collisions, or making false statements to support or oppose insurance claims is punishable by up to five years plus enhancements, fines, and restitution.",
+  "category": "Fraud & Money",
+  "maxYears": 5,
+  "maxPlus": true,
+  "acts": [
+   "present or cause to be presented any false or fraudulent claim for the payment of a loss or injury",
+   "present multiple claims for the same loss or injury",
+   "cause or participate in a vehicular collision, or any other vehicular accident",
+   "present a false or fraudulent claim for the payments of a loss for theft, destruction, damage, or conversion of a motor vehicle",
+   "prepare, make, or subscribe any writing",
+   "make or cause to be made any false or fraudulent claim for payment of a health care benefit",
+   "submit a claim for a health care benefit that was not used by, or on behalf of, the claimant",
+   "present multiple claims for payment of the same health care benefit",
+   "present for payment any undercharges for health care benefits on behalf of a specific claimant",
+   "Present or cause to be presented any written or oral statement as part of, or in support of or opposition to, a claim for payment or other benefit pursuant to an insurance policy",
+   "Prepare or make any written or oral statement that is intended to be presented to any insurer or any insurance claimant",
+   "Conceal",
+   "fail to disclose the occurrence of, an event that affects any person",
+   "Prepare or make any written or oral statement, intended to be presented to any insurer or producer for the purpose of obtaining a motor vehicle insurance policy"
+  ]
+ },
+ "551": {
+  "title": "Insurance referral kickbacks and deductible waivers",
+  "isOffense": true,
+  "plain": "Auto repair dealers and contractors who pay insurance agents or adjusters for referrals, or knowingly offer discounts to offset insurance deductibles, commit a public offense punishable by up to three years when over $950.",
+  "category": "Fraud & Money",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "offer to any insurance agent, broker, or adjuster any fee, commission, profit sharing, or other form of direct or indirect consideration",
+   "offer or give any discount intended to offset a deductible required by a policy of insurance"
+  ]
+ },
+ "552": {
+  "title": "Posted-property article exceptions for officers and roads",
+  "isOffense": false,
+  "plain": "Says the posted-property trespass article does not apply to entries by peace officers or other authorized public officers on duty, or to lawful use of an existing public road right of way."
+ },
+ "552.1": {
+  "title": "Posted-property article exceptions for labor activity",
+  "isOffense": false,
+  "plain": "Says the posted-property trespass article does not prohibit lawful labor union organizing activity or authorized union investigations of working-condition safety on posted property."
+ },
+ "553": {
+  "title": "Posted-property definitions",
+  "isOffense": false,
+  "plain": "Defines \"sign,\" \"posted property,\" and \"posted boundary\" for the posted-property trespass article."
+ },
+ "554": {
+  "title": "Property that may be posted against trespassing",
+  "isOffense": false,
+  "plain": "Lists the kinds of utility, oil, gas, water, explosives, railroad, sewer, and quarry property that may be posted against trespassing and loitering."
+ },
+ "554.1": {
+  "title": "How property is posted against trespassing",
+  "isOffense": false,
+  "plain": "Sets where and how often signs must be placed to post property described in Section 554 against trespassing and loitering, depending on fencing, size, and type of structure."
+ },
+ "555": {
+  "title": "Entering posted property",
+  "isOffense": true,
+  "plain": "Entering or remaining on posted property without the written permission of the owner, tenant, or occupant is unlawful, and each day is a separate offense; no punishment is stated in this section.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "enter or remain upon any posted property"
+  ]
+ },
+ "555.1": {
+  "title": "Destroying posted-property signs",
+  "isOffense": true,
+  "plain": "Tearing down, defacing, or destroying a sign posted under the posted-property article without authority is unlawful; no punishment is stated in this section.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "tear down, deface or destroy any sign posted pursuant to this article"
+  ]
+ },
+ "555.2": {
+  "title": "Loitering near posted property",
+  "isOffense": true,
+  "plain": "Loitering in the immediate vicinity of posted property is unlawful, though picketing and lawful labor-dispute publicity are allowed; no punishment is stated in this section.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "loiter in the immediate vicinity of any posted property"
+  ]
+ },
+ "555.3": {
+  "title": "Posted-property violations are misdemeanors",
+  "isOffense": true,
+  "plain": "Violating any provision of the posted-property trespass article is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "Violation of any of the provisions of this article"
+  ]
+ },
+ "555.4": {
+  "title": "Posted-property article applies statewide",
+  "isOffense": false,
+  "plain": "Makes the posted-property article apply in all counties and cities and bars local ordinances that conflict with it."
+ },
+ "555.5": {
+  "title": "Posted-property article severability",
+  "isOffense": false,
+  "plain": "Provides that if any part of the posted-property article is held invalid, the rest remains in effect."
+ },
+ "556": {
+  "title": "Advertising signs on public property",
+  "isOffense": true,
+  "plain": "Placing or keeping advertising signs, pictures, or devices on state, city, or county property without lawful permission is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "place or maintain, or cause to be placed or maintained"
+  ]
+ },
+ "556.1": {
+  "title": "Advertising signs on private property",
+  "isOffense": true,
+  "plain": "Placing or keeping advertising signs, pictures, or devices on property where one has no estate or right of possession, without the owner's or possessor's prior consent, is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "place or maintain or cause to be placed or maintained upon any property in which he has no estate or right of possession"
+  ]
+ },
+ "556.2": {
+  "title": "Exceptions to sign-posting crimes",
+  "isOffense": false,
+  "plain": "Says Sections 556 and 556.1 do not bar legally required or court-ordered notices, notices about the premises where posted, or public highway and street name, direction, or condition signs."
+ },
+ "556.3": {
+  "title": "Unlawful signs are a public nuisance",
+  "isOffense": false,
+  "plain": "Declares any sign, picture, advertisement, or device placed on property in violation of Sections 556 and 556.1 to be a public nuisance."
+ },
+ "556.4": {
+  "title": "Evidence of who posted a sign",
+  "isOffense": false,
+  "plain": "Allows names, phone numbers, addresses, and other identifying information on a sign or advertisement to be used as evidence, and to create an inference, of who is responsible for posting it."
+ },
+ "558": {
+  "title": "Entering Scripps Institution lands",
+  "isOffense": true,
+  "plain": "Anyone other than University of California officers, employees, students, or licensees is forbidden to enter, trespass on, or interfere with the Scripps Institution of Oceanography lands or adjacent state waters; no punishment is stated in this section.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "enter upon those lands bordering on the Pacific Ocean in San Diego County",
+   "trespass upon the same",
+   "interfere with the exclusive possession, occupation, and use thereof by the Regents of the University of California"
+  ]
+ },
+ "558.1": {
+  "title": "Punishment for Scripps lands trespass",
+  "isOffense": true,
+  "plain": "Violating Section 558, which bars unauthorized entry onto the Scripps Institution of Oceanography lands, is a misdemeanor punishable by a fine up to $600, up to 30 days' imprisonment, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.08,
+  "acts": [
+   "violates any of the provisions of Section 558"
+  ]
+ },
+ "560": {
+  "title": "Issuing document of title for goods not received",
+  "isOffense": true,
+  "plain": "A bailee issuing a document of title, or anyone securing its issue or negotiating it for value, knowing the goods were not actually received or under the bailee's control, faces a felony jail term, a fine up to $10,000, or both.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "issues or aids in issuing a document of title",
+   "secures the issue by a bailee of a document of title",
+   "negotiates or transfers for value a document of title"
+  ]
+ },
+ "560.1": {
+  "title": "Issuing receipt with false statement",
+  "isOffense": true,
+  "plain": "A bailee who fraudulently issues, or helps issue, a receipt for goods knowing it contains a false statement is punishable by up to one year of imprisonment, a fine up to $1,000, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "issuing a receipt for goods"
+  ]
+ },
+ "560.2": {
+  "title": "Delivering goods while document of title outstanding",
+  "isOffense": true,
+  "plain": "A bailee who delivers goods knowing an outstanding, uncanceled negotiable document of title covers them, without first getting that document back, is punishable by up to one year of imprisonment, a fine up to $1,000, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "delivers goods out of the possession of such bailee"
+  ]
+ },
+ "560.3": {
+  "title": "Negotiating document of title without title",
+  "isOffense": true,
+  "plain": "Depositing goods one does not own, or that carry a security interest, taking a negotiable document of title, and then negotiating it for value to deceive without disclosure is punishable by up to one year, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "deposits goods with a bailee",
+   "negotiates for value"
+  ]
+ },
+ "560.4": {
+  "title": "Issuing unmarked duplicate document of title",
+  "isOffense": true,
+  "plain": "A bailee who issues a duplicate or additional negotiable document of title, knowing an earlier one is outstanding, without plainly marking it \"duplicate\" faces a felony jail term, a fine up to $10,000, or both.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "issues or aids in issuing a duplicate or additional negotiable document of title for goods"
+  ]
+ },
+ "560.5": {
+  "title": "Warehouseman hiding own ownership of goods",
+  "isOffense": true,
+  "plain": "A warehouseman, or its officers, agents, or servants, who knowingly issues a negotiable document of title for goods the warehouseman owns without stating that ownership is punishable by up to one year, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "acts": [
+   "issues or aids in issuing a negotiable document of title for such goods which does not state such ownership"
+  ]
+ },
+ "560.6": {
+  "title": "False receipts for out-of-state warehouse goods",
+  "isOffense": true,
+  "plain": "Knowingly issuing or transferring in California false or unverified receipts for goods in out-of-state warehouses is a misdemeanor punishable by a $50 to $1,000 fine and up to six months in county jail.",
+  "category": "Fraud & Money",
+  "maxYears": 0.5,
+  "acts": [
+   "issue, sell, pledge, assign, or transfer in this State any receipt, certificate, or other written instrument purporting to be a warehouse receipt",
+   "issue, sell, pledge, assign, or transfer in this State any receipt, certificate, or other written instrument for goods, wares, or merchandise claimed to be stored or deposited",
+   "issue, sign, sell, pledge, assign, or transfer in this State any receipt, certificate, or other written instrument evidencing, or purporting to evidence, the creation of a security interest in, or sale, or bailment, of any goods"
+  ]
+ },
+ "565": {
+  "title": "Misusing branded dairy equipment ($950 or less)",
+  "isOffense": true,
+  "plain": "An unauthorized person who possesses, uses, or destroys the brand on registered dairy containers, cabinets, or equipment worth $950 or less commits a misdemeanor punishable by up to six months in county jail, a $1,000 fine, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.5,
+  "acts": [
+   "possess or use, or to obliterate or destroy the brand registration upon, containers (including milk cases), cabinets, or other dairy equipment"
+  ]
+ },
+ "566": {
+  "title": "Misusing branded dairy equipment (over $950)",
+  "isOffense": true,
+  "plain": "An unauthorized person who possesses, uses, or destroys the brand on registered dairy containers, cabinets, or equipment worth over $950 commits a felony punishable by a $1,500 fine, a felony jail term, or both.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "possess or use, or to obliterate or destroy the brand registration upon, containers (including milk cases), cabinets, or other dairy equipment"
+  ]
+ },
+ "570": {
+  "title": "Punishment for unlawful subleasing of vehicles",
+  "isOffense": true,
+  "plain": "Unlawful subleasing of a motor vehicle, as defined in Section 571, is punishable by up to one year in county jail or a felony jail term, a fine up to $10,000, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "unlawful subleasing of a motor vehicle"
+  ]
+ },
+ "571": {
+  "title": "Unlawful subleasing of a motor vehicle defined",
+  "isOffense": false,
+  "plain": "Defines unlawful subleasing of a motor vehicle: a non-party who, for compensation and without the creditor's written consent, transfers or arranges transfer of rights in a vehicle whose contract bars transfer."
+ },
+ "572": {
+  "title": "Contract parties not unlawful subleasers",
+  "isOffense": false,
+  "plain": "Says a transfer, or arranging a transfer, by a party to the vehicle lease, sale, or security contract is not unlawful subleasing, and the chapter does not affect enforcement of those contracts."
+ },
+ "573": {
+  "title": "Unlawful subleasing penalties are cumulative",
+  "isOffense": false,
+  "plain": "Says the chapter's penalties add to other remedies and penalties provided by law, and that an invalid provision does not affect the rest of the chapter."
+ },
+ "574": {
+  "title": "Unlawful subleasing definitions",
+  "isOffense": false,
+  "plain": "Defines terms such as buyer, conditional sale contract, lease contract, motor vehicle, person, security agreement, and seller for the unlawful subleasing chapter."
+ },
+ "577": {
+  "title": "Carrier issuing false bill of lading",
+  "isOffense": true,
+  "plain": "A carrier, vessel master, or transportation company agent who delivers a bill of lading or receipt showing goods were shipped when they were not shipped and under the carrier's control faces a felony jail term, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "delivers any bill of lading, receipt or other voucher"
+  ]
+ },
+ "578": {
+  "title": "Warehouseman issuing receipt for goods not received",
+  "isOffense": true,
+  "plain": "A warehouseman or other depositary who issues a receipt or bill of lading for merchandise not actually received on its premises and under its control faces a felony jail term, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "issues any receipt, bill of lading, or other voucher for any merchandise of any description"
+  ]
+ },
+ "579": {
+  "title": "Package contents not matching description",
+  "isOffense": false,
+  "plain": "Says no one may be convicted under Section 577 or 578 because package contents did not match the description, if the description substantially matched the outside marks, unless the accused knew the marks were untrue."
+ },
+ "580": {
+  "title": "Issuing unmarked duplicate receipts",
+  "isOffense": true,
+  "plain": "A carrier or warehouseman who issues a second or duplicate receipt while an earlier one for the same merchandise is outstanding, without writing \"Duplicate\" across its face, faces a felony jail term, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "issues any second or duplicate receipt or voucher"
+  ]
+ },
+ "581": {
+  "title": "Selling goods covered by own receipt",
+  "isOffense": true,
+  "plain": "A carrier or warehouseman who sells, hypothecates, or pledges merchandise for which it issued a bill of lading or receipt, without the holder's written consent, faces a felony jail term, a $1,000 fine, or both.",
+  "category": "Fraud & Money",
+  "maxYears": null,
+  "maxPlus": true,
+  "acts": [
+   "sells, hypothecates, or pledges any merchandise for which any bill of lading, receipt, or voucher has been issued by him or her"
+  ]
+ },
+ "583": {
+  "title": "Exception for sales by legal process",
+  "isOffense": false,
+  "plain": "Says Section 581 does not apply where the property is demanded or sold by virtue of process of law."
+ },
+ "587": {
+  "title": "Malicious damage to railroads",
+  "isOffense": true,
+  "plain": "Maliciously removing, damaging, or destroying any part of a railroad or its structures, or placing an obstruction on railroad tracks, is punishable by up to one year in county jail or a felony jail term.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "Removes, displaces, injures, or destroys any part of any railroad",
+   "Places any obstruction upon the rails or track of any railroad"
+  ]
+ },
+ "587.1": {
+  "title": "Moving a locomotive without authorization",
+  "isOffense": true,
+  "plain": "Maliciously moving a locomotive without authorization is a misdemeanor punishable by up to one year in county jail; if it creates a substantial likelihood of injury or death, it may also be a felony.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "moves or causes to be moved"
+  ]
+ },
+ "587a": {
+  "title": "Tampering with railroad brakes or signals",
+  "isOffense": true,
+  "plain": "Tampering or interfering, without the railroad's authorization, with air brakes or other equipment on railroad cars or locomotives, or with switches or signals, is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "manipulate or in anywise tamper or interfere with any air brake or other device, appliance or apparatus in or upon any car or locomotive upon such railroad"
+  ]
+ },
+ "587b": {
+  "title": "Unauthorized riding on trains",
+  "isOffense": true,
+  "plain": "Climbing on, holding onto, or attaching oneself to a locomotive or railroad car without the railroad's authorization is a misdemeanor punishable by a fine up to $50, up to 30 days' imprisonment, or both.",
+  "category": "Property Crimes",
+  "maxYears": 0.08,
+  "acts": [
+   "enter into, climb upon, hold to, or in any manner attach himself to any locomotive, locomotive-engine tender, freight or passenger car upon such railroad, or any portion of any train thereon"
+  ]
+ },
+ "587c": {
+  "title": "Railroad fare evasion",
+  "isOffense": true,
+  "plain": "Fraudulently evading, or attempting to evade, paying one's fare while traveling on a railroad is a misdemeanor punishable by a fine up to $500, up to six months' imprisonment, or both.",
+  "category": "Fraud & Money",
+  "maxYears": 0.5,
+  "acts": [
+   "evades, or attempts to evade the payment of his fare"
+  ]
+ },
+ "588": {
+  "title": "Damaging highways and bridges",
+  "isOffense": true,
+  "plain": "Negligently, willfully, or maliciously damaging a public highway, bridge, or lawful private way, or letting water flow onto a public highway in a way that tends to damage it or endanger traffic, is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "digs up, removes, displaces, breaks down or otherwise injures or destroys any state or other public highway or bridge",
+   "sprinkles, drains, diverts or in any manner permits water from any sprinkler, ditch, canal, flume, or reservoir to flow upon or saturate by seepage any public highway"
+  ]
+ },
+ "588a": {
+  "title": "Throwing hazardous objects on highways",
+  "isOffense": true,
+  "plain": "Throwing or depositing oil, glass, nails, or other substances likely to injure people, animals, or vehicles on a public highway is a misdemeanor; willfully depositing them intending great bodily injury is a felony; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "throws or deposits any oil, glass bottle, glass, nails, tacks, hoops, wire, cans, or any other substance likely to injure any person, animal or vehicle upon any public highway in the State of California",
+   "deposits any such substance upon any public highway in the State of California"
+  ]
+ },
+ "588b": {
+  "title": "Damaging road barriers and warning signs",
+  "isOffense": true,
+  "plain": "Breaking down or removing road barriers placed by highway authorities or their contractors, or destroying road warning signs, notices, directional signs, or warning lights, is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "breaks down, removes, injures, or destroys any barrier or obstruction erected or placed in or upon any road or highway",
+   "tears down, defaces, removes, or destroys any warnings, notices, or directional signs",
+   "extinguishes, removes, injures, or destroys any warning light or lantern, or reflectorized warning or directional sign"
+  ]
+ },
+ "590": {
+  "title": "Damaging highway mileposts and guideposts",
+  "isOffense": true,
+  "plain": "Maliciously removing, destroying, damaging, or defacing a mile post, guide post, or similar marker on or near a highway, or its inscription, is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "removes, destroys, injures, breaks or defaces any mile post, board or stone, or guide post erected on or near any highway, or any inscription thereon"
+  ]
+ },
+ "590a": {
+  "title": "Informer's share of milepost fines",
+  "isOffense": false,
+  "plain": "Half of all fines collected for damaging highway mileposts and guideposts under Section 590 go to the informer who first causes a complaint to be filed."
+ },
+ "591": {
+  "title": "Damaging telephone, cable, or power lines",
+  "isOffense": true,
+  "plain": "Unlawfully and maliciously cutting, removing, or obstructing telegraph, telephone, cable television, or electric lines, or making an unauthorized connection to an electric line, is punishable by up to one year in county jail or a felony jail term of up to three years.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "takes down, removes, injures, disconnects, cuts, or obstructs a line of telegraph, telephone, or cable television, or any line used to conduct electricity",
+   "severs any wire thereof",
+   "makes an unauthorized connection with any line, other than a telegraph, telephone, or cable television line, used to conduct electricity"
+  ]
+ },
+ "591.5": {
+  "title": "Disabling a phone to block emergency calls",
+  "isOffense": true,
+  "plain": "Unlawfully and maliciously removing, damaging, or obstructing the use of a wireless communication device to stop someone from calling for help or reporting a crime is a misdemeanor; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "removes, injures, destroys, damages, or obstructs the use of any wireless communication device"
+  ]
+ },
+ "592": {
+  "title": "Stealing water from canals or reservoirs",
+  "isOffense": true,
+  "plain": "Taking water from a canal, ditch, flume, or reservoir without the owner's authority and with intent to defraud is a misdemeanor; if the water is worth over $950 or the person has a prior conviction, it can bring county jail or state prison.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "take water from any canal, ditch, flume, or reservoir"
+  ]
+ },
+ "593": {
+  "title": "Damaging electric power lines",
+  "isOffense": true,
+  "plain": "Unlawfully and maliciously taking down, damaging, or interfering with an authorized electric power line or its parts, wires, or current is punishable by a felony jail term, a fine up to $1,000, or up to one year in county jail.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "takes down, removes, injures, interferes with, or obstructs any line erected or maintained by proper authority for the purpose of transmitting electricity for light, heat, or power",
+   "severs or in any way interferes with any wire, cable, or current thereof"
+  ]
+ },
+ "593a": {
+  "title": "Spiking trees and logs",
+  "isOffense": true,
+  "plain": "Maliciously driving metal, ceramic, or other hard objects into trees or logs meant for harvest or lumber, which can injure saws, is a felony; causing bodily injury adds a consecutive three-year prison term.",
+  "category": "Property Crimes",
+  "maxYears": 3,
+  "maxPlus": true,
+  "acts": [
+   "drives or places, in any tree, saw-log, shingle-bolt, or other wood, any iron, steel, ceramic, or other substance sufficiently hard to injure saws"
+  ]
+ },
+ "593b": {
+  "title": "Climbing electric transmission towers",
+  "isOffense": true,
+  "plain": "Climbing an electric transmission or distribution pole or tower without written permission of its owner or operator is a misdemeanor, except for utility employees on duty; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "climb upon any pole, tower or other structure which is a part of such line or system"
+  ]
+ },
+ "593c": {
+  "title": "Damaging gas or hazardous liquid pipelines",
+  "isOffense": true,
+  "plain": "Willfully and maliciously breaking, obstructing, or interfering with a gas or hazardous liquid pipeline, its equipment, or its valves is a felony; no term is stated here.",
+  "category": "Property Crimes",
+  "maxYears": null,
+  "acts": [
+   "breaks, digs up, obstructs, interferes with, removes or injures any pipe or main or hazardous liquid pipeline",
+   "shuts off, removes, obstructs, injures, or in any way interferes with any valve or fitting installed on, connected to, or operated in connection with any such main or pipeline"
+  ]
+ },
+ "593d": {
+  "title": "Cable and video service theft",
+  "isOffense": true,
+  "plain": "Making unauthorized connections or using devices to get cable, satellite, or similar video services without authorization, or making or selling descrambling devices, is a crime; dealing in 10 or more devices can bring county jail or state prison and fines up to $250,000.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 1,
+  "maxPlus": true,
+  "acts": [
+   "makes or maintains an unauthorized connection or connections",
+   "purchases, possesses, attaches, causes to be attached, assists others in attaching, or maintains the attachment of any unauthorized device or devices",
+   "makes or maintains any modification or alteration to any device installed with the authorization of a multichannel video or information services provider",
+   "makes or maintains any modifications or alterations to an access device that authorizes services",
+   "obtains an unauthorized access device and uses the modified, altered, or unauthorized access device to obtain services from a multichannel video or information services provider",
+   "manufactures, assembles, modifies, imports into this state, distributes, sells, offers to sell, advertises for sale, or possesses for any of these purposes, any device or kit for a device",
+   "attaches, causes to be attached, assists others in attaching, or maintains any attachment to, any cable, wire, or other component of a multichannel video or information services provider’s system"
+  ]
+ },
+ "593e": {
+  "title": "Subscription television signal theft",
+  "isOffense": true,
+  "plain": "Making unauthorized connections or attaching devices to get subscription television without authorization, or making or selling decoding devices for it, is a misdemeanor; repeat device dealing brings up to one year in county jail and a $20,000 fine.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 1,
+  "acts": [
+   "makes or maintains an unauthorized connection or connections",
+   "purchases, possesses, attaches, causes to be attached, assists others in or maintains the attachment of any unauthorized device or devices to a television set or to other equipment designed to receive a television broadcast or transmission",
+   "makes or maintains any modification or alteration to any device installed with the authorization of a subscription television system",
+   "manufactures, imports into this state, assembles, distributes, sells, offers to sell, possesses, advertises for sale, or otherwise provides any device, any plan, or any kit for a device or for a printed circuit"
+  ]
+ },
+ "593f": {
+  "title": "Selling devices to decode MDS or ITFS broadcasts",
+  "isOffense": true,
+  "plain": "Making, distributing, or selling for profit devices, plans, or kits to decode unauthorized Multi-point Distribution Service or Instructional Television Fixed Service broadcasts is a misdemeanor punishable by a fine up to $2,500, up to 90 days in county jail, or both.",
+  "category": "Cyber, Privacy & Communications",
+  "maxYears": 0.25,
+  "acts": [
+   "manufactures, distributes, or sells any device or plan or kit for a device, or printed circuit containing circuitry for decoding or addressing"
+  ]
+ },
+ "593g": {
+  "title": "Possessing tree-spiking materials",
+  "isOffense": true,
+  "plain": "Possessing iron, steel, ceramic, or other hard substances that can damage saws or wood processing equipment, intending to use them to spike trees or logs in violation of Section 593a, is punishable by up to one year in county jail.",
+  "category": "Property Crimes",
+  "maxYears": 1,
+  "acts": [
+   "possesses any iron, steel, ceramic, or other substance sufficiently hard to injure saws or wood manufacturing or processing equipment"
+  ]
  }
 }

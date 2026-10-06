@@ -1,4 +1,4 @@
-"""Build ny/crimes.json from the downloaded New York Penal Law, Part 3, Title H (ny/raw/titleH.json, from fetch_ny.py), plus the
+"""Build ny/crimes.json from the downloaded New York Penal Law, Part 3, Titles H, I and J (ny/raw/title<H|I|J>.json, from fetch_ny.py), plus the
 reviewed data in ny/plain.json (which sections define crimes, summaries, categories, class of the offense, act phrases)
 and ny/elements.json (crime breakdowns). Usage: python3 ny/build_ny.py [--batches DIR]
 --batches writes the parsed sections that are not yet in plain.json in batches of 30 as input for the review agents.
@@ -9,7 +9,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE))
 from textlib import label_kind, apply_acts, own_text_only, tidy_acts
 
-raw = json.load(open(os.path.join(HERE, "raw", "titleH.json"), encoding="utf-8"))
+TITLES = ["H", "I", "J"]
+raws = [json.load(open(os.path.join(HERE, "raw", f"title{t}.json"), encoding="utf-8")) for t in TITLES]
 struct = json.load(open(os.path.join(HERE, "raw", "structure.json"), encoding="utf-8"))
 SEC_URL = "https://www.nysenate.gov/legislation/laws/PEN/"
 DIGIT = re.compile(r"^(\d+(?:-[A-Za-z])?)\.\s")
@@ -42,11 +43,8 @@ def paragraphs(text):
         p["i"] = len(stack) - 1
     return paras
 
-arts = {}
-for d in walk(raw["tree"]):
-    if d["docType"] == "ARTICLE": arts[d["docLevelId"]] = d["title"]
 out = []
-for art in [d for d in walk(raw["tree"]) if d["docType"] == "ARTICLE"]:
+for art in [d for raw in raws for d in walk(raw["tree"]) if d["docType"] == "ARTICLE"]:
     for s in art["documents"]["items"]:
         if s["docType"] != "SECTION" or s.get("repealed"): continue
         sec = s["locationId"]
@@ -88,6 +86,6 @@ print(len(dropped), "sections excluded as not defining a crime")
 art_ids = {d["docLevelId"]: d["locationId"] for d in walk(struct["documents"]) if d["docType"] == "ARTICLE"}
 pen_secs = sorted(d["locationId"] for d in walk(struct["documents"]) if d["docType"] == "SECTION")   # every Penal Law section, to check cites
 json.dump({"jurisdiction": "ny", "frequency": None, "articleIds": art_ids, "penSections": pen_secs,
-           "edition": f"New York Penal Law, Part 3, Title H (Offenses Against the Person Involving Physical Injury, Sexual Conduct, Restraint and Intimidation), official text from the NY Senate Open Legislation API (downloaded {raw['fetched']})",
-           "source": "https://www.nysenate.gov/legislation/laws/PEN/P3TH", "crimes": out}, open(os.path.join(HERE, "crimes.json"), "w"), ensure_ascii=False, indent=1)
+           "edition": f"New York Penal Law, Part 3, Titles H (Offenses Against the Person), I (Offenses Involving Damage to and Intrusion Upon Property) and J (Offenses Involving Theft), official text from the NY Senate Open Legislation API (downloaded {raws[0]['fetched']})",
+           "source": "https://www.nysenate.gov/legislation/laws/PEN/P3", "crimes": out}, open(os.path.join(HERE, "crimes.json"), "w"), ensure_ascii=False, indent=1)
 print(len(out), "sections written to ny/crimes.json")
