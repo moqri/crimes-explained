@@ -52,7 +52,7 @@ MA_REGIONS = {
 # California list page: the same regions, for Titles 8 and 13 of Part 1 of the Penal Code.
 CA_TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title={}.&part=1.&chapter=&article="
 CA_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="../constitution/">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="../ny/">New York</a><a href="./" aria-current="page">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="../constitution/">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="../ny/">New York</a><a href="./" aria-current="page">California</a></nav>',
     "lede": f'<p class="lede">Every crime in <a href="{CA_TITLE_URL.format(8)}" target="_blank" rel="noopener" title="Title 8 (Of Crimes Against the Person): official text on leginfo.legislature.ca.gov">Title 8 (Of Crimes Against the Person)</a> and <a href="{CA_TITLE_URL.format(13)}" target="_blank" rel="noopener" title="Title 13 (Of Crimes Against Property): official text on leginfo.legislature.ca.gov">Title 13 (Of Crimes Against Property)</a> of the <a href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener" title="The Penal Code on leginfo.legislature.ca.gov">California Penal Code</a><span id="crimecount"></span></p>',
     "about": """
           <p>California criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Code may follow.</p>
@@ -94,7 +94,7 @@ NY_REGIONS = {
 # The Constitution of the United States (--jur con): constitution/index.html and constitution/<provision>.html.
 CON_SRC = "https://www.govinfo.gov/content/pkg/CDOC-110hdoc50/html/CDOC-110hdoc50.htm"
 CON_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">U.S. Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">United States</a><a href="../ma/constitution/">Massachusetts</a><a href="../ny/constitution/">New York</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">United States</a><a href="../ma/constitution/">Massachusetts</a><a href="../ny/constitution/">New York</a></nav>',
     "lede": f'<p class="lede">Every provision of the <a href="{CON_SRC}" target="_blank" rel="noopener" title="The Constitution of the United States of America, As Amended (House Document 110-50): official text on GovInfo">Constitution of the United States</a> and its 27 amendments<span id="crimecount"></span></p>',
     "about": """
           <p>The Constitution of the United States in its official text, annotated. Each provision is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
