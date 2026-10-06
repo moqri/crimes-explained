@@ -1,0 +1,1822 @@
+{
+ "a13-s6": {
+  "review": {
+   "plain": "The legislature may declare when any office shall be deemed vacant, where this constitution makes no provision for that purpose.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature may declare the cases in which any office shall be deemed vacant"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may declare the cases in which any office shall be deemed vacant",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when no provision is made for that purpose in this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s7": {
+  "review": {
+   "plain": "State officers named in this constitution receive a compensation fixed by law, which shall not be increased or diminished during their term, and they may not receive any fees, perquisites of office or other compensation.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "which shall not be increased or diminished during the term for which he or she shall have been elected or appointed",
+    "nor shall he or she receive to his or her use any fees or perquisites of office or other compensation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Each of the state officers named in this constitution shall, during his or her continuance in office, receive a compensation, to be fixed by law",
+     "holder": null,
+     "binds": "The state",
+     "requires": [
+      "Compensation to be fixed by law"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The compensation shall not be increased or diminished during the term for which he or she shall have been elected or appointed",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Increasing or diminishing the compensation during the term"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nor shall he or she receive to his or her use any fees or perquisites of office or other compensation",
+     "holder": null,
+     "binds": "Each of the state officers named in this constitution",
+     "requires": [],
+     "forbids": [
+      "Receiving to his or her use any fees or perquisites of office or other compensation"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s8": {
+  "review": {
+   "plain": "Elections of city officers, including supervisors, and of county officers in a county wholly included in a city are held on the Tuesday after the first Monday in November in an odd-numbered year, and their terms end at the end of an odd-numbered year. Judicial officers are excluded.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All elections of city officers, including supervisors, elected in any city or part of a city, and of county officers elected in any county wholly included in a city, shall be held on the Tuesday succeeding the first Monday in November in an odd-numbered year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except to fill vacancies",
+      "This section shall not apply to elections of any judicial officer"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The term of every such officer shall expire at the end of an odd-numbered year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "This section shall not apply to elections of any judicial officer"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s13": {
+  "review": {
+   "plain": "Registers, sheriffs, county clerks and district attorneys are chosen by the electors; the governor may remove them after charges and a hearing, and must remove a district attorney who fails to prosecute violations of this article. New York City may abolish certain county offices by local law.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The governor may remove any elective sheriff, county clerk, district attorney or register within the term for which he or she shall have been elected",
+    "shall have power to select, draw, summon and empanel grand and petit jurors",
+    "The city of New York is hereby vested with power from time to time to abolish by local law"
+   ],
+   "limits": [
+    "Sheriffs shall hold no other office",
+    "The legislature shall not pass any law affecting any such matters in relation to such offices within the city of New York"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Registers in counties having registers shall be chosen by the electors of the respective counties once in every three years and whenever the occurring of vacancies shall require",
+     "holder": "The electors",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except in counties in the city of New York",
+      "except as authorized in section one of article nine of this constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The sheriff and the clerk of each county shall be chosen by the electors once in every three or four years as the legislature shall direct",
+     "holder": "The electors",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except in counties in the city of New York",
+      "except as authorized in section one of article nine of this constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Sheriffs shall hold no other office",
+     "holder": null,
+     "binds": "Sheriffs",
+     "requires": [],
+     "forbids": [
+      "Holding any other office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Sheriffs may be required by law to renew their security, from time to time; and in default of giving such new security, their offices shall be deemed vacant",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in default of giving such new security"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The governor may remove any elective sheriff, county clerk, district attorney or register within the term for which he or she shall have been elected",
+     "holder": "The governor",
+     "binds": null,
+     "requires": [
+      "before so doing the governor shall give to such officer a copy of the charges against him or her and an opportunity of being heard in his or her defense"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "In each county a district attorney shall be chosen by the electors once in every three or four years as the legislature shall direct",
+     "holder": "The electors",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The clerk of each county in the city of New York shall be appointed, and be subject to removal, by the appellate division of the supreme court in the judicial department in which the county is located",
+     "holder": "The appellate division of the supreme court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "In addition to his or her powers and duties as clerk of the supreme court, he or she shall have power to select, draw, summon and empanel grand and petit jurors, and shall have such other powers and duties as shall be prescribed by the city from time to time by local law",
+     "holder": "The clerk of each county in the city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in the manner and under the conditions now or hereafter prescribed by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Any district attorney who shall fail faithfully to prosecute a person charged with the violation in his or her county of any provision of this article which may come to his or her knowledge, shall be removed from office by the governor",
+     "holder": "The governor",
+     "binds": "The governor",
+     "requires": [
+      "after due notice and an opportunity of being heard in his or her defense"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The expenses incurred by any county in investigating and prosecuting any charge of bribery or attempting to bribe any person holding office under the laws of this state, or of receiving bribes, shall be a charge against the state, and their payment by the state shall be provided for by law",
+     "holder": null,
+     "binds": "The state",
+     "requires": [
+      "their payment by the state shall be provided for by law"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The city of New York is hereby vested with power from time to time to abolish by local law the office of any county officer within the city other than judges, clerks of counties and district attorneys, to assign any or all functions of such officers to city officers, courts or clerks of counties, to prescribe the powers, duties, qualifications, number, mode of selection and removal, terms of office and compensation of the persons holding such offices and the employees therein, and to assign to city officers any powers or duties of clerks of counties not assigned by this constitution",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than judges, clerks of counties and district attorneys"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The legislature shall not pass any law affecting any such matters in relation to such offices within the city of New York",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Passing any law affecting any such matters in relation to such offices within the city of New York"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except on message from the governor declaring that an emergency exists and the concurrent action of two-thirds of the members of each house",
+      "except that existing laws regarding each such office shall continue in force, and may be amended or repealed by the legislature as heretofore, until the power herein granted to the city has been exercised with respect to that office"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The provisions of article nine shall not prevent the legislature from passing general or special laws prescribing or affecting powers and duties of such city officers or such courts or clerks to whom or which functions of such county officers shall have been so assigned",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in so far as such powers or duties embrace subjects not relating to property, affairs or government of such city"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s14": {
+  "review": {
+   "plain": "The legislature may regulate and fix the wages, salaries and hours of work, and provide for the protection, welfare and safety, of public employees and of persons employed by contractors or subcontractors working for the state or its civil divisions.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature may regulate and fix the wages or salaries and the hours of work or labor",
+    "make provisions for the protection, welfare and safety"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may regulate and fix the wages or salaries and the hours of work or labor, and make provisions for the protection, welfare and safety, of persons employed by the state or by any county, city, town, village or other civil division of the state, or by any contractor or subcontractor performing work, labor or services for the state or for any county, city, town, village or other civil division thereof",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s1": {
+  "review": {
+   "plain": "The forest preserve shall be forever kept as wild forest lands and may not be leased, sold, exchanged or taken, nor its timber sold, removed or destroyed, except for listed highways, ski trails, land exchanges, a health and safety land account and Nordic skiing trails.",
+   "category": "Conservation & Natural Resources",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "the state may convey to the village of Saranac Lake ten acres of forest preserve land",
+    "the state may convey to the town of Arietta twenty-eight acres of forest preserve land",
+    "may convey to International Paper Company approximately eight thousand five hundred acres of forest preserve land",
+    "may convey to Sagamore Institute Inc., a not-for-profit educational organization, approximately ten acres of land and buildings",
+    "the state may convey to the town of Arietta fifty acres of forest preserve land",
+    "the state may convey to the town of Keene, Essex county, for public use as a cemetery owned by such town, approximately twelve acres of forest preserve land",
+    "the state may convey to the town of Long Lake, Hamilton county, one acre of forest preserve land",
+    "the state may convey to National Grid up to six acres adjoining State Route 56",
+    "the legislature may authorize the settlement",
+    "the state may authorize NYCO Minerals, Inc. to engage in mineral sampling operations",
+    "the state may subsequently convey said lot 8 to NYCO Minerals, Inc.",
+    "a town, village or county may apply, pursuant to a process determined by the legislature, to the health and safety land account",
+    "is authorized on one thousand thirty-nine acres of forest preserve lands at the Mount Van Hoevenberg Olympic Sports Complex"
+   ],
+   "limits": [
+    "shall be forever kept as wild forest lands",
+    "They shall not be leased, sold or exchanged, or be taken by any corporation, public or private",
+    "nor shall the timber thereon be sold, removed or destroyed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The lands of the state, now owned or hereafter acquired, constituting the forest preserve as now fixed by law, shall be forever kept as wild forest lands",
+     "holder": null,
+     "binds": "The state",
+     "requires": [
+      "shall be forever kept as wild forest lands"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "They shall not be leased, sold or exchanged, or be taken by any corporation, public or private, nor shall the timber thereon be sold, removed or destroyed",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Leasing, selling or exchanging forest preserve lands",
+      "Taking by any corporation, public or private",
+      "Selling, removing or destroying the timber thereon"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing herein contained shall prevent the state from constructing, completing and maintaining any highway heretofore specifically authorized by constitutional amendment",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nor from constructing and maintaining to federal standards federal aid interstate highway route five hundred two from a point in the vicinity of the city of Glens Falls northerly to the vicinity of the village of Keeseville and the city of Plattsburgh",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "all of the aforesaid taking not to exceed a total of three hundred acres of state forest preserve land"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nor from constructing and maintaining not more than twenty-five miles of ski trails thirty to two hundred feet wide, together with appurtenances thereto, on the north, east and northwest slopes of Whiteface Mountain in Essex county",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that no more than five miles of such trails shall be in excess of one hundred twenty feet wide"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nor from constructing and maintaining not more than twenty-five miles of ski trails thirty to two hundred feet wide, together with appurtenances thereto, on the slopes of Belleayre Mountain in Ulster and Delaware counties",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that no more than two miles of such trails shall be in excess of one hundred twenty feet wide"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "And not more than forty miles of ski trails thirty to two hundred feet wide, together with appurtenances thereto, on the slopes of Gore and Pete Gay mountains in Warren county",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that no more than eight miles of such trails shall be in excess of one hundred twenty feet wide"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nor from relocating, reconstructing and maintaining a total of not more than fifty miles of existing state highways for the purpose of eliminating the hazards of dangerous curves and grades",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided a total of no more than four hundred acres of forest preserve land shall be used for such purpose and that no single relocated portion of any highway shall exceed one mile in length"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may convey to the village of Saranac Lake ten acres of forest preserve land adjacent to the boundaries of such village for public use in providing for refuse disposal and in exchange therefore the village of Saranac Lake shall convey to the state thirty acres of certain true forest land owned by such village on Roaring Brook",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may convey to the town of Arietta twenty-eight acres of forest preserve land within such town for public use in providing for the extension of the runway and landing strip of the Piseco airport and in exchange therefor the town of Arietta shall convey to the state thirty acres of certain land owned by such town",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state, in order to consolidate its land holdings for better management, may convey to International Paper Company approximately eight thousand five hundred acres of forest preserve land, and in exchange therefore International Paper Company shall convey to the state for incorporation into the forest preserve approximately the same number of acres of land located within such townships",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative approval of the tracts to be exchanged prior to the actual transfer of title",
+      "on condition that the legislature shall determine that the lands to be received by the state are at least equal in value to the lands to be conveyed by the state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state, in order to facilitate the preservation of historic buildings listed on the national register of historic places, may convey to Sagamore Institute Inc. approximately ten acres of land and buildings thereon, and in exchange therefor Sagamore Institute, Inc. shall convey to the state for incorporation into the forest preserve approximately two hundred acres of wild forest land located within the Adirondack Park",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative approval of the tracts to be exchanged prior to the actual transfer of title",
+      "on condition that the legislature shall determine that the lands to be received by the state are at least equal in value to the lands and buildings to be conveyed by the state",
+      "that the natural and historic character of the lands and buildings conveyed by the state will be secured by appropriate covenants and restrictions",
+      "that the lands and buildings conveyed by the state will reasonably be available for public visits according to agreement between Sagamore Institute, Inc. and the state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may convey to the town of Arietta fifty acres of forest preserve land within such town for public use in providing for the extension of the runway and landing strip of the Piseco airport and providing for the maintenance of a clear zone around such runway, and in exchange therefor, the town of Arietta shall convey to the state fifty-three acres of true forest land",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may convey to the town of Keene, Essex county, for public use as a cemetery owned by such town, approximately twelve acres of forest preserve land, and the town of Keene shall convey to the state for incorporation into the forest preserve approximately one hundred forty-four acres of land, together with an easement",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative approval prior to actual transfer of title",
+      "on condition that the legislature shall determine that the property to be received by the state is at least equal in value to the land to be conveyed by the state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may convey to the town of Long Lake, Hamilton county, one acre of forest preserve land within such town for public use as the site of such drinking water wells and necessary appurtenances for the municipal water supply for the hamlet of Raquette Lake; in exchange therefor, the town of Long Lake shall convey to the state at least twelve acres of land located in Hamilton county for incorporation into the forest preserve",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative approval prior to actual transfer of title",
+      "because there is no viable alternative to using forest preserve lands for the siting of drinking water wells and necessary appurtenances and because such wells are necessary to meet drinking water quality standards",
+      "that the legislature shall determine is at least equal in value to the land to be conveyed by the state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Raquette Lake surface reservoir shall be abandoned as a drinking water supply source",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The Raquette Lake surface reservoir shall be abandoned as a drinking water supply source"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may convey to National Grid up to six acres adjoining State Route 56 in St. Lawrence County that is necessary and appropriate for National Grid to construct a new 46kV power line and in exchange therefore National Grid shall convey to the state for incorporation into the forest preserve at least 10 acres of forest land",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative approval prior to actual transfer of title",
+      "on condition that the legislature shall determine that the property to be received by the state is at least equal in value to the land conveyed by the state"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may authorize the settlement, according to terms determined by the legislature, of title disputes in township forty, Totten and Crossfield purchase in the town of Long Lake, Hamilton county",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that prior to, and as a condition of such settlement, land purchased without the use of state-appropriated funds, and suitable for incorporation in the forest preserve within the Adirondack park, shall be conveyed to the state",
+      "on the condition that the legislature shall determine that the property to be conveyed to the state shall provide a net benefit to the forest preserve as compared to the township forty lands subject to such settlement"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may authorize NYCO Minerals, Inc. to engage in mineral sampling operations, solely at its expense, to determine the quantity and quality of wollastonite on approximately 200 acres of forest preserve land contained in lot 8, Stowers survey, town of Lewis, Essex county",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that NYCO Minerals, Inc. shall provide the data and information derived from such drilling to the state for appraisal purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state may subsequently convey said lot 8 to NYCO Minerals, Inc., and, in exchange therefor, NYCO Minerals, Inc. shall convey to the state for incorporation into the forest preserve not less than the same number of acres of land",
+     "holder": "The state",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to legislative approval of the tracts to be exchanged prior to the actual transfer of title",
+      "on condition that the legislature shall determine that the lands to be received by the state are equal to or greater than the value of the land to be conveyed by the state",
+      "on condition that the assessed value of the land to be conveyed to the state shall total not less than one million dollars"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "When NYCO Minerals, Inc. terminates all mining operations on such lot 8 it shall remediate the site and convey title to such lot back to the state of New York for inclusion in the forest preserve",
+     "holder": null,
+     "binds": "NYCO Minerals, Inc.",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In the event that lot 8 is not conveyed to NYCO Minerals, Inc., NYCO Minerals, Inc. nevertheless shall convey to the state for incorporation into the forest preserve not less than the same number of acres of land that is disturbed by any mineral sampling operations conducted on said lot 8",
+     "holder": null,
+     "binds": "NYCO Minerals, Inc.",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on condition that the legislature shall determine that the lands to be received by the state are equal to or greater than the value of the lands disturbed by the mineral sampling operations"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A total of no more than two hundred fifty acres of forest preserve land shall be used for the establishment of a health and safety land account",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative approval prior to actual transfer of title"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "A town, village or county may apply, pursuant to a process determined by the legislature, to the health and safety land account for projects limited to: bridge hazards or safety on county highways and town highways; elimination of the hazards of dangerous curves and grades; relocation and reconstruction and maintenance of such highways; and water wells and necessary appurtenances located within five hundred thirty feet of state highways, county highways, and town highways",
+     "holder": "A town, village or county",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Where no viable alternative exists and other criteria developed by the legislature are satisfied",
+      "town highways listed on the local highway inventory maintained by the department of transportation, dedicated, and in existence on January first, two thousand fifteen, and annually plowed and regularly maintained",
+      "provided further that no single relocated portion of any such highway shall exceed one mile in length",
+      "when such wells are necessary to meet drinking water quality standards"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "As a condition of the creation of such health and safety land account the state shall acquire two hundred fifty acres of land for incorporation into the forest preserve",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on condition that the legislature shall approve such lands to be added to the forest preserve"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The construction, operation, and maintenance to international standards for Nordic skiing and biathlon trails, totaling not more than three hundred twenty-three acres of trails and appurtenances thereto, is authorized on one thousand thirty-nine acres of forest preserve lands at the Mount Van Hoevenberg Olympic Sports Complex in the town of North Elba in Essex county",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "As an offset thereto the state must acquire for incorporation into the forest preserve at least two thousand five hundred acres of forest land for inclusion in the forest preserve in the Adirondack Park",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on condition that the legislature shall determine that such lands are equal to or greater in value"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s2": {
+  "review": {
+   "plain": "The legislature may by general laws allow up to three per centum of forest preserve lands to be used for state-owned reservoirs for municipal water supply and for the canals, after survey, notice and hearing; benefited property pays the expense and a reasonable return to the state.",
+   "category": "Conservation & Natural Resources",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature may by general laws provide for the use of not exceeding three per centum of such lands"
+   ],
+   "limits": [
+    "such work shall not be undertaken until after the boundaries and high flow lines thereof shall have been accurately surveyed and fixed",
+    "Unsanitary conditions shall not be created or continued by any such public works"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may by general laws provide for the use of not exceeding three per centum of such lands for the construction and maintenance of reservoirs for municipal water supply, and for the canals of the state",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "by general laws"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such reservoirs shall be constructed, owned and controlled by the state",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such work shall not be undertaken until after the boundaries and high flow lines thereof shall have been accurately surveyed and fixed, and after public notice, hearing and determination that such lands are required for such public use",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Undertaking such work before survey, public notice, hearing and determination"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The expense of any such improvements shall be apportioned on the public and private property and municipalities benefited to the extent of the benefits received",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Any such reservoir shall always be operated by the state and the legislature shall provide for a charge upon the property and municipalities benefited for a reasonable return to the state upon the value of the rights and property of the state used and the services of the state rendered",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "which shall be fixed for terms of not exceeding ten years and be readjustable at the end of any term"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Unsanitary conditions shall not be created or continued by any such public works",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Creating or continuing unsanitary conditions by any such public works"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s3": {
+  "review": {
+   "plain": "Forest and wild life conservation are state policies; the legislature may buy land outside the Adirondack and Catskill parks for them, and may authorize dedication, use or sale of small separated forest preserve parcels outside the parks, with sale moneys used only to buy more preserve land in the parks.",
+   "category": "Conservation & Natural Resources",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may appropriate moneys for the acquisition by the state of land",
+    "the legislature may by appropriate legislation, notwithstanding the provisions of section one of this article, authorize"
+   ],
+   "limits": [
+    "except that such lands shall not be leased, sold or exchanged, or be taken by any corporation, public or private",
+    "be expended only for the acquisition of additional lands for such forest preserve"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "1",
+     "kind": "structure",
+     "what": "Forest and wild life conservation are hereby declared to be policies of the state",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "1",
+     "kind": "power",
+     "what": "For the purpose of carrying out such policies the legislature may appropriate moneys for the acquisition by the state of land, outside of the Adirondack and Catskill parks as now fixed by law, for the practice of forest or wild life conservation",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "1",
+     "kind": "structure",
+     "what": "The prohibitions of section 1 of this article shall not apply to any lands heretofore or hereafter acquired or dedicated for such purposes within the forest preserve counties but outside of the Adirondack and Catskill parks as now fixed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except that such lands shall not be leased, sold or exchanged, or be taken by any corporation, public or private"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "1",
+     "kind": "limit",
+     "what": "Such lands shall not be leased, sold or exchanged, or be taken by any corporation, public or private",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Leasing, selling or exchanging such lands",
+      "Taking by any corporation, public or private"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "2",
+     "kind": "power",
+     "what": "As to any other lands of the forest preserve outside of the Adirondack and Catskill parks, consisting in any case of not more than one hundred contiguous acres entirely separated from any other portion of the forest preserve, the legislature may by appropriate legislation, notwithstanding the provisions of section one of this article, authorize: (a) the dedication thereof for the practice of forest or wildlife conservation; or (b) the use thereof for public recreational or other state purposes or the sale, exchange or other disposition thereof",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "consisting in any case of not more than one hundred contiguous acres entirely separated from any other portion of the forest preserve"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "2",
+     "kind": "limit",
+     "what": "All moneys derived from the sale or other disposition of any of such lands shall be paid into a special fund of the treasury and be expended only for the acquisition of additional lands for such forest preserve within either such Adirondack or Catskill park",
+     "holder": null,
+     "binds": "The state",
+     "requires": [
+      "shall be paid into a special fund of the treasury"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s4": {
+  "review": {
+   "plain": "The state's policy is to conserve natural resources and scenic beauty and encourage agricultural development; the legislature must provide for pollution and noise abatement, protection of lands and water resources, and a state nature and historical preserve that may be disposed of only by two successive sessions.",
+   "category": "Conservation & Natural Resources",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "they shall not be taken or otherwise disposed of except by law enacted by two successive regular sessions of the legislature"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The policy of the state shall be to conserve and protect its natural resources and scenic beauty and encourage the development and improvement of its agricultural lands for the production of food and other agricultural products",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature, in implementing this policy, shall include adequate provision for the abatement of air and water pollution and of excessive and unnecessary noise, the protection of agricultural lands, wetlands and shorelines, and the development and regulation of water resources",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall further provide for the acquisition of lands and waters, including improvements thereon and any interest therein, outside the forest preserve counties, and the dedication of properties so acquired or now owned, which because of their natural beauty, wilderness character, or geological, ecological or historical significance, shall be preserved and administered for the use and enjoyment of the people",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Properties so dedicated shall constitute the state nature and historical preserve and they shall not be taken or otherwise disposed of except by law enacted by two successive regular sessions of the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Taking or otherwise disposing of the state nature and historical preserve"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except by law enacted by two successive regular sessions of the legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s5": {
+  "review": {
+   "plain": "A violation of this article may be restrained at the suit of the people or, with the consent of the supreme court in appellate division and on notice to the attorney-general, at the suit of any citizen.",
+   "category": "Conservation & Natural Resources",
+   "kind": "Right",
+   "rights": [
+    "may be restrained at the suit of the people",
+    "at the suit of any citizen"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A violation of any of the provisions of this article may be restrained at the suit of the people",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A violation of any of the provisions of this article may be restrained at the suit of any citizen",
+     "holder": "Any citizen",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "with the consent of the supreme court in appellate division",
+      "on notice to the attorney-general"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a14-s6": {
+  "review": {
+   "plain": "Where listed highways cross forest preserve land, utility lines may be buried or co-located and bicycle paths built within the highway widths as set by law, minimizing tree removal and excluding certain new natural gas or oil pipelines.",
+   "category": "Conservation & Natural Resources",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "be buried or co-located within the widths of such highways",
+    "be constructed and maintained within the widths of such highways"
+   ],
+   "limits": [
+    "shall minimize the removal of trees or vegetation",
+    "shall not include the construction of any new intrastate natural gas or oil pipelines"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Where state, county, or town highways traverse forest preserve land, public utility lines, limited to electric, telephone, broadband, water or sewer lines as defined in law, may be buried or co-located within the widths of such highways as defined in law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "highways listed on the local highway inventory maintained by the department of transportation, dedicated and in existence on January first, two thousand fifteen, and annually plowed and regularly maintained",
+      "consistent with standards and requirements set forth in law",
+      "following receipt of all permits or authorizations required by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Bicycle paths may be constructed and maintained within the widths of such highways, as defined in law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "consistent with standards and requirements set forth in law",
+      "following receipt of all permits or authorizations required by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "A stabilization device for an existing utility pole may be located in proximity to the width of the road, as defined in law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when no viable alternative exists and when necessary to ensure public health and safety"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Any co-location, burial, maintenance or construction shall minimize the removal of trees or vegetation and shall not include the construction of any new intrastate natural gas or oil pipelines that have not received all necessary state and local permits and authorizations as of June first, two thousand sixteen",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall minimize the removal of trees or vegetation"
+     ],
+     "forbids": [
+      "the construction of any new intrastate natural gas or oil pipelines that have not received all necessary state and local permits and authorizations as of June first, two thousand sixteen"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a15-s1": {
+  "review": {
+   "plain": "The legislature shall not sell, abandon or otherwise dispose of the barge canal, its terminals, or older canal parts that function as part of it; they remain state property forever, though the legislature may authorize revocable permits or leases.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "authorizing the granting of revocable permits or leases"
+   ],
+   "limits": [
+    "The legislature shall not sell, abandon or otherwise dispose of the now existing or future improved barge canal",
+    "nor shall it sell, abandon or otherwise dispose of any portion of the canal system existing prior to the barge canal improvement"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The legislature shall not sell, abandon or otherwise dispose of the now existing or future improved barge canal, the divisions of which are the Erie canal, the Oswego canal, the Champlain canal, and the Cayuga and Seneca canals, or of the terminals constructed as part of the barge canal system",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Selling, abandoning or otherwise disposing of the barge canal or its terminals"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nor shall it sell, abandon or otherwise dispose of any portion of the canal system existing prior to the barge canal improvement which portion forms a part of, or functions as a part of, the present barge canal system",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Selling, abandoning or otherwise disposing of any such portion of the canal system"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such canals and terminals shall remain the property of the state and under its management and control forever",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "This prohibition shall not prevent the legislature, by appropriate laws, from authorizing the granting of revocable permits or leases for periods of time as authorized by the legislature for the occupancy or use of such lands or structures",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a15-s2": {
+  "review": {
+   "plain": "The ban on disposing of canals does not apply to canal lands, terminals and structures no longer necessary or useful for canal purposes, and the legislature may authorize their sale, exchange, abandonment or other disposition.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature may by appropriate legislation authorize the sale, exchange, abandonment or other disposition"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The prohibition of sale, abandonment or other disposition contained in section one of this article shall not apply to barge canal lands, barge canal terminals or barge canal terminal lands which have or may become no longer necessary or useful for canal or terminal purposes; nor to any canal lands and appertaining structures constituting the canal system prior to the barge canal improvement which have or may become no longer necessary or useful in conjunction with the now existing barge canal",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may by appropriate legislation authorize the sale, exchange, abandonment or other disposition of any barge canal lands, barge canal terminals, barge canal terminal lands or other canal lands and appertaining structures which have or may become no longer necessary or useful as a part of the barge canal system, as an aid to navigation thereon, or for barge canal terminal purposes",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "which have or may become no longer necessary or useful as a part of the barge canal system, as an aid to navigation thereon, or for barge canal terminal purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a15-s3": {
+  "review": {
+   "plain": "Canal boats follow canal laws; the legislature must fund canal superintendence and repairs yearly and may improve the canals; contracts go to the lowest responsible price; canal sale and other canal funds go into a special revenue fund spent only on the canal.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "may provide for the improvement of the canals"
+   ],
+   "limits": [
+    "Such funds shall only be expended for the maintenance, construction, reconstruction, development or promotion of the canal"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All boats navigating the canals and the owners and masters thereof, shall be subject to such laws and regulations as have been or may hereafter be enacted concerning the navigation of the canals",
+     "holder": null,
+     "binds": "All boats navigating the canals and the owners and masters thereof",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall annually make provision for the expenses of the superintendence and repairs of the canals",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide for the improvement of the canals in such manner as shall be provided by law notwithstanding the creation of a special revenue fund as provided in this section",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "All contracts for work or materials on any canal shall be made with the persons who shall offer to do or provide the same at the lowest responsible price, with adequate security for their performance as provided by law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "with adequate security for their performance as provided by law"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "All funds derived from any sale or other disposition of any barge canal lands, barge canal terminals, barge canal terminal lands or other canal lands and appertaining structures and any other funds collected for the use of the canals or canal lands shall be paid into a special revenue fund of the treasury",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such funds shall only be expended for the maintenance, construction, reconstruction, development or promotion of the canal, canal lands, or lands adjacent to the canal as provided by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a15-s4": {
+  "review": {
+   "plain": "Despite the ban on disposing of canals, the legislature may authorize leasing or transferring the barge canal to the federal government, with or without compensation, may still fund the state's share of costs, and must weigh flood control and water resource benefits in setting that share.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may authorize by law the lease or transfer to the federal government of the barge canal",
+    "providing annual appropriations for the state's share"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Notwithstanding the prohibition of sale, abandonment or other disposition contained in section one of this article, the legislature may authorize by law the lease or transfer to the federal government of the barge canal, consisting of the Erie, Oswego, Champlain, Cayuga and Seneca divisions and the barge canal terminals and facilities for purposes of operation, improvement and inclusion in the national system of inland waterways",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Such lease or transfer to the federal government may be made upon such terms and conditions as the legislature may determine with or without compensation to the state",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing contained herein shall prevent the legislature from providing annual appropriations for the state's share, if any, of the cost of operation, maintenance and improvement of the barge canal, the divisions thereof, terminals and facilities",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in the event of the transfer of the barge canal in whole to the federal government whether by lease or transfer"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature, in determining the state's share of the annual cost of operation, maintenance and improvement of the barge canal, shall give consideration and evaluate the benefits derived from the barge canal for purposes of flood control, conservation and utilization of water resources",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s1": {
+  "review": {
+   "plain": "The power of taxation shall never be surrendered, suspended or contracted away, except as to public securities. Laws delegating taxing power must specify the taxes and provide for review. Exemptions come only by general laws, and religious, educational or charitable property exemptions may not be altered or repealed.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "The power of taxation shall never be surrendered, suspended or contracted away",
+    "Exemptions from taxation may be granted only by general laws"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The power of taxation shall never be surrendered, suspended or contracted away",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Surrendering, suspending or contracting away the power of taxation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as to securities issued for public purposes pursuant to law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Any laws which delegate the taxing power shall specify the types of taxes which may be imposed thereunder and provide for their review",
+     "holder": null,
+     "binds": "Any laws which delegate the taxing power",
+     "requires": [
+      "specify the types of taxes which may be imposed thereunder",
+      "provide for their review"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Exemptions from taxation may be granted only by general laws",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "only by general laws"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Exemptions may be altered or repealed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except those exempting real or personal property used exclusively for religious, educational or charitable purposes as defined by law and owned by any corporation or association organized or conducted exclusively for one or more of such purposes and not operating for profit"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s2": {
+  "review": {
+   "plain": "The legislature shall provide for supervising, reviewing and equalizing tax assessments, which shall never exceed full value. It may provide for village taxes to be collected by other taxing authorities and for counties to advance unpaid village taxes to villages.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Assessments shall in no case exceed full value"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide for the supervision, review and equalization of assessments for purposes of taxation",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Assessments shall in no case exceed full value",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Assessments exceeding full value"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing in this constitution shall be deemed to prevent the legislature from providing for the assessment, levy and collection of village taxes by the taxing authorities of those subdivisions of the state in which the lands comprising the respective villages are located",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nor from providing that the respective counties of the state may loan or advance to any village located in whole or in part within such county the amount of any tax which shall have been levied for village purposes upon any lands located within such county and remaining unpaid",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s3": {
+  "review": {
+   "plain": "Intangible personal property not used in business is deemed located at the owner's domicile for taxation; trust property is not located here just because the trustee is, except for death taxation in some cases. Intangibles shall not be taxed ad valorem or by ownership excise, and undistributed profits shall not be taxed.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Intangible personal property shall not be taxed ad valorem",
+    "nor shall any excise tax be levied solely because of the ownership or possession thereof",
+    "Undistributed profits shall not be taxed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Moneys, credits, securities and other intangible personal property within the state not employed in carrying on any business therein by the owner shall be deemed to be located at the domicile of the owner for purposes of taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If held in trust, such property shall not be deemed to be located in this state for purposes of taxation because of the trustee being domiciled in this state",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "provided that if no other state has jurisdiction to subject such property held in trust to death taxation, it may be deemed property having a taxable situs within this state for purposes of death taxation"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Intangible personal property shall not be taxed ad valorem nor shall any excise tax be levied solely because of the ownership or possession thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Taxing intangible personal property ad valorem",
+      "Levying any excise tax solely because of the ownership or possession thereof"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except that the income therefrom may be taken into consideration in computing any excise tax measured by income generally"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Undistributed profits shall not be taxed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Taxing undistributed profits"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s4": {
+  "review": {
+   "plain": "Where the state has power to tax corporations incorporated under the laws of the United States, it shall not discriminate in tax rates and method between them and similar corporations doing similar business in the state.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "there shall be no discrimination in the rates and method of taxation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "There shall be no discrimination in the rates and method of taxation between corporations incorporated under the laws of the United States and other corporations exercising substantially similar functions and engaged in substantially similar business within the state",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Discrimination in the rates and method of taxation"
+     ],
+     "conditions": [
+      "Where the state has power to tax corporations incorporated under the laws of the United States"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a16-s5": {
+  "review": {
+   "plain": "All salaries, wages and other compensation, except pensions, paid to officers and employees of the state and its subdivisions and agencies shall be subject to taxation.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All salaries, wages and other compensation paid to officers and employees of the state and its subdivisions and agencies shall be subject to taxation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except pensions"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

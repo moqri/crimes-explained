@@ -1,0 +1,2430 @@
+{
+ "a7-s15": {
+  "review": {
+   "plain": "The state's existing sinking funds must be kept separately, safely invested and used only to pay their debts. The comptroller appraises them yearly and certifies the contributions needed, which the legislature must appropriate; excess income may go to interest or, once a fund equals its debt, to the general fund.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "the excess income may be applied to the interest on the debt for which the fund was created",
+    "may be applied to the general fund of the state"
+   ],
+   "limits": [
+    "neither of them shall be appropriated or used in any manner other than for such payment and extinguishment",
+    "no further contribution shall be made thereto"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The sinking funds provided for the payment of interest and the extinguishment of the principal of the debts of the state heretofore contracted shall be continued; they shall be separately kept and safely invested",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "neither of them shall be appropriated or used in any manner other than for such payment and extinguishment as hereinafter provided",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Appropriating or using the sinking funds in any manner other than for such payment and extinguishment"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The comptroller shall each year appraise the securities held for investment in each of such funds at their fair market value not exceeding par",
+     "holder": null,
+     "binds": "The comptroller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The comptroller shall then determine and certify to the legislature the amount of each of such funds and the amounts which, if thereafter annually contributed to each such fund, would, with the fund and with the accumulations thereon and upon the contributions thereto, computed at the rate of three per centum per annum, produce at the date of maturity the amount of the debt to retire which such fund was created",
+     "holder": null,
+     "binds": "The comptroller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the legislature shall thereupon appropriate as the contribution to each such fund for such year at least the amount thus certified",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the excess income may be applied to the interest on the debt for which the fund was created",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the income of any such fund in any year is more than a sum which, if annually added to such fund would, with the fund and its accumulations as aforesaid, retire the debt at maturity"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "After any sinking fund shall equal in amount the debt for which it was created no further contribution shall be made thereto",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Further contribution to a sinking fund that equals in amount the debt for which it was created"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except to make good any losses ascertained at the annual appraisals above mentioned"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the income thereof shall be applied to the payment of the interest on such debt",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "After any sinking fund shall equal in amount the debt for which it was created"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any excess in such income not required for the payment of interest may be applied to the general fund of the state",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s16": {
+  "review": {
+   "plain": "The legislature must appropriate each year for interest, principal and sinking fund contributions on state debts, except debts under section 9. If it fails, the comptroller must set apart and apply the first revenues received, and a bondholder may sue to require this. The comptroller may covenant to end purchasers' further rights once set amounts are deposited.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [
+    "at the suit of any holder of such bonds"
+   ],
+   "powers": [
+    "may covenant with the purchasers of any state obligations"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall annually provide by appropriation for the payment of the interest upon and installments of principal of all debts or refunding debts created on behalf of the state, as the same shall fall due, and for the contribution to all of the sinking funds created by law, of the amounts annually to be contributed under the provisions of section 12, 13 or 15 of this article",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except those contracted under section 9 of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the comptroller shall set apart from the first revenues thereafter received, applicable to the general fund of the state, a sum sufficient to pay such interest, installments of principal, or contributions to such sinking fund, as the case may be, and shall so apply the moneys thus set apart",
+     "holder": null,
+     "binds": "The comptroller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If at any time the legislature shall fail to make any such appropriation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The comptroller may be required to set aside and apply such revenues as aforesaid, at the suit of any holder of such bonds",
+     "holder": "Any holder of such bonds",
+     "binds": "The comptroller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the comptroller may covenant with the purchasers of any state obligations that they shall have no further rights against the state for payment of such obligations or any interest thereon after an amount or amounts determined in accordance with the provisions of such covenant is deposited in a described fund or with a named or described agency or trustee",
+     "holder": "The comptroller",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the foregoing provisions of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "this section shall have no further application with respect to payment of such obligations or any interest thereon after the comptroller has complied with the prescribed conditions of such covenant",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "after the comptroller has complied with the prescribed conditions of such covenant"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s17": {
+  "review": {
+   "plain": "The legislature may set up funds to stabilize state tax revenues. The law must name the taxes and set a yearly norm; revenue above the norm is paid in, and money is paid out only when revenue falls below the norm. A law changing these amounts or the norm takes effect only three years after enactment.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may establish a fund or funds to aid in the stabilization of the tax revenues of the state"
+   ],
+   "limits": [
+    "No moneys shall at any time be withdrawn from such fund unless the revenue derived from such tax or taxes during a fiscal year shall fall below the norm for such year",
+    "No law changing the method of determining a norm"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may establish a fund or funds to aid in the stabilization of the tax revenues of the state available for expenditure or distribution",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Any law creating such a fund shall specify the tax or taxes to which such fund relates, and shall prescribe the method of determining the amount of revenue from any such tax or taxes which shall constitute a norm of each fiscal year",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [
+      "specify the tax or taxes to which such fund relates",
+      "prescribe the method of determining the amount of revenue from any such tax or taxes which shall constitute a norm of each fiscal year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Such part as shall be prescribed by law of any revenue derived from such tax or taxes during a fiscal year in excess of such norm shall be paid into such fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No moneys shall at any time be withdrawn from such fund unless the revenue derived from such tax or taxes during a fiscal year shall fall below the norm for such year; in which event such amount as may be prescribed by law, but in no event an amount exceeding the difference between such revenue and such norm, shall be paid from such fund into the general fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Withdrawing moneys from such fund unless the revenue during a fiscal year shall fall below the norm for such year",
+      "Paying from such fund an amount exceeding the difference between such revenue and such norm"
+     ],
+     "conditions": [
+      "unless the revenue derived from such tax or taxes during a fiscal year shall fall below the norm for such year"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No law changing the method of determining a norm or prescribing the amount to be paid into such a fund or to be paid from such a fund into the general fund may become effective until three years from the date of its enactment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Such a law becoming effective until three years from the date of its enactment"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s18": {
+  "review": {
+   "plain": "The legislature may authorize up to four hundred million dollars of state debt, without a vote of the people, to pay a bonus to members of the armed forces who served on active duty between December 7, 1941 and September 2, 1945 and lived in the state six months before service, or to their next of kin.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may authorize by law the creation of a debt or debts of the state"
+   ],
+   "limits": [
+    "The aggregate of the debts authorized by this section shall not exceed four hundred million dollars"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may authorize by law the creation of a debt or debts of the state to provide for the payment of a bonus to each male and female member of the armed forces of the United States, still in the armed forces, or separated or discharged under honorable conditions, for service while on active duty with the armed forces at any time during the period from December seventh, nineteen hundred forty-one to and including September second, nineteen hundred forty-five, who was a resident of this state for a period of at least six months immediately prior to his or her enlistment, induction or call to active duty",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "a resident of this state for a period of at least six months immediately prior to his or her enlistment, induction or call to active duty"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The law authorizing the creation of the debt shall provide for payment of such bonus to the next of kin of each male and female member of the armed forces who, having been a resident of this state for a period of six months immediately prior to his or her enlistment, induction or call to active duty, died while on active duty at any time during the period from December seventh, nineteen hundred forty-one to and including September second, nineteen hundred forty-five; or who died while on active duty subsequent to September second, nineteen hundred forty-five, or after his or her separation or discharge under honorable conditions, prior to receiving payment of such bonus",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "An apportionment of the moneys on the basis of the periods and places of service of such members of the armed forces shall be provided by general laws",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The aggregate of the debts authorized by this section shall not exceed four hundred million dollars",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Debts authorized by this section exceeding four hundred million dollars in the aggregate"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this article, not inconsistent with this section, relating to the issuance of bonds for a debt or debts of the state and the maturity and payment thereof, shall apply to a debt or debts created pursuant to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the law authorizing the contracting of such debt or debts shall take effect without submission to the people pursuant to section eleven of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Proceeds of bonds issued pursuant to law, as authorized by this section as in force prior to January first, nineteen hundred fifty shall be available and may be expended for the payment of such bonus to persons qualified therefor as now provided by this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a7-s19": {
+  "review": {
+   "plain": "The legislature may authorize up to two hundred fifty million dollars of state debt, without a vote of the people, for state university facilities and real property, and for the state's share of capital costs of locally sponsored institutions of higher education approved and regulated by the state university trustees.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may authorize by law the creation of a debt or debts of the state"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may authorize by law the creation of a debt or debts of the state, not exceeding in the aggregate two hundred fifty million dollars, to provide moneys for the construction, reconstruction, rehabilitation, improvement and equipment of facilities for the expansion and development of the program of higher education provided and to be provided at institutions now or hereafter comprised within the state university, for acquisition of real property therefor, and for payment of the state's share of the capital costs of locally sponsored institutions of higher education approved and regulated by the state university trustees",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "not exceeding in the aggregate two hundred fifty million dollars"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this article, not inconsistent with this section, relating to the issuance of bonds for a debt or debts of the state and the maturity and payment thereof, shall apply to a state debt or debts created pursuant to this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the law authorizing the contracting of such debt or debts shall take effect without submission to the people pursuant to section eleven of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s1": {
+  "review": {
+   "plain": "Counties, cities, towns, villages and school districts may not give or loan money, property or credit to private parties or own private stock or bonds, but two or more may join to provide a municipal service. Counties, cities and towns may still aid the needy and care for children, and localities may raise police and fire pensions.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "two or more such units may join together pursuant to law in providing any municipal facility, service, activity or undertaking",
+    "may be authorized by the legislature to contract joint or several indebtedness",
+    "making such provision for the aid, care and support of the needy as may be authorized by law",
+    "may be authorized, but shall not be required, by the legislature"
+   ],
+   "limits": [
+    "No county, city, town, village or school district shall give or loan any money or property",
+    "nor shall any county, city, town, village or school district give or loan its credit",
+    "No such payments shall be made for any person cared for by any such institution or agency"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No county, city, town, village or school district shall give or loan any money or property to or in aid of any individual, or private corporation or association, or private undertaking, or become directly or indirectly the owner of stock in, or bonds of, any private corporation or association",
+     "holder": null,
+     "binds": "No county, city, town, village or school district",
+     "requires": [],
+     "forbids": [
+      "Giving or loaning any money or property to or in aid of any individual, or private corporation or association, or private undertaking",
+      "Becoming directly or indirectly the owner of stock in, or bonds of, any private corporation or association"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "nor shall any county, city, town, village or school district give or loan its credit to or in aid of any individual, or public or private corporation or association, or private undertaking",
+     "holder": null,
+     "binds": "No county, city, town, village or school district",
+     "requires": [],
+     "forbids": [
+      "Giving or loaning its credit to or in aid of any individual, or public or private corporation or association, or private undertaking"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except that two or more such units may join together pursuant to law in providing any municipal facility, service, activity or undertaking which each of such units has the power to provide separately"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "two or more such units may join together pursuant to law in providing any municipal facility, service, activity or undertaking which each of such units has the power to provide separately",
+     "holder": "Two or more such units",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Each such unit may be authorized by the legislature to contract joint or several indebtedness, pledge its or their faith and credit for the payment of such indebtedness for such joint undertaking and levy real estate or other authorized taxes or impose charges therefor",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to the provisions of this constitution otherwise restricting the power of such units to contract indebtedness or to levy taxes on real estate"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature shall have power to provide by law for the manner and the proportion in which indebtedness arising out of such joint undertakings shall be incurred by such units and shall have power to provide a method by which such indebtedness shall be determined, allocated and apportioned among such units and such indebtedness treated for purposes of exclusion from applicable constitutional limitations",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "more than the total amount of indebtedness incurred for such joint undertaking be included in ascertaining the power of all such participating units to incur indebtedness"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Such law may provide that such determination, allocation and apportionment shall be conclusive if made or approved by the comptroller",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "This provision shall not prevent a county from contracting indebtedness for the purpose of advancing to a town or school district, pursuant to law, the amount of unpaid taxes returned to it",
+     "holder": "A county",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "nothing in this constitution contained shall prevent a county, city or town from making such provision for the aid, care and support of the needy as may be authorized by law, nor prevent any such county, city or town from providing for the care, support, maintenance and secular education of inmates of orphan asylums, homes for dependent children or correctional institutions and of children placed in family homes by authorized agencies, whether under public or private control, or from providing health and welfare services for all children",
+     "holder": "A county, city or town",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the limitations on indebtedness and taxation applying to any county, city, town or village"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "nor shall anything in this constitution contained prevent a county, city, town or village from increasing the pension benefits payable to retired members of a police department or fire department or to widows, dependent children or dependent parents of members or retired members of a police department or fire department",
+     "holder": "A county, city, town or village",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the limitations on indebtedness and taxation applying to any county, city, town or village"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "or prevent the city of New York from increasing the pension benefits payable to widows, dependent children or dependent parents of members or retired members of the relief and pension fund of the department of street cleaning of the city of New York",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the limitations on indebtedness and taxation applying to any county, city, town or village"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Payments by counties, cities or towns to charitable, eleemosynary, correctional and reformatory institutions and agencies, wholly or partly under private control, for care, support and maintenance, may be authorized, but shall not be required, by the legislature",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No such payments shall be made for any person cared for by any such institution or agency, nor for a child placed in a family home, who is not received and retained therein pursuant to rules established by the state board of social welfare or other state department having the power of inspection thereof",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Payments for any person cared for by any such institution or agency, nor for a child placed in a family home, who is not received and retained therein pursuant to rules established by the state board of social welfare or other state department having the power of inspection thereof"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s2": {
+  "review": {
+   "plain": "Counties, cities, towns, villages and school districts may borrow only for their own purposes, for no longer than the purpose's probable usefulness and never over forty years. They must pledge their faith and credit, generally repay in annual installments, and appropriate yearly for debt service. Set rules allow sinking fund bonds and longer New York City bonds.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [
+    "at the suit of any holder of obligations issued for any such indebtedness"
+   ],
+   "powers": [
+    "may be refunded within either such period of probable usefulness",
+    "may be financed either by serial bonds with a maximum maturity of fifty years",
+    "may also be financed by sinking fund bonds with a maximum maturity of fifty years"
+   ],
+   "limits": [
+    "shall contract any indebtedness except for county, city, town, village or school district purposes",
+    "in no event for longer than forty years",
+    "No indebtedness shall be contracted by any county, city, town, village or school district"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No county, city, town, village or school district shall contract any indebtedness except for county, city, town, village or school district purposes, respectively",
+     "holder": null,
+     "binds": "No county, city, town, village or school district",
+     "requires": [],
+     "forbids": [
+      "Contracting any indebtedness except for county, city, town, village or school district purposes"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No indebtedness shall be contracted for longer than the period of probable usefulness of the object or purpose for which such indebtedness is to be contracted, or, in the alternative, the weighted average period of probable usefulness of the several objects or purposes for which such indebtedness is to be contracted, and in no event for longer than forty years",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "to be determined by the governing body of the county, city, town, village or school district contracting such indebtedness pursuant to general or special laws of the state legislature, which determination shall be conclusive"
+     ],
+     "forbids": [
+      "Contracting indebtedness for longer than the period of probable usefulness, or the weighted average period of probable usefulness",
+      "Contracting indebtedness for longer than forty years"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Indebtedness or any portion thereof may be refunded within either such period of probable usefulness, or average period of probable usefulness, as may be determined by such governing body computed from the date such indebtedness was contracted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No indebtedness shall be contracted by any county, city, town, village or school district unless such county, city, town, village or school district shall have pledged its faith and credit for the payment of the principal thereof and the interest thereon",
+     "holder": null,
+     "binds": "Any county, city, town, village or school district",
+     "requires": [
+      "pledged its faith and credit for the payment of the principal thereof and the interest thereon"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "all such indebtedness and each portion thereof from time to time contracted, including any refunding thereof, shall be paid in annual installments, the first of which shall be paid not more than two years after such indebtedness or portion thereof shall have been contracted, and no installment shall be more than fifty per centum in excess of the smallest prior installment",
+     "holder": null,
+     "binds": "Any county, city, town, village or school district",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except for indebtedness contracted in anticipation of the collection of taxes actually levied and uncollected or to be levied for the year when such indebtedness is contracted and indebtedness contracted to be paid in one of the two fiscal years immediately succeeding the fiscal year in which such indebtedness was contracted",
+      "except in the case of refunding of indebtedness heretofore contracted",
+      "unless the governing body of the county, city, town, village or school district contracting such indebtedness provides for substantially level or declining debt service payments as may be authorized by law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "indebtedness contracted by the city of New York and each portion of any such indebtedness from time to time so contracted for the supply of water, including the acquisition of land in connection with such purpose, may be financed either by serial bonds with a maximum maturity of fifty years, in which case such indebtedness shall be paid in annual installments as hereinbefore provided, or by sinking fund bonds with a maximum maturity of fifty years, which shall be redeemed through annual contributions to sinking funds established and maintained for the purpose of amortizing the indebtedness for which such bonds are issued",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the foregoing provisions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "indebtedness hereafter contracted by the city of New York and each portion of any such indebtedness from time to time so contracted for (a) the acquisition, construction or equipment of rapid transit railroads, or (b) the construction of docks, including the acquisition of land in connection with any of such purposes, may be financed either by serial bonds with a maximum maturity of forty years, in which case such indebtedness shall be paid in annual installments as hereinbefore provided, or by sinking fund bonds with a maximum maturity of forty years, which shall be redeemed through annual contributions to sinking funds established and maintained for the purpose of amortizing the indebtedness for which such bonds are issued",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the foregoing provisions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "indebtedness contracted by any county, city, town, village or school district and each portion thereof from time to time contracted for any object or purpose for which indebtedness may be contracted may also be financed by sinking fund bonds with a maximum maturity of fifty years, which shall be redeemed through annual contributions to sinking funds established by such county, city, town, village or school district",
+     "holder": "Any county, city, town, village or school district",
+     "binds": null,
+     "requires": [
+      "each such annual contribution shall be at least equal to the amount required, if any, to enable the sinking fund to redeem, on the date of the contribution, the same amount of such indebtedness as would have been paid and then be payable if such indebtedness had been financed entirely by the issuance of serial bonds"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the foregoing provisions, but subject to such requirements as the legislature shall impose by general or special law"
+     ],
+     "exceptions": [
+      "if an issue of sinking fund bonds is combined for sale with an issue of serial bonds, for the same object or purpose, then the amount of each annual sinking fund contribution shall be at least equal to the amount required, if any, to enable the sinking fund to redeem, on the date of each such annual contribution, (i) the amount which would be required to be paid annually if such indebtedness had been issued entirely as serial bonds, less (ii) the amount of indebtedness, if any, to be paid during such year on the portion of such indebtedness actually issued as serial bonds"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Sinking funds established on or after January first, nineteen hundred eighty-six pursuant to the preceding sentence shall be maintained and managed by the state comptroller pursuant to such requirements and procedures as the legislature shall prescribe, including provisions for reimbursement by the issuer of bonds payable from such sinking funds for the expenses related to such maintenance and management",
+     "holder": null,
+     "binds": "The state comptroller",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Provisions shall be made annually by appropriation by every county, city, town, village and school district for the payment of interest on all indebtedness and for the amounts required for (a) the amortization and redemption of term bonds, sinking fund bonds and serial bonds, (b) the redemption of certificates or other evidence of indebtedness contracted to be paid in such year out of the tax levy or other revenues applicable to a reduction thereof, and (c) the redemption of certificates or other evidence of indebtedness issued in anticipation of the collection of taxes or other revenues, or renewals thereof, which are not retired within five years after their date of original issue",
+     "holder": null,
+     "binds": "Every county, city, town, village and school district",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except those issued in anticipation of the collection of taxes or other revenues, or renewals thereof, and which are described in paragraph A of section five of this article and those issued in anticipation of the receipt of the proceeds of the sale of bonds theretofore authorized"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "a sufficient sum shall be set apart from the first revenues thereafter received and shall be applied to such purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If at any time the respective appropriating authorities shall fail to make such appropriations"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The fiscal officer of any county, city, town, village or school district may be required to set apart and apply such revenues as aforesaid at the suit of any holder of obligations issued for any such indebtedness",
+     "holder": "Any holder of obligations issued for any such indebtedness",
+     "binds": "The fiscal officer of any county, city, town, village or school district",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "all interest need not be paid annually on an issue of indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that either (a) substantially level or declining debt service payments (including all payments of interest) shall be made over the life of such issue of indebtedness, or (b) there shall annually be contributed to a sinking fund created pursuant to this section, the amount necessary to bring the balance thereof, including income earned on contributions, to the accreted value of the obligations to be paid therefrom on the date such contribution is made, less the sum of all required future contributions of principal, in the case of sinking fund obligations, or payments of principal, in the case of serial obligations"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "When obligations are sold by a county, city, town, village or school district at a discount, the debt incurred for the purposes of any debt limitation contained in this constitution, shall be deemed to include only the amount of money actually received by the county, city, town, village or school district, irrespective of the face amount of the obligations",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "When obligations are sold by a county, city, town, village or school district at a discount"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s2-a": {
+  "review": {
+   "plain": "Notwithstanding section one, the legislature may authorize localities and improvement districts to borrow to provide water, sewage and drainage facilities for others or in common. This debt is for a local purpose; water debt under paragraphs A and B is excluded from local debt limits, and joint sewage and drainage debt is allocated and may be excluded by general law.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "to contract indebtedness to provide a supply of water",
+    "to provide for a common supply of water",
+    "to contract indebtedness to provide facilities, in excess of its own needs, for the conveyance, treatment and disposal of sewage",
+    "to provide for the common conveyance, treatment and disposal of sewage",
+    "to contract indebtedness to provide facilities, in excess of its own needs, for drainage purposes",
+    "to provide for a common drainage system",
+    "may be excluded periodically in ascertaining the power of such county, city, town or village to contract indebtedness",
+    "The legislature may provide that any allocation of indebtedness"
+   ],
+   "limits": [
+    "The amount of any such exclusion shall have a reasonable relation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "A",
+     "kind": "power",
+     "what": "May authorize any county, city, town or village or any county or town on behalf of an improvement district to contract indebtedness to provide a supply of water, in excess of its own needs, for sale to any other public corporation or improvement district",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of section one of this article",
+      "by general or special law and subject to such conditions as it shall impose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "power",
+     "what": "May authorize two or more public corporations and improvement districts to provide for a common supply of water and may authorize any such corporation, or any county or town on behalf of an improvement district, to contract joint indebtedness for such purpose or to contract indebtedness for specific proportions of the cost",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of section one of this article",
+      "by general or special law and subject to such conditions as it shall impose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "power",
+     "what": "May authorize any county, city, town or village or any county or town on behalf of an improvement district to contract indebtedness to provide facilities, in excess of its own needs, for the conveyance, treatment and disposal of sewage from any other public corporation or improvement district",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of section one of this article",
+      "by general or special law and subject to such conditions as it shall impose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "D",
+     "kind": "power",
+     "what": "May authorize two or more public corporations and improvement districts to provide for the common conveyance, treatment and disposal of sewage and may authorize any such corporation, or any county or town on behalf of an improvement district, to contract joint indebtedness for such purpose or to contract indebtedness for specific proportions of the cost",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of section one of this article",
+      "by general or special law and subject to such conditions as it shall impose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "E",
+     "kind": "power",
+     "what": "May authorize any county, city, town or village or any county or town on behalf of an improvement district to contract indebtedness to provide facilities, in excess of its own needs, for drainage purposes from any other public corporation or improvement district",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of section one of this article",
+      "by general or special law and subject to such conditions as it shall impose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "F",
+     "kind": "power",
+     "what": "May authorize two or more public corporations and improvement districts to provide for a common drainage system and may authorize any such corporation, or any county or town on behalf of an improvement district, to contract joint indebtedness for such purpose or to contract indebtedness for specific proportions of the cost",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of section one of this article",
+      "by general or special law and subject to such conditions as it shall impose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Indebtedness contracted by a county, city, town or village pursuant to this section shall be for a county, city, town or village purpose, respectively",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In ascertaining the power of a county, city, town or village to contract indebtedness, any indebtedness contracted pursuant to paragraphs A and B of this section shall be excluded",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide the method by which a fair proportion of joint indebtedness contracted pursuant to paragraphs D and F of this section shall be allocated to any county, city, town or village",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature by general law in terms and in effect applying alike to all counties, to all cities, to all towns and/or to all villages also may provide that all or any part of indebtedness contracted or proposed to be contracted by any county, city, town or village pursuant to paragraphs D and F of this section for a revenue producing public improvement or service may be excluded periodically in ascertaining the power of such county, city, town or village to contract indebtedness",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "The amount of any such exclusion shall have a reasonable relation to the extent to which such public improvement or service shall have yielded or is expected to yield revenues sufficient to provide for the payment of the interest on and amortization of or payment of indebtedness contracted or proposed to be contracted for such public improvement or service, after deducting all costs of operation, maintenance and repairs thereof"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide the method by which a fair proportion of joint indebtedness proposed to be contracted pursuant to paragraphs D and F of this section shall be allocated to any county, city, town or village for the purpose of determining the amount of any such exclusion",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of paragraph C of section five and section ten-a of this article shall not apply to indebtedness contracted pursuant to paragraphs D and F of this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide that any allocation of indebtedness, or determination of the amount of any exclusion of indebtedness, made pursuant to this section shall be conclusive if made or approved by the state comptroller",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s3": {
+  "review": {
+   "plain": "No new corporation, other than listed local units and districts, may be created with power both to borrow and to tax or assess real estate, but counties and towns may create improvement districts if they pledge their credit for district debt. Existing such corporations need local consent to borrow, and their debt counts toward local limits.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "nothing herein shall prevent the creation of improvement districts in counties and towns"
+   ],
+   "limits": [
+    "shall hereafter be established or created",
+    "No such corporation now existing shall hereafter contract any indebtedness without the consent"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No municipal or other corporation possessing the power (a) to contract indebtedness and (b) to levy taxes or benefit assessments upon real estate or to require the levy of such taxes or assessments, shall hereafter be established or created",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Establishing or creating a municipal or other corporation possessing the power (a) to contract indebtedness and (b) to levy taxes or benefit assessments upon real estate or to require the levy of such taxes or assessments"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "other than a county, city, town, village, school district or fire district, or a river improvement, river regulating, or drainage district, established by or under the supervision of the department of conservation"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "nothing herein shall prevent the creation of improvement districts in counties and towns",
+     "holder": "Counties and towns",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided that the county or town or towns in which such districts are located shall pledge its or their faith and credit for the payment of the principal of and interest on all indebtedness to be contracted for the purposes of such districts"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "in ascertaining the power of any such county or town to contract indebtedness, such indebtedness shall be included",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless such indebtedness would, under the provisions of this article, be excluded in ascertaining the power of a county or town to contract indebtedness"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No such corporation now existing shall hereafter contract any indebtedness without the consent, granted in such manner as may be prescribed by general law, of the city or village within which, or of the town within any unincorporated area of which any real estate may be subject to such taxes or assessments",
+     "holder": null,
+     "binds": "Such corporations now existing",
+     "requires": [
+      "the consent, granted in such manner as may be prescribed by general law, of the city or village within which, or of the town within any unincorporated area of which any real estate may be subject to such taxes or assessments"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "in ascertaining the power of such city, village or town to contract indebtedness, there shall be included any indebtedness hereafter contracted by such corporation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the real estate subject to such taxes or assessments is wholly within a city, village or the unincorporated area of a town"
+     ],
+     "exceptions": [
+      "unless such indebtedness would, under the provisions of this article, be excluded if contracted by such city, village or town"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "in ascertaining the power of such city, village or town to contract indebtedness, there shall be included the proportion, determined as prescribed by general law, of any indebtedness hereafter contracted by such corporation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If only part of the real estate subject to such taxes or assessments is within a city, village or the unincorporated area of a town"
+     ],
+     "exceptions": [
+      "unless such indebtedness would, under the provisions of this article, be excluded if contracted by such city, village or town"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s4": {
+  "review": {
+   "plain": "Unless the constitution provides otherwise, a county, city, town or village may not borrow, counting existing debt, beyond a set percentage of the average full valuation of its taxable real estate: ten percent for Nassau County and New York City, nine for cities of 125,000 or more, and seven for all others. Debt beyond these limits is void.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no county, city, town or village described in this section shall be allowed to contract indebtedness",
+    "any indebtedness contracted in excess of the respective limitations prescribed in this section shall be void"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no county, city, town or village described in this section shall be allowed to contract indebtedness for any purpose or in any manner which, including existing indebtedness, shall exceed an amount equal to the following percentages of the average full valuation of taxable real estate of such county, city, town or village",
+     "holder": null,
+     "binds": "No county, city, town or village described in this section",
+     "requires": [],
+     "forbids": [
+      "Contracting indebtedness which, including existing indebtedness, shall exceed the following percentages of the average full valuation of taxable real estate"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided in this constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "the county of Nassau, for county purposes, ten per centum",
+     "holder": null,
+     "binds": "The county of Nassau",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "any county, other than the county of Nassau, for county purposes, seven per centum",
+     "holder": null,
+     "binds": "Any county, other than the county of Nassau",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "the city of New York, for city purposes, ten per centum",
+     "holder": null,
+     "binds": "The city of New York",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "any city, other than the city of New York, having one hundred twenty-five thousand or more inhabitants according to the latest federal census, for city purposes, nine per centum",
+     "holder": null,
+     "binds": "Any city, other than the city of New York, having one hundred twenty-five thousand or more inhabitants",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "any city having less than one hundred twenty-five thousand inhabitants according to the latest federal census, for city purposes, seven per centum",
+     "holder": null,
+     "binds": "Any city having less than one hundred twenty-five thousand inhabitants",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "any town, for town purposes, seven per centum",
+     "holder": null,
+     "binds": "Any town",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "any village for village purposes, seven per centum",
+     "holder": null,
+     "binds": "Any village",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "any indebtedness contracted in excess of the respective limitations prescribed in this section shall be void",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided in this constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The average full valuation of taxable real estate of any such county, city, town or village shall be determined in the manner prescribed in section ten of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing contained in this section shall be deemed to restrict the powers granted to the legislature by other provisions of this constitution to further restrict the powers of any county, city, town or village to contract indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s5": {
+  "review": {
+   "plain": "In working out how much a county, city, town or village may borrow, certain debt is left out: short-term notes and notes issued in anticipation of taxes or revenues, water supply debt, debt for public improvements or services in proportion to their net revenue, bonds to fund pension systems, and certain sewage facility debt.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the legislature may provide that net revenue shall be determined",
+    "The legislature may provide that the state comptroller shall make such determination",
+    "may confer appropriate jurisdiction on the appellate division of the supreme court"
+   ],
+   "limits": [
+    "shall not exceed seventy-five per centum of the amount which would be excluded",
+    "no proportionate amount of such indebtedness shall be excluded except in accordance with such determination",
+    "Such bonds shall not exceed in the aggregate an amount sufficient to provide for the payment of the liabilities of such system or fund",
+    "no such indebtedness shall be excluded except in accordance with such determination"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "A",
+     "kind": "structure",
+     "what": "In ascertaining the power of a county, city, town or village to contract indebtedness, there shall be excluded: Certificates or other evidences of indebtedness issued for purposes other than the financing of capital improvements and contracted to be redeemed in one of the two fiscal years immediately succeeding the year of their issue, and certificates or other evidences of indebtedness issued in any fiscal year in anticipation of (a) the collection of taxes on real estate for amounts theretofore actually levied and uncollected or to be levied in such year and payable out of such taxes, (b) moneys receivable from the state which have theretofore been apportioned by the state or which are to be so apportioned within one year after their issue and (c) the collection of any other taxes due and payable or to become due and payable within one year or of other revenues to be received within one year after their issue",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except serial bonds of an issue having a maximum maturity of more than two years",
+      "excepting any such certificates or other evidences of indebtedness or renewals thereof which are not retired within five years after their date of original issue"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "structure",
+     "what": "there shall be excluded: Indebtedness heretofore or hereafter contracted to provide for the supply of water",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "structure",
+     "what": "there shall be excluded: Indebtedness heretofore or hereafter contracted by any county, city, town or village for a public improvement or part thereof, or service, owned or rendered by such county, city, town or village, annually proportionately to the extent that the same shall have yielded to such county, city, town or village net revenue",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "provided, however, that such net revenue shall be twenty-five per centum or more of the amount required in such year for the payment of the interest on, amortization of, or payment of, such indebtedness",
+      "Such exclusion shall be granted only if the revenues of such public improvement or part thereof, or service, are applied to and actually used for payment of all costs of operation, maintenance and repairs, and payment of the amounts required in such year for interest on and amortization of or redemption of such indebtedness, or such revenues are deposited in a special fund to be used solely for such payments"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "power",
+     "what": "Any revenues remaining after such payments are made may be used for any lawful purpose of such county, city, town or village, respectively",
+     "holder": "Such county, city, town or village",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "structure",
+     "what": "Net revenue shall be determined by deducting from gross revenues of the preceding year all costs of operation, maintenance and repairs for such year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "power",
+     "what": "the legislature may provide that net revenue shall be determined by deducting from the average of the gross revenues of not to exceed five of the preceding years during which the public improvement or part thereof, or service, has been in operation, the average of all costs of operation, maintenance and repairs for the same years",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "power",
+     "what": "A proportionate exclusion of indebtedness contracted or proposed to be contracted also may be granted for the period from the date when such indebtedness is first contracted or to be contracted for such public improvement or part thereof, or service, through the first year of operation of such public improvement or part thereof, or service",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Such exclusion shall be computed in the manner provided in this section on the basis of estimated net revenue which shall be determined by deducting from the gross revenues estimated to be received during the first year of operation of such public improvement or part thereof, or service, all estimated costs of operation, maintenance and repairs for such year"
+     ],
+     "forbids": [
+      "A proportionate exclusion exceeding seventy-five per centum of the amount which would be excluded if the computation were made on the basis of net revenue instead of estimated net revenue"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "duty",
+     "what": "the legislature shall prescribe the method by which and the terms and conditions under which the proportionate amount of any such indebtedness to be so excluded shall be determined and no proportionate amount of such indebtedness shall be excluded except in accordance with such determination",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as otherwise provided herein"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "power",
+     "what": "The legislature may provide that the state comptroller shall make such determination or it may confer appropriate jurisdiction on the appellate division of the supreme court in the judicial departments in which such counties, cities, towns or villages are located for the purpose of determining the proportionate amount of any such indebtedness to be so excluded",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "structure",
+     "what": "The provisions of this paragraph C shall not affect or impair any existing exclusions of indebtedness, or the power to exclude indebtedness, granted by any other provision of this constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "D",
+     "kind": "structure",
+     "what": "there shall be excluded: Serial bonds, issued by any county, city, town or village which now maintains a pension or retirement system or fund which is not on an actuarial reserve basis with current payments to the reserve adequate to provide for all current accruing liabilities",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "D",
+     "kind": "limit",
+     "what": "Such bonds shall not exceed in the aggregate an amount sufficient to provide for the payment of the liabilities of such system or fund, accrued on the date of issuing such bonds, both on account of pensioners on the pension roll on that date and prospective pensions to dependents of such pensioners and on account of prior service of active members of such system or fund on that date",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "D",
+     "kind": "duty",
+     "what": "Such bonds or the proceeds thereof shall be deposited in such system or fund. Each such pension or retirement system or fund thereafter shall be maintained on an actuarial reserve basis with current payments to the reserve adequate to provide for all current accruing liabilities",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "E",
+     "kind": "structure",
+     "what": "there shall be excluded: Indebtedness contracted on or after January first, nineteen hundred sixty-two and prior to January first, two thousand thirty-four, for the construction or reconstruction of facilities for the conveyance, treatment and disposal of sewage",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "E",
+     "kind": "duty",
+     "what": "The legislature shall prescribe the method by which and the terms and conditions under which the amount of any such indebtedness to be excluded shall be determined, and no such indebtedness shall be excluded except in accordance with such determination",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s6": {
+  "review": {
+   "plain": "In working out how much Buffalo, Rochester and Syracuse may borrow, besides the debt excluded by section 5, they also leave out debt, up to ten million dollars for Buffalo or Rochester and five million for Syracuse, for the part of a public improvement's cost that local law requires to be raised by assessment on local property.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In ascertaining the power of the cities of Buffalo, Rochester and Syracuse to contract indebtedness, in addition to the indebtedness excluded by section 5 of this article, there shall be excluded: Indebtedness not exceeding in the aggregate the sum of ten million dollars, heretofore or hereafter contracted by the city of Buffalo or the city of Rochester for so much of the cost and expense of any public improvement as may be required by the ordinance or other local law therein assessing the same to be raised by assessment upon local property or territory",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In ascertaining the power of the cities of Buffalo, Rochester and Syracuse to contract indebtedness, in addition to the indebtedness excluded by section 5 of this article, there shall be excluded: indebtedness not exceeding in the aggregate the sum of five million dollars heretofore or hereafter contracted by the city of Syracuse for so much of the cost and expense of any public improvement as may be required by the ordinance or other local law therein assessing the same to be raised by assessment upon local property or territory",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s7": {
+  "review": {
+   "plain": "In working out how much New York City may borrow, besides the debt excluded by section five, it also leaves out: dock debt from before 1910 to the extent dock revenues cover it, capped amounts of rapid transit and hospital debt contracted after set dates, and school bonds to the extent state aid for common schools pays them.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court in the first judicial department",
+    "Such law may provide that any such determination shall be conclusive"
+   ],
+   "limits": [
+    "no such indebtedness shall be excluded except in accordance with such determination",
+    "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+    "such indebtedness shall not be excluded hereunder except in accordance with the determination so prescribed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "A",
+     "kind": "structure",
+     "what": "In ascertaining the power of the city of New York to contract indebtedness, in addition to the indebtedness excluded by section five of this article, there shall be excluded: Indebtedness contracted prior to the first day of January, nineteen hundred ten, for dock purposes proportionately to the extent to which the current net revenues received by the city therefrom shall meet the interest on and the annual requirements for the amortization of such indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "A",
+     "kind": "duty",
+     "what": "The legislature shall prescribe the method by which and the terms and conditions under which the amount of any such indebtedness to be so excluded shall be determined, and no such indebtedness shall be excluded except in accordance with such determination",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "A",
+     "kind": "power",
+     "what": "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court in the first judicial department for the purpose of determining the amount of any such indebtedness to be so excluded",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "structure",
+     "what": "there shall be excluded: The aggregate of indebtedness initially contracted from time to time after January first, nineteen hundred twenty-eight, for the construction or equipment, or both, of new rapid transit railroads, not exceeding the sum of three hundred million dollars",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "limit",
+     "what": "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "this provision shall not be construed to prevent the refunding of any of the indebtedness excluded hereunder"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "structure",
+     "what": "there shall be excluded: The aggregate of indebtedness initially contracted from time to time after January first, nineteen hundred fifty, for the construction, reconstruction and equipment of city hospitals, not exceeding the sum of one hundred fifty million dollars",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "C",
+     "kind": "limit",
+     "what": "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than indebtedness contracted to refund indebtedness excluded pursuant to this paragraph"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "D",
+     "kind": "structure",
+     "what": "there shall be excluded: The aggregate of indebtedness initially contracted from time to time after January first, nineteen hundred fifty-two, for the construction and equipment of new rapid transit railroads, including extensions of and interconnections with and between existing rapid transit railroads or portions thereof, and reconstruction and equipment of existing rapid transit railroads, not exceeding the sum of five hundred million dollars",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "D",
+     "kind": "limit",
+     "what": "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than indebtedness contracted to refund indebtedness excluded pursuant to this paragraph"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "E",
+     "kind": "structure",
+     "what": "there shall be excluded: Indebtedness contracted for school purposes, evidenced by bonds, to the extent to which state aid for common schools, not exceeding two million five hundred thousand dollars, shall meet the interest and the annual requirements for the amortization and payment of part or all of one or more issues of such bonds",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Such exclusion shall be effective only during a fiscal year of the city in which its expense budget provides for the payment of such debt service from such state aid"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "E",
+     "kind": "duty",
+     "what": "The legislature shall prescribe by law the manner by which the amount of any such exclusion shall be determined and such indebtedness shall not be excluded hereunder except in accordance with the determination so prescribed",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "E",
+     "kind": "power",
+     "what": "Such law may provide that any such determination shall be conclusive if made or approved by the state comptroller",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s7-a": {
+  "review": {
+   "plain": "New York City also leaves out of its debt limit up to three hundred fifteen million dollars of debt to acquire railroads and related facilities, rights and securities, which it may pay with its obligations to the owners and security holders, and other transit debt to the extent net transit revenue, after set deductions, covers it.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the city is hereby authorized to contract indebtedness for such purposes and to deliver its obligations evidencing such indebtedness",
+    "The legislature may confer appropriate jurisdiction on the appellate division"
+   ],
+   "limits": [
+    "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+    "no indebtedness shall be excluded except in accordance with the determination so prescribed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "A",
+     "kind": "structure",
+     "what": "In ascertaining the power of the city of New York to contract indebtedness, in addition to the indebtedness excluded under any other section of this constitution, there shall be excluded: The aggregate of indebtedness initially contracted from time to time by the city for the acquisition of railroads and facilities or properties used in connection therewith or rights therein or securities of corporations owning such railroads, facilities or rights, not exceeding the sum of three hundred fifteen million dollars",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "A",
+     "kind": "duty",
+     "what": "Provision for the amortization of such indebtedness shall be made either by the establishment and maintenance of a sinking fund therefor or by annual payment of part thereof, or by both such methods",
+     "holder": null,
+     "binds": "The city of New York",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "A",
+     "kind": "limit",
+     "what": "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "this provision shall not be construed to prevent the refunding of any such indebtedness"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "A",
+     "kind": "power",
+     "what": "the city is hereby authorized to contract indebtedness for such purposes and to deliver its obligations evidencing such indebtedness to the corporations owning the railroads, facilities, properties or rights acquired, to the holders of securities of such owning corporations, to the holders of securities of corporations holding the securities of such owning corporations, or to the holders of securities to which such acquired railroads, facilities, properties or rights are now subject",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of the constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "structure",
+     "what": "there shall be excluded: Indebtedness contracted by the city for transit purposes, and not otherwise excluded, proportionately to the extent to which the current net revenue received by the city from all railroads and facilities and properties used in connection therewith and rights therein owned by the city and securities of corporations owning such railroads, facilities, properties or rights, owned by the city, shall meet the interest and the annual requirements for the amortization and payment of such non-excluded indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "structure",
+     "what": "there shall first be deducted from the current net revenue received by the city from such railroads and facilities and properties used in connection therewith and rights therein and securities owned by the city: (a) an amount equal to the interest and amortization requirements on indebtedness for rapid transit purposes heretofore excluded by order of the appellate division, which exclusion shall not be terminated by or under any provision of this section; (b) an amount equal to the interest on indebtedness contracted pursuant to this section and of the annual requirements for amortization on any sinking fund bonds and for redemption of any serial bonds evidencing such indebtedness; (c) an amount equal to the sum of all taxes and bridge tolls accruing to the city in the fiscal year of the city preceding the acquisition of the railroads or facilities or properties or rights therein or securities acquired by the city hereunder, from such railroads, facilities and properties; and (d) the amount of net operating revenue derived by the city from the independent subway system during such fiscal year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In determining whether indebtedness for transit purposes may be excluded under this paragraph of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "duty",
+     "what": "The legislature shall prescribe the method by which and the terms and conditions under which the amount of any indebtedness to be excluded hereunder shall be determined, and no indebtedness shall be excluded except in accordance with the determination so prescribed",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "B",
+     "kind": "power",
+     "what": "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court in the first judicial department for the purpose of determining the amount of any debt to be so excluded",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s8": {
+  "review": {
+   "plain": "Debt of a county, city, town, village or school district that was valid when it began does not later become invalid because of any provision of this article.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall thereafter become invalid by reason of the operation of any of the provisions of this article"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No indebtedness of a county, city, town, village or school district valid at the time of its inception shall thereafter become invalid by reason of the operation of any of the provisions of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s9": {
+  "review": {
+   "plain": "When a city's boundaries are the same as a county's, or a city includes more than one county, any county wholly inside the city loses its power to borrow, and that county's debt is not counted as city debt for this article.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "the power of any county wholly included within such city to contract indebtedness shall cease"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "the power of any county wholly included within such city to contract indebtedness shall cease",
+     "holder": null,
+     "binds": "Any county wholly included within such city",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever the boundaries of any city are the same as those of a county, or when any city includes within its boundaries more than one county"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the indebtedness of such county shall not, for the purposes of this article, be included as a part of the city indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s10": {
+  "review": {
+   "plain": "Local real estate taxes, apart from debt service, may not exceed yearly set percentages of the average full valuation of taxable real estate: one and one-half percent for counties (up to two if the legislature provides), two for cities and villages, and two and one-half for New York City and its counties combined.",
+   "category": "Local Government",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "the legislature may prescribe a method by which such limitation may be increased to not to exceed two per centum"
+   ],
+   "limits": [
+    "shall not exceed an amount equal to the following percentages of the average full valuation of taxable real estate"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "in any county, city, village or school district described in this section, the amount to be raised by tax on real estate in any fiscal year, in addition to providing for the interest on and the principal of all indebtedness, shall not exceed an amount equal to the following percentages of the average full valuation of taxable real estate of such county, city, village or school district, less the amount to be raised by tax on real estate in such year for the payment of the interest on and redemption of certificates or other evidence of indebtedness described in paragraphs A and D of section five of this article, or renewals thereof",
+     "holder": null,
+     "binds": "Any county, city, village or school district described in this section",
+     "requires": [],
+     "forbids": [
+      "Raising by tax on real estate in any fiscal year, in addition to providing for the interest on and the principal of all indebtedness, more than the following percentages of the average full valuation of taxable real estate"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "any county, for county purposes, one and one-half per centum",
+     "holder": null,
+     "binds": "Any county",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "the legislature may prescribe a method by which such limitation may be increased to not to exceed two per centum",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "any city of one hundred twenty-five thousand or more inhabitants according to the latest federal census, for city purposes, two per centum",
+     "holder": null,
+     "binds": "Any city of one hundred twenty-five thousand or more inhabitants",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "any city having less than one hundred twenty-five thousand inhabitants according to the latest federal census, for city purposes, two per centum",
+     "holder": null,
+     "binds": "Any city having less than one hundred twenty-five thousand inhabitants",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "any village, for village purposes, two per centum",
+     "holder": null,
+     "binds": "Any village",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "the city of New York and the counties therein, for city and county purposes, a combined total of two and one-half per centum",
+     "holder": null,
+     "binds": "The city of New York and the counties therein",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding the provisions of sub-paragraphs (a) and (b) of this section"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The average full valuation of taxable real estate of such county, city, village or school district shall be determined by taking the assessed valuations of taxable real estate on the last completed assessment rolls and the four preceding rolls of such county, city, village or school district, and applying thereto the ratio which such assessed valuation on each of such rolls bears to the full valuation, as determined by the state tax commission or by such other state officer or agency as the legislature shall by law direct",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall prescribe the manner by which such ratio shall be determined by the state tax commission or by such other state officer or agency",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing contained in this section shall be deemed to restrict the powers granted to the legislature by other provisions of this constitution to further restrict the powers of any county, city, town, village or school district to levy taxes on real estate",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s10-a": {
+  "review": {
+   "plain": "For the section ten tax limit, revenue a county, city or village gets from a public improvement or service financed by bonds or capital notes issued after January 1, 1950 goes first to operating, maintenance and repair costs, then to that year's debt service. Excess revenue may be used for any lawful local purpose; water supply improvements are excepted.",
+   "category": "Local Government",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "shall not prohibit the use of excess revenues for any lawful county, city or village purpose"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the revenues received in each fiscal year by any county, city or village from a public improvement or part thereof, or service, owned or rendered by such county, city or village for which bonds or capital notes are issued after January first, nineteen hundred fifty, shall be applied first to the payment of all costs of operation, maintenance and repairs thereof, and then to the payment of the amounts required in such fiscal year to pay the interest on and the amortization of, or payment of, indebtedness contracted for such public improvement or part thereof, or service",
+     "holder": null,
+     "binds": "Any county, city or village",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "For the purpose of determining the amount of taxes which may be raised on real estate pursuant to section ten of this article"
+     ],
+     "exceptions": [
+      "The provisions of this section shall not be applicable to a public improvement or part thereof constructed to provide for the supply of water"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The provisions of this section shall not prohibit the use of excess revenues for any lawful county, city or village purpose",
+     "holder": "Any county, city or village",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s11": {
+  "review": {
+   "plain": "New York City may exclude from its real estate tax limit taxes for capital improvements paid by direct appropriation or by short-term notes; that amount is then treated as debt. Taxes that certain other localities in or near cities under 125,000 appropriate for such costs are excluded from the limit unless the legislature provides otherwise.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be excluded in whole or in part by such city from the tax limitation prescribed by section ten of this article",
+    "may provide that such determination, if approved by the state comptroller, shall be conclusive"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "taxes required for such appropriation or for the redemption of such certificates or other evidence of indebtedness may be excluded in whole or in part by such city from the tax limitation prescribed by section ten of this article",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever the city of New York is required by law to pay for all or any part of the cost of capital improvements by direct budgetary appropriation in any fiscal year or by the issuance of certificates or other evidence of indebtedness to be redeemed in one of the two immediately succeeding fiscal years"
+     ],
+     "exceptions": [
+      "except serial bonds of an issue having a maximum maturity of more than two years"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "the total amount so required for such appropriation and for the redemption of such certificates or other evidence of indebtedness shall be deemed to be indebtedness to the same extent and in the same manner as if such amount had been financed through indebtedness payable in equal annual installments over the period of the probable usefulness of such capital improvement, as determined by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The fiscal officer of such city shall determine the amount to be deemed indebtedness pursuant to this section",
+     "holder": null,
+     "binds": "The fiscal officer of such city",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "the legislature, in its discretion, may provide that such determination, if approved by the state comptroller, shall be conclusive",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Any amounts determined to be deemed indebtedness of any county, city, other than the city of New York, village or school district in accordance with the provisions of this section as in force and effect prior to January first, nineteen hundred fifty-two, shall not be deemed to be indebtedness on and after such date",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "the taxes required for such appropriation shall be excluded from the tax limitation prescribed by section ten of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever any county, city, other than the city of New York, village or school district which is coterminous with, or partly within, or wholly within, a city having less than one hundred twenty-five thousand inhabitants according to the latest federal census provides by direct budgetary appropriation for any fiscal year for the payment in such fiscal year or in any future fiscal year or years of all or any part of the cost of an object or purpose for which a period of probable usefulness has been determined by law"
+     ],
+     "exceptions": [
+      "unless the legislature otherwise provides"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a8-s12": {
+  "review": {
+   "plain": "The legislature must restrict the taxing, assessing, borrowing and credit-lending powers of counties, cities, towns and villages to prevent abuses. It may further restrict local borrowing and real estate taxes, but may not restrict real estate taxes levied to pay debt already contracted.",
+   "category": "Local Government",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "Nothing in this article shall be construed to prevent the legislature from further restricting the powers herein specified"
+   ],
+   "limits": [
+    "The legislature shall not, however, restrict the power to levy taxes on real estate"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It shall be the duty of the legislature, subject to the provisions of this constitution, to restrict the power of taxation, assessment, borrowing money, contracting indebtedness, and loaning the credit of counties, cities, towns and villages, so as to prevent abuses in taxation and assessments and in contracting of indebtedness by them",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Nothing in this article shall be construed to prevent the legislature from further restricting the powers herein specified of any county, city, town, village or school district to contract indebtedness or to levy taxes on real estate",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The legislature shall not, however, restrict the power to levy taxes on real estate for the payment of interest on or principal of indebtedness theretofore contracted",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Restricting the power to levy taxes on real estate for the payment of interest on or principal of indebtedness theretofore contracted"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

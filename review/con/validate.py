@@ -15,7 +15,7 @@ if MA:
 if MA or NY:
     sys.argv = [a for i, a in enumerate(sys.argv) if a != "--jur" and (i == 0 or sys.argv[i - 1] != "--jur")]
 KINDS = {"Right", "Power", "Limit", "Duty", "Structure"}
-OUTSIDE = re.compile(r"(?-i:\b[A-Z][a-z]+ v\. [A-Z])|\bcourts? (?:have|has) (?:held|ruled|read|found|interpreted)|\bcase law\b|\bincorporat(?:ed|ion)\s+(?:against|into|through|doctrine)|strict scrutiny|\b(?:incorporation|[a-z]+-clause|political question|state action) doctrine\b|§", re.I)   # "supreme Court" is the Constitution's own wording
+OUTSIDE = re.compile(r"(?-i:\b[A-Z][a-z]+ v\. [A-Z])|\bcourts? (?:have|has) (?:held|ruled|read|found|interpreted)|\bcase law\b|\bincorporat(?:ed|ion)\s+(?:against the states|through the (?:Fourteenth|Due Process)|doctrine)|strict scrutiny|\b(?:incorporation|[a-z]+-clause|political question|state action) doctrine\b|§", re.I)   # "supreme Court" is the Constitution's own wording
 
 def all_bracketed(paras):
     """True when every word of the text is inside square brackets (the Legislature's mark for superseded wording)."""

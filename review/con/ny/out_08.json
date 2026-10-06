@@ -1,0 +1,1558 @@
+{
+ "a9-s1": {
+  "review": {
+   "plain": "Local governments have these rights and powers besides those granted elsewhere: an elected legislative body, power to adopt local laws, cooperative agreements, consent before annexation, eminent domain, fair returns on utilities, cost apportionment, and, for counties, alternative forms of county government approved on referendum.",
+   "category": "Local Government",
+   "kind": "Right",
+   "rights": [
+    "shall have a legislative body elective by the people thereof",
+    "shall be elected by the people of the local government"
+   ],
+   "powers": [
+    "shall have power to adopt local laws as provided by this article",
+    "Local governments shall have power to agree",
+    "shall have power to take by eminent domain private property within their boundaries for public use",
+    "shall have power to apportion its cost of a governmental service or function upon any portion of its area",
+    "to adopt, amend or repeal alternative forms of county government"
+   ],
+   "limits": [
+    "No local government or any part of the territory thereof shall be annexed to another",
+    "No local government shall be prohibited by the legislature"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Effective local self-government and intergovernmental cooperation are purposes of the people of the state",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "local governments shall have the following rights, powers, privileges and immunities in addition to those granted by other provisions of this constitution",
+     "holder": "Local governments",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "right",
+     "what": "Every local government shall have a legislative body elective by the people thereof",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except a county wholly included within a city"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "Every local government shall have power to adopt local laws as provided by this article",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "All officers of every local government whose election or appointment is not provided for by this constitution shall be elected by the people of the local government, or of some division thereof, or appointed by such officers of the local government as may be provided by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "Local governments shall have power to agree with the federal government, a state or one or more other governments within or without the state, to provide cooperatively, jointly or by contract any facility, service, activity or undertaking which each participating local government has the power to provide separately",
+     "holder": "Local governments",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as authorized by act of the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "Each such local government shall have power to apportion its share of the cost thereof upon such portion of its area as may be authorized by act of the legislature",
+     "holder": "Each such local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as may be authorized by act of the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "No local government or any part of the territory thereof shall be annexed to another until the people, if any, of the territory proposed to be annexed shall have consented thereto by majority vote on a referendum and until the governing board of each local government, the area of which is affected, shall have consented thereto upon the basis of a determination that the annexation is in the over-all public interest",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the people, if any, of the territory proposed to be annexed shall have consented thereto by majority vote on a referendum",
+      "the governing board of each local government, the area of which is affected, shall have consented thereto upon the basis of a determination that the annexation is in the over-all public interest"
+     ],
+     "forbids": [
+      "Annexing a local government or any part of the territory thereof to another until those consents are given"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The consent of the governing board of a county shall be required only where a boundary of the county is affected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "only where a boundary of the county is affected"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "On or before July first, nineteen hundred sixty-four, the legislature shall provide for adjudication and determination, on the law and the facts, in a proceeding initiated in the supreme court, of the issue of whether the annexation is in the over-all public interest",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "where such consent of a governing board is not granted"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "Local governments shall have power to take by eminent domain private property within their boundaries for public use together with excess land or property but no more than is sufficient to provide for appropriate disposition or use of land or property which abuts on that necessary for such public use, and to sell or lease that not devoted to such use",
+     "holder": "Local governments",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "The legislature may authorize and regulate the exercise of the power of eminent domain and excess condemnation by a local government outside its boundaries",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "limit",
+     "what": "No local government shall be prohibited by the legislature (1) from making a fair return on the value of the property used and useful in its operation of a gas, electric or water public utility service, over and above costs of operation and maintenance and necessary and proper reserves, in addition to an amount equivalent to taxes which such service, if privately owned, would pay to such local government, or (2) from using such profits for payment of refunds to consumers or for any other lawful purpose",
+     "holder": "Local governments",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Prohibiting a local government from making a fair return on the value of the property used and useful in its operation of a gas, electric or water public utility service",
+      "Prohibiting a local government from using such profits for payment of refunds to consumers or for any other lawful purpose"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "power",
+     "what": "A local government shall have power to apportion its cost of a governmental service or function upon any portion of its area",
+     "holder": "A local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "as authorized by act of the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)",
+     "kind": "power",
+     "what": "Counties shall be empowered by general law, or by special law enacted upon county request pursuant to section two of this article, to adopt, amend or repeal alternative forms of county government provided by the legislature or to prepare, adopt, amend or repeal alternative forms of their own",
+     "holder": "Counties",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than those wholly included within a city"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)",
+     "kind": "power",
+     "what": "Any such form of government or any amendment thereof, by act of the legislature or by local law, may transfer one or more functions or duties of the county or of the cities, towns, villages, districts or other units of government wholly contained in such county to each other or when authorized by the legislature to the state, or may abolish one or more offices, departments, agencies or units of government",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)",
+     "kind": "limit",
+     "what": "no such form or amendment shall become effective unless approved on a referendum by a majority of the votes cast thereon in the area of the county outside of cities, and in the cities of the county, if any, considered as one unit",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Such form or amendment becoming effective unless approved on a referendum by a majority of the votes cast thereon in the area of the county outside of cities, and in the cities of the county"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except as provided in paragraph (2) of this subdivision"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(1)",
+     "kind": "limit",
+     "what": "such form or amendment shall not become effective unless it shall also be approved on the referendum by a majority of the votes cast thereon in all the villages so affected considered as one unit",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Where an alternative form of county government or any amendment thereof, by act of the legislature or by local law, provides for the transfer of any function or duty to or from any village or the abolition of any office, department, agency or unit of government of a village wholly contained in such county"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)(2)",
+     "kind": "structure",
+     "what": "After the adoption of an alternative form of county government by a county, any amendment thereof by act of the legislature or by local law which abolishes or creates an elective county office, changes the voting or veto power of or the method of removing an elective county officer during his or her term of office, abolishes, curtails or transfers to another county officer or agency any power of an elective county officer or changes the form or composition of the county legislative body shall be subject to a permissive referendum as provided by the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s2": {
+  "review": {
+   "plain": "The legislature must organize local governments to secure their constitutional rights, enact a statute of local governments, and act on local property, affairs or government only by general law or by special law on local request or emergency certificate. Local governments may adopt local laws on listed subjects.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "Shall have the power to confer on local governments powers not relating to their property, affairs or government",
+    "shall have power to adopt and amend local laws not inconsistent with the provisions of this constitution or any general law relating to its property, affairs or government"
+   ],
+   "limits": [
+    "Shall have the power to act in relation to the property, affairs or government of any local government only by general law",
+    "shall not have power to adopt local laws which impair the powers of any other local government"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The legislature shall provide for the creation and organization of local governments in such manner as shall secure to them the rights, powers, privileges and immunities granted to them by this constitution",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "duty",
+     "what": "the legislature Shall enact, and may from time to time amend, a statute of local governments granting to local governments powers including but not limited to those of local legislation and administration in addition to the powers vested in them by this article",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the bill of rights of local governments and other applicable provisions of this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "limit",
+     "what": "A power granted in such statute may be repealed, diminished, impaired or suspended only by enactment of a statute by the legislature with the approval of the governor at its regular session in one calendar year and the re-enactment and approval of such statute in the following calendar year",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "limit",
+     "what": "the legislature Shall have the power to act in relation to the property, affairs or government of any local government only by general law, or by special law only (a) on request of two-thirds of the total membership of its legislative body or on request of its chief executive officer concurred in by a majority of such membership, or (b) on certificate of necessity from the governor reciting facts which in the judgment of the governor constitute an emergency requiring enactment of such law and, in such latter case, with the concurrence of two-thirds of the members elected to each house of the legislature",
+     "holder": "The legislature",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "on request of two-thirds of the total membership of its legislative body or on request of its chief executive officer concurred in by a majority of such membership",
+      "on certificate of necessity from the governor reciting facts which in the judgment of the governor constitute an emergency requiring enactment of such law",
+      "with the concurrence of two-thirds of the members elected to each house of the legislature"
+     ],
+     "exceptions": [
+      "except in the case of the city of New York"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "power",
+     "what": "the legislature Shall have the power to confer on local governments powers not relating to their property, affairs or government including but not limited to those of local legislation and administration, in addition to those otherwise granted by or pursuant to this article, and to withdraw or restrict such additional powers",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "every local government shall have power to adopt and amend local laws not inconsistent with the provisions of this constitution or any general law relating to its property, affairs or government",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In addition to powers granted in the statute of local governments or any other law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "every local government shall have power to adopt and amend local laws not inconsistent with the provisions of this constitution or any general law relating to the following subjects, whether or not they relate to the property, affairs or government of such local government",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except to the extent that the legislature shall restrict the adoption of such a local law relating to other than the property, affairs or government of such local government"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "power",
+     "what": "The powers, duties, qualifications, number, mode of selection and removal, terms of office, compensation, hours of work, protection, welfare and safety of its officers and employees",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except that cities and towns shall not have such power with respect to members of the legislative body of the county in their capacities as county officers"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "power",
+     "what": "In the case of a city, town or village, the membership and composition of its legislative body",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "power",
+     "what": "The transaction of its business",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "power",
+     "what": "The incurring of its obligations",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except that local laws relating to financing by the issuance of evidences of indebtedness by such local government shall be consistent with laws enacted by the legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)",
+     "kind": "power",
+     "what": "The presentation, ascertainment and discharge of claims against it",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(6)",
+     "kind": "power",
+     "what": "The acquisition, care, management and use of its highways, roads, streets, avenues and property",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(7)",
+     "kind": "power",
+     "what": "The acquisition of its transit facilities and the ownership and operation thereof",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(8)",
+     "kind": "power",
+     "what": "The levy, collection and administration of local taxes authorized by the legislature and of assessments for local improvements, consistent with laws enacted by the legislature",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(9)",
+     "kind": "power",
+     "what": "The wages or salaries, the hours of work or labor, and the protection, welfare and safety of persons employed by any contractor or sub-contractor performing work, labor or services for it",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(10)",
+     "kind": "power",
+     "what": "The government, protection, order, conduct, safety, health and well-being of persons or property therein",
+     "holder": "Every local government",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "a local government shall not have power to adopt local laws which impair the powers of any other local government",
+     "holder": null,
+     "binds": "A local government",
+     "requires": [],
+     "forbids": [
+      "Adopting local laws which impair the powers of any other local government"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except in the case of a transfer of functions under an alternative form of county government"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "The rights and powers of local governments specified in this section insofar as applicable to any county within the city of New York shall be vested in such city",
+     "holder": "The city of New York",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a9-s3": {
+  "review": {
+   "plain": "Unless expressly provided, this article does not restrict the legislature's power over the public school system, the courts, or matters other than local property, affairs or government. Existing laws continue until changed, local government powers are liberally construed, and four terms are defined.",
+   "category": "Local Government",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "nothing in this article shall restrict or impair any power of the legislature in relation to:",
+    "shall not affect any existing valid provisions of acts of the legislature or of local legislation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "limit",
+     "what": "nothing in this article shall restrict or impair any power of the legislature in relation to the maintenance, support or administration of the public school system, as required or provided by article XI of this constitution, or any retirement system pertaining to such public school system",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as expressly provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "limit",
+     "what": "nothing in this article shall restrict or impair any power of the legislature in relation to the courts as required or provided by article VI of this constitution",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as expressly provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "limit",
+     "what": "nothing in this article shall restrict or impair any power of the legislature in relation to matters other than the property, affairs or government of a local government",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as expressly provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The provisions of this article shall not affect any existing valid provisions of acts of the legislature or of local legislation and such provisions shall continue in force until repealed, amended, modified or superseded in accordance with the provisions of this constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Rights, powers, privileges and immunities granted to local governments by this article shall be liberally construed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Whenever used in this article the following terms shall mean or include: \"General law\", \"Local government\", \"People\" and \"Special law\"",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"General law\": A law which in terms and in effect applies alike to all counties, all counties other than those wholly included within a city, all cities, all towns or all villages",
+      "\"Local government\": A county, city, town or village",
+      "\"People\": Persons entitled to vote as provided in section one of article two of this constitution",
+      "\"Special law\": A law which in terms and in effect applies to one or more, but not all, counties, counties other than those wholly included within a city, cities, towns or villages"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s1": {
+  "review": {
+   "plain": "Corporations may be formed under general laws but not created by special act, except for municipal purposes or where the legislature judges general laws cannot attain their objects. Such laws and acts may be altered or repealed.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "Corporations may be formed under general laws",
+    "may be altered from time to time or repealed"
+   ],
+   "limits": [
+    "shall not be created by special act"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Corporations may be formed under general laws",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Corporations shall not be created by special act",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Creating corporations by special act"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except for municipal purposes",
+      "in cases where, in the judgment of the legislature, the objects of the corporation cannot be attained under general laws"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "All general laws and special acts passed pursuant to this section may be altered from time to time or repealed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s2": {
+  "review": {
+   "plain": "Debts owed by corporations must be secured by individual liability of the corporators and other means prescribed by law.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Dues from corporations shall be secured by such individual liability of the corporators and other means as may be prescribed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s3": {
+  "review": {
+   "plain": "The legislature must, by general law, give all savings bank and savings institution charters uniform powers, rights and liabilities. It may not grant any special charter for banking purposes, but banking corporations may be formed under general laws.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "corporations or associations may be formed for such purposes under general laws"
+   ],
+   "limits": [
+    "shall have no power to pass any act granting any special charter for banking purposes"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall, by general law, conform all charters of savings banks, savings and loan associations, or institutions for savings, to a uniformity of powers, rights and liabilities, and all charters hereafter granted for such corporations shall be made to conform to such general law, and to such amendments as may be made thereto",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The legislature shall have no power to pass any act granting any special charter for banking purposes",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Passing any act granting any special charter for banking purposes"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "corporations or associations may be formed for such purposes under general laws",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s4": {
+  "review": {
+   "plain": "For sections 1 to 4 of this article, corporations include associations and joint-stock companies with corporate powers or privileges not possessed by individuals or partnerships. All corporations may sue and be sued in all courts like natural persons.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [
+    "shall have the right to sue"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The term corporations as used in this section and in sections 1, 2 and 3 of this article shall be construed to include all associations and joint-stock companies having any of the powers or privileges of corporations not possessed by individuals or partnerships",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"corporations\": includes all associations and joint-stock companies having any of the powers or privileges of corporations not possessed by individuals or partnerships"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "all corporations shall have the right to sue and shall be subject to be sued in all courts in like cases as natural persons",
+     "holder": "All corporations",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s5": {
+  "review": {
+   "plain": "Public corporations that can both borrow and collect charges may be created only by special act. Some need city voter approval to charge city property owners. Their accounts are supervised by a comptroller, and neither the state nor its subdivisions is liable for their obligations.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may, if authorized by the legislature, acquire the properties of any such corporation and pay the indebtedness thereof"
+   ],
+   "limits": [
+    "shall hereafter be created except by special act of the legislature",
+    "unless the electors of the city shall approve",
+    "shall at any time be liable for the payment of any obligations issued by such a public corporation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No public corporation possessing both the power to contract indebtedness and the power to collect rentals, charges, rates or fees for the services or facilities furnished or supplied by it shall hereafter be created except by special act of the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Creating such a public corporation except by special act of the legislature"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "other than a county, city, town, village, school district or fire district or an improvement district established in a town or towns"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No such public corporation shall hereafter be given both the power to contract indebtedness and the power, within any city, to collect rentals, charges, rates or fees from the owners of real estate, or the occupants of real estate, for services or facilities furnished or supplied in connection with such real estate, if such services or facilities are of a character or nature then or formerly furnished or supplied by the city, unless the electors of the city shall approve the granting to such corporation of such powers by a majority vote at a general or special election in such city",
+     "holder": "The electors of the city",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if such services or facilities are of a character or nature then or formerly furnished or supplied by the city"
+     ],
+     "exceptions": [
+      "other than a county or city",
+      "other than the occupants of premises owned or controlled by such corporation or by the state or any civil division thereof",
+      "unless the electors of the city shall approve the granting to such corporation of such powers by a majority vote at a general or special election in such city",
+      "this paragraph shall not apply to a corporation created pursuant to an interstate compact"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The accounts of every such public corporation heretofore or hereafter created shall be subject to the supervision of the state comptroller, or, if the member or members of such public corporation are appointed by the mayor of a city, to the supervision of the comptroller of such city",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "this provision shall not apply to such a public corporation created pursuant to agreement or compact with another state or with a foreign power, except with the consent of the parties to such agreement or compact"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the state nor any political subdivision thereof shall at any time be liable for the payment of any obligations issued by such a public corporation heretofore or hereafter created, nor may the legislature accept, authorize acceptance of or impose such liability upon the state or any political subdivision thereof",
+     "holder": null,
+     "binds": "The state, any political subdivision thereof and the legislature",
+     "requires": [],
+     "forbids": [
+      "The state or any political subdivision being liable for the payment of any obligations issued by such a public corporation",
+      "The legislature accepting, authorizing acceptance of or imposing such liability upon the state or any political subdivision thereof"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the state or a political subdivision thereof may, if authorized by the legislature, acquire the properties of any such corporation and pay the indebtedness thereof",
+     "holder": "The state or a political subdivision thereof",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if authorized by the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s6": {
+  "review": {
+   "plain": "Notwithstanding the rest of the constitution, the legislature may by law, without a popular vote, make the state liable for up to five hundred million dollars of bonds of a public corporation building state thruways, and authorize its use of state canal lands and properties.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may by law, which shall take effect without submission to the people",
+    "make or authorize making the state liable for the payment of the principal of and interest on bonds of a public corporation created to construct state thruways",
+    "authorize the use of any state canal lands and properties by such a public corporation"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "the legislature may by law, which shall take effect without submission to the people, make or authorize making the state liable for the payment of the principal of and interest on bonds of a public corporation created to construct state thruways, and for the payment of the principal of and interest on notes of such corporation issued in anticipation of such bonds",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "in a principal amount not to exceed five hundred million dollars",
+      "maturing in not to exceed forty years after their respective dates",
+      "which notes and any renewals thereof shall mature within five years after the respective dates of such notes"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this or any other article of this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "the legislature may by law authorize the use of any state canal lands and properties by such a public corporation for so long as the law may provide",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this or any other article of this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "the provisions of section sixteen of article seven shall apply to the liability of the state incurred pursuant to this section, but the powers conferred by this section shall not be subject to the limitations of this or any other article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To the extent payment is not otherwise made or provided for"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s7": {
+  "review": {
+   "plain": "Notwithstanding the rest of the constitution, the legislature may by law, without a popular vote, make the state liable for up to one hundred million dollars of port of New York authority obligations for railroad passenger cars leased to commuter railroads, due within thirty-five years.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "make or authorize making the state liable for the payment of the principal of and interest on obligations of the port of New York authority"
+   ],
+   "limits": [
+    "shall not exceed one hundred million dollars at any time"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature may by law, which shall take effect without submission to the people, make or authorize making the state liable for the payment of the principal of and interest on obligations of the port of New York authority issued to purchase or refinance the purchase of, or to repay advances from this state made for the purpose of purchasing, railroad passenger cars, including self-propelled cars, and locomotives and other rolling stock used in passenger transportation, for the purpose of leasing such cars to any railroad transporting passengers between municipalities in the portion of the port of New York district within the state, the majority of the trackage of which within the port of New York district utilized for the transportation of passengers shall be in the state",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "the total amount of obligations with respect to which the state may be made liable shall not exceed one hundred million dollars at any time",
+      "all of such obligations shall be due not later than thirty-five years after the effective date of this section"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this or any other article of this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "the provisions of section sixteen of article seven shall apply to the liability of the state incurred pursuant to this section, but the powers conferred by this section shall not be subject to the limitations of this or any other article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To the extent payment is not otherwise made or provided for"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a10-s8": {
+  "review": {
+   "plain": "Notwithstanding the rest of the constitution, the legislature may by law, without a popular vote, make the state liable for bonds and notes of a public corporation financing industrial or manufacturing plants under section eight of article seven, up to nine hundred million dollars at any one time.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "make or authorize making the state liable for the payment of the principal of and interest on bonds of a public corporation"
+   ],
+   "limits": [
+    "shall not at any one time exceed nine hundred million dollars"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature may by law, which shall take effect without submission to the people, make or authorize making the state liable for the payment of the principal of and interest on bonds of a public corporation to be created pursuant to and for the purposes specified in the last paragraph of section eight of article seven of this constitution, and for the principal of and interest on notes of such corporation issued in anticipation of such bonds",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "maturing in not to exceed thirty years after their respective dates",
+      "which notes and any renewals thereof shall mature within seven years after the respective dates of such notes",
+      "the aggregate principal amount of such bonds with respect to which the state shall be so liable shall not at any one time exceed nine hundred million dollars, excluding bonds issued to refund outstanding bonds"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this or any other article of this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s1": {
+  "review": {
+   "plain": "The legislature must maintain and support a system of free common schools where all the children of the state may be educated.",
+   "category": "Education",
+   "kind": "Duty",
+   "rights": [
+    "wherein all the children of this state may be educated"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide for the maintenance and support of a system of free common schools, wherein all the children of this state may be educated",
+     "holder": "All the children of this state",
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s2": {
+  "review": {
+   "plain": "The corporation created in 1784 as The Regents of the University of the State of New York continues as The University of the State of New York, governed by at least nine regents. The legislature may increase, modify or diminish its corporate powers.",
+   "category": "Education",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "which may be increased, modified or diminished by the legislature"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The corporation created in the year one thousand seven hundred eighty-four, under the name of The Regents of the University of the State of New York, is hereby continued under the name of The University of the State of New York",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "It shall be governed and its corporate powers shall be exercised by not less than nine regents",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "its corporate powers may be increased, modified or diminished by the legislature",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a11-s3": {
+  "review": {
+   "plain": "The state and its subdivisions may not use or allow use of their property, credit or public money to aid any school controlled by a religious denomination or teaching denominational doctrine, except for examination or inspection. The legislature may provide transportation of children to and from any school.",
+   "category": "Education",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "the legislature may provide for the transportation of children to and from any school or institution of learning"
+   ],
+   "limits": [
+    "shall use its property or credit or any public money, or authorize or permit either to be used, directly or indirectly, in aid or maintenance"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Neither the state nor any subdivision thereof, shall use its property or credit or any public money, or authorize or permit either to be used, directly or indirectly, in aid or maintenance of any school or institution of learning wholly or in part under the control or direction of any religious denomination, or in which any denominational tenet or doctrine is taught",
+     "holder": null,
+     "binds": "The state and any subdivision thereof",
+     "requires": [],
+     "forbids": [
+      "Using its property or credit or any public money, or authorizing or permitting either to be used, directly or indirectly, in aid or maintenance of any school or institution of learning wholly or in part under the control or direction of any religious denomination, or in which any denominational tenet or doctrine is taught"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "other than for examination or inspection"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "the legislature may provide for the transportation of children to and from any school or institution of learning",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a12-s1": {
+  "review": {
+   "plain": "All persons within the state are obliged to defend and protect the state and the United States. The legislature must provide for discharging this obligation and for maintaining and regulating an organized militia.",
+   "category": "Military & Defense",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The defense and protection of the state and of the United States is an obligation of all persons within the state",
+     "holder": null,
+     "binds": "All persons within the state",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide for the discharge of this obligation and for the maintenance and regulation of an organized militia",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s1": {
+  "review": {
+   "plain": "Legislators and executive and judicial officers must take the prescribed oath to support both constitutions and faithfully discharge their duties. No other oath or test may be required for public office, though party committees and conventions may provide by rule for equal representation of the sexes on party committees.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "may, by rule, provide for equal representation of the sexes on any such committee",
+    "may, by rule, provide for equal representation of the sexes on any committee of such party"
+   ],
+   "limits": [
+    "no other oath, declaration or test shall be required as a qualification for any office of public trust"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Members of the legislature, and all officers, executive and judicial, shall, before they enter on the duties of their respective offices, take and subscribe the following oath or affirmation: \"I do solemnly swear (or affirm) that I will support the constitution of the United States, and the constitution of the State of New York, and that I will faithfully discharge the duties of the office of ............, according to the best of my ability; \"",
+     "holder": null,
+     "binds": "Members of the legislature, and all officers, executive and judicial",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except such inferior officers as shall be by law exempted"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "no other oath, declaration or test shall be required as a qualification for any office of public trust",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring any other oath, declaration or test as a qualification for any office of public trust"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "any committee of a political party may, by rule, provide for equal representation of the sexes on any such committee",
+      "a state convention of a political party, at which candidates for public office are nominated, may, by rule, provide for equal representation of the sexes on any committee of such party"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "any committee of a political party may, by rule, provide for equal representation of the sexes on any such committee",
+     "holder": "Any committee of a political party",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "a state convention of a political party, at which candidates for public office are nominated, may, by rule, provide for equal representation of the sexes on any committee of such party",
+     "holder": "A state convention of a political party",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s2": {
+  "review": {
+   "plain": "When the constitution does not set the length of an office, it may be declared by law; otherwise the office is held at the pleasure of the appointing authority.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "it may be declared by law"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "When the duration of any office is not provided by this constitution it may be declared by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "When the duration of any office is not provided by this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "such office shall be held during the pleasure of the authority making the appointment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if not so declared"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s3": {
+  "review": {
+   "plain": "The legislature must provide for filling vacancies. A person appointed to an elective office serves only until the political year after the next annual election, but boards of education vacancies may be filled until the next regular school district election.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no person appointed to fill a vacancy shall hold his or her office by virtue of such appointment longer than the commencement of the political year next succeeding the first annual election after the happening of the vacancy"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall provide for filling vacancies in office",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "in case of elective officers, no person appointed to fill a vacancy shall hold his or her office by virtue of such appointment longer than the commencement of the political year next succeeding the first annual election after the happening of the vacancy",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in case of elective officers"
+     ],
+     "exceptions": [
+      "nothing contained in this article shall prohibit the filling of vacancies on boards of education, including boards of education of community districts in the city school district of the city of New York, by appointment until the next regular school district election, whether or not such appointment shall extend beyond the thirty-first day of December in any year"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s4": {
+  "review": {
+   "plain": "The political year and legislative term begin on January 1, and the legislature must assemble every year on the first Wednesday after the first Monday in January.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The political year and legislative term shall begin on the first day of January",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "the legislature shall, every year, assemble on the first Wednesday after the first Monday in January",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a13-s5": {
+  "review": {
+   "plain": "The law must provide for removing for misconduct or malversation in office all non-judicial officers elected at general elections whose powers and duties are not local or legislative, and for filling the resulting vacancies.",
+   "category": "Public Officers & Civil Service",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Provision shall be made by law for the removal for misconduct or malversation in office of all officers whose powers and duties are not local or legislative and who shall be elected at general elections, and also for supplying vacancies created by such removal",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except judicial"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

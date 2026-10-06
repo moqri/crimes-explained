@@ -1,0 +1,1393 @@
+{
+ "a16-s6": {
+  "review": {
+   "plain": "Notwithstanding any other provision of the constitution, the legislature may authorize a county, city, town or village to undertake public improvements to redevelop blighted areas and contract indebtedness for it, without pledging faith and credit, and must pledge the resulting increase in real estate taxes.",
+   "category": "Local Government",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may by law authorize a county, city, town or village, or combination thereof acting together, to undertake the development of public improvements or services",
+    "The legislature may further authorize any county, city, town or village, or combination thereof acting together, to carry out the powers and duties conferred by this section by means of a public corporation"
+   ],
+   "limits": [
+    "without the pledge of its faith and credit, or the faith and credit of the state"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may by law authorize a county, city, town or village, or combination thereof acting together, to undertake the development of public improvements or services, including the acquisition of land, for the purpose of redevelopment of economically unproductive, blighted or deteriorated areas and, in furtherance thereof, to contract indebtedness",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any provision of this or any other article of this constitution to the contrary"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Any such indebtedness shall be contracted without the pledge of its faith and credit, or the faith and credit of the state, for the payment of the principal thereof and the interest thereon",
+     "holder": null,
+     "binds": "Any such county, city, town or village, or combination thereof acting together",
+     "requires": [],
+     "forbids": [
+      "The pledge of its faith and credit, or the faith and credit of the state"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such indebtedness may be paid without restriction as to the amount or relative amount of annual installments; the amount of any indebtedness contracted under this section may be excluded in ascertaining the power of such county, city, town or village to contract indebtedness",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Any county, city, town or village contracting indebtedness pursuant to this section shall pledge to the payment thereof that portion of the taxes raised by it on real estate in such area which, in any year, is attributed to the increase in value of taxable real estate resulting from such redevelopment",
+     "holder": null,
+     "binds": "Any county, city, town or village contracting indebtedness pursuant to this section",
+     "requires": [
+      "Pledge to the payment thereof that portion of the taxes raised by it on real estate in such area which, in any year, is attributed to the increase in value of taxable real estate resulting from such redevelopment"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may further authorize any county, city, town or village, or combination thereof acting together, to carry out the powers and duties conferred by this section by means of a public corporation created therefor",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s1": {
+  "review": {
+   "plain": "The aid, care and support of the needy are public concerns and shall be provided by the state and its subdivisions, in the manner and by the means the legislature determines.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The aid, care and support of the needy are public concerns and shall be provided by the state and by such of its subdivisions, and in such manner and by such means, as the legislature may from time to time determine",
+     "holder": "The legislature",
+     "binds": "The state and such of its subdivisions",
+     "requires": [
+      "The aid, care and support of the needy shall be provided"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s2": {
+  "review": {
+   "plain": "The state board of social welfare continues. It must visit and inspect charitable, correctional and similar institutions receiving public funds, inspect such institutions without public funds on health, safety, treatment and training, and may make rules subject to the legislature.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "the state board of social welfare may make rules and regulations"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The state board of social welfare shall be continued",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It shall visit and inspect, or cause to be visited and inspected by members of its staff, all public and private institutions, whether state, county, municipal, incorporated or not incorporated, which are in receipt of public funds and which are of a charitable, eleemosynary, correctional or reformatory character, including all reformatories for juveniles and institutions or agencies exercising custody of dependent, neglected or delinquent children",
+     "holder": null,
+     "binds": "The state board of social welfare",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "excepting state institutions for the education and support of the blind, the deaf and the dumb",
+      "excepting also such institutions as are hereinafter made subject to the visitation and inspection of the department of mental hygiene or the state commission of correction"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "As to institutions having inmates, but not in receipt of public funds, which are of a charitable, eleemosynary, correctional or reformatory character, and agencies not in receipt of public funds which exercise custody of dependent, neglected or delinquent children, the state board of social welfare shall make inspections, or cause inspections to be made by members of its staff, but solely as to matters directly affecting the health, safety, treatment and training of their inmates, or of the children under their custody",
+     "holder": null,
+     "binds": "The state board of social welfare",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "solely as to matters directly affecting the health, safety, treatment and training of their inmates, or of the children under their custody"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state board of social welfare may make rules and regulations, not inconsistent with this constitution, with respect to all of the functions, powers and duties with which the department and the state board of social welfare are herein or shall be charged",
+     "holder": "The state board of social welfare",
+     "binds": null,
+     "requires": [
+      "not inconsistent with this constitution"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Subject to the control of the legislature and pursuant to the procedure prescribed by general law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s3": {
+  "review": {
+   "plain": "The protection and promotion of the health of the state's inhabitants are matters of public concern, and the state and its subdivisions shall provide for them as the legislature determines.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The protection and promotion of the health of the inhabitants of the state are matters of public concern and provision therefor shall be made by the state and by such of its subdivisions and in such manner, and by such means as the legislature shall from time to time determine",
+     "holder": "The legislature",
+     "binds": "The state and such of its subdivisions",
+     "requires": [
+      "Provision for the protection and promotion of the health of the inhabitants of the state shall be made"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s4": {
+  "review": {
+   "plain": "State and local authorities may provide care and treatment of persons suffering from mental disorder or defect, as the legislature determines. The head of the department of mental hygiene shall visit and inspect all institutions used for such care.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be provided by state and local authorities"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The care and treatment of persons suffering from mental disorder or defect and the protection of the mental health of the inhabitants of the state may be provided by state and local authorities and in such manner as the legislature may from time to time determine",
+     "holder": "State and local authorities",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The head of the department of mental hygiene shall visit and inspect, or cause to be visited and inspected by members of his or her staff, all institutions either public or private used for the care and treatment of persons suffering from mental disorder or defect",
+     "holder": null,
+     "binds": "The head of the department of mental hygiene",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s5": {
+  "review": {
+   "plain": "The legislature may provide for institutions to detain persons charged with or convicted of crime and for probation and parole. A state commission of correction shall visit and inspect all institutions detaining sane adults charged with or convicted of crime.",
+   "category": "Criminal Justice",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature may provide for the maintenance and support of institutions for the detention of persons charged with or convicted of crime and for systems of probation and parole"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide for the maintenance and support of institutions for the detention of persons charged with or convicted of crime and for systems of probation and parole of persons convicted of crime",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "There shall be a state commission of correction",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The state commission of correction shall visit and inspect, or cause to be visited and inspected by members of its staff, all institutions used for the detention of sane adults charged with or convicted of crime",
+     "holder": null,
+     "binds": "The state commission of correction",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s6": {
+  "review": {
+   "plain": "Visitation and inspection authorized in this article do not exclude other visitation and inspection authorized by law now or later.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Visitation and inspection as herein authorized, shall not be exclusive of other visitation and inspection now or hereafter authorized by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a17-s7": {
+  "review": {
+   "plain": "Notwithstanding any other provision, the legislature may authorize the state, a municipality or a public corporation to lend money or credit to regulated corporations or associations to provide hospital or other facilities for treating human disease and related conditions.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may authorize the state, a municipality or a public corporation acting as an instrumentality of the state or municipality to lend its money or credit"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may authorize the state, a municipality or a public corporation acting as an instrumentality of the state or municipality to lend its money or credit to or in aid of any corporation or association, regulated by law as to its charges, profits, dividends, and disposition of its property or franchises, for the purpose of providing such hospital or other facilities for the prevention, diagnosis or treatment of human disease, pain, injury, disability, deformity or physical condition, and for facilities incidental or appurtenant thereto as may be prescribed by law",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding any other provision of this constitution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s1": {
+  "review": {
+   "plain": "Subject to this article, the legislature may provide for low rent housing and nursing home accommodations for persons of low income, for clearing and rebuilding substandard and insanitary areas, and for related recreational and other facilities.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may provide in such manner, by such means and upon such terms and conditions as it may prescribe for low rent housing and nursing home accommodations for persons of low income"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide in such manner, by such means and upon such terms and conditions as it may prescribe for low rent housing and nursing home accommodations for persons of low income as defined by law, or for the clearance, replanning, reconstruction and rehabilitation of substandard and insanitary areas, or for both such purposes, and for recreational and other facilities incidental or appurtenant thereto",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to the provisions of this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s2": {
+  "review": {
+   "plain": "For housing and slum clearance purposes, the legislature may make or authorize state and local subsidies, loans and guarantees, grant tax exemptions of up to sixty years, accept federal aid, and grant eminent domain. The section defines \"public corporation\".",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "make or contract to make or authorize to be made or contracted capital or periodic subsidies by the state",
+    "grant or authorize tax exemptions in whole or in part",
+    "authorize cooperation with and the acceptance of aid from the United States",
+    "grant the power of eminent domain"
+   ],
+   "limits": [
+    "no such exemption may be granted or authorized for a period of more than sixty years"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Make or contract to make or authorize to be made or contracted capital or periodic subsidies by the state to any city, town, village, or public corporation, payable only with moneys appropriated therefor from the general fund of the state",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "For and in aid of such purposes, notwithstanding any provision in any other article of this constitution, but subject to the limitations contained in this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize any city, town or village to make or contract to make such subsidies to any public corporation, payable only with moneys locally appropriated therefor from the general or other fund available for current expenses of such municipality",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize the contracting of indebtedness for the purpose of providing moneys out of which it may make or contract to make or authorize to be made or contracted loans by the state to any city, town, village or public corporation",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize any city, town or village to make or contract to make loans to any public corporation",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize any city, town or village to guarantee the principal of and interest on, or only the interest on, indebtedness contracted by a public corporation",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize and provide for loans by the state and authorize loans by any city, town or village to or in aid of corporations regulated by law as to rents, profits, dividends and disposition of their property or franchises and engaged in providing housing facilities or nursing home accommodations",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize any city, town or village to make loans to the owners of existing multiple dwellings for the rehabilitation and improvement thereof for occupancy by persons of low income as defined by law",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Grant or authorize tax exemptions in whole or in part",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "No such exemption may be granted or authorized for a period of more than sixty years"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "except that no such exemption may be granted or authorized for a period of more than sixty years"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Authorize cooperation with and the acceptance of aid from the United States",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Grant the power of eminent domain to any city, town or village, to any public corporation and to any corporation regulated by law as to rents, profits, dividends and disposition of its property or franchises and engaged in providing housing facilities",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "As used in this article, the term \"public corporation\" shall mean any corporate governmental agency (except a county or municipal corporation) organized pursuant to law to accomplish any or all of the purposes specified in this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"public corporation\": any corporate governmental agency (except a county or municipal corporation) organized pursuant to law to accomplish any or all of the purposes specified in this article"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s3": {
+  "review": {
+   "plain": "Article VII's rules on state debts apply to state debts for loans under this article, with exceptions on submission to the people and repayment. Laws for subsidy contracts take effect without a popular vote, subject to time and dollar limits unless the people approve.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "the contracting of a greater amount of debt may not be authorized prior to January first, nineteen hundred forty-two",
+    "such periodic subsidies shall not be paid for a period longer than the life of the projects assisted thereby",
+    "no contracts for periodic subsidies shall be entered into in any one year requiring payments aggregating more than one million dollars",
+    "there shall not be outstanding at any one time contracts for periodic subsidies requiring payments exceeding an aggregate of thirty-four million dollars"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of article VII, not inconsistent with this article, relating to debts of the state shall apply to all debts contracted by the state for the purpose of providing moneys out of which to make loans pursuant to this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "(a) that any law or laws authorizing the contracting of such debt, not exceeding in the aggregate three hundred million dollars, shall take effect without submission to the people, and the contracting of a greater amount of debt may not be authorized prior to January first, nineteen hundred forty-two",
+      "(b) that any such debt and each portion thereof, except as hereinafter provided, shall be paid in equal annual installments, the first of which shall be payable not more than three years, and the last of which shall be payable not more than fifty years, after such debt or portion thereof shall have been contracted",
+      "(c) that any law authorizing the contracting of such debt may be submitted to the people at a general election, whether or not any other law or bill shall be submitted to be voted for or against at such election"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Debts contracted by the state for the purpose of providing money out of which to make loans to or in aid of corporations regulated by law as to rents, profits, dividends and disposition of their property or franchises and engaged in providing housing facilities pursuant to this article may be paid in such manner that the total annual charges required for the payment of principal and interest are approximately equal and constant for the entire period in which any of the bonds issued therefor are outstanding",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any law authorizing the making of contracts for capital or periodic subsidies to be paid with moneys currently appropriated from the general fund of the state shall take effect without submission to the people, and the amount to be paid under such contracts shall not be included in ascertaining the amount of indebtedness which may be contracted by the state under this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such periodic subsidies shall not be paid for a period longer than the life of the projects assisted thereby, but in any event for not more than sixty years; no contracts for periodic subsidies shall be entered into in any one year requiring payments aggregating more than one million dollars in any one year; and there shall not be outstanding at any one time contracts for periodic subsidies requiring payments exceeding an aggregate of thirty-four million dollars in any one year",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Paying periodic subsidies for a period longer than the life of the projects assisted thereby, or for more than sixty years",
+      "Entering into contracts for periodic subsidies in any one year requiring payments aggregating more than one million dollars in any one year",
+      "Contracts for periodic subsidies outstanding at any one time requiring payments exceeding an aggregate of thirty-four million dollars in any one year"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless a law authorizing contracts in excess of such amounts shall have been submitted to and approved by the people at a general election"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any such law may be submitted to the people at a general election, whether or not any other law or bill shall be submitted to be voted for or against at such election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s4": {
+  "review": {
+   "plain": "The legislature may let a city, town or village borrow for this article's purposes up to two percent of its average assessed real estate valuation. Self-supporting project debt may be excluded from debt limits; subsidy contracts count as debt; and larger places exceeding other limits must levy a non-real-estate tax.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the legislature may authorize any city, town or village to contract indebtedness",
+    "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court"
+   ],
+   "limits": [
+    "no such indebtedness shall be excluded except in accordance with such determination",
+    "Such periodic subsidies shall not be contracted for a period longer than the life of the projects assisted thereby",
+    "the legislature shall not authorize any city or village having a population of five thousand or more to contract indebtedness hereunder in excess of the limitations prescribed by any other article of this constitution"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may authorize any city, town or village to contract indebtedness to an amount which shall not exceed two per centum of the average assessed valuation of the real estate of such city, town or village subject to taxation, as determined by the last completed assessment roll and the four preceding assessment rolls of such city, town or village, for city, town or village taxes prior to the contracting of such indebtedness",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To effectuate any of the purposes of this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In ascertaining the power of a city, or village having a population of five thousand or more as determined by the last federal census, to contract indebtedness pursuant to this article there may be excluded any such indebtedness if the project or projects aided by guarantees representing such indebtedness or by loans for which such indebtedness was contracted shall have yielded during the preceding year net revenue",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the project or projects aided by guarantees representing such indebtedness or by loans for which such indebtedness was contracted shall have yielded during the preceding year net revenue to be determined annually by deducting from the gross revenues, including periodic subsidies therefor, received from such project or projects, all costs of operation, maintenance, repairs and replacements, and the interest on such indebtedness and the amounts required in such year for the payment of such indebtedness",
+      "provided that in the case of guarantees such interest and such amounts shall have been paid, and in the case of loans an amount equal to such interest and such amounts shall have been paid to such city or village"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The legislature shall prescribe the method by which the amount of any such indebtedness to be excluded shall be determined, and no such indebtedness shall be excluded except in accordance with such determination",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [
+      "Excluding indebtedness except in accordance with such determination"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court in the judicial departments in which such cities or villages are located for the purpose of determining the amount of any such indebtedness to be so excluded",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The liability of a city, town or village on account of any contract for capital or periodic subsidies to be paid subsequent to the then current year shall, for the purpose of ascertaining the power of such city, town or village to contract indebtedness, be deemed indebtedness in the amount of the commuted value of the total of such capital or periodic subsidies remaining unpaid, calculated on the basis of an annual interest rate of four per centum",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Such periodic subsidies shall not be contracted for a period longer than the life of the projects assisted thereby, and in no event for more than sixty years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Contracting periodic subsidies for a period longer than the life of the projects assisted thereby, or for more than sixty years"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Indebtedness contracted pursuant to this article shall be excluded in ascertaining the power of a city or such village otherwise to create indebtedness under any other section of this constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The legislature shall not authorize any city or village having a population of five thousand or more to contract indebtedness hereunder in excess of the limitations prescribed by any other article of this constitution unless at the same time it shall by law require such city or village to levy annually a tax or taxes other than an ad valorem tax on real estate to an extent sufficient to provide for the payment of the principal of and interest on any such indebtedness",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless at the same time it shall by law require such city or village to levy annually a tax or taxes other than an ad valorem tax on real estate to an extent sufficient to provide for the payment of the principal of and interest on any such indebtedness"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Nothing herein contained shall be construed to prevent such city or village from pledging its faith and credit for the payment of such principal and interest nor shall any such law prevent recourse to an ad valorem tax on real estate to the extent that revenue derived from such other tax or taxes in any year, together with revenues from the project or projects aided by the proceeds of such indebtedness, shall become insufficient to provide fully for payment of such principal and interest in that year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s5": {
+  "review": {
+   "plain": "A city, town or village is liable for state loans to a public corporation acting as its instrumentality; that liability is excluded from its debt limit unless there is a default. The state may pay no added subsidy to remedy or avoid a default on such a loan.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No subsidy, in addition to any capital or periodic subsidy originally contracted for in aid of any project or projects authorized under this article, shall be paid by the state"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Any city, town or village shall be liable for the repayment of any loans and interest thereon made by the state to any public corporation, acting as an instrumentality of such city, town or village",
+     "holder": null,
+     "binds": "Any city, town or village",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such liability of a city, town or village shall be excluded in ascertaining the power of such city, town or village to become indebted pursuant to the provisions of this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except that in the event of a default in payment under the terms of any such loan, the unpaid balance thereof shall be included in ascertaining the power of such city, town or village to become so indebted"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No subsidy, in addition to any capital or periodic subsidy originally contracted for in aid of any project or projects authorized under this article, shall be paid by the state to a city, town, village or public corporation, acting as an instrumentality thereof, for the purpose of enabling such city, town, village or corporation to remedy an actual default or avoid an impending default in the payment of principal or interest on a loan which has been theretofore made by the state",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Paying any additional subsidy to remedy an actual default or avoid an impending default in the payment of principal or interest on a loan made by the state pursuant to this article"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s6": {
+  "review": {
+   "plain": "The state may make no loan or subsidy for a project unless it conforms to a plan for clearing and rebuilding substandard areas. The legislature may add conditions. Occupancy is restricted to persons of low income, with preference to those who live or lived in the area.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The legislature may provide additional conditions to the making of such loans or subsidies"
+   ],
+   "limits": [
+    "No loan, or subsidy shall be made by the state to aid any project unless such project is in conformity with a plan or undertaking",
+    "The occupancy of any such project shall be restricted to persons of low income"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No loan, or subsidy shall be made by the state to aid any project unless such project is in conformity with a plan or undertaking for the clearance, replanning and reconstruction or rehabilitation of a sub-standard and unsanitary area or areas and for recreational and other facilities incidental or appurtenant thereto",
+     "holder": null,
+     "binds": "The state",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless such project is in conformity with a plan or undertaking for the clearance, replanning and reconstruction or rehabilitation of a sub-standard and unsanitary area or areas and for recreational and other facilities incidental or appurtenant thereto"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may provide additional conditions to the making of such loans or subsidies consistent with the purposes of this article",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [
+      "consistent with the purposes of this article"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The occupancy of any such project shall be restricted to persons of low income as defined by law",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Occupancy restricted to persons of low income as defined by law"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Preference shall be given to persons who live or shall have lived in such area or areas",
+     "holder": "Persons who live or shall have lived in such area or areas",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s7": {
+  "review": {
+   "plain": "A guarantee of a public corporation's principal and interest counts as debt equal to the unpaid principal; a guarantee of interest only counts as debt equal to the commuted value of the unpaid interest, at a four percent annual rate.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The liability arising from any guarantee of the principal of and interest on indebtedness contracted by a public corporation shall be deemed indebtedness in the amount of the face value of the principal thereof remaining unpaid",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The liability arising from any guarantee of only the interest on indebtedness contracted by a public corporation shall be deemed indebtedness in the amount of the commuted value of the total interest guaranteed and remaining unpaid, calculated on the basis of an annual interest rate of four per centum",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s8": {
+  "review": {
+   "plain": "A state agency, city, town, village or public corporation with eminent domain power for this article's purposes may be empowered by the legislature to take more property than needed, and to improve, use, lease or sell the excess.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may be empowered by the legislature to take property necessary for any such purpose but in excess of that required for public use"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any agency of the state or any city, town, village, or public corporation, which is empowered by law to take private property by eminent domain for any of the public purposes specified in section one of this article, may be empowered by the legislature to take property necessary for any such purpose but in excess of that required for public use after such purpose shall have been accomplished; and to improve and utilize such excess, wholly or partly for any other public purpose, or to lease or sell such excess with restrictions to preserve and protect such improvement or improvements",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "which is empowered by law to take private property by eminent domain for any of the public purposes specified in section one of this article"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s9": {
+  "review": {
+   "plain": "Subject to limits set by the legislature, the state or any city, town, village or public corporation may acquire property it deems ultimately necessary or proper for this article's purposes, even if not needed for now.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may acquire by purchase, gift, eminent domain or otherwise, such property"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The state, or any city, town, village or public corporation, may acquire by purchase, gift, eminent domain or otherwise, such property as it may deem ultimately necessary or proper to effectuate the purposes of this article, or any of them, although temporarily not required for such purposes",
+     "holder": "The state, or any city, town, village or public corporation",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Subject to any limitation imposed by the legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a18-s10": {
+  "review": {
+   "plain": "The legislature may make all laws necessary and proper to carry out these powers. The article extends powers rather than adding limits, but does not authorize engaging in private business other than low rent housing for persons of low income or loans to owners of multiple dwellings.",
+   "category": "Social Welfare, Health & Housing",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislature is empowered to make all laws which it shall deem necessary and proper for carrying into execution the foregoing powers"
+   ],
+   "limits": [
+    "nothing in this article contained shall be deemed to authorize or empower the state, or any city, town, village or public corporation to engage in any private business or enterprise"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature is empowered to make all laws which it shall deem necessary and proper for carrying into execution the foregoing powers",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This article shall be construed as extending powers which otherwise might be limited by other articles of this constitution and shall not be construed as imposing additional limitations",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nothing in this article contained shall be deemed to authorize or empower the state, or any city, town, village or public corporation to engage in any private business or enterprise other than the building and operation of low rent dwelling houses for persons of low income as defined by law, or the loaning of money to owners of existing multiple dwellings as herein provided",
+     "holder": null,
+     "binds": "The state, or any city, town, village or public corporation",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than the building and operation of low rent dwelling houses for persons of low income as defined by law, or the loaning of money to owners of existing multiple dwellings as herein provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s1": {
+  "review": {
+   "plain": "Amendments may be proposed in the legislature and go to the attorney-general for an opinion. If passed by majorities of both houses in two successive sessions with an assembly election between, they go to the people; if approved, they take effect the next January first.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "Any amendment or amendments to this constitution may be proposed in the senate and assembly"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "Any amendment or amendments to this constitution may be proposed in the senate and assembly",
+     "holder": "The senate and assembly",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "Such amendment or amendments shall be referred to the attorney-general whose duty it shall be within twenty days thereafter to render an opinion in writing to the senate and assembly as to the effect of such amendment or amendments upon other provisions of the constitution",
+     "holder": null,
+     "binds": "The attorney-general",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If the amendment or amendments shall be agreed to by a majority of the members elected to each of the two houses, such proposed amendment or amendments shall be entered on their journals, and the ayes and noes taken thereon, and referred to the next regular legislative session convening after the succeeding general election of members of the assembly, and shall be published for three months previous to the time of making such choice",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Upon receiving such opinion",
+      "if the amendment or amendments as proposed or as amended shall be agreed to by a majority of the members elected to each of the two houses"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "It shall be the duty of the legislature to submit each proposed amendment or amendments to the people for approval in such manner and at such times as the legislature shall prescribe",
+     "holder": null,
+     "binds": "The legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if in such legislative session, such proposed amendment or amendments shall be agreed to by a majority of all the members elected to each house"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Such amendment or amendments shall become a part of the constitution on the first day of January next after such approval",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if the people shall approve and ratify such amendment or amendments by a majority of the electors voting thereon"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Neither the failure of the attorney-general to render an opinion concerning such a proposed amendment nor his or her failure to do so timely shall affect th* validity of such proposed amendment or legislative action thereon",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a19-s2": {
+  "review": {
+   "plain": "Every twenty years from 1957, and when the legislature provides, voters decide whether to hold a constitutional convention. If approved, delegates are elected, set the convention's rules and officers, and any amendments they adopt go to the voters and take effect the next January first.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The convention shall have the power to appoint such officers, employees and assistants as it may deem necessary"
+   ],
+   "limits": [
+    "no amendment to the constitution shall be submitted for approval to the electors as hereinafter provided, unless by the assent of a majority of all the delegates elected to the convention"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "At the general election to be held in the year nineteen hundred fifty-seven, and every twentieth year thereafter, and also at such times as the legislature may by law provide, the question \"Shall there be a convention to revise the constitution and amend the same?\" shall be submitted to and decided by the electors of the state",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The electors of every senate district of the state, as then organized, shall elect three delegates at the next ensuing general election, and the electors of the state voting at the same election shall elect fifteen delegates-at-large",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in case a majority of the electors voting thereon shall decide in favor of a convention for such purpose"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The delegates so elected shall convene at the capitol on the first Tuesday of April next ensuing after their election, and shall continue their session until the business of such convention shall have been completed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Every delegate shall receive for his or her services the same compensation as shall then be annually payable to the members of the assembly and be reimbursed for actual traveling expenses, while the convention is in session, to the extent that a member of the assembly would then be entitled thereto in the case of a session of the legislature",
+     "holder": "Every delegate",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A majority of the convention shall constitute a quorum for the transaction of business",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No amendment to the constitution shall be submitted for approval to the electors, unless by the assent of a majority of all the delegates elected to the convention, the ayes and noes being entered on the journal to be kept",
+     "holder": null,
+     "binds": "The convention",
+     "requires": [
+      "the ayes and noes being entered on the journal to be kept"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless by the assent of a majority of all the delegates elected to the convention"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The convention shall have the power to appoint such officers, employees and assistants as it may deem necessary, and fix their compensation and to provide for the printing of its documents, journal, proceedings and other expenses of said convention",
+     "holder": "The convention",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The convention shall determine the rules of its own proceedings, choose its own officers, and be the judge of the election, returns and qualifications of its members",
+     "holder": "The convention",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In case of a vacancy of any district delegate, such vacancy shall be filled by a vote of the remaining delegates representing the district in which such vacancy occurs; if such vacancy occurs in the office of a delegate-at-large, such vacancy shall be filled by a vote of the remaining delegates-at-large",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any proposed constitution or constitutional amendment which shall have been adopted by such convention, shall be submitted to a vote of the electors of the state at the time and in the manner provided by such convention, at an election which shall be held not less than six weeks after the adjournment of such convention",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Upon the approval of such constitution or constitutional amendments, in the manner provided in the last preceding section, such constitution or constitutional amendment, shall go into effect on the first day of January next after such approval",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

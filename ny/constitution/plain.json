@@ -1463,5 +1463,961 @@
    "shall not exceed the difference between the amount of the debt or debts heretofore created or authorized by law",
    "in no event to exceed fifteen per centum of the expense of the elimination"
   ]
+ },
+ "a7-s15": {
+  "plain": "The state's existing sinking funds must be kept separately, safely invested and used only to pay their debts. The comptroller appraises them yearly and certifies the contributions needed, which the legislature must appropriate; excess income may go to interest or, once a fund equals its debt, to the general fund.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "the excess income may be applied to the interest on the debt for which the fund was created",
+   "may be applied to the general fund of the state"
+  ],
+  "limits": [
+   "neither of them shall be appropriated or used in any manner other than for such payment and extinguishment",
+   "no further contribution shall be made thereto"
+  ]
+ },
+ "a7-s16": {
+  "plain": "The legislature must appropriate each year for interest, principal and sinking fund contributions on state debts, except debts under section 9. If it fails, the comptroller must set apart and apply the first revenues received, and a bondholder may sue to require this. The comptroller may covenant to end purchasers' further rights once set amounts are deposited.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [
+   "at the suit of any holder of such bonds"
+  ],
+  "powers": [
+   "may covenant with the purchasers of any state obligations"
+  ],
+  "limits": []
+ },
+ "a7-s17": {
+  "plain": "The legislature may set up funds to stabilize state tax revenues. The law must name the taxes and set a yearly norm; revenue above the norm is paid in, and money is paid out only when revenue falls below the norm. A law changing these amounts or the norm takes effect only three years after enactment.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may establish a fund or funds to aid in the stabilization of the tax revenues of the state"
+  ],
+  "limits": [
+   "No moneys shall at any time be withdrawn from such fund unless the revenue derived from such tax or taxes during a fiscal year shall fall below the norm for such year",
+   "No law changing the method of determining a norm"
+  ]
+ },
+ "a7-s18": {
+  "plain": "The legislature may authorize up to four hundred million dollars of state debt, without a vote of the people, to pay a bonus to members of the armed forces who served on active duty between December 7, 1941 and September 2, 1945 and lived in the state six months before service, or to their next of kin.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize by law the creation of a debt or debts of the state"
+  ],
+  "limits": [
+   "The aggregate of the debts authorized by this section shall not exceed four hundred million dollars"
+  ]
+ },
+ "a7-s19": {
+  "plain": "The legislature may authorize up to two hundred fifty million dollars of state debt, without a vote of the people, for state university facilities and real property, and for the state's share of capital costs of locally sponsored institutions of higher education approved and regulated by the state university trustees.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may authorize by law the creation of a debt or debts of the state"
+  ],
+  "limits": []
+ },
+ "a8-s1": {
+  "plain": "Counties, cities, towns, villages and school districts may not give or loan money, property or credit to private parties or own private stock or bonds, but two or more may join to provide a municipal service. Counties, cities and towns may still aid the needy and care for children, and localities may raise police and fire pensions.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "two or more such units may join together pursuant to law in providing any municipal facility, service, activity or undertaking",
+   "may be authorized by the legislature to contract joint or several indebtedness",
+   "making such provision for the aid, care and support of the needy as may be authorized by law",
+   "may be authorized, but shall not be required, by the legislature"
+  ],
+  "limits": [
+   "No county, city, town, village or school district shall give or loan any money or property",
+   "nor shall any county, city, town, village or school district give or loan its credit",
+   "No such payments shall be made for any person cared for by any such institution or agency"
+  ]
+ },
+ "a8-s2": {
+  "plain": "Counties, cities, towns, villages and school districts may borrow only for their own purposes, for no longer than the purpose's probable usefulness and never over forty years. They must pledge their faith and credit, generally repay in annual installments, and appropriate yearly for debt service. Set rules allow sinking fund bonds and longer New York City bonds.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [
+   "at the suit of any holder of obligations issued for any such indebtedness"
+  ],
+  "powers": [
+   "may be refunded within either such period of probable usefulness",
+   "may be financed either by serial bonds with a maximum maturity of fifty years",
+   "may also be financed by sinking fund bonds with a maximum maturity of fifty years"
+  ],
+  "limits": [
+   "shall contract any indebtedness except for county, city, town, village or school district purposes",
+   "in no event for longer than forty years",
+   "No indebtedness shall be contracted by any county, city, town, village or school district"
+  ]
+ },
+ "a8-s2-a": {
+  "plain": "Notwithstanding section one, the legislature may authorize localities and improvement districts to borrow to provide water, sewage and drainage facilities for others or in common. This debt is for a local purpose; water debt under paragraphs A and B is excluded from local debt limits, and joint sewage and drainage debt is allocated and may be excluded by general law.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "to contract indebtedness to provide a supply of water",
+   "to provide for a common supply of water",
+   "to contract indebtedness to provide facilities, in excess of its own needs, for the conveyance, treatment and disposal of sewage",
+   "to provide for the common conveyance, treatment and disposal of sewage",
+   "to contract indebtedness to provide facilities, in excess of its own needs, for drainage purposes",
+   "to provide for a common drainage system",
+   "may be excluded periodically in ascertaining the power of such county, city, town or village to contract indebtedness",
+   "The legislature may provide that any allocation of indebtedness"
+  ],
+  "limits": [
+   "The amount of any such exclusion shall have a reasonable relation"
+  ]
+ },
+ "a8-s3": {
+  "plain": "No new corporation, other than listed local units and districts, may be created with power both to borrow and to tax or assess real estate, but counties and towns may create improvement districts if they pledge their credit for district debt. Existing such corporations need local consent to borrow, and their debt counts toward local limits.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "nothing herein shall prevent the creation of improvement districts in counties and towns"
+  ],
+  "limits": [
+   "shall hereafter be established or created",
+   "No such corporation now existing shall hereafter contract any indebtedness without the consent"
+  ]
+ },
+ "a8-s4": {
+  "plain": "Unless the constitution provides otherwise, a county, city, town or village may not borrow, counting existing debt, beyond a set percentage of the average full valuation of its taxable real estate: ten percent for Nassau County and New York City, nine for cities of 125,000 or more, and seven for all others. Debt beyond these limits is void.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no county, city, town or village described in this section shall be allowed to contract indebtedness",
+   "any indebtedness contracted in excess of the respective limitations prescribed in this section shall be void"
+  ]
+ },
+ "a8-s5": {
+  "plain": "In working out how much a county, city, town or village may borrow, certain debt is left out: short-term notes and notes issued in anticipation of taxes or revenues, water supply debt, debt for public improvements or services in proportion to their net revenue, bonds to fund pension systems, and certain sewage facility debt.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the legislature may provide that net revenue shall be determined",
+   "The legislature may provide that the state comptroller shall make such determination",
+   "may confer appropriate jurisdiction on the appellate division of the supreme court"
+  ],
+  "limits": [
+   "shall not exceed seventy-five per centum of the amount which would be excluded",
+   "no proportionate amount of such indebtedness shall be excluded except in accordance with such determination",
+   "Such bonds shall not exceed in the aggregate an amount sufficient to provide for the payment of the liabilities of such system or fund",
+   "no such indebtedness shall be excluded except in accordance with such determination"
+  ]
+ },
+ "a8-s6": {
+  "plain": "In working out how much Buffalo, Rochester and Syracuse may borrow, besides the debt excluded by section 5, they also leave out debt, up to ten million dollars for Buffalo or Rochester and five million for Syracuse, for the part of a public improvement's cost that local law requires to be raised by assessment on local property.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a8-s7": {
+  "plain": "In working out how much New York City may borrow, besides the debt excluded by section five, it also leaves out: dock debt from before 1910 to the extent dock revenues cover it, capped amounts of rapid transit and hospital debt contracted after set dates, and school bonds to the extent state aid for common schools pays them.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court in the first judicial department",
+   "Such law may provide that any such determination shall be conclusive"
+  ],
+  "limits": [
+   "no such indebtedness shall be excluded except in accordance with such determination",
+   "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+   "such indebtedness shall not be excluded hereunder except in accordance with the determination so prescribed"
+  ]
+ },
+ "a8-s7-a": {
+  "plain": "New York City also leaves out of its debt limit up to three hundred fifteen million dollars of debt to acquire railroads and related facilities, rights and securities, which it may pay with its obligations to the owners and security holders, and other transit debt to the extent net transit revenue, after set deductions, covers it.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the city is hereby authorized to contract indebtedness for such purposes and to deliver its obligations evidencing such indebtedness",
+   "The legislature may confer appropriate jurisdiction on the appellate division"
+  ],
+  "limits": [
+   "Any indebtedness thereafter contracted in excess of such sum for such purposes shall not be so excluded",
+   "no indebtedness shall be excluded except in accordance with the determination so prescribed"
+  ]
+ },
+ "a8-s8": {
+  "plain": "Debt of a county, city, town, village or school district that was valid when it began does not later become invalid because of any provision of this article.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall thereafter become invalid by reason of the operation of any of the provisions of this article"
+  ]
+ },
+ "a8-s9": {
+  "plain": "When a city's boundaries are the same as a county's, or a city includes more than one county, any county wholly inside the city loses its power to borrow, and that county's debt is not counted as city debt for this article.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "the power of any county wholly included within such city to contract indebtedness shall cease"
+  ]
+ },
+ "a8-s10": {
+  "plain": "Local real estate taxes, apart from debt service, may not exceed yearly set percentages of the average full valuation of taxable real estate: one and one-half percent for counties (up to two if the legislature provides), two for cities and villages, and two and one-half for New York City and its counties combined.",
+  "category": "Local Government",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "the legislature may prescribe a method by which such limitation may be increased to not to exceed two per centum"
+  ],
+  "limits": [
+   "shall not exceed an amount equal to the following percentages of the average full valuation of taxable real estate"
+  ]
+ },
+ "a8-s10-a": {
+  "plain": "For the section ten tax limit, revenue a county, city or village gets from a public improvement or service financed by bonds or capital notes issued after January 1, 1950 goes first to operating, maintenance and repair costs, then to that year's debt service. Excess revenue may be used for any lawful local purpose; water supply improvements are excepted.",
+  "category": "Local Government",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "shall not prohibit the use of excess revenues for any lawful county, city or village purpose"
+  ],
+  "limits": []
+ },
+ "a8-s11": {
+  "plain": "New York City may exclude from its real estate tax limit taxes for capital improvements paid by direct appropriation or by short-term notes; that amount is then treated as debt. Taxes that certain other localities in or near cities under 125,000 appropriate for such costs are excluded from the limit unless the legislature provides otherwise.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be excluded in whole or in part by such city from the tax limitation prescribed by section ten of this article",
+   "may provide that such determination, if approved by the state comptroller, shall be conclusive"
+  ],
+  "limits": []
+ },
+ "a8-s12": {
+  "plain": "The legislature must restrict the taxing, assessing, borrowing and credit-lending powers of counties, cities, towns and villages to prevent abuses. It may further restrict local borrowing and real estate taxes, but may not restrict real estate taxes levied to pay debt already contracted.",
+  "category": "Local Government",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "Nothing in this article shall be construed to prevent the legislature from further restricting the powers herein specified"
+  ],
+  "limits": [
+   "The legislature shall not, however, restrict the power to levy taxes on real estate"
+  ]
+ },
+ "a9-s1": {
+  "plain": "Local governments have these rights and powers besides those granted elsewhere: an elected legislative body, power to adopt local laws, cooperative agreements, consent before annexation, eminent domain, fair returns on utilities, cost apportionment, and, for counties, alternative forms of county government approved on referendum.",
+  "category": "Local Government",
+  "kind": "Right",
+  "rights": [
+   "shall have a legislative body elective by the people thereof",
+   "shall be elected by the people of the local government"
+  ],
+  "powers": [
+   "shall have power to adopt local laws as provided by this article",
+   "Local governments shall have power to agree",
+   "shall have power to take by eminent domain private property within their boundaries for public use",
+   "shall have power to apportion its cost of a governmental service or function upon any portion of its area",
+   "to adopt, amend or repeal alternative forms of county government"
+  ],
+  "limits": [
+   "No local government or any part of the territory thereof shall be annexed to another",
+   "No local government shall be prohibited by the legislature"
+  ]
+ },
+ "a9-s2": {
+  "plain": "The legislature must organize local governments to secure their constitutional rights, enact a statute of local governments, and act on local property, affairs or government only by general law or by special law on local request or emergency certificate. Local governments may adopt local laws on listed subjects.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "Shall have the power to confer on local governments powers not relating to their property, affairs or government",
+   "shall have power to adopt and amend local laws not inconsistent with the provisions of this constitution or any general law relating to its property, affairs or government"
+  ],
+  "limits": [
+   "Shall have the power to act in relation to the property, affairs or government of any local government only by general law",
+   "shall not have power to adopt local laws which impair the powers of any other local government"
+  ]
+ },
+ "a9-s3": {
+  "plain": "Unless expressly provided, this article does not restrict the legislature's power over the public school system, the courts, or matters other than local property, affairs or government. Existing laws continue until changed, local government powers are liberally construed, and four terms are defined.",
+  "category": "Local Government",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "nothing in this article shall restrict or impair any power of the legislature in relation to:",
+   "shall not affect any existing valid provisions of acts of the legislature or of local legislation"
+  ]
+ },
+ "a10-s1": {
+  "plain": "Corporations may be formed under general laws but not created by special act, except for municipal purposes or where the legislature judges general laws cannot attain their objects. Such laws and acts may be altered or repealed.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "Corporations may be formed under general laws",
+   "may be altered from time to time or repealed"
+  ],
+  "limits": [
+   "shall not be created by special act"
+  ]
+ },
+ "a10-s2": {
+  "plain": "Debts owed by corporations must be secured by individual liability of the corporators and other means prescribed by law.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a10-s3": {
+  "plain": "The legislature must, by general law, give all savings bank and savings institution charters uniform powers, rights and liabilities. It may not grant any special charter for banking purposes, but banking corporations may be formed under general laws.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "corporations or associations may be formed for such purposes under general laws"
+  ],
+  "limits": [
+   "shall have no power to pass any act granting any special charter for banking purposes"
+  ]
+ },
+ "a10-s4": {
+  "plain": "For sections 1 to 4 of this article, corporations include associations and joint-stock companies with corporate powers or privileges not possessed by individuals or partnerships. All corporations may sue and be sued in all courts like natural persons.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [
+   "shall have the right to sue"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a10-s5": {
+  "plain": "Public corporations that can both borrow and collect charges may be created only by special act. Some need city voter approval to charge city property owners. Their accounts are supervised by a comptroller, and neither the state nor its subdivisions is liable for their obligations.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may, if authorized by the legislature, acquire the properties of any such corporation and pay the indebtedness thereof"
+  ],
+  "limits": [
+   "shall hereafter be created except by special act of the legislature",
+   "unless the electors of the city shall approve",
+   "shall at any time be liable for the payment of any obligations issued by such a public corporation"
+  ]
+ },
+ "a10-s6": {
+  "plain": "Notwithstanding the rest of the constitution, the legislature may by law, without a popular vote, make the state liable for up to five hundred million dollars of bonds of a public corporation building state thruways, and authorize its use of state canal lands and properties.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may by law, which shall take effect without submission to the people",
+   "make or authorize making the state liable for the payment of the principal of and interest on bonds of a public corporation created to construct state thruways",
+   "authorize the use of any state canal lands and properties by such a public corporation"
+  ],
+  "limits": []
+ },
+ "a10-s7": {
+  "plain": "Notwithstanding the rest of the constitution, the legislature may by law, without a popular vote, make the state liable for up to one hundred million dollars of port of New York authority obligations for railroad passenger cars leased to commuter railroads, due within thirty-five years.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "make or authorize making the state liable for the payment of the principal of and interest on obligations of the port of New York authority"
+  ],
+  "limits": [
+   "shall not exceed one hundred million dollars at any time"
+  ]
+ },
+ "a10-s8": {
+  "plain": "Notwithstanding the rest of the constitution, the legislature may by law, without a popular vote, make the state liable for bonds and notes of a public corporation financing industrial or manufacturing plants under section eight of article seven, up to nine hundred million dollars at any one time.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "make or authorize making the state liable for the payment of the principal of and interest on bonds of a public corporation"
+  ],
+  "limits": [
+   "shall not at any one time exceed nine hundred million dollars"
+  ]
+ },
+ "a11-s1": {
+  "plain": "The legislature must maintain and support a system of free common schools where all the children of the state may be educated.",
+  "category": "Education",
+  "kind": "Duty",
+  "rights": [
+   "wherein all the children of this state may be educated"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a11-s2": {
+  "plain": "The corporation created in 1784 as The Regents of the University of the State of New York continues as The University of the State of New York, governed by at least nine regents. The legislature may increase, modify or diminish its corporate powers.",
+  "category": "Education",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "which may be increased, modified or diminished by the legislature"
+  ],
+  "limits": []
+ },
+ "a11-s3": {
+  "plain": "The state and its subdivisions may not use or allow use of their property, credit or public money to aid any school controlled by a religious denomination or teaching denominational doctrine, except for examination or inspection. The legislature may provide transportation of children to and from any school.",
+  "category": "Education",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "the legislature may provide for the transportation of children to and from any school or institution of learning"
+  ],
+  "limits": [
+   "shall use its property or credit or any public money, or authorize or permit either to be used, directly or indirectly, in aid or maintenance"
+  ]
+ },
+ "a12-s1": {
+  "plain": "All persons within the state are obliged to defend and protect the state and the United States. The legislature must provide for discharging this obligation and for maintaining and regulating an organized militia.",
+  "category": "Military & Defense",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s1": {
+  "plain": "Legislators and executive and judicial officers must take the prescribed oath to support both constitutions and faithfully discharge their duties. No other oath or test may be required for public office, though party committees and conventions may provide by rule for equal representation of the sexes on party committees.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may, by rule, provide for equal representation of the sexes on any such committee",
+   "may, by rule, provide for equal representation of the sexes on any committee of such party"
+  ],
+  "limits": [
+   "no other oath, declaration or test shall be required as a qualification for any office of public trust"
+  ]
+ },
+ "a13-s2": {
+  "plain": "When the constitution does not set the length of an office, it may be declared by law; otherwise the office is held at the pleasure of the appointing authority.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "it may be declared by law"
+  ],
+  "limits": []
+ },
+ "a13-s3": {
+  "plain": "The legislature must provide for filling vacancies. A person appointed to an elective office serves only until the political year after the next annual election, but boards of education vacancies may be filled until the next regular school district election.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no person appointed to fill a vacancy shall hold his or her office by virtue of such appointment longer than the commencement of the political year next succeeding the first annual election after the happening of the vacancy"
+  ]
+ },
+ "a13-s4": {
+  "plain": "The political year and legislative term begin on January 1, and the legislature must assemble every year on the first Wednesday after the first Monday in January.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s5": {
+  "plain": "The law must provide for removing for misconduct or malversation in office all non-judicial officers elected at general elections whose powers and duties are not local or legislative, and for filling the resulting vacancies.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s6": {
+  "plain": "The legislature may declare when any office shall be deemed vacant, where this constitution makes no provision for that purpose.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may declare the cases in which any office shall be deemed vacant"
+  ],
+  "limits": []
+ },
+ "a13-s7": {
+  "plain": "State officers named in this constitution receive a compensation fixed by law, which shall not be increased or diminished during their term, and they may not receive any fees, perquisites of office or other compensation.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "which shall not be increased or diminished during the term for which he or she shall have been elected or appointed",
+   "nor shall he or she receive to his or her use any fees or perquisites of office or other compensation"
+  ]
+ },
+ "a13-s8": {
+  "plain": "Elections of city officers, including supervisors, and of county officers in a county wholly included in a city are held on the Tuesday after the first Monday in November in an odd-numbered year, and their terms end at the end of an odd-numbered year. Judicial officers are excluded.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a13-s13": {
+  "plain": "Registers, sheriffs, county clerks and district attorneys are chosen by the electors; the governor may remove them after charges and a hearing, and must remove a district attorney who fails to prosecute violations of this article. New York City may abolish certain county offices by local law.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The governor may remove any elective sheriff, county clerk, district attorney or register within the term for which he or she shall have been elected",
+   "shall have power to select, draw, summon and empanel grand and petit jurors",
+   "The city of New York is hereby vested with power from time to time to abolish by local law"
+  ],
+  "limits": [
+   "Sheriffs shall hold no other office",
+   "The legislature shall not pass any law affecting any such matters in relation to such offices within the city of New York"
+  ]
+ },
+ "a13-s14": {
+  "plain": "The legislature may regulate and fix the wages, salaries and hours of work, and provide for the protection, welfare and safety, of public employees and of persons employed by contractors or subcontractors working for the state or its civil divisions.",
+  "category": "Public Officers & Civil Service",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may regulate and fix the wages or salaries and the hours of work or labor",
+   "make provisions for the protection, welfare and safety"
+  ],
+  "limits": []
+ },
+ "a14-s1": {
+  "plain": "The forest preserve shall be forever kept as wild forest lands and may not be leased, sold, exchanged or taken, nor its timber sold, removed or destroyed, except for listed highways, ski trails, land exchanges, a health and safety land account and Nordic skiing trails.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "the state may convey to the village of Saranac Lake ten acres of forest preserve land",
+   "the state may convey to the town of Arietta twenty-eight acres of forest preserve land",
+   "may convey to International Paper Company approximately eight thousand five hundred acres of forest preserve land",
+   "may convey to Sagamore Institute Inc., a not-for-profit educational organization, approximately ten acres of land and buildings",
+   "the state may convey to the town of Arietta fifty acres of forest preserve land",
+   "the state may convey to the town of Keene, Essex county, for public use as a cemetery owned by such town, approximately twelve acres of forest preserve land",
+   "the state may convey to the town of Long Lake, Hamilton county, one acre of forest preserve land",
+   "the state may convey to National Grid up to six acres adjoining State Route 56",
+   "the legislature may authorize the settlement",
+   "the state may authorize NYCO Minerals, Inc. to engage in mineral sampling operations",
+   "the state may subsequently convey said lot 8 to NYCO Minerals, Inc.",
+   "a town, village or county may apply, pursuant to a process determined by the legislature, to the health and safety land account",
+   "is authorized on one thousand thirty-nine acres of forest preserve lands at the Mount Van Hoevenberg Olympic Sports Complex"
+  ],
+  "limits": [
+   "shall be forever kept as wild forest lands",
+   "They shall not be leased, sold or exchanged, or be taken by any corporation, public or private",
+   "nor shall the timber thereon be sold, removed or destroyed"
+  ]
+ },
+ "a14-s2": {
+  "plain": "The legislature may by general laws allow up to three per centum of forest preserve lands to be used for state-owned reservoirs for municipal water supply and for the canals, after survey, notice and hearing; benefited property pays the expense and a reasonable return to the state.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may by general laws provide for the use of not exceeding three per centum of such lands"
+  ],
+  "limits": [
+   "such work shall not be undertaken until after the boundaries and high flow lines thereof shall have been accurately surveyed and fixed",
+   "Unsanitary conditions shall not be created or continued by any such public works"
+  ]
+ },
+ "a14-s3": {
+  "plain": "Forest and wild life conservation are state policies; the legislature may buy land outside the Adirondack and Catskill parks for them, and may authorize dedication, use or sale of small separated forest preserve parcels outside the parks, with sale moneys used only to buy more preserve land in the parks.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may appropriate moneys for the acquisition by the state of land",
+   "the legislature may by appropriate legislation, notwithstanding the provisions of section one of this article, authorize"
+  ],
+  "limits": [
+   "except that such lands shall not be leased, sold or exchanged, or be taken by any corporation, public or private",
+   "be expended only for the acquisition of additional lands for such forest preserve"
+  ]
+ },
+ "a14-s4": {
+  "plain": "The state's policy is to conserve natural resources and scenic beauty and encourage agricultural development; the legislature must provide for pollution and noise abatement, protection of lands and water resources, and a state nature and historical preserve that may be disposed of only by two successive sessions.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "they shall not be taken or otherwise disposed of except by law enacted by two successive regular sessions of the legislature"
+  ]
+ },
+ "a14-s5": {
+  "plain": "A violation of this article may be restrained at the suit of the people or, with the consent of the supreme court in appellate division and on notice to the attorney-general, at the suit of any citizen.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Right",
+  "rights": [
+   "may be restrained at the suit of the people",
+   "at the suit of any citizen"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a14-s6": {
+  "plain": "Where listed highways cross forest preserve land, utility lines may be buried or co-located and bicycle paths built within the highway widths as set by law, minimizing tree removal and excluding certain new natural gas or oil pipelines.",
+  "category": "Conservation & Natural Resources",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "be buried or co-located within the widths of such highways",
+   "be constructed and maintained within the widths of such highways"
+  ],
+  "limits": [
+   "shall minimize the removal of trees or vegetation",
+   "shall not include the construction of any new intrastate natural gas or oil pipelines"
+  ]
+ },
+ "a15-s1": {
+  "plain": "The legislature shall not sell, abandon or otherwise dispose of the barge canal, its terminals, or older canal parts that function as part of it; they remain state property forever, though the legislature may authorize revocable permits or leases.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "authorizing the granting of revocable permits or leases"
+  ],
+  "limits": [
+   "The legislature shall not sell, abandon or otherwise dispose of the now existing or future improved barge canal",
+   "nor shall it sell, abandon or otherwise dispose of any portion of the canal system existing prior to the barge canal improvement"
+  ]
+ },
+ "a15-s2": {
+  "plain": "The ban on disposing of canals does not apply to canal lands, terminals and structures no longer necessary or useful for canal purposes, and the legislature may authorize their sale, exchange, abandonment or other disposition.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may by appropriate legislation authorize the sale, exchange, abandonment or other disposition"
+  ],
+  "limits": []
+ },
+ "a15-s3": {
+  "plain": "Canal boats follow canal laws; the legislature must fund canal superintendence and repairs yearly and may improve the canals; contracts go to the lowest responsible price; canal sale and other canal funds go into a special revenue fund spent only on the canal.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may provide for the improvement of the canals"
+  ],
+  "limits": [
+   "Such funds shall only be expended for the maintenance, construction, reconstruction, development or promotion of the canal"
+  ]
+ },
+ "a15-s4": {
+  "plain": "Despite the ban on disposing of canals, the legislature may authorize leasing or transferring the barge canal to the federal government, with or without compensation, may still fund the state's share of costs, and must weigh flood control and water resource benefits in setting that share.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may authorize by law the lease or transfer to the federal government of the barge canal",
+   "providing annual appropriations for the state's share"
+  ],
+  "limits": []
+ },
+ "a16-s1": {
+  "plain": "The power of taxation shall never be surrendered, suspended or contracted away, except as to public securities. Laws delegating taxing power must specify the taxes and provide for review. Exemptions come only by general laws, and religious, educational or charitable property exemptions may not be altered or repealed.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "The power of taxation shall never be surrendered, suspended or contracted away",
+   "Exemptions from taxation may be granted only by general laws"
+  ]
+ },
+ "a16-s2": {
+  "plain": "The legislature shall provide for supervising, reviewing and equalizing tax assessments, which shall never exceed full value. It may provide for village taxes to be collected by other taxing authorities and for counties to advance unpaid village taxes to villages.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Assessments shall in no case exceed full value"
+  ]
+ },
+ "a16-s3": {
+  "plain": "Intangible personal property not used in business is deemed located at the owner's domicile for taxation; trust property is not located here just because the trustee is, except for death taxation in some cases. Intangibles shall not be taxed ad valorem or by ownership excise, and undistributed profits shall not be taxed.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Intangible personal property shall not be taxed ad valorem",
+   "nor shall any excise tax be levied solely because of the ownership or possession thereof",
+   "Undistributed profits shall not be taxed"
+  ]
+ },
+ "a16-s4": {
+  "plain": "Where the state has power to tax corporations incorporated under the laws of the United States, it shall not discriminate in tax rates and method between them and similar corporations doing similar business in the state.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "there shall be no discrimination in the rates and method of taxation"
+  ]
+ },
+ "a16-s5": {
+  "plain": "All salaries, wages and other compensation, except pensions, paid to officers and employees of the state and its subdivisions and agencies shall be subject to taxation.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a16-s6": {
+  "plain": "Notwithstanding any other provision of the constitution, the legislature may authorize a county, city, town or village to undertake public improvements to redevelop blighted areas and contract indebtedness for it, without pledging faith and credit, and must pledge the resulting increase in real estate taxes.",
+  "category": "Local Government",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may by law authorize a county, city, town or village, or combination thereof acting together, to undertake the development of public improvements or services",
+   "The legislature may further authorize any county, city, town or village, or combination thereof acting together, to carry out the powers and duties conferred by this section by means of a public corporation"
+  ],
+  "limits": [
+   "without the pledge of its faith and credit, or the faith and credit of the state"
+  ]
+ },
+ "a17-s1": {
+  "plain": "The aid, care and support of the needy are public concerns and shall be provided by the state and its subdivisions, in the manner and by the means the legislature determines.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a17-s2": {
+  "plain": "The state board of social welfare continues. It must visit and inspect charitable, correctional and similar institutions receiving public funds, inspect such institutions without public funds on health, safety, treatment and training, and may make rules subject to the legislature.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "the state board of social welfare may make rules and regulations"
+  ],
+  "limits": []
+ },
+ "a17-s3": {
+  "plain": "The protection and promotion of the health of the state's inhabitants are matters of public concern, and the state and its subdivisions shall provide for them as the legislature determines.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a17-s4": {
+  "plain": "State and local authorities may provide care and treatment of persons suffering from mental disorder or defect, as the legislature determines. The head of the department of mental hygiene shall visit and inspect all institutions used for such care.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be provided by state and local authorities"
+  ],
+  "limits": []
+ },
+ "a17-s5": {
+  "plain": "The legislature may provide for institutions to detain persons charged with or convicted of crime and for probation and parole. A state commission of correction shall visit and inspect all institutions detaining sane adults charged with or convicted of crime.",
+  "category": "Criminal Justice",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature may provide for the maintenance and support of institutions for the detention of persons charged with or convicted of crime and for systems of probation and parole"
+  ],
+  "limits": []
+ },
+ "a17-s6": {
+  "plain": "Visitation and inspection authorized in this article do not exclude other visitation and inspection authorized by law now or later.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a17-s7": {
+  "plain": "Notwithstanding any other provision, the legislature may authorize the state, a municipality or a public corporation to lend money or credit to regulated corporations or associations to provide hospital or other facilities for treating human disease and related conditions.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may authorize the state, a municipality or a public corporation acting as an instrumentality of the state or municipality to lend its money or credit"
+  ],
+  "limits": []
+ },
+ "a18-s1": {
+  "plain": "Subject to this article, the legislature may provide for low rent housing and nursing home accommodations for persons of low income, for clearing and rebuilding substandard and insanitary areas, and for related recreational and other facilities.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may provide in such manner, by such means and upon such terms and conditions as it may prescribe for low rent housing and nursing home accommodations for persons of low income"
+  ],
+  "limits": []
+ },
+ "a18-s2": {
+  "plain": "For housing and slum clearance purposes, the legislature may make or authorize state and local subsidies, loans and guarantees, grant tax exemptions of up to sixty years, accept federal aid, and grant eminent domain. The section defines \"public corporation\".",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "make or contract to make or authorize to be made or contracted capital or periodic subsidies by the state",
+   "grant or authorize tax exemptions in whole or in part",
+   "authorize cooperation with and the acceptance of aid from the United States",
+   "grant the power of eminent domain"
+  ],
+  "limits": [
+   "no such exemption may be granted or authorized for a period of more than sixty years"
+  ]
+ },
+ "a18-s3": {
+  "plain": "Article VII's rules on state debts apply to state debts for loans under this article, with exceptions on submission to the people and repayment. Laws for subsidy contracts take effect without a popular vote, subject to time and dollar limits unless the people approve.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "the contracting of a greater amount of debt may not be authorized prior to January first, nineteen hundred forty-two",
+   "such periodic subsidies shall not be paid for a period longer than the life of the projects assisted thereby",
+   "no contracts for periodic subsidies shall be entered into in any one year requiring payments aggregating more than one million dollars",
+   "there shall not be outstanding at any one time contracts for periodic subsidies requiring payments exceeding an aggregate of thirty-four million dollars"
+  ]
+ },
+ "a18-s4": {
+  "plain": "The legislature may let a city, town or village borrow for this article's purposes up to two percent of its average assessed real estate valuation. Self-supporting project debt may be excluded from debt limits; subsidy contracts count as debt; and larger places exceeding other limits must levy a non-real-estate tax.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the legislature may authorize any city, town or village to contract indebtedness",
+   "The legislature may confer appropriate jurisdiction on the appellate division of the supreme court"
+  ],
+  "limits": [
+   "no such indebtedness shall be excluded except in accordance with such determination",
+   "Such periodic subsidies shall not be contracted for a period longer than the life of the projects assisted thereby",
+   "the legislature shall not authorize any city or village having a population of five thousand or more to contract indebtedness hereunder in excess of the limitations prescribed by any other article of this constitution"
+  ]
+ },
+ "a18-s5": {
+  "plain": "A city, town or village is liable for state loans to a public corporation acting as its instrumentality; that liability is excluded from its debt limit unless there is a default. The state may pay no added subsidy to remedy or avoid a default on such a loan.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No subsidy, in addition to any capital or periodic subsidy originally contracted for in aid of any project or projects authorized under this article, shall be paid by the state"
+  ]
+ },
+ "a18-s6": {
+  "plain": "The state may make no loan or subsidy for a project unless it conforms to a plan for clearing and rebuilding substandard areas. The legislature may add conditions. Occupancy is restricted to persons of low income, with preference to those who live or lived in the area.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The legislature may provide additional conditions to the making of such loans or subsidies"
+  ],
+  "limits": [
+   "No loan, or subsidy shall be made by the state to aid any project unless such project is in conformity with a plan or undertaking",
+   "The occupancy of any such project shall be restricted to persons of low income"
+  ]
+ },
+ "a18-s7": {
+  "plain": "A guarantee of a public corporation's principal and interest counts as debt equal to the unpaid principal; a guarantee of interest only counts as debt equal to the commuted value of the unpaid interest, at a four percent annual rate.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a18-s8": {
+  "plain": "A state agency, city, town, village or public corporation with eminent domain power for this article's purposes may be empowered by the legislature to take more property than needed, and to improve, use, lease or sell the excess.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may be empowered by the legislature to take property necessary for any such purpose but in excess of that required for public use"
+  ],
+  "limits": []
+ },
+ "a18-s9": {
+  "plain": "Subject to limits set by the legislature, the state or any city, town, village or public corporation may acquire property it deems ultimately necessary or proper for this article's purposes, even if not needed for now.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may acquire by purchase, gift, eminent domain or otherwise, such property"
+  ],
+  "limits": []
+ },
+ "a18-s10": {
+  "plain": "The legislature may make all laws necessary and proper to carry out these powers. The article extends powers rather than adding limits, but does not authorize engaging in private business other than low rent housing for persons of low income or loans to owners of multiple dwellings.",
+  "category": "Social Welfare, Health & Housing",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislature is empowered to make all laws which it shall deem necessary and proper for carrying into execution the foregoing powers"
+  ],
+  "limits": [
+   "nothing in this article contained shall be deemed to authorize or empower the state, or any city, town, village or public corporation to engage in any private business or enterprise"
+  ]
+ },
+ "a19-s1": {
+  "plain": "Amendments may be proposed in the legislature and go to the attorney-general for an opinion. If passed by majorities of both houses in two successive sessions with an assembly election between, they go to the people; if approved, they take effect the next January first.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "Any amendment or amendments to this constitution may be proposed in the senate and assembly"
+  ],
+  "limits": []
+ },
+ "a19-s2": {
+  "plain": "Every twenty years from 1957, and when the legislature provides, voters decide whether to hold a constitutional convention. If approved, delegates are elected, set the convention's rules and officers, and any amendments they adopt go to the voters and take effect the next January first.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The convention shall have the power to appoint such officers, employees and assistants as it may deem necessary"
+  ],
+  "limits": [
+   "no amendment to the constitution shall be submitted for approval to the electors as hereinafter provided, unless by the assent of a majority of all the delegates elected to the convention"
+  ]
+ },
+ "a19-s3": {
+  "plain": "When a constitutional convention and the legislature each propose an amendment on the same subject and both are submitted to the people at the same time, the convention's amendment, if approved, supersedes the legislature's.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a20-s1": {
+  "plain": "This constitution is in force from and including January 1, 1939, except as it otherwise provides.",
+  "category": "Amending & Ratifying",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
  }
 }

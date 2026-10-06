@@ -1,0 +1,56 @@
+{
+ "a19-s3": {
+  "review": {
+   "plain": "When a constitutional convention and the legislature each propose an amendment on the same subject and both are submitted to the people at the same time, the convention's amendment, if approved, supersedes the legislature's.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Any amendment proposed by a constitutional convention relating to the same subject as an amendment proposed by the legislature, coincidently submitted to the people for approval shall, if approved, be deemed to supersede the amendment so proposed by the legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": ["if approved"],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a20-s1": {
+  "review": {
+   "plain": "This constitution is in force from and including January 1, 1939, except as it otherwise provides.",
+   "category": "Amending & Ratifying",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This constitution shall be in force from and including the first day of January, one thousand nine hundred thirty-nine",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": ["except as herein otherwise provided"],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}
