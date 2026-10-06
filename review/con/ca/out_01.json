@@ -1,0 +1,1473 @@
+{
+ "preamble": {
+  "review": {
+   "title": "Purpose of the Constitution",
+   "plain": "The People of the State of California, grateful to Almighty God for their freedom, establish this Constitution to secure and perpetuate its blessings.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "We, the People of the State of California, grateful to Almighty God for our freedom, in order to secure and perpetuate its blessings, do establish this Constitution",
+     "holder": "The People of the State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s1": {
+  "review": {
+   "title": "Inalienable rights",
+   "plain": "All people are by nature free and independent and have inalienable rights, among them enjoying and defending life and liberty, acquiring, possessing, and protecting property, and pursuing and obtaining safety, happiness, and privacy.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "inalienable rights",
+    "enjoying and defending life and liberty",
+    "acquiring, possessing, and protecting property",
+    "pursuing and obtaining safety, happiness, and privacy"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "All people are by nature free and independent and have inalienable rights",
+     "holder": "All people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Enjoying and defending life and liberty",
+     "holder": "All people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Acquiring, possessing, and protecting property",
+     "holder": "All people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Pursuing and obtaining safety, happiness, and privacy",
+     "holder": "All people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s1.1": {
+  "review": {
+   "title": "Reproductive freedom",
+   "plain": "The state shall not deny or interfere with an individual's reproductive freedom in their most intimate decisions, including the fundamental right to choose to have an abortion and to choose or refuse contraceptives.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "reproductive freedom in their most intimate decisions",
+    "fundamental right to choose to have an abortion",
+    "fundamental right to choose or refuse contraceptives"
+   ],
+   "powers": [],
+   "limits": [
+    "The state shall not deny or interfere with"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives",
+     "holder": "An individual",
+     "binds": "The state",
+     "requires": [],
+     "forbids": [
+      "Denying or interfering with an individual’s reproductive freedom in their most intimate decisions"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s2": {
+  "review": {
+   "title": "Freedom of speech and press; news sources",
+   "plain": "Every person may freely speak, write and publish on all subjects, being responsible for abuse of this right, and no law may restrain speech or press. News reporters and others may not be held in contempt for refusing to disclose sources or unpublished information.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "freely speak, write and publish his or her sentiments on all subjects"
+   ],
+   "powers": [],
+   "limits": [
+    "A law may not restrain or abridge liberty of speech or press",
+    "shall not be adjudged in contempt",
+    "be so adjudged in contempt"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "right",
+     "what": "Every person may freely speak, write and publish his or her sentiments on all subjects",
+     "holder": "Every person",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "being responsible for the abuse of this right"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "A law may not restrain or abridge liberty of speech or press",
+     "holder": null,
+     "binds": "A law",
+     "requires": [],
+     "forbids": [
+      "Restraining or abridging liberty of speech or press"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A publisher, editor, reporter, or other person connected with or employed upon a newspaper, magazine, or other periodical publication, or by a press association or wire service, or any person who has been so connected or employed, shall not be adjudged in contempt for refusing to disclose the source of any information procured while so connected or employed for publication, or for refusing to disclose any unpublished information",
+     "holder": "A publisher, editor, reporter, or other person connected with or employed upon a newspaper, magazine, or other periodical publication, or by a press association or wire service",
+     "binds": "A judicial, legislative, or administrative body, or any other body having the power to issue subpoenas",
+     "requires": [],
+     "forbids": [
+      "Adjudging in contempt for refusing to disclose the source of any information procured while so connected or employed for publication in a newspaper, magazine or other periodical publication",
+      "Adjudging in contempt for refusing to disclose any unpublished information obtained or prepared in gathering, receiving or processing of information for communication to the public"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"unpublished information\": includes information not disseminated to the public by the person from whom disclosure is sought, whether or not related information has been disseminated and includes, but is not limited to, all notes, outtakes, photographs, tapes or other data of whatever sort not itself disseminated to the public through a medium of communication, whether or not published information based upon or related to such material has been disseminated"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Nor shall a radio or television news reporter or other person connected with or employed by a radio or television station, or any person who has been so connected or employed, be so adjudged in contempt for refusing to disclose the source of any information or any unpublished information",
+     "holder": "A radio or television news reporter or other person connected with or employed by a radio or television station",
+     "binds": "A judicial, legislative, or administrative body, or any other body having the power to issue subpoenas",
+     "requires": [],
+     "forbids": [
+      "Adjudging in contempt for refusing to disclose the source of any information procured while so connected or employed for news or news commentary purposes on radio or television",
+      "Adjudging in contempt for refusing to disclose any unpublished information obtained or prepared in gathering, receiving or processing of information for communication to the public"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s3": {
+  "review": {
+   "title": "Petition, assembly and public access to information",
+   "plain": "The people have the right to instruct their representatives, petition government, and assemble freely, and the right of access to information about the people's business; meetings of public bodies and writings of public officials and agencies shall be open to public scrutiny.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "to instruct their representatives",
+    "petition government for redress of grievances",
+    "assemble freely to consult for the common good",
+    "the right of access to information concerning the conduct of the people’s business"
+   ],
+   "powers": [],
+   "limits": [
+    "shall be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "right",
+     "what": "The people have the right to instruct their representatives, petition government for redress of grievances, and assemble freely to consult for the common good",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "right",
+     "what": "The people have the right of access to information concerning the conduct of the people’s business, and, therefore, the meetings of public bodies and the writings of public officials and agencies shall be open to public scrutiny",
+     "holder": "The people",
+     "binds": "Public bodies, public officials and agencies",
+     "requires": [
+      "the meetings of public bodies and the writings of public officials and agencies shall be open to public scrutiny"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "duty",
+     "what": "A statute, court rule, or other authority shall be broadly construed if it furthers the people’s right of access, and narrowly construed if it limits the right of access",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall be broadly construed if it furthers the people’s right of access",
+      "narrowly construed if it limits the right of access"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "limit",
+     "what": "A statute, court rule, or other authority adopted after the effective date of this subdivision that limits the right of access shall be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "findings demonstrating the interest protected by the limitation and the need for protecting that interest"
+     ],
+     "forbids": [],
+     "conditions": [
+      "adopted after the effective date of this subdivision",
+      "that limits the right of access"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "structure",
+     "what": "Nothing in this subdivision supersedes or modifies the right of privacy guaranteed by Section 1 or affects the construction of any statute, court rule, or other authority to the extent that it protects that right to privacy, including any statutory procedures governing discovery or disclosure of information concerning the official performance or professional qualifications of a peace officer",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "structure",
+     "what": "Nothing in this subdivision supersedes or modifies any provision of this Constitution, including the guarantees that a person may not be deprived of life, liberty, or property without due process of law, or denied equal protection of the laws, as provided in Section 7",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "structure",
+     "what": "This subdivision does not repeal or nullify, expressly or by implication, any constitutional or statutory exception to the right of access to public records or meetings of public bodies that is in effect on the effective date of this subdivision, including any statute protecting the confidentiality of law enforcement and prosecution records",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(6)",
+     "kind": "structure",
+     "what": "Nothing in this subdivision repeals, nullifies, supersedes, or modifies protections for the confidentiality of proceedings and records of the Legislature, the Members of the Legislature, and its employees, committees, and caucuses provided by Section 7 of Article IV, state law, or legislative rules; nor does it affect the scope of permitted discovery in judicial or administrative proceedings regarding deliberations of the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(7)",
+     "kind": "duty",
+     "what": "Each local agency is hereby required to comply with the California Public Records Act and the Ralph M. Brown Act, and with any subsequent statutory enactment amending either act, enacting a successor act, or amending any successor act that contains findings demonstrating that the statutory enactment furthers the purposes of this section",
+     "holder": null,
+     "binds": "Each local agency",
+     "requires": [
+      "comply with the California Public Records Act (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1 of the Government Code)",
+      "comply with the Ralph M. Brown Act (Chapter 9 (commencing with Section 54950) of Part 1 of Division 2 of Title 5 of the Government Code)",
+      "comply with any subsequent statutory enactment amending either act, enacting a successor act, or amending any successor act that contains findings demonstrating that the statutory enactment furthers the purposes of this section"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s4": {
+  "review": {
+   "title": "Freedom of religion",
+   "plain": "Free exercise and enjoyment of religion without discrimination or preference are guaranteed, but this does not excuse licentious acts or acts inconsistent with the State's peace or safety. The Legislature shall make no law respecting an establishment of religion.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "Free exercise and enjoyment of religion without discrimination or preference are guaranteed"
+   ],
+   "powers": [],
+   "limits": [
+    "The Legislature shall make no law respecting an establishment of religion",
+    "A person is not incompetent to be a witness or juror because of his or her opinions on religious beliefs"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Free exercise and enjoyment of religion without discrimination or preference are guaranteed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "This liberty of conscience does not excuse acts that are licentious or inconsistent with the peace or safety of the State"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature shall make no law respecting an establishment of religion",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "Making a law respecting an establishment of religion"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A person is not incompetent to be a witness or juror because of his or her opinions on religious beliefs",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Treating a person as incompetent to be a witness or juror because of his or her opinions on religious beliefs"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s5": {
+  "review": {
+   "title": "Military subordinate to civil power",
+   "plain": "The military is subordinate to civil power. No standing army may be kept in peacetime, and soldiers may not be quartered in any house in wartime except as prescribed by law, or in peacetime without the owner's consent.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "A standing army may not be maintained in peacetime",
+    "Soldiers may not be quartered in any house"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The military is subordinate to civil power",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A standing army may not be maintained in peacetime",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Maintaining a standing army in peacetime"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Soldiers may not be quartered in any house in wartime except as prescribed by law, or in peacetime without the owner’s consent",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Quartering soldiers in any house in wartime except as prescribed by law",
+      "Quartering soldiers in any house in peacetime without the owner’s consent"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "in wartime, as prescribed by law",
+      "in peacetime, with the owner’s consent"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s6": {
+  "review": {
+   "title": "Slavery and involuntary servitude prohibited",
+   "plain": "Slavery is prohibited. Involuntary servitude is prohibited except to punish crime.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Slavery is prohibited",
+    "Involuntary servitude is prohibited"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Slavery is prohibited",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Slavery"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Involuntary servitude is prohibited except to punish crime",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Involuntary servitude"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "to punish crime"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s7": {
+  "review": {
+   "title": "Due process, equal protection and privileges",
+   "plain": "A person may not be deprived of life, liberty, or property without due process of law or denied equal protection of the laws. It limits obligations about pupil school assignment or transportation, and bars privileges or immunities not granted on the same terms to all citizens.",
+   "category": "Equality & Citizenship",
+   "kind": "Right",
+   "rights": [
+    "A person may not be deprived of life, liberty, or property without due process of law or denied equal protection of the laws"
+   ],
+   "powers": [
+    "Privileges or immunities granted by the Legislature may be altered or revoked"
+   ],
+   "limits": [
+    "no court of this State may impose upon the State of California or any public entity, board, or official any obligation or responsibility with respect to the use of pupil school assignment or pupil transportation",
+    "may not be granted privileges or immunities not granted on the same terms to all citizens"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "right",
+     "what": "A person may not be deprived of life, liberty, or property without due process of law or denied equal protection of the laws",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Depriving a person of life, liberty, or property without due process of law",
+      "Denying a person equal protection of the laws"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Nothing contained herein or elsewhere in this Constitution imposes upon the State of California or any public entity, board, or official any obligations or responsibilities which exceed those imposed by the Equal Protection Clause of the 14th Amendment to the United States Constitution with respect to the use of pupil school assignment or pupil transportation",
+     "holder": null,
+     "binds": "The State of California or any public entity, board, or official",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "In enforcing this subdivision or any other provision of this Constitution, no court of this State may impose upon the State of California or any public entity, board, or official any obligation or responsibility with respect to the use of pupil school assignment or pupil transportation",
+     "holder": null,
+     "binds": "Courts of this State",
+     "requires": [],
+     "forbids": [
+      "Imposing any obligation or responsibility with respect to the use of pupil school assignment or pupil transportation"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "to remedy a specific violation by such party that would also constitute a violation of the Equal Protection Clause of the 14th Amendment to the United States Constitution, and unless a federal court would be permitted under federal decisional law to impose that obligation or responsibility upon such party to remedy the specific violation of the Equal Protection Clause of the 14th Amendment of the United States Constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Every existing judgment, decree, writ, or other order of a court of this State, whenever rendered, which includes provisions regarding pupil school assignment or pupil transportation, or which requires a plan including any such provisions shall, upon application to a court having jurisdiction by any interested person, be modified to conform to the provisions of this subdivision as amended",
+     "holder": null,
+     "binds": "Courts of this State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon application to a court having jurisdiction by any interested person",
+      "as applied to the facts which exist at the time of such modification"
+     ],
+     "exceptions": [
+      "Except as may be precluded by the Constitution of the United States"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "In all actions or proceedings arising under or seeking application of the amendments to this subdivision proposed by the Legislature at its 1979–80 Regular Session, all courts shall give such actions or proceedings first precedence over all other civil actions therein",
+     "holder": null,
+     "binds": "All courts",
+     "requires": [
+      "give such actions or proceedings first precedence over all other civil actions therein"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Nothing herein shall prohibit the governing board of a school district from voluntarily continuing or commencing a school integration plan after the effective date of this subdivision as amended",
+     "holder": "The governing board of a school district",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "In amending this subdivision, the Legislature and people of the State of California find and declare that this amendment is necessary to serve compelling public interests, including making the most effective use of the limited financial resources available to support public education, maximizing the educational opportunities and protecting the health and safety of all public school pupils, enhancing the ability of parents to participate in the educational process, preserving harmony and tranquility in this State and its public schools, preventing the waste of scarce fuel resources, and protecting the environment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A citizen or class of citizens may not be granted privileges or immunities not granted on the same terms to all citizens",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Granting a citizen or class of citizens privileges or immunities not granted on the same terms to all citizens"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Privileges or immunities granted by the Legislature may be altered or revoked",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s7.5": {
+  "review": {
+   "title": "Right to marry",
+   "plain": "The right to marry is a fundamental right. This section furthers the inalienable rights guaranteed by Section 1 and the rights to due process and equal protection guaranteed by Section 7.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "The right to marry is a fundamental right"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "right",
+     "what": "The right to marry is a fundamental right",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "This section is in furtherance of the inalienable rights to enjoy life and liberty and to pursue and obtain safety, happiness, and privacy guaranteed by Section 1, and the rights to due process and equal protection guaranteed by Section 7",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s8": {
+  "review": {
+   "title": "No job disqualification for sex, race, creed",
+   "plain": "A person may not be disqualified from entering or pursuing a business, profession, vocation, or employment because of sex, race, creed, color, or national or ethnic origin.",
+   "category": "Equality & Citizenship",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not be disqualified from entering or pursuing a business, profession, vocation, or employment"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A person may not be disqualified from entering or pursuing a business, profession, vocation, or employment because of sex, race, creed, color, or national or ethnic origin",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Disqualifying a person from entering or pursuing a business, profession, vocation, or employment because of sex, race, creed, color, or national or ethnic origin"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s9": {
+  "review": {
+   "title": "No bills of attainder or ex post facto laws",
+   "plain": "A bill of attainder, an ex post facto law, or a law impairing the obligation of contracts may not be passed.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "A bill of attainder, ex post facto law, or law impairing the obligation of contracts may not be passed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A bill of attainder may not be passed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Passing a bill of attainder"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "An ex post facto law may not be passed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Passing an ex post facto law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A law impairing the obligation of contracts may not be passed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Passing a law impairing the obligation of contracts"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s10": {
+  "review": {
+   "title": "Witness detention and imprisonment for debt",
+   "plain": "Witnesses may not be unreasonably detained. A person may not be imprisoned in a civil action for debt or tort, or in peacetime for a militia fine.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Witnesses may not be unreasonably detained",
+    "may not be imprisoned in a civil action for debt or tort, or in peacetime for a militia fine"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Witnesses may not be unreasonably detained",
+     "holder": "Witnesses",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Unreasonably detaining witnesses"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A person may not be imprisoned in a civil action for debt or tort, or in peacetime for a militia fine",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Imprisonment in a civil action for debt or tort",
+      "Imprisonment in peacetime for a militia fine"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s11": {
+  "review": {
+   "title": "Habeas corpus",
+   "plain": "Habeas corpus may not be suspended unless required by public safety in cases of rebellion or invasion.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Habeas corpus may not be suspended"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Habeas corpus may not be suspended",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Suspending habeas corpus"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless required by public safety in cases of rebellion or invasion"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s12": {
+  "review": {
+   "title": "Right to bail",
+   "plain": "A person shall be released on bail by sufficient sureties, except in listed capital and violent or threatening felony cases. Excessive bail may not be required, the court must weigh listed factors in fixing bail, and may release a person on his or her own recognizance.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "shall be released on bail by sufficient sureties"
+   ],
+   "powers": [
+    "may be released on his or her own recognizance"
+   ],
+   "limits": [
+    "Excessive bail may not be required"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A person shall be released on bail by sufficient sureties",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "(a) Capital crimes when the facts are evident or the presumption great",
+      "(b) Felony offenses involving acts of violence on another person, or felony sexual assault offenses on another person, when the facts are evident or the presumption great and the court finds based upon clear and convincing evidence that there is a substantial likelihood the person’s release would result in great bodily harm to others",
+      "(c) Felony offenses when the facts are evident or the presumption great and the court finds based on clear and convincing evidence that the person has threatened another with great bodily harm and that there is a substantial likelihood that the person would carry out the threat if released"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Excessive bail may not be required",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring excessive bail"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In fixing the amount of bail, the court shall take into consideration the seriousness of the offense charged, the previous criminal record of the defendant, and the probability of his or her appearing at the trial or hearing of the case",
+     "holder": null,
+     "binds": "The court",
+     "requires": [
+      "the seriousness of the offense charged",
+      "the previous criminal record of the defendant",
+      "the probability of his or her appearing at the trial or hearing of the case"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "A person may be released on his or her own recognizance in the court’s discretion",
+     "holder": "The court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s13": {
+  "review": {
+   "title": "Searches, seizures and warrants",
+   "plain": "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable seizures and searches may not be violated, and a warrant may issue only on probable cause, supported by oath or affirmation, particularly describing the place and the persons and things.",
+   "category": "Individual Rights",
+   "kind": "Right",
+   "rights": [
+    "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable seizures and searches"
+   ],
+   "powers": [],
+   "limits": [
+    "may not be violated",
+    "a warrant may not issue except on probable cause"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable seizures and searches may not be violated",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Violating the right of the people to be secure against unreasonable seizures and searches"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A warrant may not issue except on probable cause, supported by oath or affirmation, particularly describing the place to be searched and the persons and things to be seized",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "probable cause",
+      "supported by oath or affirmation",
+      "particularly describing the place to be searched and the persons and things to be seized"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s14": {
+  "review": {
+   "title": "Felony charges, magistrate and interpreter",
+   "plain": "Felonies are prosecuted by indictment or, after examination and commitment by a magistrate, by information. A person charged by complaint shall be taken without unnecessary delay before a magistrate, who must inform the defendant of the right to counsel. A person unable to understand English charged with a crime has a right to an interpreter.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "shall be taken without unnecessary delay before a magistrate of that court",
+    "has a right to an interpreter throughout the proceedings"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Felonies shall be prosecuted as provided by law, either by indictment or, after examination and commitment by a magistrate, by information",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A person charged with a felony by complaint subscribed under penalty of perjury and on file in a court in the county where the felony is triable shall be taken without unnecessary delay before a magistrate of that court",
+     "holder": "A person charged with a felony by complaint",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The magistrate shall immediately give the defendant a copy of the complaint, inform the defendant of the defendant’s right to counsel, allow the defendant a reasonable time to send for counsel, and on the defendant’s request read the complaint to the defendant",
+     "holder": "The defendant",
+     "binds": "The magistrate",
+     "requires": [
+      "immediately give the defendant a copy of the complaint",
+      "inform the defendant of the defendant’s right to counsel",
+      "allow the defendant a reasonable time to send for counsel",
+      "on the defendant’s request read the complaint to the defendant"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "On the defendant’s request the magistrate shall require a peace officer to transmit within the county where the court is located a message to counsel named by defendant",
+     "holder": "The defendant",
+     "binds": "The magistrate",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "On the defendant’s request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A person unable to understand English who is charged with a crime has a right to an interpreter throughout the proceedings",
+     "holder": "A person unable to understand English who is charged with a crime",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s14.1": {
+  "review": {
+   "title": "No preliminary hearing after indictment",
+   "plain": "If a felony is prosecuted by indictment, there shall be no postindictment preliminary hearing.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "there shall be no postindictment preliminary hearing"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "There shall be no postindictment preliminary hearing",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "A postindictment preliminary hearing"
+     ],
+     "conditions": [
+      "If a felony is prosecuted by indictment"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s15": {
+  "review": {
+   "title": "Rights of the accused",
+   "plain": "A criminal defendant has the right to a speedy public trial, to compel attendance of witnesses, to counsel, to be present with counsel, and to confront witnesses. No one may be twice put in jeopardy, compelled to be a witness against themselves, or deprived of life, liberty, or property without due process.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "the right to a speedy public trial",
+    "to compel attendance of witnesses",
+    "to have the assistance of counsel",
+    "to be personally present with counsel",
+    "to be confronted with the witnesses against the defendant"
+   ],
+   "powers": [
+    "The Legislature may provide for the deposition of a witness"
+   ],
+   "limits": [
+    "may not twice be put in jeopardy for the same offense",
+    "be compelled in a criminal cause to be a witness against themselves",
+    "be deprived of life, liberty, or property without due process of law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The right to a speedy public trial",
+     "holder": "The defendant in a criminal cause",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "To compel attendance of witnesses in the defendant’s behalf",
+     "holder": "The defendant in a criminal cause",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "To have the assistance of counsel for the defendant’s defense",
+     "holder": "The defendant in a criminal cause",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "To be personally present with counsel",
+     "holder": "The defendant in a criminal cause",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "To be confronted with the witnesses against the defendant",
+     "holder": "The defendant in a criminal cause",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature may provide for the deposition of a witness in the presence of the defendant and the defendant’s counsel",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [
+      "in the presence of the defendant and the defendant’s counsel"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Persons may not twice be put in jeopardy for the same offense",
+     "holder": "Persons",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Putting persons twice in jeopardy for the same offense"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Persons may not be compelled in a criminal cause to be a witness against themselves",
+     "holder": "Persons",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Compelling persons in a criminal cause to be a witness against themselves"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Persons may not be deprived of life, liberty, or property without due process of law",
+     "holder": "Persons",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Depriving persons of life, liberty, or property without due process of law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s16": {
+  "review": {
+   "title": "Trial by jury",
+   "plain": "Trial by jury is an inviolate right secured to all, though three-fourths of a civil jury may render a verdict. It sets how a jury may be waived and the jury's size: 12 in felony cases, and 12 or fewer by agreement in civil and misdemeanor cases.",
+   "category": "The Courts",
+   "kind": "Right",
+   "rights": [
+    "Trial by jury is an inviolate right and shall be secured to all"
+   ],
+   "powers": [
+    "the Legislature may provide that the jury shall consist of eight persons or a lesser number"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Trial by jury is an inviolate right and shall be secured to all",
+     "holder": "All",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "in a civil cause three-fourths of the jury may render a verdict"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "A jury may be waived in a criminal cause by the consent of both parties expressed in open court by the defendant and the defendant’s counsel",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the consent of both parties expressed in open court by the defendant and the defendant’s counsel"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In a civil cause a jury may be waived by the consent of the parties expressed as prescribed by statute",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the consent of the parties expressed as prescribed by statute"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In civil causes the jury shall consist of 12 persons or a lesser number agreed on by the parties in open court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "In civil causes other than causes within the appellate jurisdiction of the court of appeal the Legislature may provide that the jury shall consist of eight persons or a lesser number agreed on by the parties in open court",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In civil causes other than causes within the appellate jurisdiction of the court of appeal"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In criminal actions in which a felony is charged, the jury shall consist of 12 persons",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "In criminal actions in which a misdemeanor is charged, the jury shall consist of 12 persons or a lesser number agreed on by the parties in open court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

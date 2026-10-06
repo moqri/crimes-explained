@@ -1,0 +1,1810 @@
+{
+ "a1-s17": {
+  "review": {
+   "title": "Cruel or unusual punishment and excessive fines",
+   "plain": "Cruel or unusual punishment may not be inflicted, and excessive fines may not be imposed.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Cruel or unusual punishment may not be inflicted",
+    "excessive fines imposed"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Cruel or unusual punishment may not be inflicted",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Inflicting cruel or unusual punishment"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Excessive fines may not be imposed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Imposing excessive fines"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s18": {
+  "review": {
+   "title": "Treason against the State",
+   "plain": "Treason against the State consists only in levying war against it, adhering to its enemies, or giving them aid and comfort. A person may not be convicted of treason except on two witnesses to the same overt act or confession in open court.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "A person may not be convicted of treason except on the evidence of two witnesses to the same overt act or by confession in open court"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Treason against the State consists only in levying war against it, adhering to its enemies, or giving them aid and comfort",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Treason against the State\": consists only in levying war against it, adhering to its enemies, or giving them aid and comfort"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A person may not be convicted of treason except on the evidence of two witnesses to the same overt act or by confession in open court",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Convicting a person of treason except on the evidence of two witnesses to the same overt act or by confession in open court"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "on the evidence of two witnesses to the same overt act",
+      "by confession in open court"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s19": {
+  "review": {
+   "title": "Eminent domain and just compensation",
+   "plain": "Private property may be taken or damaged for a public use and only when just compensation, ascertained by a jury unless waived, has first been paid. The State and local governments may not take an owner-occupied residence by eminent domain to convey it to a private person, with listed exceptions.",
+   "category": "Individual Rights",
+   "kind": "Limit",
+   "rights": [
+    "just compensation"
+   ],
+   "powers": [
+    "The Legislature may provide for possession by the condemnor"
+   ],
+   "limits": [
+    "The State and local governments are prohibited from acquiring by eminent domain an owner-occupied residence for the purpose of conveying it to a private person"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Private property may be taken or damaged for a public use and only when just compensation, ascertained by a jury unless waived, has first been paid to, or into court for, the owner",
+     "holder": "The owner",
+     "binds": null,
+     "requires": [
+      "just compensation, ascertained by a jury unless waived, has first been paid to, or into court for, the owner"
+     ],
+     "forbids": [],
+     "conditions": [
+      "for a public use"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may provide for possession by the condemnor following commencement of eminent domain proceedings upon deposit in court and prompt release to the owner of money determined by the court to be the probable amount of just compensation",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "following commencement of eminent domain proceedings",
+      "upon deposit in court and prompt release to the owner of money determined by the court to be the probable amount of just compensation"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The State and local governments are prohibited from acquiring by eminent domain an owner-occupied residence for the purpose of conveying it to a private person",
+     "holder": null,
+     "binds": "The State and local governments",
+     "requires": [],
+     "forbids": [
+      "Acquiring by eminent domain an owner-occupied residence for the purpose of conveying it to a private person"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "when State or local government exercises the power of eminent domain for the purpose of protecting public health and safety; preventing serious, repeated criminal activity; responding to an emergency; or remedying environmental contamination that poses a threat to public health and safety",
+      "when State or local government exercises the power of eminent domain for the purpose of acquiring private property for a public work or improvement"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Subdivision (b) does not apply when State or local government exercises the power of eminent domain for the purpose of protecting public health and safety; preventing serious, repeated criminal activity; responding to an emergency; or remedying environmental contamination that poses a threat to public health and safety",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Subdivision (b) does not apply when State or local government exercises the power of eminent domain for the purpose of acquiring private property for a public work or improvement",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Definitions for the purpose of this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Conveyance\": a transfer of real property whether by sale, lease, gift, franchise, or otherwise",
+      "\"Local government\": any city, including a charter city, county, city and county, school district, special district, authority, regional entity, redevelopment agency, or any other political subdivision within the State",
+      "\"Owner-occupied residence\": real property that is improved with a single-family residence such as a detached home, condominium, or townhouse and that is the owner or owners’ principal place of residence for at least one year prior to the State or local government’s initial written offer to purchase the property; also includes a residential dwelling unit attached to or detached from such a single-family residence which provides complete independent living facilities for one or more persons",
+      "\"Person\": any individual or association, or any business entity, including, but not limited to, a partnership, corporation, or limited liability company",
+      "\"Public work or improvement\": facilities or infrastructure for the delivery of public services such as education, police, fire protection, parks, recreation, emergency medical, public health, libraries, flood protection, streets or highways, public transit, railroad, airports and seaports; utility, common carrier or other similar projects such as energy-related, communication-related, water-related and wastewater-related facilities or infrastructure; projects identified by a State or local government for recovery from natural disasters; and private uses incidental to, or necessary for, the public work or improvement",
+      "\"State\": the State of California and any of its agencies or departments"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s20": {
+  "review": {
+   "title": "Property rights of noncitizens",
+   "plain": "Noncitizens have the same property rights as citizens.",
+   "category": "Equality & Citizenship",
+   "kind": "Right",
+   "rights": [
+    "the same property rights as citizens"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "Noncitizens have the same property rights as citizens",
+     "holder": "Noncitizens",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s21": {
+  "review": {
+   "title": "Separate property",
+   "plain": "Property owned before marriage, or acquired during marriage by gift, will, or inheritance, is separate property.",
+   "category": "Individual Rights",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Property owned before marriage or acquired during marriage by gift, will, or inheritance is separate property",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s22": {
+  "review": {
+   "title": "No property qualification to vote or hold office",
+   "plain": "The right to vote or hold office may not be conditioned by a property qualification.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "rights": [
+    "The right to vote or hold office"
+   ],
+   "powers": [],
+   "limits": [
+    "may not be conditioned by a property qualification"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The right to vote or hold office may not be conditioned by a property qualification",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Conditioning the right to vote or hold office by a property qualification"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s23": {
+  "review": {
+   "title": "Grand juries",
+   "plain": "One or more grand juries shall be drawn and summoned at least once a year in each county.",
+   "category": "Criminal Justice",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "One or more grand juries shall be drawn and summoned at least once a year in each county",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "drawn and summoned at least once a year in each county"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s24": {
+  "review": {
+   "title": "State rights independent; construing criminal rights",
+   "plain": "California's constitutional rights do not depend on federal ones, but listed rights of criminal defendants shall be construed consistently with the U.S. Constitution, without greater rights for criminal defendants or minors in juvenile proceedings. This declaration does not impair others retained by the people.",
+   "category": "Individual Rights",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be construed by the courts to afford greater rights to criminal defendants than those afforded by the Constitution of the United States",
+    "may not be construed to impair or deny others retained by the people"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Rights guaranteed by this Constitution are not dependent on those guaranteed by the United States Constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "In criminal cases the rights of a defendant to equal protection of the laws, to due process of law, to the assistance of counsel, to be personally present with counsel, to a speedy and public trial, to compel the attendance of witnesses, to confront the witnesses against him or her, to be free from unreasonable searches and seizures, to privacy, to not be compelled to be a witness against himself or herself, to not be placed twice in jeopardy for the same offense, and to not suffer the imposition of cruel or unusual punishment, shall be construed by the courts of this State in a manner consistent with the Constitution of the United States",
+     "holder": null,
+     "binds": "The courts of this State",
+     "requires": [
+      "construed in a manner consistent with the Constitution of the United States"
+     ],
+     "forbids": [],
+     "conditions": [
+      "In criminal cases"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "This Constitution shall not be construed by the courts to afford greater rights to criminal defendants than those afforded by the Constitution of the United States",
+     "holder": null,
+     "binds": "The courts",
+     "requires": [],
+     "forbids": [
+      "Construing this Constitution to afford greater rights to criminal defendants than those afforded by the Constitution of the United States"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Nor shall it be construed to afford greater rights to minors in juvenile proceedings on criminal causes than those afforded by the Constitution of the United States",
+     "holder": null,
+     "binds": "The courts",
+     "requires": [],
+     "forbids": [
+      "Construing this Constitution to afford greater rights to minors in juvenile proceedings on criminal causes than those afforded by the Constitution of the United States"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "This declaration of rights may not be construed to impair or deny others retained by the people",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Construing this declaration of rights to impair or deny others retained by the people"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s25": {
+  "review": {
+   "title": "Right to fish",
+   "plain": "The people have the right to fish on the State's public lands and waters, except fish hatchery lands. State land may not be sold without reserving that right, and entering public lands to fish in State-planted waters may not be made a crime; the legislature may set fishing seasons and conditions.",
+   "category": "Water & Natural Resources",
+   "kind": "Right",
+   "rights": [
+    "the right to fish upon and from the public lands of the State and in the waters thereof",
+    "the absolute right to fish thereupon"
+   ],
+   "powers": [
+    "the legislature may by statute, provide for the season when and the conditions under which the different species of fish may be taken"
+   ],
+   "limits": [
+    "no land owned by the State shall ever be sold or transferred without reserving in the people",
+    "no law shall ever be passed making it a crime for the people to enter upon the public lands within this State for the purpose of fishing"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The people shall have the right to fish upon and from the public lands of the State and in the waters thereof",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "excepting upon lands set aside for fish hatcheries"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No land owned by the State shall ever be sold or transferred without reserving in the people the absolute right to fish thereupon",
+     "holder": "The people",
+     "binds": "The State",
+     "requires": [],
+     "forbids": [
+      "Selling or transferring land owned by the State without reserving in the people the absolute right to fish thereupon"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No law shall ever be passed making it a crime for the people to enter upon the public lands within this State for the purpose of fishing in any water containing fish that have been planted therein by the State",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Passing a law making it a crime for the people to enter upon the public lands within this State for the purpose of fishing in any water containing fish that have been planted therein by the State"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislature may by statute, provide for the season when and the conditions under which the different species of fish may be taken",
+     "holder": "The legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s26": {
+  "review": {
+   "title": "Constitution is mandatory and prohibitory",
+   "plain": "The provisions of this Constitution are mandatory and prohibitory, unless by express words they are declared to be otherwise.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The provisions of this Constitution are mandatory and prohibitory",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless by express words they are declared to be otherwise"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s27": {
+  "review": {
+   "title": "Death penalty statutes",
+   "plain": "Death penalty statutes in effect on February 17, 1972, are in full force, subject to amendment or repeal by statute, initiative, or referendum. The death penalty under them is not cruel or unusual punishment under Article 1, Section 6, nor contrary to any other provision of this constitution.",
+   "category": "Criminal Justice",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All statutes of this State in effect on February 17, 1972, requiring, authorizing, imposing, or relating to the death penalty are in full force and effect",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to legislative amendment or repeal by statute, initiative, or referendum"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The death penalty provided for under those statutes shall not be deemed to be, or to constitute, the infliction of cruel or unusual punishments within the meaning of Article 1, Section 6 nor shall such punishment for such offenses be deemed to contravene any other provision of this constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s28": {
+  "review": {
+   "title": "Victims' rights",
+   "plain": "The People declare findings on crime victims. A victim is entitled to listed rights, including fairness and respect, protection, notice, being heard, a speedy trial, and restitution, which victims may enforce in court. It also sets shared rights to safe schools, truth-in-evidence, public safety bail, use of prior convictions, and truth in sentencing.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "To be treated with fairness and respect for his or her privacy and dignity",
+    "To be reasonably protected from the defendant",
+    "To be heard, upon request, at any proceeding",
+    "To a speedy trial and a prompt and final conclusion of the case",
+    "To restitution",
+    "the inalienable right to attend campuses which are safe, secure and peaceful"
+   ],
+   "powers": [
+    "may enforce the rights enumerated in subdivision (b)",
+    "The court in its discretion may extend the right to be heard at sentencing"
+   ],
+   "limits": [
+    "relevant evidence shall not be excluded in any criminal proceeding",
+    "Excessive bail may not be required",
+    "shall not be substantially diminished by early release policies"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The People of the State of California find and declare all of the following",
+     "holder": "The People of the State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)",
+     "kind": "structure",
+     "what": "Criminal activity has a serious impact on the citizens of California. The rights of victims of crime and their families in criminal prosecutions are a subject of grave statewide concern",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "structure",
+     "what": "Victims of crime are entitled to have the criminal justice system view criminal acts as serious threats to the safety and welfare of the people of California. The enactment of comprehensive provisions and laws ensuring a bill of rights for victims of crime is a matter of high public importance",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "structure",
+     "what": "The rights of victims pervade the criminal justice system. These rights include personally held and enforceable rights described in paragraphs (1) through (17) of subdivision (b)",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(4)",
+     "kind": "structure",
+     "what": "The rights of victims also include broader shared collective rights that are held in common with all of the People of the State of California and that are enforceable through the enactment of laws and through good-faith efforts and actions of California’s elected, appointed, and publicly employed officials",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(5)",
+     "kind": "structure",
+     "what": "Victims of crime have a collectively shared right to expect that persons convicted of committing criminal acts are sufficiently punished in both the manner and the length of the sentences imposed by the courts of the State of California",
+     "holder": "Victims of crime",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(6)",
+     "kind": "structure",
+     "what": "Victims of crime are entitled to finality in their criminal cases. This prolonged suffering of crime victims and their families must come to an end",
+     "holder": "Victims of crime",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(7)",
+     "kind": "structure",
+     "what": "The right to public safety extends to public and private primary, elementary, junior high, and senior high school, and community college, California State University, University of California, and private college and university campuses, where students and staff have the right to be safe and secure in their persons",
+     "holder": "Students and staff",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(8)",
+     "kind": "structure",
+     "what": "To accomplish the goals it is necessary that the laws of California relating to the criminal justice process be amended in order to protect the legitimate rights of victims of crime",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "right",
+     "what": "To be treated with fairness and respect for his or her privacy and dignity, and to be free from intimidation, harassment, and abuse, throughout the criminal or juvenile justice process",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "right",
+     "what": "To be reasonably protected from the defendant and persons acting on behalf of the defendant",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "right",
+     "what": "To have the safety of the victim and the victim’s family considered in fixing the amount of bail and release conditions for the defendant",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "right",
+     "what": "To prevent the disclosure of confidential information or records to the defendant, the defendant’s attorney, or any other person acting on behalf of the defendant, which could be used to locate or harass the victim or the victim’s family or which disclose confidential communications made in the course of medical or counseling treatment, or which are otherwise privileged or confidential by law",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "right",
+     "what": "To refuse an interview, deposition, or discovery request by the defendant, the defendant’s attorney, or any other person acting on behalf of the defendant, and to set reasonable conditions on the conduct of any such interview to which the victim consents",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(6)",
+     "kind": "right",
+     "what": "To reasonable notice of and to reasonably confer with the prosecuting agency regarding the arrest of the defendant if known by the prosecutor, the charges filed, the determination whether to extradite the defendant, and to be notified of and informed before any pretrial disposition of the case",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(7)",
+     "kind": "right",
+     "what": "To reasonable notice of all public proceedings, including delinquency proceedings, at which the defendant and the prosecutor are entitled to be present and of all parole or other post-conviction release proceedings, and to be present at all such proceedings",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(8)",
+     "kind": "right",
+     "what": "To be heard at any proceeding, including any delinquency proceeding, involving a post-arrest release decision, plea, sentencing, post-conviction release decision, or any proceeding in which a right of the victim is at issue",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(9)",
+     "kind": "right",
+     "what": "To a speedy trial and a prompt and final conclusion of the case and any related post-judgment proceedings",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(10)",
+     "kind": "right",
+     "what": "To provide information to a probation department official conducting a pre-sentence investigation concerning the impact of the offense on the victim and the victim’s family and any sentencing recommendations before the sentencing of the defendant",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(11)",
+     "kind": "right",
+     "what": "To receive the pre-sentence report when available to the defendant",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon request"
+     ],
+     "exceptions": [
+      "except for those portions made confidential by law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(12)",
+     "kind": "right",
+     "what": "To be informed of the conviction, sentence, place and time of incarceration, or other disposition of the defendant, the scheduled release date of the defendant, and the release of or the escape by the defendant from custody",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon request"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(13)",
+     "kind": "right",
+     "what": "To restitution",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(13)(A)",
+     "kind": "right",
+     "what": "All persons who suffer losses as a result of criminal activity shall have the right to seek and secure restitution from the persons convicted of the crimes causing the losses they suffer",
+     "holder": "All persons who suffer losses as a result of criminal activity",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(13)(B)",
+     "kind": "duty",
+     "what": "Restitution shall be ordered from the convicted wrongdoer in every case, regardless of the sentence or disposition imposed, in which a crime victim suffers a loss",
+     "holder": null,
+     "binds": "The convicted wrongdoer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in which a crime victim suffers a loss"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(13)(C)",
+     "kind": "duty",
+     "what": "All monetary payments, monies, and property collected from any person who has been ordered to make restitution shall be first applied to pay the amounts ordered as restitution to the victim",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "first applied to pay the amounts ordered as restitution to the victim"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(14)",
+     "kind": "right",
+     "what": "To the prompt return of property when no longer needed as evidence",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(15)",
+     "kind": "right",
+     "what": "To be informed of all parole procedures, to participate in the parole process, to provide information to the parole authority to be considered before the parole of the offender, and to be notified, upon request, of the parole or other release of the offender",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(16)",
+     "kind": "right",
+     "what": "To have the safety of the victim, the victim’s family, and the general public considered before any parole or other post-judgment release decision is made",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(17)",
+     "kind": "right",
+     "what": "To be informed of the rights enumerated in paragraphs (1) through (16)",
+     "holder": "A victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "power",
+     "what": "A victim, the retained attorney of a victim, a lawful representative of the victim, or the prosecuting attorney upon request of the victim, may enforce the rights enumerated in subdivision (b) in any trial or appellate court with jurisdiction over the case as a matter of right",
+     "holder": "A victim, the retained attorney of a victim, a lawful representative of the victim, or the prosecuting attorney upon request of the victim",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "duty",
+     "what": "The court shall act promptly on such a request",
+     "holder": null,
+     "binds": "The court",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "structure",
+     "what": "This section does not create any cause of action for compensation or damages against the State, any political subdivision of the State, any officer, employee, or agent of the State or of any of its political subdivisions, or any officer or employee of the court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "The granting of these rights to victims shall not be construed to deny or disparage other rights possessed by victims",
+     "holder": "Victims",
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Construing these rights to deny or disparage other rights possessed by victims"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The court in its discretion may extend the right to be heard at sentencing to any person harmed by the defendant",
+     "holder": "The court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The parole authority shall extend the right to be heard at a parole hearing to any person harmed by the offender",
+     "holder": null,
+     "binds": "The parole authority",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Definition of \"victim\" as used in this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"victim\": a person who suffers direct or threatened physical, psychological, or financial harm as a result of the commission or attempted commission of a crime or delinquent act; also includes the person’s spouse, parents, children, siblings, or guardian, and includes a lawful representative of a crime victim who is deceased, a minor, or physically or psychologically incapacitated; does not include a person in custody for an offense, the accused, or a person whom the court finds would not act in the best interests of a minor victim"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "right",
+     "what": "Victims of crime have additional rights that are shared with all of the People of the State of California. These collectively held rights include, but are not limited to, the following",
+     "holder": "Victims of crime and all of the People of the State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(1)",
+     "kind": "right",
+     "what": "Right to Safe Schools. All students and staff of public primary, elementary, junior high, and senior high schools, and community colleges, colleges, and universities have the inalienable right to attend campuses which are safe, secure and peaceful",
+     "holder": "All students and staff of public primary, elementary, junior high, and senior high schools, and community colleges, colleges, and universities",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(2)",
+     "kind": "limit",
+     "what": "Right to Truth-in-Evidence. Relevant evidence shall not be excluded in any criminal proceeding, including pretrial and post conviction motions and hearings, or in any trial or hearing of a juvenile for a criminal offense, whether heard in juvenile or adult court",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Excluding relevant evidence in any criminal proceeding"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided by statute hereafter enacted by a two-thirds vote of the membership in each house of the Legislature",
+      "Nothing in this section shall affect any existing statutory rule of evidence relating to privilege or hearsay, or Evidence Code Sections 352, 782 or 1103",
+      "Nothing in this section shall affect any existing statutory or constitutional right of the press"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "right",
+     "what": "Public Safety Bail. A person may be released on bail by sufficient sureties",
+     "holder": "A person",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for capital crimes when the facts are evident or the presumption great"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "limit",
+     "what": "Excessive bail may not be required",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "Requiring excessive bail"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "duty",
+     "what": "In setting, reducing or denying bail, the judge or magistrate shall take into consideration the protection of the public, the safety of the victim, the seriousness of the offense charged, the previous criminal record of the defendant, and the probability of his or her appearing at the trial or hearing of the case. Public safety and the safety of the victim shall be the primary considerations",
+     "holder": null,
+     "binds": "The judge or magistrate",
+     "requires": [
+      "the protection of the public",
+      "the safety of the victim",
+      "the seriousness of the offense charged",
+      "the previous criminal record of the defendant",
+      "the probability of his or her appearing at the trial or hearing of the case",
+      "Public safety and the safety of the victim shall be the primary considerations"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "power",
+     "what": "A person may be released on his or her own recognizance in the court’s discretion, subject to the same factors considered in setting bail",
+     "holder": "The court",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to the same factors considered in setting bail"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "structure",
+     "what": "Before any person arrested for a serious felony may be released on bail, a hearing may be held before the magistrate or judge, and the prosecuting attorney and the victim shall be given notice and reasonable opportunity to be heard on the matter",
+     "holder": "The prosecuting attorney and the victim",
+     "binds": null,
+     "requires": [
+      "the prosecuting attorney and the victim shall be given notice and reasonable opportunity to be heard on the matter"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Before any person arrested for a serious felony may be released on bail"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "duty",
+     "what": "When a judge or magistrate grants or denies bail or release on a person’s own recognizance, the reasons for that decision shall be stated in the record and included in the court’s minutes",
+     "holder": null,
+     "binds": "The judge or magistrate",
+     "requires": [
+      "the reasons for that decision shall be stated in the record and included in the court’s minutes"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(4)",
+     "kind": "duty",
+     "what": "Use of Prior Convictions. Any prior felony conviction of any person in any criminal proceeding, whether adult or juvenile, shall subsequently be used without limitation for purposes of impeachment or enhancement of sentence in any criminal proceeding",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "When a prior felony conviction is an element of any felony offense, it shall be proven to the trier of fact in open court"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(5)",
+     "kind": "limit",
+     "what": "Truth in Sentencing. Sentences that are individually imposed upon convicted criminal wrongdoers shall be carried out in compliance with the courts’ sentencing orders, and shall not be substantially diminished by early release policies intended to alleviate overcrowding in custodial facilities",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "carried out in compliance with the courts’ sentencing orders"
+     ],
+     "forbids": [
+      "Substantially diminishing sentences by early release policies intended to alleviate overcrowding in custodial facilities"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(5)",
+     "kind": "duty",
+     "what": "The legislative branch shall ensure sufficient funding to adequately house inmates for the full terms of their sentences",
+     "holder": null,
+     "binds": "The legislative branch",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except for statutorily authorized credits which reduce those sentences"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(6)",
+     "kind": "structure",
+     "what": "Reform of the parole process. The current process for parole hearings is excessive, especially in cases in which the defendant has been convicted of murder. The parole hearing process must be reformed for the benefit of crime victims",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "Definition of \"serious felony\" as used in this article",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"serious felony\": any crime defined in subdivision (c) of Section 1192.7 of the Penal Code, or any successor statute"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s29": {
+  "review": {
+   "title": "People's right to due process and speedy trial",
+   "plain": "In a criminal case, the people of the State of California have the right to due process of law and to a speedy and public trial.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "the right to due process of law and to a speedy and public trial"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "In a criminal case, the people of the State of California have the right to due process of law",
+     "holder": "The people of the State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In a criminal case"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "In a criminal case, the people of the State of California have the right to a speedy and public trial",
+     "holder": "The people of the State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In a criminal case"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s30": {
+  "review": {
+   "title": "Joinder, hearsay at preliminary hearings, discovery",
+   "plain": "This Constitution shall not be construed to prohibit joining criminal cases. Hearsay evidence shall be admissible at preliminary hearings, and discovery in criminal cases shall be reciprocal, as prescribed by the Legislature or by the people through the initiative process.",
+   "category": "Criminal Justice",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be construed by the courts to prohibit the joining of criminal cases"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "This Constitution shall not be construed by the courts to prohibit the joining of criminal cases as prescribed by the Legislature or by the people through the initiative process",
+     "holder": null,
+     "binds": "The courts",
+     "requires": [],
+     "forbids": [
+      "Construing this Constitution to prohibit the joining of criminal cases as prescribed by the Legislature or by the people through the initiative process"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Hearsay evidence shall be admissible at preliminary hearings, as prescribed by the Legislature or by the people through the initiative process",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In order to protect victims and witnesses in criminal cases"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Discovery in criminal cases shall be reciprocal in nature, as prescribed by the Legislature or by the people through the initiative process",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In order to provide for fair and speedy trials"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s31": {
+  "review": {
+   "title": "No discrimination or preferential treatment",
+   "plain": "The State shall not discriminate against, or grant preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity, or national origin in public employment, public education, or public contracting, with listed exceptions.",
+   "category": "Equality & Citizenship",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not discriminate against, or grant preferential treatment to, any individual or group"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The State shall not discriminate against, or grant preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity, or national origin in the operation of public employment, public education, or public contracting",
+     "holder": "Any individual or group",
+     "binds": "The State",
+     "requires": [],
+     "forbids": [
+      "Discriminating against any individual or group on the basis of race, sex, color, ethnicity, or national origin in the operation of public employment, public education, or public contracting",
+      "Granting preferential treatment to any individual or group on the basis of race, sex, color, ethnicity, or national origin in the operation of public employment, public education, or public contracting"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "bona fide qualifications based on sex which are reasonably necessary to the normal operation of public employment, public education, or public contracting",
+      "any court order or consent decree which is in force as of the effective date of this section",
+      "action which must be taken to establish or maintain eligibility for any federal program, where ineligibility would result in a loss of federal funds to the State"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "This section shall apply only to action taken after the section’s effective date",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "Nothing in this section shall be interpreted as prohibiting bona fide qualifications based on sex which are reasonably necessary to the normal operation of public employment, public education, or public contracting",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "Nothing in this section shall be interpreted as invalidating any court order or consent decree which is in force as of the effective date of this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Nothing in this section shall be interpreted as prohibiting action which must be taken to establish or maintain eligibility for any federal program, where ineligibility would result in a loss of federal funds to the State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "Definition of \"State\" for the purposes of this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"State\": shall include, but not necessarily be limited to, the State itself, any city, county, city and county, public university system, including the University of California, community college district, school district, special district, or any other political subdivision or governmental instrumentality of or within the State"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "structure",
+     "what": "The remedies available for violations of this section shall be the same, regardless of the injured party’s race, sex, color, ethnicity, or national origin, as are otherwise available for violations of then-existing California antidiscrimination law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "structure",
+     "what": "This section shall be self-executing. If any part or parts of this section are found to be in conflict with federal law or the United States Constitution, the section shall be implemented to the maximum extent that federal law and the United States Constitution permit. Any provision held invalid shall be severable from the remaining portions of this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a1-s32": {
+  "review": {
+   "title": "Parole consideration and credits",
+   "plain": "A person convicted of a nonviolent felony and sentenced to state prison shall be eligible for parole consideration after completing the full term for the primary offense. The Department of Corrections and Rehabilitation may award credits and shall adopt regulations, which the Secretary shall certify protect and enhance public safety.",
+   "category": "Criminal Justice",
+   "kind": "Right",
+   "rights": [
+    "shall be eligible for parole consideration after completing the full term for his or her primary offense"
+   ],
+   "powers": [
+    "shall have authority to award credits earned for good behavior and approved rehabilitative or educational achievements"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The following provisions are hereby enacted to enhance public safety, improve rehabilitation, and avoid the release of prisoners by federal court order, notwithstanding anything in this article or any other provision of law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)",
+     "kind": "right",
+     "what": "Parole Consideration: Any person convicted of a nonviolent felony offense and sentenced to state prison shall be eligible for parole consideration after completing the full term for his or her primary offense",
+     "holder": "Any person convicted of a nonviolent felony offense and sentenced to state prison",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "after completing the full term for his or her primary offense"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)(A)",
+     "kind": "structure",
+     "what": "Definition of the full term for the primary offense, for purposes of this section only",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"the full term for the primary offense\": the longest term of imprisonment imposed by the court for any offense, excluding the imposition of an enhancement, consecutive sentence, or alternative sentence"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "power",
+     "what": "Credit Earning: The Department of Corrections and Rehabilitation shall have authority to award credits earned for good behavior and approved rehabilitative or educational achievements",
+     "holder": "The Department of Corrections and Rehabilitation",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The Department of Corrections and Rehabilitation shall adopt regulations in furtherance of these provisions, and the Secretary of the Department of Corrections and Rehabilitation shall certify that these regulations protect and enhance public safety",
+     "holder": null,
+     "binds": "The Department of Corrections and Rehabilitation and its Secretary",
+     "requires": [
+      "adopt regulations in furtherance of these provisions",
+      "certify that these regulations protect and enhance public safety"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s1": {
+  "review": {
+   "title": "Political power inherent in the people",
+   "plain": "All political power is inherent in the people. Government is instituted for their protection, security, and benefit, and they have the right to alter or reform it when the public good may require.",
+   "category": "Founding & Purposes",
+   "kind": "Right",
+   "rights": [
+    "the right to alter or reform it"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "All political power is inherent in the people. Government is instituted for their protection, security, and benefit",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "right",
+     "what": "The people have the right to alter or reform government when the public good may require",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "when the public good may require"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s2": {
+  "review": {
+   "title": "Who may vote",
+   "plain": "A United States citizen 18 years of age and resident in this State may vote. An elector disqualified while serving a state or federal prison term shall have the right to vote restored when the prison term is completed.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "rights": [
+    "may vote",
+    "shall have their right to vote restored upon the completion of their prison term"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "right",
+     "what": "A United States citizen 18 years of age and resident in this State may vote",
+     "holder": "A United States citizen 18 years of age and resident in this State",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "United States citizen",
+      "18 years of age",
+      "resident in this State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "right",
+     "what": "An elector disqualified from voting while serving a state or federal prison term, as described in Section 4, shall have their right to vote restored upon the completion of their prison term",
+     "holder": "An elector disqualified from voting while serving a state or federal prison term",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon the completion of their prison term"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s2.5": {
+  "review": {
+   "title": "Right to have vote counted",
+   "plain": "A voter who casts a vote in an election in accordance with the laws of this State shall have that vote counted.",
+   "category": "Voting & Elections",
+   "kind": "Right",
+   "rights": [
+    "shall have that vote counted"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A voter who casts a vote in an election in accordance with the laws of this State shall have that vote counted",
+     "holder": "A voter",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "casts a vote in an election in accordance with the laws of this State"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a2-s3": {
+  "review": {
+   "title": "Residence, registration and free elections",
+   "plain": "The Legislature shall define residence and provide for registration and free elections.",
+   "category": "Voting & Elections",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Legislature shall define residence and provide for registration and free elections",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "define residence",
+      "provide for registration",
+      "provide for free elections"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

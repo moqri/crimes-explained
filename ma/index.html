@@ -497,6 +497,9 @@
     'Organized Crime & Racketeering', 'Gambling & Obscenity', 'Family & Children', 'Transportation & Aviation', 'Animals & Wildlife'];
   if (CON) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections',
     'Equality & Citizenship', 'Congress', 'The Presidency', 'The Courts', 'States & Federalism', 'Taxes, Money & Commerce', 'War & Military', 'Amending & Ratifying');
+  if (CON && CA) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections', 'Equality & Citizenship',
+    'The Legislature', 'The Governor & Executive', 'The Courts', 'Local Government', 'Taxes, Money & Commerce', 'Education', 'Water & Natural Resources',
+    'Transportation', 'Public Officers & Employees', 'Labor', 'Housing & Public Utilities', 'Amending & Ratifying');
   if (CON && NY) CATEGORIES.splice(0, CATEGORIES.length, 'Founding & Purposes', 'Individual Rights', 'Criminal Justice', 'Voting & Elections', 'Equality & Citizenship',
     'The Legislature', 'The Governor & Executive', 'The Courts', 'Local Government', 'Taxes, Money & Commerce', 'Education', 'Military & Defense',
     'Conservation & Natural Resources', 'Social Welfare, Health & Housing', 'Public Officers & Civil Service', 'Amending & Ratifying');
@@ -966,7 +969,7 @@
     return out;
   }
   function para(p) {
-    if (CON) {   // "[3] …": clause 3 of the section
+    if (CON && !CA) {   // "[3] …": clause 3 of the section
       const mm = p.t.match(/^\[(\d+)\]\s*/);
       return mm ? `<span class="lbl" title="Clause ${mm[1]}">${mm[1]}</span> ` + enrichActs(p, mm[0].length, p.t.slice(mm[0].length)) : enrichActs(p, 0, p.t);
     }
@@ -1057,13 +1060,13 @@
   function statGroups(text) {
     const groups = [];
     for (const p of text) {
-      const startsTop = p.i === 0 && (CON && NY ? /^(?:\d+|[a-zA-Z])\.\s/ : CON ? /^\[\d+\]/ : NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
+      const startsTop = p.i === 0 && (CON && CA ? /^\(/ : CON && NY ? /^(?:\d+|[a-zA-Z])\.\s/ : CON ? /^\[\d+\]/ : NY ? /^(?:\d+(?:-[A-Za-z])?\.\s|\()/ : /^\(/).test(p.t);
       if (!groups.length || startsTop) groups.push([]);
       groups[groups.length - 1].push(p);
     }
     const path = [];   // label at each depth, e.g. ["(b)", "(2)", "(A)"]
     const pathOf = p => {
-      const m = CON ? p.t.match(/^(\[\d+\])/) : NY ? p.t.match(/^(\d+(?:-[A-Za-z])?\.|(?:\([A-Za-z0-9-]+\))+)/) : p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
+      const m = CON && CA ? p.t.match(/^((?:\([A-Za-z0-9]+\))+)/) : CON ? p.t.match(/^(\[\d+\])/) : NY ? p.t.match(/^(\d+(?:-[A-Za-z])?\.|(?:\([A-Za-z0-9-]+\))+)/) : p.t.match(/^((?:\([A-Za-z0-9]+\))+)/);
       if (!m) return '';                                   // unlabeled closing line: belongs to the enclosing level
       path.length = p.i; path[p.i] = m[1];
       return path.join('');
@@ -1106,7 +1109,7 @@
   const els = rows => rows ? `<div class="off-els">${rows}</div>` : '';   // a crime's elements, indented under its act
   const whereAttr = o => {
     const w = (o.where || '').replace(/\s+/g, '');
-    if (CON) return /^\[\d+\]$/.test(w) ? ` data-where="${esc(w)}"` : '';
+    if (CON && !CA) return /^\[\d+\]$/.test(w) ? ` data-where="${esc(w)}"` : '';
     if (NY) { const n = w.match(/^(\d+(?:-[A-Za-z])?)((?:\([A-Za-z0-9-]+\))*)$/), q = w.match(/^(?:\([A-Za-z0-9-]+\))+$/); return n ? ` data-where="${esc(n[1] + '.' + n[2])}"` : q ? ` data-where="${esc(w)}"` : ''; }
     const m = w.match(/^(?:\([A-Za-z0-9]+\))+/); return m ? ` data-where="${esc(m[0])}"` : '';
   };
@@ -1165,7 +1168,7 @@
             <div class="official">
               <h3>Official text <span class="legend">${CON ? CON_LEGEND : `<span class="act">prohibited act</span><span class="intent">mental state</span><span class="cond"><span class="condw">if</span> condition</span><span class="pen">penalty</span><span class="term" style="cursor:default">legal term</span>`}</span></h3>
               <div class="stat">${statGroups(c.text)}</div>
-              ${c.source ? `<p class="src"><b>${CON ? 'Proposal and ratification' : 'History'}:</b> ${enrich(c.source)}</p>` : ''}
+              ${c.source ? `<p class="src"><b>${CON && !CA ? 'Proposal and ratification' : 'History'}:</b> ${enrich(c.source)}</p>` : ''}
               ${c.footnotes.map(f => `<p class="fn">${CON ? `<b>Note (${MA ? 'Massachusetts Legislature' : NY ? 'New York State Senate' : 'Government Publishing Office'}):</b> ` : ''}${enrich(f)}</p>`).join('')}
             </div>
             ${(e => e ? `<aside class="split-crimes">${e}</aside>` : '')(CON ? provisionsHTML(c) : elementsHTML(c))}

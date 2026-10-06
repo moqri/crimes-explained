@@ -4,7 +4,11 @@ import json, re, sys
 CATS = {"Founding & Purposes", "Individual Rights", "Criminal Justice", "Voting & Elections", "Equality & Citizenship", "Congress",
         "The Presidency", "The Courts", "States & Federalism", "Taxes, Money & Commerce", "War & Military", "Amending & Ratifying"}
 JUR = sys.argv[sys.argv.index("--jur") + 1] if "--jur" in sys.argv else "us"
-MA, NY = JUR == "ma", JUR == "ny"
+MA, NY, CA = JUR == "ma", JUR == "ny", JUR == "ca"
+if CA:
+    CATS = {"Founding & Purposes", "Individual Rights", "Criminal Justice", "Voting & Elections", "Equality & Citizenship", "The Legislature",
+            "The Governor & Executive", "The Courts", "Local Government", "Taxes, Money & Commerce", "Education", "Water & Natural Resources",
+            "Transportation", "Public Officers & Employees", "Labor", "Housing & Public Utilities", "Amending & Ratifying"}
 if NY:
     CATS = {"Founding & Purposes", "Individual Rights", "Criminal Justice", "Voting & Elections", "Equality & Citizenship", "The Legislature",
             "The Governor & Executive", "The Courts", "Local Government", "Taxes, Money & Commerce", "Education", "Military & Defense",
@@ -12,7 +16,7 @@ if NY:
 if MA:
     CATS = {"Founding & Purposes", "Individual Rights", "Criminal Justice", "Voting & Elections", "Equality & Citizenship", "The Legislature",
             "The Governor & Executive", "The Courts", "Local Government", "Taxes, Money & Commerce", "Education & Religion", "Military & Militia", "Amending & Ratifying"}
-if MA or NY:
+if MA or NY or CA:
     sys.argv = [a for i, a in enumerate(sys.argv) if a != "--jur" and (i == 0 or sys.argv[i - 1] != "--jur")]
 KINDS = {"Right", "Power", "Limit", "Duty", "Structure"}
 OUTSIDE = re.compile(r"(?-i:\b[A-Z][a-z]+ v\. [A-Z])|\bcourts? (?:have|has) (?:held|ruled|read|found|interpreted)|\bcase law\b|\bincorporat(?:ed|ion)\s+(?:against the states|through the (?:Fourteenth|Due Process)|doctrine)|strict scrutiny|\b(?:incorporation|[a-z]+-clause|political question|state action) doctrine\b|§", re.I)   # "supreme Court" is the Constitution's own wording
@@ -53,7 +57,7 @@ for s, v in out.items():
             hits = [(k, t.find(ph)) for k, t in enumerate(paras) if ph in t]
             if not ph.strip() or not hits: problems.append(f"{s}: {key} phrase not found exactly in one paragraph: {ph!r}"); continue
             k, i = hits[0]
-            if re.match(r"^\[\d+\]", ph) or (NY and re.match(r"^\(?[0-9A-Za-z]{1,4}[.)]\s", ph) and paras[k].startswith(ph[:4])): problems.append(f"{s}: {key} phrase includes the clause label: {ph!r}")
+            if re.match(r"^\[\d+\]", ph) or ((NY or CA) and re.match(r"^\(?[0-9A-Za-z]{1,4}[.)]\s", ph) and paras[k].startswith(ph[:4])): problems.append(f"{s}: {key} phrase includes the clause label: {ph!r}")
             if MA and ("[" in ph or "]" in ph or paras[k].rfind("[", 0, i) > paras[k].rfind("]", 0, i)): problems.append(f"{s}: {key} phrase is inside or includes superseded [bracketed] wording: {ph!r}")
             spans.append((k, i, i + len(ph), ph))
     spans.sort()
@@ -67,10 +71,11 @@ for s, v in out.items():
         w = pv.get("where", "")
         if MA and w and not re.fullmatch(r"Section \d+", w): problems.append(f"{s}: provision {n + 1} where must be '' or 'Section N'")
         elif NY and w and not any(re.match(re.escape(re.match(r"^\(?[0-9A-Za-z]{1,4}\)?", w).group(0) if re.match(r"^\(?[0-9A-Za-z]{1,4}\)?", w) else w) + r"[.)]?\s", t) for t in paras): problems.append(f"{s}: provision {n + 1} where {w!r} does not match a paragraph label")
-        elif not MA and not NY and w and w not in labels: problems.append(f"{s}: provision {n + 1} where {w!r} is not a clause label in the text {sorted(labels)}")
+        elif CA and w and not re.fullmatch(r"(?:\([0-9A-Za-z]{1,5}\))+", w): problems.append(f"{s}: provision {n + 1} where {w!r} must be a label path like '(a)' or '(b)(1)'")
+        elif not MA and not NY and not CA and w and w not in labels: problems.append(f"{s}: provision {n + 1} where {w!r} is not a clause label in the text {sorted(labels)}")
         for k in ("requires", "forbids", "conditions", "exceptions", "terms", "changedBy"):
             if k in pv and not isinstance(pv[k], list): problems.append(f"{s}: provision {n + 1} {k} must be a list")
-        if NY and pv.get("changedBy"): problems.append(f"{s}: provision {n + 1} changedBy must be [] for New York")
+        if (NY or CA) and pv.get("changedBy"): problems.append(f"{s}: provision {n + 1} changedBy must be [] for New York")
         if pv.get("changedBy") and not inp[s]["notes"] and not re.search(r"\[\s*(?:[^\]]*\b(?:superseded|annulled|amended)\b)", " ".join(paras), re.I): problems.append(f"{s}: changedBy given but the provision has no notes")
         if MA and any(re.match(r"\[?\s*(?:[Ss]ee|For)\b", c) for c in pv.get("changedBy") or []): problems.append(f"{s}: provision {n + 1} changedBy holds a cross-reference ('See …'/'For …'), not a change")
     for txt in [r.get("title", ""), r.get("plain", "")] + [json.dumps(pv) for pv in provs or []]:

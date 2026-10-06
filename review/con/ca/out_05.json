@@ -1,0 +1,1702 @@
+{
+ "a4-s10": {
+  "review": {
+   "title": "Governor's signature, veto and bill deadlines",
+   "plain": "Bills passed by the Legislature go to the Governor, who may sign or veto them; two-thirds of each house may override. It sets when unreturned bills become statutes, deadlines for passing bills, item reductions in appropriations, and fiscal emergency special sessions.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "The Governor may veto it by returning it with any objections to the house of origin",
+    "The Governor may reduce or eliminate one or more items of appropriation while approving other portions of a bill",
+    "the Governor may issue a proclamation declaring a fiscal emergency"
+   ],
+   "limits": [
+    "may no longer be acted on by the house",
+    "No bill may be passed by either house on or after September 1 of an even-numbered year",
+    "The Legislature may not present any bill to the Governor after November 15 of the second calendar year of the biennium of the legislative session",
+    "the Legislature may not act on any other bill, nor may the Legislature adjourn for a joint recess"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Each bill passed by the Legislature shall be presented to the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Each bill passed by the Legislature shall be presented to the Governor"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "It becomes a statute if it is signed by the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if it is signed by the Governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Governor may veto it by returning it with any objections to the house of origin",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The house of origin shall enter the objections in the journal and proceed to reconsider it",
+     "holder": null,
+     "binds": "The house of origin",
+     "requires": [
+      "enter the objections in the journal",
+      "proceed to reconsider it"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "If each house then passes the bill by rollcall vote entered in the journal, two-thirds of the membership concurring, it becomes a statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If each house then passes the bill by rollcall vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "structure",
+     "what": "Any bill passed by the Legislature on or before the date the Legislature adjourns for a joint recess to reconvene in the second calendar year of the biennium, and in the possession of the Governor after that date, that is not returned within 30 days after that date becomes a statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "passed by the Legislature on or before the date the Legislature adjourns for a joint recess to reconvene in the second calendar year of the biennium of the legislative session",
+      "in the possession of the Governor after that date",
+      "not returned within 30 days after that date"
+     ],
+     "exceptions": [
+      "other than a bill which would establish or change boundaries of any legislative, congressional, or other election district"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "Any bill passed by the Legislature before September 1 of the second calendar year of the biennium and in the possession of the Governor on or after September 1 that is not returned on or before September 30 of that year becomes a statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "passed by the Legislature before September 1 of the second calendar year of the biennium of the legislative session",
+      "in the possession of the Governor on or after September 1",
+      "not returned on or before September 30 of that year"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "structure",
+     "what": "Any other bill presented to the Governor that is not returned within 12 days becomes a statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "not returned within 12 days"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(4)",
+     "kind": "structure",
+     "what": "If the Legislature by adjournment of a special session prevents the return of a bill with the veto message, the bill becomes a statute unless the Governor vetoes the bill within 12 days after it is presented by depositing it and the veto message in the office of the Secretary of State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the Legislature by adjournment of a special session prevents the return of a bill with the veto message"
+     ],
+     "exceptions": [
+      "unless the Governor vetoes the bill within 12 days after it is presented by depositing it and the veto message in the office of the Secretary of State"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(5)",
+     "kind": "structure",
+     "what": "If the 12th day of the period under paragraph (3) or (4) is a Saturday, Sunday, or holiday, the period is extended to the next day that is not a Saturday, Sunday, or holiday",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If the 12th day of the period within which the Governor is required to perform an act pursuant to paragraph (3) or (4) of this subdivision is a Saturday, Sunday, or holiday"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "Any bill introduced during the first year of the biennium that has not been passed by the house of origin by January 31 of the second calendar year of the biennium may no longer be acted on by the house",
+     "holder": null,
+     "binds": "The house of origin",
+     "requires": [],
+     "forbids": [
+      "acting on a bill introduced during the first year of the biennium of the legislative session that has not been passed by the house of origin by January 31 of the second calendar year of the biennium"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "No bill may be passed by either house on or after September 1 of an even-numbered year",
+     "holder": null,
+     "binds": "Either house",
+     "requires": [],
+     "forbids": [
+      "passing a bill on or after September 1 of an even-numbered year"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "statutes calling elections",
+      "statutes providing for tax levies or appropriations for the usual current expenses of the State",
+      "urgency statutes",
+      "bills passed after being vetoed by the Governor"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "The Legislature may not present any bill to the Governor after November 15 of the second calendar year of the biennium of the legislative session",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "present any bill to the Governor after November 15 of the second calendar year of the biennium of the legislative session"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "The Governor may reduce or eliminate one or more items of appropriation while approving other portions of a bill",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The Governor shall append to the bill a statement of the items reduced or eliminated with the reasons for the action, and shall transmit to the house originating the bill a copy of the statement and reasons",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [
+      "append to the bill a statement of the items reduced or eliminated with the reasons for the action",
+      "transmit to the house originating the bill a copy of the statement and reasons"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "structure",
+     "what": "Items reduced or eliminated shall be separately reconsidered and may be passed over the Governor's veto in the same manner as bills",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Items reduced or eliminated shall be separately reconsidered"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(1)",
+     "kind": "power",
+     "what": "The Governor may issue a proclamation declaring a fiscal emergency",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "following the enactment of the budget bill for the 2004–05 fiscal year or any subsequent fiscal year",
+      "the Governor determines that, for that fiscal year, General Fund revenues will decline substantially below the estimate of General Fund revenues upon which the budget bill for that fiscal year, as enacted, was based, or General Fund expenditures will increase substantially above that estimate of General Fund revenues, or both"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(1)",
+     "kind": "duty",
+     "what": "The Governor shall thereupon cause the Legislature to assemble in special session; the proclamation shall identify the nature of the fiscal emergency and shall be submitted to the Legislature, accompanied by proposed legislation to address the fiscal emergency",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [
+      "cause the Legislature to assemble in special session for this purpose",
+      "The proclamation shall identify the nature of the fiscal emergency",
+      "shall be submitted by the Governor to the Legislature, accompanied by proposed legislation to address the fiscal emergency"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(2)",
+     "kind": "limit",
+     "what": "If the Legislature fails to pass and send to the Governor a bill or bills to address the fiscal emergency by the 45th day following the issuance of the proclamation, the Legislature may not act on any other bill, nor adjourn for a joint recess, until that bill or those bills have been passed and sent to the Governor",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "act on any other bill",
+      "adjourn for a joint recess"
+     ],
+     "conditions": [
+      "If the Legislature fails to pass and send to the Governor a bill or bills to address the fiscal emergency by the 45th day following the issuance of the proclamation",
+      "until that bill or those bills have been passed and sent to the Governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)(3)",
+     "kind": "structure",
+     "what": "A bill addressing the fiscal emergency declared pursuant to this section shall contain a statement to that effect",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "shall contain a statement to that effect"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s11": {
+  "review": {
+   "title": "Legislative committees",
+   "plain": "The Legislature or either house may by resolution provide for selecting committees needed for its business, including committees to find facts and make recommendations on subjects within legislative control.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may by resolution provide for the selection of committees necessary for the conduct of its business"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Legislature or either house may by resolution provide for the selection of committees necessary for the conduct of its business, including committees to ascertain facts and make recommendations to the Legislature on a subject within the scope of legislative control",
+     "holder": "The Legislature or either house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s12": {
+  "review": {
+   "title": "State budget and budget bill",
+   "plain": "The Governor must submit a budget each January with a budget bill. The Legislature must pass the budget bill by midnight June 15 by majority vote. It limits other appropriations, bars an unbalanced budget bill, and stops legislators' pay when the budget is late.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "may require a state agency, officer or employee to furnish whatever information is deemed necessary to prepare the budget",
+    "The Legislature may control the submission, approval, and enforcement of budgets and the filing of claims for all state agencies"
+   ],
+   "limits": [
+    "the Legislature shall not send to the Governor for consideration any bill appropriating funds for expenditure during the fiscal year for which the budget bill is to be enacted",
+    "No bill except the budget bill may contain more than one item of appropriation",
+    "are void unless passed in each house by rollcall vote entered in the journal, two-thirds of the membership concurring",
+    "the Legislature may not send to the Governor for consideration, nor may the Governor sign into law, a budget bill that would appropriate from the General Fund",
+    "there shall be no appropriation from the current budget or future budget to pay any salary or reimbursement for travel or living expenses for Members of the Legislature",
+    "No salary or reimbursement for travel or living expenses forfeited pursuant to this subdivision shall be paid retroactively"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Within the first 10 days of each calendar year, the Governor shall submit to the Legislature, with an explanatory message, a budget for the ensuing fiscal year containing itemized statements for recommended state expenditures and estimated state revenues",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [
+      "submit to the Legislature, with an explanatory message, a budget for the ensuing fiscal year",
+      "containing itemized statements for recommended state expenditures and estimated state revenues"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "If recommended expenditures exceed estimated revenues, the Governor shall recommend the sources from which the additional revenues should be provided",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If recommended expenditures exceed estimated revenues"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Governor and the Governor-elect may require a state agency, officer or employee to furnish whatever information is deemed necessary to prepare the budget",
+     "holder": "The Governor and the Governor-elect",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "structure",
+     "what": "The budget shall be accompanied by a budget bill itemizing recommended expenditures",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "accompanied by a budget bill itemizing recommended expenditures"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "duty",
+     "what": "The budget bill shall be introduced immediately in each house by the persons chairing the committees that consider the budget",
+     "holder": null,
+     "binds": "The persons chairing the committees that consider the budget",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "duty",
+     "what": "The Legislature shall pass the budget bill by midnight on June 15 of each year",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "limit",
+     "what": "Until the budget bill has been enacted, the Legislature shall not send to the Governor for consideration any bill appropriating funds for expenditure during the fiscal year for which the budget bill is to be enacted",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Until the budget bill has been enacted"
+     ],
+     "exceptions": [
+      "emergency bills recommended by the Governor",
+      "appropriations for the salaries and expenses of the Legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "No bill except the budget bill may contain more than one item of appropriation, and that for one certain, expressed purpose",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "except the budget bill"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "Appropriations from the General Fund of the State are void unless passed in each house by rollcall vote entered in the journal, two-thirds of the membership concurring",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "appropriations for the public schools",
+      "appropriations in the budget bill and in other bills providing for appropriations related to the budget bill"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(1)",
+     "kind": "structure",
+     "what": "Notwithstanding any other provision of law or of this Constitution, the budget bill and other bills providing for appropriations related to the budget bill may be passed in each house by rollcall vote entered in the journal, a majority of the membership concurring, to take effect immediately upon being signed by the Governor or upon a date specified in the legislation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Nothing in this subdivision shall affect the vote requirement for appropriations for the public schools contained in subdivision (d) of this section and in subdivision (b) of Section 8 of this article"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)(2)",
+     "kind": "structure",
+     "what": "Defines “other bills providing for appropriations related to the budget bill” for this section",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"other bills providing for appropriations related to the budget bill\": only bills identified as related to the budget in the budget bill passed by the Legislature"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The Legislature may control the submission, approval, and enforcement of budgets and the filing of claims for all state agencies",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "For the 2004–05 fiscal year, or any subsequent fiscal year, the Legislature may not send to the Governor, nor may the Governor sign into law, a budget bill that would appropriate from the General Fund a total amount that, combined with all General Fund appropriations for that fiscal year made as of the budget bill’s passage and any General Fund moneys transferred to the Budget Stabilization Account for that fiscal year, exceeds General Fund revenues for that fiscal year estimated as of the date of the budget bill’s passage",
+     "holder": null,
+     "binds": "The Legislature and the Governor",
+     "requires": [
+      "That estimate of General Fund revenues shall be set forth in the budget bill passed by the Legislature"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "limit",
+     "what": "In any year in which the budget bill is not passed by the Legislature by midnight on June 15, there shall be no appropriation from the current budget or future budget to pay any salary or reimbursement for travel or living expenses for Members of the Legislature for the period from midnight on June 15 until the day that the budget bill is presented to the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "appropriation from the current budget or future budget to pay any salary or reimbursement for travel or living expenses for Members of the Legislature during any regular or special session"
+     ],
+     "conditions": [
+      "in any year in which the budget bill is not passed by the Legislature by midnight on June 15"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "limit",
+     "what": "No salary or reimbursement for travel or living expenses forfeited pursuant to this subdivision shall be paid retroactively",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "paying forfeited salary or reimbursement retroactively"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s12.5": {
+  "review": {
+   "title": "Director of Finance revenue and spending estimates",
+   "plain": "After the Governor's budget is submitted, after proposed adjustments to it, and after the budget bill is enacted, the Director of Finance must give the Legislature General Fund revenue and expenditure estimates for the ensuing fiscal year and the three years after.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Director of Finance shall submit to the Legislature estimates of General Fund revenues for the ensuing fiscal year and for the three fiscal years thereafter",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Within 10 days following the submission of a budget pursuant to subdivision (a) of Section 12, following the proposed adjustments to the Governor’s Budget required by subdivision (e) of Section 13308 of the Government Code or a successor statute, and following the enactment of the budget bill, or as soon as feasible thereafter"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The Director of Finance shall submit to the Legislature estimates of General Fund expenditures for the ensuing fiscal year and for the three fiscal years thereafter",
+     "holder": null,
+     "binds": "The Director of Finance",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Within 10 days following the submission of a budget pursuant to subdivision (a) of Section 12, following the proposed adjustments to the Governor’s Budget required by subdivision (e) of Section 13308 of the Government Code or a successor statute, and following the enactment of the budget bill, or as soon as feasible thereafter"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s13": {
+  "review": {
+   "title": "Legislators may not hold other state office",
+   "plain": "During the term for which they are elected, members of the Legislature may not hold any office or employment under the State other than an elective office.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not, during the term for which the member is elected, hold any office or employment under the State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A member of the Legislature may not, during the term for which the member is elected, hold any office or employment under the State other than an elective office",
+     "holder": null,
+     "binds": "A member of the Legislature",
+     "requires": [],
+     "forbids": [
+      "hold any office or employment under the State"
+     ],
+     "conditions": [
+      "during the term for which the member is elected"
+     ],
+     "exceptions": [
+      "other than an elective office"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s14": {
+  "review": {
+   "title": "Legislators exempt from civil process during session",
+   "plain": "A member of the Legislature is not subject to civil process during a session of the Legislature or for 5 days before and after a session.",
+   "category": "The Legislature",
+   "kind": "Right",
+   "rights": [
+    "is not subject to civil process during a session of the Legislature or for 5 days before and after a session"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "A member of the Legislature is not subject to civil process during a session of the Legislature or for 5 days before and after a session",
+     "holder": "A member of the Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "during a session of the Legislature or for 5 days before and after a session"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s15": {
+  "review": {
+   "title": "Bribing or improperly influencing legislators",
+   "plain": "A person who seeks to influence a legislator's vote or action by bribery, promise of reward, intimidation, or other dishonest means, and a legislator so influenced, is guilty of a felony.",
+   "category": "Criminal Justice",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "is guilty of a felony"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A person who seeks to influence the vote or action of a member of the Legislature in the member’s legislative capacity by bribery, promise of reward, intimidation, or other dishonest means, or a member of the Legislature so influenced, is guilty of a felony",
+     "holder": null,
+     "binds": "A person who seeks to influence a member of the Legislature, or a member of the Legislature so influenced",
+     "requires": [],
+     "forbids": [
+      "seeking to influence the vote or action of a member of the Legislature in the member’s legislative capacity by bribery, promise of reward, intimidation, or other dishonest means",
+      "being a member of the Legislature so influenced"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s16": {
+  "review": {
+   "title": "Uniform general laws; special statutes",
+   "plain": "All laws of a general nature have uniform operation. A local or special statute is invalid in any case if a general statute can be made applicable.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "A local or special statute is invalid in any case"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "All laws of a general nature have uniform operation",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "uniform operation"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A local or special statute is invalid in any case if a general statute can be made applicable",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if a general statute can be made applicable"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s17": {
+  "review": {
+   "title": "No extra pay after service is rendered",
+   "plain": "The Legislature has no power to grant, or let local public bodies grant, extra compensation to a public officer, employee, or contractor after the service or contract is performed, or to authorize payment of a claim under an agreement made without authority of law.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "has no power to grant, or to authorize a city, county, or other public body to grant, extra compensation or extra allowance",
+    "or to authorize the payment of a claim against the State or a city, county, or other public body under an agreement made without authority of law"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature has no power to grant, or to authorize a city, county, or other public body to grant, extra compensation or extra allowance to a public officer, public employee, or contractor after service has been rendered or a contract has been entered into and performed in whole or in part",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "grant, or to authorize a city, county, or other public body to grant, extra compensation or extra allowance to a public officer, public employee, or contractor after service has been rendered or a contract has been entered into and performed in whole or in part"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Legislature has no power to authorize the payment of a claim against the State or a city, county, or other public body under an agreement made without authority of law",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "authorize the payment of a claim against the State or a city, county, or other public body under an agreement made without authority of law"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s18": {
+  "review": {
+   "title": "Impeachment",
+   "plain": "The Assembly has the sole power of impeachment and the Senate tries impeachments; conviction needs two thirds of the Senate. Statewide elected officers, Board of Equalization members, and state judges may be impeached for misconduct; judgment is limited to removal and disqualification.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Assembly has the sole power of impeachment"
+   ],
+   "limits": [
+    "A person may not be convicted unless, by rollcall vote entered in the journal, two thirds of the membership of the Senate concurs",
+    "Judgment may extend only to removal from office and disqualification to hold any office under the State"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Assembly has the sole power of impeachment",
+     "holder": "The Assembly",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Impeachments shall be tried by the Senate",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "A person may not be convicted unless, by rollcall vote entered in the journal, two thirds of the membership of the Senate concurs",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless, by rollcall vote entered in the journal, two thirds of the membership of the Senate concurs"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "State officers elected on a statewide basis, members of the State Board of Equalization, and judges of state courts are subject to impeachment for misconduct in office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "for misconduct in office"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Judgment may extend only to removal from office and disqualification to hold any office under the State, but the person convicted or acquitted remains subject to criminal punishment according to law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the person convicted or acquitted remains subject to criminal punishment according to law"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s19": {
+  "review": {
+   "title": "Lotteries, gambling and tribal gaming",
+   "plain": "The Legislature has no power to authorize lotteries or Nevada- and New Jersey-type casinos and shall prohibit them, but a California State Lottery is authorized, and horse racing, charitable bingo and raffles, and compact-based tribal gaming on Indian lands may be allowed.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may provide for the regulation of horse races and horse race meetings and wagering on the results",
+    "the Legislature by statute may authorize cities and counties to provide for bingo games",
+    "there is authorized the establishment of a California State Lottery",
+    "the Governor is authorized to negotiate and conclude compacts",
+    "the Legislature may authorize private, nonprofit, eligible organizations, as defined by the Legislature, to conduct raffles",
+    "may amend the percentage of gross receipts required by this subdivision to be dedicated to beneficial or charitable purposes"
+   ],
+   "limits": [
+    "The Legislature has no power to authorize lotteries",
+    "The Legislature has no power to authorize,"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The Legislature has no power to authorize lotteries",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "authorize lotteries"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall prohibit the sale of lottery tickets in the State",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "prohibit the sale of lottery tickets in the State"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may provide for the regulation of horse races and horse race meetings and wagering on the results",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The Legislature by statute may authorize cities and counties to provide for bingo games, but only for charitable purposes",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "but only for charitable purposes"
+     ],
+     "exceptions": [
+      "Notwithstanding subdivision (a)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "There is authorized the establishment of a California State Lottery",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Notwithstanding subdivision (a)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "The Legislature has no power to authorize casinos of the type currently operating in Nevada and New Jersey",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "authorize casinos of the type currently operating in Nevada and New Jersey"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The Legislature shall prohibit casinos of the type currently operating in Nevada and New Jersey",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The Governor is authorized to negotiate and conclude compacts, subject to ratification by the Legislature, for the operation of slot machines and for the conduct of lottery games and banking and percentage card games by federally recognized Indian tribes on Indian lands in California in accordance with federal law",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to ratification by the Legislature",
+      "in accordance with federal law"
+     ],
+     "exceptions": [
+      "Notwithstanding subdivisions (a) and (e), and any other provision of state law"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "structure",
+     "what": "Slot machines, lottery games, and banking and percentage card games are hereby permitted to be conducted and operated on tribal lands subject to those compacts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "subject to those compacts"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The Legislature may authorize private, nonprofit, eligible organizations, as defined by the Legislature, to conduct raffles as a funding mechanism to provide support for their own or another private, nonprofit, eligible organization’s beneficial and charitable works",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "at least 90 percent of the gross receipts from the raffle go directly to beneficial or charitable purposes in California",
+      "any person who receives compensation in connection with the operation of a raffle is an employee of the private nonprofit organization that is conducting the raffle"
+     ],
+     "exceptions": [
+      "Notwithstanding subdivision (a)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The Legislature, two-thirds of the membership of each house concurring, may amend the percentage of gross receipts required by this subdivision to be dedicated to beneficial or charitable purposes by means of a statute that is signed by the Governor",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "two-thirds of the membership of each house concurring",
+      "by means of a statute that is signed by the Governor"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s20": {
+  "review": {
+   "title": "Fish and game; Fish and Game Commission",
+   "plain": "The Legislature may divide the State into fish and game districts and protect fish and game. A 5-member Fish and Game Commission is appointed by the Governor and approved by the Senate for 6-year terms; the Legislature may delegate powers to it.",
+   "category": "Water & Natural Resources",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The Legislature may provide for division of the State into fish and game districts",
+    "may protect fish and game in districts or parts of districts",
+    "The Legislature may delegate to the commission such powers relating to the protection and propagation of fish and game",
+    "may be removed by concurrent resolution adopted by each house"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Legislature may provide for division of the State into fish and game districts and may protect fish and game in districts or parts of districts",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "There is a Fish and Game Commission of 5 members appointed by the Governor and approved by the Senate, a majority of the membership concurring, for 6-year terms and until their successors are appointed and qualified; appointment to fill a vacancy is for the unexpired portion of the term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may delegate to the commission such powers relating to the protection and propagation of fish and game as the Legislature sees fit",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "A member of the commission may be removed by concurrent resolution adopted by each house, a majority of the membership concurring",
+     "holder": "Each house, by concurrent resolution",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "a majority of the membership concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s21": {
+  "review": {
+   "title": "War-caused or enemy-caused disaster",
+   "plain": "To meet needs from war-caused or enemy-caused disaster in California, the Legislature may provide for filling legislative seats and the Governor's office, convening the Legislature, holding elections for vacant offices, and choosing a temporary seat of state or county government.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the Legislature may provide for"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "Filling the offices of members of the Legislature should at least one fifth of the membership of either house be killed, missing, or disabled, until they are able to perform their duties or successors are elected",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To meet the needs resulting from war-caused or enemy-caused disaster in California",
+      "should at least one fifth of the membership of either house be killed, missing, or disabled"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "Filling the office of Governor should the Governor be killed, missing, or disabled, until the Governor or the successor designated in this Constitution is able to perform the duties of the office of Governor or a successor is elected",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To meet the needs resulting from war-caused or enemy-caused disaster in California",
+      "should the Governor be killed, missing, or disabled"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "Convening the Legislature",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To meet the needs resulting from war-caused or enemy-caused disaster in California"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "Holding elections to fill offices that are elective under this Constitution and that are either vacant or occupied by persons not elected thereto",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To meet the needs resulting from war-caused or enemy-caused disaster in California"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "power",
+     "what": "Selecting a temporary seat of state or county government",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "To meet the needs resulting from war-caused or enemy-caused disaster in California"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s22": {
+  "review": {
+   "title": "Right to hold legislators accountable",
+   "plain": "The people have the right to hold their legislators accountable. To assist them, legislative leaders of each house shall report the house's goals at the start of each regular session and its progress at the close.",
+   "category": "The Legislature",
+   "kind": "Right",
+   "rights": [
+    "the right of the people to hold their legislators accountable"
+   ],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "right",
+     "what": "It is the right of the people to hold their legislators accountable",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "At the convening of each regular session, the President pro Tempore of the Senate, the Speaker of the Assembly, and the minority leader of each house shall report to their house the goals and objectives of that house during that session and, at the close of each regular session, the progress made toward meeting those goals and objectives",
+     "holder": null,
+     "binds": "The President pro Tempore of the Senate, the Speaker of the Assembly, and the minority leader of each house",
+     "requires": [
+      "report to their house the goals and objectives of that house during that session",
+      "at the close of each regular session, the progress made toward meeting those goals and objectives"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s28": {
+  "review": {
+   "title": "State Capitol restoration spending",
+   "plain": "No bill appropriating money to alter the historically restored areas of the State Capitol, or to replace their period furniture, may take effect as an urgency statute, and no such spending may be made unless funds are expressly appropriated. Ordinary repair and maintenance is excepted.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "no bill shall take effect as an urgency statute",
+    "No expenditures shall be made in payment for any of the purposes described in subdivision (a) of this section"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No bill shall take effect as an urgency statute if it authorizes or contains an appropriation for the alteration or modification of the color, detail, design, structure or fixtures of the historically restored areas of the first, second, and third floors and the exterior of the west wing of the State Capitol, or the purchase of furniture of different design to replace that restored, replicated, or designed to conform to the historic period of those areas",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if it authorizes or contains an appropriation for either (1) the alteration or modification of the color, detail, design, structure or fixtures of the historically restored areas",
+      "or (2) the purchase of furniture of different design to replace that restored, replicated, or designed to conform to the historic period of the historically restored areas specified above, including the legislators’ chairs and desks in the Senate and Assembly Chambers"
+     ],
+     "exceptions": [
+      "Notwithstanding any other provision of this Constitution"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No expenditures shall be made in payment for any of the purposes described in subdivision (a) unless funds are appropriated expressly for such purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless funds are appropriated expressly for such purposes"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "This section shall not apply to appropriations or expenditures for ordinary repair and maintenance of the State Capitol building, fixtures and furniture",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "appropriations or expenditures for ordinary repair and maintenance of the State Capitol building, fixtures and furniture"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s1": {
+  "review": {
+   "title": "Executive power vested in the Governor",
+   "plain": "The supreme executive power of California is vested in the Governor, who shall see that the law is faithfully executed.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The supreme executive power of this State is vested in the Governor"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The supreme executive power of this State is vested in the Governor",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Governor shall see that the law is faithfully executed",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s2": {
+  "review": {
+   "title": "Governor's election, term and qualifications",
+   "plain": "The Governor is elected every fourth year with Assembly members and serves until a successor qualifies. The Governor must be an elector who has been a U.S. citizen and state resident for 5 years, may not hold other public office, and may serve no more than 2 terms.",
+   "category": "The Governor & Executive",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "The Governor may not hold other public office",
+    "No Governor may serve more than 2 terms"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Governor shall be elected every fourth year at the same time and places as members of the Assembly and hold office from the Monday after January 1 following the election until a successor qualifies",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The Governor shall be an elector who has been a citizen of the United States and a resident of this State for 5 years immediately preceding the Governor’s election",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "an elector",
+      "a citizen of the United States and a resident of this State for 5 years immediately preceding the Governor’s election"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "The Governor may not hold other public office",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [
+      "hold other public office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No Governor may serve more than 2 terms",
+     "holder": null,
+     "binds": "No Governor",
+     "requires": [],
+     "forbids": [
+      "serve more than 2 terms"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s3": {
+  "review": {
+   "title": "Governor's yearly report to the Legislature",
+   "plain": "Each calendar year the Governor shall report to the Legislature on the condition of the State and may make recommendations.",
+   "category": "The Governor & Executive",
+   "kind": "Duty",
+   "rights": [],
+   "powers": [
+    "may make recommendations"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "The Governor shall report to the Legislature each calendar year on the condition of the State",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Governor may make recommendations",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s4": {
+  "review": {
+   "title": "Governor may require information",
+   "plain": "The Governor may require executive officers and agencies and their employees to furnish information relating to their duties.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "may require executive officers and agencies and their employees to furnish information relating to their duties"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The Governor may require executive officers and agencies and their employees to furnish information relating to their duties",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a5-s5": {
+  "review": {
+   "title": "Filling vacancies in office",
+   "plain": "Unless the law provides otherwise, the Governor may fill a vacancy by appointment. For vacancies in listed statewide offices or the Board of Equalization, the Governor nominates a person who takes office when confirmed by both houses, or if neither confirmed nor refused within 90 days.",
+   "category": "The Governor & Executive",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "the Governor may fill a vacancy in office by appointment"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "The Governor may fill a vacancy in office by appointment until a successor qualifies",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Unless the law otherwise provides"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Whenever there is a vacancy in the office of the Superintendent of Public Instruction, the Lieutenant Governor, Secretary of State, Controller, Treasurer, or Attorney General, or on the State Board of Equalization, the Governor shall nominate a person to fill the vacancy",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Whenever there is a vacancy in the office of the Superintendent of Public Instruction, the Lieutenant Governor, Secretary of State, Controller, Treasurer, or Attorney General, or on the State Board of Equalization"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The nominee shall take office upon confirmation by a majority of the membership of the Senate and a majority of the membership of the Assembly and shall hold office for the balance of the unexpired term",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "upon confirmation by a majority of the membership of the Senate and a majority of the membership of the Assembly"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "If the nominee is neither confirmed nor refused confirmation by both the Senate and the Assembly within 90 days of the submission of the nomination, the nominee shall take office as if he or she had been confirmed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "In the event the nominee is neither confirmed nor refused confirmation by both the Senate and the Assembly within 90 days of the submission of the nomination"
+     ],
+     "exceptions": [
+      "if such 90-day period ends during a recess of the Legislature, the period shall be extended until the sixth day following the day on which the Legislature reconvenes"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}

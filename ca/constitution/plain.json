@@ -1,0 +1,1249 @@
+{
+ "preamble": {
+  "title": "Purpose of the Constitution",
+  "plain": "The People of the State of California, grateful to Almighty God for their freedom, establish this Constitution to secure and perpetuate its blessings.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s1": {
+  "title": "Inalienable rights",
+  "plain": "All people are by nature free and independent and have inalienable rights, among them enjoying and defending life and liberty, acquiring, possessing, and protecting property, and pursuing and obtaining safety, happiness, and privacy.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "inalienable rights",
+   "enjoying and defending life and liberty",
+   "acquiring, possessing, and protecting property",
+   "pursuing and obtaining safety, happiness, and privacy"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s1.1": {
+  "title": "Reproductive freedom",
+  "plain": "The state shall not deny or interfere with an individual's reproductive freedom in their most intimate decisions, including the fundamental right to choose to have an abortion and to choose or refuse contraceptives.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "reproductive freedom in their most intimate decisions",
+   "fundamental right to choose to have an abortion",
+   "fundamental right to choose or refuse contraceptives"
+  ],
+  "powers": [],
+  "limits": [
+   "The state shall not deny or interfere with"
+  ]
+ },
+ "a1-s2": {
+  "title": "Freedom of speech and press; news sources",
+  "plain": "Every person may freely speak, write and publish on all subjects, being responsible for abuse of this right, and no law may restrain speech or press. News reporters and others may not be held in contempt for refusing to disclose sources or unpublished information.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "freely speak, write and publish his or her sentiments on all subjects"
+  ],
+  "powers": [],
+  "limits": [
+   "A law may not restrain or abridge liberty of speech or press",
+   "shall not be adjudged in contempt",
+   "be so adjudged in contempt"
+  ]
+ },
+ "a1-s3": {
+  "title": "Petition, assembly and public access to information",
+  "plain": "The people have the right to instruct their representatives, petition government, and assemble freely, and the right of access to information about the people's business; meetings of public bodies and writings of public officials and agencies shall be open to public scrutiny.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "to instruct their representatives",
+   "petition government for redress of grievances",
+   "assemble freely to consult for the common good",
+   "the right of access to information concerning the conduct of the people’s business"
+  ],
+  "powers": [],
+  "limits": [
+   "shall be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest"
+  ]
+ },
+ "a1-s4": {
+  "title": "Freedom of religion",
+  "plain": "Free exercise and enjoyment of religion without discrimination or preference are guaranteed, but this does not excuse licentious acts or acts inconsistent with the State's peace or safety. The Legislature shall make no law respecting an establishment of religion.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "Free exercise and enjoyment of religion without discrimination or preference are guaranteed"
+  ],
+  "powers": [],
+  "limits": [
+   "The Legislature shall make no law respecting an establishment of religion",
+   "A person is not incompetent to be a witness or juror because of his or her opinions on religious beliefs"
+  ]
+ },
+ "a1-s5": {
+  "title": "Military subordinate to civil power",
+  "plain": "The military is subordinate to civil power. No standing army may be kept in peacetime, and soldiers may not be quartered in any house in wartime except as prescribed by law, or in peacetime without the owner's consent.",
+  "category": "Individual Rights",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "A standing army may not be maintained in peacetime",
+   "Soldiers may not be quartered in any house"
+  ]
+ },
+ "a1-s6": {
+  "title": "Slavery and involuntary servitude prohibited",
+  "plain": "Slavery is prohibited. Involuntary servitude is prohibited except to punish crime.",
+  "category": "Individual Rights",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Slavery is prohibited",
+   "Involuntary servitude is prohibited"
+  ]
+ },
+ "a1-s7": {
+  "title": "Due process, equal protection and privileges",
+  "plain": "A person may not be deprived of life, liberty, or property without due process of law or denied equal protection of the laws. It limits obligations about pupil school assignment or transportation, and bars privileges or immunities not granted on the same terms to all citizens.",
+  "category": "Equality & Citizenship",
+  "kind": "Right",
+  "rights": [
+   "A person may not be deprived of life, liberty, or property without due process of law or denied equal protection of the laws"
+  ],
+  "powers": [
+   "Privileges or immunities granted by the Legislature may be altered or revoked"
+  ],
+  "limits": [
+   "no court of this State may impose upon the State of California or any public entity, board, or official any obligation or responsibility with respect to the use of pupil school assignment or pupil transportation",
+   "may not be granted privileges or immunities not granted on the same terms to all citizens"
+  ]
+ },
+ "a1-s7.5": {
+  "title": "Right to marry",
+  "plain": "The right to marry is a fundamental right. This section furthers the inalienable rights guaranteed by Section 1 and the rights to due process and equal protection guaranteed by Section 7.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "The right to marry is a fundamental right"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s8": {
+  "title": "No job disqualification for sex, race, creed",
+  "plain": "A person may not be disqualified from entering or pursuing a business, profession, vocation, or employment because of sex, race, creed, color, or national or ethnic origin.",
+  "category": "Equality & Citizenship",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not be disqualified from entering or pursuing a business, profession, vocation, or employment"
+  ]
+ },
+ "a1-s9": {
+  "title": "No bills of attainder or ex post facto laws",
+  "plain": "A bill of attainder, an ex post facto law, or a law impairing the obligation of contracts may not be passed.",
+  "category": "Individual Rights",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "A bill of attainder, ex post facto law, or law impairing the obligation of contracts may not be passed"
+  ]
+ },
+ "a1-s10": {
+  "title": "Witness detention and imprisonment for debt",
+  "plain": "Witnesses may not be unreasonably detained. A person may not be imprisoned in a civil action for debt or tort, or in peacetime for a militia fine.",
+  "category": "Individual Rights",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Witnesses may not be unreasonably detained",
+   "may not be imprisoned in a civil action for debt or tort, or in peacetime for a militia fine"
+  ]
+ },
+ "a1-s11": {
+  "title": "Habeas corpus",
+  "plain": "Habeas corpus may not be suspended unless required by public safety in cases of rebellion or invasion.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Habeas corpus may not be suspended"
+  ]
+ },
+ "a1-s12": {
+  "title": "Right to bail",
+  "plain": "A person shall be released on bail by sufficient sureties, except in listed capital and violent or threatening felony cases. Excessive bail may not be required, the court must weigh listed factors in fixing bail, and may release a person on his or her own recognizance.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "shall be released on bail by sufficient sureties"
+  ],
+  "powers": [
+   "may be released on his or her own recognizance"
+  ],
+  "limits": [
+   "Excessive bail may not be required"
+  ]
+ },
+ "a1-s13": {
+  "title": "Searches, seizures and warrants",
+  "plain": "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable seizures and searches may not be violated, and a warrant may issue only on probable cause, supported by oath or affirmation, particularly describing the place and the persons and things.",
+  "category": "Individual Rights",
+  "kind": "Right",
+  "rights": [
+   "The right of the people to be secure in their persons, houses, papers, and effects against unreasonable seizures and searches"
+  ],
+  "powers": [],
+  "limits": [
+   "may not be violated",
+   "a warrant may not issue except on probable cause"
+  ]
+ },
+ "a1-s14": {
+  "title": "Felony charges, magistrate and interpreter",
+  "plain": "Felonies are prosecuted by indictment or, after examination and commitment by a magistrate, by information. A person charged by complaint shall be taken without unnecessary delay before a magistrate, who must inform the defendant of the right to counsel. A person unable to understand English charged with a crime has a right to an interpreter.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "shall be taken without unnecessary delay before a magistrate of that court",
+   "has a right to an interpreter throughout the proceedings"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s14.1": {
+  "title": "No preliminary hearing after indictment",
+  "plain": "If a felony is prosecuted by indictment, there shall be no postindictment preliminary hearing.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "there shall be no postindictment preliminary hearing"
+  ]
+ },
+ "a1-s15": {
+  "title": "Rights of the accused",
+  "plain": "A criminal defendant has the right to a speedy public trial, to compel attendance of witnesses, to counsel, to be present with counsel, and to confront witnesses. No one may be twice put in jeopardy, compelled to be a witness against themselves, or deprived of life, liberty, or property without due process.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "the right to a speedy public trial",
+   "to compel attendance of witnesses",
+   "to have the assistance of counsel",
+   "to be personally present with counsel",
+   "to be confronted with the witnesses against the defendant"
+  ],
+  "powers": [
+   "The Legislature may provide for the deposition of a witness"
+  ],
+  "limits": [
+   "may not twice be put in jeopardy for the same offense",
+   "be compelled in a criminal cause to be a witness against themselves",
+   "be deprived of life, liberty, or property without due process of law"
+  ]
+ },
+ "a1-s16": {
+  "title": "Trial by jury",
+  "plain": "Trial by jury is an inviolate right secured to all, though three-fourths of a civil jury may render a verdict. It sets how a jury may be waived and the jury's size: 12 in felony cases, and 12 or fewer by agreement in civil and misdemeanor cases.",
+  "category": "The Courts",
+  "kind": "Right",
+  "rights": [
+   "Trial by jury is an inviolate right and shall be secured to all"
+  ],
+  "powers": [
+   "the Legislature may provide that the jury shall consist of eight persons or a lesser number"
+  ],
+  "limits": []
+ },
+ "a1-s17": {
+  "title": "Cruel or unusual punishment and excessive fines",
+  "plain": "Cruel or unusual punishment may not be inflicted, and excessive fines may not be imposed.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Cruel or unusual punishment may not be inflicted",
+   "excessive fines imposed"
+  ]
+ },
+ "a1-s18": {
+  "title": "Treason against the State",
+  "plain": "Treason against the State consists only in levying war against it, adhering to its enemies, or giving them aid and comfort. A person may not be convicted of treason except on two witnesses to the same overt act or confession in open court.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "A person may not be convicted of treason except on the evidence of two witnesses to the same overt act or by confession in open court"
+  ]
+ },
+ "a1-s19": {
+  "title": "Eminent domain and just compensation",
+  "plain": "Private property may be taken or damaged for a public use and only when just compensation, ascertained by a jury unless waived, has first been paid. The State and local governments may not take an owner-occupied residence by eminent domain to convey it to a private person, with listed exceptions.",
+  "category": "Individual Rights",
+  "kind": "Limit",
+  "rights": [
+   "just compensation"
+  ],
+  "powers": [
+   "The Legislature may provide for possession by the condemnor"
+  ],
+  "limits": [
+   "The State and local governments are prohibited from acquiring by eminent domain an owner-occupied residence for the purpose of conveying it to a private person"
+  ]
+ },
+ "a1-s20": {
+  "title": "Property rights of noncitizens",
+  "plain": "Noncitizens have the same property rights as citizens.",
+  "category": "Equality & Citizenship",
+  "kind": "Right",
+  "rights": [
+   "the same property rights as citizens"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s21": {
+  "title": "Separate property",
+  "plain": "Property owned before marriage, or acquired during marriage by gift, will, or inheritance, is separate property.",
+  "category": "Individual Rights",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s22": {
+  "title": "No property qualification to vote or hold office",
+  "plain": "The right to vote or hold office may not be conditioned by a property qualification.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [
+   "The right to vote or hold office"
+  ],
+  "powers": [],
+  "limits": [
+   "may not be conditioned by a property qualification"
+  ]
+ },
+ "a1-s23": {
+  "title": "Grand juries",
+  "plain": "One or more grand juries shall be drawn and summoned at least once a year in each county.",
+  "category": "Criminal Justice",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s24": {
+  "title": "State rights independent; construing criminal rights",
+  "plain": "California's constitutional rights do not depend on federal ones, but listed rights of criminal defendants shall be construed consistently with the U.S. Constitution, without greater rights for criminal defendants or minors in juvenile proceedings. This declaration does not impair others retained by the people.",
+  "category": "Individual Rights",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be construed by the courts to afford greater rights to criminal defendants than those afforded by the Constitution of the United States",
+   "may not be construed to impair or deny others retained by the people"
+  ]
+ },
+ "a1-s25": {
+  "title": "Right to fish",
+  "plain": "The people have the right to fish on the State's public lands and waters, except fish hatchery lands. State land may not be sold without reserving that right, and entering public lands to fish in State-planted waters may not be made a crime; the legislature may set fishing seasons and conditions.",
+  "category": "Water & Natural Resources",
+  "kind": "Right",
+  "rights": [
+   "the right to fish upon and from the public lands of the State and in the waters thereof",
+   "the absolute right to fish thereupon"
+  ],
+  "powers": [
+   "the legislature may by statute, provide for the season when and the conditions under which the different species of fish may be taken"
+  ],
+  "limits": [
+   "no land owned by the State shall ever be sold or transferred without reserving in the people",
+   "no law shall ever be passed making it a crime for the people to enter upon the public lands within this State for the purpose of fishing"
+  ]
+ },
+ "a1-s26": {
+  "title": "Constitution is mandatory and prohibitory",
+  "plain": "The provisions of this Constitution are mandatory and prohibitory, unless by express words they are declared to be otherwise.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s27": {
+  "title": "Death penalty statutes",
+  "plain": "Death penalty statutes in effect on February 17, 1972, are in full force, subject to amendment or repeal by statute, initiative, or referendum. The death penalty under them is not cruel or unusual punishment under Article 1, Section 6, nor contrary to any other provision of this constitution.",
+  "category": "Criminal Justice",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s28": {
+  "title": "Victims' rights",
+  "plain": "The People declare findings on crime victims. A victim is entitled to listed rights, including fairness and respect, protection, notice, being heard, a speedy trial, and restitution, which victims may enforce in court. It also sets shared rights to safe schools, truth-in-evidence, public safety bail, use of prior convictions, and truth in sentencing.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "To be treated with fairness and respect for his or her privacy and dignity",
+   "To be reasonably protected from the defendant",
+   "To be heard, upon request, at any proceeding",
+   "To a speedy trial and a prompt and final conclusion of the case",
+   "To restitution",
+   "the inalienable right to attend campuses which are safe, secure and peaceful"
+  ],
+  "powers": [
+   "may enforce the rights enumerated in subdivision (b)",
+   "The court in its discretion may extend the right to be heard at sentencing"
+  ],
+  "limits": [
+   "relevant evidence shall not be excluded in any criminal proceeding",
+   "Excessive bail may not be required",
+   "shall not be substantially diminished by early release policies"
+  ]
+ },
+ "a1-s29": {
+  "title": "People's right to due process and speedy trial",
+  "plain": "In a criminal case, the people of the State of California have the right to due process of law and to a speedy and public trial.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "the right to due process of law and to a speedy and public trial"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a1-s30": {
+  "title": "Joinder, hearsay at preliminary hearings, discovery",
+  "plain": "This Constitution shall not be construed to prohibit joining criminal cases. Hearsay evidence shall be admissible at preliminary hearings, and discovery in criminal cases shall be reciprocal, as prescribed by the Legislature or by the people through the initiative process.",
+  "category": "Criminal Justice",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be construed by the courts to prohibit the joining of criminal cases"
+  ]
+ },
+ "a1-s31": {
+  "title": "No discrimination or preferential treatment",
+  "plain": "The State shall not discriminate against, or grant preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity, or national origin in public employment, public education, or public contracting, with listed exceptions.",
+  "category": "Equality & Citizenship",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not discriminate against, or grant preferential treatment to, any individual or group"
+  ]
+ },
+ "a1-s32": {
+  "title": "Parole consideration and credits",
+  "plain": "A person convicted of a nonviolent felony and sentenced to state prison shall be eligible for parole consideration after completing the full term for the primary offense. The Department of Corrections and Rehabilitation may award credits and shall adopt regulations, which the Secretary shall certify protect and enhance public safety.",
+  "category": "Criminal Justice",
+  "kind": "Right",
+  "rights": [
+   "shall be eligible for parole consideration after completing the full term for his or her primary offense"
+  ],
+  "powers": [
+   "shall have authority to award credits earned for good behavior and approved rehabilitative or educational achievements"
+  ],
+  "limits": []
+ },
+ "a2-s1": {
+  "title": "Political power inherent in the people",
+  "plain": "All political power is inherent in the people. Government is instituted for their protection, security, and benefit, and they have the right to alter or reform it when the public good may require.",
+  "category": "Founding & Purposes",
+  "kind": "Right",
+  "rights": [
+   "the right to alter or reform it"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s2": {
+  "title": "Who may vote",
+  "plain": "A United States citizen 18 years of age and resident in this State may vote. An elector disqualified while serving a state or federal prison term shall have the right to vote restored when the prison term is completed.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "rights": [
+   "may vote",
+   "shall have their right to vote restored upon the completion of their prison term"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s2.5": {
+  "title": "Right to have vote counted",
+  "plain": "A voter who casts a vote in an election in accordance with the laws of this State shall have that vote counted.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "rights": [
+   "shall have that vote counted"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s3": {
+  "title": "Residence, registration and free elections",
+  "plain": "The Legislature shall define residence and provide for registration and free elections.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s4": {
+  "title": "Improper election practices and disqualification of electors",
+  "plain": "The Legislature shall prohibit improper practices that affect elections and shall provide for disqualifying electors while mentally incompetent or serving a state or federal prison term for a felony conviction.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s5": {
+  "title": "Voter-nominated (top-two) primary elections",
+  "plain": "A voter-nominated primary selects candidates for congressional and state offices; all voters may vote for any candidate regardless of party preference, and the top two compete in the general election. Parties may not nominate at that primary. The Legislature shall provide for partisan presidential and party elections.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [
+   "may vote at a voter-nominated primary election for any candidate",
+   "may have his or her political party preference, or lack of political party preference, indicated upon the ballot",
+   "has the right to participate in the general election for that office"
+  ],
+  "powers": [],
+  "limits": [
+   "shall not nominate a candidate for any congressional or state elective office at the voter-nominated primary",
+   "shall not have the right to have its preferred candidate participate in the general election",
+   "shall not be denied the ability to place on the general election ballot the candidate"
+  ]
+ },
+ "a2-s6": {
+  "title": "Nonpartisan offices",
+  "plain": "All judicial, school, county, and city offices, including the Superintendent of Public Instruction, shall be nonpartisan. Parties shall not nominate candidates for nonpartisan office, and a candidate's party preference shall not be on the ballot.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not nominate a candidate for nonpartisan office",
+   "shall not be included on the ballot for the nonpartisan office"
+  ]
+ },
+ "a2-s7": {
+  "title": "Secret ballot",
+  "plain": "Voting shall be secret.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "rights": [
+   "Voting shall be secret"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s8": {
+  "title": "The initiative",
+  "plain": "The initiative is the electors' power to propose and adopt or reject statutes and constitutional amendments, by petition signed by a set share of voters. The Secretary of State submits a qualified measure at an election. Measures may embrace only one subject and are limited in other ways.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The initiative is the power of the electors to propose statutes and amendments to the Constitution and to adopt or reject them",
+   "may call a special statewide election for the measure"
+  ],
+  "limits": [
+   "may not be submitted to the electors or have any effect",
+   "may not include or exclude any political subdivision of the State from the application or effect of its provisions",
+   "may not contain alternative or cumulative provisions"
+  ]
+ },
+ "a2-s9": {
+  "title": "The referendum",
+  "plain": "The referendum is the electors' power to approve or reject statutes, except urgency statutes, statutes calling elections, and tax levy or usual current expense appropriation statutes. A petition signed by 5 percent of the last gubernatorial vote, filed within 90 days, puts the statute to the voters.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The referendum is the power of the electors to approve or reject statutes or parts of statutes",
+   "may call a special statewide election for the measure"
+  ],
+  "limits": [
+   "the petition may not be presented on or after January 1 next following the enactment date"
+  ]
+ },
+ "a2-s10": {
+  "title": "When measures take effect; amendment; petitions",
+  "plain": "An approved initiative statute or referendum takes effect on the fifth day after the statement of the vote is filed. When approved measures conflict, the one with the most affirmative votes prevails. The Legislature may amend or repeal initiative statutes only with voter approval unless the initiative permits otherwise.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The Legislature may amend or repeal a referendum statute",
+   "The Legislature may amend or repeal an initiative statute"
+  ],
+  "limits": [
+   "shall not be delayed from going into effect"
+  ]
+ },
+ "a2-s11": {
+  "title": "Local initiative and referendum",
+  "plain": "Electors of each city or county may exercise initiative and referendum powers under procedures the Legislature shall provide. City or county initiatives may not include or exclude parts of the area based on how they vote, or contain alternative or cumulative provisions depending on vote percentages.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "Initiative and referendum powers may be exercised by the electors of each city or county"
+  ],
+  "limits": [
+   "may not include or exclude any part of the city or county from the application or effect of its provisions",
+   "may not contain alternative or cumulative provisions"
+  ]
+ },
+ "a2-s12": {
+  "title": "Measures naming individuals or corporations",
+  "plain": "No constitutional amendment, and no statute proposed to the electors by the Legislature or by initiative, that names an individual to hold office or names a private corporation to perform a function or have a power or duty may be submitted to the electors or have any effect.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No amendment to the Constitution, and no statute proposed to the electors"
+  ]
+ },
+ "a2-s13": {
+  "title": "The recall",
+  "plain": "Recall is the power of the electors to remove an elective officer.",
+  "category": "Voting & Elections",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "Recall is the power of the electors to remove an elective officer"
+  ],
+  "limits": []
+ },
+ "a2-s14": {
+  "title": "Recall petitions for state officers",
+  "plain": "Recall of a state officer starts with a petition to the Secretary of State alleging a reason, which is not reviewable; proponents have 160 days to file. It sets signature thresholds for statewide and other officers, and the Secretary of State keeps a continuous count.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Sufficiency of reason is not reviewable"
+  ]
+ },
+ "a2-s15": {
+  "title": "Recall elections",
+  "plain": "The Governor shall call a recall election within 60 to 80 days of certification, or within 180 days to consolidate with a regular election. If a majority votes to recall, the officer is removed and the plurality candidate succeeds; the officer may not be a candidate.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "A recall election may be conducted within 180 days"
+  ],
+  "limits": [
+   "The officer may not be a candidate"
+  ]
+ },
+ "a2-s16": {
+  "title": "Legislature to provide for recall procedures",
+  "plain": "The Legislature shall provide for circulation, filing, and certification of petitions, nomination of candidates, and the recall election.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s17": {
+  "title": "Recall of Governor or Secretary of State",
+  "plain": "If recall of the Governor or Secretary of State is initiated, the Lieutenant Governor or Controller, respectively, shall perform the recall duties of that office.",
+  "category": "Voting & Elections",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s18": {
+  "title": "Reimbursement and repeat recalls",
+  "plain": "A state officer who is not recalled shall be reimbursed by the State for recall election expenses legally and personally incurred. Another recall may not be initiated against the officer until six months after the election.",
+  "category": "Voting & Elections",
+  "kind": "Right",
+  "rights": [
+   "shall be reimbursed by the State for the officer’s recall election expenses legally and personally incurred"
+  ],
+  "powers": [],
+  "limits": [
+   "Another recall may not be initiated against the officer"
+  ]
+ },
+ "a2-s19": {
+  "title": "Recall of local officers",
+  "plain": "The Legislature shall provide for recall of local officers. This section does not affect counties and cities whose charters provide for recall.",
+  "category": "Local Government",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a2-s20": {
+  "title": "Start of terms of elective offices",
+  "plain": "Terms of elective offices provided for by this Constitution, other than Members of the Legislature, commence on the Monday after January 1 following election. The election is held in the last even-numbered year before the term expires.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s1": {
+  "title": "California part of the United States",
+  "plain": "The State of California is an inseparable part of the United States of America, and the United States Constitution is the supreme law of the land.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s2": {
+  "title": "State boundaries and capital",
+  "plain": "The State's boundaries are those stated in the Constitution of 1849 as modified pursuant to statute. Sacramento is the capital of California.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s3": {
+  "title": "Separation of powers",
+  "plain": "The powers of state government are legislative, executive, and judicial. Persons charged with exercising one power may not exercise either of the others except as this Constitution permits.",
+  "category": "Founding & Purposes",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not exercise either of the others"
+  ]
+ },
+ "a3-s3.5": {
+  "title": "Administrative agencies and unconstitutional statutes",
+  "plain": "An administrative agency has no power to declare a statute unconstitutional, or to declare a statute unenforceable or refuse to enforce it as unconstitutional or barred by federal law, unless an appellate court has so determined.",
+  "category": "The Governor & Executive",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "has no power"
+  ]
+ },
+ "a3-s4": {
+  "title": "Salaries of elected state officers and judges",
+  "plain": "Salaries of elected state officers may not be reduced during their term. Judges' base salaries are fixed from January 1, 1981; the Legislature may raise them or end prospective increases but shall not reduce a judge's salary during a term below the highest level paid.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may prescribe increases in those salaries during a term of office",
+   "may terminate prospective increases in those salaries at any time during a term of office"
+  ],
+  "limits": [
+   "salaries of elected state officers may not be reduced during their term of office",
+   "shall not reduce the salary of a judge during a term of office below the highest level paid during that term of office"
+  ]
+ },
+ "a3-s5": {
+  "title": "Suits against the State",
+  "plain": "Suits may be brought against the State in the manner and in the courts directed by law.",
+  "category": "The Courts",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a3-s6": {
+  "title": "English as the official language",
+  "plain": "English is the official language of California. The Legislature shall enforce this section and make no law that diminishes or ignores the role of English. Residents and those doing business in California may sue the State to enforce it.",
+  "category": "Founding & Purposes",
+  "kind": "Structure",
+  "rights": [
+   "shall have standing to sue the State of California to enforce this section"
+  ],
+  "powers": [
+   "shall have jurisdiction to hear cases brought to enforce this section",
+   "The Legislature may provide reasonable and appropriate limitations on the time and manner of suits brought under this section"
+  ],
+  "limits": [
+   "shall make no law which diminishes or ignores the role of English as the common language of the State of California"
+  ]
+ },
+ "a3-s7": {
+  "title": "Retirement allowances of certain elective officers",
+  "plain": "Legislators' Retirement System allowances of certain elective state officers (not judges or legislators), and of their survivors or beneficiaries, shall not be increased or affected by compensation changes on or after November 5, 1986. It states the people's intent and findings against windfall benefits.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "shall not be increased or affected in any manner by changes on or after November 5, 1986, in the compensation payable"
+  ]
+ },
+ "a3-s8": {
+  "title": "California Citizens Compensation Commission",
+  "plain": "Creates a seven-member commission appointed by the Governor that establishes and adjusts the annual salary and medical, dental, insurance and similar benefits of state officers by majority resolution, sets who may serve, requires open meetings, and lists factors it shall consider.",
+  "category": "Public Officers & Employees",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No current or former officer or employee of this State is eligible for appointment to the commission",
+   "a resolution shall not be adopted or take effect in any year that increases the annual salary of any state officer"
+  ]
+ },
+ "a3-s9": {
+  "title": "Proceeds from sale of surplus state property",
+  "plain": "Proceeds from selling surplus state property shall be used to pay principal and interest on Economic Recovery Bond Act bonds; once those are paid, the proceeds shall go into the Special Fund for Economic Uncertainties or any successor fund.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s1": {
+  "title": "Legislative power; initiative and referendum",
+  "plain": "The legislative power of California is vested in the California Legislature, made up of the Senate and Assembly, but the people reserve to themselves the powers of initiative and referendum.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The legislative power of this State is vested in the California Legislature",
+   "the people reserve to themselves the powers of initiative and referendum"
+  ],
+  "limits": []
+ },
+ "a4-s1.5": {
+  "title": "Findings on incumbency and term limits",
+  "plain": "The people find that incumbents' unlimited terms, own retirement system, and state-paid staff create career politicians, and declare that the powers of incumbency must be limited: retirement benefits restricted, staff and support services limited, and terms limited.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s2": {
+  "title": "Legislature membership, terms and qualifications",
+  "plain": "The Senate has 40 members with 4-year terms and the Assembly 80 with 2-year terms. A person may serve no more than 12 years in the Legislature. Members must be electors and meet residence and citizenship requirements. The Governor shall call an election to fill a vacancy.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "a person may serve no more than 12 years in the Senate, the Assembly, or both",
+   "A person is ineligible to be a member of the Legislature"
+  ]
+ },
+ "a4-s3": {
+  "title": "Regular and special sessions",
+  "plain": "The Legislature shall convene in regular session on the first Monday in December of each even-numbered year and adjourns at midnight on November 30 two years later. The Governor may call a special session, limited to subjects in the proclamation and incidental matters.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the Governor by proclamation may cause the Legislature to assemble in special session",
+   "may provide for expenses and other matters incidental to the session"
+  ],
+  "limits": [
+   "has power to legislate only on subjects specified in the proclamation"
+  ]
+ },
+ "a4-s4": {
+  "title": "Legislators' outside income, travel expenses and retirement",
+  "plain": "No Member may knowingly receive earned income from a lobbyist, lobbying firm or recent legislative contractor. Travel and living expenses are set by two-thirds statute and limited during long recesses. Legislative retirement benefits are limited.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may, prior to their retirement, limit the retirement benefits payable to Members of the Legislature",
+   "the Legislature may provide that no Member shall be deprived of a cost of living adjustment"
+  ],
+  "limits": [
+   "no Member of the Legislature may knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm",
+   "may not, for a period of one year following its receipt, vote upon",
+   "A Member may not receive travel and living expenses during the times that the Legislature is in recess for more than three calendar days",
+   "The Legislature may not provide retirement benefits based on any portion of a monthly salary in excess of five hundred dollars ($500)"
+  ]
+ },
+ "a4-s4.5": {
+  "title": "Legislators' Social Security; no other pension",
+  "plain": "A person elected to or serving in the Legislature on or after November 1, 1990, shall participate in Social Security, with the State paying only the employer's share. No other pension or retirement benefit shall accrue from legislative service, though vested benefits are not diminished.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "No other pension or retirement benefit shall accrue as a result of service in the Legislature",
+   "no further entitlement to nor vesting in any existing program shall accrue to any such person"
+  ]
+ },
+ "a4-s5": {
+  "title": "Discipline and ethics of Members",
+  "plain": "Each house judges its Members' qualifications and elections and, by two-thirds rollcall vote, may expel or suspend a Member. Members may not accept honoraria or compensation for appearing before state boards or agencies, and the Legislature shall enact laws on gifts, lobbying and conflicts of interest.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "may expel a Member",
+   "Each house may suspend a Member",
+   "the house may deem the salary and benefits of the Member to be forfeited",
+   "the people reserve to themselves the power to implement this requirement"
+  ],
+  "limits": [
+   "shall not exercise any of the rights, privileges, duties, or powers of his or her office",
+   "No Member of the Legislature may accept any honorarium",
+   "No Member of the Legislature may knowingly accept any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any state government board or agency",
+   "the Member may not, for a period of one year following the acceptance of the compensation, vote upon"
+  ]
+ },
+ "a4-s6": {
+  "title": "Senate and Assembly districts",
+  "plain": "For choosing members of the Legislature, the State is divided into 40 Senatorial and 80 Assembly districts; each Senatorial district chooses one Senator and each Assembly district one member of the Assembly.",
+  "category": "Voting & Elections",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s7": {
+  "title": "Legislative proceedings, journals and open sessions",
+  "plain": "Each house chooses its officers, adopts rules and keeps a journal. Proceedings shall be open and public, and any person may record and broadcast them; the Legislature shall post recordings online. Closed sessions are allowed only for listed purposes and party caucuses.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [
+   "The right to attend open and public proceedings",
+   "the right of any person to record by audio or video means any and all parts of the proceedings",
+   "shall have standing to challenge said rules"
+  ],
+  "powers": [
+   "may recess from day to day and compel the attendance of absent members",
+   "the Legislature may adopt reasonable rules pursuant to paragraph (5)",
+   "closed sessions may be held solely for any of the following purposes",
+   "may meet in closed session"
+  ],
+  "limits": [
+   "Neither house without the consent of the other may recess for more than 10 days or to any other place"
+  ]
+ },
+ "a4-s7.5": {
+  "title": "Limit on Legislature's spending",
+  "plain": "The Legislature's total spending on member and employee compensation and operating expenses may not exceed, in the first fiscal year after adoption, $950,000 per member or 80 percent of the prior year's amount, whichever is less; afterward, the prior year's amount adjusted by the State appropriations limit.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not exceed an amount equal to nine hundred fifty thousand dollars ($950,000) per member",
+   "the total aggregate expenditures may not exceed an amount equal to that expended for those purposes in the preceding fiscal year"
+  ]
+ },
+ "a4-s8": {
+  "title": "Passing bills; when statutes take effect",
+  "plain": "At regular sessions no bill but the budget bill may be acted on until the 31st day after introduction. Bills must be read on 3 days, published online 72 hours before the vote, and passed by a majority of each house. It sets when statutes take effect.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "the house may dispense with this requirement"
+  ],
+  "limits": [
+   "no bill other than the budget bill may be heard or acted on by committee or either house until the 31st day after the bill is introduced",
+   "The Legislature may make no law except by statute and may enact no statute except by bill",
+   "No bill may be passed unless it is read by title on 3 days in each house",
+   "No bill may be passed or ultimately become a statute unless the bill with any amendments has been printed, distributed to the members, and published on the Internet",
+   "No bill may be passed unless, by rollcall vote entered in the journal, a majority of the membership of each house concurs",
+   "An urgency statute may not create or abolish any office"
+  ]
+ },
+ "a4-s8.5": {
+  "title": "Limits on measures submitted to voters",
+  "plain": "An act amending an initiative statute, a bond act, or a legislative constitutional amendment submitted to voters may not include or exclude a political subdivision based on how its electors vote, or contain alternative or cumulative provisions that depend on a specified percentage of votes.",
+  "category": "Voting & Elections",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "Include or exclude any political subdivision of the State from the application or effect of its provisions",
+   "Contain alternative or cumulative provisions"
+  ]
+ },
+ "a4-s9": {
+  "title": "Single subject and amending statutes",
+  "plain": "A statute shall embrace but one subject, expressed in its title; any part whose subject is not expressed in the title is void. A statute may not be amended by reference to its title, and a section may not be amended unless re-enacted as amended.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "A statute shall embrace but one subject",
+   "A statute may not be amended by reference to its title",
+   "A section of a statute may not be amended unless the section is re-enacted as amended"
+  ]
+ },
+ "a4-s10": {
+  "title": "Governor's signature, veto and bill deadlines",
+  "plain": "Bills passed by the Legislature go to the Governor, who may sign or veto them; two-thirds of each house may override. It sets when unreturned bills become statutes, deadlines for passing bills, item reductions in appropriations, and fiscal emergency special sessions.",
+  "category": "The Legislature",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "The Governor may veto it by returning it with any objections to the house of origin",
+   "The Governor may reduce or eliminate one or more items of appropriation while approving other portions of a bill",
+   "the Governor may issue a proclamation declaring a fiscal emergency"
+  ],
+  "limits": [
+   "may no longer be acted on by the house",
+   "No bill may be passed by either house on or after September 1 of an even-numbered year",
+   "The Legislature may not present any bill to the Governor after November 15 of the second calendar year of the biennium of the legislative session",
+   "the Legislature may not act on any other bill, nor may the Legislature adjourn for a joint recess"
+  ]
+ },
+ "a4-s11": {
+  "title": "Legislative committees",
+  "plain": "The Legislature or either house may by resolution provide for selecting committees needed for its business, including committees to find facts and make recommendations on subjects within legislative control.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may by resolution provide for the selection of committees necessary for the conduct of its business"
+  ],
+  "limits": []
+ },
+ "a4-s12": {
+  "title": "State budget and budget bill",
+  "plain": "The Governor must submit a budget each January with a budget bill. The Legislature must pass the budget bill by midnight June 15 by majority vote. It limits other appropriations, bars an unbalanced budget bill, and stops legislators' pay when the budget is late.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [
+   "may require a state agency, officer or employee to furnish whatever information is deemed necessary to prepare the budget",
+   "The Legislature may control the submission, approval, and enforcement of budgets and the filing of claims for all state agencies"
+  ],
+  "limits": [
+   "the Legislature shall not send to the Governor for consideration any bill appropriating funds for expenditure during the fiscal year for which the budget bill is to be enacted",
+   "No bill except the budget bill may contain more than one item of appropriation",
+   "are void unless passed in each house by rollcall vote entered in the journal, two-thirds of the membership concurring",
+   "the Legislature may not send to the Governor for consideration, nor may the Governor sign into law, a budget bill that would appropriate from the General Fund",
+   "there shall be no appropriation from the current budget or future budget to pay any salary or reimbursement for travel or living expenses for Members of the Legislature",
+   "No salary or reimbursement for travel or living expenses forfeited pursuant to this subdivision shall be paid retroactively"
+  ]
+ },
+ "a4-s12.5": {
+  "title": "Director of Finance revenue and spending estimates",
+  "plain": "After the Governor's budget is submitted, after proposed adjustments to it, and after the budget bill is enacted, the Director of Finance must give the Legislature General Fund revenue and expenditure estimates for the ensuing fiscal year and the three years after.",
+  "category": "Taxes, Money & Commerce",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s13": {
+  "title": "Legislators may not hold other state office",
+  "plain": "During the term for which they are elected, members of the Legislature may not hold any office or employment under the State other than an elective office.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "may not, during the term for which the member is elected, hold any office or employment under the State"
+  ]
+ },
+ "a4-s14": {
+  "title": "Legislators exempt from civil process during session",
+  "plain": "A member of the Legislature is not subject to civil process during a session of the Legislature or for 5 days before and after a session.",
+  "category": "The Legislature",
+  "kind": "Right",
+  "rights": [
+   "is not subject to civil process during a session of the Legislature or for 5 days before and after a session"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s15": {
+  "title": "Bribing or improperly influencing legislators",
+  "plain": "A person who seeks to influence a legislator's vote or action by bribery, promise of reward, intimidation, or other dishonest means, and a legislator so influenced, is guilty of a felony.",
+  "category": "Criminal Justice",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "is guilty of a felony"
+  ]
+ },
+ "a4-s16": {
+  "title": "Uniform general laws; special statutes",
+  "plain": "All laws of a general nature have uniform operation. A local or special statute is invalid in any case if a general statute can be made applicable.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "A local or special statute is invalid in any case"
+  ]
+ },
+ "a4-s17": {
+  "title": "No extra pay after service is rendered",
+  "plain": "The Legislature has no power to grant, or let local public bodies grant, extra compensation to a public officer, employee, or contractor after the service or contract is performed, or to authorize payment of a claim under an agreement made without authority of law.",
+  "category": "Public Officers & Employees",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "has no power to grant, or to authorize a city, county, or other public body to grant, extra compensation or extra allowance",
+   "or to authorize the payment of a claim against the State or a city, county, or other public body under an agreement made without authority of law"
+  ]
+ },
+ "a4-s18": {
+  "title": "Impeachment",
+  "plain": "The Assembly has the sole power of impeachment and the Senate tries impeachments; conviction needs two thirds of the Senate. Statewide elected officers, Board of Equalization members, and state judges may be impeached for misconduct; judgment is limited to removal and disqualification.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Assembly has the sole power of impeachment"
+  ],
+  "limits": [
+   "A person may not be convicted unless, by rollcall vote entered in the journal, two thirds of the membership of the Senate concurs",
+   "Judgment may extend only to removal from office and disqualification to hold any office under the State"
+  ]
+ },
+ "a4-s19": {
+  "title": "Lotteries, gambling and tribal gaming",
+  "plain": "The Legislature has no power to authorize lotteries or Nevada- and New Jersey-type casinos and shall prohibit them, but a California State Lottery is authorized, and horse racing, charitable bingo and raffles, and compact-based tribal gaming on Indian lands may be allowed.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [
+   "The Legislature may provide for the regulation of horse races and horse race meetings and wagering on the results",
+   "the Legislature by statute may authorize cities and counties to provide for bingo games",
+   "there is authorized the establishment of a California State Lottery",
+   "the Governor is authorized to negotiate and conclude compacts",
+   "the Legislature may authorize private, nonprofit, eligible organizations, as defined by the Legislature, to conduct raffles",
+   "may amend the percentage of gross receipts required by this subdivision to be dedicated to beneficial or charitable purposes"
+  ],
+  "limits": [
+   "The Legislature has no power to authorize lotteries",
+   "The Legislature has no power to authorize,"
+  ]
+ },
+ "a4-s20": {
+  "title": "Fish and game; Fish and Game Commission",
+  "plain": "The Legislature may divide the State into fish and game districts and protect fish and game. A 5-member Fish and Game Commission is appointed by the Governor and approved by the Senate for 6-year terms; the Legislature may delegate powers to it.",
+  "category": "Water & Natural Resources",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The Legislature may provide for division of the State into fish and game districts",
+   "may protect fish and game in districts or parts of districts",
+   "The Legislature may delegate to the commission such powers relating to the protection and propagation of fish and game",
+   "may be removed by concurrent resolution adopted by each house"
+  ],
+  "limits": []
+ },
+ "a4-s21": {
+  "title": "War-caused or enemy-caused disaster",
+  "plain": "To meet needs from war-caused or enemy-caused disaster in California, the Legislature may provide for filling legislative seats and the Governor's office, convening the Legislature, holding elections for vacant offices, and choosing a temporary seat of state or county government.",
+  "category": "The Legislature",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the Legislature may provide for"
+  ],
+  "limits": []
+ },
+ "a4-s22": {
+  "title": "Right to hold legislators accountable",
+  "plain": "The people have the right to hold their legislators accountable. To assist them, legislative leaders of each house shall report the house's goals at the start of each regular session and its progress at the close.",
+  "category": "The Legislature",
+  "kind": "Right",
+  "rights": [
+   "the right of the people to hold their legislators accountable"
+  ],
+  "powers": [],
+  "limits": []
+ },
+ "a4-s28": {
+  "title": "State Capitol restoration spending",
+  "plain": "No bill appropriating money to alter the historically restored areas of the State Capitol, or to replace their period furniture, may take effect as an urgency statute, and no such spending may be made unless funds are expressly appropriated. Ordinary repair and maintenance is excepted.",
+  "category": "The Legislature",
+  "kind": "Limit",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "no bill shall take effect as an urgency statute",
+   "No expenditures shall be made in payment for any of the purposes described in subdivision (a) of this section"
+  ]
+ },
+ "a5-s1": {
+  "title": "Executive power vested in the Governor",
+  "plain": "The supreme executive power of California is vested in the Governor, who shall see that the law is faithfully executed.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "The supreme executive power of this State is vested in the Governor"
+  ],
+  "limits": []
+ },
+ "a5-s2": {
+  "title": "Governor's election, term and qualifications",
+  "plain": "The Governor is elected every fourth year with Assembly members and serves until a successor qualifies. The Governor must be an elector who has been a U.S. citizen and state resident for 5 years, may not hold other public office, and may serve no more than 2 terms.",
+  "category": "The Governor & Executive",
+  "kind": "Structure",
+  "rights": [],
+  "powers": [],
+  "limits": [
+   "The Governor may not hold other public office",
+   "No Governor may serve more than 2 terms"
+  ]
+ },
+ "a5-s3": {
+  "title": "Governor's yearly report to the Legislature",
+  "plain": "Each calendar year the Governor shall report to the Legislature on the condition of the State and may make recommendations.",
+  "category": "The Governor & Executive",
+  "kind": "Duty",
+  "rights": [],
+  "powers": [
+   "may make recommendations"
+  ],
+  "limits": []
+ },
+ "a5-s4": {
+  "title": "Governor may require information",
+  "plain": "The Governor may require executive officers and agencies and their employees to furnish information relating to their duties.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "may require executive officers and agencies and their employees to furnish information relating to their duties"
+  ],
+  "limits": []
+ },
+ "a5-s5": {
+  "title": "Filling vacancies in office",
+  "plain": "Unless the law provides otherwise, the Governor may fill a vacancy by appointment. For vacancies in listed statewide offices or the Board of Equalization, the Governor nominates a person who takes office when confirmed by both houses, or if neither confirmed nor refused within 90 days.",
+  "category": "The Governor & Executive",
+  "kind": "Power",
+  "rights": [],
+  "powers": [
+   "the Governor may fill a vacancy in office by appointment"
+  ],
+  "limits": []
+ }
+}

@@ -1,0 +1,2091 @@
+{
+ "a3-s3.5": {
+  "review": {
+   "title": "Administrative agencies and unconstitutional statutes",
+   "plain": "An administrative agency has no power to declare a statute unconstitutional, or to declare a statute unenforceable or refuse to enforce it as unconstitutional or barred by federal law, unless an appellate court has so determined.",
+   "category": "The Governor & Executive",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "has no power"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "An administrative agency has no power to declare a statute unenforceable, or refuse to enforce a statute, on the basis of it being unconstitutional",
+     "holder": null,
+     "binds": "An administrative agency, including an administrative agency created by the Constitution or an initiative statute",
+     "requires": [],
+     "forbids": [
+      "declare a statute unenforceable, or refuse to enforce a statute, on the basis of it being unconstitutional"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless an appellate court has made a determination that such statute is unconstitutional"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "An administrative agency has no power to declare a statute unconstitutional",
+     "holder": null,
+     "binds": "An administrative agency, including an administrative agency created by the Constitution or an initiative statute",
+     "requires": [],
+     "forbids": [
+      "declare a statute unconstitutional"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "An administrative agency has no power to declare a statute unenforceable, or to refuse to enforce a statute on the basis that federal law or federal regulations prohibit the enforcement of such statute",
+     "holder": null,
+     "binds": "An administrative agency, including an administrative agency created by the Constitution or an initiative statute",
+     "requires": [],
+     "forbids": [
+      "declare a statute unenforceable, or to refuse to enforce a statute on the basis that federal law or federal regulations prohibit the enforcement of such statute"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "unless an appellate court has made a determination that the enforcement of such statute is prohibited by federal law or federal regulations"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s4": {
+  "review": {
+   "title": "Salaries of elected state officers and judges",
+   "plain": "Salaries of elected state officers may not be reduced during their term. Judges' base salaries are fixed from January 1, 1981; the Legislature may raise them or end prospective increases but shall not reduce a judge's salary during a term below the highest level paid.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may prescribe increases in those salaries during a term of office",
+    "may terminate prospective increases in those salaries at any time during a term of office"
+   ],
+   "limits": [
+    "salaries of elected state officers may not be reduced during their term of office",
+    "shall not reduce the salary of a judge during a term of office below the highest level paid during that term of office"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Salaries of elected state officers may not be reduced during their term of office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "reducing salaries of elected state officers during their term of office"
+     ],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in subdivision (b)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Laws that set these salaries are appropriations",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Beginning on January 1, 1981, the base salary of a judge of a court of record shall equal the annual salary payable as of July 1, 1980, for that office had the judge been elected in 1978",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "The Legislature may prescribe increases in those salaries during a term of office, and it may terminate prospective increases in those salaries at any time during a term of office",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "The Legislature shall not reduce the salary of a judge during a term of office below the highest level paid during that term of office",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "reduce the salary of a judge during a term of office below the highest level paid during that term of office"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Laws setting the salaries of judges shall not constitute an obligation of contract pursuant to Section 9 of Article I or any other provision of law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s5": {
+  "review": {
+   "title": "Suits against the State",
+   "plain": "Suits may be brought against the State in the manner and in the courts directed by law.",
+   "category": "The Courts",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Suits may be brought against the State in such manner and in such courts as shall be directed by law",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "in such manner and in such courts as shall be directed by law"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s6": {
+  "review": {
+   "title": "English as the official language",
+   "plain": "English is the official language of California. The Legislature shall enforce this section and make no law that diminishes or ignores the role of English. Residents and those doing business in California may sue the State to enforce it.",
+   "category": "Founding & Purposes",
+   "kind": "Structure",
+   "rights": [
+    "shall have standing to sue the State of California to enforce this section"
+   ],
+   "powers": [
+    "shall have jurisdiction to hear cases brought to enforce this section",
+    "The Legislature may provide reasonable and appropriate limitations on the time and manner of suits brought under this section"
+   ],
+   "limits": [
+    "shall make no law which diminishes or ignores the role of English as the common language of the State of California"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "English is the common language of the people of the United States of America and the State of California. This section is intended to preserve, protect and strengthen the English language, and not to supersede any of the rights guaranteed to the people by this Constitution",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "English is the official language of the State of California",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Legislature shall enforce this section by appropriate legislation",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [
+      "enforce this section by appropriate legislation"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Legislature and officials of the State of California shall take all steps necessary to insure that the role of English as the common language of the State of California is preserved and enhanced",
+     "holder": null,
+     "binds": "The Legislature and officials of the State of California",
+     "requires": [
+      "take all steps necessary to insure that the role of English as the common language of the State of California is preserved and enhanced"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The Legislature shall make no law which diminishes or ignores the role of English as the common language of the State of California",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [
+      "make any law which diminishes or ignores the role of English as the common language of the State of California"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "right",
+     "what": "Any person who is a resident of or doing business in the State of California shall have standing to sue the State of California to enforce this section",
+     "holder": "Any person who is a resident of or doing business in the State of California",
+     "binds": "The State of California",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Courts of record of the State of California shall have jurisdiction to hear cases brought to enforce this section",
+     "holder": "The Courts of record of the State of California",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "power",
+     "what": "The Legislature may provide reasonable and appropriate limitations on the time and manner of suits brought under this section",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s7": {
+  "review": {
+   "title": "Retirement allowances of certain elective officers",
+   "plain": "Legislators' Retirement System allowances of certain elective state officers (not judges or legislators), and of their survivors or beneficiaries, shall not be increased or affected by compensation changes on or after November 5, 1986. It states the people's intent and findings against windfall benefits.",
+   "category": "Public Officers & Employees",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "shall not be increased or affected in any manner by changes on or after November 5, 1986, in the compensation payable"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "The retirement allowance for any person whose credited service in the Legislators’ Retirement System was rendered as an elective officer of the State whose office is provided for by the California Constitution, other than a judge and other than a Member of the Senate or Assembly, and whose retirement allowance is calculated on the basis of the compensation payable to the officer holding the office which the member last held prior to retirement, or for the survivor or beneficiary of such a person, shall not be increased or affected in any manner by changes on or after November 5, 1986, in the compensation payable to the officer holding the office",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "increasing or affecting the retirement allowance in any manner by changes on or after November 5, 1986, in the compensation payable to the officer holding the office which the member last held prior to retirement"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "This section shall apply to any person, survivor, or beneficiary described in subdivision (a) who receives, or is receiving, from the Legislators’ Retirement System a retirement allowance on or after November 5, 1986, all or any part of which allowance is calculated on the basis of the compensation payable to the officer holding the office which the member last held prior to retirement",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "It is the intent of the people to restrict retirement allowances to amounts reasonably to be expected and to preserve the basic character of earned retirement benefits while prohibiting windfalls and unforeseen advantages; this section shall not be construed as a repudiation of a debt nor the impairment of a contract for a substantial and reasonable retirement allowance",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The people and the Legislature find and declare that the dramatic increase in the retirement allowances of persons described in subdivision (a) which would otherwise result when the compensation for those offices increases on November 5, 1986, or January 5, 1987, are not benefits which could have reasonably been expected",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s8": {
+  "review": {
+   "title": "California Citizens Compensation Commission",
+   "plain": "Creates a seven-member commission appointed by the Governor that establishes and adjusts the annual salary and medical, dental, insurance and similar benefits of state officers by majority resolution, sets who may serve, requires open meetings, and lists factors it shall consider.",
+   "category": "Public Officers & Employees",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No current or former officer or employee of this State is eligible for appointment to the commission",
+    "a resolution shall not be adopted or take effect in any year that increases the annual salary of any state officer"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "The California Citizens Compensation Commission is hereby created and shall consist of seven members appointed by the Governor",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The commission shall establish the annual salary and the medical, dental, insurance, and other similar benefits of state officers",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [
+      "establish the annual salary and the medical, dental, insurance, and other similar benefits of state officers"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "structure",
+     "what": "Three public members, one of whom has expertise in the area of compensation, one of whom is a member of a nonprofit public interest organization, and one of whom is representative of the general population",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "limit",
+     "what": "No person appointed pursuant to this paragraph may, during the 12 months prior to his or her appointment, have held public office, either elective or appointive, have been a candidate for elective public office, or have been a lobbyist, as defined by the Political Reform Act of 1974",
+     "holder": null,
+     "binds": "No person appointed pursuant to this paragraph",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "structure",
+     "what": "Two members who have experience in the business community, one an executive of a corporation incorporated in this State which ranks among the largest private sector employers in the State and one an owner of a small business in this State",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "structure",
+     "what": "Two members, each of whom is an officer or member of a labor organization",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Governor shall strive insofar as practicable to provide a balanced representation of the geographic, gender, racial, and ethnic diversity of the State in appointing commission members",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "The Governor shall appoint commission members and designate a chairperson for the commission not later than 30 days after the effective date of this section; within 15 days of any vacancy, the Governor shall appoint a person to serve the unexpired portion of the term",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "The terms of two of the initial appointees shall expire on December 31, 1992, two on December 31, 1994, and three on December 31, 1996, as determined by the Governor. Thereafter, the term of each member shall be six years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "limit",
+     "what": "No current or former officer or employee of this State is eligible for appointment to the commission",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "appointment of a current or former officer or employee of this State to the commission"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "Public notice shall be given of all meetings of the commission, and the meetings shall be open to the public",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "Public notice shall be given of all meetings of the commission",
+      "the meetings shall be open to the public"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "On or before December 3, 1990, the commission shall, by a single resolution adopted by a majority of the membership of the commission, establish the annual salary and the medical, dental, insurance, and other similar benefits of state officers",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "At or before the end of each fiscal year, the commission shall, by a resolution adopted by a majority of the membership of the commission, adjust the medical, dental, insurance, and other similar benefits of state officers, effective on and after the first Monday of the next December",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "duty",
+     "what": "At or before the end of each fiscal year, the commission shall adjust the annual salary of state officers by a resolution adopted by a majority of the membership of the commission, effective on and after the first Monday of the next December",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(g)",
+     "kind": "limit",
+     "what": "A resolution shall not be adopted or take effect in any year that increases the annual salary of any state officer if the Director of Finance certifies a negative balance in the Special Fund for Economic Uncertainties",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "if, on or before the immediately preceding June 1, the Director of Finance certifies to the commission, based on estimates for the current fiscal year, that there will be a negative balance on June 30 of the current fiscal year in the Special Fund for Economic Uncertainties in an amount equal to, or greater than, 1 percent of estimated General Fund revenues"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(h)",
+     "kind": "duty",
+     "what": "In establishing or adjusting the annual salary and benefits, the commission shall consider all of the following",
+     "holder": null,
+     "binds": "The commission",
+     "requires": [
+      "The amount of time directly or indirectly related to the performance of the duties, functions, and services of a state officer",
+      "The amount of the annual salary and benefits for other elected and appointed officers and officials in this State with comparable responsibilities, the judiciary, and, to the extent practicable, the private sector",
+      "The responsibility and scope of authority of the entity in which the state officer serves",
+      "Whether the Director of Finance estimates that there will be a negative balance in the Special Fund for Economic Uncertainties in an amount equal to or greater than 1 percent of estimated General Fund revenues in the current fiscal year"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(i)",
+     "kind": "structure",
+     "what": "Until a resolution establishing or adjusting the annual salary and benefits for state officers takes effect, each state officer shall continue to receive the same annual salary and benefits received previously",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(j)",
+     "kind": "structure",
+     "what": "All commission members shall receive their actual and necessary expenses, including travel expenses; each member shall be compensated at the same rate as members, other than the chairperson, of the Fair Political Practices Commission, for each day engaged in official duties, not to exceed 45 days per year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(k)",
+     "kind": "duty",
+     "what": "The Department of Personnel Administration, the Board of Administration of the Public Employees’ Retirement System, or other appropriate agencies, or their successors, shall furnish, from existing resources, staff and services to the commission as needed",
+     "holder": null,
+     "binds": "The Department of Personnel Administration, the Board of Administration of the Public Employees’ Retirement System, or other appropriate agencies, or their successors",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(l)",
+     "kind": "structure",
+     "what": "Definition of state officer",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"State officer\": the Governor, Lieutenant Governor, Attorney General, Controller, Insurance Commissioner, Secretary of State, Superintendent of Public Instruction, Treasurer, member of the State Board of Equalization, and Member of the Legislature"
+     ],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a3-s9": {
+  "review": {
+   "title": "Proceeds from sale of surplus state property",
+   "plain": "Proceeds from selling surplus state property shall be used to pay principal and interest on Economic Recovery Bond Act bonds; once those are paid, the proceeds shall go into the Special Fund for Economic Uncertainties or any successor fund.",
+   "category": "Taxes, Money & Commerce",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The proceeds from the sale of surplus state property shall be used to pay the principal and interest on bonds issued pursuant to the Economic Recovery Bond Act authorized at the March 2, 2004, statewide primary election",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "The proceeds from the sale of surplus state property occurring on or after the effective date of this section, and any proceeds from the previous sale of surplus state property that have not been expended or encumbered as of that date, shall be used to pay the principal and interest on bonds issued pursuant to the Economic Recovery Bond Act"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"surplus state property\": does not include property purchased with revenues described in Article XIX or any other special fund moneys"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Once the principal and interest on those bonds are fully paid, the proceeds from the sale of surplus state property shall be deposited into the Special Fund for Economic Uncertainties, or any successor fund",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Once the principal and interest on those bonds are fully paid"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s1": {
+  "review": {
+   "title": "Legislative power; initiative and referendum",
+   "plain": "The legislative power of California is vested in the California Legislature, made up of the Senate and Assembly, but the people reserve to themselves the powers of initiative and referendum.",
+   "category": "The Legislature",
+   "kind": "Power",
+   "rights": [],
+   "powers": [
+    "The legislative power of this State is vested in the California Legislature",
+    "the people reserve to themselves the powers of initiative and referendum"
+   ],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The legislative power of this State is vested in the California Legislature which consists of the Senate and Assembly",
+     "holder": "The California Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "power",
+     "what": "The people reserve to themselves the powers of initiative and referendum",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s1.5": {
+  "review": {
+   "title": "Findings on incumbency and term limits",
+   "plain": "The people find that incumbents' unlimited terms, own retirement system, and state-paid staff create career politicians, and declare that the powers of incumbency must be limited: retirement benefits restricted, staff and support services limited, and terms limited.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The people find and declare that the Founding Fathers established a system of representative government based upon free, fair, and competitive elections, and that the increased concentration of political power in the hands of incumbent representatives has made our electoral system less free, less competitive, and less representative",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "The people find and declare that the powers of incumbency must be limited. Retirement benefits must be restricted, state-financed incumbent staff and support services limited, and limitations placed upon the number of terms which may be served",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s2": {
+  "review": {
+   "title": "Legislature membership, terms and qualifications",
+   "plain": "The Senate has 40 members with 4-year terms and the Assembly 80 with 2-year terms. A person may serve no more than 12 years in the Legislature. Members must be electors and meet residence and citizenship requirements. The Governor shall call an election to fill a vacancy.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "a person may serve no more than 12 years in the Senate, the Assembly, or both",
+    "A person is ineligible to be a member of the Legislature"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "structure",
+     "what": "The Senate has a membership of 40 Senators elected for 4-year terms, 20 to begin every 2 years",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)",
+     "kind": "structure",
+     "what": "The Assembly has a membership of 80 members elected for 2-year terms",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(3)",
+     "kind": "structure",
+     "what": "The terms of a Senator or a Member of the Assembly shall commence on the first Monday in December next following her or his election",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(4)",
+     "kind": "limit",
+     "what": "During her or his lifetime a person may serve no more than 12 years in the Senate, the Assembly, or both, in any combination of terms",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "serving more than 12 years in the Senate, the Assembly, or both"
+     ],
+     "conditions": [
+      "This subdivision shall apply only to those Members of the Senate or the Assembly who are first elected to the Legislature after the effective date of this subdivision and who have not previously served in the Senate or Assembly"
+     ],
+     "exceptions": [
+      "Members of the Senate or Assembly who were elected before the effective date of this subdivision may serve only the number of terms allowed at the time of the last election before the effective date of this subdivision"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Election of members of the Assembly shall be on the first Tuesday after the first Monday in November of even-numbered years. Senators shall be elected at the same time and places as members of the Assembly",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless otherwise prescribed by the Legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "A person is ineligible to be a member of the Legislature unless the person is an elector and has been a resident of the legislative district for one year, and a citizen of the United States and a resident of California for 3 years, immediately preceding the election",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "the person is an elector",
+      "has been a resident of the legislative district for one year",
+      "a citizen of the United States and a resident of California for 3 years, immediately preceding the election",
+      "service of the full term of office to which the person is seeking to be elected would not exceed the maximum years of service permitted by subdivision (a)"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "duty",
+     "what": "When a vacancy occurs in the Legislature the Governor immediately shall call an election to fill the vacancy",
+     "holder": null,
+     "binds": "The Governor",
+     "requires": [
+      "immediately call an election to fill the vacancy"
+     ],
+     "forbids": [],
+     "conditions": [
+      "When a vacancy occurs in the Legislature"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s3": {
+  "review": {
+   "title": "Regular and special sessions",
+   "plain": "The Legislature shall convene in regular session on the first Monday in December of each even-numbered year and adjourns at midnight on November 30 two years later. The Governor may call a special session, limited to subjects in the proclamation and incidental matters.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the Governor by proclamation may cause the Legislature to assemble in special session",
+    "may provide for expenses and other matters incidental to the session"
+   ],
+   "limits": [
+    "has power to legislate only on subjects specified in the proclamation"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall convene in regular session at noon on the first Monday in December of each even-numbered year and each house shall immediately organize",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "Each session of the Legislature shall adjourn sine die by operation of the Constitution at midnight on November 30 of the following even-numbered year",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "power",
+     "what": "On extraordinary occasions the Governor by proclamation may cause the Legislature to assemble in special session",
+     "holder": "The Governor",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "On extraordinary occasions"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "When so assembled it has power to legislate only on subjects specified in the proclamation",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "but may provide for expenses and other matters incidental to the session"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s4": {
+  "review": {
+   "title": "Legislators' outside income, travel expenses and retirement",
+   "plain": "No Member may knowingly receive earned income from a lobbyist, lobbying firm or recent legislative contractor. Travel and living expenses are set by two-thirds statute and limited during long recesses. Legislative retirement benefits are limited.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "The Legislature may, prior to their retirement, limit the retirement benefits payable to Members of the Legislature",
+    "the Legislature may provide that no Member shall be deprived of a cost of living adjustment"
+   ],
+   "limits": [
+    "no Member of the Legislature may knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm",
+    "may not, for a period of one year following its receipt, vote upon",
+    "A Member may not receive travel and living expenses during the times that the Legislature is in recess for more than three calendar days",
+    "The Legislature may not provide retirement benefits based on any portion of a monthly salary in excess of five hundred dollars ($500)"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "No Member of the Legislature may knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm, as defined by the Political Reform Act of 1974, or from a person who, during the previous 12 months, has been under a contract with the Legislature",
+     "holder": null,
+     "binds": "Members of the Legislature",
+     "requires": [],
+     "forbids": [
+      "knowingly receive any salary, wages, commissions, or other similar earned income from a lobbyist or lobbying firm, or from a person who, during the previous 12 months, has been under a contract with the Legislature"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that define earned income",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"earned income\": does not include any community property interest in the income of a spouse"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "Any Member who knowingly receives any salary, wages, commissions, or other similar earned income from a lobbyist employer may not, for a period of one year following its receipt, vote upon or make, participate in making, or in any way attempt to use his or her official position to influence an action or decision before the Legislature which he or she knows, or has reason to know, would have a direct and significant financial impact on the lobbyist employer and would not impact the public generally or a significant segment of the public in a similar manner",
+     "holder": null,
+     "binds": "Any Member who knowingly receives earned income from a lobbyist employer",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than an action or decision involving a bill described in subdivision (c) of Section 12 of this article"
+     ],
+     "terms": [
+      "\"public generally\": includes an industry, trade, or profession"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "Travel and living expenses for Members of the Legislature in connection with their official duties shall be prescribed by statute passed by rollcall vote entered in the journal, two-thirds of the membership of each house concurring",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "A Member may not receive travel and living expenses during the times that the Legislature is in recess for more than three calendar days",
+     "holder": null,
+     "binds": "Members of the Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the Member is traveling to or from, or is in attendance at, any meeting of a committee of which he or she is a member, or a meeting, conference, or other legislative function or responsibility as authorized by the rules of the house of which he or she is a member, which is held at a location at least 20 miles from his or her place of residence"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "limit",
+     "what": "The Legislature may not provide retirement benefits based on any portion of a monthly salary in excess of five hundred dollars ($500) paid to any Member of the Legislature",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "unless the Member receives the greater amount while serving as a Member in the Legislature"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The Legislature may, prior to their retirement, limit the retirement benefits payable to Members of the Legislature who serve during or after the term commencing in 1967",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "structure",
+     "what": "When computing the retirement allowance of a Member who serves in the Legislature during the term commencing in 1967 or later, allowance may be made for increases in cost of living if so provided by statute, but only with respect to increases in the cost of living occurring after retirement of the Member",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "power",
+     "what": "The Legislature may provide that no Member shall be deprived of a cost of living adjustment based on a monthly salary of five hundred dollars ($500) which has accrued prior to the commencement of the 1967 Regular Session of the Legislature",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s4.5": {
+  "review": {
+   "title": "Legislators' Social Security; no other pension",
+   "plain": "A person elected to or serving in the Legislature on or after November 1, 1990, shall participate in Social Security, with the State paying only the employer's share. No other pension or retirement benefit shall accrue from legislative service, though vested benefits are not diminished.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "No other pension or retirement benefit shall accrue as a result of service in the Legislature",
+    "no further entitlement to nor vesting in any existing program shall accrue to any such person"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "duty",
+     "what": "A person elected to or serving in the Legislature on or after November 1, 1990, shall participate in the Federal Social Security (Retirement, Disability, Health Insurance) Program and the State shall pay only the employer’s share of the contribution necessary to such participation",
+     "holder": null,
+     "binds": "A person elected to or serving in the Legislature on or after November 1, 1990; the State",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "No other pension or retirement benefit shall accrue as a result of service in the Legislature, such service not being intended as a career occupation",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "accrual of any other pension or retirement benefit as a result of service in the Legislature"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "This Section shall not be construed to abrogate or diminish any vested pension or retirement benefit which may have accrued under an existing law to a person holding or having held office in the Legislature",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "Upon adoption of this Act no further entitlement to nor vesting in any existing program shall accrue to any such person",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than Social Security to the extent herein provided"
+     ],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s5": {
+  "review": {
+   "title": "Discipline and ethics of Members",
+   "plain": "Each house judges its Members' qualifications and elections and, by two-thirds rollcall vote, may expel or suspend a Member. Members may not accept honoraria or compensation for appearing before state boards or agencies, and the Legislature shall enact laws on gifts, lobbying and conflicts of interest.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [
+    "may expel a Member",
+    "Each house may suspend a Member",
+    "the house may deem the salary and benefits of the Member to be forfeited",
+    "the people reserve to themselves the power to implement this requirement"
+   ],
+   "limits": [
+    "shall not exercise any of the rights, privileges, duties, or powers of his or her office",
+    "No Member of the Legislature may accept any honorarium",
+    "No Member of the Legislature may knowingly accept any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any state government board or agency",
+    "the Member may not, for a period of one year following the acceptance of the compensation, vote upon"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)(1)",
+     "kind": "duty",
+     "what": "Each house of the Legislature shall judge the qualifications and elections of its Members",
+     "holder": null,
+     "binds": "Each house of the Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(1)",
+     "kind": "power",
+     "what": "Each house, by rollcall vote entered in the journal, two-thirds of the membership concurring, may expel a Member",
+     "holder": "Each house of the Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "by rollcall vote entered in the journal, two-thirds of the membership concurring"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(A)",
+     "kind": "power",
+     "what": "Each house may suspend a Member by motion or resolution adopted by rollcall vote entered in the journal, two-thirds of the membership concurring, and may deem the salary and benefits of the Member to be forfeited for all or part of the period of the suspension",
+     "holder": "Each house",
+     "binds": null,
+     "requires": [
+      "The motion or resolution shall contain findings and declarations setting forth the basis for the suspension"
+     ],
+     "forbids": [],
+     "conditions": [
+      "by rollcall vote entered in the journal, two-thirds of the membership concurring",
+      "by express provision of the motion or resolution"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(B)",
+     "kind": "limit",
+     "what": "A Member suspended shall not exercise any of the rights, privileges, duties, or powers of his or her office, or utilize any resources of the Legislature, during the period the suspension is in effect",
+     "holder": null,
+     "binds": "A Member suspended pursuant to this paragraph",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)(2)(C)",
+     "kind": "structure",
+     "what": "The suspension shall remain in effect until the date specified in the motion or resolution or, if no date is specified, the date a subsequent motion or resolution terminating the suspension is adopted by rollcall vote entered in the journal, two-thirds of the membership of the house concurring",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "No Member of the Legislature may accept any honorarium",
+     "holder": null,
+     "binds": "Members of the Legislature",
+     "requires": [],
+     "forbids": [
+      "accept any honorarium"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that implement this subdivision",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that ban or strictly limit the acceptance of a gift by a Member of the Legislature from any source if the acceptance of the gift might create a conflict of interest",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "No Member of the Legislature may knowingly accept any compensation for appearing, agreeing to appear, or taking any other action on behalf of another person before any state government board or agency",
+     "holder": null,
+     "binds": "Members of the Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "a Member may engage in activities involving a board or agency which are strictly on his or her own behalf, appear in the capacity of an attorney before any court or the Workers’ Compensation Appeals Board, or act as an advocate without compensation or make an inquiry for information on behalf of a person before a board or agency",
+      "This subdivision does not prohibit any action of a partnership or firm of which the Member is a member if the Member does not share directly or indirectly in the fee"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "If a Member knowingly accepts any compensation for appearing on behalf of another person before any local government board or agency, the Member may not, for a period of one year following the acceptance of the compensation, vote upon or make, participate in making, or in any way attempt to use his or her official position to influence an action or decision before the Legislature which he or she knows, or has reason to know, would have a direct and significant financial impact on that person and would not impact the public generally or a significant segment of the public in a similar manner",
+     "holder": null,
+     "binds": "A Member who knowingly accepts compensation for appearing before any local government board or agency",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than an action or decision involving a bill described in subdivision (c) of Section 12"
+     ],
+     "terms": [
+      "\"public generally\": includes an industry, trade, or profession"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(e)",
+     "kind": "duty",
+     "what": "The Legislature shall enact laws that prohibit a Member of the Legislature whose term of office commences on or after December 3, 1990, from lobbying, for compensation, before the Legislature for 12 months after leaving office",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "duty",
+     "what": "The Legislature shall enact new laws, and strengthen the enforcement of existing laws, prohibiting Members of the Legislature from engaging in activities or having interests which conflict with the proper discharge of their duties and responsibilities",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(f)",
+     "kind": "power",
+     "what": "The people reserve to themselves the power to implement this requirement pursuant to Article II",
+     "holder": "The people",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s6": {
+  "review": {
+   "title": "Senate and Assembly districts",
+   "plain": "For choosing members of the Legislature, the State is divided into 40 Senatorial and 80 Assembly districts; each Senatorial district chooses one Senator and each Assembly district one member of the Assembly.",
+   "category": "Voting & Elections",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [],
+   "limits": []
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "For the purpose of choosing members of the Legislature, the State shall be divided into 40 Senatorial and 80 Assembly districts to be called Senatorial and Assembly Districts",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "Each Senatorial district shall choose one Senator and each Assembly district shall choose one member of the Assembly",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s7": {
+  "review": {
+   "title": "Legislative proceedings, journals and open sessions",
+   "plain": "Each house chooses its officers, adopts rules and keeps a journal. Proceedings shall be open and public, and any person may record and broadcast them; the Legislature shall post recordings online. Closed sessions are allowed only for listed purposes and party caucuses.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [
+    "The right to attend open and public proceedings",
+    "the right of any person to record by audio or video means any and all parts of the proceedings",
+    "shall have standing to challenge said rules"
+   ],
+   "powers": [
+    "may recess from day to day and compel the attendance of absent members",
+    "the Legislature may adopt reasonable rules pursuant to paragraph (5)",
+    "closed sessions may be held solely for any of the following purposes",
+    "may meet in closed session"
+   ],
+   "limits": [
+    "Neither house without the consent of the other may recess for more than 10 days or to any other place"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "duty",
+     "what": "Each house shall choose its officers and adopt rules for its proceedings",
+     "holder": null,
+     "binds": "Each house",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "structure",
+     "what": "A majority of the membership constitutes a quorum",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(a)",
+     "kind": "power",
+     "what": "A smaller number may recess from day to day and compel the attendance of absent members",
+     "holder": "A smaller number than a quorum",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "duty",
+     "what": "Each house shall keep and publish a journal of its proceedings",
+     "holder": null,
+     "binds": "Each house",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "structure",
+     "what": "The rollcall vote of the members on a question shall be taken and entered in the journal at the request of 3 members present",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "at the request of 3 members present"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "right",
+     "what": "The proceedings of each house and the committees thereof shall be open and public. The right to attend open and public proceedings includes the right of any person to record by audio or video means any and all parts of the proceedings and to broadcast or otherwise transmit them",
+     "holder": "Any person",
+     "binds": "Each house and the committees thereof",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in paragraph (3)"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "power",
+     "what": "The Legislature may adopt reasonable rules pursuant to paragraph (5) regulating the placement and use of the equipment for recording or broadcasting the proceedings for the sole purpose of minimizing disruption of the proceedings",
+     "holder": "The Legislature",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "for the sole purpose of minimizing disruption of the proceedings"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "right",
+     "what": "Any aggrieved party shall have standing to challenge said rules in an action for declaratory and injunctive relief, and the Legislature shall have the burden of demonstrating that the rule is reasonable",
+     "holder": "Any aggrieved party",
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "duty",
+     "what": "The Legislature shall cause audiovisual recordings to be made of all proceedings subject to paragraph (1) in their entirety, shall make such recordings public through the Internet within 24 hours after the proceedings have been recessed or adjourned for the day, and shall maintain an archive of said recordings accessible to the public through the Internet and downloadable for a period of no less than 20 years",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "Commencing on January 1 of the second calendar year following the adoption of this paragraph"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "power",
+     "what": "Closed sessions may be held solely for any of the following purposes",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "To consider the appointment, employment, evaluation of performance, or dismissal of a public officer or employee, to consider or hear complaints or charges brought against a Member of the Legislature or other public officer or employee, or to establish the classification or compensation of an employee of the Legislature",
+      "To consider matters affecting the safety and security of Members of the Legislature or its employees or the safety and security of any buildings and grounds used by the Legislature",
+      "To confer with, or receive advice from, its legal counsel regarding pending or reasonably anticipated, or whether to initiate, litigation when discussion in open session would not protect the interests of the house or committee regarding the litigation"
+     ],
+     "forbids": [],
+     "conditions": [
+      "Notwithstanding paragraphs (1) and (2)"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(4)",
+     "kind": "power",
+     "what": "A caucus of the Members of the Senate, the Members of the Assembly, or the Members of both houses, which is composed of the members of the same political party, may meet in closed session",
+     "holder": "A caucus composed of the members of the same political party",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)",
+     "kind": "duty",
+     "what": "The Legislature shall implement this subdivision by concurrent resolution adopted by rollcall vote entered in the journal, two-thirds of the membership of each house concurring, or by statute, and in the case of a closed session held pursuant to paragraph (3), shall prescribe that reasonable notice of the closed session and the purpose of the closed session shall be provided to the public",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(5)",
+     "kind": "structure",
+     "what": "If there is a conflict between a concurrent resolution and statute, the last adopted or enacted shall prevail",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "Neither house without the consent of the other may recess for more than 10 days or to any other place",
+     "holder": null,
+     "binds": "Each house",
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "without the consent of the other"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s7.5": {
+  "review": {
+   "title": "Limit on Legislature's spending",
+   "plain": "The Legislature's total spending on member and employee compensation and operating expenses may not exceed, in the first fiscal year after adoption, $950,000 per member or 80 percent of the prior year's amount, whichever is less; afterward, the prior year's amount adjusted by the State appropriations limit.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "may not exceed an amount equal to nine hundred fifty thousand dollars ($950,000) per member",
+    "the total aggregate expenditures may not exceed an amount equal to that expended for those purposes in the preceding fiscal year"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "In the fiscal year immediately following the adoption of this Act, the total aggregate expenditures of the Legislature for the compensation of members and employees of, and the operating expenses and equipment for, the Legislature may not exceed an amount equal to nine hundred fifty thousand dollars ($950,000) per member for that fiscal year or 80 percent of the amount of money expended for those purposes in the preceding fiscal year, whichever is less",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "For each fiscal year thereafter, the total aggregate expenditures may not exceed an amount equal to that expended for those purposes in the preceding fiscal year, adjusted and compounded by an amount equal to the percentage increase in the appropriations limit for the State established pursuant to Article XIII B",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s8": {
+  "review": {
+   "title": "Passing bills; when statutes take effect",
+   "plain": "At regular sessions no bill but the budget bill may be acted on until the 31st day after introduction. Bills must be read on 3 days, published online 72 hours before the vote, and passed by a majority of each house. It sets when statutes take effect.",
+   "category": "The Legislature",
+   "kind": "Structure",
+   "rights": [],
+   "powers": [
+    "the house may dispense with this requirement"
+   ],
+   "limits": [
+    "no bill other than the budget bill may be heard or acted on by committee or either house until the 31st day after the bill is introduced",
+    "The Legislature may make no law except by statute and may enact no statute except by bill",
+    "No bill may be passed unless it is read by title on 3 days in each house",
+    "No bill may be passed or ultimately become a statute unless the bill with any amendments has been printed, distributed to the members, and published on the Internet",
+    "No bill may be passed unless, by rollcall vote entered in the journal, a majority of the membership of each house concurs",
+    "An urgency statute may not create or abolish any office"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "At regular sessions no bill other than the budget bill may be heard or acted on by committee or either house until the 31st day after the bill is introduced",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "At regular sessions"
+     ],
+     "exceptions": [
+      "unless the house dispenses with this requirement by rollcall vote entered in the journal, three fourths of the membership concurring"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "limit",
+     "what": "The Legislature may make no law except by statute and may enact no statute except by bill",
+     "holder": null,
+     "binds": "The Legislature",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "limit",
+     "what": "No bill may be passed unless it is read by title on 3 days in each house",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "the house may dispense with this requirement by rollcall vote entered in the journal, two thirds of the membership concurring"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(1)",
+     "kind": "power",
+     "what": "The house may dispense with the 3-day reading requirement by rollcall vote entered in the journal, two thirds of the membership concurring",
+     "holder": "Each house",
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(2)",
+     "kind": "limit",
+     "what": "No bill may be passed or ultimately become a statute unless the bill with any amendments has been printed, distributed to the members, and published on the Internet, in its final form, for at least 72 hours before the vote",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "this notice period may be waived if the Governor has submitted to the Legislature a written statement that dispensing with this notice period for that bill is necessary to address a state of emergency, as defined in paragraph (2) of subdivision (c) of Section 3 of Article XIII B, that has been declared by the Governor, and the house considering the bill thereafter dispenses with the notice period for that bill by a separate rollcall vote entered in the journal, two thirds of the membership concurring, prior to the vote on the bill"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)(3)",
+     "kind": "limit",
+     "what": "No bill may be passed unless, by rollcall vote entered in the journal, a majority of the membership of each house concurs",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(1)",
+     "kind": "structure",
+     "what": "A statute enacted at a regular session shall go into effect on January 1 next following a 90-day period from the date of enactment of the statute and a statute enacted at a special session shall go into effect on the 91st day after adjournment of the special session at which the bill was passed",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "Except as provided in paragraphs (2) and (3) of this subdivision"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(2)",
+     "kind": "structure",
+     "what": "A statute enacted by a bill passed by the Legislature on or before the date the Legislature adjourns for a joint recess to reconvene in the second calendar year of the biennium, and in the possession of the Governor after that date, shall go into effect on January 1 next following the enactment date of the statute",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [
+      "other than a statute establishing or changing boundaries of any legislative, congressional, or other election district",
+      "unless, before January 1, a copy of a referendum petition affecting the statute is submitted to the Attorney General pursuant to subdivision (d) of Section 10 of Article II, in which event the statute shall go into effect on the 91st day after the enactment date unless the petition has been presented to the Secretary of State pursuant to subdivision (b) of Section 9 of Article II"
+     ],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(c)(3)",
+     "kind": "structure",
+     "what": "Statutes calling elections, statutes providing for tax levies or appropriations for the usual current expenses of the State, and urgency statutes shall go into effect immediately upon their enactment",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "structure",
+     "what": "A statement of facts constituting the necessity shall be set forth in one section of the bill. In each house the section and the bill shall be passed separately, each by rollcall vote entered in the journal, two thirds of the membership concurring",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "A statement of facts constituting the necessity shall be set forth in one section of the bill",
+      "In each house the section and the bill shall be passed separately, each by rollcall vote entered in the journal, two thirds of the membership concurring"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [
+      "\"Urgency statutes\": those necessary for immediate preservation of the public peace, health, or safety"
+     ],
+     "changedBy": []
+    },
+    {
+     "where": "(d)",
+     "kind": "limit",
+     "what": "An urgency statute may not create or abolish any office or change the salary, term, or duties of any office, or grant any franchise or special privilege, or create any vested right or interest",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [
+      "create or abolish any office",
+      "change the salary, term, or duties of any office",
+      "grant any franchise or special privilege",
+      "create any vested right or interest"
+     ],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s8.5": {
+  "review": {
+   "title": "Limits on measures submitted to voters",
+   "plain": "An act amending an initiative statute, a bond act, or a legislative constitutional amendment submitted to voters may not include or exclude a political subdivision based on how its electors vote, or contain alternative or cumulative provisions that depend on a specified percentage of votes.",
+   "category": "Voting & Elections",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "Include or exclude any political subdivision of the State from the application or effect of its provisions",
+    "Contain alternative or cumulative provisions"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "(a)",
+     "kind": "limit",
+     "what": "An act amending an initiative statute, an act providing for the issuance of bonds, or a constitutional amendment proposed by the Legislature and submitted to the voters for approval may not include or exclude any political subdivision of the State from the application or effect of its provisions based upon approval or disapproval of the measure, or based upon the casting of a specified percentage of votes in favor of the measure, by the electors of that political subdivision",
+     "holder": null,
+     "binds": "An act amending an initiative statute, an act providing for the issuance of bonds, or a constitutional amendment proposed by the Legislature and submitted to the voters",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "(b)",
+     "kind": "limit",
+     "what": "Such an act or amendment may not contain alternative or cumulative provisions wherein one or more of those provisions would become law depending upon the casting of a specified percentage of votes for or against the measure",
+     "holder": null,
+     "binds": "An act amending an initiative statute, an act providing for the issuance of bonds, or a constitutional amendment proposed by the Legislature and submitted to the voters",
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ },
+ "a4-s9": {
+  "review": {
+   "title": "Single subject and amending statutes",
+   "plain": "A statute shall embrace but one subject, expressed in its title; any part whose subject is not expressed in the title is void. A statute may not be amended by reference to its title, and a section may not be amended unless re-enacted as amended.",
+   "category": "The Legislature",
+   "kind": "Limit",
+   "rights": [],
+   "powers": [],
+   "limits": [
+    "A statute shall embrace but one subject",
+    "A statute may not be amended by reference to its title",
+    "A section of a statute may not be amended unless the section is re-enacted as amended"
+   ]
+  },
+  "elements": {
+   "provisions": [
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A statute shall embrace but one subject, which shall be expressed in its title",
+     "holder": null,
+     "binds": null,
+     "requires": [
+      "embrace but one subject",
+      "which shall be expressed in its title"
+     ],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "structure",
+     "what": "If a statute embraces a subject not expressed in its title, only the part not expressed is void",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "If a statute embraces a subject not expressed in its title"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A statute may not be amended by reference to its title",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    },
+    {
+     "where": "",
+     "kind": "limit",
+     "what": "A section of a statute may not be amended unless the section is re-enacted as amended",
+     "holder": null,
+     "binds": null,
+     "requires": [],
+     "forbids": [],
+     "conditions": [
+      "unless the section is re-enacted as amended"
+     ],
+     "exceptions": [],
+     "terms": [],
+     "changedBy": []
+    }
+   ]
+  }
+ }
+}
