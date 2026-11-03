@@ -30,7 +30,7 @@ if MA:
 chap_link = lambda n, t: f'<a href="https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter{n}" target="_blank" rel="noopener" title="Chapter {n}: official text on malegislature.gov">{"Chapter" if len(ma_chapters) == 1 else ""} {n} ({t})</a>'.replace("> ", ">")
 chap_list = (lambda xs: xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1])([chap_link(n, t) for n, t in ma_chapters.items()]) if ma_chapters else ""
 MA_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="constitution/">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">Massachusetts</a><a href="../ny/">New York</a><a href="../ca/">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="constitution/">Constitution</a><a href="./" aria-current="page">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ca/">California</a><a href="../ny/">New York</a><a href="./" aria-current="page">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every crime in {"" if len(ma_chapters) == 1 else "chapters "}{chap_list} of the <a href="https://malegislature.gov/Laws/GeneralLaws" target="_blank" rel="noopener" title="The General Laws on malegislature.gov">Massachusetts General Laws</a><span id="crimecount"></span></p>',
     "about": """
           <p>Massachusetts criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More chapters of the criminal code will follow.</p>
@@ -52,7 +52,7 @@ MA_REGIONS = {
 # California list page: the same regions, for Titles 8 and 13 of Part 1 of the Penal Code.
 CA_TITLE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&division=&title={}.&part=1.&chapter=&article="
 CA_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="constitution/">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="../ny/">New York</a><a href="./" aria-current="page">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="constitution/">Constitution</a><a href="./" aria-current="page">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="./" aria-current="page">California</a><a href="../ny/">New York</a><a href="../ma/">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every crime in <a href="{CA_TITLE_URL.format(8)}" target="_blank" rel="noopener" title="Title 8 (Of Crimes Against the Person): official text on leginfo.legislature.ca.gov">Title 8 (Of Crimes Against the Person)</a> and <a href="{CA_TITLE_URL.format(13)}" target="_blank" rel="noopener" title="Title 13 (Of Crimes Against Property): official text on leginfo.legislature.ca.gov">Title 13 (Of Crimes Against Property)</a> of the <a href="https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PEN" target="_blank" rel="noopener" title="The Penal Code on leginfo.legislature.ca.gov">California Penal Code</a><span id="crimecount"></span></p>',
     "about": """
           <p>California criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Code may follow.</p>
@@ -73,7 +73,7 @@ CA_REGIONS = {
 # New York list page: the same regions, for Titles H, I and J of Part 3 of the Penal Law.
 NY_URL = "https://www.nysenate.gov/legislation/laws/PEN/"
 NY_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Crimes</a><a href="constitution/">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ma/">Massachusetts</a><a href="./" aria-current="page">New York</a><a href="../ca/">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="constitution/">Constitution</a><a href="./" aria-current="page">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../">Federal</a><a href="../ca/">California</a><a href="./" aria-current="page">New York</a><a href="../ma/">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every crime in <a href="{NY_URL}P3TH" target="_blank" rel="noopener" title="Title H, Offenses Against the Person Involving Physical Injury, Sexual Conduct, Restraint and Intimidation: official text on nysenate.gov">Title H (Offenses Against the Person)</a>, <a href="{NY_URL}P3TI" target="_blank" rel="noopener" title="Title I, Offenses Involving Damage to and Intrusion Upon Property: official text on nysenate.gov">Title I (Property Damage and Intrusion)</a> and <a href="{NY_URL}P3TJ" target="_blank" rel="noopener" title="Title J, Offenses Involving Theft: official text on nysenate.gov">Title J (Theft)</a> of the <a href="https://www.nysenate.gov/legislation/laws/PEN" target="_blank" rel="noopener" title="The Penal Law on nysenate.gov">New York Penal Law</a><span id="crimecount"></span></p>',
     "about": """
           <p>New York criminal law in its official text, annotated. Each section is color-coded to show the prohibited act, the mental state the law requires, and the penalty, and references to other sections link to them. <span id="edition"></span> More of the Penal Law may follow.</p>
@@ -94,7 +94,7 @@ NY_REGIONS = {
 # The Constitution of the United States (--jur con): constitution/index.html and constitution/<provision>.html.
 CON_SRC = "https://www.govinfo.gov/content/pkg/CDOC-110hdoc50/html/CDOC-110hdoc50.htm"
 CON_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">United States</a><a href="../ma/constitution/">Massachusetts</a><a href="../ny/constitution/">New York</a><a href="../ca/constitution/">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Constitution</a><a href="../">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="./" aria-current="page">United States</a><a href="../ca/constitution/">California</a><a href="../ny/constitution/">New York</a><a href="../ma/constitution/">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every provision of the <a href="{CON_SRC}" target="_blank" rel="noopener" title="The Constitution of the United States of America, As Amended (House Document 110-50): official text on GovInfo">Constitution of the United States</a> and its 27 amendments<span id="crimecount"></span></p>',
     "about": """
           <p>The Constitution of the United States in its official text, annotated. Each provision is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
@@ -114,7 +114,7 @@ CON_REGIONS = {
 # The Constitution of the Commonwealth of Massachusetts (--jur macon): ma/constitution/index.html and ma/constitution/<provision>.html.
 MACON_SRC = "https://malegislature.gov/Laws/Constitution"
 MACON_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="./" aria-current="page">Massachusetts</a><a href="../../ny/constitution/">New York</a><a href="../../ca/constitution/">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Constitution</a><a href="../">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="../../ca/constitution/">California</a><a href="../../ny/constitution/">New York</a><a href="./" aria-current="page">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every provision of the <a href="{MACON_SRC}" target="_blank" rel="noopener" title="The Constitution of the Commonwealth of Massachusetts: official text on malegislature.gov">Constitution of the Commonwealth of Massachusetts</a>: the Declaration of Rights, the Frame of Government and the Articles of Amendment<span id="crimecount"></span></p>',
     "about": """
           <p>The Massachusetts Constitution of 1780, the oldest written constitution still in use, in its official text and annotated. Each provision is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
@@ -134,7 +134,7 @@ MACON_REGIONS = {
 # The Constitution of the State of New York (--jur nycon): ny/constitution/index.html and ny/constitution/<provision>.html.
 NYCON_SRC = "https://www.nysenate.gov/legislation/laws/CNS"
 NYCON_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="../../ma/constitution/">Massachusetts</a><a href="./" aria-current="page">New York</a><a href="../../ca/constitution/">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Constitution</a><a href="../">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="../../ca/constitution/">California</a><a href="./" aria-current="page">New York</a><a href="../../ma/constitution/">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every section of the <a href="{NYCON_SRC}" target="_blank" rel="noopener" title="The Constitution of the State of New York: official text on nysenate.gov">Constitution of the State of New York</a><span id="crimecount"></span></p>',
     "about": """
           <p>The New York State Constitution in its official text, annotated. Each section is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
@@ -153,7 +153,7 @@ NYCON_REGIONS = {
 # The California Constitution (--jur cacon): ca/constitution/index.html and ca/constitution/<provision>.html.
 CACON_SRC = "https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS"
 CACON_REGIONS = {
-    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="../">Crimes</a><a href="./" aria-current="page">Constitution</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="../../ma/constitution/">Massachusetts</a><a href="../../ny/constitution/">New York</a><a href="./" aria-current="page">California</a></nav>',
+    "nav": '<nav class="jurnav docnav" aria-label="Law"><a href="./" aria-current="page">Constitution</a><a href="../">Crimes</a></nav><nav class="jurnav" aria-label="Jurisdiction"><a href="../../constitution/">United States</a><a href="./" aria-current="page">California</a><a href="../../ny/constitution/">New York</a><a href="../../ma/constitution/">Massachusetts</a></nav>',
     "lede": f'<p class="lede">Every section of the <a href="{CACON_SRC}" target="_blank" rel="noopener" title="The California Constitution: official text on leginfo.legislature.ca.gov">California Constitution</a><span id="crimecount"></span></p>',
     "about": """
           <p>The California Constitution in its official text, annotated. Each section is color-coded to show the rights it guarantees, the powers it grants and the limits it sets, and broken into its parts. <span id="edition"></span></p>
@@ -370,5 +370,6 @@ rel = sorted(os.path.relpath(f, HERE) for f in glob.glob(os.path.join(HERE, "18"
 urls = [BASE_URL, BASE_URL + "feedback.html", BASE_URL + "ma/"] + ([BASE_URL + "ca/"] if os.path.exists(os.path.join(HERE, "ca", "index.html")) else []) + ([BASE_URL + "ny/"] if os.path.exists(os.path.join(HERE, "ny", "index.html")) else []) + ([BASE_URL + "constitution/"] if os.path.exists(os.path.join(HERE, "constitution", "index.html")) else []) + ([BASE_URL + "ma/constitution/"] if os.path.exists(os.path.join(HERE, "ma", "constitution", "index.html")) else []) + ([BASE_URL + "ny/constitution/"] if os.path.exists(os.path.join(HERE, "ny", "constitution", "index.html")) else []) + ([BASE_URL + "ca/constitution/"] if os.path.exists(os.path.join(HERE, "ca", "constitution", "index.html")) else []) + [BASE_URL + r for r in rel]
 open(os.path.join(HERE, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                                    + "".join(f"  <url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
-open(os.path.join(HERE, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n")
+raw_dirs = sorted({os.path.relpath(d, HERE) + "/" for d in glob.glob(os.path.join(HERE, "**", "raw"), recursive=True)})   # downloaded source copies, not site pages
+open(os.path.join(HERE, "robots.txt"), "w").write("User-agent: *\nAllow: /\n" + "".join(f"Disallow: /{d}\n" for d in raw_dirs) + f"Sitemap: {BASE_URL}sitemap.xml\n")
 print(f"wrote {len(pages)} section pages{f' and {DIR}/index.html' if STATE else ''}, assets/site.css, assets/page.js, sitemap.xml ({len(urls)} URLs), robots.txt")

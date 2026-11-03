@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /ca/constitution/raw/
+Disallow: /ca/raw/
+Disallow: /constitution/raw/
+Disallow: /ma/constitution/raw/
+Disallow: /ma/raw/
+Disallow: /ny/constitution/raw/
+Disallow: /ny/raw/
 Sitemap: https://simplelaw.wiki/sitemap.xml
