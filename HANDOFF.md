@@ -2,7 +2,8 @@
 
 Notes for picking this project up in a new Claude Code session or account. Read this first, then `README.md` (files and build commands).
 
-- **Live site:** https://crimes.wiki/ (Federal), https://crimes.wiki/ma/ (Massachusetts), https://crimes.wiki/ny/ (New York), https://crimes.wiki/ca/ (California)
+- **Live site:** https://simplelaw.wiki/ (Federal), https://simplelaw.wiki/ma/ (Massachusetts), https://simplelaw.wiki/ny/ (New York), https://simplelaw.wiki/ca/ (California)
+- **Domain:** `simplelaw.wiki` (set in `CNAME` and `BASE_URL` in `build_pages.py`). The old domain `crimes.wiki` forwards to it with a redirect at the registrar, not on GitHub Pages.
 - **Repo:** https://github.com/moqri/crimes-explained (public, GitHub Pages from `main`, root folder)
 - **Local copies:** `/Users/mahdimoqri/ai/usc18` on one Mac, `/Users/admin/ai/usc18` on another (the paths below use the first; use whichever copy you are in). `ny/.api_key` is gitignored, so each machine needs its own copy of the key.
 - **State as of 2026-10-05:** everything is committed and pushed. Nothing is running except possibly a local server.
@@ -55,7 +56,7 @@ Other Title-level work not done: more of the Penal Code (Title 9 sex crimes 261+
 
 ## U.S. Constitution (`constitution/`)
 
-Started 2026-10-06 at the user's request: expand to the federal and state constitutions, U.S. first, on the same site (`crimes.wiki/constitution/`), annotated for rights, powers and limits. Every list page has a "Crimes | U.S. Constitution" switch (`docnav`) above the jurisdiction switch.
+Started 2026-10-06 at the user's request: expand to the federal and state constitutions, U.S. first, on the same site (`simplelaw.wiki/constitution/`), annotated for rights, powers and limits. Every list page has a "Crimes | U.S. Constitution" switch (`docnav`) above the jurisdiction switch.
 
 - **Source:** GovInfo, *The Constitution of the United States of America, As Amended* (House Document 110-50, GPO 2007; no amendment since). `python3 constitution/fetch_con.py` saves `constitution/raw/us.htm` (plain text in `<pre>`).
 - **Units (74 provisions):** the Preamble, each section of Articles I-IV, Articles V-VII, and each amendment or amendment section. Ids `preamble`, `art1-s8`, `art5`, `amend1`, `amend14-s1` (also the page file names). Parts (`chapter`): `pre`, `1`-`7`, `BR` (Amendments I-X), `AM` (XI-XXVII). Clause numbers of the GPO print become paragraph labels `[3]`; GPO notes ("This clause has been affected by amendment XVII") become footnotes, with the clause each is attached to (`noteClauses`). The signatures and the unratified amendments are left out. Amendments carry their proposal and ratification note as `source`.
