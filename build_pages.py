@@ -319,6 +319,7 @@ def page(i, p):
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Mahdi Moqri">
   <title>{html.escape(title)}</title>
   <meta name="description" content="{html.escape(desc)}">
   <link rel="canonical" href="{page_url}">
@@ -348,7 +349,8 @@ def page(i, p):
     <span class="pn">{nav(prev_p, "prev")}{nav(next_p, "next")}</span>
   </nav>
   <footer><p>{source} Highlighting, {"breakdowns" if CON else "crime breakdowns"}, and labels were prepared with AI assistance and may contain errors; rely on the official text. <b>This is general information, not legal advice.</b></p>
-  <p>Found a mistake? <a href="{html.escape(report)}" target="_blank" rel="noopener">Report an error on this section</a> · <a href="{UP}feedback.html">Other feedback</a></p></footer>
+  <p>Found a mistake? <a href="{html.escape(report)}" target="_blank" rel="noopener">Report an error on this section</a> · <a href="{UP}feedback.html">Other feedback</a></p>
+  <p>Created and maintained by Mahdi Moqri · <a href="https://github.com/moqri/crimes-explained" target="_blank" rel="noopener">Source on GitHub</a></p></footer>
 </main>
 <div id="pop" role="tooltip"></div>
 <script src="{UP}assets/page.js"></script>
