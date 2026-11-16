@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Mahdi Moqri">
+  <script>
+    // Visitors arriving at the site root from outside start on the U.S. Constitution. The Crimes tab
+    // (a same-site link) and old #sec-… links still open the federal crimes list.
+    (function () {
+      var p = location.pathname;
+      if ((p !== "/" && p !== "/index.html") || location.hash) return;
+      try { if (document.referrer && new URL(document.referrer).host === location.host) return; } catch (e) {}
+      location.replace("/constitution/" + location.search);
+    })();
+  </script>
   <title>New York Constitution</title>
   <style>
     :root {
